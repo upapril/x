@@ -1,0 +1,130 @@
+{
+  "collected_at_utc": "2026-11-24T11:37:50Z",
+  "collected_at_shanghai": "2026-11-24T19:37:50+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86NHH8ZHARF110YECWR67MQ.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2023-11-01T00:00:00Z",
+    "end_time": "2023-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-11"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "created_at": "2023-11-30T20:32:06.000Z",
+      "edit_history_tweet_ids": [
+        "1730323843657630109"
+      ],
+      "id": "1730323843657630109",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 9664
+      },
+      "referenced_tweets": [
+        {
+          "id": "1729954264540156295",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Tesla: Cybertruck Delivery Event https://t.co/rWd111HvHc",
+      "url": "https://x.com/iiiinvest/status/1730323843657630109"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "created_at": "2023-11-06T14:57:07.000Z",
+      "edit_history_tweet_ids": [
+        "1721542230031433751"
+      ],
+      "id": "1721542230031433751",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 61
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721112285094305896",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @zhufengme: 公司银行账户的借记卡也收到了，至此整个美国公司设立和开立银行账户的流程就都跑完了。其实实体卡不是必须的，不过我想既然有还是申领了一张。除了申请公司时找了一个当地代理花了连同政府费用共150刀外，其余几乎没有花钱，每个人都可以自己做到，其实就是看清楚…",
+      "url": "https://x.com/iiiinvest/status/1721542230031433751"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "13298072",
+        "created_at": "2023-11-29T20:03:32.000Z",
+        "edit_history_tweet_ids": [
+          "1729954264540156295"
+        ],
+        "id": "1729954264540156295",
+        "public_metrics": {
+          "bookmark_count": 2910,
+          "impression_count": 26547528,
+          "like_count": 28150,
+          "quote_count": 1207,
+          "reply_count": 3205,
+          "retweet_count": 9664
+        },
+        "text": "Cybertruck Delivery Event https://t.co/rWd111HvHc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1721112273316409344"
+          ]
+        },
+        "author_id": "31635898",
+        "created_at": "2023-11-05T10:28:40.000Z",
+        "edit_history_tweet_ids": [
+          "1721112285094305896"
+        ],
+        "id": "1721112285094305896",
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 287237,
+          "like_count": 475,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 61
+        },
+        "text": "公司银行账户的借记卡也收到了，至此整个美国公司设立和开立银行账户的流程就都跑完了。其实实体卡不是必须的，不过我想既然有还是申领了一张。除了申请公司时找了一个当地代理花了连同政府费用共150刀外，其余几乎没有花钱，每个人都可以自己做到，其实就是看清楚文档，注意不要自作聪明走捷径就好了 https://t.co/rQ0faOaPPC"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "public_metrics": {
+          "followers_count": 56906,
+          "following_count": 39,
+          "like_count": 3998,
+          "listed_count": 529,
+          "media_count": 436,
+          "tweet_count": 4858
+        },
+        "username": "iiiinvest"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1730323843657630109",
+    "next_token": "b26v89c19zqg8o3fr5hdvfm6n7scaynxq2bhqdsvv5dvh",
+    "oldest_id": "1721542230031433751",
+    "result_count": 2
+  },
+  "errors": []
+}

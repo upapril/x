@@ -1,71 +1,58 @@
-# Coverage manifest: @iiiinvest
+# Coverage manifest — @iiiinvest
 
-- Collection pass completed: 2026-11-24 19:09:28 GMT+8 (Asia/Shanghai) / 2026-11-24T11:09:28Z UTC
-- User id: `1589763597705437184`
-- Profile: https://x.com/iiiinvest
-- Account created: 2022-11-07T23:36:06.000Z UTC
-- Protected: False
-- Profile `post_count` at lookup: **4858**
-- Unique posts retrieved this pass: **366** (7.53% of the reported count)
-- Completeness claim: **no** — this is a bounded first pass
-- Retrieved span (UTC): 2022-11-27T13:36:12.000Z → 2026-11-24T09:50:06.000Z
-- Types: {'original': 129, 'reply': 162, 'quote': 46, 'repost': 29}
-- API pages stored: 15 (`{'get_users_posts': 3, 'search_posts_all': 12}`)
+**Packaged:** 2026-11-24 19:44:01 GMT+8 (Asia/Shanghai, GMT+8).
 
-## End conditions
+This account folder is **not** a complete public history. Profile `post_count` is a platform lifetime figure, not proof that a remainder still exists or is retrievable.
 
-- get_users_posts was only advanced 3 pages (still had next_token); recent November 2026 is the dense timeline sample, not a complete timeline.
-- search_posts_all year/quarter windows generally still have next_token; stopped after 1-2 pages per window.
-- No posts retrieved between account creation 2022-11-07 and 2022-11-27 in this pass (window 2022-11-07 to 2022-12-07 still had next_token after one page ending 2022-11-27).
+## Stored corpus (deduplicated by string id)
 
-## Counts by year
+- Unique posts stored: **736**
+- Profile `post_count` at first lookup (24 Nov 2026): 4858
+- Span (UTC): `2022-11-22T08:48:28.000Z` → `2026-11-24T09:50:06.000Z`
+- Span (Asia/Shanghai, GMT+8): 2022-11-22 16:48:28 GMT+8 → 2026-11-24 17:50:06 GMT+8
+- Types: original 172, reply 480, quote 48, repost 36
+- Earliest stored: [1594976093844303872](https://x.com/iiiinvest/status/1594976093844303872)
+- Latest stored: [2125165053078839443](https://x.com/iiiinvest/status/2125165053078839443)
 
-| Year | Retrieved posts |
+### Posts by UTC year
+
+| Year | Stored |
 |---|---:|
-| 2022 | 50 |
-| 2023 | 25 |
+| 2022 | 408 |
+| 2023 | 37 |
 | 2024 | 21 |
 | 2025 | 69 |
 | 2026 | 201 |
 
-## Counts by year-month (retrieved only)
+## Expand-pass window status
 
-| Year-month | n |
-|---|---:|
-| 2022-11 | 13 |
-| 2022-12 | 37 |
-| 2023-06 | 3 |
-| 2023-08 | 13 |
-| 2023-09 | 3 |
-| 2023-10 | 4 |
-| 2023-11 | 2 |
-| 2024-03 | 1 |
-| 2024-04 | 3 |
-| 2024-06 | 1 |
-| 2024-07 | 1 |
-| 2024-11 | 14 |
-| 2024-12 | 1 |
-| 2025-03 | 25 |
-| 2025-05 | 20 |
-| 2025-06 | 5 |
-| 2025-07 | 13 |
-| 2025-09 | 6 |
-| 2026-03 | 25 |
-| 2026-06 | 25 |
-| 2026-09 | 25 |
-| 2026-10 | 1 |
-| 2026-11 | 125 |
+Status counts: `exhausted` 17, `open` 2, `pending` 30
 
-## Months in the account lifetime with **zero** retrieved posts this pass
+Expand pass used fresh monthly `search_posts_all` windows (`from:<handle>`, `sort_order=recency`, `max_results=25`). Later pages store query, window bounds, input token, and output `next_token`. If an output token equals the input token on a duplicate page, the window is marked `pagination_stalled` and is not reused; the earlier remainder is opened as a subwindow.
 
-26 months. This includes both months that may truly have had no posts and months not sampled or not fully paged.
+### Open, stalled, or not-proven-exhausted windows (resumable)
 
-2023-01, 2023-02, 2023-03, 2023-04, 2023-05, 2023-07, 2023-12, 2024-01, 2024-02, 2024-05, 2024-08, 2024-09, 2024-10, 2025-01, 2025-02, 2025-04, 2025-08, 2025-10, 2025-11, 2025-12, 2026-01, 2026-02, 2026-04, 2026-05, 2026-07, 2026-08
+| Label | Status | start_time | end_time | pages | added | next_token | last_input_token |
+|---|---|---|---|---:|---:|---|---|
+| 2024-03 | open | `2024-03-01T00:00:00Z` | `2024-04-01T00:00:00Z` | 1 | 0 | `b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d` | `—` |
+| 2024-04 | open | `2024-04-01T00:00:00Z` | `2024-05-01T00:00:00Z` | 1 | 0 | `b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5` | `—` |
 
-## Open pagination tokens still to follow
+### Pending first pages (30 windows, not yet opened in the expand pass)
 
-15 stored pages still show a `next_token`. Full tokens are in `coverage_manifest.json`. This is not a deduplicated count of unfinished windows. Input tokens were not stored.
+2024-06, 2024-07, 2024-08, 2024-09, 2024-10, 2024-11, 2024-12, 2025-01, 2025-02, 2025-03, 2025-04, 2025-05, 2025-06, 2025-07, 2025-08, 2025-09, 2025-10, 2025-11, 2025-12, 2026-01, 2026-02, 2026-03, 2026-04, 2026-05, 2026-06, 2026-07, 2026-08, 2026-09, 2026-10, 2026-11
 
+### Exhausted monthly (or sub) windows
 
-Pinned post: expansion 404, then `get_posts_by_ids` succeeded for `2110022220131226106`.
+2022-11, 2022-12, 2023-01, 2023-02, 2023-03, 2023-04, 2023-05, 2023-06, 2023-07, 2023-08, 2023-09, 2023-10, 2023-11, 2023-12, 2024-01, 2024-02, 2024-05
 
+## Coverage caveats
+
+- 2022-11 was walked deeply (many pages) and is exhausted with stored later-page provenance. 2022-12 and 2023-01 through 2024-02 plus 2024-05 were exhausted; many of those later months added 0–few new posts because first-pass year-end samples already contained the only hits those first pages returned.
+- 2024-03 and 2024-04 are open: first pages were first-pass duplicates (`posts_added=0`) but still returned a next_token.
+- 2024-06 onward (including most of 2025–2026) remains pending. 2025–2026 posts in the store are mostly first-pass / recent-timeline samples, not monthly-exhausted coverage.
+
+- First-pass year-end samples remain in the JSONL and can make unopened years look like they have ~25 posts clustered at the end of the year.
+- Deleted, withheld, protected, or otherwise inaccessible posts cannot be recovered.
+- Collection was paused to prioritize analysis and packaging; the daily read budget was not exhausted.
+
+Do **not** claim this folder contains all tweets.

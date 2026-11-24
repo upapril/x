@@ -1,230 +1,822 @@
 {
   "handle": "iiiinvest",
   "user_id": "1589763597705437184",
-  "display_name": "电鱼哥",
-  "canonical_profile_url": "https://x.com/iiiinvest",
-  "account_created_at_utc": "2022-11-07T23:36:06.000Z",
-  "protected": false,
-  "profile_post_count_at_lookup": 4858,
-  "profile_followers_at_lookup": 56886,
-  "collection_pass": "first_pass_bounded",
-  "collection_completed_at_utc": "2026-11-24T11:09:28Z",
-  "collection_completed_at_shanghai": "2026-11-24 19:09:28 GMT+8",
-  "retrieved_unique_posts": 366,
-  "share_of_profile_post_count": 0.0753,
-  "claim_of_completeness": false,
-  "retrieved_span_utc": {
-    "oldest": "2022-11-27T13:36:12.000Z",
-    "newest": "2026-11-24T09:50:06.000Z"
+  "packaged_at_shanghai": "2026-11-24 19:44:01 GMT+8",
+  "unique_posts_stored": 736,
+  "profile_post_count_at_first_lookup": 4858,
+  "post_count_is_not_a_missing_count_proof": true,
+  "span_utc": [
+    "2022-11-22T08:48:28.000Z",
+    "2026-11-24T09:50:06.000Z"
+  ],
+  "span_shanghai": [
+    "2022-11-22 16:48:28 GMT+8",
+    "2026-11-24 17:50:06 GMT+8"
+  ],
+  "types": {
+    "original": 172,
+    "reply": 480,
+    "repost": 36,
+    "quote": 48
   },
-  "by_type": {
-    "original": 129,
-    "reply": 162,
-    "quote": 46,
-    "repost": 29
-  },
-  "by_year": {
-    "2022": 50,
-    "2023": 25,
+  "years_utc": {
+    "2022": 408,
+    "2023": 37,
     "2024": 21,
     "2025": 69,
     "2026": 201
   },
-  "by_year_month": {
-    "2022-11": 13,
-    "2022-12": 37,
-    "2023-06": 3,
-    "2023-08": 13,
-    "2023-09": 3,
-    "2023-10": 4,
-    "2023-11": 2,
-    "2024-03": 1,
-    "2024-04": 3,
-    "2024-06": 1,
-    "2024-07": 1,
-    "2024-11": 14,
-    "2024-12": 1,
-    "2025-03": 25,
-    "2025-05": 20,
-    "2025-06": 5,
-    "2025-07": 13,
-    "2025-09": 6,
-    "2026-03": 25,
-    "2026-06": 25,
-    "2026-09": 25,
-    "2026-10": 1,
-    "2026-11": 125
+  "earliest": {
+    "id": "1594976093844303872",
+    "utc": "2022-11-22T08:48:28.000Z",
+    "shanghai": "2022-11-22 16:48:28 GMT+8",
+    "url": "https://x.com/iiiinvest/status/1594976093844303872"
   },
-  "months_in_account_life_with_zero_retrieved_posts": [
-    "2023-01",
-    "2023-02",
-    "2023-03",
-    "2023-04",
-    "2023-05",
-    "2023-07",
-    "2023-12",
-    "2024-01",
-    "2024-02",
-    "2024-05",
+  "latest": {
+    "id": "2125165053078839443",
+    "utc": "2026-11-24T09:50:06.000Z",
+    "shanghai": "2026-11-24 17:50:06 GMT+8",
+    "url": "https://x.com/iiiinvest/status/2125165053078839443"
+  },
+  "expand_job_status_counts": {
+    "exhausted": 17,
+    "open": 2,
+    "pending": 30
+  },
+  "windows": [
+    {
+      "label": "2022-11",
+      "query": "from:iiiinvest",
+      "start_time": "2022-11-07T00:00:00Z",
+      "end_time": "2022-12-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 16,
+      "posts_returned": 366,
+      "posts_added": 353,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fpzhkws7rf5qufmxqcj2ez7iyybgcd",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-12",
+      "query": "from:iiiinvest",
+      "start_time": "2022-12-01T00:00:00Z",
+      "end_time": "2023-01-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 42,
+      "posts_added": 5,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fpzhmlcjenh93wr8mgkiwdhivnhl6l",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-01",
+      "query": "from:iiiinvest",
+      "start_time": "2023-01-01T00:00:00Z",
+      "end_time": "2023-02-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 1,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqk13dcffd3higyobf56o7yv57mpvh",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-02",
+      "query": "from:iiiinvest",
+      "start_time": "2023-02-01T00:00:00Z",
+      "end_time": "2023-03-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 1,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqk6zz19q0bj1ix05f3gzk3dmsp75p",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-03",
+      "query": "from:iiiinvest",
+      "start_time": "2023-03-01T00:00:00Z",
+      "end_time": "2023-04-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 1,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqka10e5cbhdbqpeg1xwjzdk7tp8xp",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-04",
+      "query": "from:iiiinvest",
+      "start_time": "2023-04-01T00:00:00Z",
+      "end_time": "2023-05-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 5,
+      "posts_added": 5,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkd0cpl3ut644m4vz04jndo7u76nx",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-05",
+      "query": "from:iiiinvest",
+      "start_time": "2023-05-01T00:00:00Z",
+      "end_time": "2023-06-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 2,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkg0k1x2qfo4qbxzdg54mlx62ksjh",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-06",
+      "query": "from:iiiinvest",
+      "start_time": "2023-06-01T00:00:00Z",
+      "end_time": "2023-07-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 5,
+      "posts_added": 2,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkj0btotl1oie02l0ejrjssg0cwvx",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-07",
+      "query": "from:iiiinvest",
+      "start_time": "2023-07-01T00:00:00Z",
+      "end_time": "2023-08-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-08",
+      "query": "from:iiiinvest",
+      "start_time": "2023-08-01T00:00:00Z",
+      "end_time": "2023-09-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 13,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkrxyr2alkk2sal9qknyrl94ri2rh",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-09",
+      "query": "from:iiiinvest",
+      "start_time": "2023-09-01T00:00:00Z",
+      "end_time": "2023-10-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 3,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqks0wnx3x3yhwddiee7c4gcjmhhtp",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-10",
+      "query": "from:iiiinvest",
+      "start_time": "2023-10-01T00:00:00Z",
+      "end_time": "2023-11-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 4,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5eey3bs0fdagr4dndlk5gf2wjh4t",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-11",
+      "query": "from:iiiinvest",
+      "start_time": "2023-11-01T00:00:00Z",
+      "end_time": "2023-12-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5hdvfm6n7scaynxq2bhqdsvv5dvh",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-12",
+      "query": "from:iiiinvest",
+      "start_time": "2023-12-01T00:00:00Z",
+      "end_time": "2024-01-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-01",
+      "query": "from:iiiinvest",
+      "start_time": "2024-01-01T00:00:00Z",
+      "end_time": "2024-02-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-02",
+      "query": "from:iiiinvest",
+      "start_time": "2024-02-01T00:00:00Z",
+      "end_time": "2024-03-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-03",
+      "query": "from:iiiinvest",
+      "start_time": "2024-03-01T00:00:00Z",
+      "end_time": "2024-04-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 1,
+      "posts_returned": 1,
+      "posts_added": 0,
+      "next_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
+      "last_input_token": null,
+      "last_span": [
+        "2024-03-10T14:53:07.000Z",
+        "2024-03-10T14:53:07.000Z"
+      ]
+    },
+    {
+      "label": "2024-04",
+      "query": "from:iiiinvest",
+      "start_time": "2024-04-01T00:00:00Z",
+      "end_time": "2024-05-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 1,
+      "posts_returned": 3,
+      "posts_added": 0,
+      "next_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
+      "last_input_token": null,
+      "last_span": [
+        "2024-04-02T15:52:05.000Z",
+        "2024-04-15T15:29:25.000Z"
+      ]
+    },
+    {
+      "label": "2024-05",
+      "query": "from:iiiinvest",
+      "start_time": "2024-05-01T00:00:00Z",
+      "end_time": "2024-06-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-06",
+      "query": "from:iiiinvest",
+      "start_time": "2024-06-01T00:00:00Z",
+      "end_time": "2024-07-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-07",
+      "query": "from:iiiinvest",
+      "start_time": "2024-07-01T00:00:00Z",
+      "end_time": "2024-08-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-08",
+      "query": "from:iiiinvest",
+      "start_time": "2024-08-01T00:00:00Z",
+      "end_time": "2024-09-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-09",
+      "query": "from:iiiinvest",
+      "start_time": "2024-09-01T00:00:00Z",
+      "end_time": "2024-10-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-10",
+      "query": "from:iiiinvest",
+      "start_time": "2024-10-01T00:00:00Z",
+      "end_time": "2024-11-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-11",
+      "query": "from:iiiinvest",
+      "start_time": "2024-11-01T00:00:00Z",
+      "end_time": "2024-12-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-12",
+      "query": "from:iiiinvest",
+      "start_time": "2024-12-01T00:00:00Z",
+      "end_time": "2025-01-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-01",
+      "query": "from:iiiinvest",
+      "start_time": "2025-01-01T00:00:00Z",
+      "end_time": "2025-02-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-02",
+      "query": "from:iiiinvest",
+      "start_time": "2025-02-01T00:00:00Z",
+      "end_time": "2025-03-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-03",
+      "query": "from:iiiinvest",
+      "start_time": "2025-03-01T00:00:00Z",
+      "end_time": "2025-04-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-04",
+      "query": "from:iiiinvest",
+      "start_time": "2025-04-01T00:00:00Z",
+      "end_time": "2025-05-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-05",
+      "query": "from:iiiinvest",
+      "start_time": "2025-05-01T00:00:00Z",
+      "end_time": "2025-06-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-06",
+      "query": "from:iiiinvest",
+      "start_time": "2025-06-01T00:00:00Z",
+      "end_time": "2025-07-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-07",
+      "query": "from:iiiinvest",
+      "start_time": "2025-07-01T00:00:00Z",
+      "end_time": "2025-08-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-08",
+      "query": "from:iiiinvest",
+      "start_time": "2025-08-01T00:00:00Z",
+      "end_time": "2025-09-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-09",
+      "query": "from:iiiinvest",
+      "start_time": "2025-09-01T00:00:00Z",
+      "end_time": "2025-10-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-10",
+      "query": "from:iiiinvest",
+      "start_time": "2025-10-01T00:00:00Z",
+      "end_time": "2025-11-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-11",
+      "query": "from:iiiinvest",
+      "start_time": "2025-11-01T00:00:00Z",
+      "end_time": "2025-12-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-12",
+      "query": "from:iiiinvest",
+      "start_time": "2025-12-01T00:00:00Z",
+      "end_time": "2026-01-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-01",
+      "query": "from:iiiinvest",
+      "start_time": "2026-01-01T00:00:00Z",
+      "end_time": "2026-02-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-02",
+      "query": "from:iiiinvest",
+      "start_time": "2026-02-01T00:00:00Z",
+      "end_time": "2026-03-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-03",
+      "query": "from:iiiinvest",
+      "start_time": "2026-03-01T00:00:00Z",
+      "end_time": "2026-04-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-04",
+      "query": "from:iiiinvest",
+      "start_time": "2026-04-01T00:00:00Z",
+      "end_time": "2026-05-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-05",
+      "query": "from:iiiinvest",
+      "start_time": "2026-05-01T00:00:00Z",
+      "end_time": "2026-06-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-06",
+      "query": "from:iiiinvest",
+      "start_time": "2026-06-01T00:00:00Z",
+      "end_time": "2026-07-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-07",
+      "query": "from:iiiinvest",
+      "start_time": "2026-07-01T00:00:00Z",
+      "end_time": "2026-08-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-08",
+      "query": "from:iiiinvest",
+      "start_time": "2026-08-01T00:00:00Z",
+      "end_time": "2026-09-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-09",
+      "query": "from:iiiinvest",
+      "start_time": "2026-09-01T00:00:00Z",
+      "end_time": "2026-10-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-10",
+      "query": "from:iiiinvest",
+      "start_time": "2026-10-01T00:00:00Z",
+      "end_time": "2026-11-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-11",
+      "query": "from:iiiinvest",
+      "start_time": "2026-11-01T00:00:00Z",
+      "end_time": "2026-11-25T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    }
+  ],
+  "open_or_blocked_windows": [
+    {
+      "label": "2024-03",
+      "status": "open",
+      "start_time": "2024-03-01T00:00:00Z",
+      "end_time": "2024-04-01T00:00:00Z",
+      "pages_fetched": 1,
+      "posts_added": 0,
+      "next_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
+      "last_input_token": null
+    },
+    {
+      "label": "2024-04",
+      "status": "open",
+      "start_time": "2024-04-01T00:00:00Z",
+      "end_time": "2024-05-01T00:00:00Z",
+      "pages_fetched": 1,
+      "posts_added": 0,
+      "next_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
+      "last_input_token": null
+    }
+  ],
+  "pending_window_labels": [
+    "2024-06",
+    "2024-07",
     "2024-08",
     "2024-09",
     "2024-10",
+    "2024-11",
+    "2024-12",
     "2025-01",
     "2025-02",
+    "2025-03",
     "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
     "2025-08",
+    "2025-09",
     "2025-10",
     "2025-11",
     "2025-12",
     "2026-01",
     "2026-02",
+    "2026-03",
     "2026-04",
     "2026-05",
+    "2026-06",
     "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11"
   ],
-  "zero_month_count": 26,
-  "api_pages_stored": 15,
-  "api_tools_used": {
-    "get_users_posts": 3,
-    "search_posts_all": 12
-  },
-  "end_conditions": [
-    "get_users_posts was only advanced 3 pages (still had next_token); recent November 2026 is the dense timeline sample, not a complete timeline.",
-    "search_posts_all year/quarter windows generally still have next_token; stopped after 1-2 pages per window.",
-    "No posts retrieved between account creation 2022-11-07 and 2022-11-27 in this pass (window 2022-11-07 to 2022-12-07 still had next_token after one page ending 2022-11-27)."
+  "exhausted_window_labels": [
+    "2022-11",
+    "2022-12",
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-05"
   ],
-  "open_pagination_tokens_count": 15,
-  "open_pagination_tokens": [
-    {
-      "page_file": "page_0001_get_users_posts.json",
-      "tool": "get_users_posts",
-      "oldest_created_at": "2026-11-22T00:50:15.000Z",
-      "newest_created_at": "2026-11-24T09:50:06.000Z",
-      "next_token": "7140dibdnow9c7btwp0gmbl5tonfitxkksj4uz886bak5",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0002_get_users_posts.json",
-      "tool": "get_users_posts",
-      "oldest_created_at": "2026-11-19T03:26:11.000Z",
-      "newest_created_at": "2026-11-21T01:41:32.000Z",
-      "next_token": "7140dibdnow9c7btwp0gm9g53iurm19yimsrq1kywdquu",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0003_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2023-06-19T16:13:59.000Z",
-      "newest_created_at": "2023-11-30T20:32:06.000Z",
-      "next_token": "b26v89c19zqg8o3fqkly041lc9qzla1rnhefyeetm4tj1",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0004_get_users_posts.json",
-      "tool": "get_users_posts",
-      "oldest_created_at": "2026-11-17T09:00:19.000Z",
-      "newest_created_at": "2026-11-19T03:05:57.000Z",
-      "next_token": "7140dibdnow9c7btwp0gm7clxtoxv4qzy104aqucqksvq",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0005_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2022-12-07T14:19:33.000Z",
-      "newest_created_at": "2022-12-30T08:35:38.000Z",
-      "next_token": "b26v89c19zqg8o3fqk0zkncerdfzb24n83e4zektp4fi5",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0006_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2024-03-10T14:53:07.000Z",
-      "newest_created_at": "2024-12-11T00:33:03.000Z",
-      "next_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
-      "returned": 21
-    },
-    {
-      "page_file": "page_0007_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2025-07-03T07:18:05.000Z",
-      "newest_created_at": "2025-09-10T09:33:10.000Z",
-      "next_token": "b26v89c19zqg8o3fsc85np8ov41pj2ai20nx6ilbgh9q5",
-      "returned": 19
-    },
-    {
-      "page_file": "page_0008_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-11-14T02:00:43.000Z",
-      "newest_created_at": "2026-11-16T16:02:51.000Z",
-      "next_token": "b26v89c19zqg8o3juzovrbytdbetnq5kfs0h08m0oghod",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0009_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2025-05-13T21:56:35.000Z",
-      "newest_created_at": "2025-06-23T14:34:27.000Z",
-      "next_token": "b26v89c19zqg8o3fsc26y42xi284u6745be384aoqrwxp",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0010_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-11-12T16:02:22.000Z",
-      "newest_created_at": "2026-11-14T02:00:18.000Z",
-      "next_token": "b26v89c19zqg8o3juzovch079xz7cs3bumdxn4ugsn5a5",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0011_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2025-03-12T12:54:45.000Z",
-      "newest_created_at": "2025-03-31T08:24:01.000Z",
-      "next_token": "b26v89c19zqg8o3frrctzvlan8y95ga69u6z82xqx7cl9",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0012_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-03-24T15:25:49.000Z",
-      "newest_created_at": "2026-03-31T14:06:41.000Z",
-      "next_token": "b26v89c19zqg8o3juehjb7kpgcyzsqnb3q0x6l3mruge5",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0013_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-06-29T13:33:43.000Z",
-      "newest_created_at": "2026-06-30T15:45:09.000Z",
-      "next_token": "b26v89c19zqg8o3juetgb1t3ypqr62ubokciylth1dim5",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0014_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-09-29T15:56:44.000Z",
-      "newest_created_at": "2026-09-30T20:39:11.000Z",
-      "next_token": "b26v89c19zqg8o3juzixhbf2wg47zgplu9cvekvb1anb1",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0015_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2022-11-27T13:36:12.000Z",
-      "newest_created_at": "2022-12-06T07:25:22.000Z",
-      "next_token": "b26v89c19zqg8o3fpzhlr1am2fit9iaoyp3lxv01t0tbx",
-      "returned": 25
-    }
+  "coverage_notes": [
+    "2022-11 was walked deeply (many pages) and is exhausted with stored later-page provenance. 2022-12 and 2023-01 through 2024-02 plus 2024-05 were exhausted; many of those later months added 0–few new posts because first-pass year-end samples already contained the only hits those first pages returned.",
+    "2024-03 and 2024-04 are open: first pages were first-pass duplicates (`posts_added=0`) but still returned a next_token.",
+    "2024-06 onward (including most of 2025–2026) remains pending. 2025–2026 posts in the store are mostly first-pass / recent-timeline samples, not monthly-exhausted coverage."
   ],
-  "pinned_post_id": "2110022220131226106",
-  "pinned_post_retrieval": "get_users_by_usernames pinned_post_id expansion returned resource-not-found; get_posts_by_ids succeeded",
-  "known_limits": [
-    "X public read limit 30 calls/minute and 1000/day; 25 results/call",
-    "Deleted, withheld, protected, or otherwise inaccessible posts cannot be retrieved",
-    "search_posts_all year windows in this pass are recency-sorted and often only cover the end of the window",
-    "Some referenced tweets/users were not found or were suspended (see raw page errors)"
-  ],
-  "ids_stored_as": "strings",
-  "timestamp_policy": "API created_at kept as UTC; human summaries use Asia/Shanghai (GMT+8)"
+  "stopping_reason": "Collection paused to prioritize evidence-grounded analysis and packaging. Daily X-read budget was not exhausted. Open and pending windows remain. This package is not a complete tweet archive.",
+  "claim_all_tweets": false
 }

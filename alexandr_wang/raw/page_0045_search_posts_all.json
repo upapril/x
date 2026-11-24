@@ -1,0 +1,239 @@
+{
+  "collected_at_utc": "2026-11-24T11:32:06Z",
+  "collected_at_shanghai": "2026-11-24T19:32:06+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86N74MAK47MTSCEGYACHGDN.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2015-12-01T00:00:00Z",
+    "end_time": "2016-01-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2015-12"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "671793637374717952",
+      "created_at": "2015-12-01T20:50:59.000Z",
+      "edit_history_tweet_ids": [
+        "671793637374717952"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "33696409",
+            "start": 3,
+            "username": "Quora"
+          },
+          {
+            "end": 27,
+            "id": "1339835893",
+            "start": 12,
+            "username": "HillaryClinton"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "quora.com/Is-Obamacare-h…",
+            "end": 119,
+            "expanded_url": "https://www.quora.com/Is-Obamacare-helping-or-hurting-the-average-U-S-citizen/answer/Hillary-Clinton",
+            "start": 96,
+            "url": "https://t.co/aWJM4IHpUm"
+          },
+          {
+            "display_url": "t.co/UEWwrp",
+            "end": 139,
+            "start": 120,
+            "url": "https://t.co/UEWwrp"
+          }
+        ]
+      },
+      "id": "671793637374717952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 18
+      },
+      "referenced_tweets": [
+        {
+          "id": "671790374701039616",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Quora: .@HillaryClinton answers: Is Obamacare helping or hurting the average U.S. citizen?\n\nhttps://t.co/aWJM4IHpUm https://t.co/UEWwrp…",
+      "url": "https://x.com/alexandr_wang/status/671793637374717952"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "671792405138509824",
+      "created_at": "2015-12-01T20:46:05.000Z",
+      "edit_history_tweet_ids": [
+        "671792405138509824"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1339835893",
+            "start": 3,
+            "username": "HillaryClinton"
+          },
+          {
+            "end": 46,
+            "id": "33696409",
+            "start": 40,
+            "username": "Quora"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "t.co",
+            "end": 139,
+            "start": 127,
+            "url": "https://t.co"
+          }
+        ]
+      },
+      "id": "671792405138509824",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 127
+      },
+      "referenced_tweets": [
+        {
+          "id": "671790735423840256",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @HillaryClinton: Hillary just joined @Quora! Check out her answers on health care, Planned Parenthood, and being a grandma: https://t.co…",
+      "url": "https://x.com/alexandr_wang/status/671792405138509824"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_671790373635665920"
+          ]
+        },
+        "author_id": "33696409",
+        "conversation_id": "671790374701039616",
+        "created_at": "2015-12-01T20:38:01.000Z",
+        "edit_history_tweet_ids": [
+          "671790374701039616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1339835893",
+              "start": 1,
+              "username": "HillaryClinton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "quora.com/Is-Obamacare-h…",
+              "end": 108,
+              "expanded_url": "https://www.quora.com/Is-Obamacare-helping-or-hurting-the-average-U-S-citizen/answer/Hillary-Clinton",
+              "start": 85,
+              "url": "https://t.co/aWJM4IHpUm"
+            },
+            {
+              "display_url": "pic.x.com/UEWwrphoET",
+              "end": 132,
+              "expanded_url": "https://x.com/Quora/status/671790374701039616/photo/1",
+              "media_key": "3_671790373635665920",
+              "start": 109,
+              "url": "https://t.co/UEWwrphoET"
+            }
+          ]
+        },
+        "id": "671790374701039616",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "text": ".@HillaryClinton answers: Is Obamacare helping or hurting the average U.S. citizen?\n\nhttps://t.co/aWJM4IHpUm https://t.co/UEWwrphoET"
+      },
+      {
+        "author_id": "1339835893",
+        "conversation_id": "671790735423840256",
+        "created_at": "2015-12-01T20:39:27.000Z",
+        "edit_history_tweet_ids": [
+          "671790735423840256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "33696409",
+              "start": 20,
+              "username": "Quora"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hrc.io/quora",
+              "end": 130,
+              "expanded_url": "http://hrc.io/quora",
+              "start": 107,
+              "url": "https://t.co/SpMBN6ZA1H"
+            }
+          ]
+        },
+        "id": "671790735423840256",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 231,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 127
+        },
+        "text": "Hillary just joined @Quora! Check out her answers on health care, Planned Parenthood, and being a grandma: https://t.co/SpMBN6ZA1H"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "public_metrics": {
+          "followers_count": 943614,
+          "following_count": 929,
+          "like_count": 7621,
+          "listed_count": 4464,
+          "media_count": 561,
+          "tweet_count": 3762
+        },
+        "username": "alexandr_wang"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "671793637374717952",
+    "next_token": "1jzu9lk96gu5npw2cy6qf82p7v95j39ibp209b23pf25",
+    "oldest_id": "671792405138509824",
+    "result_count": 2
+  },
+  "errors": []
+}

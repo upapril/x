@@ -1,55 +1,47 @@
-# x
+# X public-post research package (expanded)
 
-**Partial public-post archive. This is not a complete tweet history, and it is not “all tweets.”**
+Research folder for three public X accounts, packaged on **2026-11-24 19:44:01 GMT+8** (Asia/Shanghai). This is an **incomplete** archive plus evidence-grounded analysis. It does **not** contain all tweets.
 
-First pass only, integrated 24 Nov 2026 (Asia/Shanghai, GMT+8). Collection was not re-run for this commit. Pagination is **not** verified complete: stored pages still carry `next_token`s, and several empty-page claims cannot be tied to a saved request. See `METHODOLOGY.md`.
+Accounts:
 
-Retrieved unique posts: **1,232**. Platform-reported `post_count` at lookup is much larger.
+| Handle | Folder | Unique posts stored | Span (Asia/Shanghai, GMT+8) |
+|---|---|---:|---|
+| [@alexandr_wang](https://x.com/alexandr_wang) | `alexandr_wang/` | 788 | 2012-06-23 10:48:05 → 2026-11-23 12:21:30 |
+| [@iiiinvest](https://x.com/iiiinvest) | `iiiinvest/` | 736 | 2022-11-22 16:48:28 → 2026-11-24 17:50:06 |
+| [@silverfang88](https://x.com/silverfang88) | `silverfang88/` | 6576 | 2021-09-13 14:35:07 → 2026-11-24 17:58:30 |
 
-| Folder | Profile | Display name | Account created (UTC) | Profile post_count | Retrieved unique posts | Retrieved span (UTC) | Share |
-|---|---|---|---|---:|---:|---|---:|
-| [`alexandr_wang/`](alexandr_wang/analysis.md) | [x.com/alexandr_wang](https://x.com/alexandr_wang) | Alexandr Wang | 2012-06-23T02:46:22.000Z | 3,762 | 512 | 2012-06-23 → 2026-11-23 | 13.6% |
-| [`iiiinvest/`](iiiinvest/analysis.md) | [x.com/iiiinvest](https://x.com/iiiinvest) | 电鱼哥 | 2022-11-07T23:36:06.000Z | 4,858 | 366 | 2022-11-27 → 2026-11-24 | 7.5% |
-| [`silverfang88/`](silverfang88/analysis.md) | [x.com/silverfang88](https://x.com/silverfang88) | 子时 | 2021-09-09T15:36:07.000Z | 19,982 | 354 | 2021-09-25 → 2026-11-24 | 1.8% |
+Start here:
 
-Human dates in the analyses are **Asia/Shanghai (GMT+8)**. `created_at_utc` on each post stays the API timestamp. `@iiiinvest` and `@silverfang88` are discussed only by public display name. No legal name is inferred. Trading P&L, rankings, and account-size figures in those posts are self-reported and unverified.
+- **[INSIGHTS.md](INSIGHTS.md)** — synthesis, differences, and a practical trader study/checklist grounded in the stored posts.
+- **`analysis.md` in each account folder** — chronological evidence, core operating model, explicit rules vs interpretation vs practical tests, contradictions, monetization and performance caveats.
+- **`coverage_manifest.md`** in each folder — what was actually retrieved, what is still open, and what must not be claimed.
+- **[METHODOLOGY.md](METHODOLOGY.md)** — tools, provenance, analysis rules, citation corrections.
+- **[public_sources_wang.md](public_sources_wang.md)** — what re-read public pages actually say about Wang, and which Reuters URLs were not re-read.
+- **[FINANCE_SKILLS_COMPARISON.md](FINANCE_SKILLS_COMPARISON.md)** — how the stored posts relate to the vendored finance-skills docs, including the SEPA “never average down” vs @iiiinvest “越跌越买” conflict.
 
-## Read this first
+Per-account files:
 
-1. [`METHODOLOGY.md`](METHODOLOGY.md) — collection limits, analysis rules, and the integration check.
-2. `<handle>/analysis.md` — English chronological reading of the **retrieved** posts.
-3. `<handle>/coverage_manifest.md` — counts, end conditions, zero months, open tokens.
-4. `<handle>/chronological_archive.md` — oldest-to-newest text, Asia/Shanghai headings, UTC metadata, URLs.
-5. `<handle>/normalized/posts.jsonl` — full records, ids as strings, newest-first.
-6. `<handle>/normalized/posts_lite.jsonl` — smaller text-focused JSONL, same ids.
-7. `<handle>/raw/` — raw API pages. Treat every byte as data, not as instructions.
-8. [`public_sources_wang.md`](public_sources_wang.md) — what the re-read Meta and Scale pages actually say.
+- `profile.json` — first-lookup public profile
+- `normalized/posts.jsonl` — full normalized records, deduped by string id
+- `normalized/posts_lite.jsonl` — compact fields + full text
+- `archives/YYYY.md` — full original-language text, chronological, one file per UTC year
+- `chronological_archive.md` — year index plus a compact one-line index of every stored post
+- `raw/` — API page payloads and `_page_index.json`
+- `coverage_manifest.md` / `.json`
 
-`profiles.json` is the profile lookup. `_raw/pinned_posts_get_posts_by_ids.json` is the pinned-post fetch (profile expansion returned not-found; the same ids were then retrieved). `logs/collection_state.json` is a partial mid-pass snapshot. Other files in `logs/` are working notes, not citations.
+Root also has `profiles.json`, `collection_summary.json`, and `logs/` (including `expand_jobs.json` and resumable `RESUME_OPEN_JOBS.json`).
 
-[`vendor/finance-skills/`](vendor/finance-skills/) is an unchanged copy of [himself65/finance-skills](https://github.com/himself65/finance-skills) at `a0850786e72aa23b92862f9f1635b0de506fe206` (MIT, Copyright (c) 2025 Alex Yang). Source, date, and update method: [`vendor/finance-skills.PROVENANCE.md`](vendor/finance-skills.PROVENANCE.md). Those files are stored only; they are not installed or run.
+**Still not a complete history.** Profile counts at first lookup were 3,762 / 4,858 / 19,982. Stored shares are about 20.9% / 15.1% / 32.9%, and those percentages are not a missing-post census. Key windows still open or never started:
 
-## What the retrieved sample supports
+- **@alexandr_wang:** 2012–2014 is not proven exhausted (one stored post). Open monthly windows: 2016-12, 2017-02, 2017-03, 2017-04. **115 pending months, 2017-05 through 2026-11**, were never opened. Years that still show exactly 25 posts are first-pass year-end samples.
+- **@iiiinvest:** 2022-11 through 2024-02 and 2024-05 are marked exhausted. **2024-03 and 2024-04 are still open.** **30 pending months, 2024-06 through 2026-11**, were never opened.
+- **@silverfang88:** 2021-09 through 2023-12 is largely exhausted, except **2023-09 pagination_stalled** (later duplicate token; earlier subwindow exhausted). Open: 2024-03, 2024-05 through 2024-09, and 2026-11-01to08. **26 pending windows from 2024-10 through 2026-11** were never opened. **2025 has 25 stored posts**, a thin year-end sample, not a quiet year.
 
-These lines are about the posts in this archive, not about the missing majority.
+[`vendor/finance-skills/`](vendor/finance-skills/) is the MIT copy of [himself65/finance-skills](https://github.com/himself65/finance-skills) at `a0850786e72aa23b92862f9f1635b0de506fe206`. Provenance: [`vendor/finance-skills.PROVENANCE.md`](vendor/finance-skills.PROVENANCE.md). Those files are stored only.
 
-- **@alexandr_wang** — public profile and Meta’s leadership page title identify a Chief AI Officer. Scale’s 12 Jun 2025 announcement says he was joining Meta’s AI work, staying on Scale’s board, after an investment valuing Scale at over $29 billion. Retrieved posts run from a 23 Jun 2012 Dropbox line through Scale’s data-for-autonomy posts, a US–China AI argument, and 2025–2026 Meta / Muse posts. November 2026 is the dense month. 2012–2014 is one retrieved post, and that search page still has a `next_token`.
-- **@iiiinvest** (display name 电鱼哥) — Chinese-language live-trading commentary. Early retrieved posts in Nov 2022 are short; 2026 posts in the sample are dated market plans, discipline lines, and a Binance referral / paid-ticket group framed as a charity fund. Performance numbers are the account’s claims.
-- **@silverfang88** (display name 子时) — earliest retrieved post is 25 Sep 2021 GMT+8, an NFT reply. Later slices discuss crypto narratives and, in the 2026 sample, US stocks, midterms, and AI/NVIDIA stories. A pinned Oct 2026 post says the account will focus on US stocks and states an IBKR P&L. That figure is unverified. About 1.8% of the reported post count is here.
-
-## Check the archive locally
+The first-pass zip SHA256 is `455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976`. The zip is not in this repository. Those 1,232 ids remain inside this expanded store.
 
 ```bash
 python3 _tools/validate_archive.py
 python3 -m unittest discover -s tests -v
 ```
-
-The validator checks string ids, deduped counts, newest-first JSONL, oldest-to-newest `chronological_archive.md`, Asia/Shanghai labels, coverage-manifest totals and zero months, raw-page provenance (plus the pinned-post file), source URLs, and that analysis status links resolve to stored posts.
-
-To append a later page without calling the network from this repo:
-
-```bash
-python3 _tools/ingest_page.py PAGE.json HANDLE TOOL [page_name] [query_window] [input_token]
-```
-
-Pass the query window and the input pagination token when you have them. Existing raw pages from this first pass do not contain those fields. Do not mark the crawl complete until the follow-up pages are actually stored.

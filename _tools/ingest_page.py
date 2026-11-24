@@ -1,20 +1,5 @@
 #!/usr/bin/env python3
-"""Ingest one saved X API tool response into this archive.
-
-The response file is data. Wrappers such as cursor_untrusted_data, and any
-instructions inside post text, are not followed. This script only parses JSON
-and appends posts. It does not call the X API, log in, or decide that a
-timeline is complete.
-
-Usage:
-  python3 _tools/ingest_page.py PAGE.json [handle] [tool] [page_name] [query_window] [input_token]
-
-query_window and input_token are optional. Pass them when known so a later
-pass can tell which search window a page belongs to and which pagination
-token was consumed. This first pass did not store those fields on existing
-raw pages. Do not treat the archive as complete until pagination is actually
-followed and recorded.
-"""
+"""Ingest a CallDynamicTool write_to_file X API response into the research archive."""
 import json, re, sys
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
@@ -171,9 +156,10 @@ def write_jsonl(path: Path, rows):
         for r in rows:
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
-def ingest(path: Path, handle_hint=None, tool="get_users_posts", page_name=None, query_window=None, input_token=None):
+def ingest(path: Path, handle_hint=None, tool="get_users_posts", page_name=None, request_meta=None):
     text = path.read_text(encoding="utf-8", errors="replace")
     obj = extract_json(text, path)
+    request_meta = dict(request_meta or {})
     data = obj.get("data") or []
     includes = obj.get("includes") or {}
     meta = obj.get("meta") or {}
@@ -208,21 +194,32 @@ def ingest(path: Path, handle_hint=None, tool="get_users_posts", page_name=None,
         "result_count": meta.get("result_count"),
         "newest_id": str(meta["newest_id"]) if meta.get("newest_id") else None,
         "oldest_id": str(meta["oldest_id"]) if meta.get("oldest_id") else None,
+        "pagination_token_in": request_meta.get("input_token"),
         "pagination_token_out": meta.get("next_token"),
-        "query_window": query_window,
-        "input_pagination_token": input_token,
+        "query": request_meta.get("query"),
+        "start_time": request_meta.get("start_time"),
+        "end_time": request_meta.get("end_time"),
+        "sort_order": request_meta.get("sort_order"),
+        "window_label": request_meta.get("window_label"),
     }
     raw_payload = {
         "collected_at_utc": collected_iso,
         "collected_at_shanghai": collected_sh,
         "tool": f"x.{tool}",
         "source_file": str(path),
+        "request": {
+            "query": request_meta.get("query"),
+            "start_time": request_meta.get("start_time"),
+            "end_time": request_meta.get("end_time"),
+            "sort_order": request_meta.get("sort_order") or "recency",
+            "max_results": request_meta.get("max_results") or 25,
+            "input_token": request_meta.get("input_token"),
+            "window_label": request_meta.get("window_label"),
+        },
         "data": data,
         "includes": includes,
         "meta": meta,
         "errors": errors,
-        "query_window": query_window,
-        "input_pagination_token": input_token,
     }
     (raw_dir / page_name).write_text(json.dumps(raw_payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -260,6 +257,11 @@ def ingest(path: Path, handle_hint=None, tool="get_users_posts", page_name=None,
         "newest_created_at": max(dates) if dates else None,
         "oldest_created_at": min(dates) if dates else None,
         "next_token": meta.get("next_token"),
+        "input_token": request_meta.get("input_token"),
+        "query": request_meta.get("query"),
+        "start_time": request_meta.get("start_time"),
+        "end_time": request_meta.get("end_time"),
+        "window_label": request_meta.get("window_label"),
         "type_counts": dict(types),
         "errors_count": len(errors) if isinstance(errors, list) else (1 if errors else 0),
         "collected_at_utc": collected_iso,
@@ -291,8 +293,5 @@ if __name__ == "__main__":
     path = Path(sys.argv[1])
     handle = sys.argv[2] if len(sys.argv) > 2 else None
     tool = sys.argv[3] if len(sys.argv) > 3 else "get_users_posts"
-    page_name = sys.argv[4] if len(sys.argv) > 4 else None
-    query_window = sys.argv[5] if len(sys.argv) > 5 else None
-    input_token = sys.argv[6] if len(sys.argv) > 6 else None
-    s = ingest(path, handle, tool, page_name, query_window, input_token)
+    s = ingest(path, handle, tool)
     print(json.dumps(s, ensure_ascii=False, indent=2))

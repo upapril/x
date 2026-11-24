@@ -1,85 +1,314 @@
 {
-  "pass": "first_pass_bounded",
-  "completed_at_utc": "2026-11-24T11:13:00Z",
-  "completed_at_shanghai": "2026-11-24 19:13:00 GMT+8",
-  "github_repo_target": "x (parent/CloudAgent to commit; this pass did not write to GitHub)",
-  "box_path": "/workspace/x-research",
+  "packaged_at_shanghai": "2026-11-24 19:44:01 GMT+8",
+  "pass": "expanded-plus-insights",
+  "claim_complete_retrieval": false,
+  "stopping_reason": "Parent/user instruction to prioritize rigorous insight and packaging over further crawl while time was tight. Daily X-read budget was not exhausted; open and pending windows remain in logs/RESUME_OPEN_JOBS.json and each coverage_manifest.",
+  "tools": "Built-in x MCP public reads only (get_users_by_usernames, get_users_posts, search_posts_all, get_posts_by_ids).",
+  "firstpass_zip": {
+    "path": "not stored in this repository",
+    "sha256": "455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976",
+    "git_commit": "7c43efc9646ebe174a1e5d43c669865d982909ba",
+    "immutable": true
+  },
   "accounts": {
     "alexandr_wang": {
-      "retrieved_unique_posts": 512,
-      "profile_post_count": 3762,
-      "share": 0.1361,
-      "span_utc": {
-        "oldest": "2012-06-23T02:48:05.000Z",
-        "newest": "2026-11-23T04:21:30.000Z"
+      "unique_posts_stored": 788,
+      "types": {
+        "original": 259,
+        "repost": 115,
+        "reply": 296,
+        "quote": 118
       },
-      "by_type": {
-        "original": 160,
-        "quote": 109,
-        "reply": 192,
-        "repost": 51
+      "years_utc": {
+        "2012": 1,
+        "2015": 51,
+        "2016": 238,
+        "2017": 62,
+        "2018": 25,
+        "2019": 25,
+        "2020": 25,
+        "2021": 25,
+        "2022": 25,
+        "2023": 25,
+        "2024": 50,
+        "2025": 75,
+        "2026": 161
       },
-      "open_tokens": 24,
-      "zero_months": 132
+      "span_utc": [
+        "2012-06-23T02:48:05.000Z",
+        "2026-11-23T04:21:30.000Z"
+      ],
+      "span_shanghai": [
+        "2012-06-23 10:48:05 GMT+8",
+        "2026-11-23 12:21:30 GMT+8"
+      ],
+      "earliest": {
+        "id": "216361960667754498",
+        "utc": "2012-06-23T02:48:05.000Z",
+        "shanghai": "2012-06-23 10:48:05 GMT+8",
+        "url": "https://x.com/alexandr_wang/status/216361960667754498"
+      },
+      "latest": {
+        "id": "2124719968499777546",
+        "utc": "2026-11-23T04:21:30.000Z",
+        "shanghai": "2026-11-23 12:21:30 GMT+8",
+        "url": "https://x.com/alexandr_wang/status/2124719968499777546"
+      },
+      "expand_job_status_counts": {
+        "exhausted": 24,
+        "open": 4,
+        "pending": 115,
+        "not_proven_exhausted": 1
+      },
+      "open_or_blocked_windows": [
+        {
+          "label": "2016-12",
+          "status": "open",
+          "start_time": "2016-12-01T00:00:00Z",
+          "end_time": "2017-01-01T00:00:00Z",
+          "pages_fetched": 2,
+          "posts_added": 9,
+          "next_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
+          "last_input_token": "1jzu9lk96gu5npw3iy3wv887bm1jsl9sbk73ezfb2su5"
+        },
+        {
+          "label": "2017-02",
+          "status": "open",
+          "start_time": "2017-02-01T00:00:00Z",
+          "end_time": "2017-03-01T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 6,
+          "next_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
+          "last_input_token": null
+        },
+        {
+          "label": "2017-03",
+          "status": "open",
+          "start_time": "2017-03-01T00:00:00Z",
+          "end_time": "2017-04-01T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 13,
+          "next_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
+          "last_input_token": null
+        },
+        {
+          "label": "2017-04",
+          "status": "open",
+          "start_time": "2017-04-01T00:00:00Z",
+          "end_time": "2017-05-01T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 6,
+          "next_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
+          "last_input_token": null
+        },
+        {
+          "label": "2012-2014",
+          "status": "not_proven_exhausted",
+          "start_time": "2012-06-23T00:00:00Z",
+          "end_time": "2015-01-01T00:00:00Z",
+          "pages_fetched": 2,
+          "posts_added": 1,
+          "next_token": null,
+          "last_input_token": null
+        }
+      ],
+      "pending_window_count": 115,
+      "profile_post_count_at_first_lookup": 3762
     },
     "iiiinvest": {
-      "retrieved_unique_posts": 366,
-      "profile_post_count": 4858,
-      "share": 0.0753,
-      "span_utc": {
-        "oldest": "2022-11-27T13:36:12.000Z",
-        "newest": "2026-11-24T09:50:06.000Z"
+      "unique_posts_stored": 736,
+      "types": {
+        "original": 172,
+        "reply": 480,
+        "repost": 36,
+        "quote": 48
       },
-      "by_type": {
-        "original": 129,
-        "reply": 162,
-        "quote": 46,
-        "repost": 29
+      "years_utc": {
+        "2022": 408,
+        "2023": 37,
+        "2024": 21,
+        "2025": 69,
+        "2026": 201
       },
-      "open_tokens": 15,
-      "zero_months": 26
+      "span_utc": [
+        "2022-11-22T08:48:28.000Z",
+        "2026-11-24T09:50:06.000Z"
+      ],
+      "span_shanghai": [
+        "2022-11-22 16:48:28 GMT+8",
+        "2026-11-24 17:50:06 GMT+8"
+      ],
+      "earliest": {
+        "id": "1594976093844303872",
+        "utc": "2022-11-22T08:48:28.000Z",
+        "shanghai": "2022-11-22 16:48:28 GMT+8",
+        "url": "https://x.com/iiiinvest/status/1594976093844303872"
+      },
+      "latest": {
+        "id": "2125165053078839443",
+        "utc": "2026-11-24T09:50:06.000Z",
+        "shanghai": "2026-11-24 17:50:06 GMT+8",
+        "url": "https://x.com/iiiinvest/status/2125165053078839443"
+      },
+      "expand_job_status_counts": {
+        "exhausted": 17,
+        "open": 2,
+        "pending": 30
+      },
+      "open_or_blocked_windows": [
+        {
+          "label": "2024-03",
+          "status": "open",
+          "start_time": "2024-03-01T00:00:00Z",
+          "end_time": "2024-04-01T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 0,
+          "next_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
+          "last_input_token": null
+        },
+        {
+          "label": "2024-04",
+          "status": "open",
+          "start_time": "2024-04-01T00:00:00Z",
+          "end_time": "2024-05-01T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 0,
+          "next_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
+          "last_input_token": null
+        }
+      ],
+      "pending_window_count": 30,
+      "profile_post_count_at_first_lookup": 4858
     },
     "silverfang88": {
-      "retrieved_unique_posts": 354,
-      "profile_post_count": 19982,
-      "share": 0.0177,
-      "span_utc": {
-        "oldest": "2021-09-25T04:43:03.000Z",
-        "newest": "2026-11-24T09:58:30.000Z"
+      "unique_posts_stored": 6576,
+      "types": {
+        "repost": 601,
+        "reply": 2685,
+        "quote": 598,
+        "original": 2692
       },
-      "by_type": {
-        "reply": 98,
-        "original": 210,
-        "quote": 35,
-        "repost": 11
+      "years_utc": {
+        "2021": 137,
+        "2022": 1914,
+        "2023": 3057,
+        "2024": 1240,
+        "2025": 25,
+        "2026": 203
       },
-      "open_tokens": 15,
-      "zero_months": 49
+      "span_utc": [
+        "2021-09-13T06:35:07.000Z",
+        "2026-11-24T09:58:30.000Z"
+      ],
+      "span_shanghai": [
+        "2021-09-13 14:35:07 GMT+8",
+        "2026-11-24 17:58:30 GMT+8"
+      ],
+      "earliest": {
+        "id": "1437303812616720389",
+        "utc": "2021-09-13T06:35:07.000Z",
+        "shanghai": "2021-09-13 14:35:07 GMT+8",
+        "url": "https://x.com/silverfang88/status/1437303812616720389"
+      },
+      "latest": {
+        "id": "2125167165569655181",
+        "utc": "2026-11-24T09:58:30.000Z",
+        "shanghai": "2026-11-24 17:58:30 GMT+8",
+        "url": "https://x.com/silverfang88/status/2125167165569655181"
+      },
+      "expand_job_status_counts": {
+        "exhausted": 31,
+        "pagination_stalled": 1,
+        "open": 7,
+        "pending": 26
+      },
+      "open_or_blocked_windows": [
+        {
+          "label": "2023-09",
+          "status": "pagination_stalled",
+          "start_time": "2023-09-01T00:00:00Z",
+          "end_time": "2023-10-01T00:00:00Z",
+          "pages_fetched": 6,
+          "posts_added": 125,
+          "next_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp",
+          "last_input_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp"
+        },
+        {
+          "label": "2024-03",
+          "status": "open",
+          "start_time": "2024-03-01T00:00:00Z",
+          "end_time": "2024-04-01T00:00:00Z",
+          "pages_fetched": 10,
+          "posts_added": 248,
+          "next_token": "b26v89c19zqg8o3fr5wcqrhtachkqgdzvjp4q69f7l9bx",
+          "last_input_token": "b26v89c19zqg8o3fr5wcr255a58wtmrkfnc185cxn29vh"
+        },
+        {
+          "label": "2024-05",
+          "status": "open",
+          "start_time": "2024-05-01T00:00:00Z",
+          "end_time": "2024-06-01T00:00:00Z",
+          "pages_fetched": 6,
+          "posts_added": 150,
+          "next_token": "b26v89c19zqg8o3fr62d53de450cfswp0mz84b46c6qnx",
+          "last_input_token": "b26v89c19zqg8o3fr62dk0emvcrpe37r47fv1jcfnx7jx"
+        },
+        {
+          "label": "2024-06",
+          "status": "open",
+          "start_time": "2024-06-01T00:00:00Z",
+          "end_time": "2024-07-01T00:00:00Z",
+          "pages_fetched": 4,
+          "posts_added": 75,
+          "next_token": "b26v89c19zqg8o3frqltx5djisytbkp5rw8g7rq9xsj99",
+          "last_input_token": "b26v89c19zqg8o3frqluc2idgji9m8m3ntuywnewo9u2l"
+        },
+        {
+          "label": "2024-07",
+          "status": "open",
+          "start_time": "2024-07-01T00:00:00Z",
+          "end_time": "2024-08-01T00:00:00Z",
+          "pages_fetched": 3,
+          "posts_added": 75,
+          "next_token": "b26v89c19zqg8o3frqouyg4froy55ehtnfctuvpxez0ql",
+          "last_input_token": "b26v89c19zqg8o3frqovd6sp8mymgpb4oba0wp60p2lx9"
+        },
+        {
+          "label": "2024-08",
+          "status": "open",
+          "start_time": "2024-08-01T00:00:00Z",
+          "end_time": "2024-09-01T00:00:00Z",
+          "pages_fetched": 2,
+          "posts_added": 50,
+          "next_token": "b26v89c19zqg8o3frqrvkcq6sv355lx150t4bue6939tp",
+          "last_input_token": "b26v89c19zqg8o3frqrvkl8hxv71g6ltug9ac75ysdpbx"
+        },
+        {
+          "label": "2024-09",
+          "status": "open",
+          "start_time": "2024-09-01T00:00:00Z",
+          "end_time": "2024-10-01T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 25,
+          "next_token": "b26v89c19zqg8o3frqxrbqbp8n383lwbenl8fdjhonkot",
+          "last_input_token": null
+        },
+        {
+          "label": "2026-11-01to08",
+          "status": "open",
+          "start_time": "2026-11-01T00:00:00Z",
+          "end_time": "2026-11-08T00:00:00Z",
+          "pages_fetched": 1,
+          "posts_added": 23,
+          "next_token": "b26v89c19zqg8o3juzlyxezk6ftfn6i1kbajozbr1gmf1",
+          "last_input_token": null
+        }
+      ],
+      "pending_window_count": 26,
+      "profile_post_count_at_first_lookup": 19982
     }
   },
-  "api": {
-    "namespace": "x",
-    "tools": [
-      "get_users_by_usernames",
-      "get_users_posts",
-      "search_posts_all",
-      "get_posts_by_ids"
-    ],
-    "max_results_per_call": 25,
-    "rate_limits": {
-      "per_minute": 30,
-      "per_day": 1000
-    },
-    "approx_calls_this_pass": 58,
-    "daily_budget_remaining_after_pass": "on the order of 900+ (platform footer; not re-checked at file-write time)"
-  },
-  "completeness_claim": false,
-  "portable_archive_target_mb": 25,
-  "integration": {
-    "integrated_on": "2026-11-24",
-    "human_timezone": "Asia/Shanghai (GMT+8)",
-    "note": "First-pass files were copied into the repository and checked against normalized posts and raw pages. Collection was not re-run. Analyses were corrected where they disagreed with stored records. This is not a complete history.",
-    "retrieved_unique_posts_total": 1232,
-    "pagination_verified_complete": false
-  }
+  "expand_calls_this_pass": 403,
+  "daily_reset_utc": "2026-11-25T00:00:00.000Z",
+  "daily_reset_shanghai": "2026-11-25 08:00:00 GMT+8"
 }

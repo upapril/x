@@ -1,85 +1,1097 @@
 {
   "handle": "silverfang88",
   "user_id": "1435990322702520320",
-  "display_name": "子时",
-  "canonical_profile_url": "https://x.com/silverfang88",
-  "account_created_at_utc": "2021-09-09T15:36:07.000Z",
-  "protected": false,
-  "profile_post_count_at_lookup": 19982,
-  "profile_followers_at_lookup": 96852,
-  "collection_pass": "first_pass_bounded",
-  "collection_completed_at_utc": "2026-11-24T11:09:28Z",
-  "collection_completed_at_shanghai": "2026-11-24 19:09:28 GMT+8",
-  "retrieved_unique_posts": 354,
-  "share_of_profile_post_count": 0.0177,
-  "claim_of_completeness": false,
-  "retrieved_span_utc": {
-    "oldest": "2021-09-25T04:43:03.000Z",
-    "newest": "2026-11-24T09:58:30.000Z"
+  "packaged_at_shanghai": "2026-11-24 19:44:01 GMT+8",
+  "unique_posts_stored": 6576,
+  "profile_post_count_at_first_lookup": 19982,
+  "post_count_is_not_a_missing_count_proof": true,
+  "span_utc": [
+    "2021-09-13T06:35:07.000Z",
+    "2026-11-24T09:58:30.000Z"
+  ],
+  "span_shanghai": [
+    "2021-09-13 14:35:07 GMT+8",
+    "2026-11-24 17:58:30 GMT+8"
+  ],
+  "types": {
+    "repost": 601,
+    "reply": 2685,
+    "quote": 598,
+    "original": 2692
   },
-  "by_type": {
-    "reply": 98,
-    "original": 210,
-    "quote": 35,
-    "repost": 11
-  },
-  "by_year": {
-    "2021": 49,
-    "2022": 25,
-    "2023": 25,
-    "2024": 50,
+  "years_utc": {
+    "2021": 137,
+    "2022": 1914,
+    "2023": 3057,
+    "2024": 1240,
     "2025": 25,
-    "2026": 180
+    "2026": 203
   },
-  "by_year_month": {
-    "2021-09": 6,
-    "2021-10": 15,
-    "2021-11": 4,
-    "2021-12": 24,
-    "2022-12": 25,
-    "2023-12": 25,
-    "2024-06": 25,
-    "2024-12": 25,
-    "2025-12": 25,
-    "2026-03": 25,
-    "2026-06": 25,
-    "2026-09": 23,
-    "2026-10": 1,
-    "2026-11": 106
+  "earliest": {
+    "id": "1437303812616720389",
+    "utc": "2021-09-13T06:35:07.000Z",
+    "shanghai": "2021-09-13 14:35:07 GMT+8",
+    "url": "https://x.com/silverfang88/status/1437303812616720389"
   },
-  "months_in_account_life_with_zero_retrieved_posts": [
-    "2022-01",
-    "2022-02",
-    "2022-03",
-    "2022-04",
-    "2022-05",
-    "2022-06",
-    "2022-07",
-    "2022-08",
-    "2022-09",
-    "2022-10",
-    "2022-11",
-    "2023-01",
-    "2023-02",
-    "2023-03",
-    "2023-04",
-    "2023-05",
-    "2023-06",
-    "2023-07",
-    "2023-08",
-    "2023-09",
-    "2023-10",
-    "2023-11",
-    "2024-01",
-    "2024-02",
-    "2024-03",
-    "2024-04",
-    "2024-05",
-    "2024-07",
-    "2024-08",
-    "2024-09",
+  "latest": {
+    "id": "2125167165569655181",
+    "utc": "2026-11-24T09:58:30.000Z",
+    "shanghai": "2026-11-24 17:58:30 GMT+8",
+    "url": "https://x.com/silverfang88/status/2125167165569655181"
+  },
+  "expand_job_status_counts": {
+    "exhausted": 31,
+    "pagination_stalled": 1,
+    "open": 7,
+    "pending": 26
+  },
+  "windows": [
+    {
+      "label": "2021-09",
+      "query": "from:silverfang88",
+      "start_time": "2021-09-09T00:00:00Z",
+      "end_time": "2021-10-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 32,
+      "posts_added": 26,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2021-10",
+      "query": "from:silverfang88",
+      "start_time": "2021-10-01T00:00:00Z",
+      "end_time": "2021-11-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 15,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2021-11",
+      "query": "from:silverfang88",
+      "start_time": "2021-11-01T00:00:00Z",
+      "end_time": "2021-12-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 4,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2021-12",
+      "query": "from:silverfang88",
+      "start_time": "2021-12-01T00:00:00Z",
+      "end_time": "2022-01-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 5,
+      "posts_returned": 86,
+      "posts_added": 62,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-01",
+      "query": "from:silverfang88",
+      "start_time": "2022-01-01T00:00:00Z",
+      "end_time": "2022-02-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 110,
+      "posts_added": 110,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-02",
+      "query": "from:silverfang88",
+      "start_time": "2022-02-01T00:00:00Z",
+      "end_time": "2022-03-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 108,
+      "posts_added": 108,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-03",
+      "query": "from:silverfang88",
+      "start_time": "2022-03-01T00:00:00Z",
+      "end_time": "2022-04-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 126,
+      "posts_added": 126,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-04",
+      "query": "from:silverfang88",
+      "start_time": "2022-04-01T00:00:00Z",
+      "end_time": "2022-05-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 252,
+      "posts_added": 252,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fpyqp1fnr1ly328ve1xwuodzhtlzel",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-05",
+      "query": "from:silverfang88",
+      "start_time": "2022-05-01T00:00:00Z",
+      "end_time": "2022-06-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 138,
+      "posts_added": 138,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-06",
+      "query": "from:silverfang88",
+      "start_time": "2022-06-01T00:00:00Z",
+      "end_time": "2022-07-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 9,
+      "posts_returned": 184,
+      "posts_added": 184,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-07",
+      "query": "from:silverfang88",
+      "start_time": "2022-07-01T00:00:00Z",
+      "end_time": "2022-08-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 203,
+      "posts_added": 203,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-08",
+      "query": "from:silverfang88",
+      "start_time": "2022-08-01T00:00:00Z",
+      "end_time": "2022-09-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 133,
+      "posts_added": 133,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-09",
+      "query": "from:silverfang88",
+      "start_time": "2022-09-01T00:00:00Z",
+      "end_time": "2022-10-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 5,
+      "posts_returned": 76,
+      "posts_added": 76,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-10",
+      "query": "from:silverfang88",
+      "start_time": "2022-10-01T00:00:00Z",
+      "end_time": "2022-11-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 170,
+      "posts_added": 170,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-11",
+      "query": "from:silverfang88",
+      "start_time": "2022-11-01T00:00:00Z",
+      "end_time": "2022-12-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 261,
+      "posts_added": 261,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fpzeme08bsz9aneqoi2r51qh9xfn25",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2022-12",
+      "query": "from:silverfang88",
+      "start_time": "2022-12-01T00:00:00Z",
+      "end_time": "2023-01-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 153,
+      "posts_added": 128,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-01",
+      "query": "from:silverfang88",
+      "start_time": "2023-01-01T00:00:00Z",
+      "end_time": "2023-02-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 153,
+      "posts_added": 153,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-02",
+      "query": "from:silverfang88",
+      "start_time": "2023-02-01T00:00:00Z",
+      "end_time": "2023-03-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 216,
+      "posts_added": 216,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqk6z4lsomfxmeu8m7ffw5tn7lp0u5",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-03",
+      "query": "from:silverfang88",
+      "start_time": "2023-03-01T00:00:00Z",
+      "end_time": "2023-04-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 330,
+      "posts_added": 330,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqk9ywhtvk31qkf2lewhlwecs0gvp9",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-04",
+      "query": "from:silverfang88",
+      "start_time": "2023-04-01T00:00:00Z",
+      "end_time": "2023-05-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 163,
+      "posts_added": 163,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkcz3nqgnz5vimi8ft6s5tob6kj99",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-05",
+      "query": "from:silverfang88",
+      "start_time": "2023-05-01T00:00:00Z",
+      "end_time": "2023-06-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 9,
+      "posts_returned": 188,
+      "posts_added": 188,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkfzan8vmgostwyr60f3o3ti6aa9p",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-06",
+      "query": "from:silverfang88",
+      "start_time": "2023-06-01T00:00:00Z",
+      "end_time": "2023-07-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 21,
+      "posts_returned": 478,
+      "posts_added": 478,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkizwfkvp0ubvvnoqyijhz1ud71bx",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-07",
+      "query": "from:silverfang88",
+      "start_time": "2023-07-01T00:00:00Z",
+      "end_time": "2023-08-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 298,
+      "posts_added": 298,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkm03f16wxukbriapiwux602r216l",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-08",
+      "query": "from:silverfang88",
+      "start_time": "2023-08-01T00:00:00Z",
+      "end_time": "2023-09-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 291,
+      "posts_added": 291,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqkp0akxs8e09lwgch3h5aebvuini5",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-09",
+      "query": "from:silverfang88",
+      "start_time": "2023-09-01T00:00:00Z",
+      "end_time": "2023-10-01T00:00:00Z",
+      "status": "pagination_stalled",
+      "pages_fetched": 6,
+      "posts_returned": 150,
+      "posts_added": 125,
+      "next_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp",
+      "last_input_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp",
+      "last_span": [
+        "2023-09-14T03:35:08.000Z",
+        "2023-09-15T05:50:57.000Z"
+      ]
+    },
+    {
+      "label": "2023-09-01to14",
+      "query": "from:silverfang88",
+      "start_time": "2023-09-01T00:00:00Z",
+      "end_time": "2023-09-14T03:35:08Z",
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 113,
+      "posts_added": 113,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqks0hqud7qoplb38ratcn6rx0nptp",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-10",
+      "query": "from:silverfang88",
+      "start_time": "2023-10-01T00:00:00Z",
+      "end_time": "2023-11-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 18,
+      "posts_returned": 406,
+      "posts_added": 406,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5bh9mjxtlbtu1pr1fq25mfmgvr0d",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-11",
+      "query": "from:silverfang88",
+      "start_time": "2023-11-01T00:00:00Z",
+      "end_time": "2023-12-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 138,
+      "posts_added": 138,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5ehgsgj519ukrnidqstvw6s8gnel",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2023-12",
+      "query": "from:silverfang88",
+      "start_time": "2023-12-01T00:00:00Z",
+      "end_time": "2024-01-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 158,
+      "posts_added": 133,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5kd861g000gzegddvbeb78vchnct",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-01",
+      "query": "from:silverfang88",
+      "start_time": "2024-01-01T00:00:00Z",
+      "end_time": "2024-02-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 163,
+      "posts_added": 163,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5ndfbx4m0v1hshdw6p8p46hylv25",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-02",
+      "query": "from:silverfang88",
+      "start_time": "2024-02-01T00:00:00Z",
+      "end_time": "2024-03-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 285,
+      "posts_added": 285,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5qdmfreb5e6emo09a2mfxjmzned9",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-03",
+      "query": "from:silverfang88",
+      "start_time": "2024-03-01T00:00:00Z",
+      "end_time": "2024-04-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 10,
+      "posts_returned": 248,
+      "posts_added": 248,
+      "next_token": "b26v89c19zqg8o3fr5wcqrhtachkqgdzvjp4q69f7l9bx",
+      "last_input_token": "b26v89c19zqg8o3fr5wcr255a58wtmrkfnc185cxn29vh",
+      "last_span": [
+        "2024-03-22T23:04:48.000Z",
+        "2024-03-24T07:38:20.000Z"
+      ]
+    },
+    {
+      "label": "2024-04",
+      "query": "from:silverfang88",
+      "start_time": "2024-04-01T00:00:00Z",
+      "end_time": "2024-05-01T00:00:00Z",
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 119,
+      "posts_added": 119,
+      "next_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5we0erx3jnxo3xjxv6lau3bqifel",
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "label": "2024-05",
+      "query": "from:silverfang88",
+      "start_time": "2024-05-01T00:00:00Z",
+      "end_time": "2024-06-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 6,
+      "posts_returned": 150,
+      "posts_added": 150,
+      "next_token": "b26v89c19zqg8o3fr62d53de450cfswp0mz84b46c6qnx",
+      "last_input_token": "b26v89c19zqg8o3fr62dk0emvcrpe37r47fv1jcfnx7jx",
+      "last_span": [
+        "2024-05-23T23:49:15.000Z",
+        "2024-05-25T10:46:49.000Z"
+      ]
+    },
+    {
+      "label": "2024-06",
+      "query": "from:silverfang88",
+      "start_time": "2024-06-01T00:00:00Z",
+      "end_time": "2024-07-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 4,
+      "posts_returned": 100,
+      "posts_added": 75,
+      "next_token": "b26v89c19zqg8o3frqltx5djisytbkp5rw8g7rq9xsj99",
+      "last_input_token": "b26v89c19zqg8o3frqluc2idgji9m8m3ntuywnewo9u2l",
+      "last_span": [
+        "2024-06-23T15:44:44.000Z",
+        "2024-06-25T11:03:07.000Z"
+      ]
+    },
+    {
+      "label": "2024-07",
+      "query": "from:silverfang88",
+      "start_time": "2024-07-01T00:00:00Z",
+      "end_time": "2024-08-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 3,
+      "posts_returned": 75,
+      "posts_added": 75,
+      "next_token": "b26v89c19zqg8o3frqouyg4froy55ehtnfctuvpxez0ql",
+      "last_input_token": "b26v89c19zqg8o3frqovd6sp8mymgpb4oba0wp60p2lx9",
+      "last_span": [
+        "2024-07-29T07:23:02.000Z",
+        "2024-07-29T17:43:47.000Z"
+      ]
+    },
+    {
+      "label": "2024-08",
+      "query": "from:silverfang88",
+      "start_time": "2024-08-01T00:00:00Z",
+      "end_time": "2024-09-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 2,
+      "posts_returned": 50,
+      "posts_added": 50,
+      "next_token": "b26v89c19zqg8o3frqrvkcq6sv355lx150t4bue6939tp",
+      "last_input_token": "b26v89c19zqg8o3frqrvkl8hxv71g6ltug9ac75ysdpbx",
+      "last_span": [
+        "2024-08-30T01:50:17.000Z",
+        "2024-08-31T02:52:24.000Z"
+      ]
+    },
+    {
+      "label": "2024-09",
+      "query": "from:silverfang88",
+      "start_time": "2024-09-01T00:00:00Z",
+      "end_time": "2024-10-01T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 1,
+      "posts_returned": 25,
+      "posts_added": 25,
+      "next_token": "b26v89c19zqg8o3frqxrbqbp8n383lwbenl8fdjhonkot",
+      "last_input_token": null,
+      "last_span": [
+        "2024-09-29T11:39:19.000Z",
+        "2024-09-30T15:36:55.000Z"
+      ]
+    },
+    {
+      "label": "2024-10",
+      "query": "from:silverfang88",
+      "start_time": "2024-10-01T00:00:00Z",
+      "end_time": "2024-11-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-11",
+      "query": "from:silverfang88",
+      "start_time": "2024-11-01T00:00:00Z",
+      "end_time": "2024-12-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2024-12",
+      "query": "from:silverfang88",
+      "start_time": "2024-12-01T00:00:00Z",
+      "end_time": "2025-01-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-01",
+      "query": "from:silverfang88",
+      "start_time": "2025-01-01T00:00:00Z",
+      "end_time": "2025-02-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-02",
+      "query": "from:silverfang88",
+      "start_time": "2025-02-01T00:00:00Z",
+      "end_time": "2025-03-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-03",
+      "query": "from:silverfang88",
+      "start_time": "2025-03-01T00:00:00Z",
+      "end_time": "2025-04-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-04",
+      "query": "from:silverfang88",
+      "start_time": "2025-04-01T00:00:00Z",
+      "end_time": "2025-05-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-05",
+      "query": "from:silverfang88",
+      "start_time": "2025-05-01T00:00:00Z",
+      "end_time": "2025-06-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-06",
+      "query": "from:silverfang88",
+      "start_time": "2025-06-01T00:00:00Z",
+      "end_time": "2025-07-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-07",
+      "query": "from:silverfang88",
+      "start_time": "2025-07-01T00:00:00Z",
+      "end_time": "2025-08-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-08",
+      "query": "from:silverfang88",
+      "start_time": "2025-08-01T00:00:00Z",
+      "end_time": "2025-09-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-09",
+      "query": "from:silverfang88",
+      "start_time": "2025-09-01T00:00:00Z",
+      "end_time": "2025-10-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-10",
+      "query": "from:silverfang88",
+      "start_time": "2025-10-01T00:00:00Z",
+      "end_time": "2025-11-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-11",
+      "query": "from:silverfang88",
+      "start_time": "2025-11-01T00:00:00Z",
+      "end_time": "2025-12-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2025-12",
+      "query": "from:silverfang88",
+      "start_time": "2025-12-01T00:00:00Z",
+      "end_time": "2026-01-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-01",
+      "query": "from:silverfang88",
+      "start_time": "2026-01-01T00:00:00Z",
+      "end_time": "2026-02-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-02",
+      "query": "from:silverfang88",
+      "start_time": "2026-02-01T00:00:00Z",
+      "end_time": "2026-03-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-03",
+      "query": "from:silverfang88",
+      "start_time": "2026-03-01T00:00:00Z",
+      "end_time": "2026-04-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-04",
+      "query": "from:silverfang88",
+      "start_time": "2026-04-01T00:00:00Z",
+      "end_time": "2026-05-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-05",
+      "query": "from:silverfang88",
+      "start_time": "2026-05-01T00:00:00Z",
+      "end_time": "2026-06-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-06",
+      "query": "from:silverfang88",
+      "start_time": "2026-06-01T00:00:00Z",
+      "end_time": "2026-07-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-07",
+      "query": "from:silverfang88",
+      "start_time": "2026-07-01T00:00:00Z",
+      "end_time": "2026-08-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-08",
+      "query": "from:silverfang88",
+      "start_time": "2026-08-01T00:00:00Z",
+      "end_time": "2026-09-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-09",
+      "query": "from:silverfang88",
+      "start_time": "2026-09-01T00:00:00Z",
+      "end_time": "2026-10-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-10",
+      "query": "from:silverfang88",
+      "start_time": "2026-10-01T00:00:00Z",
+      "end_time": "2026-11-01T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-11",
+      "query": "from:silverfang88",
+      "start_time": "2026-11-01T00:00:00Z",
+      "end_time": "2026-11-25T00:00:00Z",
+      "status": "pending",
+      "pages_fetched": 0,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "next_token": null,
+      "last_input_token": null,
+      "last_span": null
+    },
+    {
+      "label": "2026-11-01to08",
+      "query": "from:silverfang88",
+      "start_time": "2026-11-01T00:00:00Z",
+      "end_time": "2026-11-08T00:00:00Z",
+      "status": "open",
+      "pages_fetched": 1,
+      "posts_returned": 23,
+      "posts_added": 23,
+      "next_token": "b26v89c19zqg8o3juzlyxezk6ftfn6i1kbajozbr1gmf1",
+      "last_input_token": null,
+      "last_span": null
+    }
+  ],
+  "open_or_blocked_windows": [
+    {
+      "label": "2023-09",
+      "status": "pagination_stalled",
+      "start_time": "2023-09-01T00:00:00Z",
+      "end_time": "2023-10-01T00:00:00Z",
+      "pages_fetched": 6,
+      "posts_added": 125,
+      "next_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp",
+      "last_input_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp"
+    },
+    {
+      "label": "2024-03",
+      "status": "open",
+      "start_time": "2024-03-01T00:00:00Z",
+      "end_time": "2024-04-01T00:00:00Z",
+      "pages_fetched": 10,
+      "posts_added": 248,
+      "next_token": "b26v89c19zqg8o3fr5wcqrhtachkqgdzvjp4q69f7l9bx",
+      "last_input_token": "b26v89c19zqg8o3fr5wcr255a58wtmrkfnc185cxn29vh"
+    },
+    {
+      "label": "2024-05",
+      "status": "open",
+      "start_time": "2024-05-01T00:00:00Z",
+      "end_time": "2024-06-01T00:00:00Z",
+      "pages_fetched": 6,
+      "posts_added": 150,
+      "next_token": "b26v89c19zqg8o3fr62d53de450cfswp0mz84b46c6qnx",
+      "last_input_token": "b26v89c19zqg8o3fr62dk0emvcrpe37r47fv1jcfnx7jx"
+    },
+    {
+      "label": "2024-06",
+      "status": "open",
+      "start_time": "2024-06-01T00:00:00Z",
+      "end_time": "2024-07-01T00:00:00Z",
+      "pages_fetched": 4,
+      "posts_added": 75,
+      "next_token": "b26v89c19zqg8o3frqltx5djisytbkp5rw8g7rq9xsj99",
+      "last_input_token": "b26v89c19zqg8o3frqluc2idgji9m8m3ntuywnewo9u2l"
+    },
+    {
+      "label": "2024-07",
+      "status": "open",
+      "start_time": "2024-07-01T00:00:00Z",
+      "end_time": "2024-08-01T00:00:00Z",
+      "pages_fetched": 3,
+      "posts_added": 75,
+      "next_token": "b26v89c19zqg8o3frqouyg4froy55ehtnfctuvpxez0ql",
+      "last_input_token": "b26v89c19zqg8o3frqovd6sp8mymgpb4oba0wp60p2lx9"
+    },
+    {
+      "label": "2024-08",
+      "status": "open",
+      "start_time": "2024-08-01T00:00:00Z",
+      "end_time": "2024-09-01T00:00:00Z",
+      "pages_fetched": 2,
+      "posts_added": 50,
+      "next_token": "b26v89c19zqg8o3frqrvkcq6sv355lx150t4bue6939tp",
+      "last_input_token": "b26v89c19zqg8o3frqrvkl8hxv71g6ltug9ac75ysdpbx"
+    },
+    {
+      "label": "2024-09",
+      "status": "open",
+      "start_time": "2024-09-01T00:00:00Z",
+      "end_time": "2024-10-01T00:00:00Z",
+      "pages_fetched": 1,
+      "posts_added": 25,
+      "next_token": "b26v89c19zqg8o3frqxrbqbp8n383lwbenl8fdjhonkot",
+      "last_input_token": null
+    },
+    {
+      "label": "2026-11-01to08",
+      "status": "open",
+      "start_time": "2026-11-01T00:00:00Z",
+      "end_time": "2026-11-08T00:00:00Z",
+      "pages_fetched": 1,
+      "posts_added": 23,
+      "next_token": "b26v89c19zqg8o3juzlyxezk6ftfn6i1kbajozbr1gmf1",
+      "last_input_token": null
+    }
+  ],
+  "pending_window_labels": [
     "2024-10",
     "2024-11",
+    "2024-12",
     "2025-01",
     "2025-02",
     "2025-03",
@@ -91,155 +1103,58 @@
     "2025-09",
     "2025-10",
     "2025-11",
+    "2025-12",
     "2026-01",
     "2026-02",
+    "2026-03",
     "2026-04",
     "2026-05",
+    "2026-06",
     "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09",
+    "2026-10",
+    "2026-11"
   ],
-  "zero_month_count": 49,
-  "api_pages_stored": 15,
-  "api_tools_used": {
-    "get_users_posts": 3,
-    "search_posts_all": 12
-  },
-  "end_conditions": [
-    "get_users_posts was only advanced 3 pages (still had next_token).",
-    "search_posts_all year/quarter windows generally still have next_token; stopped after 1-2 pages per window. Late-window bias is severe for 2021-2025 (often only the last days of December or of a sampled month).",
-    "Earliest retrieved post is 2021-09-25T04:43:03.000Z (2021-09-25 12:43:03 GMT+8, id 1441624264130453510), not account creation 2021-09-09. Posts from 2021-09-28 are also in the sample. Early September 2021 was not fully paged."
+  "exhausted_window_labels": [
+    "2021-09",
+    "2021-10",
+    "2021-11",
+    "2021-12",
+    "2022-01",
+    "2022-02",
+    "2022-03",
+    "2022-04",
+    "2022-05",
+    "2022-06",
+    "2022-07",
+    "2022-08",
+    "2022-09",
+    "2022-10",
+    "2022-11",
+    "2022-12",
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09-01to14",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-04"
   ],
-  "open_pagination_tokens_count": 15,
-  "open_pagination_tokens": [
-    {
-      "page_file": "page_0001_get_users_posts.json",
-      "tool": "get_users_posts",
-      "oldest_created_at": "2026-11-20T15:40:46.000Z",
-      "newest_created_at": "2026-11-24T09:58:30.000Z",
-      "next_token": "7140dibdnow9c7btwp0gm9hxmhcpw08htluwm0nmf8rhz",
-      "returned": 21
-    },
-    {
-      "page_file": "page_0002_get_users_posts.json",
-      "tool": "get_users_posts",
-      "oldest_created_at": "2026-11-18T08:48:33.000Z",
-      "newest_created_at": "2026-11-20T15:36:47.000Z",
-      "next_token": "7140dibdnow9c7btwp0gm7dik7jptawauknskd4f46gc6",
-      "returned": 22
-    },
-    {
-      "page_file": "page_0003_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2022-12-30T08:33:34.000Z",
-      "newest_created_at": "2022-12-31T21:18:53.000Z",
-      "next_token": "b26v89c19zqg8o3fqk12y2kmims3ek42038xj5d723csd",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0004_get_users_posts.json",
-      "tool": "get_users_posts",
-      "oldest_created_at": "2026-11-15T00:22:31.000Z",
-      "newest_created_at": "2026-11-18T08:36:18.000Z",
-      "next_token": "7140dibdnow9c7btwp0gm586sh5grkff6xg0bhwqi6zaw",
-      "returned": 21
-    },
-    {
-      "page_file": "page_0005_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2021-12-27T12:31:11.000Z",
-      "newest_created_at": "2021-12-31T15:15:40.000Z",
-      "next_token": "b26v89c19zqg8o3fpe17118d94643ysjaeoco41qyxuv1",
-      "returned": 24
-    },
-    {
-      "page_file": "page_0006_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2024-12-30T21:41:22.000Z",
-      "newest_created_at": "2024-12-31T21:19:53.000Z",
-      "next_token": "b26v89c19zqg8o3frr6rx5wg682fbp7oxy4gtqs8fk8l9",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0007_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2025-12-26T07:55:37.000Z",
-      "newest_created_at": "2025-12-31T20:38:18.000Z",
-      "next_token": "b26v89c19zqg8o3jue8j5898b0jk0zyob8qro7jxp1y7x",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0008_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-11-12T08:54:40.000Z",
-      "newest_created_at": "2026-11-14T23:01:04.000Z",
-      "next_token": "b26v89c19zqg8o3juzovccrnlorlwp1p0xb8mp6kn39fh",
-      "returned": 22
-    },
-    {
-      "page_file": "page_0009_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2023-12-28T02:59:17.000Z",
-      "newest_created_at": "2023-12-31T23:06:38.000Z",
-      "next_token": "b26v89c19zqg8o3fr5nczvn9dh0cdl06kf5iaw0trq6pp",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0010_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2024-06-28T10:28:55.000Z",
-      "newest_created_at": "2024-06-30T15:32:55.000Z",
-      "next_token": "b26v89c19zqg8o3frqlura85d9b7790475dzunij79hfh",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0011_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-11-09T03:07:04.000Z",
-      "newest_created_at": "2026-11-12T04:13:06.000Z",
-      "next_token": "b26v89c19zqg8o3juzlzct2m4bosa528pz9hjwzdtd9q5",
-      "returned": 20
-    },
-    {
-      "page_file": "page_0012_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-03-30T09:37:59.000Z",
-      "newest_created_at": "2026-03-31T17:47:36.000Z",
-      "next_token": "b26v89c19zqg8o3juehk5kx0it9f1t8fgdw5c5yu3uhrx",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0013_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-06-26T12:03:31.000Z",
-      "newest_created_at": "2026-06-30T14:22:19.000Z",
-      "next_token": "b26v89c19zqg8o3juetfvu255d427e8gva9n0uscrbn25",
-      "returned": 25
-    },
-    {
-      "page_file": "page_0014_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2026-09-26T16:30:45.000Z",
-      "newest_created_at": "2026-09-30T17:00:50.000Z",
-      "next_token": "b26v89c19zqg8o3juzix23p0ggdrzqhiancxwefhd57ct",
-      "returned": 23
-    },
-    {
-      "page_file": "page_0015_search_posts_all.json",
-      "tool": "search_posts_all",
-      "oldest_created_at": "2021-09-25T04:43:03.000Z",
-      "newest_created_at": "2021-11-30T09:07:17.000Z",
-      "next_token": "b26v89c19zqg8o3fpds6fwa241jl5yx1x1v5vjomr9oxp",
-      "returned": 25
-    }
+  "coverage_notes": [
+    "2021-09 through 2023-12 is largely exhausted at monthly granularity, with one exception: original 2023-09 `pagination_stalled` (output token identical to input `b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp` on a duplicate page spanning 2023-09-14T03:35:08Z–2023-09-15T05:50:57Z). The token was not reused. The earlier remainder was opened as `2023-09-01to14` (`end_time=2023-09-14T03:35:08Z`) and exhausted with stored provenance. Combined September 2023 coverage is therefore: stalled later segment plus exhausted earlier subwindow — not a clean monthly exhaustion.",
+    "Some early 2021-09/10/11 exhaustions occurred before input-token provenance was added to the ingest path, so those exhaustions are weaker than later ones.",
+    "2024-01, 2024-02, and 2024-04 are exhausted. 2024-03 and 2024-05 through 2024-09 remain open with next_tokens (2024-03 is the deepest open window, 10 pages / +248).",
+    "2024-10 through most of 2025 and 2026 monthly windows were never opened, except an open slice `2026-11-01to08`. The stored 2025 count is only a thin first-pass year-end sample; do not interpret 2025 as a quiet year."
   ],
-  "pinned_post_id": "2109440726865985560",
-  "pinned_post_retrieval": "get_users_by_usernames pinned_post_id expansion returned resource-not-found; get_posts_by_ids succeeded",
-  "known_limits": [
-    "X public read limit 30 calls/minute and 1000/day; 25 results/call",
-    "Deleted, withheld, protected, or otherwise inaccessible posts cannot be retrieved",
-    "search_posts_all year windows in this pass are recency-sorted and often only cover the end of the window",
-    "Some referenced tweets/users were not found or were suspended (see raw page errors)"
-  ],
-  "ids_stored_as": "strings",
-  "timestamp_policy": "API created_at kept as UTC; human summaries use Asia/Shanghai (GMT+8)"
+  "stopping_reason": "Collection paused to prioritize evidence-grounded analysis and packaging. Daily X-read budget was not exhausted. Open and pending windows remain. This package is not a complete tweet archive.",
+  "claim_all_tweets": false
 }

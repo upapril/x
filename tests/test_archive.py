@@ -1,7 +1,8 @@
-"""Local checks for the first-pass X archive. No network."""
+"""Local checks for the expanded X archive. No network."""
 from __future__ import annotations
 
 import json
+import subprocess
 import sys
 import unittest
 from pathlib import Path
@@ -10,6 +11,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "_tools"))
 
 from validate_archive import HANDLES, validate  # noqa: E402
+
+FIRST_PASS = "7c43efc9646ebe174a1e5d43c669865d982909ba"
 
 
 class ArchiveValidationTest(unittest.TestCase):
@@ -22,10 +25,11 @@ class ArchiveValidationTest(unittest.TestCase):
 
     def test_counts(self):
         summary = self.report["summary"]
-        self.assertEqual(summary["total_posts"], 1232)
-        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 512)
-        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 366)
-        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 354)
+        self.assertEqual(summary["total_posts"], 8100)
+        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 788)
+        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 736)
+        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 6576)
+        self.assertGreater(summary["handles"]["silverfang88"]["pending_windows"], 0)
         self.assertEqual(summary["handles"]["alexandr_wang"]["profile_post_count"], 3762)
         self.assertEqual(summary["handles"]["iiiinvest"]["profile_post_count"], 4858)
         self.assertEqual(summary["handles"]["silverfang88"]["profile_post_count"], 19982)
@@ -39,21 +43,38 @@ class ArchiveValidationTest(unittest.TestCase):
     def test_manifests_deny_completeness(self):
         for handle in HANDLES:
             manifest = json.loads((ROOT / handle / "coverage_manifest.json").read_text(encoding="utf-8"))
-            self.assertIs(manifest["claim_of_completeness"], False)
-            self.assertEqual(manifest["ids_stored_as"], "strings")
+            self.assertIs(manifest["claim_all_tweets"], False)
+            self.assertGreater(manifest["expand_job_status_counts"].get("pending", 0), 0)
 
-    def test_known_bad_citation_removed_from_analysis(self):
+    def test_known_bad_citation_is_not_linked(self):
         text = (ROOT / "alexandr_wang" / "analysis.md").read_text(encoding="utf-8")
-        self.assertNotIn("809675263590961152", text)
+        self.assertNotIn("status/809675263590961152", text)
+        self.assertIn("absent", text)
         self.assertIn("809663723006611456", text)
 
     def test_readme_states_partial_archive(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
-        self.assertIn("not a complete", readme.lower())
-        self.assertIn("1,232", readme)
-        self.assertIn("alexandr_wang/", readme)
-        self.assertIn("iiiinvest/", readme)
-        self.assertIn("silverfang88/", readme)
+        lowered = readme.lower()
+        self.assertIn("incomplete", lowered)
+        self.assertIn("6576", readme)
+        self.assertIn("788", readme)
+        self.assertIn("736", readme)
+        self.assertIn("INSIGHTS.md", readme)
+        self.assertIn("FINANCE_SKILLS_COMPARISON.md", readme)
+        self.assertIn("pending", lowered)
+
+    def test_expanded_store_keeps_first_pass_ids(self):
+        for handle in HANDLES:
+            old = subprocess.check_output(
+                ["git", "show", f"{FIRST_PASS}:{handle}/normalized/posts.jsonl"],
+                cwd=ROOT,
+            ).decode("utf-8")
+            old_ids = {json.loads(line)["id"] for line in old.splitlines() if line.strip()}
+            new_ids = set()
+            for line in (ROOT / handle / "normalized" / "posts.jsonl").read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    new_ids.add(json.loads(line)["id"])
+            self.assertTrue(old_ids <= new_ids, f"{handle} dropped {len(old_ids - new_ids)} first-pass ids")
 
 
 if __name__ == "__main__":

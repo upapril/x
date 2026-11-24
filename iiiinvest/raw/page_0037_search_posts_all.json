@@ -1,0 +1,76 @@
+{
+  "collected_at_utc": "2026-11-24T11:35:43Z",
+  "collected_at_shanghai": "2026-11-24T19:35:43+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86NDQH5NFBS18598H8HQ6JR.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2023-03-01T00:00:00Z",
+    "end_time": "2023-04-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-03"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "created_at": "2023-03-15T13:27:53.000Z",
+      "edit_history_tweet_ids": [
+        "1635996238582792193"
+      ],
+      "id": "1635996238582792193",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 352,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1635515883861999616",
+          "type": "quoted"
+        }
+      ],
+      "text": "世人都说钱财好，却把歪路走到了。 https://t.co/5Pp70PeY2t",
+      "url": "https://x.com/iiiinvest/status/1635996238582792193"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "public_metrics": {
+          "followers_count": 56906,
+          "following_count": 39,
+          "like_count": 3998,
+          "listed_count": 529,
+          "media_count": 436,
+          "tweet_count": 4858
+        },
+        "username": "iiiinvest"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1635996238582792193",
+    "next_token": "b26v89c19zqg8o3fqka10e5cbhdbqpeg1xwjzdk7tp8xp",
+    "oldest_id": "1635996238582792193",
+    "result_count": 1
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1635515883861999616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1635515883861999616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1635515883861999616"
+    }
+  ]
+}
