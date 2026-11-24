@@ -1,0 +1,542 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "file": "page_0001_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 21,
+      "returned": 21,
+      "added": 21,
+      "duplicates_in_page": 0,
+      "newest_id": "2125167165569655181",
+      "oldest_id": "2123803747772191147",
+      "newest_created_at": "2026-11-24T09:58:30.000Z",
+      "oldest_created_at": "2026-11-20T15:40:46.000Z",
+      "next_token": "7140dibdnow9c7btwp0gm9hxmhcpw08htluwm0nmf8rhz",
+      "type_counts": {
+        "original": 19,
+        "quote": 1,
+        "reply": 1
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T10:59:53Z"
+    },
+    {
+      "page": 2,
+      "file": "page_0002_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 22,
+      "returned": 22,
+      "added": 22,
+      "duplicates_in_page": 0,
+      "newest_id": "2123802744343634271",
+      "oldest_id": "2122975234420883486",
+      "newest_created_at": "2026-11-20T15:36:47.000Z",
+      "oldest_created_at": "2026-11-18T08:48:33.000Z",
+      "next_token": "7140dibdnow9c7btwp0gm7dik7jptawauknskd4f46gc6",
+      "type_counts": {
+        "original": 18,
+        "quote": 2,
+        "reply": 2
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:01:24Z"
+    },
+    {
+      "page": 3,
+      "file": "page_0003_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1609298069941792768",
+      "oldest_id": "1608743081880453122",
+      "newest_created_at": "2022-12-31T21:18:53.000Z",
+      "oldest_created_at": "2022-12-30T08:33:34.000Z",
+      "next_token": "b26v89c19zqg8o3fqk12y2kmims3ek42038xj5d723csd",
+      "type_counts": {
+        "original": 9,
+        "reply": 15,
+        "repost": 1
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:01:24Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1608769880396005377].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1608769880396005377",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1608769880396005377"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "file": "page_0004_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 21,
+      "returned": 21,
+      "added": 21,
+      "duplicates_in_page": 0,
+      "newest_id": "2122972150172897684",
+      "oldest_id": "2121760721327505628",
+      "newest_created_at": "2026-11-18T08:36:18.000Z",
+      "oldest_created_at": "2026-11-15T00:22:31.000Z",
+      "next_token": "7140dibdnow9c7btwp0gm586sh5grkff6xg0bhwqi6zaw",
+      "type_counts": {
+        "original": 17,
+        "reply": 2,
+        "quote": 2
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:02:06Z"
+    },
+    {
+      "page": 5,
+      "file": "page_0005_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 24,
+      "returned": 24,
+      "added": 24,
+      "duplicates_in_page": 0,
+      "newest_id": "1476935090001555459",
+      "oldest_id": "1475444145124642816",
+      "newest_created_at": "2021-12-31T15:15:40.000Z",
+      "oldest_created_at": "2021-12-27T12:31:11.000Z",
+      "next_token": "b26v89c19zqg8o3fpe17118d94643ysjaeoco41qyxuv1",
+      "type_counts": {
+        "repost": 6,
+        "original": 4,
+        "reply": 14
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:02:06Z"
+    },
+    {
+      "page": 6,
+      "file": "page_0006_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1874203848946139150",
+      "oldest_id": "1873846868142416098",
+      "newest_created_at": "2024-12-31T21:19:53.000Z",
+      "oldest_created_at": "2024-12-30T21:41:22.000Z",
+      "next_token": "b26v89c19zqg8o3frr6rx5wg682fbp7oxy4gtqs8fk8l9",
+      "type_counts": {
+        "original": 5,
+        "reply": 17,
+        "quote": 3
+      },
+      "errors_count": 7,
+      "collected_at_utc": "2026-11-24T11:02:06Z",
+      "errors": [
+        {
+          "detail": "The 'in_reply_to_user_id' field could not be fully resolved for this request and may be missing or incomplete on returned tweets. Retrying the request may resolve the data.",
+          "field": "in_reply_to_user_id",
+          "resource_type": "tweet",
+          "section": "data",
+          "title": "Field Hydration Error",
+          "type": "https://api.x.com/2/problems/field-hydration-failure"
+        },
+        {
+          "detail": "The 'referenced_tweets' field could not be fully resolved for this request and may be missing or incomplete on returned tweets. Retrying the request may resolve the data.",
+          "field": "referenced_tweets",
+          "resource_type": "tweet",
+          "section": "data",
+          "title": "Field Hydration Error",
+          "type": "https://api.x.com/2/problems/field-hydration-failure"
+        },
+        {
+          "detail": "User has been suspended: [1755851777046687744].",
+          "parameter": "in_reply_to_user_id",
+          "resource_id": "1755851777046687744",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1755851777046687744"
+        },
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1873882516157042821].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1873882516157042821",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "1873882516157042821"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1873868025411317992].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1873868025411317992",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1873868025411317992"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1873848843751874728].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1873848843751874728",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1873848843751874728"
+        },
+        {
+          "detail": "User has been suspended: [kom691320].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "kom691320",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "kom691320"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "file": "page_0007_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2006464954829086854",
+      "oldest_id": "2004461080890970471",
+      "newest_created_at": "2025-12-31T20:38:18.000Z",
+      "oldest_created_at": "2025-12-26T07:55:37.000Z",
+      "next_token": "b26v89c19zqg8o3jue8j5898b0jk0zyob8qro7jxp1y7x",
+      "type_counts": {
+        "original": 16,
+        "reply": 6,
+        "quote": 3
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:02:58Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2004448926758502542].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2004448926758502542",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2004448926758502542"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "file": "page_0008_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 22,
+      "returned": 22,
+      "added": 22,
+      "duplicates_in_page": 0,
+      "newest_id": "2121740227073171705",
+      "oldest_id": "2120802448361320958",
+      "newest_created_at": "2026-11-14T23:01:04.000Z",
+      "oldest_created_at": "2026-11-12T08:54:40.000Z",
+      "next_token": "b26v89c19zqg8o3juzovccrnlorlwp1p0xb8mp6kn39fh",
+      "type_counts": {
+        "original": 20,
+        "reply": 1,
+        "quote": 1
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:02:58Z",
+      "errors": [
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2121632803305693266].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2121632803305693266",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "2121632803305693266"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "file": "page_0009_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1741596754536022493",
+      "oldest_id": "1740205752936194354",
+      "newest_created_at": "2023-12-31T23:06:38.000Z",
+      "oldest_created_at": "2023-12-28T02:59:17.000Z",
+      "next_token": "b26v89c19zqg8o3fr5nczvn9dh0cdl06kf5iaw0trq6pp",
+      "type_counts": {
+        "original": 13,
+        "quote": 6,
+        "reply": 2,
+        "repost": 4
+      },
+      "errors_count": 2,
+      "collected_at_utc": "2026-11-24T11:03:44Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1741152584675824048].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1741152584675824048",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1741152584675824048"
+        },
+        {
+          "detail": "User has been suspended: [hpos10iETH].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "hpos10iETH",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "hpos10iETH"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "file": "page_0010_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1807437164747047079",
+      "oldest_id": "1806635885594546454",
+      "newest_created_at": "2024-06-30T15:32:55.000Z",
+      "oldest_created_at": "2024-06-28T10:28:55.000Z",
+      "next_token": "b26v89c19zqg8o3frqlura85d9b7790475dzunij79hfh",
+      "type_counts": {
+        "reply": 7,
+        "original": 17,
+        "quote": 1
+      },
+      "errors_count": 3,
+      "collected_at_utc": "2026-11-24T11:03:44Z",
+      "errors": [
+        {
+          "detail": "User has been suspended: [1444032581498900481].",
+          "parameter": "in_reply_to_user_id",
+          "resource_id": "1444032581498900481",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1444032581498900481"
+        },
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1806635700114387202].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1806635700114387202",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "1806635700114387202"
+        },
+        {
+          "detail": "User has been suspended: [CatCryptoMaster].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "CatCryptoMaster",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "CatCryptoMaster"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "file": "page_0011_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 20,
+      "returned": 20,
+      "added": 20,
+      "duplicates_in_page": 0,
+      "newest_id": "2120731587557871964",
+      "oldest_id": "2119627806779089194",
+      "newest_created_at": "2026-11-12T04:13:06.000Z",
+      "oldest_created_at": "2026-11-09T03:07:04.000Z",
+      "next_token": "b26v89c19zqg8o3juzlzct2m4bosa528pz9hjwzdtd9q5",
+      "type_counts": {
+        "original": 16,
+        "quote": 2,
+        "reply": 2
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:03:44Z"
+    },
+    {
+      "page": 12,
+      "file": "page_0012_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2039036905153577409",
+      "oldest_id": "2038551302037217291",
+      "newest_created_at": "2026-03-31T17:47:36.000Z",
+      "oldest_created_at": "2026-03-30T09:37:59.000Z",
+      "next_token": "b26v89c19zqg8o3juehk5kx0it9f1t8fgdw5c5yu3uhrx",
+      "type_counts": {
+        "reply": 13,
+        "original": 8,
+        "quote": 4
+      },
+      "errors_count": 5,
+      "collected_at_utc": "2026-11-24T11:04:28Z",
+      "errors": [
+        {
+          "detail": "User has been suspended: [1874164879277645825].",
+          "parameter": "in_reply_to_user_id",
+          "resource_id": "1874164879277645825",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1874164879277645825"
+        },
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039004727460188603].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2039004727460188603",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "2039004727460188603"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2038932117426749688].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2038932117426749688",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2038932117426749688"
+        },
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038627340163621286].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2038627340163621286",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "2038627340163621286"
+        },
+        {
+          "detail": "User has been suspended: [Linn00888].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "Linn00888",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "Linn00888"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "file": "page_0013_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2071962541895627221",
+      "oldest_id": "2070478059774632295",
+      "newest_created_at": "2026-06-30T14:22:19.000Z",
+      "oldest_created_at": "2026-06-26T12:03:31.000Z",
+      "next_token": "b26v89c19zqg8o3juetfvu255d427e8gva9n0uscrbn25",
+      "type_counts": {
+        "original": 19,
+        "quote": 3,
+        "reply": 3
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:04:28Z"
+    },
+    {
+      "page": 14,
+      "file": "page_0014_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 23,
+      "returned": 23,
+      "added": 23,
+      "duplicates_in_page": 0,
+      "newest_id": "2105342116209790990",
+      "oldest_id": "2103884993042718936",
+      "newest_created_at": "2026-09-30T17:00:50.000Z",
+      "oldest_created_at": "2026-09-26T16:30:45.000Z",
+      "next_token": "b26v89c19zqg8o3juzix23p0ggdrzqhiancxwefhd57ct",
+      "type_counts": {
+        "reply": 3,
+        "quote": 6,
+        "original": 14
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:04:28Z",
+      "errors": [
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104097016427221153].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2104097016427221153",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "2104097016427221153"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "file": "page_0015_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1465608359516651525",
+      "oldest_id": "1441624264130453510",
+      "newest_created_at": "2021-11-30T09:07:17.000Z",
+      "oldest_created_at": "2021-09-25T04:43:03.000Z",
+      "next_token": "b26v89c19zqg8o3fpds6fwa241jl5yx1x1v5vjomr9oxp",
+      "type_counts": {
+        "original": 14,
+        "reply": 10,
+        "quote": 1
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:05:08Z",
+      "errors": [
+        {
+          "detail": "User has been suspended: [NotaNumeri].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "NotaNumeri",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "NotaNumeri"
+        }
+      ]
+    }
+  ],
+  "latest_next_token": "b26v89c19zqg8o3fpds6fwa241jl5yx1x1v5vjomr9oxp",
+  "updated_at_utc": "2026-11-24T11:05:08Z"
+}

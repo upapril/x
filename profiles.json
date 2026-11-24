@@ -1,0 +1,119 @@
+{
+  "collected_at_utc": "2026-11-24T10:57:20Z",
+  "collected_at_shanghai": "2026-11-24T18:57:20+08:00",
+  "tool": "x.get_users_by_usernames",
+  "accounts": {
+    "alexandr_wang": {
+      "id": "615818451",
+      "name": "Alexandr Wang",
+      "username": "alexandr_wang",
+      "created_at": "2012-06-23T02:46:22.000Z",
+      "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+      "location": "San Francisco, CA",
+      "protected": false,
+      "verified": true,
+      "verified_type": "blue",
+      "is_identity_verified": false,
+      "url_tco": "https://t.co/5m610IL18X",
+      "url_expanded": "https://scale.com",
+      "affiliation": {
+        "description": "Meta",
+        "url": "https://twitter.com/Meta",
+        "user_id": "2425151"
+      },
+      "public_metrics": {
+        "followers_count": 943315,
+        "following_count": 929,
+        "like_count": 7621,
+        "listed_count": 4469,
+        "media_count": 561,
+        "post_count": 3762
+      },
+      "pinned_post_id": "2103551714536439951",
+      "pinned_post_retrieval": "expansion 404; retrieved later via get_posts_by_ids; see _raw/pinned_posts_get_posts_by_ids.json and analysis.md",
+      "most_recent_post_id": "2124719968499777546",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/615818451/1791055220",
+      "canonical_url": "https://x.com/alexandr_wang"
+    },
+    "iiiinvest": {
+      "id": "1589763597705437184",
+      "name": "电鱼哥",
+      "username": "iiiinvest",
+      "created_at": "2022-11-07T23:36:06.000Z",
+      "description": "10万到6000万，实盘冲亿！质疑我相信我成为我！\n币安实盘排名第二，注册后搜“电鱼哥实盘” → https://t.co/geSlYrKGuF",
+      "location": null,
+      "protected": false,
+      "verified": true,
+      "verified_type": "blue",
+      "is_identity_verified": false,
+      "url_tco": "",
+      "url_expanded": null,
+      "bio_url_expanded": "https://www.binance.com/join?ref=IIIINVEST",
+      "affiliation": null,
+      "public_metrics": {
+        "followers_count": 56886,
+        "following_count": 39,
+        "like_count": 3998,
+        "listed_count": 529,
+        "media_count": 436,
+        "post_count": 4858
+      },
+      "pinned_post_id": "2110022220131226106",
+      "pinned_post_retrieval": "expansion 404; retrieved later via get_posts_by_ids; see _raw/pinned_posts_get_posts_by_ids.json and analysis.md",
+      "most_recent_post_id": "2125165053078839443",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2070418253353250816/A7ob_mkY_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589763597705437184/1788939011",
+      "canonical_url": "https://x.com/iiiinvest"
+    },
+    "silverfang88": {
+      "id": "1435990322702520320",
+      "name": "子时",
+      "username": "silverfang88",
+      "created_at": "2021-09-09T15:36:07.000Z",
+      "description": "千万美金美股实盘+分享说人话的数据和美股分析｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗https://t.co/2xvR6AW4jb",
+      "location": "2 steps ahead",
+      "protected": false,
+      "verified": true,
+      "verified_type": "blue",
+      "is_identity_verified": false,
+      "url_tco": "https://t.co/PWhIML27vv",
+      "url_expanded": "https://t.me/alphat1am",
+      "bio_url_expanded": "http://okx.com",
+      "affiliation": {
+        "description": "Polymarket Traders",
+        "url": "https://twitter.com/PolymarketTrade",
+        "user_id": "1965783030062022656"
+      },
+      "public_metrics": {
+        "followers_count": 96852,
+        "following_count": 2737,
+        "like_count": 21992,
+        "listed_count": 1587,
+        "media_count": 3661,
+        "post_count": 19982
+      },
+      "pinned_post_id": "2109440726865985560",
+      "pinned_post_retrieval": "expansion 404; retrieved later via get_posts_by_ids; see _raw/pinned_posts_get_posts_by_ids.json and analysis.md",
+      "most_recent_post_id": "2125167165569655181",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2111376053289594881/HJoHb6MH_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435990322702520320/1741165391",
+      "canonical_url": "https://x.com/silverfang88"
+    }
+  },
+  "field_errors": [
+    "parody: not authorized",
+    "verified_followers_count: not authorized"
+  ],
+  "notes": [
+    "All three accounts are public (protected=false) and verified_type=blue.",
+    "is_identity_verified was false for all three at collection time; this is a platform field, not a biographical conclusion.",
+    "Pinned posts could not be retrieved via pinned_post_id expansion (resource-not-found).",
+    "public_metrics.post_count is a platform-reported lifetime count and is not proof that all of those posts are retrievable via API."
+  ],
+  "pinned_post_followup": {
+    "note": "pinned_post_id expansion on get_users_by_usernames returned resource-not-found for all three; x.get_posts_by_ids on the same ids succeeded. Raw: _raw/pinned_posts_get_posts_by_ids.json",
+    "retrieved": true,
+    "collected_at_shanghai": "2026-11-24 19:13:00 GMT+8"
+  }
+}

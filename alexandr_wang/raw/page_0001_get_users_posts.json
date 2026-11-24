@@ -1,0 +1,2686 @@
+{
+  "collected_at_utc": "2026-11-24T11:00:44Z",
+  "collected_at_shanghai": "2026-11-24T19:00:44+08:00",
+  "tool": "x.get_users_posts",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86KADGKBK813JJWZVZ5T3JN.txt",
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2124719968499777546",
+      "created_at": "2026-11-23T04:21:30.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-23T05:21:30.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2124719968499777546"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/jonfavs/status…",
+            "end": 304,
+            "expanded_url": "https://twitter.com/jonfavs/status/2124663167037194521",
+            "start": 281,
+            "url": "https://t.co/JIzSBHd1e8"
+          }
+        ]
+      },
+      "id": "2124719968499777546",
+      "lang": "en",
+      "note_tweet": {
+        "text": "To be clear, much of what I said has been said by the leaders of other labs. What I *am* saying is this path is not inevitable.\n\nI am saying leaders and leadership matter more than ever, and that’s why I’m proud of the work that Mark and I have done at Meta to put safety as a top focus of our efforts, including delaying the launch of Muse for months and being a leader on the SI Accords that all of our peers have signed onto. We are investing more in safety every day, and have implemented rigorous processes to make sure every step we take is safe and positive. Mark has also called for all labs (including our own) to deploy the vast majority of compute towards serving people and customers rather than towards recursive self-improvement (RSI)."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 988,
+        "impression_count": 667748,
+        "like_count": 4302,
+        "quote_count": 76,
+        "reply_count": 352,
+        "retweet_count": 286
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124663167037194521",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "To be clear, much of what I said has been said by the leaders of other labs. What I *am* saying is this path is not inevitable.\n\nI am saying leaders and leadership matter more than ever, and that’s why I’m proud of the work that Mark and I have done at Meta to put safety as a top https://t.co/JIzSBHd1e8",
+      "url": "https://x.com/alexandr_wang/status/2124719968499777546"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2124642968812618112",
+      "created_at": "2026-11-22T23:24:41.000Z",
+      "display_text_range": [
+        15,
+        121
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-23T00:24:41.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": false
+      },
+      "edit_history_tweet_ids": [
+        "2124645273075122347"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1221122547057602560",
+            "start": 0,
+            "username": "RuxandraTeslo"
+          }
+        ]
+      },
+      "id": "2124645273075122347",
+      "in_reply_to_user_id": "1221122547057602560",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 11116,
+        "like_count": 83,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2124642968812618112",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@RuxandraTeslo thank you rux! you have been one of the bright lights illuminating what we all should have known all along",
+      "url": "https://x.com/alexandr_wang/status/2124645273075122347"
+    },
+    {
+      "article": {
+        "plain_text": "Superintelligence is arriving. How humanity acts over the next year will have great consequence on what future world we live in.\nAs someone who has spent much of my life in math and science, I see the proof of the Riemann Hypothesis as clearly marking the beginning of a significant change. For most who have studied math, this represents the absolute pinnacle of intellectual accomplishment—nothing humanity has ever accomplished compares to proving the Riemann Hypothesis in terms of sheer intellectual might and strength. As someone who grew up in Los Alamos, New Mexico, many physicists would agree that the discovery of the atomic bomb is a homework problem compared to the Riemann Hypothesis. It is hard to overstate the magnitude of discovery that we have just witnessed—completed with the help of an alien mind that we don’t understand.\nFor those who did math competitions, there was a similar moment of “oh shit everything is about to change” when the models began acing the AIME in December 2024 with o3. The hardest AIME problems are much harder in terms of sheer intellectual difficulty than the problems that even the most advanced engineers and business people need to solve on a day-to-day basis. There of course is domain-specific knowledge, context, know-how, and other tactical constraints that were needed to unlock the models across other areas, but lack of raw intelligence was not the bottleneck. And in fact, the progress across other domains over the past 2 years as we’ve mitigated these non-intelligence factors has been immense—we have seen coding be nearly solved, the emergence of extremely powerful cyber capabilities, and strong agentic capabilities which have enabled the models to become general-purpose useful aides.\nAgain the key insight here was simply that the hardest AIME problems are intellectually very difficult, far more difficult than most coding work, most cyber work, most business work, etc., and over the past two years we have been filling in the gaps to enable the models to accomplish those things.\nTo be clear, AIME is an extracurricular activity for teenagers; the Riemann Hypothesis may be the most intellectually demanding problem humanity has ever devised, which some of the most brilliant humans over the past 150 years have dedicated their lives to. At MIT, my professors would have said the hardest intellectual problems in nearly every major field of human study are “easier” than the Riemann Hypothesis, albeit with other challenges such as experimentation, data, and feedback loops. The remaining gaps for models to greatly surpass humanity in every field are no longer intelligence; they are domain-specific know-how, plumbing, and experimentation. This means it is likely that AI will become the greatest contributor of progress across nearly every field, vastly outperforming the best humans.\nNotably, this is likely true of AI research. Most researchers would agree that AI research is certainly much less intellectually demanding than solving the Riemann Hypothesis. The models are clearly going to be intelligent enough to automate all of AI research and be clearly superhuman at improving themselves—along with massively accelerating biological research, weapons research, economics research, and more. The implications are enormous. In the same way that the math community has not fully digested the proof of the Riemann Hypothesis, nearly every field could be accelerated at a pace beyond what humans can understand or monitor.\nIt is now incredibly important for us to be thoughtful about the future we want and how we get there. It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement. It is equally hard to imagine a world where humanity maintains control with superintelligence that is 1000x smarter and more capable than humans in every field. Now that we are at a point where the scientific and technical problems on capability progress are likely solved, we must not only make progress in the extremely urgent areas of safety, alignment, and security, but we have to start thinking through how we progress thoughtfully.\nI notice a particular form of lazy thinking within the AI industry, which is that ASI is inevitable and the only problem to solve is how to do it safely, but there is much more at stake. We should not be okay with a “handover” of society to AI. We should endeavor ourselves to build a technology which delivers a positive future for humanity, where all humans have greater agency and empowerment. I strongly believe this is possible, but likely involves the whole industry taking meaningfully different actions from the “default path” in front of us.",
+        "preview_text": "Superintelligence is arriving. How humanity acts over the next year will have great consequence on what future world we live in.\nAs someone who has spent much of my life in math and science, I see the",
+        "title": "Superintelligence is Arriving"
+      },
+      "author_id": "615818451",
+      "conversation_id": "2124636606959345776",
+      "created_at": "2026-11-22T22:50:15.000Z",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-22T23:50:15.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": false
+      },
+      "edit_history_tweet_ids": [
+        "2124636606959345776"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/article/2124…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/article/2124634870681063424",
+            "start": 0,
+            "status": 404,
+            "unwound_url": "https://x.com/i/article/2124634870681063424",
+            "url": "https://t.co/KwJ13J6zsC"
+          }
+        ]
+      },
+      "id": "2124636606959345776",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 64326,
+        "impression_count": 21588523,
+        "like_count": 61799,
+        "quote_count": 4723,
+        "reply_count": 3006,
+        "retweet_count": 11114
+      },
+      "reply_settings": "everyone",
+      "text": "https://t.co/KwJ13J6zsC",
+      "url": "https://x.com/alexandr_wang/status/2124636606959345776"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2124235017266302976"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2124235020701466913",
+      "created_at": "2026-11-21T20:14:29.000Z",
+      "display_text_range": [
+        0,
+        81
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-21T21:14:29.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2124235020701466913"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/m49e37ZE9r",
+            "end": 105,
+            "expanded_url": "https://x.com/alexandr_wang/status/2124235020701466913/photo/1",
+            "media_key": "3_2124235017266302976",
+            "start": 82,
+            "url": "https://t.co/m49e37ZE9r"
+          },
+          {
+            "display_url": "x.com/kalshi/status/…",
+            "end": 129,
+            "expanded_url": "https://twitter.com/kalshi/status/2123994813926080630",
+            "start": 106,
+            "url": "https://t.co/pkXp0K7Y5J"
+          }
+        ]
+      },
+      "id": "2124235020701466913",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 457,
+        "impression_count": 519718,
+        "like_count": 7040,
+        "quote_count": 98,
+        "reply_count": 425,
+        "retweet_count": 225
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123994813926080630",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "you already know these corposlops are about to unleash yet another butthole on us https://t.co/m49e37ZE9r https://t.co/pkXp0K7Y5J",
+      "url": "https://x.com/alexandr_wang/status/2124235020701466913"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2123883415376424960"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2123883550382674150",
+      "created_at": "2026-11-20T20:57:52.000Z",
+      "display_text_range": [
+        0,
+        193
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-20T21:57:52.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123883550382674150"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/fKybUjl4a3",
+            "end": 217,
+            "expanded_url": "https://x.com/alexandr_wang/status/2123883550382674150/photo/1",
+            "media_key": "3_2123883415376424960",
+            "start": 194,
+            "url": "https://t.co/fKybUjl4a3"
+          }
+        ]
+      },
+      "id": "2123883550382674150",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 71,
+        "impression_count": 108955,
+        "like_count": 568,
+        "quote_count": 7,
+        "reply_count": 77,
+        "retweet_count": 35
+      },
+      "reply_settings": "everyone",
+      "text": "🚨 MUSE FEATURE ALERT!!! 🚨\n\nmuse can turn the pics in your camera into product shots that actually sell 📸 ✨ \n\ntake a shot of whatever you’re trying to get rid of and muse makes it look expensive https://t.co/fKybUjl4a3",
+      "url": "https://x.com/alexandr_wang/status/2123883550382674150"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2123837988920856737",
+      "created_at": "2026-11-20T17:56:50.000Z",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-20T18:56:50.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123837988920856737"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 97,
+            "id": "1693239277600034816",
+            "start": 85,
+            "username": "WeAreLegora"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/WeAreLegora/st…",
+            "end": 163,
+            "expanded_url": "https://twitter.com/WeAreLegora/status/2123460359017144769",
+            "start": 140,
+            "url": "https://t.co/WysknC5fAz"
+          }
+        ]
+      },
+      "id": "2123837988920856737",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 75,
+        "impression_count": 75394,
+        "like_count": 414,
+        "quote_count": 2,
+        "reply_count": 57,
+        "retweet_count": 32
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123460359017144769",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "legal work is a demanding test for AI\n\nexcited to see muse wonder perform so well on @wearelegora’s BAR benchmark. huge credit to the team! https://t.co/WysknC5fAz",
+      "url": "https://x.com/alexandr_wang/status/2123837988920856737"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2123596803656536064"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2123596935231856931",
+      "created_at": "2026-11-20T01:58:58.000Z",
+      "display_text_range": [
+        0,
+        147
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-20T02:58:58.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123596935231856931"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 114,
+            "id": "2052434492263178240",
+            "start": 109,
+            "username": "Muse"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/O9SKoVXK1r",
+            "end": 171,
+            "expanded_url": "https://x.com/alexandr_wang/status/2123596935231856931/video/1",
+            "media_key": "13_2123596803656536064",
+            "start": 148,
+            "url": "https://t.co/O9SKoVXK1r"
+          }
+        ]
+      },
+      "id": "2123596935231856931",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 179,
+        "impression_count": 150933,
+        "like_count": 1370,
+        "quote_count": 28,
+        "reply_count": 162,
+        "retweet_count": 69
+      },
+      "reply_settings": "everyone",
+      "text": "🚨 MUSE FEATURE EXPANSION ALERT!!! 🚨\n\nemail is now rolling out to everyone in supported markets 💌 \n\npick your @muse.ai email handle and get started! https://t.co/O9SKoVXK1r",
+      "url": "https://x.com/alexandr_wang/status/2123596935231856931"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2123591819300934128",
+      "created_at": "2026-11-20T01:38:39.000Z",
+      "display_text_range": [
+        0,
+        43
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-20T02:38:39.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": false
+      },
+      "edit_history_tweet_ids": [
+        "2123591820512993532"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "chromewebstore.google.com/detail/muse-fr…",
+            "end": 43,
+            "expanded_url": "https://chromewebstore.google.com/detail/muse-from-meta/jnakhhjmpmoohbjgfccbccfoifnmbdjd?pli=1",
+            "start": 20,
+            "unwound_url": "https://chromewebstore.google.com/detail/muse-from-meta/jnakhhjmpmoohbjgfccbccfoifnmbdjd?pli=1",
+            "url": "https://t.co/Sqyyw24bvk"
+          }
+        ]
+      },
+      "id": "2123591820512993532",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 36,
+        "impression_count": 33239,
+        "like_count": 54,
+        "quote_count": 3,
+        "reply_count": 5,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123591819300934128",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "download link here: https://t.co/Sqyyw24bvk",
+      "url": "https://x.com/alexandr_wang/status/2123591820512993532"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2123591338382016512"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2123591819300934128",
+      "created_at": "2026-11-20T01:38:38.000Z",
+      "display_text_range": [
+        0,
+        249
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-20T02:38:38.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": false
+      },
+      "edit_history_tweet_ids": [
+        "2123591819300934128"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/TozzcJ8ZQm",
+            "end": 273,
+            "expanded_url": "https://x.com/alexandr_wang/status/2123591819300934128/video/1",
+            "media_key": "13_2123591338382016512",
+            "start": 250,
+            "url": "https://t.co/TozzcJ8ZQm"
+          }
+        ]
+      },
+      "id": "2123591819300934128",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 305,
+        "impression_count": 168415,
+        "like_count": 1822,
+        "quote_count": 34,
+        "reply_count": 130,
+        "retweet_count": 95
+      },
+      "reply_settings": "everyone",
+      "text": "🚨 BELATED MUSE FEATURE ALERT 🚨 \n\nmuse chrome extension, available now!\n\n200,000 of you are already feeling the magic, but muse chrome extension lets you use muse directly from a chrome sidebar, and easier browser use!\n\nget from the chrome web store! https://t.co/TozzcJ8ZQm",
+      "url": "https://x.com/alexandr_wang/status/2123591819300934128"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2123317385050677423",
+      "created_at": "2026-11-19T07:34:25.000Z",
+      "display_text_range": [
+        10,
+        49
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-19T08:34:25.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": false
+      },
+      "edit_history_tweet_ids": [
+        "2123318966844379205"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1963124452390297600",
+            "start": 0,
+            "username": "bebuu_ai"
+          }
+        ]
+      },
+      "id": "2123318966844379205",
+      "in_reply_to_user_id": "1963124452390297600",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4323,
+        "like_count": 44,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123317855852834944",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@bebuu_ai have i ever claimed to do anything else",
+      "url": "https://x.com/alexandr_wang/status/2123318966844379205"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2123317334605729792"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2123317385050677423",
+      "created_at": "2026-11-19T07:28:08.000Z",
+      "display_text_range": [
+        0,
+        35
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-19T08:28:08.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123317385050677423"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/KNl5dmcKNr",
+            "end": 59,
+            "expanded_url": "https://x.com/alexandr_wang/status/2123317385050677423/video/1",
+            "media_key": "13_2123317334605729792",
+            "start": 36,
+            "url": "https://t.co/KNl5dmcKNr"
+          }
+        ]
+      },
+      "id": "2123317385050677423",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 96,
+        "impression_count": 112834,
+        "like_count": 1300,
+        "quote_count": 10,
+        "reply_count": 85,
+        "retweet_count": 49
+      },
+      "reply_settings": "everyone",
+      "text": "we got muse takeover before gta 6 💀 https://t.co/KNl5dmcKNr",
+      "url": "https://x.com/alexandr_wang/status/2123317385050677423"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2123138868979585024"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2123139460569448523",
+      "created_at": "2026-11-18T19:41:08.000Z",
+      "display_text_range": [
+        0,
+        122
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-18T20:41:08.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123139460569448523"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/C3haRSnhSa",
+            "end": 146,
+            "expanded_url": "https://x.com/alexandr_wang/status/2123139460569448523/video/1",
+            "media_key": "13_2123138868979585024",
+            "start": 123,
+            "url": "https://t.co/C3haRSnhSa"
+          }
+        ]
+      },
+      "id": "2123139460569448523",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 121,
+        "impression_count": 110987,
+        "like_count": 1482,
+        "quote_count": 33,
+        "reply_count": 142,
+        "retweet_count": 86
+      },
+      "reply_settings": "everyone",
+      "text": "in case you missed it:\n\nmuse launched in australia yesterday!! 🇦🇺 🦘\n\nthe early reception has been awesome, give it a shot! https://t.co/C3haRSnhSa",
+      "url": "https://x.com/alexandr_wang/status/2123139460569448523"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2123137729961902080"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2123138025366704149",
+      "created_at": "2026-11-18T19:35:25.000Z",
+      "display_text_range": [
+        0,
+        208
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-18T20:35:25.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123138025366704149"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/dK5EpGrsvf",
+            "end": 232,
+            "expanded_url": "https://x.com/alexandr_wang/status/2123138025366704149/video/1",
+            "media_key": "13_2123137729961902080",
+            "start": 209,
+            "url": "https://t.co/dK5EpGrsvf"
+          }
+        ]
+      },
+      "id": "2123138025366704149",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1802,
+        "impression_count": 1629825,
+        "like_count": 8482,
+        "quote_count": 238,
+        "reply_count": 498,
+        "retweet_count": 301
+      },
+      "reply_settings": "everyone",
+      "text": "🚨 MUSE FEATURE ALERT 🚨\n\nyou can now try on clothes in muse before you buy them 👕 👗 👖 \n\nmuse will offer to show you how you look in something while you’re shopping for it. trying things on in person? as if.... https://t.co/dK5EpGrsvf",
+      "url": "https://x.com/alexandr_wang/status/2123138025366704149"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2123111051214586028",
+      "created_at": "2026-11-18T17:48:14.000Z",
+      "display_text_range": [
+        0,
+        13
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-18T18:48:14.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2123111051214586028"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/arena/status/2…",
+            "end": 37,
+            "expanded_url": "https://twitter.com/arena/status/2123082393536049393",
+            "start": 14,
+            "url": "https://t.co/k9iVFyGlFQ"
+          }
+        ]
+      },
+      "id": "2123111051214586028",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 63007,
+        "like_count": 526,
+        "quote_count": 2,
+        "reply_count": 53,
+        "retweet_count": 34
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123082393536049393",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "frame mogging https://t.co/k9iVFyGlFQ",
+      "url": "https://x.com/alexandr_wang/status/2123111051214586028"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122826898174877696"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2122738112497434793",
+      "created_at": "2026-11-17T22:59:14.000Z",
+      "display_text_range": [
+        127,
+        127
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-17T23:59:14.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": false
+      },
+      "edit_history_tweet_ids": [
+        "2122826926641590353"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "3199745285",
+            "start": 0,
+            "username": "juampitech"
+          },
+          {
+            "end": 19,
+            "id": "17189394",
+            "start": 12,
+            "username": "dabit3"
+          },
+          {
+            "end": 31,
+            "id": "1953337039510003712",
+            "start": 20,
+            "username": "thsottiaux"
+          },
+          {
+            "end": 47,
+            "id": "284333988",
+            "start": 32,
+            "username": "OfficialLoganK"
+          },
+          {
+            "end": 60,
+            "id": "139638149",
+            "start": 48,
+            "username": "jmilinovich"
+          },
+          {
+            "end": 70,
+            "id": "152108221",
+            "start": 61,
+            "username": "ctatedev"
+          },
+          {
+            "end": 79,
+            "id": "34799361",
+            "start": 71,
+            "username": "dok2001"
+          },
+          {
+            "end": 91,
+            "id": "1761964147510767616",
+            "start": 80,
+            "username": "BenjDicken"
+          },
+          {
+            "end": 104,
+            "id": "14355836",
+            "start": 92,
+            "username": "drewcoffman"
+          },
+          {
+            "end": 114,
+            "id": "72615190",
+            "start": 105,
+            "username": "pontusab"
+          },
+          {
+            "end": 127,
+            "id": "465068802",
+            "start": 115,
+            "username": "brian_lovin"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/QaRL5LlzmB",
+            "end": 151,
+            "expanded_url": "https://x.com/alexandr_wang/status/2122826926641590353/photo/1",
+            "media_key": "3_2122826898174877696",
+            "start": 128,
+            "url": "https://t.co/QaRL5LlzmB"
+          }
+        ]
+      },
+      "id": "2122826926641590353",
+      "in_reply_to_user_id": "3199745285",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 27270,
+        "like_count": 972,
+        "quote_count": 2,
+        "reply_count": 21,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122738112497434793",
+          "type": "replied_to"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "@juampitech @dabit3 @thsottiaux @OfficialLoganK @jmilinovich @ctatedev @dok2001 @BenjDicken @drewcoffman @pontusab @brian_lovin https://t.co/QaRL5LlzmB",
+      "url": "https://x.com/alexandr_wang/status/2122826926641590353"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122795337912041472"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2122795379263750477",
+      "created_at": "2026-11-17T20:53:52.000Z",
+      "display_text_range": [
+        0,
+        110
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-17T21:53:52.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122795379263750477"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/2eq1uQv18Y",
+            "end": 134,
+            "expanded_url": "https://x.com/alexandr_wang/status/2122795379263750477/video/1",
+            "media_key": "13_2122795337912041472",
+            "start": 111,
+            "url": "https://t.co/2eq1uQv18Y"
+          }
+        ]
+      },
+      "id": "2122795379263750477",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 299,
+        "impression_count": 246093,
+        "like_count": 2619,
+        "quote_count": 57,
+        "reply_count": 201,
+        "retweet_count": 133
+      },
+      "reply_settings": "everyone",
+      "text": "🚨 MUSE FEATURE ALERT 🚨 \n\nvoice is now available on apple watch and android wearOS. talk to muse, all the time. https://t.co/2eq1uQv18Y",
+      "url": "https://x.com/alexandr_wang/status/2122795379263750477"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122762504967520256"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2122762964419870792",
+      "created_at": "2026-11-17T18:45:04.000Z",
+      "display_text_range": [
+        0,
+        133
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-17T19:45:04.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122762964419870792"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/L4XQrbrsZI",
+            "end": 157,
+            "expanded_url": "https://x.com/alexandr_wang/status/2122762964419870792/video/1",
+            "media_key": "13_2122762504967520256",
+            "start": 134,
+            "url": "https://t.co/L4XQrbrsZI"
+          }
+        ]
+      },
+      "id": "2122762964419870792",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 285,
+        "impression_count": 299280,
+        "like_count": 3859,
+        "quote_count": 88,
+        "reply_count": 311,
+        "retweet_count": 187
+      },
+      "reply_settings": "everyone",
+      "text": "🚨 MUSE LAUNCH ALERT 🚨\n\ng’day, australia!! muse just arrived down under 🇦🇺\njust make sure to keep it safe from all those wild critters https://t.co/L4XQrbrsZI",
+      "url": "https://x.com/alexandr_wang/status/2122762964419870792"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2122428170737762304"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2122428883169632754",
+      "created_at": "2026-11-16T20:37:33.000Z",
+      "display_text_range": [
+        0,
+        27
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-16T21:37:33.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122428883169632754"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/599mLyTy54",
+            "end": 51,
+            "expanded_url": "https://x.com/alexandr_wang/status/2122428883169632754/photo/1",
+            "media_key": "3_2122428170737762304",
+            "start": 28,
+            "url": "https://t.co/599mLyTy54"
+          }
+        ]
+      },
+      "id": "2122428883169632754",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 46184,
+        "like_count": 400,
+        "quote_count": 3,
+        "reply_count": 39,
+        "retweet_count": 9
+      },
+      "reply_settings": "everyone",
+      "text": "the indomitable muse spirit https://t.co/599mLyTy54",
+      "url": "https://x.com/alexandr_wang/status/2122428883169632754"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2122382598588739743",
+      "created_at": "2026-11-16T17:33:38.000Z",
+      "display_text_range": [
+        0,
+        40
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-16T18:33:38.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122382598588739743"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/lennysan/statu…",
+            "end": 64,
+            "expanded_url": "https://twitter.com/lennysan/status/2121998648573837740",
+            "start": 41,
+            "url": "https://t.co/MXJlMi3Yuv"
+          }
+        ]
+      },
+      "id": "2122382598588739743",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 72,
+        "impression_count": 59571,
+        "like_count": 333,
+        "quote_count": 1,
+        "reply_count": 28,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2121998648573837740",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "🐐🚨\n\nlisten for the inside scoop on muse! https://t.co/MXJlMi3Yuv",
+      "url": "https://x.com/alexandr_wang/status/2122382598588739743"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2122378535369384162",
+      "created_at": "2026-11-16T17:17:29.000Z",
+      "display_text_range": [
+        0,
+        3
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-16T18:17:29.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122378535369384162"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/wallstengine/s…",
+            "end": 27,
+            "expanded_url": "https://twitter.com/wallstengine/status/2122152599164190804",
+            "start": 4,
+            "url": "https://t.co/Z8meBLt2mA"
+          }
+        ]
+      },
+      "id": "2122378535369384162",
+      "lang": "art",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 90039,
+        "like_count": 560,
+        "quote_count": 3,
+        "reply_count": 59,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122152599164190804",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "👀👀👀 https://t.co/Z8meBLt2mA",
+      "url": "https://x.com/alexandr_wang/status/2122378535369384162"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2122378451697209641",
+      "created_at": "2026-11-16T17:17:09.000Z",
+      "display_text_range": [
+        0,
+        61
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-16T18:17:09.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122378451697209641"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/xmj_gamingx/st…",
+            "end": 85,
+            "expanded_url": "https://twitter.com/xmj_gamingx/status/2122302942057255030",
+            "start": 62,
+            "url": "https://t.co/Yxh2tHv7Ge"
+          }
+        ]
+      },
+      "id": "2122378451697209641",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 70572,
+        "like_count": 485,
+        "quote_count": 3,
+        "reply_count": 57,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2122302942057255030",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "muse will work tirelessly to make sure you get what you need! https://t.co/Yxh2tHv7Ge",
+      "url": "https://x.com/alexandr_wang/status/2122378451697209641"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2122104483845128192"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2122104505538121821",
+      "created_at": "2026-11-15T23:08:35.000Z",
+      "display_text_range": [
+        0,
+        83
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-16T00:08:35.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2122104505538121821"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/CInTAqE3kN",
+            "end": 107,
+            "expanded_url": "https://x.com/alexandr_wang/status/2122104505538121821/video/1",
+            "media_key": "13_2122104483845128192",
+            "start": 84,
+            "url": "https://t.co/CInTAqE3kN"
+          }
+        ]
+      },
+      "id": "2122104505538121821",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 119,
+        "impression_count": 137160,
+        "like_count": 1515,
+        "quote_count": 29,
+        "reply_count": 144,
+        "retweet_count": 70
+      },
+      "reply_settings": "everyone",
+      "text": "who you gonna call? nobody. muse makes the calls*\n\n* for paid subscribers in the US https://t.co/CInTAqE3kN",
+      "url": "https://x.com/alexandr_wang/status/2122104505538121821"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2121799735271198720"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2121799763150672285",
+      "created_at": "2026-11-15T02:57:39.000Z",
+      "display_text_range": [
+        0,
+        36
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-15T03:57:39.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2121799763150672285"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/1OoLTTUn50",
+            "end": 60,
+            "expanded_url": "https://x.com/alexandr_wang/status/2121799763150672285/video/1",
+            "media_key": "13_2121799735271198720",
+            "start": 37,
+            "url": "https://t.co/1OoLTTUn50"
+          }
+        ]
+      },
+      "id": "2121799763150672285",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 296,
+        "impression_count": 361215,
+        "like_count": 3078,
+        "quote_count": 35,
+        "reply_count": 162,
+        "retweet_count": 112
+      },
+      "reply_settings": "everyone",
+      "text": "pip-boy but make it superintelligent https://t.co/1OoLTTUn50",
+      "url": "https://x.com/alexandr_wang/status/2121799763150672285"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2120983753027924288",
+      "created_at": "2026-11-12T20:55:07.000Z",
+      "display_text_range": [
+        0,
+        19
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-12T21:55:07.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2120983753027924288"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/charlieholtz/s…",
+            "end": 43,
+            "expanded_url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+            "start": 20,
+            "url": "https://t.co/YGzcjTIPGA"
+          }
+        ]
+      },
+      "id": "2120983753027924288",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 39,
+        "impression_count": 74013,
+        "like_count": 487,
+        "quote_count": 4,
+        "reply_count": 65,
+        "retweet_count": 22
+      },
+      "referenced_tweets": [
+        {
+          "id": "2120973052024598620",
+          "type": "quoted"
+        }
+      ],
+      "reply_settings": "everyone",
+      "text": "conductor is back 🫡 https://t.co/YGzcjTIPGA",
+      "url": "https://x.com/alexandr_wang/status/2120983753027924288"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2120930548147462144"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2120930586827391350",
+      "created_at": "2026-11-12T17:23:51.000Z",
+      "display_text_range": [
+        0,
+        267
+      ],
+      "edit_controls": {
+        "editable_until": "2026-11-12T18:23:51.000Z",
+        "edits_remaining": 5,
+        "is_edit_eligible": true
+      },
+      "edit_history_tweet_ids": [
+        "2120930586827391350"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/dsyMNmI2Ub",
+            "end": 291,
+            "expanded_url": "https://x.com/alexandr_wang/status/2120930586827391350/photo/1",
+            "media_key": "16_2120930548147462144",
+            "start": 268,
+            "url": "https://t.co/dsyMNmI2Ub"
+          }
+        ]
+      },
+      "id": "2120930586827391350",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 162,
+        "impression_count": 123832,
+        "like_count": 1481,
+        "quote_count": 73,
+        "reply_count": 194,
+        "retweet_count": 119
+      },
+      "reply_settings": "everyone",
+      "text": "🚨MUSE FEATURE ALERT!!!🚨\n\nlots of you have been asking for this one…\n\nmuse can make phone calls for you! ☎️📞📲\n\nlet muse take care of all those calls you don’t want to make. insurance? cable? DMV? dinner res? not your problem anymore.\n\nout now to paid subs in the US 🇺🇸 https://t.co/dsyMNmI2Ub",
+      "url": "https://x.com/alexandr_wang/status/2120930586827391350"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2124235017266302976",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXrMfleakAAJgiP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 750,
+        "media_key": "3_2123883415376424960",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXmMtqXa8AAOSRn.png",
+        "width": 500
+      },
+      {
+        "duration_ms": 40166,
+        "height": 720,
+        "media_key": "13_2123596803656536064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123596803656536064/img/8BCMx8gmgbsxWpcr.jpg",
+        "public_metrics": {
+          "view_count": 59776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123596803656536064/vid/avc1/480x270/f0dqNnB6kdgE1Th9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123596803656536064/vid/avc1/640x360/aXl0TbBPuJtjM1ie.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123596803656536064/vid/avc1/1280x720/hPwtdt0aMDdO_w1U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2123596803656536064/pl/nmdHZkJki_MmyO3G.m3u8?v=a6e"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 8050,
+        "height": 834,
+        "media_key": "13_2123591338382016512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123591338382016512/img/KaUts4ZVpq_3ckJL.jpg",
+        "public_metrics": {
+          "view_count": 64778
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123591338382016512/vid/avc1/1112x834/7oWn13OpH1uWhUyK.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123591338382016512/vid/avc1/360x270/Wy47-WYkZ_lih0gj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2123591338382016512/pl/iL28hD-L8t7zxqpw.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123591338382016512/vid/avc1/478x360/xMGCnJfVqfvBaR0Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123591338382016512/vid/avc1/958x720/lFZib8Xs5eda_OOq.mp4"
+          }
+        ],
+        "width": 1112
+      },
+      {
+        "duration_ms": 29996,
+        "height": 540,
+        "media_key": "13_2123317334605729792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123317334605729792/img/-OPb3L1Ikg4esy-A.jpg",
+        "public_metrics": {
+          "view_count": 47957
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123317334605729792/vid/avc1/480x270/JNh1atPfLrtg0qav.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123317334605729792/vid/avc1/640x360/pKlQsXSdy0jgJqzY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123317334605729792/vid/avc1/960x540/gHSq_0WyoXzjpTUn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2123317334605729792/pl/hkzxTmOK9_jniwNR.m3u8?v=738"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 19033,
+        "height": 1280,
+        "media_key": "13_2123138868979585024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123138868979585024/img/bJr0H58TWZaPKgha.jpg",
+        "public_metrics": {
+          "view_count": 41431
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123138868979585024/vid/avc1/320x568/nu01VKBaxtBQ8U7P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123138868979585024/vid/avc1/480x852/sQ9LUfvRRXQqJo1-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123138868979585024/vid/avc1/720x1280/Jv6eO-uhw2lhMPiI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2123138868979585024/pl/OzJnQiG86vjTrkte.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 27958,
+        "height": 720,
+        "media_key": "13_2123137729961902080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123137729961902080/img/CFNle0MeEWQJt_mO.jpg",
+        "public_metrics": {
+          "view_count": 597106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123137729961902080/vid/avc1/480x270/74-lPXgGXnZ9_CFq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123137729961902080/vid/avc1/640x360/kDcl339PaiTFtM7H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123137729961902080/vid/avc1/1280x720/_QlqETneN957K2K_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2123137729961902080/pl/rDCLSLKhnYvkIB64.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 935,
+        "media_key": "3_2122826898174877696",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXXL0RFboAASy1_.jpg",
+        "width": 1681
+      },
+      {
+        "duration_ms": 15041,
+        "height": 834,
+        "media_key": "13_2122795337912041472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122795337912041472/img/G7gpiyhitmZumbe4.jpg",
+        "public_metrics": {
+          "view_count": 95281
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122795337912041472/vid/avc1/478x360/Bw_E8nunke7aG73C.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122795337912041472/vid/avc1/360x270/3mt_3ljBQEDk-9OK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122795337912041472/pl/ehLI-8bMfHhbZBib.m3u8?v=de1"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122795337912041472/vid/avc1/1112x834/t8eD9xS7fc_YKxsx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122795337912041472/vid/avc1/958x720/e_DT2rGmJgIhJkW9.mp4"
+          }
+        ],
+        "width": 1112
+      },
+      {
+        "duration_ms": 20064,
+        "height": 720,
+        "media_key": "13_2122762504967520256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122762504967520256/img/4CMx_nqMjKDsBMf3.jpg",
+        "public_metrics": {
+          "view_count": 113042
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122762504967520256/vid/avc1/480x270/2yWQlmTCQ-UjOuwj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122762504967520256/vid/avc1/640x360/OH__qnIWiuV_1swq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122762504967520256/vid/avc1/1280x720/2xQnVdCnPf1hCgqP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122762504967520256/pl/2GDX7NoKWDgVwU8a.m3u8?v=1de"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1882,
+        "media_key": "3_2122428170737762304",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXRhLRobQAA8b7e.jpg",
+        "width": 1672
+      },
+      {
+        "duration_ms": 27208,
+        "height": 480,
+        "media_key": "13_2122104483845128192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122104483845128192/img/4PjlssnAi7DF6s1V.jpg",
+        "public_metrics": {
+          "view_count": 55476
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122104483845128192/vid/avc1/360x270/krBwnpODrFZiyggW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122104483845128192/vid/avc1/480x360/8_wRQd_ytOE9GV-Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122104483845128192/vid/avc1/640x480/iIdPXi8bKat5Ty2F.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122104483845128192/pl/_VdKfEQ4iLXRjtnG.m3u8?v=ab7"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "duration_ms": 14250,
+        "height": 720,
+        "media_key": "13_2121799735271198720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2121799735271198720/img/mUN0VCWHgk_aA3ea.jpg",
+        "public_metrics": {
+          "view_count": 169676
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121799735271198720/vid/avc1/480x270/iCEOg7S-a3SM43rw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121799735271198720/vid/avc1/640x360/q97ZHjWHJCaB5edX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121799735271198720/vid/avc1/1280x720/gVePTgPAstnWmVBR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2121799735271198720/pl/ffI1o7kNMrm9p07V.m3u8?v=5c3"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "16_2120930548147462144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HW8PGKuaoAAK8KQ.jpg",
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HW8PGKuaoAAK8KQ.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "130496027",
+        "conversation_id": "2124663167037194521",
+        "created_at": "2026-11-23T00:35:48.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-23T01:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2124663167037194521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 297,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2124636606959345776",
+              "start": 274,
+              "url": "https://t.co/fRikco1sVe"
+            }
+          ]
+        },
+        "id": "2124663167037194521",
+        "lang": "en",
+        "note_tweet": {
+          "text": "This is fucking madness.\n\nThe people we've elected should be doing everything they possibly can to stop the frontier labs from handing over control of humanity to superintelligent machines. \n\nThis is from the Chief AI officer at Meta: \n\n\"It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement. It is equally hard to imagine a world where humanity maintains control with superintelligence that is 1000x smarter and more capable than humans in every field.\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1778,
+          "impression_count": 1831447,
+          "like_count": 6612,
+          "quote_count": 72,
+          "reply_count": 363,
+          "retweet_count": 903
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124636606959345776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This is fucking madness.\n\nThe people we've elected should be doing everything they possibly can to stop the frontier labs from handing over control of humanity to superintelligent machines. \n\nThis is from the Chief AI officer at Meta: \n\n\"It is hard to imagine a world where https://t.co/fRikco1sVe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2124642964668620800"
+          ]
+        },
+        "author_id": "1221122547057602560",
+        "conversation_id": "2124642968812618112",
+        "created_at": "2026-11-22T23:15:32.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-23T00:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2124642968812618112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oJqJ8ymJM",
+              "end": 304,
+              "expanded_url": "https://x.com/RuxandraTeslo/status/2124642968812618112/photo/1",
+              "media_key": "3_2124642964668620800",
+              "start": 281,
+              "url": "https://t.co/0oJqJ8ymJM"
+            },
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 328,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2124636606959345776",
+              "start": 305,
+              "url": "https://t.co/fcAgdiRjVc"
+            }
+          ]
+        },
+        "id": "2124642968812618112",
+        "lang": "en",
+        "note_tweet": {
+          "text": "We are at a critical juncture in our civilization, approaching super-intelligence via RSI. One encouraging thing I am seeing in the discourse is a shift away from thinking purely in terms of safety and an increased focus on whether the future we are racing towards is conducive to human flourishing.\n\nWe should, of course, avoid X-risk. \nBut there's more to life than just being alive. We want humans to not just exist, but also thrive! The dangers from ASI are not only purely X-risk related, but also pertaining to human disempowerment. Unfortunately, as I've written in a recent article on handoverism, even the positive visions of post-AGI look not so good for most humans.\n\nWhether we are racing towards a good future, not merely *any* future, should enter the conversation more when discussing the pace of progress."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 54577,
+          "like_count": 317,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2124636606959345776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We are at a critical juncture in our civilization, approaching super-intelligence via RSI. One encouraging thing I am seeing in the discourse is a shift away from thinking purely in terms of safety and an increased focus on whether the future we are racing towards is conducive to https://t.co/0oJqJ8ymJM https://t.co/fcAgdiRjVc"
+      },
+      {
+        "author_id": "1071484733543079936",
+        "conversation_id": "2123994813926080630",
+        "created_at": "2026-11-21T04:20:00.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-21T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2123994813926080630"
+        ],
+        "id": "2123994813926080630",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 595910,
+          "like_count": 2275,
+          "quote_count": 64,
+          "reply_count": 117,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Apple reportedly is building a new AI agent similar to Meta’s Muse"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123460256260870144"
+          ]
+        },
+        "author_id": "1693239277600034816",
+        "conversation_id": "2123460359017144769",
+        "created_at": "2026-11-19T16:56:16.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-19T17:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2123460359017144769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3pSVd8yZlD",
+              "end": 297,
+              "expanded_url": "https://x.com/WeAreLegora/status/2123460359017144769/video/1",
+              "media_key": "13_2123460256260870144",
+              "start": 274,
+              "url": "https://t.co/3pSVd8yZlD"
+            }
+          ]
+        },
+        "id": "2123460359017144769",
+        "lang": "en",
+        "note_tweet": {
+          "text": "The November BAR results are now available, showing how AI models compare on real-world legal tasks in Legora.\n\nA few highlights from this month’s results:\n\n→ Muse Wonder ranks highest on overall quality and leads across four task types: analysis and answering, extraction, drafting, and editing.\n\n→ GPT-6.2 Astra leads on comparison and review tasks, with overall quality 4% above November’s model average and cost per case 20% below average.\n\n→ GPT-6.2 Sol delivers above-average quality at 78% below the average cost per case across models benchmarked in November."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 100822,
+          "like_count": 79,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "The November BAR results are now available, showing how AI models compare on real-world legal tasks in Legora.\n\nA few highlights from this month’s results:\n\n→ Muse Wonder ranks highest on overall quality and leads across four task types: analysis and answering, extraction, https://t.co/3pSVd8yZlD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2123591338382016512"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "2123591819300934128",
+        "created_at": "2026-11-20T01:38:38.000Z",
+        "display_text_range": [
+          0,
+          249
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-20T02:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2123591819300934128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TozzcJ8ZQm",
+              "end": 273,
+              "expanded_url": "https://x.com/alexandr_wang/status/2123591819300934128/video/1",
+              "media_key": "13_2123591338382016512",
+              "start": 250,
+              "url": "https://t.co/TozzcJ8ZQm"
+            }
+          ]
+        },
+        "id": "2123591819300934128",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 305,
+          "impression_count": 168415,
+          "like_count": 1822,
+          "quote_count": 34,
+          "reply_count": 130,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 BELATED MUSE FEATURE ALERT 🚨 \n\nmuse chrome extension, available now!\n\n200,000 of you are already feeling the magic, but muse chrome extension lets you use muse directly from a chrome sidebar, and easier browser use!\n\nget from the chrome web store! https://t.co/TozzcJ8ZQm"
+      },
+      {
+        "author_id": "1963124452390297600",
+        "conversation_id": "2123317385050677423",
+        "created_at": "2026-11-19T07:30:00.000Z",
+        "display_text_range": [
+          15,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-19T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2123317855852834944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2123317855852834944",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3641,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2123317385050677423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexandr_wang u are just posting ai slop!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2123081991486853120"
+          ]
+        },
+        "author_id": "1641378826537295874",
+        "conversation_id": "2123082393536049393",
+        "created_at": "2026-11-18T15:54:22.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-18T16:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2123082393536049393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "1034844617261248512",
+              "start": 84,
+              "username": "AIatMeta"
+            },
+            {
+              "end": 170,
+              "id": "4398626122",
+              "start": 163,
+              "username": "OpenAI"
+            },
+            {
+              "end": 214,
+              "id": "1353836358901501952",
+              "start": 202,
+              "username": "AnthropicAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHUW7Ppf0h",
+              "end": 300,
+              "expanded_url": "https://x.com/arena/status/2123082393536049393/photo/1",
+              "media_key": "3_2123081991486853120",
+              "start": 277,
+              "url": "https://t.co/CHUW7Ppf0h"
+            }
+          ]
+        },
+        "id": "2123082393536049393",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 93,
+                "id": "1034844617261248512",
+                "start": 84,
+                "username": "AIatMeta"
+              },
+              {
+                "end": 170,
+                "id": "4398626122",
+                "start": 163,
+                "username": "OpenAI"
+              },
+              {
+                "end": 214,
+                "id": "1353836358901501952",
+                "start": 202,
+                "username": "AnthropicAI"
+              }
+            ]
+          },
+          "text": "The race among efficient models built for real work has a new leader: Muse Ember by @AIatMeta.\n\nEmber (Max) leads on every dimension against GPT-6 Luna (Max) from @OpenAI and Claude Haiku 5.5 (High) by @AnthropicAI:\n\n- Speed: 27s per task vs 5.8 min and 1.9 min\n- Performance: +2.3% Net Improvement (Agent Arena score) vs +1.4% and +0.4%\n- Cost: 1.9¢ per task vs 7.0¢ and 6.9¢\n\nThat’s ~13x faster than Luna and less than a third of the cost of either. Below find more analysis on Ember’s steerability score across Work, and a look at what real-world tasks users are shipping with Muse Ember in the Agent Arena."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 109557,
+          "like_count": 266,
+          "quote_count": 12,
+          "reply_count": 26,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "The race among efficient models built for real work has a new leader: Muse Ember by @AIatMeta.\n\nEmber (Max) leads on every dimension against GPT-6 Luna (Max) from @OpenAI and Claude Haiku 5.5 (High) by @AnthropicAI:\n\n- Speed: 27s per task vs 5.8 min and 1.9 min\n- Performance: https://t.co/CHUW7Ppf0h"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122737533767307266"
+          ]
+        },
+        "author_id": "3199745285",
+        "conversation_id": "2122738112497434793",
+        "created_at": "2026-11-17T17:06:19.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-17T18:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2122738112497434793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DPnuOzdGU",
+              "end": 142,
+              "expanded_url": "https://x.com/juampitech/status/2122738112497434793/photo/1",
+              "media_key": "3_2122737533767307266",
+              "start": 119,
+              "url": "https://t.co/9DPnuOzdGU"
+            }
+          ]
+        },
+        "id": "2122738112497434793",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 704,
+          "impression_count": 219350,
+          "like_count": 754,
+          "quote_count": 45,
+          "reply_count": 113,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Every brand has a champion\n\nAnd it's not always the CEO\n\nHere are the employees driving the most views to their brands https://t.co/9DPnuOzdGU"
+      },
+      {
+        "author_id": "7958322",
+        "card_uri": "https://t.co/y2Jp67p3pT",
+        "conversation_id": "2121998648573837740",
+        "created_at": "2026-11-15T16:07:57.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-15T17:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2121998648573837740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "13235832",
+              "start": 17,
+              "username": "natfriedman"
+            },
+            {
+              "end": 58,
+              "id": "2425151",
+              "start": 53,
+              "username": "Meta"
+            }
+          ]
+        },
+        "id": "2121998648573837740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 29,
+                "id": "13235832",
+                "start": 17,
+                "username": "natfriedman"
+              },
+              {
+                "end": 58,
+                "id": "2425151",
+                "start": 53,
+                "username": "Meta"
+              },
+              {
+                "end": 572,
+                "id": "2052434492263178240",
+                "start": 567,
+                "username": "Muse"
+              },
+              {
+                "end": 1003,
+                "id": "13235832",
+                "start": 991,
+                "username": "natfriedman"
+              },
+              {
+                "end": 1019,
+                "id": "615818451",
+                "start": 1005,
+                "username": "alexandr_wang"
+              },
+              {
+                "end": 1031,
+                "id": "20749410",
+                "start": 1025,
+                "username": "finkd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=WY0cdD…",
+                "end": 1221,
+                "expanded_url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
+                "start": 1198,
+                "url": "https://t.co/y2Jp67p3pT"
+              }
+            ]
+          },
+          "text": "In late January, @natfriedman pinged a few people at @Meta. He’d been using OpenClaw, and told them they needed to try it.\n\nMona Sarantakos couldn’t find a Mac Mini, so she spent the weekend setting it up on a Raspberry Pi and gave it access to her email and calendar. Her husband told her, “That is so not safe.”\n\nBut by Monday morning, it had pulled together everything her kids had going on at school that week. She pinged Nat back: “This is it. I’m in.”\n\nThe team spent the next seven months building something safe and simple enough for everyone. They called it @Muse. It became the fastest-growing AI consumer product ever.\n\nMona is head of product for Muse and VP of product at Meta Superintelligence Labs. In her first podcast interview, she shares the inside story of how they built and launched Muse.\n\nWe discuss:\n🔸 Why they waited seven months to launch, despite getting started before all of their competitors\n🔸 The two levers that actually move activation for an AI agent\n🔸 How @natfriedman, @alexandr_wang, and @finkd each left their imprint on the product\n🔸 Why the Muse team relies on \"agent swarms\" more than dashboards\n🔸 Why taste is now the most important PM skill\n\nListen now 👇\nhttps://t.co/y2Jp67p3pT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 593,
+          "impression_count": 405910,
+          "like_count": 561,
+          "quote_count": 23,
+          "reply_count": 103,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "In late January, @natfriedman pinged a few people at @Meta. He’d been using OpenClaw, and told them they needed to try it.\n\nMona Sarantakos couldn’t find a Mac Mini, so she spent the weekend setting it up on a Raspberry Pi and gave it access to her email and calendar. Her husband"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2122152589089443840"
+          ]
+        },
+        "author_id": "1508426880860704771",
+        "conversation_id": "2122152599164190804",
+        "created_at": "2026-11-16T02:19:41.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-16T03:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2122152599164190804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RfzVMw35u",
+              "end": 171,
+              "expanded_url": "https://x.com/wallstengine/status/2122152599164190804/photo/1",
+              "media_key": "3_2122152589089443840",
+              "start": 148,
+              "url": "https://t.co/1RfzVMw35u"
+            },
+            {
+              "display_url": "x.com/wallstengine/s…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/wallstengine/status/2102925115151593928",
+              "start": 172,
+              "url": "https://t.co/zTxzBAIhPk"
+            }
+          ]
+        },
+        "id": "2122152599164190804",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 146381,
+          "like_count": 317,
+          "quote_count": 15,
+          "reply_count": 19,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102925115151593928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Meta has opened a waitlist for Muse Charm, its pocket-sized device for the Muse AI agent.\n\nA limited initial batch is expected to ship in December. https://t.co/1RfzVMw35u https://t.co/zTxzBAIhPk"
+      },
+      {
+        "author_id": "1348301795064487940",
+        "conversation_id": "2122302942057255030",
+        "created_at": "2026-11-16T12:17:06.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-16T13:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2122302942057255030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 178,
+              "id": "2052434492263178240",
+              "start": 173,
+              "username": "Muse"
+            }
+          ]
+        },
+        "id": "2122302942057255030",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 178,
+                "id": "2052434492263178240",
+                "start": 173,
+                "username": "Muse"
+              },
+              {
+                "end": 286,
+                "id": "20749410",
+                "start": 280,
+                "username": "finkd"
+              },
+              {
+                "end": 303,
+                "id": "615818451",
+                "start": 289,
+                "username": "alexandr_wang"
+              }
+            ]
+          },
+          "text": "Been trying to book a suite at a hotel for months. Called yesterday and not only were the suites but also the rooms were fully booked.\n\nGot a notification this morning from @Muse that not only could I book, but it was the suite I wanted. One notification, one tap, booked. Thanks @finkd + @alexandr_wang"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 70966,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Been trying to book a suite at a hotel for months. Called yesterday and not only were the suites but also the rooms were fully booked.\n\nGot a notification this morning from @Muse that not only could I book, but it was the suite I wanted. One notification, one tap, booked. Thanks"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2120971068974493696"
+          ]
+        },
+        "author_id": "1244418065854599170",
+        "conversation_id": "2120973052024598620",
+        "created_at": "2026-11-12T20:12:36.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-12T21:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2120973052024598620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQEVNS0xWX",
+              "end": 225,
+              "expanded_url": "https://x.com/charlieholtz/status/2120973052024598620/video/1",
+              "media_key": "13_2120971068974493696",
+              "start": 202,
+              "url": "https://t.co/FQEVNS0xWX"
+            }
+          ]
+        },
+        "id": "2120973052024598620",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 211658,
+          "like_count": 1492,
+          "quote_count": 72,
+          "reply_count": 297,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "Announcement: CONDUCTOR IS BACK\n\nWe’ve decided to continue development of Conductor! \n\nReports of our death have been greatly exaggerated (by us). Regularly scheduled updates will resume next week!\n\n🫡🚂 https://t.co/FQEVNS0xWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2012-06-23T02:46:22.000Z",
+        "description": "chief ai officer @meta, founder meta superintelligence labs, founder @scale_ai. give everyone the adulthood they dreamed of in childhood",
+        "id": "615818451",
+        "location": "San Francisco, CA",
+        "name": "Alexandr Wang",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943325,
+          "following_count": 929,
+          "like_count": 7621,
+          "listed_count": 4469,
+          "media_count": 561,
+          "tweet_count": 3762
+        },
+        "url": "https://t.co/5m610IL18X",
+        "username": "alexandr_wang",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2020-01-25T17:28:02.000Z",
+        "description": "Writer @WorksInProgMag & @Stripe | Clinical Trial Abundance | long-form https://t.co/ipFMYGuR84",
+        "id": "1221122547057602560",
+        "location": "Cambridge, England",
+        "name": "Ruxandra Teslo 🧬",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32527,
+          "following_count": 3373,
+          "like_count": 79254,
+          "listed_count": 346,
+          "media_count": 4145,
+          "tweet_count": 51172
+        },
+        "url": "https://t.co/ipFMYGuR84",
+        "username": "RuxandraTeslo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2023-08-20T12:31:28.000Z",
+        "description": "Our mission is to empower exceptional lawyers. We’re building the world’s first truly collaborative AI for legal professionals.",
+        "id": "1693239277600034816",
+        "location": "Stockholm, Sweden",
+        "name": "Legora",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8673,
+          "following_count": 19,
+          "like_count": 38,
+          "listed_count": 81,
+          "media_count": 137,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/bexit0xr4f",
+        "username": "WeAreLegora",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "created_at": "2026-05-07T17:19:22.000Z",
+        "description": "Your personal AI agent that gets things done.",
+        "id": "2052434492263178240",
+        "name": "Muse",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124499,
+          "following_count": 14,
+          "like_count": 586,
+          "listed_count": 560,
+          "media_count": 139,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/gGj0lMVlTn",
+        "username": "Muse",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "created_at": "2025-09-03T06:18:50.000Z",
+        "description": "Bebu | Mostly i recommend \"Local Ai\"",
+        "id": "1963124452390297600",
+        "location": "Mars",
+        "name": "bebu",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3398,
+          "following_count": 354,
+          "like_count": 9204,
+          "listed_count": 50,
+          "media_count": 561,
+          "tweet_count": 2087
+        },
+        "url": "",
+        "username": "bebuu_ai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2015-04-24T01:56:46.000Z",
+        "description": "I do tech stuff and share it online || Growth @firecrawl",
+        "id": "3199745285",
+        "location": "🇦🇷",
+        "name": "Juampi",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12829,
+          "following_count": 1537,
+          "like_count": 37987,
+          "listed_count": 114,
+          "media_count": 3136,
+          "tweet_count": 23037
+        },
+        "url": "https://t.co/IUguXHxu9I",
+        "username": "juampitech",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2008-11-05T14:36:45.000Z",
+        "description": "Growing Devin @cognition",
+        "id": "17189394",
+        "name": "nader dabit",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198040,
+          "following_count": 16105,
+          "like_count": 340220,
+          "listed_count": 3443,
+          "media_count": 4207,
+          "tweet_count": 63264
+        },
+        "url": "https://t.co/BrfFacojnN",
+        "username": "dabit3",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "id": "1953337039510003712",
+        "name": "Tibo",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025038,
+          "following_count": 78,
+          "like_count": 10859,
+          "listed_count": 4614,
+          "media_count": 165,
+          "tweet_count": 3625
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2011-04-19T03:00:17.000Z",
+        "description": "Member of technical staff, working on Gemini, @GoogleAIStudio, the Gemini API, & Kaggle. My views!",
+        "id": "284333988",
+        "location": "Lkilpatrick@google.com",
+        "name": "Logan Kilpatrick",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405022,
+          "following_count": 3474,
+          "like_count": 162693,
+          "listed_count": 6600,
+          "media_count": 699,
+          "tweet_count": 12002
+        },
+        "url": "https://t.co/p6F6wFrOSE",
+        "username": "OfficialLoganK",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2010-05-03T06:51:12.000Z",
+        "description": "agents, evals and ai research @figma. girl dad, @ucla, @ycombinator, @canva and @pinterest alum. posts from the edge of what's possible",
+        "id": "139638149",
+        "location": "San Francisco, CA",
+        "name": "john milinovich",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12728,
+          "following_count": 1846,
+          "like_count": 2083,
+          "listed_count": 191,
+          "media_count": 56,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/W50SWyRblV",
+        "username": "jmilinovich",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2010-06-05T03:03:26.000Z",
+        "description": "@Vercel Labs | Created https://t.co/473Fqx49UV, https://t.co/ZekOfFdR87, https://t.co/9MKvOdxZXv, https://t.co/TbXWHFZT2L | Husband & Dad | He/him | Musician, Space Nerd, Foodie | Vegan",
+        "id": "152108221",
+        "location": "Austin, TX",
+        "name": "Chris Tate",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74684,
+          "following_count": 1588,
+          "like_count": 6996,
+          "listed_count": 879,
+          "media_count": 708,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/J5CHyZDPzM",
+        "username": "ctatedev",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2009-04-24T01:26:07.000Z",
+        "description": "I help invent the future.  CTO @cloudflare.  Angel investor.",
+        "id": "34799361",
+        "location": "Austin, TX",
+        "name": "Dane Knecht 🦭",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48052,
+          "following_count": 2207,
+          "like_count": 11012,
+          "listed_count": 265,
+          "media_count": 120,
+          "tweet_count": 6042
+        },
+        "url": "https://t.co/sDFdHkSsjO",
+        "username": "dok2001",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2024-02-26T03:59:44.000Z",
+        "description": "databases → @planetscale\nvideos → https://t.co/J5soMyf6XC\nwriting → https://t.co/YpfkF0JaV8",
+        "id": "1761964147510767616",
+        "name": "Ben Dicken",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53464,
+          "following_count": 962,
+          "like_count": 30370,
+          "listed_count": 304,
+          "media_count": 965,
+          "tweet_count": 6372
+        },
+        "url": "https://t.co/4BGASrp0sp",
+        "username": "BenjDicken",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2008-04-10T22:11:05.000Z",
+        "description": "☻ // @elevenlabs // @noun_irl",
+        "id": "14355836",
+        "location": "LA",
+        "name": "drew coffman 𝕚𝕤 𝕠𝕟𝕝𝕚𝕟𝕖 🟢",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22316,
+          "following_count": 3068,
+          "like_count": 101635,
+          "listed_count": 409,
+          "media_count": 8125,
+          "tweet_count": 50211
+        },
+        "url": "https://t.co/ef1HSicAfo",
+        "username": "drewcoffman",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2009-09-08T17:46:03.000Z",
+        "description": "Building Glass @tryramp. prev @middayai",
+        "id": "72615190",
+        "location": "Sweden, Stockholm",
+        "name": "Pontus Abrahamsson",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33565,
+          "following_count": 626,
+          "like_count": 9407,
+          "listed_count": 354,
+          "media_count": 1853,
+          "tweet_count": 12164
+        },
+        "url": "https://t.co/GymZWmVg7a",
+        "username": "pontusab",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "created_at": "2012-01-15T22:54:05.000Z",
+        "description": "Tinkering @notionhq and https://t.co/g2802ywFYG",
+        "id": "465068802",
+        "location": "NYC",
+        "name": "Brian Lovin",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158026,
+          "following_count": 2027,
+          "like_count": 67865,
+          "listed_count": 1465,
+          "media_count": 2079,
+          "tweet_count": 29461
+        },
+        "url": "https://t.co/Slz08VEnL1",
+        "username": "brian_lovin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2124719968499777546",
+    "next_token": "7140dibdnow9c7btwp0gm3423g2kcw1fdt1cl7toqgqpc",
+    "oldest_id": "2120930586827391350",
+    "result_count": 25
+  },
+  "errors": []
+}

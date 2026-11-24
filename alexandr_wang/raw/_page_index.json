@@ -1,0 +1,755 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "file": "page_0001_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2124719968499777546",
+      "oldest_id": "2120930586827391350",
+      "newest_created_at": "2026-11-23T04:21:30.000Z",
+      "oldest_created_at": "2026-11-12T17:23:51.000Z",
+      "next_token": "7140dibdnow9c7btwp0gm3423g2kcw1fdt1cl7toqgqpc",
+      "type_counts": {
+        "quote": 8,
+        "reply": 4,
+        "original": 13
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:00:44Z"
+    },
+    {
+      "page": 2,
+      "file": "page_0002_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 24,
+      "returned": 24,
+      "added": 24,
+      "duplicates_in_page": 0,
+      "newest_id": "2120612306904346637",
+      "oldest_id": "2119472366426394704",
+      "newest_created_at": "2026-11-11T20:19:07.000Z",
+      "oldest_created_at": "2026-11-08T16:49:24.000Z",
+      "next_token": "7140dibdnow9c7btwp0g7gn5qbrerbibqiz3dlz3qdb90",
+      "type_counts": {
+        "quote": 13,
+        "original": 8,
+        "reply": 3
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:01:24Z"
+    },
+    {
+      "page": 3,
+      "file": "page_0003_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1741478085701107951",
+      "oldest_id": "1721898517181129107",
+      "newest_created_at": "2023-12-31T15:15:05.000Z",
+      "oldest_created_at": "2023-11-07T14:32:52.000Z",
+      "next_token": "b26v89c19zqg8o3fr5hdvm1vagx1w2vmw6hcwnkbwpcal",
+      "type_counts": {
+        "original": 10,
+        "reply": 8,
+        "repost": 2,
+        "quote": 5
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:01:24Z"
+    },
+    {
+      "page": 4,
+      "file": "page_0004_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 0,
+      "returned": 0,
+      "added": 0,
+      "duplicates_in_page": 0,
+      "newest_id": null,
+      "oldest_id": null,
+      "newest_created_at": null,
+      "oldest_created_at": null,
+      "next_token": null,
+      "type_counts": {},
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:02:06Z"
+    },
+    {
+      "page": 5,
+      "file": "page_0005_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1344745514051448836",
+      "oldest_id": "1334171701001678848",
+      "newest_created_at": "2020-12-31T20:41:29.000Z",
+      "oldest_created_at": "2020-12-02T16:24:55.000Z",
+      "next_token": "b26v89c19zqg8o3fosetldyc48ik401q0wlqr515mp3el",
+      "type_counts": {
+        "original": 8,
+        "reply": 14,
+        "quote": 2,
+        "repost": 1
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:02:06Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1342330946721370112].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1342330946721370112",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1342330946721370112"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "file": "page_0006_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1872335968608669994",
+      "oldest_id": "1853863918709715166",
+      "newest_created_at": "2024-12-26T17:37:35.000Z",
+      "oldest_created_at": "2024-11-05T18:16:16.000Z",
+      "next_token": "b26v89c19zqg8o3frr0sdduni3hoavqabkom6hp56k96l",
+      "type_counts": {
+        "quote": 7,
+        "original": 4,
+        "reply": 14
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:02:06Z"
+    },
+    {
+      "page": 7,
+      "file": "page_0007_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 17,
+      "returned": 17,
+      "added": 0,
+      "duplicates_in_page": 17,
+      "newest_id": "2124719968499777546",
+      "oldest_id": "2122762964419870792",
+      "newest_created_at": "2026-11-23T04:21:30.000Z",
+      "oldest_created_at": "2026-11-17T18:45:04.000Z",
+      "next_token": "b26v89c19zqg8o3juzow6o04um3c75nkzt1b0digtr5h9",
+      "type_counts": {
+        "quote": 4,
+        "reply": 4,
+        "original": 9
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:02:57Z"
+    },
+    {
+      "page": 8,
+      "file": "page_0008_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2006413001293750738",
+      "oldest_id": "1971295156411433228",
+      "newest_created_at": "2025-12-31T17:11:51.000Z",
+      "oldest_created_at": "2025-09-25T19:26:04.000Z",
+      "next_token": "b26v89c19zqg8o3fsch5eafx4eilvdo428vlp955xvvr1",
+      "type_counts": {
+        "quote": 9,
+        "reply": 13,
+        "original": 3
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:02:58Z"
+    },
+    {
+      "page": 9,
+      "file": "page_0009_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1608996309897465856",
+      "oldest_id": "1604159911385890818",
+      "newest_created_at": "2022-12-31T01:19:48.000Z",
+      "oldest_created_at": "2022-12-17T17:01:41.000Z",
+      "next_token": "b26v89c19zqg8o3fqk1193ct001ij4vm200o6h3escxa5",
+      "type_counts": {
+        "original": 16,
+        "reply": 9
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:02:58Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1606343381709295617].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1606343381709295617",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1606343381709295617"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "file": "page_0010_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1078916776073687040",
+      "oldest_id": "1057769870119460864",
+      "newest_created_at": "2018-12-29T07:32:59.000Z",
+      "oldest_created_at": "2018-10-31T23:02:44.000Z",
+      "next_token": "b26v89c19zqg8o3fn0pnfm3z4fegy2ucr1u16g2wh2nb1",
+      "type_counts": {
+        "original": 13,
+        "reply": 6,
+        "repost": 6
+      },
+      "errors_count": 2,
+      "collected_at_utc": "2026-11-24T11:02:58Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1078833622780588032].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1078833622780588032",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1078833622780588032"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1076846039666028545].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1076846039666028545",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1076846039666028545"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "file": "page_0011_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "815304798673063936",
+      "oldest_id": "808740363305250816",
+      "newest_created_at": "2016-12-31T21:13:06.000Z",
+      "oldest_created_at": "2016-12-13T18:28:22.000Z",
+      "next_token": "1jzu9lk96gu5npw3iy3wv887bm1jsl9sbk73ezfb2su5",
+      "type_counts": {
+        "original": 4,
+        "reply": 17,
+        "repost": 4
+      },
+      "errors_count": 5,
+      "collected_at_utc": "2026-11-24T11:02:58Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [813874308825001984].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "813874308825001984",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "813874308825001984"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [810243866997694464].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "810243866997694464",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "810243866997694464"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [810242685617537024].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "810242685617537024",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "810242685617537024"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [810242685617537024].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "810242685617537024",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "810242685617537024"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [810159189821489153].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "810159189821489153",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "810159189821489153"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "file": "page_0012_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 1,
+      "duplicates_in_page": 24,
+      "newest_id": "2122428883169632754",
+      "oldest_id": "2119866792348954839",
+      "newest_created_at": "2026-11-16T20:37:33.000Z",
+      "oldest_created_at": "2026-11-09T18:56:43.000Z",
+      "next_token": "b26v89c19zqg8o3juzlzcxd9j6a4krms0utislfl1ckn1",
+      "type_counts": {
+        "original": 8,
+        "quote": 16,
+        "reply": 1
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:03:44Z"
+    },
+    {
+      "page": 13,
+      "file": "page_0013_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1970981637015076900",
+      "oldest_id": "1933614625989538108",
+      "newest_created_at": "2025-09-24T22:40:15.000Z",
+      "oldest_created_at": "2025-06-13T19:57:06.000Z",
+      "next_token": "b26v89c19zqg8o3fsc5759ziy2gtbe4ki6iv22hyrb33x",
+      "type_counts": {
+        "quote": 6,
+        "reply": 10,
+        "original": 8,
+        "repost": 1
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:03:44Z"
+    },
+    {
+      "page": 14,
+      "file": "page_0014_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1468779146247507969",
+      "oldest_id": "1458832504949862412",
+      "newest_created_at": "2021-12-09T03:06:51.000Z",
+      "oldest_created_at": "2021-11-11T16:22:27.000Z",
+      "next_token": "b26v89c19zqg8o3fpdv95zullq25vhvtgrh577asof5h9",
+      "type_counts": {
+        "quote": 2,
+        "reply": 10,
+        "original": 11,
+        "repost": 2
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:03:44Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1467260537406771203].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1467260537406771203",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1467260537406771203"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "file": "page_0015_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1212044674665500672",
+      "oldest_id": "1204095027091165190",
+      "newest_created_at": "2019-12-31T16:15:43.000Z",
+      "oldest_created_at": "2019-12-09T17:46:40.000Z",
+      "next_token": "b26v89c19zqg8o3fo6vfxv8erfcem94uaqko2n3if1uv1",
+      "type_counts": {
+        "original": 14,
+        "reply": 10,
+        "quote": 1
+      },
+      "errors_count": 2,
+      "collected_at_utc": "2026-11-24T11:03:44Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1211863566564777986].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1211863566564777986",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1211863566564777986"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1211859698565017601].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1211859698565017601",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1211859698565017601"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "file": "page_0016_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 1,
+      "returned": 1,
+      "added": 1,
+      "duplicates_in_page": 0,
+      "newest_id": "216361960667754498",
+      "oldest_id": "216361960667754498",
+      "newest_created_at": "2012-06-23T02:48:05.000Z",
+      "oldest_created_at": "2012-06-23T02:48:05.000Z",
+      "next_token": "1jzu9lk96gu5npvzzaovghxu9ilsl0q9nm5w4syxkz25",
+      "type_counts": {
+        "original": 1
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:03:44Z"
+    },
+    {
+      "page": 17,
+      "file": "page_0017_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1807538498968359363",
+      "oldest_id": "1801351994290167981",
+      "newest_created_at": "2024-06-30T22:15:35.000Z",
+      "oldest_created_at": "2024-06-13T20:32:37.000Z",
+      "next_token": "b26v89c19zqg8o3frqlsnbsuqrwl5qdcrjykogri586m5",
+      "type_counts": {
+        "original": 5,
+        "reply": 17,
+        "quote": 1,
+        "repost": 2
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:03:44Z"
+    },
+    {
+      "page": 18,
+      "file": "page_0018_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 11,
+      "returned": 11,
+      "added": 11,
+      "duplicates_in_page": 0,
+      "newest_id": "2037646032860012561",
+      "oldest_id": "2007189007751622676",
+      "newest_created_at": "2026-03-27T21:40:46.000Z",
+      "oldest_created_at": "2026-01-02T20:35:25.000Z",
+      "next_token": "b26v89c19zqg8o3jue8keiphj6dr290pgfjupv9yff059",
+      "type_counts": {
+        "quote": 5,
+        "reply": 3,
+        "original": 3
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:04:28Z"
+    },
+    {
+      "page": 19,
+      "file": "page_0019_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2071699471512318359",
+      "oldest_id": "2044202875094724997",
+      "newest_created_at": "2026-06-29T20:56:58.000Z",
+      "oldest_created_at": "2026-04-14T23:55:19.000Z",
+      "next_token": "b26v89c19zqg8o3jueki8o2rk81ayekfcz07eyinavp19",
+      "type_counts": {
+        "repost": 1,
+        "quote": 15,
+        "reply": 8,
+        "original": 1
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:04:28Z",
+      "errors": [
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054423339440185383].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2054423339440185383",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "2054423339440185383"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "file": "page_0020_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2105351533151867003",
+      "oldest_id": "2103857425820557568",
+      "newest_created_at": "2026-09-30T17:38:15.000Z",
+      "oldest_created_at": "2026-09-26T14:41:12.000Z",
+      "next_token": "b26v89c19zqg8o3juzix23o47p1wwl7aaftertqf1tn5p",
+      "type_counts": {
+        "quote": 9,
+        "reply": 8,
+        "original": 8
+      },
+      "errors_count": 2,
+      "collected_at_utc": "2026-11-24T11:04:28Z",
+      "errors": [
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104667001679647011].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2104667001679647011",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "2104667001679647011"
+        },
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2104058366259761198].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2104058366259761198",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2104058366259761198"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "file": "page_0021_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "671793637374717952",
+      "oldest_id": "620983022305673216",
+      "newest_created_at": "2015-12-01T20:50:59.000Z",
+      "oldest_created_at": "2015-07-14T15:47:44.000Z",
+      "next_token": "1jzu9lk96gu5npw2cj7fxpb0t0moyeiiwh428ux7w0hp",
+      "type_counts": {
+        "repost": 15,
+        "quote": 2,
+        "reply": 3,
+        "original": 5
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:04:28Z"
+    },
+    {
+      "page": 22,
+      "file": "page_0022_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "947530813083500544",
+      "oldest_id": "915114711460438017",
+      "newest_created_at": "2017-12-31T18:12:04.000Z",
+      "oldest_created_at": "2017-10-03T07:22:03.000Z",
+      "next_token": "1jzu9lk96gu5npw44bgqq4k6wcqsj2ubev11uo2bxqbh",
+      "type_counts": {
+        "repost": 12,
+        "original": 6,
+        "reply": 5,
+        "quote": 2
+      },
+      "errors_count": 3,
+      "collected_at_utc": "2026-11-24T11:04:28Z",
+      "errors": [
+        {
+          "detail": "User has been suspended: [jongold].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "jongold",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "jongold"
+        },
+        {
+          "detail": "User has been suspended: [jongold].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "jongold",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "jongold"
+        },
+        {
+          "detail": "User has been suspended: [jongold].",
+          "parameter": "entities.mentions.username",
+          "resource_id": "jongold",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "jongold"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "file": "page_0023_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 0,
+      "returned": 0,
+      "added": 0,
+      "duplicates_in_page": 0,
+      "newest_id": null,
+      "oldest_id": null,
+      "newest_created_at": null,
+      "oldest_created_at": null,
+      "next_token": null,
+      "type_counts": {},
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:04:28Z"
+    },
+    {
+      "page": 24,
+      "file": "page_0024_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2094502561336414236",
+      "oldest_id": "2086756161517470102",
+      "newest_created_at": "2026-08-31T19:08:19.000Z",
+      "oldest_created_at": "2026-08-10T10:06:53.000Z",
+      "next_token": "b26v89c19zqg8o3juewi6u4ki11m70g4u9ljv45aicuwt",
+      "type_counts": {
+        "reply": 15,
+        "original": 3,
+        "quote": 4,
+        "repost": 3
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:05:08Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2089128122901750022].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2089128122901750022",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2089128122901750022"
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "file": "page_0025_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 24,
+      "returned": 24,
+      "added": 24,
+      "duplicates_in_page": 0,
+      "newest_id": "2116653318265291253",
+      "oldest_id": "2114739264101740656",
+      "newest_created_at": "2026-10-31T22:07:31.000Z",
+      "oldest_created_at": "2026-10-26T15:21:45.000Z",
+      "next_token": "b26v89c19zqg8o3juzlx8yx2sip2d0zr7cy0n5lzb0gal",
+      "type_counts": {
+        "quote": 13,
+        "repost": 2,
+        "reply": 5,
+        "original": 4
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T11:05:08Z"
+    },
+    {
+      "page": 26,
+      "file": "page_0026_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1928966587316404369",
+      "oldest_id": "1907604573730288060",
+      "newest_created_at": "2025-06-01T00:07:27.000Z",
+      "oldest_created_at": "2025-04-03T01:22:26.000Z",
+      "next_token": "b26v89c19zqg8o3fsbw9i8ben7dn55pq2d4rfhj33i8al",
+      "type_counts": {
+        "reply": 10,
+        "quote": 4,
+        "original": 11
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T11:05:08Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1910497604972273728].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1910497604972273728",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1910497604972273728"
+        }
+      ]
+    }
+  ],
+  "latest_next_token": "b26v89c19zqg8o3fsbw9i8ben7dn55pq2d4rfhj33i8al",
+  "updated_at_utc": "2026-11-24T11:05:08Z"
+}

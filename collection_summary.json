@@ -1,0 +1,85 @@
+{
+  "pass": "first_pass_bounded",
+  "completed_at_utc": "2026-11-24T11:13:00Z",
+  "completed_at_shanghai": "2026-11-24 19:13:00 GMT+8",
+  "github_repo_target": "x (parent/CloudAgent to commit; this pass did not write to GitHub)",
+  "box_path": "/workspace/x-research",
+  "accounts": {
+    "alexandr_wang": {
+      "retrieved_unique_posts": 512,
+      "profile_post_count": 3762,
+      "share": 0.1361,
+      "span_utc": {
+        "oldest": "2012-06-23T02:48:05.000Z",
+        "newest": "2026-11-23T04:21:30.000Z"
+      },
+      "by_type": {
+        "original": 160,
+        "quote": 109,
+        "reply": 192,
+        "repost": 51
+      },
+      "open_tokens": 24,
+      "zero_months": 132
+    },
+    "iiiinvest": {
+      "retrieved_unique_posts": 366,
+      "profile_post_count": 4858,
+      "share": 0.0753,
+      "span_utc": {
+        "oldest": "2022-11-27T13:36:12.000Z",
+        "newest": "2026-11-24T09:50:06.000Z"
+      },
+      "by_type": {
+        "original": 129,
+        "reply": 162,
+        "quote": 46,
+        "repost": 29
+      },
+      "open_tokens": 15,
+      "zero_months": 26
+    },
+    "silverfang88": {
+      "retrieved_unique_posts": 354,
+      "profile_post_count": 19982,
+      "share": 0.0177,
+      "span_utc": {
+        "oldest": "2021-09-25T04:43:03.000Z",
+        "newest": "2026-11-24T09:58:30.000Z"
+      },
+      "by_type": {
+        "reply": 98,
+        "original": 210,
+        "quote": 35,
+        "repost": 11
+      },
+      "open_tokens": 15,
+      "zero_months": 49
+    }
+  },
+  "api": {
+    "namespace": "x",
+    "tools": [
+      "get_users_by_usernames",
+      "get_users_posts",
+      "search_posts_all",
+      "get_posts_by_ids"
+    ],
+    "max_results_per_call": 25,
+    "rate_limits": {
+      "per_minute": 30,
+      "per_day": 1000
+    },
+    "approx_calls_this_pass": 58,
+    "daily_budget_remaining_after_pass": "on the order of 900+ (platform footer; not re-checked at file-write time)"
+  },
+  "completeness_claim": false,
+  "portable_archive_target_mb": 25,
+  "integration": {
+    "integrated_on": "2026-11-24",
+    "human_timezone": "Asia/Shanghai (GMT+8)",
+    "note": "First-pass files were copied into the repository and checked against normalized posts and raw pages. Collection was not re-run. Analyses were corrected where they disagreed with stored records. This is not a complete history.",
+    "retrieved_unique_posts_total": 1232,
+    "pagination_verified_complete": false
+  }
+}

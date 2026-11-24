@@ -1,0 +1,48 @@
+{
+  "rate_limits": {
+    "per_minute": 30,
+    "per_day": 1000,
+    "used_estimate_this_session": 10,
+    "note": "platform-reported remaining will be recorded from tool footers when available"
+  },
+  "accounts": {
+    "alexandr_wang": {
+      "timeline_next_token": "7140dibdnow9c7btwp0g7gn5qbrerbibqiz3dlz3qdb90",
+      "timeline_end": false,
+      "windows": {
+        "2023": {
+          "next_token": "b26v89c19zqg8o3fr5hdvm1vagx1w2vmw6hcwnkbwpcal",
+          "start": "2023-01-01T00:00:00Z",
+          "end": "2024-01-01T00:00:00Z",
+          "done": false
+        }
+      }
+    },
+    "iiiinvest": {
+      "timeline_next_token": "7140dibdnow9c7btwp0gm9g53iurm19yimsrq1kywdquu",
+      "timeline_end": false,
+      "windows": {
+        "2023": {
+          "next_token": "b26v89c19zqg8o3fqkly041lc9qzla1rnhefyeetm4tj1",
+          "start": "2023-01-01T00:00:00Z",
+          "end": "2024-01-01T00:00:00Z",
+          "done": false
+        }
+      }
+    },
+    "silverfang88": {
+      "timeline_next_token": "7140dibdnow9c7btwp0gm7dik7jptawauknskd4f46gc6",
+      "timeline_end": false,
+      "windows": {
+        "2022": {
+          "next_token": "b26v89c19zqg8o3fqk12y2kmims3ek42038xj5d723csd",
+          "start": "2022-01-01T00:00:00Z",
+          "end": "2023-01-01T00:00:00Z",
+          "done": false
+        }
+      }
+    }
+  },
+  "note": "Partial token book from mid-collection; authoritative remaining tokens are in each coverage_manifest.json (open_pagination_tokens).",
+  "authoritative_remaining_tokens": "see <handle>/coverage_manifest.json"
+}
