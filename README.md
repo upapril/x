@@ -27,6 +27,8 @@ Human dates in the analyses are **Asia/Shanghai (GMT+8)**. `created_at_utc` on e
 
 `profiles.json` is the profile lookup. `_raw/pinned_posts_get_posts_by_ids.json` is the pinned-post fetch (profile expansion returned not-found; the same ids were then retrieved). `logs/collection_state.json` is a partial mid-pass snapshot. Other files in `logs/` are working notes, not citations.
 
+[`vendor/finance-skills/`](vendor/finance-skills/) is an unchanged copy of [himself65/finance-skills](https://github.com/himself65/finance-skills) at `a0850786e72aa23b92862f9f1635b0de506fe206` (MIT, Copyright (c) 2025 Alex Yang). Source, date, and update method: [`vendor/finance-skills.PROVENANCE.md`](vendor/finance-skills.PROVENANCE.md). Those files are stored only; they are not installed or run.
+
 ## What the retrieved sample supports
 
 These lines are about the posts in this archive, not about the missing majority.
