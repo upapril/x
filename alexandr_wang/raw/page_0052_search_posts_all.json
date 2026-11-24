@@ -1,0 +1,139 @@
+{
+  "collected_at_utc": "2026-11-24T11:35:43Z",
+  "collected_at_shanghai": "2026-11-24T19:35:43+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86NDVRDBDQY83G9BZ15C8SG.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2016-04-01T00:00:00Z",
+    "end_time": "2016-05-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2016-04"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2016-04-14T15:13:20.000Z",
+      "edit_history_tweet_ids": [
+        "720631027484520448"
+      ],
+      "id": "720631027484520448",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@sama thanks for coming! Still want to debate academia vs industry for AI—all the smartest ppl I know are in/going to academia.",
+      "url": "https://x.com/alexandr_wang/status/720631027484520448"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2016-04-11T07:19:11.000Z",
+      "edit_history_tweet_ids": [
+        "719424540175179776"
+      ],
+      "id": "719424540175179776",
+      "in_reply_to_user_id": "718732478857486337",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@lazyset Kanye West",
+      "url": "https://x.com/alexandr_wang/status/719424540175179776"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2016-04-01T18:41:28.000Z",
+      "edit_history_tweet_ids": [
+        "715972365377777664"
+      ],
+      "id": "715972365377777664",
+      "in_reply_to_user_id": "13139072",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "715775515685232640",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jmohsenin I think u mean TLOP on soundcloud go",
+      "url": "https://x.com/alexandr_wang/status/715972365377777664"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "public_metrics": {
+          "followers_count": 943642,
+          "following_count": 929,
+          "like_count": 7621,
+          "listed_count": 4464,
+          "media_count": 561,
+          "tweet_count": 3762
+        },
+        "username": "alexandr_wang"
+      },
+      {
+        "id": "718732478857486337",
+        "name": "DJ Lazy Set",
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 2,
+          "like_count": 19,
+          "listed_count": 28,
+          "media_count": 2,
+          "tweet_count": 10589
+        },
+        "username": "lazyset"
+      },
+      {
+        "id": "13139072",
+        "name": "Jackson Mohsenin",
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 859,
+          "like_count": 22120,
+          "listed_count": 43,
+          "media_count": 234,
+          "tweet_count": 3217
+        },
+        "username": "jmohsenin"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "720631027484520448",
+    "next_token": "1jzu9lk96gu5npw2xqo3m7qhna6tz6p73lxpd1296y65",
+    "oldest_id": "715972365377777664",
+    "result_count": 3
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [715775515685232640].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "715775515685232640",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "715775515685232640"
+    }
+  ]
+}

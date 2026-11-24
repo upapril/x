@@ -1,0 +1,251 @@
+# @taresky chronological archive
+
+This file is an **index**. Full original-language text for every stored post is in the yearly files under `archives/YYYY.md`.
+
+- Unique posts stored (deduped by id): **224**
+- Span (API UTC): `2016-12-15T00:47:22.000Z` → `2026-11-24T09:10:31.000Z`
+- Span (Asia/Shanghai, GMT+8): 2016-12-15 08:47:22 GMT+8 → 2026-11-24 17:10:31 GMT+8
+- Types: original 53, reply 138, quote 22, repost 11
+- Earliest stored: [809198127789969409](https://x.com/taresky/status/809198127789969409) — 2016-12-15 08:47:22 GMT+8
+- Latest stored: [2125155090130731098](https://x.com/taresky/status/2125155090130731098) — 2026-11-24 17:10:31 GMT+8
+
+This is **not** a complete account history. See `coverage_manifest.md`.
+
+## Posts per calendar year (UTC year of created_at)
+
+| Year | Stored posts | Full-text file |
+|---|---:|---|
+| 2016 | 25 | `archives/2016.md` |
+| 2021 | 25 | `archives/2021.md` |
+| 2022 | 25 | `archives/2022.md` |
+| 2023 | 1 | `archives/2023.md` |
+| 2024 | 25 | `archives/2024.md` |
+| 2025 | 50 | `archives/2025.md` |
+| 2026 | 73 | `archives/2026.md` |
+
+## Compact chronological index (id, time, type, URL, first line)
+
+- `809198127789969409` | 2016-12-15 08:47:22 GMT+8 | quote | https://x.com/taresky/status/809198127789969409 | 这个边界非常清楚“是否明确征求了用户同意”，都tm什么脑子。 https://t.co/spzATGEVO4
+- `809210392123576322` | 2016-12-15 09:36:06 GMT+8 | original | https://x.com/taresky/status/809210392123576322 | 京东赞卡的目标用户是？
+- `809949966303006720` | 2016-12-17 10:34:54 GMT+8 | original | https://x.com/taresky/status/809949966303006720 | 觉得自己很笨。 https://t.co/ABVrdHWXFz
+- `809955738453884928` | 2016-12-17 10:57:50 GMT+8 | quote | https://x.com/taresky/status/809955738453884928 | 舒坦了。 https://t.co/6HjR6Cy7pd https://t.co/dwKe296Jzn
+- `809981158859554816` | 2016-12-17 12:38:51 GMT+8 | reply | https://x.com/taresky/status/809981158859554816 | @gongziheng1995 单独 Google 走别的挺好啊？
+- `809998764194742276` | 2016-12-17 13:48:49 GMT+8 | reply | https://x.com/taresky/status/809998764194742276 | @voidmorn 香港阿里云出现。
+- `811088095453904898` | 2016-12-20 13:57:25 GMT+8 | original | https://x.com/taresky/status/811088095453904898 | 红米4A https://t.co/IFVKZsZWs3
+- `811188299796578305` | 2016-12-20 20:35:36 GMT+8 | original | https://x.com/taresky/status/811188299796578305 | 最近半年的自制力不错，基本把闲余时间都花在工作和提升修为上。本命年，压力也越来越大。
+- `811498920576565249` | 2016-12-21 17:09:54 GMT+8 | reply | https://x.com/taresky/status/811498920576565249 | @edwardkof3 发在那干啥…
+- `811526178624286722` | 2016-12-21 18:58:13 GMT+8 | original | https://x.com/taresky/status/811526178624286722 | 旁边的研发们已经在为年会准备节目了，今年产品依旧没有任何准备，说什么呢 —— 产品组实在！靠谱！
+- `811571155974795265` | 2016-12-21 21:56:56 GMT+8 | reply | https://x.com/taresky/status/811571155974795265 | @serfusE_ 为啥网购留真实号码…
+- `811573239377821697` | 2016-12-21 22:05:13 GMT+8 | reply | https://x.com/taresky/status/811573239377821697 | @serfusE_ 真实/虚拟小号啊，从源头防范。
+- `811576051436392448` | 2016-12-21 22:16:23 GMT+8 | reply | https://x.com/taresky/status/811576051436392448 | @serfusE_ 之前用沃信，服务不稳定了。切换到阿里小号+阿里大宝卡，这两都是小号，一个收快递，一个绑定各类服务。
+- `811806925847293952` | 2016-12-22 13:33:48 GMT+8 | original | https://x.com/taresky/status/811806925847293952 | 企业宽带对等还是很爽的。 https://t.co/exAVGbzng7
+- `811902730247647232` | 2016-12-22 19:54:29 GMT+8 | original | https://x.com/taresky/status/811902730247647232 | 小米手机这续航，比一加3T好到天上去了。同样是作为电话+ifttt 短信提醒机使用。 https://t.co/PLfZ55tg4n
+- `811903872251797504` | 2016-12-22 19:59:02 GMT+8 | quote | https://x.com/taresky/status/811903872251797504 | 云服务也很完善，短信、通话录音都自动备份。 https://t.co/I642kRE0Wy https://t.co/bLLovYBL3z
+- `812113684751216641` | 2016-12-23 09:52:45 GMT+8 | reply | https://x.com/taresky/status/812113684751216641 | @zuidajiji 自从换了宝卡和王卡，我每个月都要跑15-30G流量…
+- `812178838545264641` | 2016-12-23 14:11:39 GMT+8 | quote | https://x.com/taresky/status/812178838545264641 | 放弃了。 https://t.co/eiTXmpIPc3
+- `813572904763822080` | 2016-12-27 10:31:10 GMT+8 | repost | https://x.com/taresky/status/813572904763822080 | RT @nytchinese: #摩登情爱 我是月光少女，他是阳光少年。地球轮番为我俩旋转。
+- `813766747547238400` | 2016-12-27 23:21:26 GMT+8 | repost | https://x.com/taresky/status/813766747547238400 | RT @Leaskh: 发推纪念下，两年前从上海回深，自己手上和5年异地恋师妹手上合计辛辛苦苦存起来20多万，借了几个朋友的钱合计也是20多，加起来50左右，在没用家里一分钱的前提下，结婚，买房（交首付），生了娃。今晚，终于把所有借来的钱还光了。好感概啊，要哭了，这一路太不容易…
+- `814330126972416005` | 2016-12-29 12:40:06 GMT+8 | repost | https://x.com/taresky/status/814330126972416005 | RT @tualatrix: 刚刚看了 YouTube 上一个台湾制作的关于「转型正义」的小短片，比较生动地说明了什么是「转型正义」，片头就是一个德国的例子，强烈推荐观看。感觉在国内谈这个有点奢侈，不过了解一下总是好的。PS：原来台湾也有查水表的说法？https://t.co/…
+- `814338999766708224` | 2016-12-29 13:15:21 GMT+8 | repost | https://x.com/taresky/status/814338999766708224 | RT @welladamm: #缺的是德 https://t.co/5FCf5iGj2G
+- `814421829871775744` | 2016-12-29 18:44:30 GMT+8 | quote | https://x.com/taresky/status/814421829871775744 | 是这个理 https://t.co/wY2VaacuHd
+- `814774530698686464` | 2016-12-30 18:06:00 GMT+8 | reply | https://x.com/taresky/status/814774530698686464 | @kevinzhow Kevin 怎么会用这个，质量并不好啊。
+- `815053263846273024` | 2016-12-31 12:33:35 GMT+8 | quote | https://x.com/taresky/status/815053263846273024 | 风险高得更多。 https://t.co/vhdsrJgsXa
+- `1354672669157806082` | 2021-01-28 14:08:27 GMT+8 | reply | https://x.com/taresky/status/1354672669157806082 | @feelinglucky 下一步是三网千兆接入+一条商宽对吧。
+- `1354682317843828736` | 2021-01-28 14:46:48 GMT+8 | reply | https://x.com/taresky/status/1354682317843828736 | @cheeq 哇这里好好
+- `1354832012033462272` | 2021-01-29 00:41:37 GMT+8 | reply | https://x.com/taresky/status/1354832012033462272 | @AnnLomachenko 选了 Moneywiz 之后就没有关注其他产品了。我的优先级是：长期可用 = 满足查账需求 -&gt; 好用的记账 -&gt; 数据隐私。
+- `1354835693940346887` | 2021-01-29 00:56:15 GMT+8 | reply | https://x.com/taresky/status/1354835693940346887 | @connnnng 信息流通更加自由的时候
+- `1355179009173192705` | 2021-01-29 23:40:28 GMT+8 | original | https://x.com/taresky/status/1355179009173192705 | 开始记录自己投资决策时的动机和预期。#得像个老韭菜
+- `1355183398227111936` | 2021-01-29 23:57:54 GMT+8 | reply | https://x.com/taresky/status/1355183398227111936 | @bulice307 啊嘿
+- `1355183584856793095` | 2021-01-29 23:58:39 GMT+8 | reply | https://x.com/taresky/status/1355183584856793095 | @sailfishcc1 其实还好，大机场也贵
+- `1355216851932905472` | 2021-01-30 02:10:50 GMT+8 | reply | https://x.com/taresky/status/1355216851932905472 | @sailfishcc1 我的是 1tb/月
+- `1355388172486623242` | 2021-01-30 13:31:36 GMT+8 | reply | https://x.com/taresky/status/1355388172486623242 | @hcbjdjbdk 嗯，IPLC 如果建站也必须备案。
+- `1355388724834537473` | 2021-01-30 13:33:48 GMT+8 | quote | https://x.com/taresky/status/1355388724834537473 | 第一反应是推特著名垃圾人冯大辉，查了下果然是… 
+- `1355390114545819648` | 2021-01-30 13:39:19 GMT+8 | quote | https://x.com/taresky/status/1355390114545819648 | 看到这条笑出声了哈哈哈哈 https://t.co/W2fu1kgkGm
+- `1355390274432761857` | 2021-01-30 13:39:58 GMT+8 | repost | https://x.com/taresky/status/1355390274432761857 | RT @poboqo: @luoleiorg 冯大辉最近得吃相确实很难看，天天卖保险，之前卖p2p搞得一堆技术屌丝上当，亏的底裤都没了，黑阿里被律师函警告，现在开始捧腾讯臭脚，大v这玩意儿，一旦它碰了你懂的行业，你就会觉得它特别恶心。
+- `1355439556548468742` | 2021-01-30 16:55:47 GMT+8 | reply | https://x.com/taresky/status/1355439556548468742 | @sailfishcc1 @gexiao2b 我这款确实没了，阿里cen预售也可以看看
+- `1355666025128239107` | 2021-01-31 07:55:42 GMT+8 | original | https://x.com/taresky/status/1355666025128239107 | 上海到香港的延迟。 https://t.co/KvIv5eww1e
+- `1355680488212492293` | 2021-01-31 08:53:10 GMT+8 | reply | https://x.com/taresky/status/1355680488212492293 | @cqjerry 是的，服务端
+- `1355681050903465984` | 2021-01-31 08:55:24 GMT+8 | reply | https://x.com/taresky/status/1355681050903465984 | @cqjerry 请看前几推
+- `1355685686456721411` | 2021-01-31 09:13:49 GMT+8 | reply | https://x.com/taresky/status/1355685686456721411 | @sailfishcc1 朋友帮我搭建和优化的，是 ss
+- `1355685717834223619` | 2021-01-31 09:13:57 GMT+8 | reply | https://x.com/taresky/status/1355685717834223619 | @cqjerry 目前可以
+- `1355696995734757376` | 2021-01-31 09:58:46 GMT+8 | original | https://x.com/taresky/status/1355696995734757376 | @binbin1234 不太明白，如何区分？可以 ssh，可以看到机器信息。
+- `1355697962408546305` | 2021-01-31 10:02:36 GMT+8 | original | https://x.com/taresky/status/1355697962408546305 | @binbin1234 哦，是 IN-OUT 两台 VPS。
+- `1355804717423575046` | 2021-01-31 17:06:48 GMT+8 | reply | https://x.com/taresky/status/1355804717423575046 | @poison501 不知道是不是原生 IP，Netflix 和 Youtube Premium 正常。
+- `1355806803120988160` | 2021-01-31 17:15:06 GMT+8 | reply | https://x.com/taresky/status/1355806803120988160 | @gexiao2b 保险 = 杠杆，家庭主生产力有一百万的流动资金就可以不用买了。另外国内全民医保性价比够高了，临时抵押房子看完病报销也来得及。
+- `1355813095877144578` | 2021-01-31 17:40:06 GMT+8 | reply | https://x.com/taresky/status/1355813095877144578 | @gexiao2b 哎？我家里老人买的农村医保，最后报销大概有 80% 这样。
+- `1355815816596316164` | 2021-01-31 17:50:55 GMT+8 | reply | https://x.com/taresky/status/1355815816596316164 | @Carlos_Gong @LovatMemo 哈哈，去过一些朋友家里也是，大概是令人产生美好联想的各种物件。
+- `1355821311340101634` | 2021-01-31 18:12:45 GMT+8 | reply | https://x.com/taresky/status/1355821311340101634 | @gexiao2b 对。另外你看看“大病医保”好像不设上限？
+- `1607731640700399621` | 2022-12-27 21:34:28 GMT+8 | repost | https://x.com/taresky/status/1607731640700399621 | RT @p0we7: 我为什么一直都坚持不建议使用软路由器作为家庭、企业的网络出口，下面视频很清楚的讲解了。
+- `1608095141713305600` | 2022-12-28 21:38:53 GMT+8 | original | https://x.com/taresky/status/1608095141713305600 | #Crypto2022
+- `1608095144133431297` | 2022-12-28 21:38:53 GMT+8 | reply | https://x.com/taresky/status/1608095144133431297 | 🪫傲慢与焦虑
+- `1608095146834563072` | 2022-12-28 21:38:54 GMT+8 | reply | https://x.com/taresky/status/1608095146834563072 | 💊喜欢熊市
+- `1608095148910710784` | 2022-12-28 21:38:55 GMT+8 | reply | https://x.com/taresky/status/1608095148910710784 | 🧐破除迷信
+- `1608095150944944130` | 2022-12-28 21:38:55 GMT+8 | reply | https://x.com/taresky/status/1608095150944944130 | 🚩难题待解
+- `1608109562711904256` | 2022-12-28 22:36:11 GMT+8 | reply | https://x.com/taresky/status/1608109562711904256 | @AndyJYGood68 哈哈哈，还是我们穷人懂的多。
+- `1608133472799043591` | 2022-12-29 00:11:12 GMT+8 | reply | https://x.com/taresky/status/1608133472799043591 | @river_leaves 江西贫困村镇的话，小时候吃过最美味的食物可能是鱼冻 😂
+- `1608133631083704322` | 2022-12-29 00:11:49 GMT+8 | reply | https://x.com/taresky/status/1608133631083704322 | @p0we7 前置任务太多了😂
+- `1608300180427644928` | 2022-12-29 11:13:38 GMT+8 | reply | https://x.com/taresky/status/1608300180427644928 | @SolidityReact 不觉得。
+- `1608300558988836867` | 2022-12-29 11:15:08 GMT+8 | reply | https://x.com/taresky/status/1608300558988836867 | @keaising 上海的一群傻逼，也从未执政啊。。。
+- `1608459590454370304` | 2022-12-29 21:47:04 GMT+8 | repost | https://x.com/taresky/status/1608459590454370304 | RT @whyyoutouzhele: 网易新闻2022年度事件盘点
+- `1608461921740787715` | 2022-12-29 21:56:20 GMT+8 | reply | https://x.com/taresky/status/1608461921740787715 | @AnqiRocks 项目管理，可能是产品经理工作内容里最浪费生命的部分。
+- `1608480993173983235` | 2022-12-29 23:12:07 GMT+8 | reply | https://x.com/taresky/status/1608480993173983235 | @GeekPlux 币圈赚钱真的很像打游戏😂 不全职的话精力不够。
+- `1608747599212998656` | 2022-12-30 16:51:31 GMT+8 | reply | https://x.com/taresky/status/1608747599212998656 | @BreeStealth @AnqiRocks 你看岔了。
+- `1608757014423040000` | 2022-12-30 17:28:56 GMT+8 | reply | https://x.com/taresky/status/1608757014423040000 | @yetone “这张图不错”是调侃吗？
+- `1609044715445563393` | 2022-12-31 12:32:09 GMT+8 | reply | https://x.com/taresky/status/1609044715445563393 | @yueya2022 emm 还可以亏钱的吗
+- `1609076695885307907` | 2022-12-31 14:39:14 GMT+8 | original | https://x.com/taresky/status/1609076695885307907 | #Moneywiz2022
+- `1609077124027256833` | 2022-12-31 14:40:56 GMT+8 | quote | https://x.com/taresky/status/1609077124027256833 | 细心的朋友可以观察到外包项目分类的 LOGO 选择了一只鸡。
+- `1609099311945756678` | 2022-12-31 16:09:06 GMT+8 | reply | https://x.com/taresky/status/1609099311945756678 | @nash_su 哈哈，不会有这种东西，其他人复盘的挺好。
+- `1609106889551515650` | 2022-12-31 16:39:12 GMT+8 | original | https://x.com/taresky/status/1609106889551515650 | @Quantum_Ghost 是的，风险收益不成比例。
+- `1609159134901043206` | 2022-12-31 20:06:49 GMT+8 | reply | https://x.com/taresky/status/1609159134901043206 | 很遗憾，年末了小股神也没有突破 100% 收益。
+- `1609186590521446402` | 2022-12-31 21:55:55 GMT+8 | repost | https://x.com/taresky/status/1609186590521446402 | RT @laixintao: @Quantum_Ghost 哈哈 都怪ios每次都问是否允许粘贴，想贴这个
+- `1609196226230226944` | 2022-12-31 22:34:12 GMT+8 | original | https://x.com/taresky/status/1609196226230226944 | @Quantum_Ghost @passluo 一看就是全栈那种
+- `1609223676658061312` | 2023-01-01 00:23:17 GMT+8 | reply | https://x.com/taresky/status/1609223676658061312 | @XeoXoe 腾龙 35-150 全都要
+- `1700606366606565686` | 2023-09-10 04:25:28 GMT+8 | original | https://x.com/taresky/status/1700606366606565686 | #数字游民和自由职业
+- `1873578602266345715` | 2024-12-30 11:55:22 GMT+8 | quote | https://x.com/taresky/status/1873578602266345715 | 只是部分地学习，也是重要的能力。 https://t.co/1P3TzvA7AX
+- `1873621444304961587` | 2024-12-30 14:45:37 GMT+8 | reply | https://x.com/taresky/status/1873621444304961587 | @aliez_ren 真正的巨鲸！
+- `1873621797398323483` | 2024-12-30 14:47:01 GMT+8 | reply | https://x.com/taresky/status/1873621797398323483 | @Amadeus007 我等个 M4 Ultra 升级一下
+- `1873621923890110607` | 2024-12-30 14:47:31 GMT+8 | reply | https://x.com/taresky/status/1873621923890110607 | @Amadeus007 之前最多的问题是两台 Mac 没办法完全同步环境，干脆一台 MBP 算了。
+- `1873626765769539875` | 2024-12-30 15:06:45 GMT+8 | reply | https://x.com/taresky/status/1873626765769539875 | @aliez_ren 嘎嘎 https://t.co/gFoMYRDvBy
+- `1873626866067890516` | 2024-12-30 15:07:09 GMT+8 | original | https://x.com/taresky/status/1873626866067890516 | #Crypto 
+- `1873751429552517613` | 2024-12-30 23:22:08 GMT+8 | quote | https://x.com/taresky/status/1873751429552517613 | #Crypto 
+- `1873752854680551861` | 2024-12-30 23:27:47 GMT+8 | reply | https://x.com/taresky/status/1873752854680551861 | @ZLiao3 得流量够大？
+- `1873755021478879281` | 2024-12-30 23:36:24 GMT+8 | reply | https://x.com/taresky/status/1873755021478879281 | @anqirocks 推荐 typlog
+- `1873755602457071657` | 2024-12-30 23:38:42 GMT+8 | reply | https://x.com/taresky/status/1873755602457071657 | @Riconomi @okxchinese @Mercy_okx 哈哈哈，身负重任
+- `1873936296533778838` | 2024-12-31 11:36:43 GMT+8 | reply | https://x.com/taresky/status/1873936296533778838 | @Super4DeFi @shrimpwen 妙啊
+- `1873957011316236764` | 2024-12-31 12:59:02 GMT+8 | original | https://x.com/taresky/status/1873957011316236764 | #信用卡返现 
+- `1873957588737679611` | 2024-12-31 13:01:20 GMT+8 | quote | https://x.com/taresky/status/1873957588737679611 | #信用卡返现 
+- `1873958303468052834` | 2024-12-31 13:04:10 GMT+8 | reply | https://x.com/taresky/status/1873958303468052834 | @junairez 好像卓越理财就有？
+- `1873970778489970785` | 2024-12-31 13:53:44 GMT+8 | reply | https://x.com/taresky/status/1873970778489970785 | @JinlongDiao 你要不要看看自己在说什么…
+- `1873974980591149269` | 2024-12-31 14:10:26 GMT+8 | reply | https://x.com/taresky/status/1873974980591149269 | @aliez_ren 这张是便利店神卡，不过我看好多任务？
+- `1873978575231349059` | 2024-12-31 14:24:43 GMT+8 | reply | https://x.com/taresky/status/1873978575231349059 | @Amadeus007 Savor 简单一些，这个要 2M USD 净值。
+- `1873995307778007397` | 2024-12-31 15:31:13 GMT+8 | original | https://x.com/taresky/status/1873995307778007397 | #数码 
+- `1873996660990427152` | 2024-12-31 15:36:35 GMT+8 | reply | https://x.com/taresky/status/1873996660990427152 | @Blankwonder 是这款 https://t.co/d9ReOeqmvp 
+- `1874012208491094389` | 2024-12-31 16:38:22 GMT+8 | original | https://x.com/taresky/status/1874012208491094389 | 这是年末积分到期吗🤦 https://t.co/WtWw3a3TXe
+- `1874050649639551076` | 2024-12-31 19:11:07 GMT+8 | original | https://x.com/taresky/status/1874050649639551076 | #Crypto2024 
+- `1874060643688734972` | 2024-12-31 19:50:50 GMT+8 | reply | https://x.com/taresky/status/1874060643688734972 | @ixiaowenz 哈哈，加入 Apple Pay 收藏物理卡合适
+- `1874077994278674870` | 2024-12-31 20:59:47 GMT+8 | reply | https://x.com/taresky/status/1874077994278674870 | @ch2039 又在替我岁月静好
+- `1874078302094450989` | 2024-12-31 21:01:00 GMT+8 | reply | https://x.com/taresky/status/1874078302094450989 | @Limichange2 很厉害啊这个
+- `1874078601446121577` | 2024-12-31 21:02:11 GMT+8 | reply | https://x.com/taresky/status/1874078601446121577 | @aliez_ren 太可怕了
+- `1938876965689401506` | 2025-06-28 16:27:45 GMT+8 | reply | https://x.com/taresky/status/1938876965689401506 | @HarriesChen find n5 😂
+- `1938937877767098705` | 2025-06-28 20:29:48 GMT+8 | quote | https://x.com/taresky/status/1938937877767098705 | @passluo 因为他骨子里是真自卑，只能这样解救自己。
+- `1938970163023638643` | 2025-06-28 22:38:05 GMT+8 | reply | https://x.com/taresky/status/1938970163023638643 | @exp272 哈哈哈哈守株待兔
+- `1938975557427044402` | 2025-06-28 22:59:31 GMT+8 | quote | https://x.com/taresky/status/1938975557427044402 | #Crypto 
+- `1939127739895931071` | 2025-06-29 09:04:15 GMT+8 | original | https://x.com/taresky/status/1939127739895931071 | #Crypto
+- `1939128787054273025` | 2025-06-29 09:08:24 GMT+8 | reply | https://x.com/taresky/status/1939128787054273025 | @ronzhu @sailfishcc1 bingo
+- `1939227746842116584` | 2025-06-29 15:41:38 GMT+8 | repost | https://x.com/taresky/status/1939227746842116584 | RT @22333D: 3D 维权记 \| 002
+- `1939262854542278903` | 2025-06-29 18:01:08 GMT+8 | reply | https://x.com/taresky/status/1939262854542278903 | @ronzhu 绝了
+- `1939355505035813160` | 2025-06-30 00:09:18 GMT+8 | original | https://x.com/taresky/status/1939355505035813160 | #Crypto 
+- `1939483115090772272` | 2025-06-30 08:36:23 GMT+8 | repost | https://x.com/taresky/status/1939483115090772272 | RT @22333D: 3D 维权记 \| 003 
+- `1939483270867222784` | 2025-06-30 08:37:00 GMT+8 | reply | https://x.com/taresky/status/1939483270867222784 | @cr0ath 👌吃点好的
+- `1939490398818476370` | 2025-06-30 09:05:19 GMT+8 | reply | https://x.com/taresky/status/1939490398818476370 | @cr0ath 先谈恋爱
+- `1939546214967792124` | 2025-06-30 12:47:07 GMT+8 | reply | https://x.com/taresky/status/1939546214967792124 | @cr0ath 嘿嘿我解了
+- `1939548090585039007` | 2025-06-30 12:54:34 GMT+8 | original | https://x.com/taresky/status/1939548090585039007 | 推特蓝勾审核期间原来还是有广告的。
+- `1939549191971484133` | 2025-06-30 12:58:57 GMT+8 | original | https://x.com/taresky/status/1939549191971484133 | 推特蓝勾审核期间原来还是有广告的。
+- `1939556106789118344` | 2025-06-30 13:26:25 GMT+8 | reply | https://x.com/taresky/status/1939556106789118344 | @Ethan_YYG @watermiz3 你随便买几个机场，落地机用自己的不就好了
+- `1939556807590248706` | 2025-06-30 13:29:12 GMT+8 | reply | https://x.com/taresky/status/1939556807590248706 | @inkink233 开这么多不耗电吗
+- `1939557424601706869` | 2025-06-30 13:31:39 GMT+8 | reply | https://x.com/taresky/status/1939557424601706869 | @im_xiaoxiao 通过不断反馈来学习每个人的阈值还挺难的，用一些很贵的模型实现盈利也不容易。
+- `1939558266981552331` | 2025-06-30 13:35:00 GMT+8 | reply | https://x.com/taresky/status/1939558266981552331 | @wu48636254 它舔的水平也不行，全部都是骂它的。
+- `1939558871850512644` | 2025-06-30 13:37:24 GMT+8 | original | https://x.com/taresky/status/1939558871850512644 | 正是吃海胆的好时节😋 https://t.co/pumcHl9lBC
+- `1939559409719590984` | 2025-06-30 13:39:33 GMT+8 | original | https://x.com/taresky/status/1939559409719590984 | @Ethan_YYG @watermiz3 中转落地和你自己的落地延迟应该不会超过5ms，用香港或者日本的所有加起来延迟怎么也不会超过100ms，应该完全无感才对🤔
+- `1939561063131045979` | 2025-06-30 13:46:07 GMT+8 | reply | https://x.com/taresky/status/1939561063131045979 | @im_xiaoxiao 是的，以前很多我觉得解决不了的功能，现在都自己写提示词解决了。就是没办法产品化。
+- `1939562088546066562` | 2025-06-30 13:50:11 GMT+8 | reply | https://x.com/taresky/status/1939562088546066562 | @Ethan_YYG @watermiz3 正常，因为你直连走了很多跳呀。一个好的中转落地时也就50多。
+- `1939567029603930360` | 2025-06-30 14:09:49 GMT+8 | reply | https://x.com/taresky/status/1939567029603930360 | 漂洋过海的💳 https://t.co/B6VdNm21RK
+- `1939596436615872539` | 2025-06-30 16:06:41 GMT+8 | reply | https://x.com/taresky/status/1939596436615872539 | 今天到和明天到的区别是，多薅了200刀羊毛（酒店 6/30 截止）。
+- `2004049973340786984` | 2025-12-25 12:42:01 GMT+8 | reply | https://x.com/taresky/status/2004049973340786984 | @OKxiaohai 看了一下，之前的免费试用一年还没结束🤔
+- `2004073396129440004` | 2025-12-25 14:15:06 GMT+8 | reply | https://x.com/taresky/status/2004073396129440004 | 在日本测试 ATM 取款是免费的（每月前 800 美元）。
+- `2004388899293176076` | 2025-12-26 11:08:47 GMT+8 | original | https://x.com/taresky/status/2004388899293176076 | #crypto 
+- `2004389388479091056` | 2025-12-26 11:10:44 GMT+8 | quote | https://x.com/taresky/status/2004389388479091056 | 需要说明的是 Trust Wallet 是我长期使用的，临时 or 机器人私钥生成钱包。
+- `2004770791406403702` | 2025-12-27 12:26:18 GMT+8 | reply | https://x.com/taresky/status/2004770791406403702 | @liuxiao63287062 支持中国身份证
+- `2005316727148790198` | 2025-12-29 00:35:39 GMT+8 | reply | https://x.com/taresky/status/2005316727148790198 | #外设
+- `2005316940349530324` | 2025-12-29 00:36:30 GMT+8 | reply | https://x.com/taresky/status/2005316940349530324 | @0x_blackrabbit 客制化我已经毕业了，这个是游戏键盘哈哈。
+- `2005560893665583486` | 2025-12-29 16:45:53 GMT+8 | reply | https://x.com/taresky/status/2005560893665583486 | @mattecho233 来个型号
+- `2005564944524386594` | 2025-12-29 17:01:59 GMT+8 | quote | https://x.com/taresky/status/2005564944524386594 | #2025年正收益U卡总结
+- `2005566699836481860` | 2025-12-29 17:08:57 GMT+8 | reply | https://x.com/taresky/status/2005566699836481860 | @mattecho233 好的，我三选一来一块
+- `2005569322287292844` | 2025-12-29 17:19:22 GMT+8 | reply | https://x.com/taresky/status/2005569322287292844 | @mattecho233 买好了，主打一个听劝哈哈。刚好元旦，估计两周能到日本。 https://t.co/QYHidAab3T
+- `2005569835468792185` | 2025-12-29 17:21:25 GMT+8 | quote | https://x.com/taresky/status/2005569835468792185 | 有网友说国产碾压 Wooting 了，我这把还没发货的取消了，买国产的对比试试。
+- `2005598120198189108` | 2025-12-29 19:13:48 GMT+8 | reply | https://x.com/taresky/status/2005598120198189108 | @aiqiang888 @useTria 这个返现不还是空气吗？
+- `2005598735859102177` | 2025-12-29 19:16:15 GMT+8 | reply | https://x.com/taresky/status/2005598735859102177 | @aiqiang888 @useTria 没空看，是真钱再说
+- `2005663880408879560` | 2025-12-29 23:35:07 GMT+8 | original | https://x.com/taresky/status/2005663880408879560 | #三角洲 
+- `2005683865646686676` | 2025-12-30 00:54:32 GMT+8 | reply | https://x.com/taresky/status/2005683865646686676 | @wu48636254 ？说不定后面会补。
+- `2005684008395620612` | 2025-12-30 00:55:06 GMT+8 | reply | https://x.com/taresky/status/2005684008395620612 | @x1rry 没有😂 @ready_co see？
+- `2005766686251847816` | 2025-12-30 06:23:38 GMT+8 | original | https://x.com/taresky/status/2005766686251847816 | 什么意思，我特斯拉呢？ https://t.co/hstdaRdhPZ
+- `2005836855892398513` | 2025-12-30 11:02:27 GMT+8 | original | https://x.com/taresky/status/2005836855892398513 | 来冲绳跨年，租到了一辆全新的普锐斯，新车的第一位客人😊
+- `2005843673578188858` | 2025-12-30 11:29:33 GMT+8 | reply | https://x.com/taresky/status/2005843673578188858 | @mieisgood 是的，挺好开！
+- `2005881928499786206` | 2025-12-30 14:01:33 GMT+8 | reply | https://x.com/taresky/status/2005881928499786206 | @KetchupCherry 精神消费
+- `2005953587147399272` | 2025-12-30 18:46:18 GMT+8 | reply | https://x.com/taresky/status/2005953587147399272 | @turingou 台湾人的店，有锅气哈哈
+- `2006284622792183985` | 2025-12-31 16:41:43 GMT+8 | original | https://x.com/taresky/status/2006284622792183985 | @missuo 快去了
+- `2006285713550233768` | 2025-12-31 16:46:03 GMT+8 | reply | https://x.com/taresky/status/2006285713550233768 | @missuo 羡慕极了
+- `2006346843580407942` | 2025-12-31 20:48:58 GMT+8 | reply | https://x.com/taresky/status/2006346843580407942 | @SimonJP404 这个是以前搞 iOS 越狱的那个盘古吗
+- `2071264331422167513` | 2026-06-29 00:07:53 GMT+8 | reply | https://x.com/taresky/status/2071264331422167513 | @0xYuxi 哈哈，再买一块
+- `2071371470182502871` | 2026-06-29 07:13:37 GMT+8 | reply | https://x.com/taresky/status/2071371470182502871 | @rollschild2037 一般是组合键😂类似键盘流
+- `2071431063684178369` | 2026-06-29 11:10:25 GMT+8 | reply | https://x.com/taresky/status/2071431063684178369 | @dan326714 我找人合作/合伙的标准是：愿意跟这个人平分所有收益。
+- `2071434001257291849` | 2026-06-29 11:22:05 GMT+8 | reply | https://x.com/taresky/status/2071434001257291849 | @dan326714 这样肯定没用的，找到足够强的人合作才有意义。短期只能当成外包。
+- `2071434810615357779` | 2026-06-29 11:25:18 GMT+8 | original | https://x.com/taresky/status/2071434810615357779 | 日本是这样卖不新鲜的荔枝的😅 https://t.co/PJvXD80VH1
+- `2071452284454928823` | 2026-06-29 12:34:44 GMT+8 | original | https://x.com/taresky/status/2071452284454928823 | #日本 
+- `2071452377627214187` | 2026-06-29 12:35:07 GMT+8 | reply | https://x.com/taresky/status/2071452377627214187 | @aoxzh 太惨了
+- `2071455046693499131` | 2026-06-29 12:45:43 GMT+8 | reply | https://x.com/taresky/status/2071455046693499131 | @Harold_W_Chen @xiangyuli 牛逼啊
+- `2071460883625386436` | 2026-06-29 13:08:55 GMT+8 | reply | https://x.com/taresky/status/2071460883625386436 | @ohyishi 很了不起！
+- `2071599888702546133` | 2026-06-29 22:21:16 GMT+8 | reply | https://x.com/taresky/status/2071599888702546133 | @lunaritabeijing 我我我我去
+- `2071628355603214829` | 2026-06-30 00:14:23 GMT+8 | reply | https://x.com/taresky/status/2071628355603214829 | @CMGS1988 @passluo 懂了，听 passluo 一句话相当于赚了 68W
+- `2071628401404997912` | 2026-06-30 00:14:34 GMT+8 | reply | https://x.com/taresky/status/2071628401404997912 | @passluo @CMGS1988 我觉得也是
+- `2071741887376232529` | 2026-06-30 07:45:31 GMT+8 | quote | https://x.com/taresky/status/2071741887376232529 | 在社交网络这种经常性需要表达的地方，很难真正把工作和生活分割开。
+- `2071752154541703371` | 2026-06-30 08:26:19 GMT+8 | original | https://x.com/taresky/status/2071752154541703371 | #AI 
+- `2071770479216701923` | 2026-06-30 09:39:08 GMT+8 | quote | https://x.com/taresky/status/2071770479216701923 | #外设
+- `2071791713295946168` | 2026-06-30 11:03:31 GMT+8 | reply | https://x.com/taresky/status/2071791713295946168 | @FradSer 这个唯一的缺点是不是只有 4g，适合做成笔记本电脑的配件？
+- `2071792372703543617` | 2026-06-30 11:06:08 GMT+8 | reply | https://x.com/taresky/status/2071792372703543617 | @missuo @dingyi 可惜无法体验了
+- `2071792718519603412` | 2026-06-30 11:07:30 GMT+8 | reply | https://x.com/taresky/status/2071792718519603412 | @missuo @dingyi 就是那个吗？已经回日本了👀
+- `2071865449059672428` | 2026-06-30 15:56:31 GMT+8 | original | https://x.com/taresky/status/2071865449059672428 | #投资 
+- `2071865869442105701` | 2026-06-30 15:58:11 GMT+8 | reply | https://x.com/taresky/status/2071865869442105701 | @mieisgood @omoroitwt1985 一份需要坚定信念的工作...
+- `2071901243195502740` | 2026-06-30 18:18:45 GMT+8 | original | https://x.com/taresky/status/2071901243195502740 | 贵阳李子 https://t.co/aptBpZb2Xl
+- `2071909446104605053` | 2026-06-30 18:51:20 GMT+8 | original | https://x.com/taresky/status/2071909446104605053 | 有一阵子，每天的被动收益会自动转入我的钱包账户，这些收益可以 cover 日常开支。虽然金额不多，但可以带来很强烈的安全感。
+- `2071912133206614235` | 2026-06-30 19:02:01 GMT+8 | reply | https://x.com/taresky/status/2071912133206614235 | @anqirocks27 我想的，推荐他拍，很刺激吧
+- `2071916360616317193` | 2026-06-30 19:18:49 GMT+8 | reply | https://x.com/taresky/status/2071916360616317193 | @xuanwo 参赛者不会哈哈，欲望在挣扎
+- `2071927281346621441` | 2026-06-30 20:02:13 GMT+8 | reply | https://x.com/taresky/status/2071927281346621441 | @bitfish 对🤦‍♂️
+- `2115917896241291593` | 2026-10-30 05:25:12 GMT+8 | original | https://x.com/taresky/status/2115917896241291593 | #Crypto 
+- `2115921477963039023` | 2026-10-30 05:39:26 GMT+8 | reply | https://x.com/taresky/status/2115921477963039023 | @kevinzhow 你在用自己部署的版本吗？
+- `2115932242795225485` | 2026-10-30 06:22:13 GMT+8 | original | https://x.com/taresky/status/2115932242795225485 | #Crypto 
+- `2116003319756054787` | 2026-10-30 11:04:39 GMT+8 | reply | https://x.com/taresky/status/2116003319756054787 | @mev15_eth 币安太不重视技术了。
+- `2116020551294865539` | 2026-10-30 12:13:07 GMT+8 | reply | https://x.com/taresky/status/2116020551294865539 | @missuo 不一样吗？
+- `2116044434601300306` | 2026-10-30 13:48:02 GMT+8 | original | https://x.com/taresky/status/2116044434601300306 | #Crypto
+- `2116334820737663239` | 2026-10-31 09:01:55 GMT+8 | original | https://x.com/taresky/status/2116334820737663239 | 不知道 X 是怎么做到的，
+- `2116389394517282911` | 2026-10-31 12:38:46 GMT+8 | quote | https://x.com/taresky/status/2116389394517282911 | Claude Code 还是能把 M5 Ultra CPU 跑满的，CPU 占用超 2000%，甚至整机开始卡顿…… https://t.co/yZ09dZjINk https://t.co/WNltbcezTn
+- `2116392536206155881` | 2026-10-31 12:51:15 GMT+8 | reply | https://x.com/taresky/status/2116392536206155881 | @terrancesiu 好像倒也不用吧，买这台 Mac 就是为了跑这个😆
+- `2116392576383365242` | 2026-10-31 12:51:25 GMT+8 | reply | https://x.com/taresky/status/2116392576383365242 | @zengjiajun_eth 我也不知道😁
+- `2116399602350059735` | 2026-10-31 13:19:20 GMT+8 | original | https://x.com/taresky/status/2116399602350059735 | #AI 
+- `2116400045188952374` | 2026-10-31 13:21:06 GMT+8 | reply | https://x.com/taresky/status/2116400045188952374 | @0xathenalee Tesla 是好的公司吗？
+- `2116472594379784560` | 2026-10-31 18:09:23 GMT+8 | original | https://x.com/taresky/status/2116472594379784560 | 这是啥时候有的功能？不知道分析是在我本地的 Apple TV 还是在 iCloud。 https://t.co/gPaFYeByGh
+- `2116483361086885911` | 2026-10-31 18:52:10 GMT+8 | reply | https://x.com/taresky/status/2116483361086885911 | @Limichange2 Aqara 型号忘了，支持 HomeKit 的应该就可以。
+- `2116486076512751781` | 2026-10-31 19:02:57 GMT+8 | reply | https://x.com/taresky/status/2116486076512751781 | @lunaritabeijing 这个功能入口在 HomeKit - Apple 智能。应该是 AI 上线了才有。
+- `2116511341716599243` | 2026-10-31 20:43:21 GMT+8 | reply | https://x.com/taresky/status/2116511341716599243 | @886106 主要是 Claude。
+- `2116519439890083872` | 2026-10-31 21:15:32 GMT+8 | original | https://x.com/taresky/status/2116519439890083872 | 这世界变化太快了，只有每天烧十亿 token 缓解焦虑。
+- `2116574995875070386` | 2026-11-01 00:56:17 GMT+8 | original | https://x.com/taresky/status/2116574995875070386 | #AI 
+- `2116578375062163793` | 2026-11-01 01:09:43 GMT+8 | original | https://x.com/taresky/status/2116578375062163793 | #AI 
+- `2116587026506264934` | 2026-11-01 01:44:06 GMT+8 | reply | https://x.com/taresky/status/2116587026506264934 | @yetone 哭泣了
+- `2116650490901745761` | 2026-11-01 05:56:17 GMT+8 | repost | https://x.com/taresky/status/2116650490901745761 | RT @yetone: Alma 的 Relay Server 开源了 🎉
+- `2116673251988656246` | 2026-11-01 07:26:43 GMT+8 | quote | https://x.com/taresky/status/2116673251988656246 | 上个月的返现已发送，感谢 🙏
+- `2116673974042239009` | 2026-11-01 07:29:35 GMT+8 | original | https://x.com/taresky/status/2116673974042239009 | #AI 
+- `2123403867010601390` | 2026-11-19 21:11:47 GMT+8 | reply | https://x.com/taresky/status/2123403867010601390 | @liuxiao63287062 ... 梦里啥都有
+- `2123646345005433294` | 2026-11-20 13:15:18 GMT+8 | reply | https://x.com/taresky/status/2123646345005433294 | @heyibinance @grok 这部剧的导演是不是犹太人？
+- `2123657574843285510` | 2026-11-20 13:59:56 GMT+8 | reply | https://x.com/taresky/status/2123657574843285510 | @seaify1 多好啊
+- `2123713543577186535` | 2026-11-20 17:42:20 GMT+8 | reply | https://x.com/taresky/status/2123713543577186535 | @otterpal24 是啊
+- `2123744996952277502` | 2026-11-20 19:47:19 GMT+8 | reply | https://x.com/taresky/status/2123744996952277502 | @habnidbn63588 我猜不用，没试过。
+- `2123747405032304728` | 2026-11-20 19:56:53 GMT+8 | original | https://x.com/taresky/status/2123747405032304728 | 现在发推文带链接几乎必定限流啊🤔
+- `2123760122879246736` | 2026-11-20 20:47:25 GMT+8 | original | https://x.com/taresky/status/2123760122879246736 | 略微了解犹太人的历史，你就会明白美国这些金融、科技、媒体公司的行为和倾向为何如此。
+- `2123789508374315045` | 2026-11-20 22:44:11 GMT+8 | reply | https://x.com/taresky/status/2123789508374315045 | @Boywus 😆 用 ROS 这种 AI 完全懂，能通过终端控制的路由器。
+- `2123876685443670265` | 2026-11-21 04:30:36 GMT+8 | quote | https://x.com/taresky/status/2123876685443670265 | 犹太人的谎言如出一辙啊，《利他主义》、《公共利益》。
+- `2123893381550293154` | 2026-11-21 05:36:56 GMT+8 | original | https://x.com/taresky/status/2123893381550293154 | 早安，遛狗人 https://t.co/LCGpbTIZMl
+- `2124332735103914453` | 2026-11-22 10:42:46 GMT+8 | reply | https://x.com/taresky/status/2124332735103914453 | @anqirocks27 后者怎么可能呢😮‍💨
+- `2124401646126150035` | 2026-11-22 15:16:36 GMT+8 | reply | https://x.com/taresky/status/2124401646126150035 | @aoxzh 上了就没有黑五优惠…
+- `2124444352416301360` | 2026-11-22 18:06:18 GMT+8 | reply | https://x.com/taresky/status/2124444352416301360 | @BoxMrChen 试试看 https://t.co/UKzhcNsSAO
+- `2124447961715515825` | 2026-11-22 18:20:39 GMT+8 | original | https://x.com/taresky/status/2124447961715515825 | #鼠标
+- `2124496763046502496` | 2026-11-22 21:34:34 GMT+8 | reply | https://x.com/taresky/status/2124496763046502496 | @missuo 你打 fps 吗，不打没用🤣
+- `2124508732398961102` | 2026-11-22 22:22:07 GMT+8 | reply | https://x.com/taresky/status/2124508732398961102 | @Limichange2 只想躺下
+- `2124804670652920239` | 2026-11-23 17:58:05 GMT+8 | reply | https://x.com/taresky/status/2124804670652920239 | @Danielzmeow 用小银行入金，废了就废了。
+- `2124832030487945472` | 2026-11-23 19:46:48 GMT+8 | reply | https://x.com/taresky/status/2124832030487945472 | @Labrin 哪家服务买的？
+- `2125063764320071971` | 2026-11-24 11:07:37 GMT+8 | original | https://x.com/taresky/status/2125063764320071971 | #U卡 
+- `2125063825095528899` | 2026-11-24 11:07:52 GMT+8 | reply | https://x.com/taresky/status/2125063825095528899 | 🔗 https://t.co/Oo7dOtCxDz
+- `2125069501372961204` | 2026-11-24 11:30:25 GMT+8 | reply | https://x.com/taresky/status/2125069501372961204 | @mattecho233 新注册的账号吗？
+- `2125154918281666858` | 2026-11-24 17:09:50 GMT+8 | reply | https://x.com/taresky/status/2125154918281666858 | @mattecho233 对的，记得看图，换个地区。
+- `2125154996509704336` | 2026-11-24 17:10:09 GMT+8 | reply | https://x.com/taresky/status/2125154996509704336 | @mrx_1123 目前是常驻的，以后不知道。
+- `2125155031477571954` | 2026-11-24 17:10:17 GMT+8 | reply | https://x.com/taresky/status/2125155031477571954 | @BTC_No_01 看看图
+- `2125155090130731098` | 2026-11-24 17:10:31 GMT+8 | reply | https://x.com/taresky/status/2125155090130731098 | @Siddd49 符合地区的就邮件申诉。

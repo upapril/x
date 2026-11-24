@@ -1,0 +1,170 @@
+{
+  "collected_at_utc": "2026-11-24T11:36:29Z",
+  "collected_at_shanghai": "2026-11-24T19:36:29+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86NF0H6M4560BFP0HV6DAJN.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2023-05-01T00:00:00Z",
+    "end_time": "2023-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-05"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1663570274556735488",
+      "created_at": "2023-05-30T15:37:15.000Z",
+      "edit_history_tweet_ids": [
+        "1663570274556735488"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2079363666957230080",
+            "start": 3,
+            "username": "0xUnicorn"
+          }
+        ]
+      },
+      "id": "1663570274556735488",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 354
+      },
+      "referenced_tweets": [
+        {
+          "id": "1663413848593031170",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @0xUnicorn: 其实万事都是窗户纸 \n捅破后没那么难  \n\n我是如何\n零代码\nGPT +  Tradingview \n构建比特币量化策略 \n\n回测胜率89%\n171单盈利8.9 万U \n\n坐稳扶好，要发车了 \n\n这条先上最终策略回测收益视频\n实现过程见长线程\n最后…",
+      "url": "https://x.com/iiiinvest/status/1663570274556735488"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1655750166249627648",
+      "created_at": "2023-05-09T01:42:56.000Z",
+      "edit_history_tweet_ids": [
+        "1655750166249627648"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "28940967",
+            "start": 3,
+            "username": "lidangzzz"
+          }
+        ]
+      },
+      "id": "1655750166249627648",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1655516462788886529",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @lidangzzz: 为什么还没有一个稍微有点志向抱负的比特币矿工，站出来公开抵制ordinals、威胁分叉比特币啊？\n\n为了这种交易量而多赚一点交易费，最终会把bitcoin这种最终遗留下来的资产黄金彻底拖入粪坑。\n\n要跑smart contract、交易垃圾资产、做…",
+      "url": "https://x.com/iiiinvest/status/1655750166249627648"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1663401744079147010"
+          ]
+        },
+        "author_id": "1501502506538438657",
+        "conversation_id": "1663413848593031170",
+        "created_at": "2023-05-30T05:15:40.000Z",
+        "edit_history_tweet_ids": [
+          "1663413848593031170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIdhCAyQ1a",
+              "end": 157,
+              "expanded_url": "https://x.com/0xUnicorn/status/1663413848593031170/video/1",
+              "media_key": "7_1663401744079147010",
+              "start": 134,
+              "url": "https://t.co/YIdhCAyQ1a"
+            }
+          ]
+        },
+        "id": "1663413848593031170",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 234012,
+          "like_count": 892,
+          "quote_count": 15,
+          "reply_count": 77,
+          "retweet_count": 354
+        },
+        "text": "其实万事都是窗户纸 \n捅破后没那么难  \n\n我是如何\n零代码\nGPT +  Tradingview \n构建比特币量化策略 \n\n回测胜率89%\n171单盈利8.9 万U \n\n坐稳扶好，要发车了 \n\n这条先上最终策略回测收益视频\n实现过程见长线程\n最后一条策略代码🧵🧵🧵 https://t.co/YIdhCAyQ1a"
+      },
+      {
+        "author_id": "28940967",
+        "conversation_id": "1655516462788886529",
+        "created_at": "2023-05-08T10:14:17.000Z",
+        "edit_history_tweet_ids": [
+          "1655516462788886529"
+        ],
+        "id": "1655516462788886529",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 635707,
+          "like_count": 59,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 9
+        },
+        "text": "为什么还没有一个稍微有点志向抱负的比特币矿工，站出来公开抵制ordinals、威胁分叉比特币啊？\n\n为了这种交易量而多赚一点交易费，最终会把bitcoin这种最终遗留下来的资产黄金彻底拖入粪坑。\n\n要跑smart contract、交易垃圾资产、做局割韭菜，老老实实回ethereum、layer2、solana这些大粪坑里不香吗？"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "public_metrics": {
+          "followers_count": 56906,
+          "following_count": 39,
+          "like_count": 3998,
+          "listed_count": 529,
+          "media_count": 436,
+          "tweet_count": 4858
+        },
+        "username": "iiiinvest"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1663570274556735488",
+    "next_token": "b26v89c19zqg8o3fqkg0k1x2qfo4qbxzdg54mlx62ksjh",
+    "oldest_id": "1655750166249627648",
+    "result_count": 2
+  },
+  "errors": []
+}

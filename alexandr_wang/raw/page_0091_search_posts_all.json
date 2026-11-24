@@ -1,0 +1,2128 @@
+{
+  "collected_at_utc": "2026-11-24T11:54:44Z",
+  "collected_at_shanghai": "2026-11-24T19:54:44+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86PFYK8FZ1QCSWVCSC26V2A.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2023-05-01T00:00:00Z",
+    "end_time": "2023-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-05"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1664039185295224832"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1664036878486736896",
+      "created_at": "2023-05-31T22:42:16.000Z",
+      "display_text_range": [
+        34,
+        77
+      ],
+      "edit_history_tweet_ids": [
+        "1664039618319372288"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1499661628689850369",
+            "start": 0,
+            "username": "baljeeterthiel"
+          },
+          {
+            "end": 23,
+            "id": "4398626122",
+            "start": 16,
+            "username": "OpenAI"
+          },
+          {
+            "end": 33,
+            "id": "752712449321644032",
+            "start": 24,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/8okEuXrwz1",
+            "end": 101,
+            "expanded_url": "https://x.com/alexandr_wang/status/1664039618319372288/photo/1",
+            "media_key": "3_1664039185295224832",
+            "start": 78,
+            "url": "https://t.co/8okEuXrwz1"
+          }
+        ]
+      },
+      "id": "1664039618319372288",
+      "in_reply_to_user_id": "1499661628689850369",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1556,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1664037514137714688",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@baljeeterthiel @OpenAI @scale_AI a bit buried, but it's in the paper text :) https://t.co/8okEuXrwz1",
+      "url": "https://x.com/alexandr_wang/status/1664039618319372288"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1664036878486736896",
+      "created_at": "2023-05-31T22:31:22.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1664036878486736896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "4398626122",
+            "start": 14,
+            "username": "OpenAI"
+          },
+          {
+            "end": 148,
+            "id": "752712449321644032",
+            "start": 139,
+            "username": "scale_AI"
+          },
+          {
+            "end": 168,
+            "id": "4398626122",
+            "start": 161,
+            "username": "OpenAI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "We’ve trained a model to achieve a new state-of-the-art in mathematical problem solving by rewarding each correct step of reasoning (“process supervision”) instead of simply rewarding the correct final answer (“outcome supervision”). In addition to boosting performance relative to outcome supervision, process supervision also has an important alignment benefit: it directly trains the model to produce a chain-of-thought that is endorsed by humans.",
+            "display_url": "openai.com/research/impro…",
+            "end": 276,
+            "expanded_url": "https://openai.com/research/improving-mathematical-reasoning-with-process-supervision",
+            "images": [
+              {
+                "height": 900,
+                "url": "https://pbs.twimg.com/news_img/2124261645870612480/DlmolNwG?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124261645870612480/DlmolNwG?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 253,
+            "status": 200,
+            "title": "Improving mathematical reasoning with process supervision",
+            "unwound_url": "https://openai.com/index/improving-mathematical-reasoning-with-process-supervision/",
+            "url": "https://t.co/X55pqzHeqx"
+          }
+        ]
+      },
+      "id": "1664036878486736896",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 59,
+        "impression_count": 40024,
+        "like_count": 191,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 27
+      },
+      "text": "research from @OpenAI on improving math reasoning by RLHF with a reward model trained on 800k human-generated chain-of-thought data (which @scale_AI partnered w/@OpenAI on!)\n\nRLHF seems to be a scalable technique for making LLMs smarter in many ways 😀\n\nhttps://t.co/X55pqzHeqx",
+      "url": "https://x.com/alexandr_wang/status/1664036878486736896"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1663555921019273216",
+      "created_at": "2023-05-30T15:03:22.000Z",
+      "display_text_range": [
+        21,
+        62
+      ],
+      "edit_history_tweet_ids": [
+        "1663561746400026624"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "759251",
+            "start": 0,
+            "username": "CNN"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/jchatterleyCNN…",
+            "end": 62,
+            "expanded_url": "https://x.com/jchatterleyCNN/status/1663557873635586053",
+            "start": 39,
+            "url": "https://t.co/OYt7W3waDz"
+          }
+        ]
+      },
+      "id": "1663561746400026624",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 12154,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1663557873635586053",
+          "type": "quoted"
+        },
+        {
+          "id": "1663555921019273216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CNN @jchatterleyCNN and part 2 here:\n\nhttps://t.co/OYt7W3waDz",
+      "url": "https://x.com/alexandr_wang/status/1663561746400026624"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1663555921019273216",
+      "created_at": "2023-05-30T14:40:13.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1663555921019273216"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "759251",
+            "start": 7,
+            "username": "CNN"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/chattwithjulia…",
+            "end": 304,
+            "expanded_url": "https://twitter.com/chattwithjulia/status/1663547436110065667",
+            "start": 281,
+            "url": "https://t.co/0DgWQlLl9y"
+          }
+        ]
+      },
+      "id": "1663555921019273216",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 22889,
+        "like_count": 59,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1663547436110065667",
+          "type": "quoted"
+        }
+      ],
+      "text": "was on @CNN this morning with @jchatterleyCNN to discuss:\n\n- the importance of mandated regulatory test &amp; eval of large models\n- human-centric and human-sensitive AI through human expert data\n- existential AI risk and mitigations\n- vaporware and tourists in AI\n\ncheck it out 👇 https://t.co/0DgWQlLl9y",
+      "url": "https://x.com/alexandr_wang/status/1663555921019273216"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1661906215734247424",
+      "created_at": "2023-05-26T01:24:53.000Z",
+      "display_text_range": [
+        0,
+        57
+      ],
+      "edit_history_tweet_ids": [
+        "1661906216849915905"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "alexw.substack.com/p/war",
+            "end": 57,
+            "expanded_url": "https://alexw.substack.com/p/war",
+            "start": 34,
+            "status": 200,
+            "unwound_url": "https://alexw.substack.com/p/war",
+            "url": "https://t.co/TawcO6cWSl"
+          }
+        ]
+      },
+      "id": "1661906216849915905",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5707,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1661906215734247424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Read more about the AI War here:\n\nhttps://t.co/TawcO6cWSl",
+      "url": "https://x.com/alexandr_wang/status/1661906216849915905"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1661906215734247424",
+      "created_at": "2023-05-26T01:24:53.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1661906215734247424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "752712449321644032",
+            "start": 1,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.com/blog/scale-diu…",
+            "end": 280,
+            "expanded_url": "https://scale.com/blog/scale-diu-rcv-program",
+            "start": 257,
+            "status": 200,
+            "unwound_url": "https://scale.com/blog",
+            "url": "https://t.co/lpqfa9q7q0"
+          }
+        ]
+      },
+      "id": "1661906215734247424",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 7041,
+        "like_count": 39,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 5
+      },
+      "text": ".@scale_AI has been chosen by the U.S. Army to support the Robotic Combat Vehicle (RCV) program, one of the major autonomy programs within Army.\n\nGround autonomy is a key capability for the DoD as we look towards the Army of 2030 or 2040, and we must win.\n\nhttps://t.co/lpqfa9q7q0",
+      "url": "https://x.com/alexandr_wang/status/1661906215734247424"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1660661523164061697",
+      "created_at": "2023-05-22T14:58:55.000Z",
+      "display_text_range": [
+        0,
+        265
+      ],
+      "edit_history_tweet_ids": [
+        "1660661523164061697"
+      ],
+      "id": "1660661523164061697",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 42,
+        "impression_count": 73656,
+        "like_count": 515,
+        "quote_count": 17,
+        "reply_count": 48,
+        "retweet_count": 50
+      },
+      "text": "AI is the holy grail of all technologies.\n\nThere won’t be another technology that is as transformative.\n\nThe most shocking thing that nature ever produced was the intelligence of humanity.\n\nWe are now at the precipice of replicating it in silicon.\n\nBrave new world.",
+      "url": "https://x.com/alexandr_wang/status/1660661523164061697"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1658661034452819968",
+      "created_at": "2023-05-17T02:29:41.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1658661034452819968"
+      ],
+      "id": "1658661034452819968",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 34,
+        "impression_count": 53161,
+        "like_count": 266,
+        "quote_count": 11,
+        "reply_count": 47,
+        "retweet_count": 28
+      },
+      "text": "important 2nd order effect of LLMs:\n\ntools like ChatGPT create a form of laziness (“i’ll just use the AI for that”) that *must* be bad\n\nwhat makes the best works of humanity so great is that every detail is consciously sweat by an obsessive soul\n\nnot a huge fan of this change",
+      "url": "https://x.com/alexandr_wang/status/1658661034452819968"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1657462354102341633",
+      "created_at": "2023-05-13T19:06:34.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1657461734364581889",
+        "1657462354102341633"
+      ],
+      "id": "1657462354102341633",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 95,
+        "impression_count": 84849,
+        "like_count": 589,
+        "quote_count": 7,
+        "reply_count": 21,
+        "retweet_count": 68
+      },
+      "text": "there are 2 kinds of engineers\n\n- the kind that thinks about their job as solving a series of brain teasers\n- the kind that thinks about their job as building things\n\nbig co folks skew towards the former because everything has already been built\n\nstartup people skew to the latter",
+      "url": "https://x.com/alexandr_wang/status/1657462354102341633"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1657461734364581889",
+      "created_at": "2023-05-13T19:04:06.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1657461734364581889",
+        "1657462354102341633"
+      ],
+      "id": "1657461734364581889",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1262,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "there are 2 kinds of engineers\n\n- the kind that thinks about their job as solving a series of brain teasers\n- the kind that thinks about their job as building thinks\n\nbig co folks skew towards the former because everything has already been built\n\nstartup people skew to the latter",
+      "url": "https://x.com/alexandr_wang/status/1657461734364581889"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1656535735850389504"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1656537052534681602",
+      "created_at": "2023-05-11T05:49:44.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1656537052534681602"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 25,
+            "id": "35002876",
+            "start": 13,
+            "username": "BloombergTV"
+          },
+          {
+            "end": 45,
+            "id": "397041712",
+            "start": 30,
+            "username": "CarolineHydeTV"
+          },
+          {
+            "end": 80,
+            "id": "752712449321644032",
+            "start": 71,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/kooAnSEGHO",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1656537052534681602/video/1",
+            "media_key": "7_1656535735850389504",
+            "start": 281,
+            "url": "https://t.co/kooAnSEGHO"
+          }
+        ]
+      },
+      "id": "1656537052534681602",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "35002876",
+              "start": 13,
+              "username": "BloombergTV"
+            },
+            {
+              "end": 45,
+              "id": "397041712",
+              "start": 30,
+              "username": "CarolineHydeTV"
+            },
+            {
+              "end": 80,
+              "id": "752712449321644032",
+              "start": 71,
+              "username": "scale_AI"
+            }
+          ]
+        },
+        "text": "Thank you to @BloombergTV and @CarolineHydeTV for having me to discuss @scale_AI Donovan and EGP.\n\nWe are seeing a lot of AI tourists pretending to be AI natives. They’re not selling solutions—they’re selling vaporware.\n\nOur products aren’t coming soon—they’re live with customers today—from the F500 to the US DoD."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 46,
+        "impression_count": 87466,
+        "like_count": 200,
+        "quote_count": 4,
+        "reply_count": 21,
+        "retweet_count": 15
+      },
+      "text": "Thank you to @BloombergTV and @CarolineHydeTV for having me to discuss @scale_AI Donovan and EGP.\n\nWe are seeing a lot of AI tourists pretending to be AI natives. They’re not selling solutions—they’re selling vaporware.\n\nOur products aren’t coming soon—they’re live with customers https://t.co/kooAnSEGHO",
+      "url": "https://x.com/alexandr_wang/status/1656537052534681602"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1656326759804178432",
+      "created_at": "2023-05-10T16:11:05.000Z",
+      "display_text_range": [
+        0,
+        262
+      ],
+      "edit_history_tweet_ids": [
+        "1656331032315166721"
+      ],
+      "id": "1656331032315166721",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 10486,
+        "like_count": 59,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1656326765806231553",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Scale Donovan is the first LLM deployed on classified networks.\n\nUnlike other companies, we are actually on the ground with operators today.\n\nWe’re seeing a lot of AI tourists pretending to be AI natives. They’re not selling solutions, they’re selling vaporware.",
+      "url": "https://x.com/alexandr_wang/status/1656331032315166721"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1656326759804178432",
+      "created_at": "2023-05-10T15:54:08.000Z",
+      "display_text_range": [
+        0,
+        77
+      ],
+      "edit_history_tweet_ids": [
+        "1656326765806231553"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 35,
+            "id": "17360802",
+            "start": 23,
+            "username": "thesullivan"
+          },
+          {
+            "end": 51,
+            "id": "2735591",
+            "start": 39,
+            "username": "FastCompany"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "fastcompany.com/90893774/scale…",
+            "end": 77,
+            "expanded_url": "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform",
+            "start": 54,
+            "status": 200,
+            "unwound_url": "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform",
+            "url": "https://t.co/1uwSP2FXIn"
+          }
+        ]
+      },
+      "id": "1656326765806231553",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 11448,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1656326764598263813",
+          "type": "replied_to"
+        }
+      ],
+      "text": "See more coverage from @thesullivan of @FastCompany \n\nhttps://t.co/1uwSP2FXIn",
+      "url": "https://x.com/alexandr_wang/status/1656326765806231553"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1656326759804178432",
+      "created_at": "2023-05-10T15:54:08.000Z",
+      "display_text_range": [
+        0,
+        252
+      ],
+      "edit_history_tweet_ids": [
+        "1656326764598263813"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/generative-ai-…",
+            "end": 252,
+            "expanded_url": "https://scale.com/generative-ai-platform",
+            "start": 229,
+            "status": 200,
+            "unwound_url": "https://scale.com/genai-portfolio",
+            "url": "https://t.co/Rvyt7HP5k5"
+          }
+        ]
+      },
+      "id": "1656326764598263813",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9139,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1656326763126067200",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Scale EGP is a full-stack solution for any company looking to deploy generative AI applications in production.\n\nWe are helping our customers—from Fox to Koch Enterprises—move rapidly from experimentation to real business value.\n\nhttps://t.co/Rvyt7HP5k5",
+      "url": "https://x.com/alexandr_wang/status/1656326764598263813"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1656326759804178432",
+      "created_at": "2023-05-10T15:54:08.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1656326763126067200"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/donovan",
+            "end": 280,
+            "expanded_url": "https://scale.com/donovan",
+            "start": 257,
+            "url": "https://t.co/I0hPXbv49a"
+          }
+        ]
+      },
+      "id": "1656326763126067200",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9858,
+        "like_count": 22,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1656326761704214529",
+          "type": "replied_to"
+        }
+      ],
+      "text": "AI will define the next era of war and deterrence, just as the atomic bomb did in WWII. The only solution is to rapidly integrate AI into warfighting.\n\nDonovan is an AI-powered platform to help operators understand, plan,  act in minutes instead of weeks.\n\nhttps://t.co/I0hPXbv49a",
+      "url": "https://x.com/alexandr_wang/status/1656326763126067200"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1656326759804178432",
+      "created_at": "2023-05-10T15:54:07.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1656326761704214529"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/blog/scale-ceo…",
+            "end": 276,
+            "expanded_url": "https://scale.com/blog/scale-ceo-letter-donovan-egp",
+            "start": 253,
+            "status": 200,
+            "unwound_url": "https://scale.com/blog/scale-ceo-letter-donovan-egp",
+            "url": "https://t.co/lbdfrwmxAY"
+          }
+        ]
+      },
+      "id": "1656326761704214529",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 32076,
+        "like_count": 35,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1656326759804178432",
+          "type": "replied_to"
+        }
+      ],
+      "text": "I wrote a letter to discuss why AI is so critical to the next phase of the world.\n\nThe success of democracy versus authoritarianism will boil down to our ability to:\n\n- integrate AI into our military\n- utilize AI to supercharge the economy\n\nRead more:\n\nhttps://t.co/lbdfrwmxAY",
+      "url": "https://x.com/alexandr_wang/status/1656326761704214529"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1656316564109688837"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1656326759804178432",
+      "created_at": "2023-05-10T15:54:07.000Z",
+      "display_text_range": [
+        0,
+        274
+      ],
+      "edit_history_tweet_ids": [
+        "1656326759804178432"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "752712449321644032",
+            "start": 7,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/RcdtnL0Btj",
+            "end": 298,
+            "expanded_url": "https://x.com/alexandr_wang/status/1656326759804178432/video/1",
+            "media_key": "7_1656316564109688837",
+            "start": 275,
+            "url": "https://t.co/RcdtnL0Btj"
+          }
+        ]
+      },
+      "id": "1656326759804178432",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 110,
+        "impression_count": 182882,
+        "like_count": 370,
+        "quote_count": 33,
+        "reply_count": 28,
+        "retweet_count": 52
+      },
+      "text": "Today, @scale_AI is launching our 2 major platforms to bolster government and enterprise:\n\n🎖 Scale Donovan, the AI copilot for defense\n🏙 Scale EGP, full-stack generative AI for global enterprise\n\n👇 See Donovan in action below\n\n🧵 on our platforms and why they are so critical https://t.co/RcdtnL0Btj",
+      "url": "https://x.com/alexandr_wang/status/1656326759804178432"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1656042328778502144",
+      "created_at": "2023-05-09T21:03:53.000Z",
+      "display_text_range": [
+        0,
+        78
+      ],
+      "edit_history_tweet_ids": [
+        "1656042328778502144"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "33836629",
+            "start": 12,
+            "username": "karpathy"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/karpathy/statu…",
+            "end": 102,
+            "expanded_url": "https://twitter.com/karpathy/status/1655994367033884672",
+            "start": 79,
+            "url": "https://t.co/pr6mDVJfN2"
+          }
+        ]
+      },
+      "id": "1656042328778502144",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 20168,
+        "like_count": 63,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1655994367033884672",
+          "type": "quoted"
+        }
+      ],
+      "text": "leave it to @karpathy to help define the entire paradigm for improving LLMs :) https://t.co/pr6mDVJfN2",
+      "url": "https://x.com/alexandr_wang/status/1656042328778502144"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1654187073849663489",
+      "created_at": "2023-05-04T18:12:13.000Z",
+      "display_text_range": [
+        71,
+        251
+      ],
+      "edit_history_tweet_ids": [
+        "1654187185782902785"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "752712449321644032",
+            "start": 0,
+            "username": "scale_AI"
+          },
+          {
+            "end": 22,
+            "id": "1353836358901501952",
+            "start": 10,
+            "username": "AnthropicAI"
+          },
+          {
+            "end": 30,
+            "id": "20536157",
+            "start": 23,
+            "username": "Google"
+          },
+          {
+            "end": 43,
+            "id": "778764142412984320",
+            "start": 31,
+            "username": "huggingface"
+          },
+          {
+            "end": 54,
+            "id": "74286565",
+            "start": 44,
+            "username": "Microsoft"
+          },
+          {
+            "end": 62,
+            "id": "61559439",
+            "start": 55,
+            "username": "nvidia"
+          },
+          {
+            "end": 70,
+            "id": "4398626122",
+            "start": 63,
+            "username": "OpenAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "whitehouse.gov/briefing-room/…",
+            "end": 251,
+            "expanded_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/",
+            "start": 228,
+            "url": "https://t.co/8GVBkbT0k3"
+          }
+        ]
+      },
+      "id": "1654187185782902785",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 17641,
+        "like_count": 92,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1654187073849663489",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@scale_AI @AnthropicAI @Google @huggingface @Microsoft @nvidia @OpenAI We are focused on ensuring the safe and secure deployment of AI and LLMs, and take our role in evaluating these models extremely seriously.\n\nRead more here: https://t.co/8GVBkbT0k3",
+      "url": "https://x.com/alexandr_wang/status/1654187185782902785"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1654187073849663489",
+      "created_at": "2023-05-04T18:11:46.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1654186710237089792",
+        "1654187073849663489"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 138,
+            "id": "752712449321644032",
+            "start": 129,
+            "username": "scale_AI"
+          },
+          {
+            "end": 225,
+            "id": "1353836358901501952",
+            "start": 213,
+            "username": "AnthropicAI"
+          },
+          {
+            "end": 234,
+            "id": "20536157",
+            "start": 227,
+            "username": "Google"
+          },
+          {
+            "end": 248,
+            "id": "778764142412984320",
+            "start": 236,
+            "username": "huggingface"
+          },
+          {
+            "end": 260,
+            "id": "74286565",
+            "start": 250,
+            "username": "Microsoft"
+          },
+          {
+            "end": 269,
+            "id": "61559439",
+            "start": 262,
+            "username": "nvidia"
+          },
+          {
+            "end": 278,
+            "id": "4398626122",
+            "start": 271,
+            "username": "OpenAI"
+          }
+        ]
+      },
+      "id": "1654187073849663489",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 138,
+              "id": "752712449321644032",
+              "start": 129,
+              "username": "scale_AI"
+            },
+            {
+              "end": 225,
+              "id": "1353836358901501952",
+              "start": 213,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 234,
+              "id": "20536157",
+              "start": 227,
+              "username": "Google"
+            },
+            {
+              "end": 248,
+              "id": "778764142412984320",
+              "start": 236,
+              "username": "huggingface"
+            },
+            {
+              "end": 260,
+              "id": "74286565",
+              "start": 250,
+              "username": "Microsoft"
+            },
+            {
+              "end": 269,
+              "id": "61559439",
+              "start": 262,
+              "username": "nvidia"
+            },
+            {
+              "end": 278,
+              "id": "4398626122",
+              "start": 271,
+              "username": "OpenAI"
+            },
+            {
+              "end": 296,
+              "id": "1281048162602369024",
+              "start": 284,
+              "username": "StabilityAI"
+            }
+          ]
+        },
+        "text": "Today, the Biden-Harris Administration announced new actions to promote responsible American innovation in AI.\n\nAs part of this, @scale_AI's evaluation platform will be used for a public evaluation of models from @AnthropicAI, @Google, @huggingface, @Microsoft, @nvidia, @OpenAI, and @StabilityAI, to explore how the models align with the principles and practices outlined in the Administration’s Blueprint for an AI Bill of Rights and AI Risk Management Framework."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 99,
+        "impression_count": 198710,
+        "like_count": 508,
+        "quote_count": 13,
+        "reply_count": 19,
+        "retweet_count": 52
+      },
+      "text": "Today, the Biden-Harris Administration announced new actions to promote responsible American innovation in AI.\n\nAs part of this, @scale_AI's evaluation platform will be used for a public evaluation of models from @AnthropicAI, @Google, @huggingface, @Microsoft, @nvidia, @OpenAI,",
+      "url": "https://x.com/alexandr_wang/status/1654187073849663489"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1654186710237089792",
+      "created_at": "2023-05-04T18:10:19.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1654186710237089792",
+        "1654187073849663489"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 138,
+            "id": "752712449321644032",
+            "start": 129,
+            "username": "scale_AI"
+          },
+          {
+            "end": 225,
+            "id": "1353836358901501952",
+            "start": 213,
+            "username": "AnthropicAI"
+          },
+          {
+            "end": 234,
+            "id": "20536157",
+            "start": 227,
+            "username": "Google"
+          },
+          {
+            "end": 248,
+            "id": "778764142412984320",
+            "start": 236,
+            "username": "huggingface"
+          },
+          {
+            "end": 260,
+            "id": "74286565",
+            "start": 250,
+            "username": "Microsoft"
+          },
+          {
+            "end": 269,
+            "id": "61559439",
+            "start": 262,
+            "username": "nvidia"
+          },
+          {
+            "end": 278,
+            "id": "4398626122",
+            "start": 271,
+            "username": "OpenAI"
+          }
+        ]
+      },
+      "id": "1654186710237089792",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 138,
+              "id": "752712449321644032",
+              "start": 129,
+              "username": "scale_AI"
+            },
+            {
+              "end": 225,
+              "id": "1353836358901501952",
+              "start": 213,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 234,
+              "id": "20536157",
+              "start": 227,
+              "username": "Google"
+            },
+            {
+              "end": 248,
+              "id": "778764142412984320",
+              "start": 236,
+              "username": "huggingface"
+            },
+            {
+              "end": 260,
+              "id": "74286565",
+              "start": 250,
+              "username": "Microsoft"
+            },
+            {
+              "end": 269,
+              "id": "61559439",
+              "start": 262,
+              "username": "nvidia"
+            },
+            {
+              "end": 278,
+              "id": "4398626122",
+              "start": 271,
+              "username": "OpenAI"
+            },
+            {
+              "end": 296,
+              "id": "1281048162602369024",
+              "start": 284,
+              "username": "StabilityAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/briefing-room/…",
+              "end": 644,
+              "expanded_url": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/fact-sheet-biden-harris-administration-announces-new-actions-to-promote-responsible-ai-innovation-that-protects-americans-rights-and-safety/",
+              "start": 621,
+              "url": "https://t.co/5AFTEcYnrL"
+            }
+          ]
+        },
+        "text": "Today, the Biden-Harris Administration announced new actions to promote responsible American innovation in AI.\n\nAs part of this, @scale_AI's evaluation platform will be used for a public evaluation of models from @AnthropicAI, @Google, @huggingface, @Microsoft, @nvidia, @OpenAI, and @StabilityAI, to explore how the models align with the principles and practices outlined in the Biden-Harris Administration’s Blueprint for an AI Bill of Rights and AI Risk Management Framework.\n\nWe are focused on ensuring the safe and secure deployment of AI and LLMs, and take our role in evaluating these models extremely seriously.\n\nhttps://t.co/5AFTEcYnrL"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 918,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Today, the Biden-Harris Administration announced new actions to promote responsible American innovation in AI.\n\nAs part of this, @scale_AI's evaluation platform will be used for a public evaluation of models from @AnthropicAI, @Google, @huggingface, @Microsoft, @nvidia, @OpenAI,",
+      "url": "https://x.com/alexandr_wang/status/1654186710237089792"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1653943994769096707",
+      "created_at": "2023-05-04T02:05:51.000Z",
+      "display_text_range": [
+        0,
+        177
+      ],
+      "edit_history_tweet_ids": [
+        "1653943994769096707"
+      ],
+      "id": "1653943994769096707",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 53,
+        "impression_count": 52014,
+        "like_count": 436,
+        "quote_count": 7,
+        "reply_count": 28,
+        "retweet_count": 61
+      },
+      "text": "for startups, chaos is directly proportional to growth\n\nchaos, to a certain degree, is usually an indicator the right stuff is happening\n\nchaotic and growing is the best state 📈",
+      "url": "https://x.com/alexandr_wang/status/1653943994769096707"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1653524562250985474",
+      "created_at": "2023-05-02T22:19:11.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1653524562250985474"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 22,
+            "id": "140912249",
+            "start": 11,
+            "username": "davidfaber"
+          },
+          {
+            "end": 39,
+            "id": "106498703",
+            "start": 26,
+            "username": "SquawkStreet"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/SquawkStreet/s…",
+            "end": 303,
+            "expanded_url": "https://twitter.com/SquawkStreet/status/1653422094028292104",
+            "start": 280,
+            "url": "https://t.co/aXEQm9VMHd"
+          }
+        ]
+      },
+      "id": "1653524562250985474",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "140912249",
+              "start": 11,
+              "username": "davidfaber"
+            },
+            {
+              "end": 39,
+              "id": "106498703",
+              "start": 26,
+              "username": "SquawkStreet"
+            }
+          ]
+        },
+        "text": "I spoke to @davidfaber of @SquawkStreet yesterday on the pressing issues on AI.\n\nAI regulation is an important issue, and we should involve a broad group to get to the right answers.\n\nBut for the sake of national security, we must acknowledge that our adversaries won’t pause and if anything will use the technology to further their authoritarian aims."
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 40329,
+        "like_count": 115,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "1653422094028292104",
+          "type": "quoted"
+        }
+      ],
+      "text": "I spoke to @davidfaber of @SquawkStreet yesterday on the pressing issues on AI.\n\nAI regulation is an important issue, and we should involve a broad group to get to the right answers.\n\nBut for the sake of national security, we must acknowledge that our adversaries won’t pause and https://t.co/aXEQm9VMHd",
+      "url": "https://x.com/alexandr_wang/status/1653524562250985474"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1664039185295224832",
+        "type": "photo"
+      },
+      {
+        "media_key": "7_1656535735850389504",
+        "type": "video"
+      },
+      {
+        "media_key": "7_1656316564109688837",
+        "type": "video"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1499661628689850369",
+        "conversation_id": "1664036878486736896",
+        "created_at": "2023-05-31T22:33:54.000Z",
+        "display_text_range": [
+          33,
+          72
+        ],
+        "edit_history_tweet_ids": [
+          "1664037514137714688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 22,
+              "id": "4398626122",
+              "start": 15,
+              "username": "OpenAI"
+            },
+            {
+              "end": 32,
+              "id": "752712449321644032",
+              "start": 23,
+              "username": "scale_AI"
+            }
+          ]
+        },
+        "id": "1664037514137714688",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 628,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664036878486736896",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @OpenAI @scale_AI i don't see scale mentioned anywhere :o"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1663555921019273216",
+        "created_at": "2023-05-30T14:40:13.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_history_tweet_ids": [
+          "1663555921019273216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "759251",
+              "start": 7,
+              "username": "CNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chattwithjulia…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/chattwithjulia/status/1663547436110065667",
+              "start": 281,
+              "url": "https://t.co/0DgWQlLl9y"
+            }
+          ]
+        },
+        "id": "1663555921019273216",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 22889,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1663547436110065667",
+            "type": "quoted"
+          }
+        ],
+        "text": "was on @CNN this morning with @jchatterleyCNN to discuss:\n\n- the importance of mandated regulatory test &amp; eval of large models\n- human-centric and human-sensitive AI through human expert data\n- existential AI risk and mitigations\n- vaporware and tourists in AI\n\ncheck it out 👇 https://t.co/0DgWQlLl9y"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1663557175296524289"
+          ]
+        },
+        "author_id": "497262990",
+        "conversation_id": "1663557873635586053",
+        "created_at": "2023-05-30T14:47:59.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_history_tweet_ids": [
+          "1663557873635586053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "AI"
+            },
+            {
+              "end": 140,
+              "start": 132,
+              "tag": "defence"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "752712449321644032",
+              "start": 12,
+              "username": "scale_ai"
+            },
+            {
+              "end": 40,
+              "id": "615818451",
+              "start": 26,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 192,
+              "id": "1036631333433421824",
+              "start": 182,
+              "username": "FirstMove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymnQogAmj9",
+              "end": 216,
+              "expanded_url": "https://x.com/jchatterleyCNN/status/1663557873635586053/video/1",
+              "media_key": "13_1663557175296524289",
+              "start": 193,
+              "url": "https://t.co/ymnQogAmj9"
+            }
+          ]
+        },
+        "id": "1663557873635586053",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19908,
+          "like_count": 42,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "text": "Part 2 with @scale_ai CEO @alexandr_wang \n\nI ask how many ‘humans’ are required to help train #AI?\n\nAnd, when it comes to AI use in #defence - where’s the \"off\" switch? \n\nPart 2/2 | @FirstMove https://t.co/ymnQogAmj9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1663546954843054082"
+          ]
+        },
+        "author_id": "497262990",
+        "conversation_id": "1663547436110065667",
+        "created_at": "2023-05-30T14:06:30.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_history_tweet_ids": [
+          "1663547436110065667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 106,
+              "id": "752712449321644032",
+              "start": 97,
+              "username": "scale_ai"
+            },
+            {
+              "end": 125,
+              "id": "615818451",
+              "start": 111,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 253,
+              "id": "1036631333433421824",
+              "start": 243,
+              "username": "FirstMove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8G62b2cW7",
+              "end": 277,
+              "expanded_url": "https://x.com/jchatterleyCNN/status/1663547436110065667/video/1",
+              "media_key": "13_1663546954843054082",
+              "start": 254,
+              "url": "https://t.co/Z8G62b2cW7"
+            }
+          ]
+        },
+        "id": "1663547436110065667",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31890,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "text": "\"There's so much hype.. a lot of customers aren't selling solutions, they're selling vaporware\"\n\n@scale_ai CEO @alexandr_wang says the secret of human centric, human sensitive AI is to train it with an cultivated, accurate dataset.\n\nPt. 1/2 | @FirstMove https://t.co/Z8G62b2cW7"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1661906215734247424",
+        "created_at": "2023-05-26T01:24:53.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_history_tweet_ids": [
+          "1661906215734247424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "752712449321644032",
+              "start": 1,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.com/blog/scale-diu…",
+              "end": 280,
+              "expanded_url": "https://scale.com/blog/scale-diu-rcv-program",
+              "start": 257,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog",
+              "url": "https://t.co/lpqfa9q7q0"
+            }
+          ]
+        },
+        "id": "1661906215734247424",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7041,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "text": ".@scale_AI has been chosen by the U.S. Army to support the Robotic Combat Vehicle (RCV) program, one of the major autonomy programs within Army.\n\nGround autonomy is a key capability for the DoD as we look towards the Army of 2030 or 2040, and we must win.\n\nhttps://t.co/lpqfa9q7q0"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1656326759804178432",
+        "created_at": "2023-05-10T15:54:08.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_history_tweet_ids": [
+          "1656326765806231553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "17360802",
+              "start": 23,
+              "username": "thesullivan"
+            },
+            {
+              "end": 51,
+              "id": "2735591",
+              "start": 39,
+              "username": "FastCompany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "fastcompany.com/90893774/scale…",
+              "end": 77,
+              "expanded_url": "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform",
+              "start": 54,
+              "status": 200,
+              "unwound_url": "https://www.fastcompany.com/90893774/scale-ai-unveils-its-full-stack-generative-ai-platform",
+              "url": "https://t.co/1uwSP2FXIn"
+            }
+          ]
+        },
+        "id": "1656326765806231553",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11448,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656326764598263813",
+            "type": "replied_to"
+          }
+        ],
+        "text": "See more coverage from @thesullivan of @FastCompany \n\nhttps://t.co/1uwSP2FXIn"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1656326759804178432",
+        "created_at": "2023-05-10T15:54:08.000Z",
+        "display_text_range": [
+          0,
+          252
+        ],
+        "edit_history_tweet_ids": [
+          "1656326764598263813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/generative-ai-…",
+              "end": 252,
+              "expanded_url": "https://scale.com/generative-ai-platform",
+              "start": 229,
+              "status": 200,
+              "unwound_url": "https://scale.com/genai-portfolio",
+              "url": "https://t.co/Rvyt7HP5k5"
+            }
+          ]
+        },
+        "id": "1656326764598263813",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9139,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656326763126067200",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Scale EGP is a full-stack solution for any company looking to deploy generative AI applications in production.\n\nWe are helping our customers—from Fox to Koch Enterprises—move rapidly from experimentation to real business value.\n\nhttps://t.co/Rvyt7HP5k5"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1656326759804178432",
+        "created_at": "2023-05-10T15:54:08.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_history_tweet_ids": [
+          "1656326763126067200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/donovan",
+              "end": 280,
+              "expanded_url": "https://scale.com/donovan",
+              "start": 257,
+              "url": "https://t.co/I0hPXbv49a"
+            }
+          ]
+        },
+        "id": "1656326763126067200",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9858,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656326761704214529",
+            "type": "replied_to"
+          }
+        ],
+        "text": "AI will define the next era of war and deterrence, just as the atomic bomb did in WWII. The only solution is to rapidly integrate AI into warfighting.\n\nDonovan is an AI-powered platform to help operators understand, plan,  act in minutes instead of weeks.\n\nhttps://t.co/I0hPXbv49a"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1656326759804178432",
+        "created_at": "2023-05-10T15:54:07.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_history_tweet_ids": [
+          "1656326761704214529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/blog/scale-ceo…",
+              "end": 276,
+              "expanded_url": "https://scale.com/blog/scale-ceo-letter-donovan-egp",
+              "start": 253,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog/scale-ceo-letter-donovan-egp",
+              "url": "https://t.co/lbdfrwmxAY"
+            }
+          ]
+        },
+        "id": "1656326761704214529",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 32076,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656326759804178432",
+            "type": "replied_to"
+          }
+        ],
+        "text": "I wrote a letter to discuss why AI is so critical to the next phase of the world.\n\nThe success of democracy versus authoritarianism will boil down to our ability to:\n\n- integrate AI into our military\n- utilize AI to supercharge the economy\n\nRead more:\n\nhttps://t.co/lbdfrwmxAY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1656316564109688837"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1656326759804178432",
+        "created_at": "2023-05-10T15:54:07.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_history_tweet_ids": [
+          "1656326759804178432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "752712449321644032",
+              "start": 7,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcdtnL0Btj",
+              "end": 298,
+              "expanded_url": "https://x.com/alexandr_wang/status/1656326759804178432/video/1",
+              "media_key": "7_1656316564109688837",
+              "start": 275,
+              "url": "https://t.co/RcdtnL0Btj"
+            }
+          ]
+        },
+        "id": "1656326759804178432",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 182882,
+          "like_count": 370,
+          "quote_count": 33,
+          "reply_count": 28,
+          "retweet_count": 52
+        },
+        "text": "Today, @scale_AI is launching our 2 major platforms to bolster government and enterprise:\n\n🎖 Scale Donovan, the AI copilot for defense\n🏙 Scale EGP, full-stack generative AI for global enterprise\n\n👇 See Donovan in action below\n\n🧵 on our platforms and why they are so critical https://t.co/RcdtnL0Btj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1655990956691435520"
+          ]
+        },
+        "author_id": "33836629",
+        "conversation_id": "1654892810590650376",
+        "created_at": "2023-05-09T17:53:18.000Z",
+        "display_text_range": [
+          30,
+          304
+        ],
+        "edit_history_tweet_ids": [
+          "1655994367033884672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1202244246",
+              "start": 0,
+              "username": "aparnadhinak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JEV02ZFtU",
+              "end": 328,
+              "expanded_url": "https://x.com/karpathy/status/1655994367033884672/photo/1",
+              "media_key": "3_1655990956691435520",
+              "start": 305,
+              "url": "https://t.co/1JEV02ZFtU"
+            }
+          ]
+        },
+        "id": "1655994367033884672",
+        "in_reply_to_user_id": "1202244246",
+        "lang": "en",
+        "note_tweet": {
+          "text": "It's a great question. I roughly think of finetuning as analogous to expertise in people: \n- Describe a task in words ~= zero-shot prompting \n- Give examples of solving task ~= few-shot prompting\n- Allow person to practice task ~= finetuning\n\nWith this analogy in mind, it's awesome that we have models that can reach high levels of accuracy across many tasks with prompting alone, but I also expect that reaching top tier performance will include finetuning, especially in applications with concrete well-defined tasks where it is possible to collect a lot of data and \"practice\" on it.\n\nRough picture to have in mind maybe. Small models are incapable of in-context learning and will benefit very little from prompt engineering, but depending on the difficulty of the task it may be possible to still finetune them into decent experts.\nBig caveat all of this is still very new."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 607,
+          "impression_count": 541873,
+          "like_count": 907,
+          "quote_count": 37,
+          "reply_count": 26,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "1655978237913358336",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@aparnadhinak @gloriafelicia_ It's a great question. I roughly think of finetuning as analogous to expertise in people: \n- Describe a task in words ~= zero-shot prompting \n- Give examples of solving task ~= few-shot prompting\n- Allow person to practice task ~= finetuning\n\nWith this analogy in mind, it's https://t.co/1JEV02ZFtU"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1654187073849663489",
+        "created_at": "2023-05-04T18:11:46.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "1654186710237089792",
+          "1654187073849663489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 138,
+              "id": "752712449321644032",
+              "start": 129,
+              "username": "scale_AI"
+            },
+            {
+              "end": 225,
+              "id": "1353836358901501952",
+              "start": 213,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 234,
+              "id": "20536157",
+              "start": 227,
+              "username": "Google"
+            },
+            {
+              "end": 248,
+              "id": "778764142412984320",
+              "start": 236,
+              "username": "huggingface"
+            },
+            {
+              "end": 260,
+              "id": "74286565",
+              "start": 250,
+              "username": "Microsoft"
+            },
+            {
+              "end": 269,
+              "id": "61559439",
+              "start": 262,
+              "username": "nvidia"
+            },
+            {
+              "end": 278,
+              "id": "4398626122",
+              "start": 271,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "id": "1654187073849663489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 138,
+                "id": "752712449321644032",
+                "start": 129,
+                "username": "scale_AI"
+              },
+              {
+                "end": 225,
+                "id": "1353836358901501952",
+                "start": 213,
+                "username": "AnthropicAI"
+              },
+              {
+                "end": 234,
+                "id": "20536157",
+                "start": 227,
+                "username": "Google"
+              },
+              {
+                "end": 248,
+                "id": "778764142412984320",
+                "start": 236,
+                "username": "huggingface"
+              },
+              {
+                "end": 260,
+                "id": "74286565",
+                "start": 250,
+                "username": "Microsoft"
+              },
+              {
+                "end": 269,
+                "id": "61559439",
+                "start": 262,
+                "username": "nvidia"
+              },
+              {
+                "end": 278,
+                "id": "4398626122",
+                "start": 271,
+                "username": "OpenAI"
+              },
+              {
+                "end": 296,
+                "id": "1281048162602369024",
+                "start": 284,
+                "username": "StabilityAI"
+              }
+            ]
+          },
+          "text": "Today, the Biden-Harris Administration announced new actions to promote responsible American innovation in AI.\n\nAs part of this, @scale_AI's evaluation platform will be used for a public evaluation of models from @AnthropicAI, @Google, @huggingface, @Microsoft, @nvidia, @OpenAI, and @StabilityAI, to explore how the models align with the principles and practices outlined in the Administration’s Blueprint for an AI Bill of Rights and AI Risk Management Framework."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 198710,
+          "like_count": 508,
+          "quote_count": 13,
+          "reply_count": 19,
+          "retweet_count": 52
+        },
+        "text": "Today, the Biden-Harris Administration announced new actions to promote responsible American innovation in AI.\n\nAs part of this, @scale_AI's evaluation platform will be used for a public evaluation of models from @AnthropicAI, @Google, @huggingface, @Microsoft, @nvidia, @OpenAI,"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1653421990693183489"
+          ]
+        },
+        "author_id": "106498703",
+        "conversation_id": "1653422094028292104",
+        "created_at": "2023-05-02T15:32:00.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_history_tweet_ids": [
+          "1653422094028292104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 173,
+              "id": "752712449321644032",
+              "start": 164,
+              "username": "scale_AI"
+            },
+            {
+              "end": 192,
+              "id": "615818451",
+              "start": 178,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 210,
+              "id": "140912249",
+              "start": 199,
+              "username": "davidfaber"
+            },
+            {
+              "end": 234,
+              "id": "16373878",
+              "start": 218,
+              "username": "MilkenInstitute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/615lL9FCPU",
+              "end": 277,
+              "expanded_url": "https://x.com/SquawkStreet/status/1653422094028292104/video/1",
+              "media_key": "13_1653421990693183489",
+              "start": 254,
+              "url": "https://t.co/615lL9FCPU"
+            }
+          ]
+        },
+        "id": "1653422094028292104",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 61921,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "text": "\"Our adversaries, Russia and China, are not going to pause because of regulation...if anything they're going to use this as an opportunity to tighten their grip.\"\n\n@scale_AI CEO @alexandr_wang joins @davidfaber at the @MilkenInstitute Global Conference. https://t.co/615lL9FCPU"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1499661628689850369",
+        "name": "bal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562279708175151105/SiFPN8hy_normal.jpg",
+        "username": "baljeeterthiel",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1664039618319372288",
+    "next_token": "b26v89c19zqg8o3fqkfzpmeuegyvp03hrpemut4or63r1",
+    "oldest_id": "1653524562250985474",
+    "result_count": 23
+  },
+  "errors": []
+}

@@ -1,0 +1,79 @@
+{
+  "collected_at_utc": "2026-11-24T12:33:54Z",
+  "collected_at_shanghai": "2026-11-24T20:33:54+08:00",
+  "tool": "x.get_users_by_usernames",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RKE0B41ZRA89NJ8Y0562J.txt",
+  "user": {
+    "created_at": "2011-09-05T09:55:55.000Z",
+    "description": "💰 套利 1~100x | 2021~2025.6\n\n📨 频道 https://t.co/lfDM0SWzw7\n\n🔗 推荐 https://t.co/wd52lPtl1T\n\n🌽 出售 https://t.co/OGndi1dRKb",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/wxjdqtg",
+            "end": 55,
+            "expanded_url": "https://t.me/wxjdqtg",
+            "start": 32,
+            "url": "https://t.co/lfDM0SWzw7"
+          },
+          {
+            "display_url": "aff.taresky.me",
+            "end": 85,
+            "expanded_url": "https://aff.taresky.me",
+            "start": 62,
+            "url": "https://t.co/wd52lPtl1T"
+          },
+          {
+            "display_url": "sol.bot",
+            "end": 115,
+            "expanded_url": "http://sol.bot",
+            "start": 92,
+            "url": "https://t.co/OGndi1dRKb"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "taresky.com",
+            "end": 23,
+            "expanded_url": "https://taresky.com",
+            "start": 0,
+            "url": "https://t.co/V6pzEt8zrU"
+          }
+        ]
+      }
+    },
+    "id": "368245720",
+    "is_identity_verified": false,
+    "most_recent_post_id": "2125155090130731098",
+    "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+    "pinned_post_id": "1700606366606565686",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/368245720/1701600715",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+      "followers_count": 55145,
+      "following_count": 389,
+      "like_count": 33261,
+      "listed_count": 884,
+      "media_count": 3175,
+      "post_count": 34003
+    },
+    "url": "https://t.co/V6pzEt8zrU",
+    "username": "taresky",
+    "verified": true,
+    "verified_type": "blue"
+  },
+  "errors": [
+    {
+      "detail": "Could not find post with pinned_tweet_id: [1700606366606565686].",
+      "parameter": "pinned_tweet_id",
+      "resource_id": "1700606366606565686",
+      "resource_type": "post",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1700606366606565686"
+    }
+  ]
+}

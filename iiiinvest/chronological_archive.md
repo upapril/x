@@ -1,0 +1,3881 @@
+# @iiiinvest chronological archive
+
+This file is an **index**. Full original-language text for every stored post is in the yearly files under `archives/YYYY.md`.
+
+- Unique posts stored (deduped by id): **3856**
+- Span (API UTC): `2022-11-22T08:48:28.000Z` → `2026-11-24T09:50:06.000Z`
+- Span (Asia/Shanghai, GMT+8): 2022-11-22 16:48:28 GMT+8 → 2026-11-24 17:50:06 GMT+8
+- Types: original 1272, reply 2027, quote 517, repost 40
+- Earliest stored: [1594976093844303872](https://x.com/iiiinvest/status/1594976093844303872) — 2022-11-22 16:48:28 GMT+8
+- Latest stored: [2125165053078839443](https://x.com/iiiinvest/status/2125165053078839443) — 2026-11-24 17:50:06 GMT+8
+
+This is **not** a complete account history. See `coverage_manifest.md`.
+
+## Posts per calendar year (UTC year of created_at)
+
+| Year | Stored posts | Full-text file |
+|---|---:|---|
+| 2022 | 408 | `archives/2022.md` |
+| 2023 | 37 | `archives/2023.md` |
+| 2024 | 21 | `archives/2024.md` |
+| 2025 | 69 | `archives/2025.md` |
+| 2026 | 3321 | `archives/2026.md` |
+
+## Compact chronological index (id, time, type, URL, first line)
+
+- `1594976093844303872` | 2022-11-22 16:48:28 GMT+8 | original | https://x.com/iiiinvest/status/1594976093844303872 | @Zhanganxin6 老板专业
+- `1594992939737939969` | 2022-11-22 17:55:25 GMT+8 | reply | https://x.com/iiiinvest/status/1594992939737939969 | @ethereum_yyds 牛逼
+- `1594993609157545984` | 2022-11-22 17:58:04 GMT+8 | reply | https://x.com/iiiinvest/status/1594993609157545984 | @TingHu888 熊市都不说了
+- `1594993823179952128` | 2022-11-22 17:58:55 GMT+8 | reply | https://x.com/iiiinvest/status/1594993823179952128 | @salonbus1024 保卫3000
+- `1595002468483862529` | 2022-11-22 18:33:16 GMT+8 | reply | https://x.com/iiiinvest/status/1595002468483862529 | @gokunocool 感觉还不到时候
+- `1595002624432295936` | 2022-11-22 18:33:54 GMT+8 | reply | https://x.com/iiiinvest/status/1595002624432295936 | @Yiyixmb 太冷了
+- `1595002708653932545` | 2022-11-22 18:34:14 GMT+8 | reply | https://x.com/iiiinvest/status/1595002708653932545 | @binancezh 全球通行？
+- `1595002858562543616` | 2022-11-22 18:34:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595002858562543616 | @DeFi8362 太可怕了
+- `1595003361681899523` | 2022-11-22 18:36:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595003361681899523 | @liangxied 注意身体
+- `1595064804422844417` | 2022-11-22 22:40:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595064804422844417 | @liangxied 做多
+- `1595067993121325063` | 2022-11-22 22:53:39 GMT+8 | reply | https://x.com/iiiinvest/status/1595067993121325063 | @hibtc37 太难了
+- `1595086066767339522` | 2022-11-23 00:05:28 GMT+8 | reply | https://x.com/iiiinvest/status/1595086066767339522 | @0xUnicorn 你这治标不治本，核心是不能接币圈的任何资金
+- `1595086560739078144` | 2022-11-23 00:07:26 GMT+8 | reply | https://x.com/iiiinvest/status/1595086560739078144 | @zhengzhi_eth 没毛病
+- `1595087135576563712` | 2022-11-23 00:09:43 GMT+8 | reply | https://x.com/iiiinvest/status/1595087135576563712 | @gtzhou 准了
+- `1595087362953969666` | 2022-11-23 00:10:37 GMT+8 | reply | https://x.com/iiiinvest/status/1595087362953969666 | @ethereum_yyds 你赚钱比我们亏钱还让人难受😣
+- `1595087589970698240` | 2022-11-23 00:11:31 GMT+8 | reply | https://x.com/iiiinvest/status/1595087589970698240 | @Super4DeFi 哈哈😄
+- `1595087713702592512` | 2022-11-23 00:12:00 GMT+8 | reply | https://x.com/iiiinvest/status/1595087713702592512 | @BTC521 哎
+- `1595088286372204545` | 2022-11-23 00:14:17 GMT+8 | reply | https://x.com/iiiinvest/status/1595088286372204545 | @BTCwukong 仓位管理没亏过大钱的不懂
+- `1595208913766748160` | 2022-11-23 08:13:37 GMT+8 | reply | https://x.com/iiiinvest/status/1595208913766748160 | @liangxied What
+- `1595209330265292800` | 2022-11-23 08:15:16 GMT+8 | reply | https://x.com/iiiinvest/status/1595209330265292800 | @wufantouzi 太难了
+- `1595210063278657537` | 2022-11-23 08:18:11 GMT+8 | reply | https://x.com/iiiinvest/status/1595210063278657537 | @wufantouzi 不难受吗
+- `1595210326311833600` | 2022-11-23 08:19:14 GMT+8 | reply | https://x.com/iiiinvest/status/1595210326311833600 | @JiamiDu 现在保守点吧
+- `1595211651862925312` | 2022-11-23 08:24:30 GMT+8 | reply | https://x.com/iiiinvest/status/1595211651862925312 | @jimohuoshan 要涨了
+- `1595211975470252032` | 2022-11-23 08:25:47 GMT+8 | reply | https://x.com/iiiinvest/status/1595211975470252032 | @TingHu888 确实，找了一圈没找到
+- `1595221205333966849` | 2022-11-23 09:02:27 GMT+8 | reply | https://x.com/iiiinvest/status/1595221205333966849 | @jimohuoshan 会有一次反弹，然后再杀
+- `1595221392257347584` | 2022-11-23 09:03:12 GMT+8 | reply | https://x.com/iiiinvest/status/1595221392257347584 | @BTCwukong 很有画面
+- `1595222059491020800` | 2022-11-23 09:05:51 GMT+8 | reply | https://x.com/iiiinvest/status/1595222059491020800 | @jimohuoshan 下跌同理
+- `1595222342841475072` | 2022-11-23 09:06:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595222342841475072 | @NoodleofBinance 血洗web3
+- `1595227962973900800` | 2022-11-23 09:29:18 GMT+8 | reply | https://x.com/iiiinvest/status/1595227962973900800 | @ChainXiaoNiu 好骚啊
+- `1595229057922535425` | 2022-11-23 09:33:39 GMT+8 | reply | https://x.com/iiiinvest/status/1595229057922535425 | @williamlab 主要是都爆没了，大家很消极
+- `1595229315079151616` | 2022-11-23 09:34:41 GMT+8 | reply | https://x.com/iiiinvest/status/1595229315079151616 | @Imlaomao 物是人非事事休。欲语泪先流
+- `1595270067553726465` | 2022-11-23 12:16:37 GMT+8 | reply | https://x.com/iiiinvest/status/1595270067553726465 | @boshen1011 期待对恶魔的审判，区块链不是法外之地
+- `1595270301088370689` | 2022-11-23 12:17:33 GMT+8 | reply | https://x.com/iiiinvest/status/1595270301088370689 | @liangxied 信凉席得永生
+- `1595271001516146688` | 2022-11-23 12:20:20 GMT+8 | reply | https://x.com/iiiinvest/status/1595271001516146688 | @jinma_li 牛逼
+- `1595271725738233858` | 2022-11-23 12:23:12 GMT+8 | reply | https://x.com/iiiinvest/status/1595271725738233858 | @ethereum_yyds MF9zz1HCSK79mjVUc37MLsBVCgBHV4aziY
+- `1595272022661435392` | 2022-11-23 12:24:23 GMT+8 | reply | https://x.com/iiiinvest/status/1595272022661435392 | @Imlaomao 黑客一般是撞库等各种手段
+- `1595272186994241542` | 2022-11-23 12:25:02 GMT+8 | reply | https://x.com/iiiinvest/status/1595272186994241542 | @zjzs911 哪都有好人，哪都有坏人
+- `1595272267034152961` | 2022-11-23 12:25:21 GMT+8 | reply | https://x.com/iiiinvest/status/1595272267034152961 | @ChainXiaoNiu 感觉不错
+- `1595272512115736576` | 2022-11-23 12:26:20 GMT+8 | reply | https://x.com/iiiinvest/status/1595272512115736576 | @jimohuoshan 哎，人不会掉入同一个坑，但会掉入类似的坑
+- `1595272794677600257` | 2022-11-23 12:27:27 GMT+8 | reply | https://x.com/iiiinvest/status/1595272794677600257 | @realChainDoctor 维权成本太高了
+- `1595273199662796801` | 2022-11-23 12:29:04 GMT+8 | reply | https://x.com/iiiinvest/status/1595273199662796801 | @Ice_Frog666666 靠，看不全容易误会
+- `1595291808690769921` | 2022-11-23 13:43:00 GMT+8 | reply | https://x.com/iiiinvest/status/1595291808690769921 | @onebcher 坐等暴富
+- `1595291910100619264` | 2022-11-23 13:43:25 GMT+8 | reply | https://x.com/iiiinvest/status/1595291910100619264 | @justinsuntron 最好还是火币
+- `1595292296593174531` | 2022-11-23 13:44:57 GMT+8 | reply | https://x.com/iiiinvest/status/1595292296593174531 | @cishanjia 我去试试
+- `1595292810307334144` | 2022-11-23 13:46:59 GMT+8 | reply | https://x.com/iiiinvest/status/1595292810307334144 | @TingHu888 为了我这一毛半钱也难为他了
+- `1595293065732063232` | 2022-11-23 13:48:00 GMT+8 | reply | https://x.com/iiiinvest/status/1595293065732063232 | @ChainXiaoNiu 都是空气就别比重量了
+- `1595293126444613635` | 2022-11-23 13:48:15 GMT+8 | reply | https://x.com/iiiinvest/status/1595293126444613635 | @jinma_li 厉害
+- `1595293510676381696` | 2022-11-23 13:49:46 GMT+8 | reply | https://x.com/iiiinvest/status/1595293510676381696 | @qlonlinde 找我没那么多
+- `1595293798619557888` | 2022-11-23 13:50:55 GMT+8 | reply | https://x.com/iiiinvest/status/1595293798619557888 | @BTW0205 前后夹击
+- `1595332113422725120` | 2022-11-23 16:23:10 GMT+8 | reply | https://x.com/iiiinvest/status/1595332113422725120 | @wufantouzi 情绪是有价值的，感动本身就值钱
+- `1595332210483003393` | 2022-11-23 16:23:33 GMT+8 | reply | https://x.com/iiiinvest/status/1595332210483003393 | @jimohuoshan 行情刚好一点
+- `1595332699907989504` | 2022-11-23 16:25:30 GMT+8 | reply | https://x.com/iiiinvest/status/1595332699907989504 | @xiaolai 老师好
+- `1595332836017393664` | 2022-11-23 16:26:02 GMT+8 | original | https://x.com/iiiinvest/status/1595332836017393664 | @xtony13I4 我草。
+- `1595333588148318209` | 2022-11-23 16:29:01 GMT+8 | reply | https://x.com/iiiinvest/status/1595333588148318209 | @jimohuoshan 梭了
+- `1595333681840680960` | 2022-11-23 16:29:24 GMT+8 | reply | https://x.com/iiiinvest/status/1595333681840680960 | @realChainDoctor 牛回了
+- `1595333745468665858` | 2022-11-23 16:29:39 GMT+8 | reply | https://x.com/iiiinvest/status/1595333745468665858 | @DeFi8362 @cz_binance 牛回
+- `1595336943784497152` | 2022-11-23 16:42:21 GMT+8 | reply | https://x.com/iiiinvest/status/1595336943784497152 | @wufantouzi 自由
+- `1595337673098809345` | 2022-11-23 16:45:15 GMT+8 | reply | https://x.com/iiiinvest/status/1595337673098809345 | @DeFi8362 要梭哈吗
+- `1595343297681453056` | 2022-11-23 17:07:36 GMT+8 | reply | https://x.com/iiiinvest/status/1595343297681453056 | @elonmusk I have some btc
+- `1595344605838340096` | 2022-11-23 17:12:48 GMT+8 | reply | https://x.com/iiiinvest/status/1595344605838340096 | @lianjinshusuoha 哥，相信了，已经梭哈
+- `1595344963411189760` | 2022-11-23 17:14:14 GMT+8 | reply | https://x.com/iiiinvest/status/1595344963411189760 | @hellosuoha 明白了，梭哈
+- `1595346278417768448` | 2022-11-23 17:19:27 GMT+8 | reply | https://x.com/iiiinvest/status/1595346278417768448 | @binancezh 作为神盾商家，说一句靠谱不过分
+- `1595346646119743488` | 2022-11-23 17:20:55 GMT+8 | reply | https://x.com/iiiinvest/status/1595346646119743488 | @ChandlerGuo 哥，你是真骗子
+- `1595349658762498049` | 2022-11-23 17:32:53 GMT+8 | reply | https://x.com/iiiinvest/status/1595349658762498049 | @ChandlerGuo 哥，还骗吗
+- `1595349781450489856` | 2022-11-23 17:33:22 GMT+8 | reply | https://x.com/iiiinvest/status/1595349781450489856 | @Dp520888 梭哈
+- `1595390619630809089` | 2022-11-23 20:15:39 GMT+8 | reply | https://x.com/iiiinvest/status/1595390619630809089 | @wufantouzi 跟你买了点
+- `1595392307385098240` | 2022-11-23 20:22:21 GMT+8 | reply | https://x.com/iiiinvest/status/1595392307385098240 | @Imlaomao 猫叔，我们永远会踏入类似的坑
+- `1595394644963373058` | 2022-11-23 20:31:39 GMT+8 | reply | https://x.com/iiiinvest/status/1595394644963373058 | @liangxied 信凉席得永生
+- `1595394772247760899` | 2022-11-23 20:32:09 GMT+8 | reply | https://x.com/iiiinvest/status/1595394772247760899 | @liangxied 我信了
+- `1595398166064467968` | 2022-11-23 20:45:38 GMT+8 | reply | https://x.com/iiiinvest/status/1595398166064467968 | @jimohuoshan 我也发现了，哈哈250
+- `1595421857918103552` | 2022-11-23 22:19:47 GMT+8 | reply | https://x.com/iiiinvest/status/1595421857918103552 | @liangxied 羡慕老哥
+- `1595430400389570560` | 2022-11-23 22:53:43 GMT+8 | reply | https://x.com/iiiinvest/status/1595430400389570560 | @liangxied 我草，哥你真牛逼
+- `1595430475102683138` | 2022-11-23 22:54:01 GMT+8 | reply | https://x.com/iiiinvest/status/1595430475102683138 | @wufantouzi 何止
+- `1595432847355285506` | 2022-11-23 23:03:27 GMT+8 | reply | https://x.com/iiiinvest/status/1595432847355285506 | @williamlab 又不是没输过
+- `1595434345317404672` | 2022-11-23 23:09:24 GMT+8 | reply | https://x.com/iiiinvest/status/1595434345317404672 | @liangxied 我草，还是白嫖
+- `1595434718152884224` | 2022-11-23 23:10:53 GMT+8 | reply | https://x.com/iiiinvest/status/1595434718152884224 | @82WztfvhHqZz0Ub 她给你说的？
+- `1595435002031788033` | 2022-11-23 23:12:00 GMT+8 | reply | https://x.com/iiiinvest/status/1595435002031788033 | @ylm5573 你不是一个人
+- `1595440949857243136` | 2022-11-23 23:35:38 GMT+8 | reply | https://x.com/iiiinvest/status/1595440949857243136 | @liangxied 你赢了说啥都牛逼
+- `1595441220314357760` | 2022-11-23 23:36:43 GMT+8 | reply | https://x.com/iiiinvest/status/1595441220314357760 | @0xAA_Science 看到清华的绕着走
+- `1595441460727644160` | 2022-11-23 23:37:40 GMT+8 | reply | https://x.com/iiiinvest/status/1595441460727644160 | @maid_crypto 能赚钱就可以
+- `1595441567158112257` | 2022-11-23 23:38:06 GMT+8 | reply | https://x.com/iiiinvest/status/1595441567158112257 | @520jxjx 爱你的人怎么办
+- `1595441708388737025` | 2022-11-23 23:38:39 GMT+8 | original | https://x.com/iiiinvest/status/1595441708388737025 | @cpdd34d @huisai1989 草，谁顶得住
+- `1595444279958462466` | 2022-11-23 23:48:52 GMT+8 | original | https://x.com/iiiinvest/status/1595444279958462466 | 日本队真牛逼啊
+- `1595444369817243650` | 2022-11-23 23:49:14 GMT+8 | reply | https://x.com/iiiinvest/status/1595444369817243650 | @TingHu888 坐等
+- `1595446017725726723` | 2022-11-23 23:55:47 GMT+8 | reply | https://x.com/iiiinvest/status/1595446017725726723 | @liangxied 确实牛逼。没得反驳
+- `1595446126370779137` | 2022-11-23 23:56:13 GMT+8 | reply | https://x.com/iiiinvest/status/1595446126370779137 | @zhengzhi_eth 明白和做到查了十万八千里
+- `1595447609451507712` | 2022-11-24 00:02:06 GMT+8 | reply | https://x.com/iiiinvest/status/1595447609451507712 | @BTC521 欧意可以
+- `1595448066378956800` | 2022-11-24 00:03:55 GMT+8 | reply | https://x.com/iiiinvest/status/1595448066378956800 | @aimerrys 收到
+- `1595448150499930112` | 2022-11-24 00:04:15 GMT+8 | reply | https://x.com/iiiinvest/status/1595448150499930112 | @ziyubit 我也是。。。
+- `1595449707291348992` | 2022-11-24 00:10:26 GMT+8 | reply | https://x.com/iiiinvest/status/1595449707291348992 | @laofeiyyds 日了
+- `1595449965266227201` | 2022-11-24 00:11:28 GMT+8 | reply | https://x.com/iiiinvest/status/1595449965266227201 | @lianjinshusuoha T钱
+- `1595585714913415168` | 2022-11-24 09:10:53 GMT+8 | reply | https://x.com/iiiinvest/status/1595585714913415168 | @wufantouzi 确实
+- `1595587244878098432` | 2022-11-24 09:16:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595587244878098432 | @smallbe1 @Zhanganxin6 进入交易所的问题不大
+- `1595587636709629952` | 2022-11-24 09:18:31 GMT+8 | reply | https://x.com/iiiinvest/status/1595587636709629952 | @hibtc37 哥也没掀了？
+- `1595587842691846144` | 2022-11-24 09:19:20 GMT+8 | reply | https://x.com/iiiinvest/status/1595587842691846144 | @ethereum_yyds 感恩
+- `1595591270528753665` | 2022-11-24 09:32:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595591270528753665 | @bitcoinyike 要不要当嫖客
+- `1595591390355869697` | 2022-11-24 09:33:26 GMT+8 | original | https://x.com/iiiinvest/status/1595591390355869697 | @momo56317023 Morning
+- `1595599728804143105` | 2022-11-24 10:06:34 GMT+8 | reply | https://x.com/iiiinvest/status/1595599728804143105 | @hebi555 他盯着你的本金系列
+- `1595628641203126273` | 2022-11-24 12:01:28 GMT+8 | reply | https://x.com/iiiinvest/status/1595628641203126273 | @jimohuoshan 能赚钱吗
+- `1595637436574359552` | 2022-11-24 12:36:25 GMT+8 | reply | https://x.com/iiiinvest/status/1595637436574359552 | @momo56317023 感谢提醒
+- `1595637609199722496` | 2022-11-24 12:37:06 GMT+8 | repost | https://x.com/iiiinvest/status/1595637609199722496 | RT @safepayotc: @momo56317023 感谢提醒
+- `1595637842902126592` | 2022-11-24 12:38:01 GMT+8 | reply | https://x.com/iiiinvest/status/1595637842902126592 | @williamlab 对黑客不利
+- `1595640310792871937` | 2022-11-24 12:47:50 GMT+8 | reply | https://x.com/iiiinvest/status/1595640310792871937 | @leon_li2 Btc还没开始吸血
+- `1595640896539983872` | 2022-11-24 12:50:09 GMT+8 | original | https://x.com/iiiinvest/status/1595640896539983872 | @baofuliu 这什么
+- `1595641016429993985` | 2022-11-24 12:50:38 GMT+8 | original | https://x.com/iiiinvest/status/1595641016429993985 | @jueyelaile 情绪到底了
+- `1595641653980958720` | 2022-11-24 12:53:10 GMT+8 | reply | https://x.com/iiiinvest/status/1595641653980958720 | @DeFi8362 小心点
+- `1595641831114801152` | 2022-11-24 12:53:52 GMT+8 | reply | https://x.com/iiiinvest/status/1595641831114801152 | @phyrexni 拜读
+- `1595642071070969856` | 2022-11-24 12:54:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595642071070969856 | @laofeiyyds 老肥靠谱
+- `1595642375187369986` | 2022-11-24 12:56:02 GMT+8 | original | https://x.com/iiiinvest/status/1595642375187369986 | @mindaoyang 匿名说白了就是割韭菜
+- `1595642540229005312` | 2022-11-24 12:56:41 GMT+8 | reply | https://x.com/iiiinvest/status/1595642540229005312 | @lanyihou 哈哈，我有类似情况
+- `1595642612622700546` | 2022-11-24 12:56:59 GMT+8 | original | https://x.com/iiiinvest/status/1595642612622700546 | @haze0x 信了
+- `1595642678519422976` | 2022-11-24 12:57:14 GMT+8 | reply | https://x.com/iiiinvest/status/1595642678519422976 | @bishengkegs 啥东西
+- `1595642830244155392` | 2022-11-24 12:57:50 GMT+8 | reply | https://x.com/iiiinvest/status/1595642830244155392 | @Billions_2022_ 场外有币，币安也不会上了
+- `1595642917305348096` | 2022-11-24 12:58:11 GMT+8 | reply | https://x.com/iiiinvest/status/1595642917305348096 | @bitcoinyike Fuck
+- `1595643222080258048` | 2022-11-24 12:59:24 GMT+8 | reply | https://x.com/iiiinvest/status/1595643222080258048 | @maik2hello 回暖了
+- `1595643593485844480` | 2022-11-24 13:00:52 GMT+8 | original | https://x.com/iiiinvest/status/1595643593485844480 | 从OTC汇率来看，这波反弹没几个人抓住啊，大家都是一堆USDT攥着。
+- `1595654411229204480` | 2022-11-24 13:43:52 GMT+8 | reply | https://x.com/iiiinvest/status/1595654411229204480 | @wufantouzi 太难了
+- `1595654612258029568` | 2022-11-24 13:44:40 GMT+8 | original | https://x.com/iiiinvest/status/1595654612258029568 | @jueyelaile 仓位管理谈何容易
+- `1595654924599427072` | 2022-11-24 13:45:54 GMT+8 | reply | https://x.com/iiiinvest/status/1595654924599427072 | @bitcoinyike 违法成本太低
+- `1595659634458923008` | 2022-11-24 14:04:37 GMT+8 | reply | https://x.com/iiiinvest/status/1595659634458923008 | @wufantouzi 感染太多了
+- `1595659724237967360` | 2022-11-24 14:04:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595659724237967360 | @cz_binance 期待
+- `1595661713390850048` | 2022-11-24 14:12:53 GMT+8 | reply | https://x.com/iiiinvest/status/1595661713390850048 | @wufantouzi 明年差不多
+- `1595662007826804736` | 2022-11-24 14:14:03 GMT+8 | reply | https://x.com/iiiinvest/status/1595662007826804736 | @0xAA_Science 来了
+- `1595668178788839424` | 2022-11-24 14:38:34 GMT+8 | reply | https://x.com/iiiinvest/status/1595668178788839424 | @liangxied 作为老乡有点心疼你
+- `1595669112176676866` | 2022-11-24 14:42:17 GMT+8 | quote | https://x.com/iiiinvest/status/1595669112176676866 | OTC出精十全大补丸。 https://t.co/Ome0QDBB5x
+- `1595670039142670336` | 2022-11-24 14:45:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595670039142670336 | @82WztfvhHqZz0Ub 英国发来贺电
+- `1595671952299106306` | 2022-11-24 14:53:34 GMT+8 | reply | https://x.com/iiiinvest/status/1595671952299106306 | @DrcDAO 最好的是60-70，赶上房子那波的
+- `1595672316465352705` | 2022-11-24 14:55:01 GMT+8 | reply | https://x.com/iiiinvest/status/1595672316465352705 | @whyyoutouzhele 骗我不认字，湖？
+- `1595672772356673536` | 2022-11-24 14:56:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595672772356673536 | @520jxjx 默默守护
+- `1595672965869457411` | 2022-11-24 14:57:35 GMT+8 | reply | https://x.com/iiiinvest/status/1595672965869457411 | @82WztfvhHqZz0Ub 收到，冲
+- `1595682566052249601` | 2022-11-24 15:35:44 GMT+8 | reply | https://x.com/iiiinvest/status/1595682566052249601 | @BTC521 学习一下
+- `1595682880125952000` | 2022-11-24 15:36:59 GMT+8 | original | https://x.com/iiiinvest/status/1595682880125952000 | @BitRunX 关心无用就不关心系列
+- `1595683050289258497` | 2022-11-24 15:37:40 GMT+8 | reply | https://x.com/iiiinvest/status/1595683050289258497 | @Imlaomao @BitRunX 相信猫叔买了点，赚了
+- `1595683255424258049` | 2022-11-24 15:38:29 GMT+8 | original | https://x.com/iiiinvest/status/1595683255424258049 | @elonmusk 我是特斯拉车主，我认为特斯拉刹的驻车
+- `1595683472563052544` | 2022-11-24 15:39:20 GMT+8 | reply | https://x.com/iiiinvest/status/1595683472563052544 | @hlcjlxc 没图没真相
+- `1595684930595741697` | 2022-11-24 15:45:08 GMT+8 | reply | https://x.com/iiiinvest/status/1595684930595741697 | @maid_crypto 人心不变
+- `1595685115140902912` | 2022-11-24 15:45:52 GMT+8 | reply | https://x.com/iiiinvest/status/1595685115140902912 | @leon_li2 不要用老钱包
+- `1595685260339326976` | 2022-11-24 15:46:27 GMT+8 | reply | https://x.com/iiiinvest/status/1595685260339326976 | @bitcoinyike 有能力但可能没勇气了
+- `1595697699407687681` | 2022-11-24 16:35:52 GMT+8 | reply | https://x.com/iiiinvest/status/1595697699407687681 | @82WztfvhHqZz0Ub 人的精力需要分散
+- `1595697964600942592` | 2022-11-24 16:36:56 GMT+8 | reply | https://x.com/iiiinvest/status/1595697964600942592 | @laofeiyyds 反着买。韩国
+- `1595698106460704769` | 2022-11-24 16:37:29 GMT+8 | reply | https://x.com/iiiinvest/status/1595698106460704769 | @TingHu888 还记得icp吗
+- `1595698410903830529` | 2022-11-24 16:38:42 GMT+8 | reply | https://x.com/iiiinvest/status/1595698410903830529 | @hellosuoha 亏的快点痛苦少
+- `1595701290683625472` | 2022-11-24 16:50:09 GMT+8 | reply | https://x.com/iiiinvest/status/1595701290683625472 | @bitfish 工资加电费，目前看肯定是净消耗阶段
+- `1595701599598710784` | 2022-11-24 16:51:22 GMT+8 | reply | https://x.com/iiiinvest/status/1595701599598710784 | @maid_crypto 买啥啥有困难呢
+- `1595715233456062465` | 2022-11-24 17:45:33 GMT+8 | reply | https://x.com/iiiinvest/status/1595715233456062465 | @zjzs911 韩国
+- `1595715371490689029` | 2022-11-24 17:46:06 GMT+8 | reply | https://x.com/iiiinvest/status/1595715371490689029 | @ChainXiaoNiu 看到了缝
+- `1595715616396447745` | 2022-11-24 17:47:04 GMT+8 | reply | https://x.com/iiiinvest/status/1595715616396447745 | @huahuayjy 确实
+- `1595716054625427456` | 2022-11-24 17:48:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595716054625427456 | @Super4DeFi 忙着看别人亏没亏
+- `1595726064923574272` | 2022-11-24 18:28:35 GMT+8 | reply | https://x.com/iiiinvest/status/1595726064923574272 | @liangxied 相信你，压了韩国
+- `1595727219547983873` | 2022-11-24 18:33:10 GMT+8 | original | https://x.com/iiiinvest/status/1595727219547983873 | 不知道去哪买买球就选Stake，世界杯授权加密平台：https://t.co/ZK8vLq7B4n
+- `1595727286644666368` | 2022-11-24 18:33:26 GMT+8 | reply | https://x.com/iiiinvest/status/1595727286644666368 | @lking_eth @liangxied https://t.co/ZK8vLpQy2n
+- `1595727616329150470` | 2022-11-24 18:34:45 GMT+8 | reply | https://x.com/iiiinvest/status/1595727616329150470 | @cz_binance 等待
+- `1595727787662659584` | 2022-11-24 18:35:26 GMT+8 | reply | https://x.com/iiiinvest/status/1595727787662659584 | @bitfish 懂了
+- `1595757355303849987` | 2022-11-24 20:32:55 GMT+8 | reply | https://x.com/iiiinvest/status/1595757355303849987 | @82WztfvhHqZz0Ub 真离不开我们吗
+- `1595757442318553089` | 2022-11-24 20:33:16 GMT+8 | reply | https://x.com/iiiinvest/status/1595757442318553089 | @zjzs911 梭了
+- `1595757535750868997` | 2022-11-24 20:33:38 GMT+8 | reply | https://x.com/iiiinvest/status/1595757535750868997 | @ethereum_yyds 看着看着就赌上了
+- `1595757607905595392` | 2022-11-24 20:33:56 GMT+8 | original | https://x.com/iiiinvest/status/1595757607905595392 | @baofuliu 梭哈
+- `1595757895169105921` | 2022-11-24 20:35:04 GMT+8 | reply | https://x.com/iiiinvest/status/1595757895169105921 | @kw666_2006 搞
+- `1595758041621667840` | 2022-11-24 20:35:39 GMT+8 | reply | https://x.com/iiiinvest/status/1595758041621667840 | @Dp520888 有钱真可以为所欲为
+- `1595758333235167232` | 2022-11-24 20:36:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595758333235167232 | @xingxingjun8888 韩国冲
+- `1595758408053161985` | 2022-11-24 20:37:06 GMT+8 | reply | https://x.com/iiiinvest/status/1595758408053161985 | @hello_pangni 猫有男朋友了
+- `1595778600581890048` | 2022-11-24 21:57:21 GMT+8 | reply | https://x.com/iiiinvest/status/1595778600581890048 | @colinwu 孙哥也是个大镰刀
+- `1595780518074728448` | 2022-11-24 22:04:58 GMT+8 | reply | https://x.com/iiiinvest/status/1595780518074728448 | @ylm5573 感恩
+- `1595793961280761860` | 2022-11-24 22:58:23 GMT+8 | reply | https://x.com/iiiinvest/status/1595793961280761860 | @DeFi8362 火币已经落寞
+- `1595794037604515841` | 2022-11-24 22:58:41 GMT+8 | reply | https://x.com/iiiinvest/status/1595794037604515841 | @momo56317023 确实
+- `1595794824065880065` | 2022-11-24 23:01:49 GMT+8 | reply | https://x.com/iiiinvest/status/1595794824065880065 | @ethereum_yyds 噱头
+- `1595794876289146887` | 2022-11-24 23:02:01 GMT+8 | reply | https://x.com/iiiinvest/status/1595794876289146887 | @ylm5573 我亏了
+- `1595795079645790208` | 2022-11-24 23:02:50 GMT+8 | original | https://x.com/iiiinvest/status/1595795079645790208 | @huminglue 收到
+- `1595795229894139904` | 2022-11-24 23:03:25 GMT+8 | reply | https://x.com/iiiinvest/status/1595795229894139904 | @CryptoSiyuan 没诚心不要去
+- `1595796173352472579` | 2022-11-24 23:07:10 GMT+8 | original | https://x.com/iiiinvest/status/1595796173352472579 | @thecryptoskanda 确实
+- `1595796338134126592` | 2022-11-24 23:07:50 GMT+8 | reply | https://x.com/iiiinvest/status/1595796338134126592 | @SEFATUBA3 我草
+- `1595796830113386496` | 2022-11-24 23:09:47 GMT+8 | reply | https://x.com/iiiinvest/status/1595796830113386496 | @ylm5573 恭喜
+- `1595796905027866627` | 2022-11-24 23:10:05 GMT+8 | reply | https://x.com/iiiinvest/status/1595796905027866627 | @coindalijie 草
+- `1595967408992571392` | 2022-11-25 10:27:36 GMT+8 | reply | https://x.com/iiiinvest/status/1595967408992571392 | @Imlaomao 懂了
+- `1595967869937807360` | 2022-11-25 10:29:26 GMT+8 | reply | https://x.com/iiiinvest/status/1595967869937807360 | @jimohuoshan 卧槽
+- `1595968552242061315` | 2022-11-25 10:32:09 GMT+8 | reply | https://x.com/iiiinvest/status/1595968552242061315 | @broleon @justinsuntron 骗子手段
+- `1595969211188535296` | 2022-11-25 10:34:46 GMT+8 | reply | https://x.com/iiiinvest/status/1595969211188535296 | @maid_crypto 期待教程
+- `1595971286601060352` | 2022-11-25 10:43:01 GMT+8 | reply | https://x.com/iiiinvest/status/1595971286601060352 | @lianjinshusuoha 同意
+- `1595978197644238848` | 2022-11-25 11:10:28 GMT+8 | reply | https://x.com/iiiinvest/status/1595978197644238848 | @maid_crypto 确实
+- `1595991534595633153` | 2022-11-25 12:03:28 GMT+8 | reply | https://x.com/iiiinvest/status/1595991534595633153 | @Imlaomao 道理是这个道理，请证明你是你
+- `1595991655563554816` | 2022-11-25 12:03:57 GMT+8 | reply | https://x.com/iiiinvest/status/1595991655563554816 | @laofeiyyds 黄赌毒必须全整
+- `1595991784718761985` | 2022-11-25 12:04:28 GMT+8 | reply | https://x.com/iiiinvest/status/1595991784718761985 | @CindyCreation 来了
+- `1595991884534804481` | 2022-11-25 12:04:52 GMT+8 | reply | https://x.com/iiiinvest/status/1595991884534804481 | @Svwang1 哈哈
+- `1596027060979650562` | 2022-11-25 14:24:38 GMT+8 | reply | https://x.com/iiiinvest/status/1596027060979650562 | @Imlaomao 支持猫叔
+- `1596027331810062336` | 2022-11-25 14:25:43 GMT+8 | reply | https://x.com/iiiinvest/status/1596027331810062336 | @laofeiyyds 懂了
+- `1596027615596666880` | 2022-11-25 14:26:50 GMT+8 | reply | https://x.com/iiiinvest/status/1596027615596666880 | @CindyCreation 做好准备
+- `1596027886867484678` | 2022-11-25 14:27:55 GMT+8 | reply | https://x.com/iiiinvest/status/1596027886867484678 | @Billions_2022_ 牛鬼蛇神都来了
+- `1596028242523488256` | 2022-11-25 14:29:20 GMT+8 | reply | https://x.com/iiiinvest/status/1596028242523488256 | @0xzhujun 谢谢
+- `1596028997221355520` | 2022-11-25 14:32:20 GMT+8 | reply | https://x.com/iiiinvest/status/1596028997221355520 | @zhang_bj_ 身正不怕影子斜
+- `1596029513397587969` | 2022-11-25 14:34:23 GMT+8 | reply | https://x.com/iiiinvest/status/1596029513397587969 | @1024LCG 赚钱就成大佬了
+- `1596029571136045056` | 2022-11-25 14:34:37 GMT+8 | reply | https://x.com/iiiinvest/status/1596029571136045056 | @momo56317023 好的
+- `1596044767531761664` | 2022-11-25 15:35:00 GMT+8 | reply | https://x.com/iiiinvest/status/1596044767531761664 | @Imlaomao 谢谢猫叔
+- `1596044924419727360` | 2022-11-25 15:35:37 GMT+8 | reply | https://x.com/iiiinvest/status/1596044924419727360 | @sunyuchentron 别骗我
+- `1596045053520408576` | 2022-11-25 15:36:08 GMT+8 | reply | https://x.com/iiiinvest/status/1596045053520408576 | @Kareninyu 混蛋玩意
+- `1596045426490499073` | 2022-11-25 15:37:37 GMT+8 | reply | https://x.com/iiiinvest/status/1596045426490499073 | @hear07766600 我咋没见你关注
+- `1596045586175647744` | 2022-11-25 15:38:15 GMT+8 | reply | https://x.com/iiiinvest/status/1596045586175647744 | @cryptoEthkong 啥东西
+- `1596045710377775105` | 2022-11-25 15:38:45 GMT+8 | reply | https://x.com/iiiinvest/status/1596045710377775105 | @guanliange 你启发我了
+- `1596046161487331328` | 2022-11-25 15:40:32 GMT+8 | reply | https://x.com/iiiinvest/status/1596046161487331328 | @liangxied 今晚压那队
+- `1596046512186068995` | 2022-11-25 15:41:56 GMT+8 | original | https://x.com/iiiinvest/status/1596046512186068995 | @huahuayjy 卧槽
+- `1596047128559726592` | 2022-11-25 15:44:23 GMT+8 | reply | https://x.com/iiiinvest/status/1596047128559726592 | @ylm5573 来了
+- `1596047297871482881` | 2022-11-25 15:45:03 GMT+8 | reply | https://x.com/iiiinvest/status/1596047297871482881 | @Dahuzi_eth 感谢
+- `1596047623319744517` | 2022-11-25 15:46:21 GMT+8 | reply | https://x.com/iiiinvest/status/1596047623319744517 | @BTCdayu 确实有道理
+- `1596172805221277699` | 2022-11-26 00:03:46 GMT+8 | reply | https://x.com/iiiinvest/status/1596172805221277699 | @liangxied 老乡，出u找我，欧意大宗，被冻包赔，看下我首页文章
+- `1596175027183161344` | 2022-11-26 00:12:36 GMT+8 | reply | https://x.com/iiiinvest/status/1596175027183161344 | @williamlab 懂了，梭哈
+- `1596175313247309825` | 2022-11-26 00:13:44 GMT+8 | reply | https://x.com/iiiinvest/status/1596175313247309825 | @liangxied 河南赢
+- `1596295669538779137` | 2022-11-26 08:12:00 GMT+8 | reply | https://x.com/iiiinvest/status/1596295669538779137 | @zhang_bj_ 骂吧
+- `1596297125440081920` | 2022-11-26 08:17:47 GMT+8 | reply | https://x.com/iiiinvest/status/1596297125440081920 | @liangfenxiaodao 太惨了
+- `1596315157881159682` | 2022-11-26 09:29:26 GMT+8 | reply | https://x.com/iiiinvest/status/1596315157881159682 | @wufantouzi 上次饭哥让远离ftx，很多人不信
+- `1596315462672953345` | 2022-11-26 09:30:39 GMT+8 | reply | https://x.com/iiiinvest/status/1596315462672953345 | @OuyangZhuaibai 懂了，18000就走
+- `1596315802826723328` | 2022-11-26 09:32:00 GMT+8 | reply | https://x.com/iiiinvest/status/1596315802826723328 | @terryharmonic 压两边
+- `1596316556656451584` | 2022-11-26 09:34:59 GMT+8 | reply | https://x.com/iiiinvest/status/1596316556656451584 | @Super4DeFi 真踏马羡慕他们
+- `1596317675973902336` | 2022-11-26 09:39:26 GMT+8 | reply | https://x.com/iiiinvest/status/1596317675973902336 | @zjzs911 多？
+- `1596317767212630016` | 2022-11-26 09:39:48 GMT+8 | reply | https://x.com/iiiinvest/status/1596317767212630016 | @Dp520888 牛回
+- `1596318285070761984` | 2022-11-26 09:41:51 GMT+8 | reply | https://x.com/iiiinvest/status/1596318285070761984 | @lanhubiji 还需要时间
+- `1596318544232579072` | 2022-11-26 09:42:53 GMT+8 | reply | https://x.com/iiiinvest/status/1596318544232579072 | @leon_li2 还是炒币吧
+- `1596319008806305792` | 2022-11-26 09:44:44 GMT+8 | reply | https://x.com/iiiinvest/status/1596319008806305792 | @Starfish1688 刚涨点
+- `1596319121926651907` | 2022-11-26 09:45:11 GMT+8 | reply | https://x.com/iiiinvest/status/1596319121926651907 | @jessyshen 还是炒币吧
+- `1596319629596856320` | 2022-11-26 09:47:12 GMT+8 | reply | https://x.com/iiiinvest/status/1596319629596856320 | @Brave2049 越来越严重了
+- `1596327426459860992` | 2022-11-26 10:18:11 GMT+8 | reply | https://x.com/iiiinvest/status/1596327426459860992 | @Brave2049 确实
+- `1596327531166437377` | 2022-11-26 10:18:36 GMT+8 | reply | https://x.com/iiiinvest/status/1596327531166437377 | @Super4DeFi 涨了就是利好
+- `1596327598854123520` | 2022-11-26 10:18:52 GMT+8 | reply | https://x.com/iiiinvest/status/1596327598854123520 | @TO_RISINGONE 睡醒了
+- `1596327670312493057` | 2022-11-26 10:19:09 GMT+8 | reply | https://x.com/iiiinvest/status/1596327670312493057 | @wangwatchworld 起床了
+- `1596328047875346433` | 2022-11-26 10:20:39 GMT+8 | reply | https://x.com/iiiinvest/status/1596328047875346433 | @ETH50000 奇妙的世界
+- `1596328244110061570` | 2022-11-26 10:21:26 GMT+8 | reply | https://x.com/iiiinvest/status/1596328244110061570 | @fxtrader 转移矛盾
+- `1596329192144375808` | 2022-11-26 10:25:12 GMT+8 | original | https://x.com/iiiinvest/status/1596329192144375808 | @Zhanganxin6 福哥专业
+- `1596329698564661250` | 2022-11-26 10:27:13 GMT+8 | reply | https://x.com/iiiinvest/status/1596329698564661250 | @BTC521 已经开始涨了
+- `1596330139163725824` | 2022-11-26 10:28:58 GMT+8 | reply | https://x.com/iiiinvest/status/1596330139163725824 | @0xcryptowizard 00后有区块链
+- `1596330199058354178` | 2022-11-26 10:29:12 GMT+8 | reply | https://x.com/iiiinvest/status/1596330199058354178 | @JaneQianHUAI 来了
+- `1596330412271603712` | 2022-11-26 10:30:03 GMT+8 | reply | https://x.com/iiiinvest/status/1596330412271603712 | @Starfish1688 涨了
+- `1596330657483218944` | 2022-11-26 10:31:01 GMT+8 | reply | https://x.com/iiiinvest/status/1596330657483218944 | @tinyfool 心流了
+- `1596330867500417024` | 2022-11-26 10:31:51 GMT+8 | reply | https://x.com/iiiinvest/status/1596330867500417024 | @billtheinvestor 都醒了
+- `1596330933401309184` | 2022-11-26 10:32:07 GMT+8 | reply | https://x.com/iiiinvest/status/1596330933401309184 | @BTW0205 真假。。。
+- `1596333563074719744` | 2022-11-26 10:42:34 GMT+8 | reply | https://x.com/iiiinvest/status/1596333563074719744 | @billtheinvestor 有点敏感啊
+- `1596333650702110721` | 2022-11-26 10:42:55 GMT+8 | reply | https://x.com/iiiinvest/status/1596333650702110721 | @huahuayjy 太惨了
+- `1596334076839219201` | 2022-11-26 10:44:37 GMT+8 | reply | https://x.com/iiiinvest/status/1596334076839219201 | @YuhouL 要涨了
+- `1596385998975696897` | 2022-11-26 14:10:56 GMT+8 | reply | https://x.com/iiiinvest/status/1596385998975696897 | @YuhouL 庄优
+- `1596387434023227392` | 2022-11-26 14:16:38 GMT+8 | reply | https://x.com/iiiinvest/status/1596387434023227392 | @maid_crypto 等待
+- `1596392271989313539` | 2022-11-26 14:35:51 GMT+8 | reply | https://x.com/iiiinvest/status/1596392271989313539 | @liangxied 还是中国好
+- `1596393624727846914` | 2022-11-26 14:41:14 GMT+8 | reply | https://x.com/iiiinvest/status/1596393624727846914 | @OuyangZhuaibai 一本正经的胡说八道
+- `1596394455392976896` | 2022-11-26 14:44:32 GMT+8 | reply | https://x.com/iiiinvest/status/1596394455392976896 | @bishengkegs 来了
+- `1596394574486044672` | 2022-11-26 14:45:00 GMT+8 | original | https://x.com/iiiinvest/status/1596394574486044672 | @dongjia521 来了
+- `1596420382336364545` | 2022-11-26 16:27:33 GMT+8 | reply | https://x.com/iiiinvest/status/1596420382336364545 | @liangxied 有钱不怕啊
+- `1596420545465442304` | 2022-11-26 16:28:12 GMT+8 | reply | https://x.com/iiiinvest/status/1596420545465442304 | @TingHu888 哎
+- `1596420659206574081` | 2022-11-26 16:28:39 GMT+8 | reply | https://x.com/iiiinvest/status/1596420659206574081 | @dongbao1004 确实，差不多了
+- `1596420862772924416` | 2022-11-26 16:29:28 GMT+8 | reply | https://x.com/iiiinvest/status/1596420862772924416 | @dongjia521 信了，冲
+- `1596421238267981824` | 2022-11-26 16:30:57 GMT+8 | reply | https://x.com/iiiinvest/status/1596421238267981824 | @liangxied 又开始了吗，赌狗不怕，冲
+- `1596421534675275776` | 2022-11-26 16:32:08 GMT+8 | reply | https://x.com/iiiinvest/status/1596421534675275776 | @lanyihou 情绪起来了
+- `1596421635707662338` | 2022-11-26 16:32:32 GMT+8 | reply | https://x.com/iiiinvest/status/1596421635707662338 | @cryptoEthkong 好的
+- `1596421774698504192` | 2022-11-26 16:33:05 GMT+8 | reply | https://x.com/iiiinvest/status/1596421774698504192 | @0xAA_Science @OneKeyHQ 买一个试试
+- `1596422082765934592` | 2022-11-26 16:34:19 GMT+8 | original | https://x.com/iiiinvest/status/1596422082765934592 | 按照USDT溢价率来看，还能涨。因为场内现在有大量的USDT，一到情绪起来就会起飞。
+- `1596422479123460098` | 2022-11-26 16:35:53 GMT+8 | reply | https://x.com/iiiinvest/status/1596422479123460098 | @maik2hello @layer3xyz 做过了
+- `1596422913212977154` | 2022-11-26 16:37:37 GMT+8 | reply | https://x.com/iiiinvest/status/1596422913212977154 | @Aurora_Web3 太大了
+- `1596423230021304320` | 2022-11-26 16:38:52 GMT+8 | reply | https://x.com/iiiinvest/status/1596423230021304320 | @zjzs911 然后呢
+- `1596423604467793921` | 2022-11-26 16:40:22 GMT+8 | reply | https://x.com/iiiinvest/status/1596423604467793921 | @0xKillTheWolf 今晚跟一下
+- `1596423718599012352` | 2022-11-26 16:40:49 GMT+8 | reply | https://x.com/iiiinvest/status/1596423718599012352 | @JiamiDu 什么玩意
+- `1596423864724389890` | 2022-11-26 16:41:24 GMT+8 | reply | https://x.com/iiiinvest/status/1596423864724389890 | @liangxied 为富不仁
+- `1596424021402619905` | 2022-11-26 16:42:01 GMT+8 | reply | https://x.com/iiiinvest/status/1596424021402619905 | @lucas168 不会连环暴雷吧
+- `1596425081299034114` | 2022-11-26 16:46:14 GMT+8 | reply | https://x.com/iiiinvest/status/1596425081299034114 | @wufantouzi 梦回2020
+- `1596425192586481664` | 2022-11-26 16:46:40 GMT+8 | reply | https://x.com/iiiinvest/status/1596425192586481664 | @wufantouzi 惯性
+- `1596430724357566469` | 2022-11-26 17:08:39 GMT+8 | reply | https://x.com/iiiinvest/status/1596430724357566469 | @liangxied 好的，期待
+- `1596430789079887872` | 2022-11-26 17:08:55 GMT+8 | reply | https://x.com/iiiinvest/status/1596430789079887872 | @lanyihou 是的
+- `1596431060531019776` | 2022-11-26 17:09:59 GMT+8 | reply | https://x.com/iiiinvest/status/1596431060531019776 | @ETH50000 哈哈。牛逼
+- `1596431452476157953` | 2022-11-26 17:11:33 GMT+8 | reply | https://x.com/iiiinvest/status/1596431452476157953 | @Aurora_Web3 解压
+- `1596431799441559552` | 2022-11-26 17:12:55 GMT+8 | reply | https://x.com/iiiinvest/status/1596431799441559552 | @JaneQianHUAI 牛逼
+- `1596439355240824832` | 2022-11-26 17:42:57 GMT+8 | reply | https://x.com/iiiinvest/status/1596439355240824832 | @jimohuoshan Eth也没动啊
+- `1596439583113506817` | 2022-11-26 17:43:51 GMT+8 | reply | https://x.com/iiiinvest/status/1596439583113506817 | @liangxied 好的，风险自担
+- `1596439701816156161` | 2022-11-26 17:44:19 GMT+8 | original | https://x.com/iiiinvest/status/1596439701816156161 | @lanyihou 进了？
+- `1596439864802947072` | 2022-11-26 17:44:58 GMT+8 | reply | https://x.com/iiiinvest/status/1596439864802947072 | @cishanjia 刚结束，很舒服
+- `1596474539822940160` | 2022-11-26 20:02:46 GMT+8 | reply | https://x.com/iiiinvest/status/1596474539822940160 | @JiamiDu 牛
+- `1596486635931435010` | 2022-11-26 20:50:49 GMT+8 | reply | https://x.com/iiiinvest/status/1596486635931435010 | @Bitcoin_daheng 沙特
+- `1596486729682530304` | 2022-11-26 20:51:12 GMT+8 | original | https://x.com/iiiinvest/status/1596486729682530304 | @baofuliu 。。。
+- `1596486881633763329` | 2022-11-26 20:51:48 GMT+8 | reply | https://x.com/iiiinvest/status/1596486881633763329 | @Brave2049 亏得就不用管了
+- `1596487004795330560` | 2022-11-26 20:52:17 GMT+8 | original | https://x.com/iiiinvest/status/1596487004795330560 | @BitRunX 还是孩子
+- `1596487246131396608` | 2022-11-26 20:53:15 GMT+8 | reply | https://x.com/iiiinvest/status/1596487246131396608 | @YuhouL 确实，赌场永远赚
+- `1596487315559677953` | 2022-11-26 20:53:31 GMT+8 | reply | https://x.com/iiiinvest/status/1596487315559677953 | @bcyyzzzm13 在推特
+- `1596487573136113664` | 2022-11-26 20:54:33 GMT+8 | reply | https://x.com/iiiinvest/status/1596487573136113664 | @Kareninyu 赶上二战了
+- `1596487662592225281` | 2022-11-26 20:54:54 GMT+8 | reply | https://x.com/iiiinvest/status/1596487662592225281 | @gokunocool 我
+- `1596503943613657089` | 2022-11-26 21:59:36 GMT+8 | reply | https://x.com/iiiinvest/status/1596503943613657089 | @ETH50000 沉默的大多数
+- `1596504318261465089` | 2022-11-26 22:01:05 GMT+8 | reply | https://x.com/iiiinvest/status/1596504318261465089 | @YuhouL 完了
+- `1596504452806381569` | 2022-11-26 22:01:37 GMT+8 | reply | https://x.com/iiiinvest/status/1596504452806381569 | @TingHu888 对的
+- `1596504522163359747` | 2022-11-26 22:01:54 GMT+8 | reply | https://x.com/iiiinvest/status/1596504522163359747 | @BTCer2013 你有多个技能
+- `1596504643999502336` | 2022-11-26 22:02:23 GMT+8 | reply | https://x.com/iiiinvest/status/1596504643999502336 | @CMouseF 差不多了
+- `1596504746512486405` | 2022-11-26 22:02:47 GMT+8 | reply | https://x.com/iiiinvest/status/1596504746512486405 | @xfli5 不能偏见
+- `1596504967346782209` | 2022-11-26 22:03:40 GMT+8 | reply | https://x.com/iiiinvest/status/1596504967346782209 | @TingHu888 小平台别玩
+- `1596505308079468544` | 2022-11-26 22:05:01 GMT+8 | reply | https://x.com/iiiinvest/status/1596505308079468544 | @NFTfafafa 说明该买了
+- `1596517530679803904` | 2022-11-26 22:53:35 GMT+8 | reply | https://x.com/iiiinvest/status/1596517530679803904 | @liangxied 沙特输了
+- `1596517602477887489` | 2022-11-26 22:53:52 GMT+8 | reply | https://x.com/iiiinvest/status/1596517602477887489 | @dongjia521 收到
+- `1596527292179619841` | 2022-11-26 23:32:23 GMT+8 | reply | https://x.com/iiiinvest/status/1596527292179619841 | @bitcoinyike 开始反弹阶段
+- `1596658643969413120` | 2022-11-27 08:14:19 GMT+8 | reply | https://x.com/iiiinvest/status/1596658643969413120 | @chairbtc 玩的好
+- `1596661424721260544` | 2022-11-27 08:25:22 GMT+8 | reply | https://x.com/iiiinvest/status/1596661424721260544 | @Cryptosis9_OKX 一直用欧意，也是欧意大宗商家，欧意安全可靠！
+- `1596661552895361024` | 2022-11-27 08:25:53 GMT+8 | reply | https://x.com/iiiinvest/status/1596661552895361024 | @Cryptosis9_OKX 加油
+- `1596789849465716736` | 2022-11-27 16:55:41 GMT+8 | reply | https://x.com/iiiinvest/status/1596789849465716736 | @liangxied 毕业了
+- `1596791024881643520` | 2022-11-27 17:00:21 GMT+8 | original | https://x.com/iiiinvest/status/1596791024881643520 | @huahuayjy 牛逼
+- `1596791638109859840` | 2022-11-27 17:02:48 GMT+8 | reply | https://x.com/iiiinvest/status/1596791638109859840 | @0xBclub 都醒了
+- `1596791930624827393` | 2022-11-27 17:03:57 GMT+8 | original | https://x.com/iiiinvest/status/1596791930624827393 | @BitRunX 自发的
+- `1596792609456132098` | 2022-11-27 17:06:39 GMT+8 | original | https://x.com/iiiinvest/status/1596792609456132098 | @gokunocool 油管然后发链接
+- `1596792882165600256` | 2022-11-27 17:07:44 GMT+8 | reply | https://x.com/iiiinvest/status/1596792882165600256 | @lanyihou 北大名人多，清华很多官员去水经历
+- `1596793056120164352` | 2022-11-27 17:08:26 GMT+8 | reply | https://x.com/iiiinvest/status/1596793056120164352 | @maid_crypto 这么有文化
+- `1596793296344715264` | 2022-11-27 17:09:23 GMT+8 | reply | https://x.com/iiiinvest/status/1596793296344715264 | @feifan7686 互关
+- `1596794161411526656` | 2022-11-27 17:12:49 GMT+8 | reply | https://x.com/iiiinvest/status/1596794161411526656 | @btcohmann 干就完了
+- `1596794440139804672` | 2022-11-27 17:13:56 GMT+8 | reply | https://x.com/iiiinvest/status/1596794440139804672 | @liangxied 小心点
+- `1596794917174800385` | 2022-11-27 17:15:49 GMT+8 | reply | https://x.com/iiiinvest/status/1596794917174800385 | @ethereum_yyds 牛逼
+- `1596799738959257600` | 2022-11-27 17:34:59 GMT+8 | reply | https://x.com/iiiinvest/status/1596799738959257600 | 靠谱
+- `1596799902218321920` | 2022-11-27 17:35:38 GMT+8 | reply | https://x.com/iiiinvest/status/1596799902218321920 | @YourAirdropETH 说明可以买了
+- `1596800166308511744` | 2022-11-27 17:36:41 GMT+8 | reply | https://x.com/iiiinvest/status/1596800166308511744 | @Brave2049 雪花不落自己身上感觉不到冷🥶
+- `1596800307392311297` | 2022-11-27 17:37:15 GMT+8 | original | https://x.com/iiiinvest/status/1596800307392311297 | @Zhanganxin6 福哥好雅致
+- `1596802363297144833` | 2022-11-27 17:45:25 GMT+8 | reply | https://x.com/iiiinvest/status/1596802363297144833 | @liangxied 你小心点
+- `1596802504984907776` | 2022-11-27 17:45:59 GMT+8 | reply | https://x.com/iiiinvest/status/1596802504984907776 | @liangxied 回去吧
+- `1596802550526726145` | 2022-11-27 17:46:09 GMT+8 | reply | https://x.com/iiiinvest/status/1596802550526726145 | @liangxied 乱了
+- `1596804342107234305` | 2022-11-27 17:53:17 GMT+8 | reply | https://x.com/iiiinvest/status/1596804342107234305 | @billtheinvestor 出去的都发达了
+- `1596804460231421955` | 2022-11-27 17:53:45 GMT+8 | reply | https://x.com/iiiinvest/status/1596804460231421955 | @1024LCG 穷则独善其身，达则兼济天下
+- `1596805749577256960` | 2022-11-27 17:58:52 GMT+8 | reply | https://x.com/iiiinvest/status/1596805749577256960 | @zhengzhi_eth 哈哈
+- `1596835404770344961` | 2022-11-27 19:56:42 GMT+8 | reply | https://x.com/iiiinvest/status/1596835404770344961 | @honza204 还能这么压
+- `1596835519237066752` | 2022-11-27 19:57:10 GMT+8 | original | https://x.com/iiiinvest/status/1596835519237066752 | @BitRunX 收到
+- `1596835625281687564` | 2022-11-27 19:57:35 GMT+8 | reply | https://x.com/iiiinvest/status/1596835625281687564 | @liangxied 牛逼
+- `1596835956564570113` | 2022-11-27 19:58:54 GMT+8 | reply | https://x.com/iiiinvest/status/1596835956564570113 | @DeFi8362 怎么了？？
+- `1596836071643713538` | 2022-11-27 19:59:21 GMT+8 | reply | https://x.com/iiiinvest/status/1596836071643713538 | @TingHu888 确实
+- `1596836160663617537` | 2022-11-27 19:59:43 GMT+8 | reply | https://x.com/iiiinvest/status/1596836160663617537 | @billtheinvestor 值得记住
+- `1596836452574597120` | 2022-11-27 20:00:52 GMT+8 | reply | https://x.com/iiiinvest/status/1596836452574597120 | @momo56317023 情绪起来了
+- `1596836973821718528` | 2022-11-27 20:02:57 GMT+8 | reply | https://x.com/iiiinvest/status/1596836973821718528 | @bcyyzzzm13 穷则独善其身，达则兼济天下
+- `1596837103492816896` | 2022-11-27 20:03:27 GMT+8 | reply | https://x.com/iiiinvest/status/1596837103492816896 | @realwuzhe 踏踏实实过日子
+- `1596837252445147138` | 2022-11-27 20:04:03 GMT+8 | reply | https://x.com/iiiinvest/status/1596837252445147138 | @BTCer2013 理想主义很奢侈
+- `1596837506540277762` | 2022-11-27 20:05:04 GMT+8 | original | https://x.com/iiiinvest/status/1596837506540277762 | @laofeiyyds 休息好，重新出发
+- `1596837720093253633` | 2022-11-27 20:05:54 GMT+8 | original | https://x.com/iiiinvest/status/1596837720093253633 | 哎，日本输了，还是老老实实玩币吧，输得慢点
+- `1596837823784837120` | 2022-11-27 20:06:19 GMT+8 | reply | https://x.com/iiiinvest/status/1596837823784837120 | @tualatrix 解封，然后都回家居家隔离
+- `1596837913521950720` | 2022-11-27 20:06:41 GMT+8 | original | https://x.com/iiiinvest/status/1596837913521950720 | @songma 白纸变贵了
+- `1596838063896170496` | 2022-11-27 20:07:16 GMT+8 | reply | https://x.com/iiiinvest/status/1596838063896170496 | @btcpiggy 突破天际
+- `1596839213315821568` | 2022-11-27 20:11:50 GMT+8 | reply | https://x.com/iiiinvest/status/1596839213315821568 | @bishengkegs 哎，是的
+- `1596839878599544833` | 2022-11-27 20:14:29 GMT+8 | reply | https://x.com/iiiinvest/status/1596839878599544833 | @hellosuoha 重拳出击
+- `1596840039149096965` | 2022-11-27 20:15:07 GMT+8 | reply | https://x.com/iiiinvest/status/1596840039149096965 | @yakin168 神了
+- `1596840246611939328` | 2022-11-27 20:15:57 GMT+8 | reply | https://x.com/iiiinvest/status/1596840246611939328 | @BTCwukong @dongjia521 来了
+- `1596840435917676544` | 2022-11-27 20:16:42 GMT+8 | reply | https://x.com/iiiinvest/status/1596840435917676544 | @dongjia521 冲
+- `1596840669976604674` | 2022-11-27 20:17:38 GMT+8 | reply | https://x.com/iiiinvest/status/1596840669976604674 | @liangxied 阿凉靠谱，还提醒大家。我们都懂，有白嫖机会多分享
+- `1596841378126139393` | 2022-11-27 20:20:27 GMT+8 | reply | https://x.com/iiiinvest/status/1596841378126139393 | @liangxied 我刚多
+- `1596841702052229123` | 2022-11-27 20:21:44 GMT+8 | original | https://x.com/iiiinvest/status/1596841702052229123 | @blcoktime 来了
+- `1596842005405237248` | 2022-11-27 20:22:56 GMT+8 | original | https://x.com/iiiinvest/status/1596842005405237248 | @1024LCG 可以换
+- `1596842083436105732` | 2022-11-27 20:23:15 GMT+8 | reply | https://x.com/iiiinvest/status/1596842083436105732 | @bitcoinyike 打起来了吗
+- `1596842181922533376` | 2022-11-27 20:23:38 GMT+8 | original | https://x.com/iiiinvest/status/1596842181922533376 | @songma 牛逼
+- `1596842331315253249` | 2022-11-27 20:24:14 GMT+8 | reply | https://x.com/iiiinvest/status/1596842331315253249 | @MaoMao80s 关的不是自己
+- `1596842495539023877` | 2022-11-27 20:24:53 GMT+8 | reply | https://x.com/iiiinvest/status/1596842495539023877 | @sujiaming1988 哥，你还有进去的经历
+- `1596843052173099010` | 2022-11-27 20:27:06 GMT+8 | original | https://x.com/iiiinvest/status/1596843052173099010 | @Zhanganxin6 看了一遍，作为商家说一句：福哥靠谱！
+- `1596843376829091840` | 2022-11-27 20:28:23 GMT+8 | reply | https://x.com/iiiinvest/status/1596843376829091840 | @sisibinance 羡慕思思
+- `1596843587198922753` | 2022-11-27 20:29:13 GMT+8 | reply | https://x.com/iiiinvest/status/1596843587198922753 | @leduo98793759 好的有点假了。。。
+- `1596845652415500288` | 2022-11-27 20:37:26 GMT+8 | reply | https://x.com/iiiinvest/status/1596845652415500288 | @sujiaming1988 搞不出来。本质就是赌
+- `1596845948381974528` | 2022-11-27 20:38:36 GMT+8 | original | https://x.com/iiiinvest/status/1596845948381974528 | @ylm5573 被黑过37.4万U的人建议千万别瞎几把授权三
+- `1596846481306046465` | 2022-11-27 20:40:43 GMT+8 | reply | https://x.com/iiiinvest/status/1596846481306046465 | @wufantouzi 跟着饭哥吃了点肉
+- `1596846576148045824` | 2022-11-27 20:41:06 GMT+8 | reply | https://x.com/iiiinvest/status/1596846576148045824 | @0xBclub 和小日本不共戴天
+- `1596847359043858432` | 2022-11-27 20:44:13 GMT+8 | original | https://x.com/iiiinvest/status/1596847359043858432 | 从币圈亏到体育圈了，和小日本不共戴天 https://t.co/ib7UzAn5t8
+- `1596847595808518145` | 2022-11-27 20:45:09 GMT+8 | reply | https://x.com/iiiinvest/status/1596847595808518145 | @0xBclub 哥，因为压了日本。。。
+- `1596851690183200768` | 2022-11-27 21:01:25 GMT+8 | reply | https://x.com/iiiinvest/status/1596851690183200768 | @0xVeryBigOrange 成了正义之师
+- `1596851879732215808` | 2022-11-27 21:02:10 GMT+8 | reply | https://x.com/iiiinvest/status/1596851879732215808 | @btcfan2009 困兽犹斗
+- `1596852158565355522` | 2022-11-27 21:03:17 GMT+8 | reply | https://x.com/iiiinvest/status/1596852158565355522 | @sunyuchentron 牛逼孙哥，加油加油
+- `1596852526007320582` | 2022-11-27 21:04:44 GMT+8 | reply | https://x.com/iiiinvest/status/1596852526007320582 | @liangxied 既得利益不会砸碗的
+- `1596860441019682816` | 2022-11-27 21:36:12 GMT+8 | original | https://x.com/iiiinvest/status/1596860441019682816 | @liangxied 我草
+- `1596860542853218305` | 2022-11-27 21:36:36 GMT+8 | reply | https://x.com/iiiinvest/status/1596860542853218305 | @bishengkegs 太多机器人
+- `1596860699502084097` | 2022-11-27 21:37:13 GMT+8 | reply | https://x.com/iiiinvest/status/1596860699502084097 | @Monica_xiaoM 谢谢
+- `1596860892976934914` | 2022-11-27 21:37:59 GMT+8 | reply | https://x.com/iiiinvest/status/1596860892976934914 | @YuhouL 牛逼
+- `1596885009347944448` | 2022-11-27 23:13:49 GMT+8 | reply | https://x.com/iiiinvest/status/1596885009347944448 | @gokunocool 什么活
+- `1597031098667921408` | 2022-11-28 08:54:19 GMT+8 | original | https://x.com/iiiinvest/status/1597031098667921408 | @jimohuoshan 万事勇为先，第一步很重要
+- `1597088511764488192` | 2022-11-28 12:42:28 GMT+8 | original | https://x.com/iiiinvest/status/1597088511764488192 | 世事无常，我们常常无奈，比如被黑被骗，面对不堪，不要沉沦，努力变得更好，只有更好才会不那么痛，笑看风雨，不然呢？
+- `1597209908071440384` | 2022-11-28 20:44:51 GMT+8 | reply | https://x.com/iiiinvest/status/1597209908071440384 | @Kareninyu 好的交易员懂得配置
+- `1597416712588050432` | 2022-11-29 10:26:37 GMT+8 | original | https://x.com/iiiinvest/status/1597416712588050432 | 人核心还是动物，欺软怕硬，比如职场上大家都怕那些不好说话的人，但这种人反而混的很好，因为没人敢侵占他的利益。
+- `1597454569705197568` | 2022-11-29 12:57:03 GMT+8 | original | https://x.com/iiiinvest/status/1597454569705197568 | 买了一堆止咳消炎退烧的药，保护好自己，对冲可能得风险。 https://t.co/vUFFJ9pNHP
+- `1597527105570369536` | 2022-11-29 17:45:17 GMT+8 | reply | https://x.com/iiiinvest/status/1597527105570369536 | @Imlaomao 送礼不谢，哈哈
+- `1597540400708825089` | 2022-11-29 18:38:07 GMT+8 | reply | https://x.com/iiiinvest/status/1597540400708825089 | @liangxied 干死他们
+- `1597540523019206658` | 2022-11-29 18:38:36 GMT+8 | reply | https://x.com/iiiinvest/status/1597540523019206658 | @sujiaming1988 不错像个卤蛋
+- `1598899492694396929` | 2022-12-03 12:38:39 GMT+8 | original | https://x.com/iiiinvest/status/1598899492694396929 | 压了韩国胜利，结果真赢了，世界杯的魅力所在。恭喜韩国，the pride of Korea #kor
+- `1598899740057686016` | 2022-12-03 12:39:38 GMT+8 | original | https://x.com/iiiinvest/status/1598899740057686016 | 压了韩国胜利，结果真赢了，世界杯的魅力所在。恭喜韩国，the pride of Korea #kor #FIFAWorldCup https://t.co/r2dPnSOi9E
+- `1598900491001696257` | 2022-12-03 12:42:37 GMT+8 | original | https://x.com/iiiinvest/status/1598900491001696257 | @Zhanganxin6 福哥，很多地方银行比国有大行更好用，比如农商
+- `1598900679288184832` | 2022-12-03 12:43:22 GMT+8 | reply | https://x.com/iiiinvest/status/1598900679288184832 | @OuYangZhuaiBai 中国进入3个
+- `1599698576711782400` | 2022-12-05 17:33:56 GMT+8 | quote | https://x.com/iiiinvest/status/1599698576711782400 | 昨晚压了英格兰，又赢了，今晚继续？#USDT https://t.co/tVgYVyAsXz https://t.co/L47r1U1Y3W
+- `1599706136906985472` | 2022-12-05 18:03:58 GMT+8 | reply | https://x.com/iiiinvest/status/1599706136906985472 | @oragnes 希望
+- `1599708220083556352` | 2022-12-05 18:12:15 GMT+8 | quote | https://x.com/iiiinvest/status/1599708220083556352 | @maid_crypto @cryp_orange @BinsLonna https://t.co/7fy6wCfhu9
+- `1599772204107169793` | 2022-12-05 22:26:30 GMT+8 | reply | https://x.com/iiiinvest/status/1599772204107169793 | @jinma_li 有财
+- `1599979224806617089` | 2022-12-06 12:09:08 GMT+8 | quote | https://x.com/iiiinvest/status/1599979224806617089 | 昨晚压了巴西，又赢了，世界杯以来盈利从100到1640了😃 https://t.co/cp0r36PiCd https://t.co/nnJcmEwSDM
+- `1600005408638218240` | 2022-12-06 13:53:10 GMT+8 | original | https://x.com/iiiinvest/status/1600005408638218240 | Fcoin Ftx，经历之后要学会资产配置。
+- `1600026005795901440` | 2022-12-06 15:15:01 GMT+8 | original | https://x.com/iiiinvest/status/1600026005795901440 | 打开推特，一堆大V重复着重复，毫无新意，别说带领赚钱了，反到处是坑。
+- `1600028611821436929` | 2022-12-06 15:25:22 GMT+8 | original | https://x.com/iiiinvest/status/1600028611821436929 | 用人所长，天下皆所用之人；
+- `1600342635792650240` | 2022-12-07 12:13:11 GMT+8 | reply | https://x.com/iiiinvest/status/1600342635792650240 | @ethereum_yyds 需要可以联系
+- `1600383906427338752` | 2022-12-07 14:57:11 GMT+8 | original | https://x.com/iiiinvest/status/1600383906427338752 | 人性本恶
+- `1600412399169056769` | 2022-12-07 16:50:24 GMT+8 | reply | https://x.com/iiiinvest/status/1600412399169056769 | @huahuayjy 何止牛逼，虎逼
+- `1600494507145203714` | 2022-12-07 22:16:40 GMT+8 | reply | https://x.com/iiiinvest/status/1600494507145203714 | @Dp520888 虎逼
+- `1600495109963149312` | 2022-12-07 22:19:04 GMT+8 | reply | https://x.com/iiiinvest/status/1600495109963149312 | @wufantouzi 还会有下个故事，赌狗永不眠
+- `1600495229064601605` | 2022-12-07 22:19:33 GMT+8 | reply | https://x.com/iiiinvest/status/1600495229064601605 | @maid_crypto 他过生日你出钱。没毛病
+- `1600497358969917443` | 2022-12-07 22:28:00 GMT+8 | reply | https://x.com/iiiinvest/status/1600497358969917443 | @YuhouL 早泄，老毛病了
+- `1600514836345278464` | 2022-12-07 23:37:27 GMT+8 | original | https://x.com/iiiinvest/status/1600514836345278464 | 几年前我们万众创新大众创业，
+- `1600658998511906816` | 2022-12-08 09:10:18 GMT+8 | reply | https://x.com/iiiinvest/status/1600658998511906816 | @penny777 辛苦
+- `1600724724270915585` | 2022-12-08 13:31:28 GMT+8 | original | https://x.com/iiiinvest/status/1600724724270915585 | 时势造英雄，
+- `1600808142627299328` | 2022-12-08 19:02:57 GMT+8 | reply | https://x.com/iiiinvest/status/1600808142627299328 | @ChainXiaoNiu 光想钱？
+- `1600867833654935552` | 2022-12-08 23:00:08 GMT+8 | original | https://x.com/iiiinvest/status/1600867833654935552 | 喜怒哀乐和钱关系不大，
+- `1601069731582078976` | 2022-12-09 12:22:25 GMT+8 | original | https://x.com/iiiinvest/status/1601069731582078976 | 对比单纯的努力
+- `1601386697518116864` | 2022-12-10 09:21:55 GMT+8 | original | https://x.com/iiiinvest/status/1601386697518116864 | 为什么币圈大V热衷比长度
+- `1601600077750886400` | 2022-12-10 23:29:49 GMT+8 | reply | https://x.com/iiiinvest/status/1601600077750886400 | @Super4DeFi 有，骗子
+- `1601600323084509184` | 2022-12-10 23:30:47 GMT+8 | reply | https://x.com/iiiinvest/status/1601600323084509184 | @wufantouzi 均值回归
+- `1601602116111695876` | 2022-12-10 23:37:55 GMT+8 | original | https://x.com/iiiinvest/status/1601602116111695876 | 能管理好情绪的都是牛人
+- `1602308189348691968` | 2022-12-12 22:23:36 GMT+8 | original | https://x.com/iiiinvest/status/1602308189348691968 | 这么多人看牛市，傻逼吗，看看K线，几把的牛市啊
+- `1602326987611459585` | 2022-12-12 23:38:18 GMT+8 | original | https://x.com/iiiinvest/status/1602326987611459585 | 有布洛芬等药品资源的可以做一波投机生意
+- `1602676159023525890` | 2022-12-13 22:45:47 GMT+8 | original | https://x.com/iiiinvest/status/1602676159023525890 | 涨一点就牛了，经济衰退预期还没发酵。
+- `1603411250847043584` | 2022-12-15 23:26:46 GMT+8 | original | https://x.com/iiiinvest/status/1603411250847043584 | 无论小弟平时多横
+- `1604733505883492352` | 2022-12-19 15:00:56 GMT+8 | original | https://x.com/iiiinvest/status/1604733505883492352 | 放开纪元现象
+- `1606287600968417281` | 2022-12-23 21:56:22 GMT+8 | original | https://x.com/iiiinvest/status/1606287600968417281 | 上海地铁较疫情放开前，人流量已经减少2/3 https://t.co/oHKYaRoiDr
+- `1606296779737075713` | 2022-12-23 22:32:50 GMT+8 | original | https://x.com/iiiinvest/status/1606296779737075713 | 怕什么真理无穷
+- `1606297579343314947` | 2022-12-23 22:36:01 GMT+8 | original | https://x.com/iiiinvest/status/1606297579343314947 | 苦难没有价值
+- `1606599941170040833` | 2022-12-24 18:37:29 GMT+8 | original | https://x.com/iiiinvest/status/1606599941170040833 | 落英缤纷好时节，闲庭信步湘湖中。熙熙攘攘人何在，只待疫情退却时。 https://t.co/V5xtyfjrOM
+- `1607387718136528897` | 2022-12-26 22:47:50 GMT+8 | quote | https://x.com/iiiinvest/status/1607387718136528897 | 确实，心性本恶。 https://t.co/x1OGsnSetw
+- `1607404955962601479` | 2022-12-26 23:56:20 GMT+8 | original | https://x.com/iiiinvest/status/1607404955962601479 | 三年大疫结束了
+- `1608122171028819973` | 2022-12-28 23:26:17 GMT+8 | original | https://x.com/iiiinvest/status/1608122171028819973 | 币圈现在也就黑客和骗子还在稳定赚钱。
+- `1608743602439749634` | 2022-12-30 16:35:38 GMT+8 | original | https://x.com/iiiinvest/status/1608743602439749634 | 生病了家里有人照顾
+- `1609928226364850178` | 2023-01-02 23:02:54 GMT+8 | original | https://x.com/iiiinvest/status/1609928226364850178 | 法无禁地皆可为
+- `1622978951013597185` | 2023-02-07 23:21:50 GMT+8 | original | https://x.com/iiiinvest/status/1622978951013597185 | 怎么都在赚钱，就我在亏？
+- `1635996238582792193` | 2023-03-15 21:27:53 GMT+8 | quote | https://x.com/iiiinvest/status/1635996238582792193 | 世人都说钱财好，却把歪路走到了。 https://t.co/5Pp70PeY2t
+- `1644210423464378368` | 2023-04-07 13:28:07 GMT+8 | repost | https://x.com/iiiinvest/status/1644210423464378368 | RT @0xmster: 底部放利空是利好，顶部放利好是利空。
+- `1644489221871403008` | 2023-04-08 07:55:58 GMT+8 | repost | https://x.com/iiiinvest/status/1644489221871403008 | RT @nishuang: 怎么学习 ChatGPT 和 Midjourney 指令的方法还不一样？不都是 Prompt / 指令么
+- `1647550485304598529` | 2023-04-16 18:40:20 GMT+8 | original | https://x.com/iiiinvest/status/1647550485304598529 | 坚持撸 https://t.co/4yoMNU6UOh
+- `1648120200821379073` | 2023-04-18 08:24:11 GMT+8 | repost | https://x.com/iiiinvest/status/1648120200821379073 | RT @hanqing_me: AI马斯克对谈AI乔布斯（一）
+- `1648675503375814656` | 2023-04-19 21:10:45 GMT+8 | original | https://x.com/iiiinvest/status/1648675503375814656 | 一：风浪越大鱼越贵
+- `1655750166249627648` | 2023-05-09 09:42:56 GMT+8 | repost | https://x.com/iiiinvest/status/1655750166249627648 | RT @lidangzzz: 为什么还没有一个稍微有点志向抱负的比特币矿工，站出来公开抵制ordinals、威胁分叉比特币啊？
+- `1663570274556735488` | 2023-05-30 23:37:15 GMT+8 | repost | https://x.com/iiiinvest/status/1663570274556735488 | RT @0xUnicorn: 其实万事都是窗户纸 
+- `1666140575165460480` | 2023-06-07 01:50:43 GMT+8 | reply | https://x.com/iiiinvest/status/1666140575165460480 | @wufantouzi 饭总，睡这么晚第二天会头疼吗
+- `1666146982191300608` | 2023-06-07 02:16:10 GMT+8 | repost | https://x.com/iiiinvest/status/1666146982191300608 | RT @jike_collection: 这不就是小红书的流量密码嘛！你领悟了吗？
+- `1670827273765945349` | 2023-06-20 00:13:59 GMT+8 | repost | https://x.com/iiiinvest/status/1670827273765945349 | RT @Bitturing: GPT-4已经改变了世界。
+- `1671398787766710275` | 2023-06-21 14:04:58 GMT+8 | original | https://x.com/iiiinvest/status/1671398787766710275 | BEIJING: US President joe Biden on Tuesday called Xi Jinping adictator, a day after top US diplomat Antony Blinken visitedBeijing to stabilize bilateral relations that China says a
+- `1673007168407126016` | 2023-06-26 00:36:06 GMT+8 | repost | https://x.com/iiiinvest/status/1673007168407126016 | RT @FinanceYF5: 你可以用ChatGPT自动化任何任务。
+- `1691326017267486720` | 2023-08-15 13:48:40 GMT+8 | reply | https://x.com/iiiinvest/status/1691326017267486720 | 二、预期收益分别为
+- `1691326205793034240` | 2023-08-15 13:49:25 GMT+8 | reply | https://x.com/iiiinvest/status/1691326205793034240 | 三、1%= 0.5 * 3.6% * 36% = 0.6633%
+- `1691326329428619264` | 2023-08-15 13:49:54 GMT+8 | reply | https://x.com/iiiinvest/status/1691326329428619264 | 四、10%=0.5*-4%*4%= -0.08%
+- `1691326663936917504` | 2023-08-15 13:51:14 GMT+8 | reply | https://x.com/iiiinvest/status/1691326663936917504 | 五、正常行情震荡时
+- `1691326881331924992` | 2023-08-15 13:52:06 GMT+8 | reply | https://x.com/iiiinvest/status/1691326881331924992 | 六、简单理解就是各振幅挂单要更平均。
+- `1691327023137116160` | 2023-08-15 13:52:40 GMT+8 | reply | https://x.com/iiiinvest/status/1691327023137116160 | 七、此策略灵感源于@wufantouzi 本人经过回测进行数据化，并可进一步搭建成模型。
+- `1691327577980592128` | 2023-08-15 13:54:52 GMT+8 | original | https://x.com/iiiinvest/status/1691327577980592128 | 想要电鱼的彦祖，可以拍时间交流学习，劲大活好，知无不言言无不尽。 https://t.co/kkyTeCzpGj
+- `1691328151409065984` | 2023-08-15 13:57:09 GMT+8 | reply | https://x.com/iiiinvest/status/1691328151409065984 | 或者点击链接下载app，首页即可购买：https://t.co/74JeXkZc4J
+- `1691596288025063453` | 2023-08-16 07:42:38 GMT+8 | repost | https://x.com/iiiinvest/status/1691596288025063453 | RT @BitcoinNewsCom: BREAKING: 🇺🇸 SEC delays all ETF approvals to early 2024 👀😲 https://t.co/pBV1ijCBcm
+- `1694746038714892792` | 2023-08-25 00:18:37 GMT+8 | repost | https://x.com/iiiinvest/status/1694746038714892792 | RT @lidangzzz: 很多人问我从哪里学习基本的财经知识。
+- `1695093573241475133` | 2023-08-25 23:19:35 GMT+8 | repost | https://x.com/iiiinvest/status/1695093573241475133 | RT @lianyanshe: OCBC华侨银行开卡指南完整版(支持大陆线上申请)
+- `1695093587967648254` | 2023-08-25 23:19:39 GMT+8 | repost | https://x.com/iiiinvest/status/1695093587967648254 | RT @phyrexni: Kraken - 如何将海外收入顺利且合规兑换成CNY… https://t.co/ixXglb6XXZ
+- `1696373526406783172` | 2023-08-29 12:05:40 GMT+8 | quote | https://x.com/iiiinvest/status/1696373526406783172 | 去有鱼的市场 https://t.co/MaabW9id5l
+- `1698004645745144177` | 2023-09-03 00:07:09 GMT+8 | repost | https://x.com/iiiinvest/status/1698004645745144177 | RT @0xZiye: Update一下拥有的银行账户：
+- `1698602662839939157` | 2023-09-04 15:43:27 GMT+8 | repost | https://x.com/iiiinvest/status/1698602662839939157 | RT @jinma_li: 感谢七爷写的如此详尽。
+- `1702718824783778071` | 2023-09-16 00:19:37 GMT+8 | repost | https://x.com/iiiinvest/status/1702718824783778071 | RT @0xUnicorn: 看了管清友的一个演讲：
+- `1713942038469824826` | 2023-10-16 23:36:40 GMT+8 | repost | https://x.com/iiiinvest/status/1713942038469824826 | RT @evilcos: 如果你在加密货币领域被盗、被诈骗等，可以将相关信息反馈给我们：
+- `1714675830406983855` | 2023-10-19 00:12:29 GMT+8 | repost | https://x.com/iiiinvest/status/1714675830406983855 | RT @0xUnicorn: 你该不该润？
+- `1715023129322606757` | 2023-10-19 23:12:32 GMT+8 | repost | https://x.com/iiiinvest/status/1715023129322606757 | RT @plusyip: 开通了新加坡华侨银行 OCBC 账户，分享一下过程和顺便赚点奖励 🤪
+- `1716115476198359362` | 2023-10-22 23:33:08 GMT+8 | repost | https://x.com/iiiinvest/status/1716115476198359362 | RT @lidangzzz: 你心中的白月光是谁？张津瑜？白珊珊？香港姐姐？
+- `1721542230031433751` | 2023-11-06 22:57:07 GMT+8 | repost | https://x.com/iiiinvest/status/1721542230031433751 | RT @zhufengme: 公司银行账户的借记卡也收到了，至此整个美国公司设立和开立银行账户的流程就都跑完了。其实实体卡不是必须的，不过我想既然有还是申领了一张。除了申请公司时找了一个当地代理花了连同政府费用共150刀外，其余几乎没有花钱，每个人都可以自己做到，其实就是看清楚…
+- `1730323843657630109` | 2023-12-01 04:32:06 GMT+8 | repost | https://x.com/iiiinvest/status/1730323843657630109 | RT @Tesla: Cybertruck Delivery Event https://t.co/rWd111HvHc
+- `1766839709408625017` | 2024-03-10 22:53:07 GMT+8 | repost | https://x.com/iiiinvest/status/1766839709408625017 | RT @CryptoDoggyCN: 牛市赚钱后咋出金？OTC怕被冻？我亲测安全的 币圈出金法（不被冻）分享给大家：
+- `1775189467797901575` | 2024-04-02 23:52:05 GMT+8 | repost | https://x.com/iiiinvest/status/1775189467797901575 | RT @CryptoDoggyCN: 币圈牛市100%防冻安全出入金第三弹！2024最新亲测！如果你不做内地见证，直接过港办理香港银行卡：
+- `1775189808421494865` | 2024-04-02 23:53:26 GMT+8 | repost | https://x.com/iiiinvest/status/1775189808421494865 | RT @xiaoqingwang14: 基于港卡出入金 美股开户 最近解锁了几个大家肯定关心的问题：
+- `1779894809119138109` | 2024-04-15 23:29:25 GMT+8 | repost | https://x.com/iiiinvest/status/1779894809119138109 | RT @Imlaomao: 已经拜读完毕，等有时间再二读！推荐！
+- `1796926510236131493` | 2024-06-01 23:27:19 GMT+8 | repost | https://x.com/iiiinvest/status/1796926510236131493 | RT @silverfang88: 经过一个月的调查，我给你们整理出了长沙一些不良会所，希望你们不要去游逛，一起抵制，健康成长！
+- `1815033646715142238` | 2024-07-21 22:38:37 GMT+8 | repost | https://x.com/iiiinvest/status/1815033646715142238 | RT @didengshengwu: 人生四大杠杠，助力我们腾飞！
+- `1856232803173826966` | 2024-11-12 15:09:22 GMT+8 | original | https://x.com/iiiinvest/status/1856232803173826966 | What a day https://t.co/XoLENkGvxb
+- `1857806345912942615` | 2024-11-16 23:22:03 GMT+8 | quote | https://x.com/iiiinvest/status/1857806345912942615 | 课代表：反身性指自我强化，如果过10会引发追高 https://t.co/e1ntnmmWy6
+- `1857806651639869718` | 2024-11-16 23:23:16 GMT+8 | reply | https://x.com/iiiinvest/status/1857806651639869718 | @laohubuchiren 我和你理解正好相反
+- `1857806858452447544` | 2024-11-16 23:24:06 GMT+8 | reply | https://x.com/iiiinvest/status/1857806858452447544 | @turingou 课代表：反身性指自我强化，如果过10会不少追高
+- `1857807310569222477` | 2024-11-16 23:25:53 GMT+8 | reply | https://x.com/iiiinvest/status/1857807310569222477 | @turingou 课代表：矿股需要积累到大饼本周期高位横盘才能发挥规模效应，所以还需要耐心等待大饼走出来。
+- `1857807337433739469` | 2024-11-16 23:26:00 GMT+8 | repost | https://x.com/iiiinvest/status/1857807337433739469 | RT @safepayotc: @turingou 课代表：矿股需要积累到大饼本周期高位横盘才能发挥规模效应，所以还需要耐心等待大饼走出来。
+- `1858879074975785414` | 2024-11-19 22:24:42 GMT+8 | reply | https://x.com/iiiinvest/status/1858879074975785414 | @Jerrain22 恰似旧时操逼吗
+- `1858880084842528847` | 2024-11-19 22:28:43 GMT+8 | reply | https://x.com/iiiinvest/status/1858880084842528847 | @Jerrain22 孤鹜向南飞
+- `1858887236684836947` | 2024-11-19 22:57:08 GMT+8 | reply | https://x.com/iiiinvest/status/1858887236684836947 | @turingou 课代表：现在19的mara就是地板价
+- `1858887271153557928` | 2024-11-19 22:57:16 GMT+8 | repost | https://x.com/iiiinvest/status/1858887271153557928 | RT @safepayotc: @turingou 课代表：现在19的mara就是地板价
+- `1858890886123524360` | 2024-11-19 23:11:38 GMT+8 | original | https://x.com/iiiinvest/status/1858890886123524360 | 0.05买了200个月底到期的mara call，坐等开奖
+- `1861774032984764438` | 2024-11-27 22:08:14 GMT+8 | reply | https://x.com/iiiinvest/status/1861774032984764438 | @Jerrain22 人有轮回
+- `1861782179518542038` | 2024-11-27 22:40:36 GMT+8 | reply | https://x.com/iiiinvest/status/1861782179518542038 | @zhangmanman555 旧事挂心头
+- `1862148522319212678` | 2024-11-28 22:56:19 GMT+8 | reply | https://x.com/iiiinvest/status/1862148522319212678 | @zhangmanman555 雾里见归人
+- `1866642316175212941` | 2024-12-11 08:33:03 GMT+8 | repost | https://x.com/iiiinvest/status/1866642316175212941 | RT @colinwu: 牛市了要过年了，大家也要出金消费，不懂 OTC，我个人所知貌似有一种所谓安全点的出金方法
+- `1899806267511848995` | 2025-03-12 20:54:45 GMT+8 | original | https://x.com/iiiinvest/status/1899806267511848995 | CPI2.8低于预期2.9，降息概率加大，美股直线拉升。
+- `1900192125595299993` | 2025-03-13 22:28:01 GMT+8 | original | https://x.com/iiiinvest/status/1900192125595299993 | 这两天稳住，期待下周的反弹
+- `1900192393296830710` | 2025-03-13 22:29:05 GMT+8 | original | https://x.com/iiiinvest/status/1900192393296830710 | 买了几个特斯拉中短期的call验证下
+- `1900207228696879321` | 2025-03-13 23:28:02 GMT+8 | original | https://x.com/iiiinvest/status/1900207228696879321 | 静待花开，享受波动。晚安💤
+- `1900525911038205962` | 2025-03-14 20:34:21 GMT+8 | original | https://x.com/iiiinvest/status/1900525911038205962 | 0.5%的网眼一天60+条鱼，0.4%的网眼一天90+条鱼。 https://t.co/mTM49uOxkL
+- `1900577430395662766` | 2025-03-14 23:59:05 GMT+8 | original | https://x.com/iiiinvest/status/1900577430395662766 | 今天美股大涨，你以为我在赚钱，不，我在回本。 https://t.co/lGywJfqp23
+- `1900577810147922196` | 2025-03-15 00:00:35 GMT+8 | reply | https://x.com/iiiinvest/status/1900577810147922196 | 插针策略买入的卖掉了，赚了0.1个饼。
+- `1900728494524690565` | 2025-03-15 09:59:21 GMT+8 | original | https://x.com/iiiinvest/status/1900728494524690565 | 跌不下去了阿祖，收手吧。
+- `1901190857669394493` | 2025-03-16 16:36:37 GMT+8 | original | https://x.com/iiiinvest/status/1901190857669394493 | 【转发抽1个比特币】做个社会实验，比特币现在价格85000美元，下次减半约2028年4月13日，我们一起见证，到时抽一个比特币庆祝🎉🎉🎉 https://t.co/dE15NdPrAi
+- `1901986132830875904` | 2025-03-18 21:16:45 GMT+8 | original | https://x.com/iiiinvest/status/1901986132830875904 | 这次出差在飞机上看了孤注一掷，里面最后提到人有两心，贪心和不甘心。想想也确实，很多想想都不可思议的事，不正是因贪入坑的吗，最后因为不甘心而拉入深渊。
+- `1901988833060868409` | 2025-03-18 21:27:29 GMT+8 | original | https://x.com/iiiinvest/status/1901988833060868409 | @BestTrader01 Before don't offer.
+- `1902384504406438329` | 2025-03-19 23:39:45 GMT+8 | original | https://x.com/iiiinvest/status/1902384504406438329 | 深圳纷纷扰扰，看着过往的人和车，回忆涌上心头，20-30岁的年龄真的要好好珍惜，要敢想敢干，认准能出成绩的方向猛干，不然到了快40的年龄有些事总感觉提不起劲了。
+- `1902515499415855510` | 2025-03-20 08:20:16 GMT+8 | quote | https://x.com/iiiinvest/status/1902515499415855510 | 87000 https://t.co/bCgvA0q0xt
+- `1902654401199890515` | 2025-03-20 17:32:13 GMT+8 | original | https://x.com/iiiinvest/status/1902654401199890515 | 最近一方面看到特斯拉在美国经历的各种打砸烧，另一方面看到SpaceX成功接回滞留太空宇航员，感觉好割裂。像极了前几年我们国内刹车失灵的场面，最后各种情绪终将散去，产品力才是根本。
+- `1903348798459441241` | 2025-03-22 15:31:30 GMT+8 | original | https://x.com/iiiinvest/status/1903348798459441241 | 周五纳指没怎么动，特斯拉涨了5个点，说明啥，说明空头差不多得了，小心拉爆你！ https://t.co/uuHojmm5KK
+- `1904170350860255621` | 2025-03-24 21:56:04 GMT+8 | reply | https://x.com/iiiinvest/status/1904170350860255621 | @Jinbojingbo 差评，没有我大米
+- `1904177989749026830` | 2025-03-24 22:26:25 GMT+8 | original | https://x.com/iiiinvest/status/1904177989749026830 | 如此行情下，电鱼依旧勤勤恳恳，日夜不歇。越来越多老用户感受到其魅力 https://t.co/vzExWrPueC
+- `1904335470366212536` | 2025-03-25 08:52:11 GMT+8 | original | https://x.com/iiiinvest/status/1904335470366212536 | Surprise https://t.co/MdhbBvuOCI
+- `1904360574332678470` | 2025-03-25 10:31:56 GMT+8 | repost | https://x.com/iiiinvest/status/1904360574332678470 | RT @safepayotc: 【转发抽1个比特币】做个社会实验，比特币现在价格85000美元，下次减半约2028年4月13日，我们一起见证，到时抽一个比特币庆祝🎉🎉🎉 https://t.co/dE15NdPrAi
+- `1904481045464158308` | 2025-03-25 18:30:39 GMT+8 | reply | https://x.com/iiiinvest/status/1904481045464158308 | @joely7758521 Thx https://t.co/U5pIVs4GgH
+- `1904539505442603246` | 2025-03-25 22:22:57 GMT+8 | original | https://x.com/iiiinvest/status/1904539505442603246 | 盯盘一小时，今晚无碍，睡觉。
+- `1905619153178026286` | 2025-03-28 21:53:05 GMT+8 | original | https://x.com/iiiinvest/status/1905619153178026286 | Tesla modelY regains the top 1 in weekly sales in China. https://t.co/dorQKaWxPM
+- `1906154748937679044` | 2025-03-30 09:21:21 GMT+8 | original | https://x.com/iiiinvest/status/1906154748937679044 | 事件越多，波动越大，对电鱼越有优势。enjoy
+- `1906340515160981576` | 2025-03-30 21:39:31 GMT+8 | quote | https://x.com/iiiinvest/status/1906340515160981576 | 事实是财富从来不是线性增长的，要投资赚钱就得承受波动。 https://t.co/nYxtbOBRuC
+- `1906623503362580932` | 2025-03-31 16:24:01 GMT+8 | original | https://x.com/iiiinvest/status/1906623503362580932 | 盘前250加仓了特斯拉，交给时间 https://t.co/EJUOAfF3M6
+- `1922410672870006820` | 2025-05-14 05:56:35 GMT+8 | original | https://x.com/iiiinvest/status/1922410672870006820 | 5.14盈亏 https://t.co/V48391dd5Y
+- `1922418608409383274` | 2025-05-14 06:28:07 GMT+8 | repost | https://x.com/iiiinvest/status/1922418608409383274 | RT @Tesla: With the Robotaxi network, your Tesla will be able to earn money while you’re not using it, essentially paying for itself
+- `1922419067786342702` | 2025-05-14 06:29:57 GMT+8 | quote | https://x.com/iiiinvest/status/1922419067786342702 | 当购买一个产品变成赚钱，那么所有人都将买入这个产品，钱不够的也会凑钱买入，只需要收入大于贷款支出。 https://t.co/70AzOslLG0
+- `1922419822505218321` | 2025-05-14 06:32:57 GMT+8 | reply | https://x.com/iiiinvest/status/1922419822505218321 | @shufen46250836 姐姐不光漂亮，还懂这么多
+- `1922450269163430227` | 2025-05-14 08:33:56 GMT+8 | original | https://x.com/iiiinvest/status/1922450269163430227 | 很多人还没意识到，特斯拉已经走过最难的一段，到前高也很快的。
+- `1922476768943866319` | 2025-05-14 10:19:14 GMT+8 | quote | https://x.com/iiiinvest/status/1922476768943866319 | 你现在要做的就是给所有空头点赞，并鼓励他，他们辛苦了。 https://t.co/mdGOHoHnT9
+- `1922477358054793487` | 2025-05-14 10:21:34 GMT+8 | reply | https://x.com/iiiinvest/status/1922477358054793487 | @joely7758521 事后发现，懂王不是傻子，他给了我们普通人上车的机会。
+- `1922493808073187591` | 2025-05-14 11:26:56 GMT+8 | reply | https://x.com/iiiinvest/status/1922493808073187591 | @maitian99 收到，哥哥分析要听，交易要忽略。
+- `1922494579074281860` | 2025-05-14 11:30:00 GMT+8 | reply | https://x.com/iiiinvest/status/1922494579074281860 | @FLS_OTC 等你上车我就撤
+- `1922656675372167441` | 2025-05-14 22:14:07 GMT+8 | quote | https://x.com/iiiinvest/status/1922656675372167441 | 别宣传了，慢点涨 https://t.co/Rzi7680MaW
+- `1923017590160412855` | 2025-05-15 22:08:16 GMT+8 | original | https://x.com/iiiinvest/status/1923017590160412855 | 比特币这波走在了美股前面，可以说是流动性的先行指标了，煤矿里的金丝雀。
+- `1923299445535367242` | 2025-05-16 16:48:15 GMT+8 | original | https://x.com/iiiinvest/status/1923299445535367242 | 降息和新高都是危险的信号，作为重仓的我，希望的是慢涨！
+- `1923299554994098253` | 2025-05-16 16:48:41 GMT+8 | reply | https://x.com/iiiinvest/status/1923299554994098253 | @tj_research 降息和新高都是危险信号
+- `1923398161302798847` | 2025-05-16 23:20:31 GMT+8 | original | https://x.com/iiiinvest/status/1923398161302798847 | 很多人还没意识到特斯拉自动驾驶的威力，这是特斯拉的第一个AI应用，且是在现实应用场景，当普及后，其他场景的AI应用也将势如破竹，比如机器人。
+- `1923399131638247793` | 2025-05-16 23:24:22 GMT+8 | original | https://x.com/iiiinvest/status/1923399131638247793 | 再说两句，未来的特斯拉受众不是现在买车的这几十几百万用户。
+- `1923495529490809129` | 2025-05-17 05:47:25 GMT+8 | original | https://x.com/iiiinvest/status/1923495529490809129 | @maitian99 看多做空，这。。。
+- `1924129280646410517` | 2025-05-18 23:45:43 GMT+8 | reply | https://x.com/iiiinvest/status/1924129280646410517 | @joely7758521 远离负面信息源
+- `1924618175897055251` | 2025-05-20 08:08:25 GMT+8 | original | https://x.com/iiiinvest/status/1924618175897055251 | 昨晚这种行情，会让不少空头崩溃。利空压不下去，那还能涨。
+- `1924853006031585667` | 2025-05-20 23:41:33 GMT+8 | original | https://x.com/iiiinvest/status/1924853006031585667 | 稳住，我已经制定好卖出计划，按时执行
+- `1925195786893361322` | 2025-05-21 22:23:38 GMT+8 | original | https://x.com/iiiinvest/status/1925195786893361322 | 就是要这种推土机行情，让空头抱有幻想，才能逐步粉碎。 https://t.co/5G1idNSUW7
+- `1930043889941131513` | 2025-06-04 07:28:16 GMT+8 | original | https://x.com/iiiinvest/status/1930043889941131513 | 我的收益排行，特斯拉帮我赚了80+ https://t.co/LzQFTbgyZO
+- `1930873580709175752` | 2025-06-06 14:25:10 GMT+8 | reply | https://x.com/iiiinvest/status/1930873580709175752 | @joely7758521 让子弹飞一会
+- `1932084222413705306` | 2025-06-09 22:35:49 GMT+8 | original | https://x.com/iiiinvest/status/1932084222413705306 | 2个月50%，国内发不出去 https://t.co/Hofdje64mx
+- `1936947635900006425` | 2025-06-23 08:41:17 GMT+8 | repost | https://x.com/iiiinvest/status/1936947635900006425 | RT @elonmusk: Super congratulations to the @teslasi software &amp; chip design teams on a successful @Robotaxi launch!!
+- `1937157309060522176` | 2025-06-23 22:34:27 GMT+8 | reply | https://x.com/iiiinvest/status/1937157309060522176 | @joely7758521 哈哈，哈哈，开心，哈哈😃
+- `1940671369567694928` | 2025-07-03 15:18:05 GMT+8 | reply | https://x.com/iiiinvest/status/1940671369567694928 | @ohyishi 我的朋友，看到你这么全，我竟然没那么难受了
+- `1941508569469419667` | 2025-07-05 22:44:49 GMT+8 | original | https://x.com/iiiinvest/status/1941508569469419667 | 关于投资港美股收税这事，传的越来越神乎。我就身边案例以及实际咨询律师（全国接此类案件最多），汇总一些重点：
+- `1941508574070571230` | 2025-07-05 22:44:50 GMT+8 | reply | https://x.com/iiiinvest/status/1941508574070571230 | 2、当前处于自查阶段，也就是自己申报，申报多少你来定，核心是你得让税务人员认为你得证据链完整。一旦接到自查信息，态度就是诚恳积极主动，给出涉税金额、证据链和所要信息，人家也要完成任务。
+- `1941508599982981303` | 2025-07-05 22:44:56 GMT+8 | reply | https://x.com/iiiinvest/status/1941508599982981303 | 3、自查会不会变为稽查？你以为税务人员懂这个？只不过上面给的任务人家得配合。稽查的成本谁承担，判断依据是什么，他有那个能力或者意愿做这个吗？
+- `1941508604026409436` | 2025-07-05 22:44:57 GMT+8 | reply | https://x.com/iiiinvest/status/1941508604026409436 | 4、自查范围现在是5年，也意味着你目前自查如果通过，不是坏事是好事，相当于你前5年税务结清了（甭管金额对不对）。那会不会反查，对不起，那也得上面下任务，基层没能力和意愿，核心还是成本。
+- `1941508608526778705` | 2025-07-05 22:44:58 GMT+8 | reply | https://x.com/iiiinvest/status/1941508608526778705 | 5、每个征税计算周期为1年（6月底为上一年周期），包括了1年内的交易税和分红两部分，纳税金额＝盈利-亏损，那些说亏钱还纳税的是早期，经过发展全国达成默契是算1年内的盈亏，税率20%
+- `1941508612914114891` | 2025-07-05 22:44:59 GMT+8 | reply | https://x.com/iiiinvest/status/1941508612914114891 | 7、3000个搞香港身份和税务，彻底解决，香港不收投资税。
+- `1942468126555398266` | 2025-07-08 14:17:45 GMT+8 | repost | https://x.com/iiiinvest/status/1942468126555398266 | RT @traders18: 现在市场没有大涨基础，逻辑也非常清晰：
+- `1942468169773506602` | 2025-07-08 14:17:55 GMT+8 | quote | https://x.com/iiiinvest/status/1942468169773506602 | 震荡 https://t.co/svGBbvHbks
+- `1943822090010079482` | 2025-07-12 07:57:55 GMT+8 | reply | https://x.com/iiiinvest/status/1943822090010079482 | @joely7758521 哥，投机倒把也得学习
+- `1943833696387445070` | 2025-07-12 08:44:02 GMT+8 | original | https://x.com/iiiinvest/status/1943833696387445070 | 当大部分找不到比特币上涨的原因，那说明比特币又要涨了。
+- `1945159324742918468` | 2025-07-16 00:31:36 GMT+8 | original | https://x.com/iiiinvest/status/1945159324742918468 | 回头看，川普确实给了今年最好的买入机会。
+- `1945728394827858000` | 2025-07-17 14:12:53 GMT+8 | reply | https://x.com/iiiinvest/status/1945728394827858000 | @joely7758521 买了可能就想卖了
+- `1962382120334324195` | 2025-09-01 13:08:51 GMT+8 | original | https://x.com/iiiinvest/status/1962382120334324195 | @hotbabyrebao 加下关注，不然发不了私信呢，a8
+- `1962540443704713710` | 2025-09-01 23:37:58 GMT+8 | repost | https://x.com/iiiinvest/status/1962540443704713710 | RT @DtDt666: 搞钱必看！美股/币圈的十大神级金融纪录片🔥
+- `1963960850277916899` | 2025-09-05 21:42:09 GMT+8 | original | https://x.com/iiiinvest/status/1963960850277916899 | 段永平说要做正确的事，而不是把事做正确。放在投资上，那些是正确的事呢？很多时候显而易见，比如比特币，特斯拉。都有美好的未来。
+- `1964110638328009097` | 2025-09-06 07:37:22 GMT+8 | original | https://x.com/iiiinvest/status/1964110638328009097 | 骚操作从170多干回到150，现在回到160了 https://t.co/19EPwbrSBw
+- `1964991374056735012` | 2025-09-08 17:57:06 GMT+8 | original | https://x.com/iiiinvest/status/1964991374056735012 | 特斯拉压不住了
+- `1965710127862014155` | 2025-09-10 17:33:10 GMT+8 | quote | https://x.com/iiiinvest/status/1965710127862014155 | 科技还改变持仓。。。 https://t.co/igBYNTiuGr
+- `2008549346053419413` | 2026-01-06 22:40:55 GMT+8 | original | https://x.com/iiiinvest/status/2008549346053419413 | MD，前几天亏了个大的，下午看群里说roit和roix价偏离，买了不少准备套个利，没想到是因为分红，但因为涨跌板限制，最后还是亏了10wu+，真是年年不同当，当当不一样[苦涩]
+- `2008551351446630578` | 2026-01-06 22:48:53 GMT+8 | original | https://x.com/iiiinvest/status/2008551351446630578 | 币股最近是不能碰了，涨起来谨小慎微，叠起来大刀阔斧。
+- `2009651254801424442` | 2026-01-09 23:39:31 GMT+8 | original | https://x.com/iiiinvest/status/2009651254801424442 | 2026，有一个标的一定要参与，rklb
+- `2009899232313151743` | 2026-01-10 16:04:53 GMT+8 | original | https://x.com/iiiinvest/status/2009899232313151743 | 人和人的智商差距不大，核心还是选择不同，选择的行业，环境，人事物，造就了现在的你我。
+- `2010012898672947530` | 2026-01-10 23:36:33 GMT+8 | original | https://x.com/iiiinvest/status/2010012898672947530 | 每年过年公司就会搞各种商务年会述职啥的，套路一套一套的，各个站在台上说着振奋人心的话，回到各地大部分还是原地踏步，直到下一年再来一遍。
+- `2011109255450149312` | 2026-01-14 00:13:05 GMT+8 | original | https://x.com/iiiinvest/status/2011109255450149312 | 大饼不跟跌了
+- `2014004797616030196` | 2026-01-21 23:58:56 GMT+8 | repost | https://x.com/iiiinvest/status/2014004797616030196 | RT @turingou: 今日 vibe 感想：vibe coding 对我来说最大的优势不仅是好玩，写的快，最重要是把商业+代码紧密结合到一起，今天我用 ceo skill 分析本地项目，动态估算成本和利润边际，直接让 cc 根据用户付费分布估算了 ROI 为正的定价，它甚…
+- `2014004815307931741` | 2026-01-21 23:59:01 GMT+8 | repost | https://x.com/iiiinvest/status/2014004815307931741 | RT @bitfish: 原来目前创业最大的成本是域名
+- `2014120926343021000` | 2026-01-22 07:40:24 GMT+8 | repost | https://x.com/iiiinvest/status/2014120926343021000 | RT @Khazix0918: https://t.co/73qGV46eQH
+- `2014587713622876497` | 2026-01-23 14:35:14 GMT+8 | original | https://x.com/iiiinvest/status/2014587713622876497 | 找到你相信的，并彻底执行！无论是现实的人还是网上大V还是一头猪，只要他拿到了结果，你想要这个结果，那么就相信他复制他，直到你拿到结果或者验证失败，再去寻找下一个相信。
+- `2014590485369913840` | 2026-01-23 14:46:15 GMT+8 | original | https://x.com/iiiinvest/status/2014590485369913840 | 我近3年的收益率，23年达到200%多，24年50%，25年春节还没到但不到30%收益，其实是自己成长慢下来了，或者说市场在进化，自己的成长速度没有超过市场进化速度，导致超额收益变低了。
+- `2014590509042565340` | 2026-01-23 14:46:21 GMT+8 | original | https://x.com/iiiinvest/status/2014590509042565340 | 没有一成不变的公司，也就意味着没有一成不变的策略，最终还是回归到自身的成长上，去看书，多和人交流，多经历，每一次每一步都算数。
+- `2015618379097506299` | 2026-01-26 10:50:44 GMT+8 | original | https://x.com/iiiinvest/status/2015618379097506299 | 川普让世界乱成一锅粥，相较之下，黄金的确定性，以及国内的环境确定性，成了避险需求的释放口，这么看，只要川普继续，那么黄金和大A的确定性还是有的。
+- `2015641862934335745` | 2026-01-26 12:24:03 GMT+8 | original | https://x.com/iiiinvest/status/2015641862934335745 | 黄金的周期性很强，且每个周期的跨度都比较大， 75年到80年涨5年，80年到2000年跌20年，2000年到10年涨10年，10年到15年跌5年，15年到现在又涨了10年，那么接下来10年大概率还是下跌的。
+- `2015641899986768254` | 2026-01-26 12:24:12 GMT+8 | original | https://x.com/iiiinvest/status/2015641899986768254 | 从现在黄金的走势看，短期太强，不适合做空的，但应该加入选项，等顶部磨个1年时间可能就是机会了
+- `2015641993314292109` | 2026-01-26 12:24:34 GMT+8 | original | https://x.com/iiiinvest/status/2015641993314292109 | 现在已经26年了，不能还把自己留在25年。
+- `2015642428590751899` | 2026-01-26 12:26:18 GMT+8 | original | https://x.com/iiiinvest/status/2015642428590751899 | 顶部的特征其实挺明显，就是波动率。上下都是猛窜，背后是换手率的提高，都是短期博弈资金。但博弈资金都是慢慢退出的，所以紧盯波动率就行。
+- `2016043869071450532` | 2026-01-27 15:01:29 GMT+8 | original | https://x.com/iiiinvest/status/2016043869071450532 | 过了35，越来越感受到的是体力＞精力＞动力，很多时候年轻时候想干的事，啪啪几下就搞定，等到现在这年龄，想想都好但就不动，俗称懒了，雅称躺平。
+- `2016047767110746139` | 2026-01-27 15:16:58 GMT+8 | original | https://x.com/iiiinvest/status/2016047767110746139 | 现代社会，好像越来越不强调“身体强壮”的重要性，实则不对，只是将其重要性掩藏起来了，真正有经验的老登，都知道体力的重要性，也就是身高、强壮、不体弱是正确和应该追求的，只有不懂事的小年轻才喜欢白瘦弱，贾玲和林黛玉，永远要选贾玲。
+- `2016048036015964653` | 2026-01-27 15:18:02 GMT+8 | reply | https://x.com/iiiinvest/status/2016048036015964653 | @shufen46250836 我的偶像淑芬
+- `2016057717631418512` | 2026-01-27 15:56:31 GMT+8 | original | https://x.com/iiiinvest/status/2016057717631418512 | 冒险一试，空一手白银。
+- `2016170942075175384` | 2026-01-27 23:26:25 GMT+8 | original | https://x.com/iiiinvest/status/2016170942075175384 | 把关注清理了一下，让自己时间更值钱一些。
+- `2016177190577307877` | 2026-01-27 23:51:15 GMT+8 | original | https://x.com/iiiinvest/status/2016177190577307877 | 段永平说，他从巴菲特身上学到的东西，一句话总结就是“买股票就是买公司”。从这个角度看，价值流派，最要锻炼的是经营能力，你都不知道公司怎么经营的，怎么筛选出价值公司呢？
+- `2016178013986230458` | 2026-01-27 23:54:31 GMT+8 | original | https://x.com/iiiinvest/status/2016178013986230458 | 现在投资的流派，或者叫分类，大致有几类：1、价值类，如苹果茅台；2、叙事类，如特斯拉；3、成长类，如英伟达。每一类各领风骚数年，风水轮流转，最终还是要找到合适自己的，天天上班做牛马比较适合价值类，没那么累。
+- `2016179170934694092` | 2026-01-27 23:59:07 GMT+8 | original | https://x.com/iiiinvest/status/2016179170934694092 | 我每年投资上的学费都是几百万的，大家还是重视下，哈哈
+- `2016179745705361632` | 2026-01-28 00:01:24 GMT+8 | original | https://x.com/iiiinvest/status/2016179745705361632 | 纳指又快新高了，如果这段时间账户没新高，那么要反思自己的择股能力了，因为我已经在反思了。
+- `2016220112412672145` | 2026-01-28 02:41:49 GMT+8 | original | https://x.com/iiiinvest/status/2016220112412672145 | 白银现在期货交易额远超现货，粗估了下，现货100亿对应了期货200亿，导致期货主力溢价10%，另外就是目前看空的也不敢做空了，导致多头没有对手盘产生高溢价，形成轧空上涨，但一旦反转，那么所有多头被迫平仓就是会反向轧多，形成另一个反转逻辑，即跌跌不休。
+- `2016220432018571707` | 2026-01-28 02:43:05 GMT+8 | original | https://x.com/iiiinvest/status/2016220432018571707 | The current futures trading volume of silver is far higher than that of spot. Roughly estimated, 10 billion in spot corresponds to 20 billion in futures, resulting in a 10% premium
+- `2016220522452025372` | 2026-01-28 02:43:26 GMT+8 | original | https://x.com/iiiinvest/status/2016220522452025372 | In addition, the current bearish ones dare not go short, resulting in a high premium for the bulls not having opponents, forming a short roll rise. However, once reversed, all bull
+- `2016326069180366985` | 2026-01-28 09:42:51 GMT+8 | original | https://x.com/iiiinvest/status/2016326069180366985 | 感觉全球的投机资金都在白银，哈哈。
+- `2016327017722208683` | 2026-01-28 09:46:37 GMT+8 | original | https://x.com/iiiinvest/status/2016327017722208683 | 除了看空白银，我看看多现在8万多的大饼。
+- `2016327033421435201` | 2026-01-28 09:46:40 GMT+8 | original | https://x.com/iiiinvest/status/2016327033421435201 | 大饼什么时候涨呢，我个人认为要看场外资金，比如白银崩盘的时候，可能会有资金选择大饼，前段时间有些端倪了。
+- `2016331626159210705` | 2026-01-28 10:04:55 GMT+8 | original | https://x.com/iiiinvest/status/2016331626159210705 | 黄金新高，白银没跟，为什么？没资金推动了，或者资金犹豫了，所谓一而再再而三，行了，别演了，下去吧。
+- `2016332165609619682` | 2026-01-28 10:07:04 GMT+8 | reply | https://x.com/iiiinvest/status/2016332165609619682 | @xtony1314 理发师也不能这么说，多少不是个意思吗
+- `2016332329552363570` | 2026-01-28 10:07:43 GMT+8 | reply | https://x.com/iiiinvest/status/2016332329552363570 | @xtony1314 场内根本没定价能力，或者趋势能力，就这样了，等场外人
+- `2016332531793359210` | 2026-01-28 10:08:31 GMT+8 | reply | https://x.com/iiiinvest/status/2016332531793359210 | @xtony1314 我就看多大饼，看空白银，干就完了
+- `2016334710272885099` | 2026-01-28 10:17:11 GMT+8 | reply | https://x.com/iiiinvest/status/2016334710272885099 | @xtony1314 金银永远涨，你信吗？？？张嘴就说误导群众，拉出去~
+- `2016335447589621896` | 2026-01-28 10:20:07 GMT+8 | original | https://x.com/iiiinvest/status/2016335447589621896 | 易理华，也是个傻屌。早年他还在李笑来哪里的时候，我是他们LP，约着聊过，当时他说了一句“上交所”他开的，妈的唬得我一愣一愣的。
+- `2016346880121438297` | 2026-01-28 11:05:32 GMT+8 | reply | https://x.com/iiiinvest/status/2016346880121438297 | @xtony1314 理发师赚钱像呼吸
+- `2016351909956010293` | 2026-01-28 11:25:31 GMT+8 | reply | https://x.com/iiiinvest/status/2016351909956010293 | @xtony1314 这话中肯
+- `2016353746289361010` | 2026-01-28 11:32:49 GMT+8 | reply | https://x.com/iiiinvest/status/2016353746289361010 | @TheMarketMemo 现在是期货主导，要看期货
+- `2016355396878008813` | 2026-01-28 11:39:23 GMT+8 | reply | https://x.com/iiiinvest/status/2016355396878008813 | @thankUcrypto 逻辑错了，是币股不跟大饼，不是反过来
+- `2016355770460508296` | 2026-01-28 11:40:52 GMT+8 | original | https://x.com/iiiinvest/status/2016355770460508296 | AI这东西，目前大部分人还是当个搜索用，对现实改变还没那么大，不用过渡焦虑，该干嘛干嘛，未来还是要人送外卖。
+- `2016357205084405953` | 2026-01-28 11:46:34 GMT+8 | reply | https://x.com/iiiinvest/status/2016357205084405953 | @LuYao_Trader 人当不赚钱的时候就开始感秋伤悲了😂
+- `2016357930103419038` | 2026-01-28 11:49:27 GMT+8 | original | https://x.com/iiiinvest/status/2016357930103419038 | 前几年给我妈买了个金镯子，40多克吧，之前就2万，现在涨到了6万。昨天打电话给我妈说，别带着天天晃，小心被人拽了去。
+- `2016358590190387664` | 2026-01-28 11:52:04 GMT+8 | reply | https://x.com/iiiinvest/status/2016358590190387664 | @xtony1314 你算是活明白了。
+- `2016362882284556448` | 2026-01-28 12:09:08 GMT+8 | original | https://x.com/iiiinvest/status/2016362882284556448 | 如果选择价值投资，其实抄作业是做好的方式，因为价值投资的标的就那些，另外你很难比的过段永平这类创办过不止一家企业的投资人。而价值投资核心就是看懂公司。
+- `2016363035779334658` | 2026-01-28 12:09:44 GMT+8 | original | https://x.com/iiiinvest/status/2016363035779334658 | 价值投资尴尬的是不会产生暴利，本小利小利更少，价值投资的粉丝也是资金量不大的，这时候看着手里那三瓜两枣，每年复利个10%20%，能对生活有什么根本性转变呢。
+- `2016685127808798853` | 2026-01-29 09:29:37 GMT+8 | original | https://x.com/iiiinvest/status/2016685127808798853 | 黄金从5000到5500，涨了10%，白银跟随性的从110-118，没有有效新高，目前在115磨蹭，量也没了。
+- `2016685141037605166` | 2026-01-29 09:29:40 GMT+8 | original | https://x.com/iiiinvest/status/2016685141037605166 | 但有一说一，还是之前说的，黄金白银这种大周期标的，见顶不是一天两天，而是一年两年的确认，所以，空也要控制好止损和止盈，跌也不会特别流畅的直接就回姥姥家。
+- `2016685612179571088` | 2026-01-29 09:31:32 GMT+8 | reply | https://x.com/iiiinvest/status/2016685612179571088 | @xtony1314 赚到了，但没你赚的多
+- `2016689815941697840` | 2026-01-29 09:48:15 GMT+8 | original | https://x.com/iiiinvest/status/2016689815941697840 | 黄金这波是因为川对伊的态度导致的上涨，但我认为说出来的威胁，一般就是口头警告。
+- `2016694401855357376` | 2026-01-29 10:06:28 GMT+8 | reply | https://x.com/iiiinvest/status/2016694401855357376 | @wufantouzi 都当镰刀，那就没韭菜了
+- `2016695909271425170` | 2026-01-29 10:12:27 GMT+8 | reply | https://x.com/iiiinvest/status/2016695909271425170 | @xtony1314 你吊大你说了算
+- `2016727965598699828` | 2026-01-29 12:19:50 GMT+8 | reply | https://x.com/iiiinvest/status/2016727965598699828 | @xtony1314 满仓U被割
+- `2016763256833265696` | 2026-01-29 14:40:04 GMT+8 | original | https://x.com/iiiinvest/status/2016763256833265696 | 现在的大饼，是小弟，是被川大爷驯服的小狗，但看大饼这十几年的发展，怎么打压都不死的劲头，有理由相信，它会挣脱束缚，再次插上翅膀，展翅飞翔。
+- `2016764056460546259` | 2026-01-29 14:43:15 GMT+8 | original | https://x.com/iiiinvest/status/2016764056460546259 | 真的懂茅台的人不会很多，因为大部分人不懂商业模式，只认字，不懂背后的逻辑和发展。
+- `2017065550237843887` | 2026-01-30 10:41:17 GMT+8 | reply | https://x.com/iiiinvest/status/2017065550237843887 | @xtony1314 虽然你长得帅，但也不能这么瞎说。你现在去金店看看还有买的吗？价格不稳谁会买？
+- `2017077799346196515` | 2026-01-30 11:29:57 GMT+8 | original | https://x.com/iiiinvest/status/2017077799346196515 | 所有的新闻、观点，都不及盘面反应出来的量与价，数据是客观的，不客观的是人。
+- `2017078743236563300` | 2026-01-30 11:33:42 GMT+8 | original | https://x.com/iiiinvest/status/2017078743236563300 | 贵金属这波行情，最搞笑的是铜，没上车金银的，都买了铜，以为有人来抬轿子，没想到吧，上涨的时候每份，下跌的时候一个不能少。
+- `2017080779919282414` | 2026-01-30 11:41:48 GMT+8 | original | https://x.com/iiiinvest/status/2017080779919282414 | 大饼，我从8.5已经开始币本位做多了，越跌越买，现在币本位差不多1倍。
+- `2017083307050356873` | 2026-01-30 11:51:50 GMT+8 | original | https://x.com/iiiinvest/status/2017083307050356873 | 今年找准节奏做空白银就可以，但节奏要踏准，不要想着一次跌到位，肯定是一步三回头。
+- `2017086581447020803` | 2026-01-30 12:04:51 GMT+8 | original | https://x.com/iiiinvest/status/2017086581447020803 | 期货高波动下还是不适合，昨晚用的ETF和期权。做空ETF+卖call的方式。
+- `2017102224271523874` | 2026-01-30 13:07:00 GMT+8 | reply | https://x.com/iiiinvest/status/2017102224271523874 | @btcpiggy @binancezh 兄弟是在做空吧
+- `2017106381602762920` | 2026-01-30 13:23:32 GMT+8 | original | https://x.com/iiiinvest/status/2017106381602762920 | 什么是战略，战略是做空白银；
+- `2017106409494892901` | 2026-01-30 13:23:38 GMT+8 | original | https://x.com/iiiinvest/status/2017106409494892901 | 什么是想象，想象是白银过去几天90度上涨，所以还能拉一倍，继续90度上涨。
+- `2017106439375135215` | 2026-01-30 13:23:45 GMT+8 | original | https://x.com/iiiinvest/status/2017106439375135215 | 什么是目的，目的是赚钱；
+- `2017107354861654052` | 2026-01-30 13:27:24 GMT+8 | original | https://x.com/iiiinvest/status/2017107354861654052 | 理发师tony做空可能有点慌，币安这次相当于无限回购，下一个微策略。这次让你回去继续理发！
+- `2017108665929781512` | 2026-01-30 13:32:36 GMT+8 | original | https://x.com/iiiinvest/status/2017108665929781512 | 一群大V吊毛，这边评价完300亿美金基金经理木头姐，那边喷币圈首富CZ，就剩嘴毛了。
+- `2017111043626156300` | 2026-01-30 13:42:03 GMT+8 | original | https://x.com/iiiinvest/status/2017111043626156300 | 给我死死盯紧白银，今年为数不多的机会之一。
+- `2017164314625671383` | 2026-01-30 17:13:44 GMT+8 | original | https://x.com/iiiinvest/status/2017164314625671383 | 这波白银行情，最近几天喊不能做空，做空风险很大的，看似正确实际上大概率兜里没几个钱，正确的话都会讲，核心得赚钱啊宝子
+- `2017164646827065660` | 2026-01-30 17:15:03 GMT+8 | reply | https://x.com/iiiinvest/status/2017164646827065660 | @xtony1314 你确实牛逼，但也可怜。
+- `2017166007555834174` | 2026-01-30 17:20:27 GMT+8 | original | https://x.com/iiiinvest/status/2017166007555834174 | 所有币圈的，让我们一起抵制@xtony1314，这傻屌虽然有点钱并且会赚钱，但确实在破坏这个圈子，做空就做空，天天喊做空，其实对圈子并不是好事。
+- `2017207397757133091` | 2026-01-30 20:04:56 GMT+8 | reply | https://x.com/iiiinvest/status/2017207397757133091 | @xtony1314 叼毛
+- `2017210133038940282` | 2026-01-30 20:15:48 GMT+8 | original | https://x.com/iiiinvest/status/2017210133038940282 | 很好，都看7万多。真到了随他们愿，一波没仓位的瞎几把乱喊。
+- `2017245668474274055` | 2026-01-30 22:37:00 GMT+8 | original | https://x.com/iiiinvest/status/2017245668474274055 | 期权和etf都平掉了，这波收益一般但满意。二十多个 https://t.co/JE9OCCC4IT
+- `2017249959020835276` | 2026-01-30 22:54:03 GMT+8 | original | https://x.com/iiiinvest/status/2017249959020835276 | 开始反抽了，这波盘前波动大是因为期货的轧仓，也加速了行情，开盘后的ETF反而没有这个效果，加上资金效应，反抽很正常。
+- `2017252039970177057` | 2026-01-30 23:02:19 GMT+8 | reply | https://x.com/iiiinvest/status/2017252039970177057 | @sszcw 神棍说的是你吗？
+- `2017257940160487531` | 2026-01-30 23:25:46 GMT+8 | original | https://x.com/iiiinvest/status/2017257940160487531 | 来个吊大的，给我说在特斯拉啥情况
+- `2017258302074454264` | 2026-01-30 23:27:12 GMT+8 | original | https://x.com/iiiinvest/status/2017258302074454264 | 短时间可以从白银挪开点，都给我去看下特斯拉，财报差的一批，然后还涨了，嗯，有那味了
+- `2017267896679023080` | 2026-01-31 00:05:20 GMT+8 | original | https://x.com/iiiinvest/status/2017267896679023080 | 从盘面看，大家好像接受了特斯拉业绩很差这个事实，只看未来？那么未来好像还蛮有想象力，那么现在唯一要关注的就是大盘有没有趋势性风险，如果没有，现在的特斯拉就是机会了。
+- `2017439083140952342` | 2026-01-31 11:25:34 GMT+8 | original | https://x.com/iiiinvest/status/2017439083140952342 | 希望白银争点气，再给我一次空它的机会。
+- `2017456331486318871` | 2026-01-31 12:34:06 GMT+8 | original | https://x.com/iiiinvest/status/2017456331486318871 | 纯主观判断下美股大盘：
+- `2017456358606704869` | 2026-01-31 12:34:13 GMT+8 | reply | https://x.com/iiiinvest/status/2017456358606704869 | 3、从量能上，放到季度看，最近3个季度是历史最高的交易量，基本维持在一个水平，但最后一个季度，也就是当前季度涨幅仅2%，也是为什么大家体感不好的原因，因为交易量（参与度）在，但都没赚钱，相较于前两个季度的20%，10%的收益，一方面是收益降低，最重要代表分歧加大了。
+- `2017456412872610042` | 2026-01-31 12:34:26 GMT+8 | reply | https://x.com/iiiinvest/status/2017456412872610042 | 4、从牛市特征上看，大盘并没有出现大牛市加速赶顶的走势，这个相对是比较好的，也就是没有情绪性共识牛，大家还在分歧（比如现在的AI泡沫论），就有概率继续推动上涨；
+- `2017456456082329744` | 2026-01-31 12:34:36 GMT+8 | reply | https://x.com/iiiinvest/status/2017456456082329744 | 5、从指数编制上看，现在的美股是一批优秀公司优胜劣汰后的结果，也就是代表了最先进的生产力，从这个角度看，短期几年内甚至十几年内不改变大美丽的发展逻辑，那么大熊市的概率是很低的；
+- `2017456485136236948` | 2026-01-31 12:34:43 GMT+8 | reply | https://x.com/iiiinvest/status/2017456485136236948 | 6、大盘的下跌要么是人为的，比如去年的关税。要么是小趋势性回调，比如22年跌了一年。如果是人为的短期20%基本就是极限了，如果是趋势性的，这种就比较磨人了；
+- `2017456512910954513` | 2026-01-31 12:34:49 GMT+8 | reply | https://x.com/iiiinvest/status/2017456512910954513 | 7、大美丽最近确实不稳定，投资最怕的就是不确定性，包括了现在的各国宏观，也包括了最近刚公布的联储主席施政方案；
+- `2017456552874283412` | 2026-01-31 12:34:59 GMT+8 | reply | https://x.com/iiiinvest/status/2017456552874283412 | 8、结论，大周期因为没出现情绪大牛，那么大熊市大幅下跌的概率是比较低的；人为的因素比如川大爷，大家也都接受了他朝令夕改的套路，也比较难复现；最后就是因为各种的不确定性，分歧加大导致的震荡，这种回调时间换空间，但幅度一般不会特别大。
+- `2017456699272269832` | 2026-01-31 12:35:34 GMT+8 | reply | https://x.com/iiiinvest/status/2017456699272269832 | 9、26年大概率是震荡的一年，跌了要敢买，如果下跌10%到20%之间，涨了要会卖。技术上不要梭哈，不要死拿，做好止盈止损。做好仓位管理，分批建仓减仓。要会选股，跌跌不休的远离，不会轮到它的。
+- `2018155872078512335` | 2026-02-02 10:53:50 GMT+8 | original | https://x.com/iiiinvest/status/2018155872078512335 | 今天开盘情绪上砸了一下，白银最低到了77，黄金更是创了新低4600，接下来怎么走？
+- `2018155939174699053` | 2026-02-02 10:54:06 GMT+8 | reply | https://x.com/iiiinvest/status/2018155939174699053 | 3、今晚开盘后大概率还要砸一下，然后等企稳。
+- `2018155978760540557` | 2026-02-02 10:54:15 GMT+8 | reply | https://x.com/iiiinvest/status/2018155978760540557 | 6、怎么操作呢？我感觉当下单纯的多空都不合适，随着开盘临近盘面可能还会下探，开盘后下跌到逐步企稳，周二反弹。
+- `2018169380287496610` | 2026-02-02 11:47:30 GMT+8 | original | https://x.com/iiiinvest/status/2018169380287496610 | 一年中赚钱的机会并不多的，白银次高点做空就是为数不多的确定性机会。
+- `2018323679189565753` | 2026-02-02 22:00:38 GMT+8 | reply | https://x.com/iiiinvest/status/2018323679189565753 | @Jackyi_ld 理解你，但不想成为你
+- `2018327686394069208` | 2026-02-02 22:16:33 GMT+8 | original | https://x.com/iiiinvest/status/2018327686394069208 | 知行合一，这波白银差不多赚了小10万U https://t.co/eFsn5jiFHZ
+- `2018524652294001104` | 2026-02-03 11:19:14 GMT+8 | reply | https://x.com/iiiinvest/status/2018524652294001104 | @xtony1314 你说的“震”有道理
+- `2018536729486234069` | 2026-02-03 12:07:13 GMT+8 | original | https://x.com/iiiinvest/status/2018536729486234069 | 突然有个收获，或者总结：
+- `2018536824898244891` | 2026-02-03 12:07:36 GMT+8 | reply | https://x.com/iiiinvest/status/2018536824898244891 | @Cryptobtcmiko 你是会花钱的
+- `2018537137877266473` | 2026-02-03 12:08:50 GMT+8 | reply | https://x.com/iiiinvest/status/2018537137877266473 | @UnicornBitcoin 收益和风控平衡的艺术。
+- `2018538590725456041` | 2026-02-03 12:14:37 GMT+8 | reply | https://x.com/iiiinvest/status/2018538590725456041 | @AirdropAlchemis 一问上班工资1000
+- `2018540070035484790` | 2026-02-03 12:20:30 GMT+8 | reply | https://x.com/iiiinvest/status/2018540070035484790 | @FeiyanXie 黄粱一梦
+- `2018541974526247106` | 2026-02-03 12:28:04 GMT+8 | reply | https://x.com/iiiinvest/status/2018541974526247106 | @LuYao_Trader 做空事业。。。大家都是来赚钱的，还套上感情了
+- `2018544483223367919` | 2026-02-03 12:38:02 GMT+8 | original | https://x.com/iiiinvest/status/2018544483223367919 | 白银最近赚麻了，暂且不表，说说大饼接下来的操作吧：
+- `2018544566564225470` | 2026-02-03 12:38:22 GMT+8 | reply | https://x.com/iiiinvest/status/2018544566564225470 | 3、这波回调，最低点在7.5左右，是从9.7一口气没怎么停下来的，根据金银及纳指昨晚大饼也探了新低，属于情绪+基本面的共振；
+- `2018544694125535259` | 2026-02-03 12:38:52 GMT+8 | reply | https://x.com/iiiinvest/status/2018544694125535259 | 6、所以看金银行情反弹行情，应该是判断这轮大饼能反弹到哪里；
+- `2018544724039336105` | 2026-02-03 12:38:59 GMT+8 | reply | https://x.com/iiiinvest/status/2018544724039336105 | 9、我个人认为看这波情绪领头羊银的反弹力度吧，第一位置看85，如果站稳85，向上还有空间，95和100这两个点，如果反弹很弱，比如磨1周，那么基本宣告反弹结束了；
+- `2018546778615021647` | 2026-02-03 12:47:09 GMT+8 | reply | https://x.com/iiiinvest/status/2018546778615021647 | @ahr999x 盲目的充值信仰，只会让信仰更廉价。认清现实是第一步。
+- `2018612842501738631` | 2026-02-03 17:09:40 GMT+8 | original | https://x.com/iiiinvest/status/2018612842501738631 | 大饼比想象中还要弱，今天金银反弹，大饼基本没跟。
+- `2018613646977634428` | 2026-02-03 17:12:52 GMT+8 | original | https://x.com/iiiinvest/status/2018613646977634428 | 操，都出来了还大饼大饼的，真得了被操妄想症了，自由想发啥发啥
+- `2018616050225660083` | 2026-02-03 17:22:25 GMT+8 | original | https://x.com/iiiinvest/status/2018616050225660083 | 这波白银从做空到做反弹，算上美股仓位，赚了20多万USD，舒服舒服😌，兄弟们一定要跟上反弹空的这一波。 https://t.co/yMtn73OKIa
+- `2018616225669304671` | 2026-02-03 17:23:06 GMT+8 | reply | https://x.com/iiiinvest/status/2018616225669304671 | @CryptoApprenti1 操作一样，这波赚了20万U
+- `2018697198259630458` | 2026-02-03 22:44:52 GMT+8 | reply | https://x.com/iiiinvest/status/2018697198259630458 | @Jackyi_ld 之前高波动优势也没了，今年难了
+- `2018697360663007244` | 2026-02-03 22:45:31 GMT+8 | reply | https://x.com/iiiinvest/status/2018697360663007244 | @Jackyi_ld respect，相信你所相信的。
+- `2018708781094309938` | 2026-02-03 23:30:53 GMT+8 | original | https://x.com/iiiinvest/status/2018708781094309938 | 比特币太弱了，跳水第一名，反弹比想象中弱的太多了，黄金白银已经反弹到相对风险区域了，我认为白银90以上，不适合继续拿反弹了，我现在是分批挂单出的节奏。
+- `2018709549562175727` | 2026-02-03 23:33:57 GMT+8 | reply | https://x.com/iiiinvest/status/2018709549562175727 | @yehuxinyu184337 真敢喊啊，这是反弹，先站上高位再说
+- `2018709823068524683` | 2026-02-03 23:35:02 GMT+8 | reply | https://x.com/iiiinvest/status/2018709823068524683 | @Guilin_Chen_ @Jackyi_ld 一个人代表一个行业的时代，也挺悲哀的。
+- `2018709927762465266` | 2026-02-03 23:35:27 GMT+8 | reply | https://x.com/iiiinvest/status/2018709927762465266 | @TheMarketMemo 反弹，出次高点，然后继续阴跌。
+- `2018711110128664754` | 2026-02-03 23:40:09 GMT+8 | original | https://x.com/iiiinvest/status/2018711110128664754 | 不知道易理华哥哥@Jackyi_ld 还记不记得我，当初你在硬币的时候，我是门的LP。当初你给我说上交所是你开的，唬得我一愣一愣的，直到后来才懂你的意思。
+- `2018711853820445154` | 2026-02-03 23:43:06 GMT+8 | reply | https://x.com/iiiinvest/status/2018711853820445154 | @JonyNian 多单都还有，比特币减了一些。
+- `2018711981188948436` | 2026-02-03 23:43:36 GMT+8 | reply | https://x.com/iiiinvest/status/2018711981188948436 | @YmkkRXloVtfST8P 实盘对分享者压力是无形的，不是好事。
+- `2018714783978013019` | 2026-02-03 23:54:45 GMT+8 | reply | https://x.com/iiiinvest/status/2018714783978013019 | @Joylou1209 大多数是吃瓜群众，包括我。。。放宽心
+- `2018715248493056283` | 2026-02-03 23:56:35 GMT+8 | reply | https://x.com/iiiinvest/status/2018715248493056283 | @DujunX 老杜，我是域链的投资人，目前域链怎么样了？
+- `2018715727029493896` | 2026-02-03 23:58:29 GMT+8 | original | https://x.com/iiiinvest/status/2018715727029493896 | 妈逼的，看到易理华、杜均这群人还在舞台中央蹦跶，就气不打一处来，可能时间确实是个杀猪刀，太多人离开这个市场了，当初我作为韭菜，是你们现在看到的所谓大人物的投资人，想杜均的域链，直接就没信了。
+- `2018718543617884629` | 2026-02-04 00:09:41 GMT+8 | reply | https://x.com/iiiinvest/status/2018718543617884629 | @big_hunter11 更应该同情那些他的投资人。。。
+- `2018806698799239520` | 2026-02-04 05:59:59 GMT+8 | reply | https://x.com/iiiinvest/status/2018806698799239520 | @ChandlerGuo 你是会讲话的
+- `2018866833374511382` | 2026-02-04 09:58:56 GMT+8 | quote | https://x.com/iiiinvest/status/2018866833374511382 | 结合美股、比特币、贵金属，说下接下来怎么操作：
+- `2018868696664744224` | 2026-02-04 10:06:20 GMT+8 | reply | https://x.com/iiiinvest/status/2018868696664744224 | @FengBlues 对的
+- `2018870394900635894` | 2026-02-04 10:13:05 GMT+8 | reply | https://x.com/iiiinvest/status/2018870394900635894 | @xtony1314 行了，专注赚钱吧😄
+- `2018871249930477920` | 2026-02-04 10:16:29 GMT+8 | reply | https://x.com/iiiinvest/status/2018871249930477920 | @hazenlee 核心还是比特币太弱了
+- `2018871465727369558` | 2026-02-04 10:17:20 GMT+8 | reply | https://x.com/iiiinvest/status/2018871465727369558 | @qinbafrank 总结：要回调了
+- `2018871873736712216` | 2026-02-04 10:18:58 GMT+8 | reply | https://x.com/iiiinvest/status/2018871873736712216 | @williamlab 有道理
+- `2018872143417852166` | 2026-02-04 10:20:02 GMT+8 | reply | https://x.com/iiiinvest/status/2018872143417852166 | @FLS_OTC 别操心几十亿的事了，想想自己兜里哪三瓜俩枣吧。。。
+- `2018872836224614501` | 2026-02-04 10:22:47 GMT+8 | reply | https://x.com/iiiinvest/status/2018872836224614501 | @traders18 也没你说的那么夸张，黄金从120跌到73，现在反弹到87，这叫啥韧劲
+- `2018873643464540198` | 2026-02-04 10:26:00 GMT+8 | reply | https://x.com/iiiinvest/status/2018873643464540198 | 兄弟们都点点赞，初来乍到。
+- `2018874063507292481` | 2026-02-04 10:27:40 GMT+8 | reply | https://x.com/iiiinvest/status/2018874063507292481 | @xiadadhaida 当初我也这么骗自己
+- `2018874618417909930` | 2026-02-04 10:29:52 GMT+8 | reply | https://x.com/iiiinvest/status/2018874618417909930 | @Balder13946731 手动撸就可以啊
+- `2018877695439028716` | 2026-02-04 10:42:06 GMT+8 | reply | https://x.com/iiiinvest/status/2018877695439028716 | @fxtrader 这波撸爽了
+- `2018879546695745765` | 2026-02-04 10:49:27 GMT+8 | original | https://x.com/iiiinvest/status/2018879546695745765 | 比特币就这几把行情，币安现货7.6万整，永续合约7.58万，资金费率竟然还是正的，多军真是苦，放在油锅正反面烤。@何一 @赵长鹏 产品该优化了
+- `2018898239857262682` | 2026-02-04 12:03:44 GMT+8 | reply | https://x.com/iiiinvest/status/2018898239857262682 | @Bitwux 还需要时间熬一熬
+- `2018911130228589005` | 2026-02-04 12:54:57 GMT+8 | reply | https://x.com/iiiinvest/status/2018911130228589005 | @Nuanran01 现在做趋势不合适
+- `2018911597708902669` | 2026-02-04 12:56:49 GMT+8 | reply | https://x.com/iiiinvest/status/2018911597708902669 | @hazenlee 哎，自己把自己骗了
+- `2018911909572231394` | 2026-02-04 12:58:03 GMT+8 | reply | https://x.com/iiiinvest/status/2018911909572231394 | @ohyishi 会的，那一天让他去赚钱，转手给你爆仓 https://t.co/WwjfcW9g1d
+- `2018917801541746903` | 2026-02-04 13:21:28 GMT+8 | original | https://x.com/iiiinvest/status/2018917801541746903 | 投机资金正在大量撤出白银，连反弹都不参与了，或者被消灭了，要降低反弹力度预期了。 https://t.co/gt6lClQnhc
+- `2018918349074534514` | 2026-02-04 13:23:38 GMT+8 | reply | https://x.com/iiiinvest/status/2018918349074534514 | @nininaby 差不多，这波跟爹不跟妈
+- `2018919173582422478` | 2026-02-04 13:26:55 GMT+8 | reply | https://x.com/iiiinvest/status/2018919173582422478 | @cloakmk 全网都在等他爆仓，˶⍤⃝˶꒳ᵒ꒳ᵎᵎᵎ
+- `2018922222564635107` | 2026-02-04 13:39:02 GMT+8 | reply | https://x.com/iiiinvest/status/2018922222564635107 | @islet0612 看黄金和美股信号
+- `2018946424705298594` | 2026-02-04 15:15:12 GMT+8 | reply | https://x.com/iiiinvest/status/2018946424705298594 | @Walden779 港股还是先不要碰了，等待美股下跌吧
+- `2018948213487898784` | 2026-02-04 15:22:18 GMT+8 | original | https://x.com/iiiinvest/status/2018948213487898784 | 白银的撸短结束了，今天又撸了1万多USD，接下来等美股和黄金打出发令枪。 https://t.co/Nu7xpQHR9A
+- `2018985272835469749` | 2026-02-04 17:49:34 GMT+8 | original | https://x.com/iiiinvest/status/2018985272835469749 | 自动化掉了，解放下双手。
+- `2019016958533042658` | 2026-02-04 19:55:29 GMT+8 | original | https://x.com/iiiinvest/status/2019016958533042658 | 比特币都卖了，可能还会反弹的，但更受不了可能的下跌。知行合一。
+- `2019017490811285756` | 2026-02-04 19:57:35 GMT+8 | reply | https://x.com/iiiinvest/status/2019017490811285756 | @FengBlues 嗯
+- `2019026947888861213` | 2026-02-04 20:35:10 GMT+8 | reply | https://x.com/iiiinvest/status/2019026947888861213 | @jiujinshan2022 疯了吧
+- `2019027862687547904` | 2026-02-04 20:38:48 GMT+8 | reply | https://x.com/iiiinvest/status/2019027862687547904 | @jesus14god 再等半年
+- `2019028028127642006` | 2026-02-04 20:39:28 GMT+8 | reply | https://x.com/iiiinvest/status/2019028028127642006 | @0xleng1 有的是机会，现在刚确认熊市。
+- `2019028123988508930` | 2026-02-04 20:39:51 GMT+8 | reply | https://x.com/iiiinvest/status/2019028123988508930 | @xiadadhaida 现在都是机构互割，哪有啥韭菜
+- `2019028344927629642` | 2026-02-04 20:40:43 GMT+8 | reply | https://x.com/iiiinvest/status/2019028344927629642 | @SonMa84176 慢慢买，有预期，效果更好
+- `2019028430327836799` | 2026-02-04 20:41:04 GMT+8 | reply | https://x.com/iiiinvest/status/2019028430327836799 | @_FORAB 慢慢买，有预期，效果事半功倍
+- `2019028552025530524` | 2026-02-04 20:41:33 GMT+8 | reply | https://x.com/iiiinvest/status/2019028552025530524 | @TingHu888 这不就是盈亏同源吗
+- `2019028658233700855` | 2026-02-04 20:41:58 GMT+8 | reply | https://x.com/iiiinvest/status/2019028658233700855 | @ChinaWhaleETH 哥，我信你个鬼
+- `2019028937377247321` | 2026-02-04 20:43:05 GMT+8 | reply | https://x.com/iiiinvest/status/2019028937377247321 | @xtony1314 朱门酒肉臭路有冻死骨
+- `2019029281448624235` | 2026-02-04 20:44:27 GMT+8 | reply | https://x.com/iiiinvest/status/2019029281448624235 | @chairbtc 别说下一轮了，老韭菜这轮配置大饼也没赚多少
+- `2019029624165199923` | 2026-02-04 20:45:48 GMT+8 | reply | https://x.com/iiiinvest/status/2019029624165199923 | @XAUUSD_God 我这波做白银还可以
+- `2019029830684258553` | 2026-02-04 20:46:38 GMT+8 | reply | https://x.com/iiiinvest/status/2019029830684258553 | @1000xgemxcoin 我A8 ，我感觉很穷
+- `2019030137837437126` | 2026-02-04 20:47:51 GMT+8 | reply | https://x.com/iiiinvest/status/2019030137837437126 | @blockTVBee 哎，牛市顶峰的格局不止你一个。
+- `2019030319505318316` | 2026-02-04 20:48:34 GMT+8 | reply | https://x.com/iiiinvest/status/2019030319505318316 | @shaogefenhao 有没有可能是善良和命好是相关性，不是因果性
+- `2019030449058943444` | 2026-02-04 20:49:05 GMT+8 | reply | https://x.com/iiiinvest/status/2019030449058943444 | @realGuanYu 现在大家还是太亢奋，虽然是亏的亢奋
+- `2019030729888546912` | 2026-02-04 20:50:12 GMT+8 | reply | https://x.com/iiiinvest/status/2019030729888546912 | @wangduanniao 嗯，还是亏得少，药量加大💊
+- `2019030929751318688` | 2026-02-04 20:51:00 GMT+8 | reply | https://x.com/iiiinvest/status/2019030929751318688 | @yong1985110 是的，最大的风险是美股还在高位。。。
+- `2019031062694019363` | 2026-02-04 20:51:31 GMT+8 | reply | https://x.com/iiiinvest/status/2019031062694019363 | @Deltaking888 哥，得先活到那时候
+- `2019031170189840654` | 2026-02-04 20:51:57 GMT+8 | reply | https://x.com/iiiinvest/status/2019031170189840654 | @SonMa84176 不止他一个
+- `2019031528152690946` | 2026-02-04 20:53:22 GMT+8 | reply | https://x.com/iiiinvest/status/2019031528152690946 | @ChandlerGuo 杀牛的认知也是认知。。。
+- `2019038399760683316` | 2026-02-04 21:20:41 GMT+8 | reply | https://x.com/iiiinvest/status/2019038399760683316 | @ChinaWhaleETH 纯喊啊
+- `2019038924258365553` | 2026-02-04 21:22:46 GMT+8 | reply | https://x.com/iiiinvest/status/2019038924258365553 | @shufen46250836 金银的思路差不多
+- `2019054706908406242` | 2026-02-04 22:25:29 GMT+8 | original | https://x.com/iiiinvest/status/2019054706908406242 | 晚上靠程序又撸了1万U，今天撸了2万U。这轮黄金反弹已经差不多了，白银在冲刺，然后今晚美股盘前是跌的。我是不相信白银自己有独立行情的，等待做空机会了 https://t.co/x3udfNy9dW
+- `2019055398414905631` | 2026-02-04 22:28:13 GMT+8 | original | https://x.com/iiiinvest/status/2019055398414905631 | 币安白银手续费为0吗？这么爽？ https://t.co/upso8q5WWi
+- `2019056167331549307` | 2026-02-04 22:31:17 GMT+8 | reply | https://x.com/iiiinvest/status/2019056167331549307 | @mattecho233 互相学习
+- `2019058014062579946` | 2026-02-04 22:38:37 GMT+8 | reply | https://x.com/iiiinvest/status/2019058014062579946 | @wangduanniao @bcgame 嗝屁了把
+- `2019060453188767877` | 2026-02-04 22:48:19 GMT+8 | original | https://x.com/iiiinvest/status/2019060453188767877 | 先建了一个空仓底仓，观察着。 https://t.co/Kh2FVv8viP
+- `2019066407779184792` | 2026-02-04 23:11:58 GMT+8 | reply | https://x.com/iiiinvest/status/2019066407779184792 | @xtony1314 美股的趋势来了
+- `2019068432902185039` | 2026-02-04 23:20:01 GMT+8 | reply | https://x.com/iiiinvest/status/2019068432902185039 | @TJ_Research 现在就是别头铁，美股还在高位呢。
+- `2019075834112540687` | 2026-02-04 23:49:26 GMT+8 | reply | https://x.com/iiiinvest/status/2019075834112540687 | @laban_li 恶心到，这个词用的好
+- `2019076272840642662` | 2026-02-04 23:51:10 GMT+8 | reply | https://x.com/iiiinvest/status/2019076272840642662 | @qinbafrank 美股下跌刚刚开始
+- `2019077050372616402` | 2026-02-04 23:54:16 GMT+8 | original | https://x.com/iiiinvest/status/2019077050372616402 | 美股迟早拉个大的，就像去年关税战期间，一天涨跌4%5%稀松平常，然后再来一根10%大绿棒，不会远了。一切刚刚开始。
+- `2019178716014997770` | 2026-02-05 06:38:15 GMT+8 | reply | https://x.com/iiiinvest/status/2019178716014997770 | @BTCBruce1 割只需要勇气
+- `2019220983195005104` | 2026-02-05 09:26:12 GMT+8 | reply | https://x.com/iiiinvest/status/2019220983195005104 | @islet0612 再观察下
+- `2019221030901018735` | 2026-02-05 09:26:23 GMT+8 | reply | https://x.com/iiiinvest/status/2019221030901018735 | @mattecho233 不会一蹴而就
+- `2019226259914633647` | 2026-02-05 09:47:10 GMT+8 | quote | https://x.com/iiiinvest/status/2019226259914633647 | 一直说次高点做空白银是机会，那么怎么操作：
+- `2019236384549331407` | 2026-02-05 10:27:24 GMT+8 | reply | https://x.com/iiiinvest/status/2019236384549331407 | @Walden779 这么漂亮的吗
+- `2019236815614751134` | 2026-02-05 10:29:07 GMT+8 | reply | https://x.com/iiiinvest/status/2019236815614751134 | @elonmusk 全球通用啊
+- `2019237292804882437` | 2026-02-05 10:31:00 GMT+8 | reply | https://x.com/iiiinvest/status/2019237292804882437 | @Dana_946 手操也可以的
+- `2019237435658629268` | 2026-02-05 10:31:34 GMT+8 | reply | https://x.com/iiiinvest/status/2019237435658629268 | 兄弟们，点赞给我动力~
+- `2019242683492147582` | 2026-02-05 10:52:26 GMT+8 | original | https://x.com/iiiinvest/status/2019242683492147582 | 空单平掉了
+- `2019256672041201762` | 2026-02-05 11:48:01 GMT+8 | reply | https://x.com/iiiinvest/status/2019256672041201762 | @xtony1314 不，哥，是实力
+- `2019257554598261088` | 2026-02-05 11:51:31 GMT+8 | reply | https://x.com/iiiinvest/status/2019257554598261088 | @xtony1314 你是懂黑人的
+- `2019257955611472202` | 2026-02-05 11:53:07 GMT+8 | quote | https://x.com/iiiinvest/status/2019257955611472202 | 回头看多么明智，很多时候都是被过往的成本思维馅住了，我写文章，给你们看是其次，更多是梳理自己的交易纪律。 https://t.co/caLllbFAcx
+- `2019259025372987746` | 2026-02-05 11:57:22 GMT+8 | original | https://x.com/iiiinvest/status/2019259025372987746 | 这波白银下跌就赚了4万U，下跌太快了，没赚多少。也给你和我自己提个醒，目前还是震荡，但短时间10个点的波动还是很大的，一定要控制好杠杆。
+- `2019259225004982290` | 2026-02-05 11:58:09 GMT+8 | reply | https://x.com/iiiinvest/status/2019259225004982290 | @xtony1314 我周一到现在赚了24万U，哈哈
+- `2019260954421391611` | 2026-02-05 12:05:02 GMT+8 | reply | https://x.com/iiiinvest/status/2019260954421391611 | @0xVeryBigOrange 这次全送给大老师
+- `2019261191118549069` | 2026-02-05 12:05:58 GMT+8 | reply | https://x.com/iiiinvest/status/2019261191118549069 | @FLS_OTC 哥，知道什么是磨底吗，早呢。
+- `2019263844993101885` | 2026-02-05 12:16:31 GMT+8 | reply | https://x.com/iiiinvest/status/2019263844993101885 | @mattecho233 跌太快拿不住
+- `2019264567575241023` | 2026-02-05 12:19:23 GMT+8 | reply | https://x.com/iiiinvest/status/2019264567575241023 | @XXY177 欢迎来到美股
+- `2019270816224145605` | 2026-02-05 12:44:13 GMT+8 | reply | https://x.com/iiiinvest/status/2019270816224145605 | @xiajingfa8 这波跌太快，没赚太多
+- `2019287881521721819` | 2026-02-05 13:52:02 GMT+8 | reply | https://x.com/iiiinvest/status/2019287881521721819 | @xtony1314 好的，你小子叛变了
+- `2019288359953395881` | 2026-02-05 13:53:56 GMT+8 | reply | https://x.com/iiiinvest/status/2019288359953395881 | @xtony1314 反弹了
+- `2019297649279791196` | 2026-02-05 14:30:50 GMT+8 | original | https://x.com/iiiinvest/status/2019297649279791196 | 比特币到了7万这个关口，从行为心理叠加当前这傻逼流动性，7万大概率会破的。
+- `2019299597060076025` | 2026-02-05 14:38:35 GMT+8 | reply | https://x.com/iiiinvest/status/2019299597060076025 | @thcaroline2233 风控，不要让自己裸奔
+- `2019356850802815279` | 2026-02-05 18:26:05 GMT+8 | reply | https://x.com/iiiinvest/status/2019356850802815279 | @ViewsOfChris 美股下跌的风险
+- `2019357432510853398` | 2026-02-05 18:28:24 GMT+8 | reply | https://x.com/iiiinvest/status/2019357432510853398 | @phyrexni 倪大，漏富了
+- `2019359721229283490` | 2026-02-05 18:37:30 GMT+8 | reply | https://x.com/iiiinvest/status/2019359721229283490 | @Mumu_yay https://t.co/cut63OCcXS
+- `2019424915720659326` | 2026-02-05 22:56:33 GMT+8 | original | https://x.com/iiiinvest/status/2019424915720659326 | 随着比特币下跌，资本将主动或被动的选择拒绝介入，就像一个池塘，当水位越来越浅的时候，大鱼进来只会搁浅死亡。
+- `2019425311470010793` | 2026-02-05 22:58:08 GMT+8 | reply | https://x.com/iiiinvest/status/2019425311470010793 | @xtony1314 说好一起到白头，你却偷偷焗了油。这次干死你！
+- `2019428405503250535` | 2026-02-05 23:10:25 GMT+8 | reply | https://x.com/iiiinvest/status/2019428405503250535 | @xtony1314 不加杠杆也能跌99%的，和归零没区别。
+- `2019428696864796970` | 2026-02-05 23:11:35 GMT+8 | reply | https://x.com/iiiinvest/status/2019428696864796970 | @hexiecs 补涨的逻辑被证伪了
+- `2019435130906165540` | 2026-02-05 23:37:09 GMT+8 | reply | https://x.com/iiiinvest/status/2019435130906165540 | @xtony1314 我赌：删除！
+- `2019443052570407010` | 2026-02-06 00:08:37 GMT+8 | reply | https://x.com/iiiinvest/status/2019443052570407010 | @CryptoApprenti1 说的没毛病
+- `2019443328232702348` | 2026-02-06 00:09:43 GMT+8 | reply | https://x.com/iiiinvest/status/2019443328232702348 | @williamlab 花了5年，学会了做人
+- `2019443533426401359` | 2026-02-06 00:10:32 GMT+8 | reply | https://x.com/iiiinvest/status/2019443533426401359 | @web3annie 都做空，瞬间一卖更嗝屁。
+- `2019443980220440611` | 2026-02-06 00:12:18 GMT+8 | reply | https://x.com/iiiinvest/status/2019443980220440611 | @huahuayjy 都是亏出来的经验，没毛病
+- `2019447720096768505` | 2026-02-06 00:27:10 GMT+8 | reply | https://x.com/iiiinvest/status/2019447720096768505 | @0xVeryBigOrange 老外也说666
+- `2019447914850812048` | 2026-02-06 00:27:57 GMT+8 | reply | https://x.com/iiiinvest/status/2019447914850812048 | @hongshen6666btc 风险资金撤离所有风险市场，就这么简单。
+- `2019448233655738605` | 2026-02-06 00:29:13 GMT+8 | reply | https://x.com/iiiinvest/status/2019448233655738605 | @bishengkegs 转头默默哭？
+- `2019448870913368166` | 2026-02-06 00:31:45 GMT+8 | reply | https://x.com/iiiinvest/status/2019448870913368166 | @BTCBruce1 过段时间大家都会强调场外赚钱能力了。。。
+- `2019451932570509460` | 2026-02-06 00:43:54 GMT+8 | reply | https://x.com/iiiinvest/status/2019451932570509460 | @ohyishi 人民群众对理想生活的向往与现实贫穷的矛盾
+- `2019452394359111930` | 2026-02-06 00:45:45 GMT+8 | reply | https://x.com/iiiinvest/status/2019452394359111930 | @mirrorzk 哥，张嘴
+- `2019452658524758046` | 2026-02-06 00:46:48 GMT+8 | reply | https://x.com/iiiinvest/status/2019452658524758046 | @xiaoheshang2025 是根本出不来
+- `2019568308614525382` | 2026-02-06 08:26:21 GMT+8 | original | https://x.com/iiiinvest/status/2019568308614525382 | 一早醒来，我已经搬了一小时砖了 https://t.co/dSyNG2FpXD
+- `2019572800030462396` | 2026-02-06 08:44:12 GMT+8 | reply | https://x.com/iiiinvest/status/2019572800030462396 | @TJ_Research 注意控制仓位
+- `2019601770608226772` | 2026-02-06 10:39:19 GMT+8 | quote | https://x.com/iiiinvest/status/2019601770608226772 | 说说美股、比特币、黄金白银今天怎么操作【0206】：
+- `2019601898341618030` | 2026-02-06 10:39:49 GMT+8 | reply | https://x.com/iiiinvest/status/2019601898341618030 | 兄弟们，点点赞支持下，给点动力 ↑↑↑
+- `2019608678316535825` | 2026-02-06 11:06:46 GMT+8 | quote | https://x.com/iiiinvest/status/2019608678316535825 | @qinbafrank 想法差不多，现在美股就是锚，比特币和金银都跟着走：https://t.co/U0HEKBPGhk
+- `2019609435338076425` | 2026-02-06 11:09:46 GMT+8 | quote | https://x.com/iiiinvest/status/2019609435338076425 | @jason_chen998 是的，仅仅是反弹https://t.co/U0HEKBPGhk
+- `2019609631887356139` | 2026-02-06 11:10:33 GMT+8 | quote | https://x.com/iiiinvest/status/2019609631887356139 | @billtheinvestor 5万铁定的https://t.co/U0HEKBPGhk
+- `2019609823936229502` | 2026-02-06 11:11:19 GMT+8 | quote | https://x.com/iiiinvest/status/2019609823936229502 | @AirdropAlchemis 醒醒哥哥，反弹了https://t.co/U0HEKBPGhk
+- `2019610039041028220` | 2026-02-06 11:12:10 GMT+8 | quote | https://x.com/iiiinvest/status/2019610039041028220 | @hazenlee 还得是哥哥厉害，这次听你的https://t.co/U0HEKBPGhk
+- `2019610305073168851` | 2026-02-06 11:13:13 GMT+8 | quote | https://x.com/iiiinvest/status/2019610305073168851 | @XXY177 是的，怎么也得去5万看看，大家挺住https://t.co/U0HEKBPGhk
+- `2019610466914562520` | 2026-02-06 11:13:52 GMT+8 | quote | https://x.com/iiiinvest/status/2019610466914562520 | @0xVeryBigOrange 大老师，还是得看美股https://t.co/U0HEKBPGhk
+- `2019610747035435505` | 2026-02-06 11:14:59 GMT+8 | quote | https://x.com/iiiinvest/status/2019610747035435505 | @jesus14god 现在主要还是场外资金和情绪主导，场内没定价能力了https://t.co/U0HEKBPGhk
+- `2019610875779592702` | 2026-02-06 11:15:29 GMT+8 | quote | https://x.com/iiiinvest/status/2019610875779592702 | @nft_hu 哈哈，亏钱的花样不少https://t.co/U0HEKBPGhk
+- `2019612273954943127` | 2026-02-06 11:21:03 GMT+8 | quote | https://x.com/iiiinvest/status/2019612273954943127 | @hqinjarsy 还要看市场的资金承受能力，即便同一个市场，海平面也在变化。https://t.co/U0HEKBPGhk
+- `2019612417068761146` | 2026-02-06 11:21:37 GMT+8 | quote | https://x.com/iiiinvest/status/2019612417068761146 | @CryptoV_Alpha 老师说的就是我啊https://t.co/U0HEKBPGhk
+- `2019612562367922246` | 2026-02-06 11:22:12 GMT+8 | quote | https://x.com/iiiinvest/status/2019612562367922246 | @Patrade_Buer 和价格没关系，和资金与海平面有关系https://t.co/U0HEKBPGhk
+- `2019612671700763096` | 2026-02-06 11:22:38 GMT+8 | quote | https://x.com/iiiinvest/status/2019612671700763096 | @kiki520_eth 上次这感觉的已经爆了。。。https://t.co/U0HEKBPGhk
+- `2019612927133982746` | 2026-02-06 11:23:39 GMT+8 | quote | https://x.com/iiiinvest/status/2019612927133982746 | @memeking_888 见到dapp时期的熟人了https://t.co/U0HEKBPGhk
+- `2019613108516577401` | 2026-02-06 11:24:22 GMT+8 | quote | https://x.com/iiiinvest/status/2019613108516577401 | @KKaWSB 我猜是离婚了https://t.co/U0HEKBPGhk
+- `2019613239638913334` | 2026-02-06 11:24:53 GMT+8 | quote | https://x.com/iiiinvest/status/2019613239638913334 | @LMDC5288 不看美股的脸色了？https://t.co/U0HEKBPGhk
+- `2019613353971433759` | 2026-02-06 11:25:20 GMT+8 | quote | https://x.com/iiiinvest/status/2019613353971433759 | @ViewsOfChris 现在港股最大问题是流动性也不高https://t.co/U0HEKBPGhk
+- `2019613544430596351` | 2026-02-06 11:26:06 GMT+8 | quote | https://x.com/iiiinvest/status/2019613544430596351 | @victalk6886 核心是流动性，大资金的撤离https://t.co/U0HEKBPGhk
+- `2019613709279326575` | 2026-02-06 11:26:45 GMT+8 | quote | https://x.com/iiiinvest/status/2019613709279326575 | @xixikawaii 一起撸白银吧https://t.co/U0HEKBPGhk
+- `2019613899298124248` | 2026-02-06 11:27:30 GMT+8 | quote | https://x.com/iiiinvest/status/2019613899298124248 | @Rocky_Bitcoin 感觉还有一波，老师https://t.co/U0HEKBPGhk
+- `2019629647714271373` | 2026-02-06 12:30:05 GMT+8 | quote | https://x.com/iiiinvest/status/2019629647714271373 | @puregamma @Jackyi_ld 你既然这么说，那我也从投资人视角给你参考下：https://t.co/Q3cRBctjiH
+- `2019630082608992469` | 2026-02-06 12:31:49 GMT+8 | quote | https://x.com/iiiinvest/status/2019630082608992469 | @jason_chen998 现在的比特币没有自己定价的能力了https://t.co/U0HEKBPGhk
+- `2019630925848670423` | 2026-02-06 12:35:10 GMT+8 | quote | https://x.com/iiiinvest/status/2019630925848670423 | @ChandlerGuo 还是白银赚点吧https://t.co/U0HEKBPGhk
+- `2019631410802504180` | 2026-02-06 12:37:05 GMT+8 | quote | https://x.com/iiiinvest/status/2019631410802504180 | @liangxizjdq 将军，去撸白银吧https://t.co/U0HEKBPGhk
+- `2019631579195404641` | 2026-02-06 12:37:46 GMT+8 | quote | https://x.com/iiiinvest/status/2019631579195404641 | @Guilin_Chen_ 有人在托https://t.co/U0HEKBPGhk
+- `2019631959052546232` | 2026-02-06 12:39:16 GMT+8 | quote | https://x.com/iiiinvest/status/2019631959052546232 | 再发一遍，在这种整数关口停下的概率几乎为0，所以6万不是底，只能是反弹，但大部分抓不住这个点位。所以看戏吧。 https://t.co/RbCHggCG4N
+- `2019632679470395646` | 2026-02-06 12:42:08 GMT+8 | quote | https://x.com/iiiinvest/status/2019632679470395646 | @bishengkegs 我们来投资市场是为了赚钱的，不是为了赌气，哥冷静冷静https://t.co/U0HEKBPGhk
+- `2019634657684517217` | 2026-02-06 12:50:00 GMT+8 | reply | https://x.com/iiiinvest/status/2019634657684517217 | @hqinjarsy 历史上，散户很少打败机构。。。
+- `2019635381831176407` | 2026-02-06 12:52:52 GMT+8 | quote | https://x.com/iiiinvest/status/2019635381831176407 | @UnicornBitcoin 给机会走了，再不走真爆了https://t.co/U0HEKBPGhk
+- `2019661345898262585` | 2026-02-06 14:36:03 GMT+8 | reply | https://x.com/iiiinvest/status/2019661345898262585 | @suncy1983nian 今天反弹有点凶，我会撸短空平
+- `2019667020003115081` | 2026-02-06 14:58:35 GMT+8 | reply | https://x.com/iiiinvest/status/2019667020003115081 | @xtony1314 春节还回家，就是大孝子了
+- `2019717781500105073` | 2026-02-06 18:20:18 GMT+8 | original | https://x.com/iiiinvest/status/2019717781500105073 | 币圈，金属圈，都在等美股开盘。想小弟😄，一点脾气没有。 https://t.co/af9VBBOE1F
+- `2019936705747513555` | 2026-02-07 08:50:13 GMT+8 | original | https://x.com/iiiinvest/status/2019936705747513555 | 昨晚反弹挺猛的，稍晚点梳理下接下来怎么操作。
+- `2020339354892398648` | 2026-02-08 11:30:12 GMT+8 | quote | https://x.com/iiiinvest/status/2020339354892398648 | 说说下周（9-13号）开盘的操作思路：1、回顾下上周的操作：https://t.co/BTvnsNlQQm整体操作以撸白银为主，小仓位做空美股，比特币在7.8万清仓后一直空仓；2、在美股带领下，各市场在上周五早上创出新低后，出现大幅反弹，美股从24200到25200，幅度4%。比特币从6万到7万，幅度16%。白银从65到78，幅度20%。黄金从4650到49
+- `2020340227836084551` | 2026-02-08 11:33:41 GMT+8 | quote | https://x.com/iiiinvest/status/2020340227836084551 | 说说下周（2月9-13号）操作思路：
+- `2020340542429950114` | 2026-02-08 11:34:56 GMT+8 | reply | https://x.com/iiiinvest/status/2020340542429950114 | 兄弟们，点赞鼓励下 ↑↑↑
+- `2020474132215836707` | 2026-02-08 20:25:46 GMT+8 | original | https://x.com/iiiinvest/status/2020474132215836707 | 人，一定要谨慎，再谨慎，再再谨慎开展任何意义上的长期关系，爱情、亲情、友情，哪怕雇佣关系都包括。最近家里阿姨合同到期有感。
+- `2020474885584072856` | 2026-02-08 20:28:45 GMT+8 | reply | https://x.com/iiiinvest/status/2020474885584072856 | @wufantouzi 短期情绪下杀太厉害，应该是探出短期底部了，以6万到8万操作多平是不错策略。
+- `2020500293302247788` | 2026-02-08 22:09:43 GMT+8 | reply | https://x.com/iiiinvest/status/2020500293302247788 | 已经开了以太坊多平策略。
+- `2020500857171984496` | 2026-02-08 22:11:58 GMT+8 | reply | https://x.com/iiiinvest/status/2020500857171984496 | @justinsuntron 孙学原来是撸羊毛
+- `2020501063443636723` | 2026-02-08 22:12:47 GMT+8 | reply | https://x.com/iiiinvest/status/2020501063443636723 | @xincctnnq 下周震荡向上
+- `2020501930192351677` | 2026-02-08 22:16:13 GMT+8 | original | https://x.com/iiiinvest/status/2020501930192351677 | 矫枉必过正，易理华们的清仓会验证这个古老的经验...
+- `2020502590195474739` | 2026-02-08 22:18:51 GMT+8 | reply | https://x.com/iiiinvest/status/2020502590195474739 | @xtony1314 易理华和小虾一样，自信而独立，等待时间给出答案，旁人看戏
+- `2020662757591589171` | 2026-02-09 08:55:18 GMT+8 | original | https://x.com/iiiinvest/status/2020662757591589171 | 一觉醒来，迎接太阳，充满干劲，干他丫的。
+- `2020663144755188086` | 2026-02-09 08:56:50 GMT+8 | reply | https://x.com/iiiinvest/status/2020663144755188086 | @hazenlee 确实，我之前是他LP，这次大概率也是亏的LP的钱
+- `2020664154940645467` | 2026-02-09 09:00:51 GMT+8 | reply | https://x.com/iiiinvest/status/2020664154940645467 | @bitfish 从软手转向了硬手
+- `2020744149444837791` | 2026-02-09 14:18:43 GMT+8 | reply | https://x.com/iiiinvest/status/2020744149444837791 | @TheMarketMemo 最怕自己骗自己，还信了
+- `2020869140941070661` | 2026-02-09 22:35:23 GMT+8 | quote | https://x.com/iiiinvest/status/2020869140941070661 | 已经按照计划卖出特斯拉近期低位PUT，以及多平以太坊。 https://t.co/fYetvlce5p
+- `2020982335467069756` | 2026-02-10 06:05:11 GMT+8 | reply | https://x.com/iiiinvest/status/2020982335467069756 | @islet0612 再看看
+- `2020989151647248605` | 2026-02-10 06:32:16 GMT+8 | reply | https://x.com/iiiinvest/status/2020989151647248605 | @justinsuntron 这次，割全世界！
+- `2021200508946612366` | 2026-02-10 20:32:08 GMT+8 | reply | https://x.com/iiiinvest/status/2021200508946612366 | @liang32283332 自驾有点远啊
+- `2021200683400298906` | 2026-02-10 20:32:49 GMT+8 | reply | https://x.com/iiiinvest/status/2021200683400298906 | @xtony1314 干翻全世界
+- `2021923760094556194` | 2026-02-12 20:26:04 GMT+8 | original | https://x.com/iiiinvest/status/2021923760094556194 | 支付宝搜“蚂蚁阿福”，领16.8红包，该撸的羊毛就撸
+- `2022460570684002312` | 2026-02-14 07:59:10 GMT+8 | reply | https://x.com/iiiinvest/status/2022460570684002312 | @xtony1314 叼毛抠逼精神😃
+- `2022460840247714280` | 2026-02-14 08:00:14 GMT+8 | reply | https://x.com/iiiinvest/status/2022460840247714280 | @xiny392724 @xtony1314 @heyibinance @mscryptojiayi @realDonaldTrump 他是浮盈加仓起来的，奉行波动率战法
+- `2022670319862059205` | 2026-02-14 21:52:38 GMT+8 | quote | https://x.com/iiiinvest/status/2022670319862059205 | 说说下周（15-21号）的操作计划：
+- `2022670490725421210` | 2026-02-14 21:53:19 GMT+8 | reply | https://x.com/iiiinvest/status/2022670490725421210 | 点赞支持谢谢哥哥们  ↑↑↑
+- `2022671334397088010` | 2026-02-14 21:56:40 GMT+8 | reply | https://x.com/iiiinvest/status/2022671334397088010 | @wangduanniao 跟上我的节奏，赚点吧。
+- `2022671500382454078` | 2026-02-14 21:57:19 GMT+8 | reply | https://x.com/iiiinvest/status/2022671500382454078 | @xtony1314 妈的，不赚钱开始撩骚了？
+- `2022671701331595294` | 2026-02-14 21:58:07 GMT+8 | reply | https://x.com/iiiinvest/status/2022671701331595294 | @0xSunNFT 是的，接下来几周应该要反弹了，行情总是在这时候出现。
+- `2022687549177925779` | 2026-02-14 23:01:06 GMT+8 | reply | https://x.com/iiiinvest/status/2022687549177925779 | @hazenlee 观点一致
+- `2022688346116624530` | 2026-02-14 23:04:16 GMT+8 | reply | https://x.com/iiiinvest/status/2022688346116624530 | @williamlab 先看8万
+- `2022689276576829469` | 2026-02-14 23:07:57 GMT+8 | reply | https://x.com/iiiinvest/status/2022689276576829469 | @thewindisfree 还是得靠自己
+- `2022830861243289607` | 2026-02-15 08:30:34 GMT+8 | reply | https://x.com/iiiinvest/status/2022830861243289607 | @memeking_888 最怕自己骗的自己都信了
+- `2022840150863278340` | 2026-02-15 09:07:29 GMT+8 | reply | https://x.com/iiiinvest/status/2022840150863278340 | @ni1hannah 不知道现在熊市吗
+- `2022840445391569236` | 2026-02-15 09:08:39 GMT+8 | reply | https://x.com/iiiinvest/status/2022840445391569236 | @XXY177 来来来
+- `2022841587655655836` | 2026-02-15 09:13:11 GMT+8 | reply | https://x.com/iiiinvest/status/2022841587655655836 | @TheMarketMemo 源源不断
+- `2022842549527089594` | 2026-02-15 09:17:01 GMT+8 | reply | https://x.com/iiiinvest/status/2022842549527089594 | @thankUcrypto 该反弹了
+- `2022897963895574998` | 2026-02-15 12:57:12 GMT+8 | reply | https://x.com/iiiinvest/status/2022897963895574998 | @xtony1314 不光亏钱，还要亏情绪价值啊
+- `2022898160918733033` | 2026-02-15 12:57:59 GMT+8 | reply | https://x.com/iiiinvest/status/2022898160918733033 | @FLS_OTC 已买
+- `2022898246843273637` | 2026-02-15 12:58:20 GMT+8 | reply | https://x.com/iiiinvest/status/2022898246843273637 | @fishbtcer 知行合一，已经买了
+- `2022900185266049068` | 2026-02-15 13:06:02 GMT+8 | quote | https://x.com/iiiinvest/status/2022900185266049068 | 知行合一，已经买了50%仓位 https://t.co/eRaEGJBeq0
+- `2022902047528620357` | 2026-02-15 13:13:26 GMT+8 | reply | https://x.com/iiiinvest/status/2022902047528620357 | @RunDoris 你好，美股账户怎么公开，这个没实盘吧，另外我主要是记录自己的思路为主，感谢支持
+- `2022907252316024872` | 2026-02-15 13:34:07 GMT+8 | original | https://x.com/iiiinvest/status/2022907252316024872 | 各种的技术，图形分析，大多是统计分析概率应用，可以说叫归纳法。在实际操作中可以参考，但不能硬靠，比如在流动性缺乏的市场，任何的流动性都可能产生巨大的偏差。
+- `2022907411057815875` | 2026-02-15 13:34:45 GMT+8 | reply | https://x.com/iiiinvest/status/2022907411057815875 | @ohyishi 无法改浪，但可逐浪
+- `2022907767049408759` | 2026-02-15 13:36:10 GMT+8 | original | https://x.com/iiiinvest/status/2022907767049408759 | @Pathusa 凑数领救济。。。
+- `2022951519126204670` | 2026-02-15 16:30:01 GMT+8 | original | https://x.com/iiiinvest/status/2022951519126204670 | 所谓的年味，就是一场在农村小镇长大的童年，与上学进城打工的中年，在平行时空的思想碰撞。年味永远找不到了，因为它都在回忆里。在那条以前悠长，如今扭头就看尽的小路，在那个以前辉煌，如今空无一物转租的商厦，在那个以前要规划一下午，如今一脚油门就跑完的旅途。
+- `2022952402060742771` | 2026-02-15 16:33:31 GMT+8 | reply | https://x.com/iiiinvest/status/2022952402060742771 | @xtony1314 尼玛，这都能结合，赌博是因为我是农民的儿子？
+- `2022952882283356344` | 2026-02-15 16:35:26 GMT+8 | reply | https://x.com/iiiinvest/status/2022952882283356344 | @Isluckyethan 这失眠值钱
+- `2022953831311856099` | 2026-02-15 16:39:12 GMT+8 | quote | https://x.com/iiiinvest/status/2022953831311856099 | @xtony1314 吃了饭还要拉，总结一下饭也不必吃。赶紧交易赚钱吧https://t.co/ks32QTWdbe
+- `2022954085482377301` | 2026-02-15 16:40:13 GMT+8 | quote | https://x.com/iiiinvest/status/2022954085482377301 | @wufantouzi 同样做多了https://t.co/ks32QTWdbe
+- `2022954301778526508` | 2026-02-15 16:41:04 GMT+8 | quote | https://x.com/iiiinvest/status/2022954301778526508 | @Nuanran01 穷穷穷...我是这个，算了还是赚钱去吧https://t.co/ks32QTWdbe
+- `2022954393965101485` | 2026-02-15 16:41:26 GMT+8 | quote | https://x.com/iiiinvest/status/2022954393965101485 | @elonmusk 马老板牛逼，赚钱https://t.co/ks32QTWdbe
+- `2022954532687479033` | 2026-02-15 16:41:59 GMT+8 | quote | https://x.com/iiiinvest/status/2022954532687479033 | @zhang_bj_ 上周表现比较强势，已经做多https://t.co/ks32QTWdbe
+- `2022954676795400663` | 2026-02-15 16:42:34 GMT+8 | quote | https://x.com/iiiinvest/status/2022954676795400663 | @BTCdayu 无恒心者无恒产，做多https://t.co/ks32QTWdbe
+- `2022954781653045580` | 2026-02-15 16:42:59 GMT+8 | quote | https://x.com/iiiinvest/status/2022954781653045580 | @DRbitcoin36 春节上涨 哈哈https://t.co/ks32QTWdbe
+- `2022954893389304243` | 2026-02-15 16:43:25 GMT+8 | quote | https://x.com/iiiinvest/status/2022954893389304243 | @MengLayer 鞭炮也不让放了，还是赚钱吧https://t.co/ks32QTWdbe
+- `2022955032002633797` | 2026-02-15 16:43:58 GMT+8 | quote | https://x.com/iiiinvest/status/2022955032002633797 | @blockTVBee 信息交换太多，加速了行情发展，反弹也会比较快https://t.co/ks32QTWdbe
+- `2022955102026572272` | 2026-02-15 16:44:15 GMT+8 | quote | https://x.com/iiiinvest/status/2022955102026572272 | @btc_davie 已经做多了https://t.co/ks32QTWdbe
+- `2022955965436526792` | 2026-02-15 16:47:41 GMT+8 | quote | https://x.com/iiiinvest/status/2022955965436526792 | @cloakmk 收到，已经做多了https://t.co/ks32QTWdbe
+- `2022956245465067814` | 2026-02-15 16:48:48 GMT+8 | quote | https://x.com/iiiinvest/status/2022956245465067814 | @justinsuntron 有钱人就是烦恼多。。。https://t.co/ks32QTWdbe
+- `2022956408854265872` | 2026-02-15 16:49:27 GMT+8 | quote | https://x.com/iiiinvest/status/2022956408854265872 | @feng638061 500粉的我依旧该干嘛干嘛，春节不影响搞钱https://t.co/ks32QTWdbe
+- `2022956699766993164` | 2026-02-15 16:50:36 GMT+8 | quote | https://x.com/iiiinvest/status/2022956699766993164 | @BTCFREE2025 已经开了多平网格和现货。https://t.co/ks32QTWdbe
+- `2022956808244252870` | 2026-02-15 16:51:02 GMT+8 | reply | https://x.com/iiiinvest/status/2022956808244252870 | @Morris_LT 还是个有钱人。
+- `2022956985306763372` | 2026-02-15 16:51:44 GMT+8 | quote | https://x.com/iiiinvest/status/2022956985306763372 | @Predator_fund 不要怕，看准机会就干。https://t.co/ks32QTWdbe
+- `2022957373950951535` | 2026-02-15 16:53:17 GMT+8 | quote | https://x.com/iiiinvest/status/2022957373950951535 | @BitInsighter 我好点，7.8万清了，7万现在又买回来了https://t.co/ks32QTWdbe
+- `2022957440720064703` | 2026-02-15 16:53:33 GMT+8 | reply | https://x.com/iiiinvest/status/2022957440720064703 | @btc_davie 我信了，已经买了
+- `2022957969479237663` | 2026-02-15 16:55:39 GMT+8 | reply | https://x.com/iiiinvest/status/2022957969479237663 | @wukong2021 我也干进去了
+- `2022958232168509730` | 2026-02-15 16:56:41 GMT+8 | reply | https://x.com/iiiinvest/status/2022958232168509730 | @huangdaobtc 还是首先看比特币，山寨只是流动性溢出的结果。
+- `2022962173425922208` | 2026-02-15 17:12:21 GMT+8 | reply | https://x.com/iiiinvest/status/2022962173425922208 | @dogebigbrother 看时间周期，短期反弹为什么不能买呢
+- `2022985466459652365` | 2026-02-15 18:44:55 GMT+8 | reply | https://x.com/iiiinvest/status/2022985466459652365 | @TheMarketMemo 同祝新春快乐
+- `2023006546461106235` | 2026-02-15 20:08:40 GMT+8 | reply | https://x.com/iiiinvest/status/2023006546461106235 | @Deanshuaiii 已经做多
+- `2023007861744525611` | 2026-02-15 20:13:54 GMT+8 | reply | https://x.com/iiiinvest/status/2023007861744525611 | @BitInsighter A股和港股就是另外两个大坑，为什么不选美股呢
+- `2023010022704185489` | 2026-02-15 20:22:29 GMT+8 | original | https://x.com/iiiinvest/status/2023010022704185489 | 其实做公开分享，或者大V是很危险的，因为你一旦公开分享了观点，就会受固有思维影响，而行情又是不断演进变化的，特别是实盘类的分享，会严重影响心态，以导致不止损止盈、不按纪律、头铁（原有观点影响）等，所以分享观点是一个很重要的思维枷锁，一定要谨慎听、说、读、写。
+- `2023017445636849782` | 2026-02-15 20:51:59 GMT+8 | reply | https://x.com/iiiinvest/status/2023017445636849782 | @xtony1314 不图那点过路费，提前回了
+- `2023307551354519938` | 2026-02-16 16:04:46 GMT+8 | reply | https://x.com/iiiinvest/status/2023307551354519938 | @liujia0224 你不是做交易的吗，怎么也开始囤币了？
+- `2023409904573374754` | 2026-02-16 22:51:29 GMT+8 | original | https://x.com/iiiinvest/status/2023409904573374754 | 大家新春快乐，祝大家新年马上发财💰
+- `2024433138383102022` | 2026-02-19 18:37:26 GMT+8 | original | https://x.com/iiiinvest/status/2024433138383102022 | 每一次夏普比率极低之后，都会迎来价格的一波上涨，现在不一定是最低价格，但一定是底部区域。
+- `2024444377385619932` | 2026-02-19 19:22:06 GMT+8 | reply | https://x.com/iiiinvest/status/2024444377385619932 | @xtony1314 你和钱有缘分
+- `2024722490828980346` | 2026-02-20 13:47:13 GMT+8 | original | https://x.com/iiiinvest/status/2024722490828980346 | 一周马上又过去了，本周在坚定的执行"本周计划"，其实一周不需要操作多少次，一年也就个位数的好标的，然后每个标的可能叠加个位数的操作机会。那么叠加下来，可能操作次数在20-50次是合理的，也就是1个月差不多2-5次的操作，放在每周就是操作1次。
+- `2024733104565604789` | 2026-02-20 14:29:24 GMT+8 | reply | https://x.com/iiiinvest/status/2024733104565604789 | @xtony1314 @iiiinvest 根据纪律，已经做多了。
+- `2025600981732643207` | 2026-02-22 23:58:02 GMT+8 | quote | https://x.com/iiiinvest/status/2025600981732643207 | 下周（2月23日到3月1日）分析及计划：
+- `2025601188893499573` | 2026-02-22 23:58:51 GMT+8 | reply | https://x.com/iiiinvest/status/2025601188893499573 | 大家多点赞支持 ↑↑↑
+- `2025713601001193741` | 2026-02-23 07:25:33 GMT+8 | reply | https://x.com/iiiinvest/status/2025713601001193741 | @Pathusa 不是底部价格，但目前基本是底部区域了
+- `2025758672002097457` | 2026-02-23 10:24:38 GMT+8 | reply | https://x.com/iiiinvest/status/2025758672002097457 | @Imlaomao 矿工卖出，逻辑上确实不符合常理
+- `2025759074474938664` | 2026-02-23 10:26:14 GMT+8 | reply | https://x.com/iiiinvest/status/2025759074474938664 | @Dp520888 矿工原则上不会低于成本价卖出
+- `2025760069997170854` | 2026-02-23 10:30:12 GMT+8 | original | https://x.com/iiiinvest/status/2025760069997170854 | 吴忌寒卖出比特币，代表了部分矿工的想法，原则上矿工是持续不断的卖方，如果低于成本价，理应不卖，但却卖出。要么是发现了我们不知道的风险，要么是脑袋被🫏踢了
+- `2025768258062975319` | 2026-02-23 11:02:44 GMT+8 | original | https://x.com/iiiinvest/status/2025768258062975319 | 操，比特币好垃圾啊，美股一个趔趄，它跌一个大跟斗，沙雕，弱鸡
+- `2026172387763630474` | 2026-02-24 13:48:36 GMT+8 | original | https://x.com/iiiinvest/status/2026172387763630474 | 在极端的环境下，没有分歧，只有一致。目前的比特币就是千夫所指，这时候你我都是那个落井下石的人，不要不承认，你也只是想在它身上赚钱而已。
+- `2026294795426275387` | 2026-02-24 21:55:00 GMT+8 | reply | https://x.com/iiiinvest/status/2026294795426275387 | @BTCdayu 别说了，这天天见
+- `2026296088395940133` | 2026-02-24 22:00:08 GMT+8 | reply | https://x.com/iiiinvest/status/2026296088395940133 | @Billions_2022_ 你这段极容易让人头脑一热冲进去。。。
+- `2026298764663919022` | 2026-02-24 22:10:46 GMT+8 | original | https://x.com/iiiinvest/status/2026298764663919022 | 微软，跌回25年关税战价格了。。。现在指数太失真了 https://t.co/vO3DxSlgSh
+- `2026300175317434446` | 2026-02-24 22:16:23 GMT+8 | original | https://x.com/iiiinvest/status/2026300175317434446 | 2026年，第一要务：保住本金。
+- `2026300598656872753` | 2026-02-24 22:18:04 GMT+8 | reply | https://x.com/iiiinvest/status/2026300598656872753 | @hongshen6666btc 最大利空，也是最后利空。
+- `2026302169398522285` | 2026-02-24 22:24:18 GMT+8 | original | https://x.com/iiiinvest/status/2026302169398522285 | 就这鸟样，比特币的资金费率还基本都是正的，币安产品经理是傻逼吗？@heyibinance https://t.co/qwB1RqctGR
+- `2026303266381029813` | 2026-02-24 22:28:40 GMT+8 | reply | https://x.com/iiiinvest/status/2026303266381029813 | @TaoRay 不赌怎么翻身，赌没错，错的是方式方法。。。
+- `2026446021577028008` | 2026-02-25 07:55:55 GMT+8 | reply | https://x.com/iiiinvest/status/2026446021577028008 | @TJ_Research Crcl屋漏偏逢连夜雨
+- `2026692994607518173` | 2026-02-26 00:17:18 GMT+8 | original | https://x.com/iiiinvest/status/2026692994607518173 | 又加了一些现货比特币，但有个失误导致多平单子在最低价平了，失误啊
+- `2026881780897505754` | 2026-02-26 12:47:28 GMT+8 | original | https://x.com/iiiinvest/status/2026881780897505754 | 最近行情很有意思，值得好好梳理，这周还剩最后两个交易日，按制定计划执行！
+- `2026882670538747993` | 2026-02-26 12:51:00 GMT+8 | reply | https://x.com/iiiinvest/status/2026882670538747993 | @Walden779 波涛汹涌。。。
+- `2026884483933417701` | 2026-02-26 12:58:13 GMT+8 | reply | https://x.com/iiiinvest/status/2026884483933417701 | @huahuayjy Mstr
+- `2027038125965639974` | 2026-02-26 23:08:44 GMT+8 | reply | https://x.com/iiiinvest/status/2027038125965639974 | @FuSheng_0306 懂了，传下去，傅盛摸鱼
+- `2027040319435583584` | 2026-02-26 23:17:27 GMT+8 | reply | https://x.com/iiiinvest/status/2027040319435583584 | @Walden779 一个多一个空，啥操作
+- `2027041360310903037` | 2026-02-26 23:21:35 GMT+8 | reply | https://x.com/iiiinvest/status/2027041360310903037 | @Walden779 已经开始崩了
+- `2027042627607220604` | 2026-02-26 23:26:37 GMT+8 | original | https://x.com/iiiinvest/status/2027042627607220604 | 英伟达财报这么炸裂，依旧下跌，最近七大的财报表明，现在根本不看业绩，而是看估值，估值高，股价高，恐高！！！ https://t.co/UFcBVgIs9l
+- `2027043844660003237` | 2026-02-26 23:31:27 GMT+8 | reply | https://x.com/iiiinvest/status/2027043844660003237 | @yifaer_chen 6.3万得看什么周期
+- `2027205040839250117` | 2026-02-27 10:12:00 GMT+8 | reply | https://x.com/iiiinvest/status/2027205040839250117 | @FuSheng_0306 懂了，我可以摸鱼你不行
+- `2027205344401952825` | 2026-02-27 10:13:12 GMT+8 | reply | https://x.com/iiiinvest/status/2027205344401952825 | @lxfater 人感没了
+- `2027211616115396927` | 2026-02-27 10:38:07 GMT+8 | reply | https://x.com/iiiinvest/status/2027211616115396927 | @Chris_Defi 真相
+- `2027268643214762492` | 2026-02-27 14:24:44 GMT+8 | reply | https://x.com/iiiinvest/status/2027268643214762492 | @ChandlerGuo 别喊了，都没流动性了
+- `2027270259103896050` | 2026-02-27 14:31:09 GMT+8 | original | https://x.com/iiiinvest/status/2027270259103896050 | 尼玛，谁如果没逻辑直接喊单，大家一起拉黑。
+- `2027270283976208706` | 2026-02-27 14:31:15 GMT+8 | reply | https://x.com/iiiinvest/status/2027270283976208706 | @thankUcrypto 尼玛，谁如果没逻辑直接喊单，大家一起拉黑。
+- `2027270564747055162` | 2026-02-27 14:32:22 GMT+8 | reply | https://x.com/iiiinvest/status/2027270564747055162 | @Billions_2022_ 要看今晚美股的走势
+- `2027317409686990969` | 2026-02-27 17:38:30 GMT+8 | original | https://x.com/iiiinvest/status/2027317409686990969 | 温水煮青蛙，一看卧槽的事：美元较人民币贬值，较去年高点下跌7%，也就是你美元空仓也被割7%，别问我为什么感觉肉疼。。。 https://t.co/xIc1gpAOVi
+- `2027406876036776390` | 2026-02-27 23:34:01 GMT+8 | reply | https://x.com/iiiinvest/status/2027406876036776390 | @wufantouzi 今晚还算硬
+- `2027407043330785672` | 2026-02-27 23:34:41 GMT+8 | reply | https://x.com/iiiinvest/status/2027407043330785672 | @FengBlues 没结束
+- `2027415595629822050` | 2026-02-28 00:08:40 GMT+8 | reply | https://x.com/iiiinvest/status/2027415595629822050 | @xtony1314 艹，又给你装到了
+- `2027416873726554257` | 2026-02-28 00:13:44 GMT+8 | reply | https://x.com/iiiinvest/status/2027416873726554257 | @DoctorMbitcoin 发这个有什么用？
+- `2027541636142796950` | 2026-02-28 08:29:30 GMT+8 | reply | https://x.com/iiiinvest/status/2027541636142796950 | @ftwbitcoin911 所有无脑喊单，推荐拉黑。。。
+- `2027617922194280660` | 2026-02-28 13:32:38 GMT+8 | reply | https://x.com/iiiinvest/status/2027617922194280660 | @xtony1314 同理，还有：一切皆有可能
+- `2027618162473349267` | 2026-02-28 13:33:35 GMT+8 | reply | https://x.com/iiiinvest/status/2027618162473349267 | @ChandlerGuo 喊个几把
+- `2027620637263740931` | 2026-02-28 13:43:25 GMT+8 | original | https://x.com/iiiinvest/status/2027620637263740931 | 过年两个感受：
+- `2028026748722680238` | 2026-03-01 16:37:10 GMT+8 | reply | https://x.com/iiiinvest/status/2028026748722680238 | @xtony1314 真相，@grok 说一下背后的逻辑
+- `2028027214198149557` | 2026-03-01 16:39:01 GMT+8 | original | https://x.com/iiiinvest/status/2028027214198149557 | 想了想还是周一发一周操作计划，不然周末的波动很难去处理，一个7*24小时的市场，需要等大哥美股开盘定方向。
+- `2028103270514753784` | 2026-03-01 21:41:14 GMT+8 | quote | https://x.com/iiiinvest/status/2028103270514753784 | 下周（3月2日-3月8日）行情分析及操作计划：
+- `2028104567473443030` | 2026-03-01 21:46:23 GMT+8 | reply | https://x.com/iiiinvest/status/2028104567473443030 | 大家多点赞支持 ↑↑↑
+- `2028107736270196740` | 2026-03-01 21:58:59 GMT+8 | original | https://x.com/iiiinvest/status/2028107736270196740 | 事件驱动行情变化真快，刚发完周报，比特币多平还没开行情就上涨了，想想还是狠心开了，最终开在了6.7万
+- `2028107996447011209` | 2026-03-01 22:00:01 GMT+8 | reply | https://x.com/iiiinvest/status/2028107996447011209 | @mattecho233 港股粪坑，大逻辑还是跟美股。
+- `2028118651317215338` | 2026-03-01 22:42:21 GMT+8 | reply | https://x.com/iiiinvest/status/2028118651317215338 | @xtony1314 周一美股高开
+- `2028123405673980096` | 2026-03-01 23:01:15 GMT+8 | reply | https://x.com/iiiinvest/status/2028123405673980096 | @hangtouhangnao 现在行情用交易所的也够了
+- `2028130398983856435` | 2026-03-01 23:29:02 GMT+8 | reply | https://x.com/iiiinvest/status/2028130398983856435 | @silverfang88 说的真踏马对
+- `2028130869492465884` | 2026-03-01 23:30:54 GMT+8 | original | https://x.com/iiiinvest/status/2028130869492465884 | @CryptoRounder @grok 总结这本书主要观点
+- `2028134718538207412` | 2026-03-01 23:46:12 GMT+8 | reply | https://x.com/iiiinvest/status/2028134718538207412 | @grok 先是委内瑞拉，然后是伊朗，接下来大概率是那个国家，你懂我的意思
+- `2028135421667151909` | 2026-03-01 23:49:00 GMT+8 | reply | https://x.com/iiiinvest/status/2028135421667151909 | @jiaoyisuipian @grok 总结文中所提到的博主火热原因
+- `2028137837498188265` | 2026-03-01 23:58:36 GMT+8 | reply | https://x.com/iiiinvest/status/2028137837498188265 | @williamlab @grok 为什么失业都是运营岗为主
+- `2028138903379841399` | 2026-03-02 00:02:50 GMT+8 | reply | https://x.com/iiiinvest/status/2028138903379841399 | @yyds123888 之前写过一篇，实盘极容易影响心态和纪律
+- `2028247745618985068` | 2026-03-02 07:15:20 GMT+8 | reply | https://x.com/iiiinvest/status/2028247745618985068 | 6.6已经止损比特币多平
+- `2028247874023403563` | 2026-03-02 07:15:50 GMT+8 | reply | https://x.com/iiiinvest/status/2028247874023403563 | 6.6已止损比特币多平
+- `2028303028068274464` | 2026-03-02 10:55:00 GMT+8 | reply | https://x.com/iiiinvest/status/2028303028068274464 | @xtony1314 去吧记得发推
+- `2028346826676650007` | 2026-03-02 13:49:02 GMT+8 | reply | https://x.com/iiiinvest/status/2028346826676650007 | @CryptoRounder 哪有那么多正经人，我现实中也是高大上职业职位，不一样炒币。
+- `2028347043463544998` | 2026-03-02 13:49:54 GMT+8 | reply | https://x.com/iiiinvest/status/2028347043463544998 | @xtony1314 说的头头是道，诺奖你家的？
+- `2028347298464612370` | 2026-03-02 13:50:55 GMT+8 | reply | https://x.com/iiiinvest/status/2028347298464612370 | @Web3Feng 你没孩子吧，养孩子就是伪命题，孩子自带干粮
+- `2028347530015301808` | 2026-03-02 13:51:50 GMT+8 | reply | https://x.com/iiiinvest/status/2028347530015301808 | @Crypto_Cat888 老哥，看向我
+- `2028353841604022673` | 2026-03-02 14:16:55 GMT+8 | reply | https://x.com/iiiinvest/status/2028353841604022673 | @qinbafrank @grok 帖子说的有没有逻辑，为什么
+- `2028355429106118836` | 2026-03-02 14:23:13 GMT+8 | reply | https://x.com/iiiinvest/status/2028355429106118836 | @TJ_Research 法律约束弱者的同时，还提供了心理按摩
+- `2028356766262829399` | 2026-03-02 14:28:32 GMT+8 | reply | https://x.com/iiiinvest/status/2028356766262829399 | @AriXZone 有道理
+- `2028360236135035170` | 2026-03-02 14:42:20 GMT+8 | quote | https://x.com/iiiinvest/status/2028360236135035170 | 这个帖子很有价值。 https://t.co/ULQEv5xmkX
+- `2028453702743494730` | 2026-03-02 20:53:44 GMT+8 | reply | https://x.com/iiiinvest/status/2028453702743494730 | @Walden779 这行情，定好止盈止损，干就完了饿
+- `2028453960923943304` | 2026-03-02 20:54:45 GMT+8 | reply | https://x.com/iiiinvest/status/2028453960923943304 | @Billions_2022_ 含金量更高？价格更低？
+- `2028454700262236566` | 2026-03-02 20:57:42 GMT+8 | quote | https://x.com/iiiinvest/status/2028454700262236566 | 有一说一，今天开盘并不及预期。斩首是比较确定的利好，然后被拖延的利空掩盖了，那么接下来除了达成协议这条利好外，其他时间都是利空，所以做多要谨慎再谨慎。 https://t.co/EQGfINrzLw
+- `2028500172226142481` | 2026-03-02 23:58:23 GMT+8 | reply | https://x.com/iiiinvest/status/2028500172226142481 | @thankUcrypto 等你格局就收割。。。
+- `2028500472550825989` | 2026-03-02 23:59:35 GMT+8 | original | https://x.com/iiiinvest/status/2028500472550825989 | 今晚比特币要强于美股，上次是6万反弹那波，且高看一眼。接下来美股大概率震荡，期望给比特币多点时间。
+- `2028500679631995023` | 2026-03-03 00:00:24 GMT+8 | reply | https://x.com/iiiinvest/status/2028500679631995023 | @xtony1314 格局了是吧，收割~
+- `2028501415853985994` | 2026-03-03 00:03:19 GMT+8 | reply | https://x.com/iiiinvest/status/2028501415853985994 | @Walden779 晒完就收割你。。。
+- `2028501864489357700` | 2026-03-03 00:05:06 GMT+8 | reply | https://x.com/iiiinvest/status/2028501864489357700 | @FengBlues 币圈啊
+- `2028703559655809384` | 2026-03-03 13:26:34 GMT+8 | original | https://x.com/iiiinvest/status/2028703559655809384 | 现在的几把行情，只要你一格局，他就割你。。。
+- `2028703854519623829` | 2026-03-03 13:27:45 GMT+8 | reply | https://x.com/iiiinvest/status/2028703854519623829 | @0xVeryBigOrange 错了，还有XAU和XAG，哈哈
+- `2028704875887153497` | 2026-03-03 13:31:48 GMT+8 | original | https://x.com/iiiinvest/status/2028704875887153497 | @ohyishi 错了，真的止损或者止盈位置应该是破8万那次，破8万就该走了，其他时间都是猜顶罢了
+- `2028707045265056205` | 2026-03-03 13:40:25 GMT+8 | reply | https://x.com/iiiinvest/status/2028707045265056205 | @ohyishi 别欺骗也别安慰，静静等待吧，瞎喊只会受伤更重。
+- `2028719019092766793` | 2026-03-03 14:28:00 GMT+8 | reply | https://x.com/iiiinvest/status/2028719019092766793 | @imwsl90 我现实中也和普通人没啥鸟区别
+- `2028753183796015536` | 2026-03-03 16:43:46 GMT+8 | reply | https://x.com/iiiinvest/status/2028753183796015536 | @jesus14god 兴奋啥，躺着
+- `2028858701474587078` | 2026-03-03 23:43:03 GMT+8 | original | https://x.com/iiiinvest/status/2028858701474587078 | 比特币今晚比较强势，67000做多了
+- `2028862132964757754` | 2026-03-03 23:56:41 GMT+8 | original | https://x.com/iiiinvest/status/2028862132964757754 | 突然有点感觉了，最近打仗，美元一直在涨，纯纯的避险资产，那么比特币某些层面就是影子美元，叠加今晚这么硬，卧槽，好像是那么回事。
+- `2028867361844109720` | 2026-03-04 00:17:28 GMT+8 | original | https://x.com/iiiinvest/status/2028867361844109720 | 买了比特币，买了crcl，买了mstr，睡觉😴...
+- `2029007551191519331` | 2026-03-04 09:34:31 GMT+8 | reply | https://x.com/iiiinvest/status/2029007551191519331 | @bingtangchen8 没
+- `2029064065012908411` | 2026-03-04 13:19:05 GMT+8 | reply | https://x.com/iiiinvest/status/2029064065012908411 | @CryptoRounder 同操作，这种行情网格首选
+- `2029066623047590374` | 2026-03-04 13:29:15 GMT+8 | original | https://x.com/iiiinvest/status/2029066623047590374 | 现在的行情，最重要的是认识到：现在美股是震荡市，很难形成连贯的趋势，那操作上就要敢买敢卖，不然一格局就被割。
+- `2029067751579680884` | 2026-03-04 13:33:44 GMT+8 | reply | https://x.com/iiiinvest/status/2029067751579680884 | @CryptoRounder 你这样杠杆有点高啊，下半年应该探底，那么买或卖选一个应该就行了
+- `2029067968735535227` | 2026-03-04 13:34:36 GMT+8 | reply | https://x.com/iiiinvest/status/2029067968735535227 | @Walden779 绝了，又漂亮还会赚钱
+- `2029069005059973430` | 2026-03-04 13:38:43 GMT+8 | original | https://x.com/iiiinvest/status/2029069005059973430 | 当前的比特币其实很有价值，当然价值不在投资标的本身，而是监控风险偏好。
+- `2029069243451621504` | 2026-03-04 13:39:40 GMT+8 | original | https://x.com/iiiinvest/status/2029069243451621504 | @ChandlerGuo 滚犊子，骗子
+- `2029073726361502183` | 2026-03-04 13:57:29 GMT+8 | reply | https://x.com/iiiinvest/status/2029073726361502183 | @UnicornBitcoin 历史他娘的是胜的人写的
+- `2029082352165732672` | 2026-03-04 14:31:45 GMT+8 | reply | https://x.com/iiiinvest/status/2029082352165732672 | @Walden779 抛弃这种念头，它会欺骗你
+- `2029082775513645148` | 2026-03-04 14:33:26 GMT+8 | reply | https://x.com/iiiinvest/status/2029082775513645148 | @xtony1314 卧槽，给赌狗最佳的理由，过年贴对联
+- `2029123787246190875` | 2026-03-04 17:16:24 GMT+8 | quote | https://x.com/iiiinvest/status/2029123787246190875 | 舒服了 https://t.co/sqChBMLp6m
+- `2029217494943318354` | 2026-03-04 23:28:46 GMT+8 | original | https://x.com/iiiinvest/status/2029217494943318354 | 昨晚开的比特币多平，效果不错 https://t.co/LFu2bbLBJb
+- `2029343682584043687` | 2026-03-05 07:50:11 GMT+8 | reply | https://x.com/iiiinvest/status/2029343682584043687 | @CryptoRounder 互相学习🙏🏻
+- `2029343780399436259` | 2026-03-05 07:50:35 GMT+8 | original | https://x.com/iiiinvest/status/2029343780399436259 | @mattecho233 我用的币安
+- `2029343961958236637` | 2026-03-05 07:51:18 GMT+8 | reply | https://x.com/iiiinvest/status/2029343961958236637 | @mattecho233 我是bn
+- `2029344089167282299` | 2026-03-05 07:51:48 GMT+8 | reply | https://x.com/iiiinvest/status/2029344089167282299 | @lostsollar 每周会发，操作思路都有的
+- `2029344140610416859` | 2026-03-05 07:52:01 GMT+8 | reply | https://x.com/iiiinvest/status/2029344140610416859 | @hangtouhangnao 🙏🏻
+- `2029359180457623753` | 2026-03-05 08:51:46 GMT+8 | reply | https://x.com/iiiinvest/status/2029359180457623753 | @feifan7686 别幻想，尊重事实，我准备止盈了
+- `2029359387933065230` | 2026-03-05 08:52:36 GMT+8 | reply | https://x.com/iiiinvest/status/2029359387933065230 | @Walden779 卧槽，这是写了本书吗
+- `2029359984262431170` | 2026-03-05 08:54:58 GMT+8 | original | https://x.com/iiiinvest/status/2029359984262431170 | 关于比特币别意淫，尊重事实和数据，什么是事实？事实是熊市反弹而已，数据是昨晚比特币先反应且今早又没跟上美股，见之前所说，目前把比特币当风险偏好前沿指标而已。
+- `2029432247955452121` | 2026-03-05 13:42:07 GMT+8 | reply | https://x.com/iiiinvest/status/2029432247955452121 | @xtony1314 150？真抠
+- `2029432438888583432` | 2026-03-05 13:42:53 GMT+8 | reply | https://x.com/iiiinvest/status/2029432438888583432 | @Walden779 各个市场出击啊
+- `2029438170555916661` | 2026-03-05 14:05:39 GMT+8 | reply | https://x.com/iiiinvest/status/2029438170555916661 | @TJ_Research @grok 总结一下视频的观点，并简要呈现出来
+- `2029475963969646787` | 2026-03-05 16:35:50 GMT+8 | reply | https://x.com/iiiinvest/status/2029475963969646787 | @xtony1314 就是大号韭菜
+- `2029477467191427277` | 2026-03-05 16:41:48 GMT+8 | original | https://x.com/iiiinvest/status/2029477467191427277 | 卧槽，差点忘了spacex上市这个大宝贝，还是要继续sell put，对现在这种市场绝对嘎嘎的
+- `2029484803742126467` | 2026-03-05 17:10:57 GMT+8 | reply | https://x.com/iiiinvest/status/2029484803742126467 | @traders18 不管选谁，都不可能短期缓和，不然国内怎么看他
+- `2029486843771941175` | 2026-03-05 17:19:04 GMT+8 | original | https://x.com/iiiinvest/status/2029486843771941175 | 更新下btc和eth的多平网格收益，其实目前电鱼用交易所的机器人足够了，关键是开仓点位和区间，电鱼比单纯持仓能起到心理按摩作用。特别适合现在的震荡行情。 https://t.co/wALi1Hp8xO
+- `2029541357099098117` | 2026-03-05 20:55:41 GMT+8 | reply | https://x.com/iiiinvest/status/2029541357099098117 | @FengBlues 相互交流学习
+- `2029542181493760176` | 2026-03-05 20:58:57 GMT+8 | original | https://x.com/iiiinvest/status/2029542181493760176 | 现在白天，也就是亚盘，比特币表现较美股比较弱势，基本处于阴跌状态。反而是到了晚上，也就是美股开盘前，比特币表现较美股反而变强了。
+- `2029549146156446020` | 2026-03-05 21:26:38 GMT+8 | original | https://x.com/iiiinvest/status/2029549146156446020 | 卧槽，给老铁充值下信仰，分享个数据，如图：
+- `2029550758459572403` | 2026-03-05 21:33:02 GMT+8 | original | https://x.com/iiiinvest/status/2029550758459572403 | 要不是新闻强制推送两会，我关注鸟的政府工作报告，和我有个毛关系。。。
+- `2029572819282248162` | 2026-03-05 23:00:42 GMT+8 | reply | https://x.com/iiiinvest/status/2029572819282248162 | @hazenlee 大妈的女儿们
+- `2029742743854141662` | 2026-03-06 10:15:55 GMT+8 | original | https://x.com/iiiinvest/status/2029742743854141662 | 再记录两个赚钱机会，一个是腾讯一个是微软，都属于短期超跌，但都属于被消息面和情绪杀下来的，这种要回去很简单，只需要基本面站住就行。
+- `2029743540016927109` | 2026-03-06 10:19:05 GMT+8 | reply | https://x.com/iiiinvest/status/2029743540016927109 | @Pathusa 别扯了，亮单子吧
+- `2029751890519674910` | 2026-03-06 10:52:16 GMT+8 | reply | https://x.com/iiiinvest/status/2029751890519674910 | @bitfish @grok 是不是ai写的
+- `2029792791828807769` | 2026-03-06 13:34:47 GMT+8 | reply | https://x.com/iiiinvest/status/2029792791828807769 | @xtony1314 尼玛，看来只能信一半
+- `2029835213241806936` | 2026-03-06 16:23:22 GMT+8 | reply | https://x.com/iiiinvest/status/2029835213241806936 | @thankUcrypto 已经做多了，不口嗨 https://t.co/YsPqZjW2JD
+- `2029841075985375346` | 2026-03-06 16:46:39 GMT+8 | original | https://x.com/iiiinvest/status/2029841075985375346 | 以后每天会发日报，会复盘当天情况及标的表现。
+- `2029916767250960787` | 2026-03-06 21:47:25 GMT+8 | reply | https://x.com/iiiinvest/status/2029916767250960787 | @CryptoRounder 美股盘前比特币还算硬的。如果美股今晚不大跌7万大概率守得住。另外卖低位put就可以，为什么选择卖call，是持有现货吗
+- `2029916944619688093` | 2026-03-06 21:48:08 GMT+8 | original | https://x.com/iiiinvest/status/2029916944619688093 | 美股盘前，比特币相对强一些，还是之前发的那个逻辑，现在亚盘弱，美盘时间强，美股不大跌，7万大概率守住了
+- `2029917929278677132` | 2026-03-06 21:52:03 GMT+8 | reply | https://x.com/iiiinvest/status/2029917929278677132 | @CryptoRounder 卖call感觉还是谨慎些，毕竟比特币现在不怎么跟美股，不知道有没有啥坑
+- `2029918305683919147` | 2026-03-06 21:53:32 GMT+8 | reply | https://x.com/iiiinvest/status/2029918305683919147 | @AaronCarrot 爱好
+- `2029920656729723370` | 2026-03-06 22:02:53 GMT+8 | original | https://x.com/iiiinvest/status/2029920656729723370 | 现在比特币最大的问题是流动性问题，怎么判断是不是流动性问题，可以打开1分钟线，就在刚刚1分钟砸下来1%，这就是流动性问题，某个所谓大户就能短暂砸穿K线。
+- `2029926527929053454` | 2026-03-06 22:26:13 GMT+8 | original | https://x.com/iiiinvest/status/2029926527929053454 | 特朗普就是投资交易最佳排挡，盘前买了点TQQQ
+- `2029947591820201990` | 2026-03-06 23:49:55 GMT+8 | original | https://x.com/iiiinvest/status/2029947591820201990 | 🔥3月6日 电鱼哥 复盘及计划：
+- `2029950097799381293` | 2026-03-06 23:59:52 GMT+8 | reply | https://x.com/iiiinvest/status/2029950097799381293 | TQQQ已平，小赚1万U
+- `2029957885707599936` | 2026-03-07 00:30:49 GMT+8 | reply | https://x.com/iiiinvest/status/2029957885707599936 | @mattecho233 经常拉稀说明没食物，流动性不行
+- `2030496880082468980` | 2026-03-08 12:12:35 GMT+8 | original | https://x.com/iiiinvest/status/2030496880082468980 | 比特币和以太坊的多平都平了，太弱鸡了，周一看这趋势美股低开概率挺大。
+- `2030808548482109703` | 2026-03-09 08:51:03 GMT+8 | quote | https://x.com/iiiinvest/status/2030808548482109703 | 美股大幅低开2%，夜盘先买点TQQQ https://t.co/vTAxEBqUy3
+- `2030870136312508858` | 2026-03-09 12:55:46 GMT+8 | original | https://x.com/iiiinvest/status/2030870136312508858 | 今天市场很有意思，美股盘前恐慌砸盘，几乎没反弹的压到-2.7%，我分批加了2次TQQQ，盘前拉升就出掉。
+- `2030951332308463677` | 2026-03-09 18:18:25 GMT+8 | quote | https://x.com/iiiinvest/status/2030951332308463677 | 都卖了，等开盘 https://t.co/VcCe21mKFi https://t.co/ZaceLaV4zl
+- `2030998071501578308` | 2026-03-09 21:24:09 GMT+8 | original | https://x.com/iiiinvest/status/2030998071501578308 | 今天无论是交易员，还是囤币党，看比特币走势基本都能干沉默，完全走出二五八万的气势。
+- `2031003242273067126` | 2026-03-09 21:44:41 GMT+8 | reply | https://x.com/iiiinvest/status/2031003242273067126 | @mattecho233 震荡市场，赚点小钱
+- `2031008974846464025` | 2026-03-09 22:07:28 GMT+8 | reply | https://x.com/iiiinvest/status/2031008974846464025 | @CryptoRounder 有可能，目前看熊市反弹大概率没结束
+- `2031012730594058661` | 2026-03-09 22:22:24 GMT+8 | quote | https://x.com/iiiinvest/status/2031012730594058661 | 🔥3月7日电鱼哥 x 投资日记
+- `2031014628373958755` | 2026-03-09 22:29:56 GMT+8 | reply | https://x.com/iiiinvest/status/2031014628373958755 | @CryptoRounder 看7万能不能站稳
+- `2031017694007590914` | 2026-03-09 22:42:07 GMT+8 | original | https://x.com/iiiinvest/status/2031017694007590914 | 想了想，还是每天早上写发财日记。
+- `2031171592089383034` | 2026-03-10 08:53:39 GMT+8 | reply | https://x.com/iiiinvest/status/2031171592089383034 | 3月9日，写错了
+- `2031176209695125582` | 2026-03-10 09:12:00 GMT+8 | quote | https://x.com/iiiinvest/status/2031176209695125582 | 🔥3月10日电鱼哥发财日记
+- `2031183606706745626` | 2026-03-10 09:41:24 GMT+8 | quote | https://x.com/iiiinvest/status/2031183606706745626 | 🔥3月10日电鱼哥发财日记
+- `2031184208392311120` | 2026-03-10 09:43:47 GMT+8 | original | https://x.com/iiiinvest/status/2031184208392311120 | 腾讯开始发力了，短线关注3.18财报日 https://t.co/VsyI5p8EAL
+- `2031199263087296632` | 2026-03-10 10:43:36 GMT+8 | quote | https://x.com/iiiinvest/status/2031199263087296632 | 比特币突破7万，按照计划直接干进去了 https://t.co/ttKvOQEPMu
+- `2031200009132322854` | 2026-03-10 10:46:34 GMT+8 | quote | https://x.com/iiiinvest/status/2031200009132322854 | 比特币突破7万，按照计划直接干进去了 https://t.co/t1dm7clkmM https://t.co/ttKvOQEPMu
+- `2031232787152515131` | 2026-03-10 12:56:49 GMT+8 | original | https://x.com/iiiinvest/status/2031232787152515131 | 昨天还亏损呢，今天直接赚40多万，还要啥自行车🚲 https://t.co/YLCf5bm4sg
+- `2031240191365755115` | 2026-03-10 13:26:14 GMT+8 | reply | https://x.com/iiiinvest/status/2031240191365755115 | @RunDoris 前期涨的太猛了，我暂时不碰
+- `2031281180990144937` | 2026-03-10 16:09:07 GMT+8 | original | https://x.com/iiiinvest/status/2031281180990144937 | 收盘了，到账8万美金，舒服 #腾讯 #港股 #美股 https://t.co/78C14HgtQp
+- `2031341902826705155` | 2026-03-10 20:10:24 GMT+8 | reply | https://x.com/iiiinvest/status/2031341902826705155 | @Ddd9951211 😘
+- `2031375456164098457` | 2026-03-10 22:23:44 GMT+8 | original | https://x.com/iiiinvest/status/2031375456164098457 | 今天比特币的走势又把我干沉默了，这几把走势太难操作了
+- `2031376356546879566` | 2026-03-10 22:27:19 GMT+8 | reply | https://x.com/iiiinvest/status/2031376356546879566 | @Jackyi_ld 可别瞎扯了，加密有VC吗，都几把镰刀。
+- `2031384922477441196` | 2026-03-10 23:01:21 GMT+8 | original | https://x.com/iiiinvest/status/2031384922477441196 | 我就想问，比特币在开盘后跌这一下是啥目的？
+- `2031385755579506901` | 2026-03-10 23:04:40 GMT+8 | reply | https://x.com/iiiinvest/status/2031385755579506901 | @FLS_OTC 精神病如何自救
+- `2031389098813042794` | 2026-03-10 23:17:57 GMT+8 | reply | https://x.com/iiiinvest/status/2031389098813042794 | @islet0612 赢了
+- `2031537449743294529` | 2026-03-11 09:07:26 GMT+8 | repost | https://x.com/iiiinvest/status/2031537449743294529 | RT @iiiinvest: 🔥3月10日电鱼哥发财日记
+- `2031542518052184432` | 2026-03-11 09:27:35 GMT+8 | quote | https://x.com/iiiinvest/status/2031542518052184432 | 🔥3月11日电鱼哥发财日记
+- `2031597825742803160` | 2026-03-11 13:07:21 GMT+8 | original | https://x.com/iiiinvest/status/2031597825742803160 | 比特币也太不尊重人了，哪有围绕 7 万上上下下上上下下做功的？你当跳绳呢？
+- `2031907407551717472` | 2026-03-12 09:37:31 GMT+8 | reply | https://x.com/iiiinvest/status/2031907407551717472 | @JackXiaoM 雪盈
+- `2031910766358773886` | 2026-03-12 09:50:52 GMT+8 | quote | https://x.com/iiiinvest/status/2031910766358773886 | 🔥3月12日 电鱼哥 发财日记
+- `2031913588080984366` | 2026-03-12 10:02:05 GMT+8 | reply | https://x.com/iiiinvest/status/2031913588080984366 | @mattecho233 嗯
+- `2031920129853047017` | 2026-03-12 10:28:04 GMT+8 | reply | https://x.com/iiiinvest/status/2031920129853047017 | @xtony1314 都让币圈买单了
+- `2031924590671462413` | 2026-03-12 10:45:48 GMT+8 | original | https://x.com/iiiinvest/status/2031924590671462413 | 比特币空平试一下，止损设在7万 https://t.co/8BZiyMvCwr
+- `2031927935100506338` | 2026-03-12 10:59:05 GMT+8 | original | https://x.com/iiiinvest/status/2031927935100506338 | 开车路上突然想清点事，币圈相对还是比较封闭的，圈子内的人拿钱也就那几个标的，所以以前有吸血行情，有山寨行情，核心是圈子内的钱相互流动，到了这几年，以MSTR公司为主的资本进入，导致现在圈子失去了定价权，核心是资金和方向主导由之前的圈子内向外部变化了。
+- `2031928682932326626` | 2026-03-12 11:02:04 GMT+8 | original | https://x.com/iiiinvest/status/2031928682932326626 | Taco 总有一刻会被证伪，这可能是美股今年最大的黑天鹅。
+- `2032023617354285282` | 2026-03-12 17:19:18 GMT+8 | original | https://x.com/iiiinvest/status/2032023617354285282 | 今年，一定要降低预期，反复的告送自己。
+- `2032024094280204557` | 2026-03-12 17:21:11 GMT+8 | reply | https://x.com/iiiinvest/status/2032024094280204557 | @FengBlues 感觉，不会远了。。。
+- `2032109216375455948` | 2026-03-12 22:59:26 GMT+8 | original | https://x.com/iiiinvest/status/2032109216375455948 | 今天微软有点硬，不跟跌，大盘如果给点时间应该要反弹了
+- `2032220160531317240` | 2026-03-13 06:20:17 GMT+8 | original | https://x.com/iiiinvest/status/2032220160531317240 | 起初，人们认为这只是一个正常的震荡，没想到却是调整的开始。
+- `2032274973344297254` | 2026-03-13 09:58:06 GMT+8 | quote | https://x.com/iiiinvest/status/2032274973344297254 | 🔥3月13日 电鱼哥 白日梦记
+- `2032282755892167075` | 2026-03-13 10:29:01 GMT+8 | original | https://x.com/iiiinvest/status/2032282755892167075 | 忍住做空的小手，今天开盘再看，今晚很重要，再说一遍，很重要。
+- `2032634167725535557` | 2026-03-14 09:45:24 GMT+8 | original | https://x.com/iiiinvest/status/2032634167725535557 | 昨晚还不是底，周一如果恐慌开盘，能反弹还好，如果和周五似的一路阴跌，这波回调就会砸个坑🕳️
+- `2032750375162503624` | 2026-03-14 17:27:10 GMT+8 | original | https://x.com/iiiinvest/status/2032750375162503624 | 比特币如果你盯着K线，会发现控盘或者坐庄真的很明显。
+- `2032799062349742089` | 2026-03-14 20:40:38 GMT+8 | reply | https://x.com/iiiinvest/status/2032799062349742089 | @xtony1314 说羡慕别人，实际狠狠的肯定了自己一把！
+- `2032807453046485280` | 2026-03-14 21:13:59 GMT+8 | reply | https://x.com/iiiinvest/status/2032807453046485280 | @TJ_Research 一个没有流动性，且被高度控盘的事情，没啥好分析的
+- `2033190648602628444` | 2026-03-15 22:36:40 GMT+8 | reply | https://x.com/iiiinvest/status/2033190648602628444 | @hazenlee 苹果手机看着贵，但用得久用的爽，实际是更便宜
+- `2033358313572966573` | 2026-03-16 09:42:54 GMT+8 | quote | https://x.com/iiiinvest/status/2033358313572966573 | 3月16日 电鱼哥 白日梦记
+- `2033358492552286312` | 2026-03-16 09:43:37 GMT+8 | quote | https://x.com/iiiinvest/status/2033358492552286312 | 3月16日 电鱼哥 白日梦记
+- `2033367042959794589` | 2026-03-16 10:17:35 GMT+8 | reply | https://x.com/iiiinvest/status/2033367042959794589 | @Guilin_Chen_ 一起空它
+- `2033376474884080049` | 2026-03-16 10:55:04 GMT+8 | reply | https://x.com/iiiinvest/status/2033376474884080049 | @quarktalksss @grok 视频中一共几个人，都是谁，准确点说名字
+- `2033779732144128152` | 2026-03-17 13:37:28 GMT+8 | quote | https://x.com/iiiinvest/status/2033779732144128152 | 3.17 比特币冲高回落，美股震荡反弹
+- `2033779819935371708` | 2026-03-17 13:37:49 GMT+8 | reply | https://x.com/iiiinvest/status/2033779819935371708 | @cindylu24440659 怕美股回调带下来
+- `2033889041297641773` | 2026-03-17 20:51:49 GMT+8 | original | https://x.com/iiiinvest/status/2033889041297641773 | 通过战争验证了一件事，黄金白银不是避险资产，且现在高点就在哪里，那么交易纪律就比较好制定了。
+- `2033892066699448409` | 2026-03-17 21:03:51 GMT+8 | original | https://x.com/iiiinvest/status/2033892066699448409 | 现在的比特币，太几把难操作了。很难找到规律，今天你看美股，明天它就给你失效。今天强明天弱，无规律。
+- `2033929429471408244` | 2026-03-17 23:32:19 GMT+8 | original | https://x.com/iiiinvest/status/2033929429471408244 | 现在做空黄金白银的性价比很高，自己看K线。
+- `2033936369765257585` | 2026-03-17 23:59:53 GMT+8 | original | https://x.com/iiiinvest/status/2033936369765257585 | 有个事，为什么币安的交易机器人，每个单子都能成交全。而个人的挂单经常成交不完。
+- `2034090366597796062` | 2026-03-18 10:11:49 GMT+8 | quote | https://x.com/iiiinvest/status/2034090366597796062 | 3.18 白银小赚1万刀，拿好猎枪等机会
+- `2034154327590506582` | 2026-03-18 14:25:59 GMT+8 | original | https://x.com/iiiinvest/status/2034154327590506582 | 美股现在什么行情？
+- `2034160116858241355` | 2026-03-18 14:48:59 GMT+8 | quote | https://x.com/iiiinvest/status/2034160116858241355 | 熊市用好策略多收点利息，牛市才能起飞。 https://t.co/D9x9MvleHu
+- `2034251056549605730` | 2026-03-18 20:50:21 GMT+8 | quote | https://x.com/iiiinvest/status/2034251056549605730 | 这波做空舒服，等加速后会平掉。还是那句不要脑补太多，跟着行情走。 https://t.co/AoKalyOjvm
+- `2034441627960578478` | 2026-03-19 09:27:36 GMT+8 | original | https://x.com/iiiinvest/status/2034441627960578478 | 白银空单平掉了
+- `2034446037591679011` | 2026-03-19 09:45:08 GMT+8 | original | https://x.com/iiiinvest/status/2034446037591679011 | 3.19 市场刹车注意止盈，备好子弹擦好枪
+- `2034523930606915641` | 2026-03-19 14:54:39 GMT+8 | original | https://x.com/iiiinvest/status/2034523930606915641 | 今年，会有很多人把2023-2025年牛市赚的钱，都亏回去，甚至亏更多。
+- `2034541038518649219` | 2026-03-19 16:02:38 GMT+8 | original | https://x.com/iiiinvest/status/2034541038518649219 | 看目前比特币 白银 黄金等风险市场表现，今天美股大概率要测试前低了，盘前买点SQQQ做做短线。
+- `2034629797146661282` | 2026-03-19 21:55:19 GMT+8 | quote | https://x.com/iiiinvest/status/2034629797146661282 | 卖了，小赚1万U。找机会再买 https://t.co/vTuxig7iNL
+- `2034656199627731079` | 2026-03-19 23:40:14 GMT+8 | reply | https://x.com/iiiinvest/status/2034656199627731079 | @seelik970253 相互交流学习
+- `2034656269727121620` | 2026-03-19 23:40:31 GMT+8 | reply | https://x.com/iiiinvest/status/2034656269727121620 | @RunDoris 亏出来的经验，哈哈
+- `2034819607459242194` | 2026-03-20 10:29:34 GMT+8 | quote | https://x.com/iiiinvest/status/2034819607459242194 | 3.20 投机资产大跌，美股稳的一批
+- `2034860736435167670` | 2026-03-20 13:13:00 GMT+8 | reply | https://x.com/iiiinvest/status/2034860736435167670 | @mattecho233 确实跌的不顺畅
+- `2034890543738814784` | 2026-03-20 15:11:26 GMT+8 | reply | https://x.com/iiiinvest/status/2034890543738814784 | @Pathusa 明天？明天周六
+- `2034927973787476266` | 2026-03-20 17:40:10 GMT+8 | original | https://x.com/iiiinvest/status/2034927973787476266 | 今日看盘1小时，观察标的5个，操作0。
+- `2035149550684708972` | 2026-03-21 08:20:38 GMT+8 | quote | https://x.com/iiiinvest/status/2035149550684708972 | 3.21 美股血流成河，比特币硬的一批
+- `2035149598344593736` | 2026-03-21 08:20:50 GMT+8 | reply | https://x.com/iiiinvest/status/2035149598344593736 | @RunDoris 小钱
+- `2035541302545408368` | 2026-03-22 10:17:19 GMT+8 | original | https://x.com/iiiinvest/status/2035541302545408368 | 看比特币这走势，周一美股又危险了，在考虑要不要做空点黄金白银，毕竟咱们币圈有先手优势😊
+- `2035880530940702856` | 2026-03-23 08:45:18 GMT+8 | original | https://x.com/iiiinvest/status/2035880530940702856 | 马上就去遍地黄金
+- `2035900130361225438` | 2026-03-23 10:03:10 GMT+8 | quote | https://x.com/iiiinvest/status/2035900130361225438 | 3.23 战争继续发酵，行情隐含机会
+- `2035902664496841166` | 2026-03-23 10:13:15 GMT+8 | reply | https://x.com/iiiinvest/status/2035902664496841166 | 顺便提醒一句，目前不适合空了
+- `2035976768449020285` | 2026-03-23 15:07:42 GMT+8 | original | https://x.com/iiiinvest/status/2035976768449020285 | 黄金4200已买，别再跌了，再跌违规。
+- `2036039442901979579` | 2026-03-23 19:16:45 GMT+8 | quote | https://x.com/iiiinvest/status/2036039442901979579 | 10万U到账，逐步止盈。 https://t.co/3eOOijEFBQ https://t.co/oqqzHMs22z
+- `2036051273125126156` | 2026-03-23 20:03:46 GMT+8 | quote | https://x.com/iiiinvest/status/2036051273125126156 | 全卖了，有点不相信川普那张嘴，希望今晚开盘再给个低点开单。短期不做空了 https://t.co/zmNgIo31Db
+- `2036069515113767003` | 2026-03-23 21:16:15 GMT+8 | original | https://x.com/iiiinvest/status/2036069515113767003 | 短空一下纳指，开盘就扔
+- `2036071339745050939` | 2026-03-23 21:23:30 GMT+8 | reply | https://x.com/iiiinvest/status/2036071339745050939 | @Walden779 你这年纪这种认知，绝了。以后会越来越好
+- `2036076417558188261` | 2026-03-23 21:43:41 GMT+8 | quote | https://x.com/iiiinvest/status/2036076417558188261 | 血赚3000u，现在盘中反而没机会了。以后美股就是亚盘。。。 https://t.co/UQp5wqfEn9
+- `2036101424518779366` | 2026-03-23 23:23:03 GMT+8 | original | https://x.com/iiiinvest/status/2036101424518779366 | 预期还会有二探，但今天的低点应该能撑几天，这周一周二反弹，周三晃悠下，周四周五再跌。大趋势还是难反转。
+- `2036260851427189130` | 2026-03-24 09:56:33 GMT+8 | quote | https://x.com/iiiinvest/status/2036260851427189130 | 3.24 不格局就不被割
+- `2036311261101826402` | 2026-03-24 13:16:52 GMT+8 | reply | https://x.com/iiiinvest/status/2036311261101826402 | @CryptoRounder 其实低价挂单收STRC应该不错，rounder 你怎么看
+- `2036335530997416250` | 2026-03-24 14:53:18 GMT+8 | reply | https://x.com/iiiinvest/status/2036335530997416250 | @CryptoRounder 我准备挂单在97-91之间，这种价位应该都伴随大饼暴跌，暴跌后应该回归的概率比大饼反弹的概率高的多。但也是想法，时间太短不知道有没有其他风险
+- `2036338911145013592` | 2026-03-24 15:06:44 GMT+8 | reply | https://x.com/iiiinvest/status/2036338911145013592 | @CryptoRounder 有没有可能公司将利率压低，使价格长期低于100，最后融资变少流动性出现问题，好像这种也不符合公司意愿，低于100后主动降低利率的概率不大或者没可能？
+- `2036345075777806496` | 2026-03-24 15:31:14 GMT+8 | reply | https://x.com/iiiinvest/status/2036345075777806496 | @CryptoRounder @grok  作为投资专家，结合STRC设计分析上面讨论策略可执行性及风险，需严格符合STRC设计规则，穷举可能性。
+- `2036352065673540050` | 2026-03-24 15:59:00 GMT+8 | original | https://x.com/iiiinvest/status/2036352065673540050 | 不格局，不被割。
+- `2036371238927606119` | 2026-03-24 17:15:11 GMT+8 | original | https://x.com/iiiinvest/status/2036371238927606119 | 接下来几个关键节点：
+- `2036411408724971893` | 2026-03-24 19:54:49 GMT+8 | reply | https://x.com/iiiinvest/status/2036411408724971893 | @CryptoRounder @grok @grok 干活
+- `2036464242954740031` | 2026-03-24 23:24:45 GMT+8 | reply | https://x.com/iiiinvest/status/2036464242954740031 | @RunDoris 相对的量价关系，最后恐慌基本是价格咋的速度极快
+- `2036464511084011662` | 2026-03-24 23:25:49 GMT+8 | original | https://x.com/iiiinvest/status/2036464511084011662 | 市场在等，垃圾时间。
+- `2036625322649768054` | 2026-03-25 10:04:50 GMT+8 | quote | https://x.com/iiiinvest/status/2036625322649768054 | 3.25 机会快来了，但不到格局的时候
+- `2036986238545342962` | 2026-03-26 09:58:59 GMT+8 | quote | https://x.com/iiiinvest/status/2036986238545342962 | 3.26 暴风雨前的宁静
+- `2036992945195475055` | 2026-03-26 10:25:38 GMT+8 | original | https://x.com/iiiinvest/status/2036992945195475055 | 下一个比较大的买点在哪？
+- `2037081380090503362` | 2026-03-26 16:17:02 GMT+8 | original | https://x.com/iiiinvest/status/2037081380090503362 | 黄金还有二探的做空机会，这波最低4100，反弹到4600，目前4450。结合宏观战争屎一样的影响，这个机会还是比较确定的，准备大点仓位。
+- `2037101278564855822` | 2026-03-26 17:36:06 GMT+8 | original | https://x.com/iiiinvest/status/2037101278564855822 | 现在美股盯着指数做，如果嫌波动小可以上TQQQ或者SQQQ，尽量先不碰个股。如果真来大暴跌，也记住先抄指数。
+- `2037361082038362440` | 2026-03-27 10:48:28 GMT+8 | quote | https://x.com/iiiinvest/status/2037361082038362440 | 3.27 美股暴跌，发现个机会
+- `2037405135463436534` | 2026-03-27 13:43:32 GMT+8 | quote | https://x.com/iiiinvest/status/2037405135463436534 | 其实盯着4600就行，如果迟迟不能突破，就以4600为止损做空 https://t.co/NbqKaUQ7Q1
+- `2037405410915966988` | 2026-03-27 13:44:37 GMT+8 | quote | https://x.com/iiiinvest/status/2037405410915966988 | 昨晚算吗？还是要等打了之后算？ https://t.co/7gpOWrwNyZ
+- `2037459397870600672` | 2026-03-27 17:19:09 GMT+8 | reply | https://x.com/iiiinvest/status/2037459397870600672 | @RunDoris 不要有执念
+- `2037463171309666514` | 2026-03-27 17:34:08 GMT+8 | reply | https://x.com/iiiinvest/status/2037463171309666514 | @mattecho233 看今晚，周一感觉晚
+- `2037485632575144284` | 2026-03-27 19:03:24 GMT+8 | original | https://x.com/iiiinvest/status/2037485632575144284 | 川大爷这次玩大了，不知道70多岁还会不会失眠。。。
+- `2037548843609493551` | 2026-03-27 23:14:34 GMT+8 | original | https://x.com/iiiinvest/status/2037548843609493551 | 做空纳指赚了点已经平掉了。
+- `2037661616582562151` | 2026-03-28 06:42:41 GMT+8 | reply | https://x.com/iiiinvest/status/2037661616582562151 | @tf3ZInIRHt11922 不格局
+- `2037673180421345357` | 2026-03-28 07:28:39 GMT+8 | original | https://x.com/iiiinvest/status/2037673180421345357 | 美伊战争，除了原油和油企在涨，新能源车企也在涨，只不过还会形成共识。
+- `2038127105654026245` | 2026-03-29 13:32:23 GMT+8 | reply | https://x.com/iiiinvest/status/2038127105654026245 | @neil84850704 等着看呗
+- `2038432763276320796` | 2026-03-30 09:46:57 GMT+8 | quote | https://x.com/iiiinvest/status/2038432763276320796 | 3.30 抢钱的时刻，该软就软该硬就硬
+- `2038455231995158614` | 2026-03-30 11:16:14 GMT+8 | original | https://x.com/iiiinvest/status/2038455231995158614 | 零跑很硬，恒科唯一红的，今天站稳就是赢。
+- `2038587311223631938` | 2026-03-30 20:01:04 GMT+8 | original | https://x.com/iiiinvest/status/2038587311223631938 | 4570空了点黄金，4600止损。感觉这几天黄金硬的可怕，但计划了就干。
+- `2038615378981708124` | 2026-03-30 21:52:36 GMT+8 | original | https://x.com/iiiinvest/status/2038615378981708124 | 开始卖点PUT了，能接到就接，还是那句，任何行情都不是一蹴而就的，接下来1周不太看跌了。
+- `2038616206874493155` | 2026-03-30 21:55:54 GMT+8 | quote | https://x.com/iiiinvest/status/2038616206874493155 | 4540先平掉了，过不去4600依旧看空，但纳指比较硬，怕反抽，还会有机会的。 https://t.co/WqgJJiZuL1
+- `2038619402397159892` | 2026-03-30 22:08:35 GMT+8 | original | https://x.com/iiiinvest/status/2038619402397159892 | 高位的时候，任何的一点利空都会暴跌；
+- `2038793491204223243` | 2026-03-31 09:40:21 GMT+8 | quote | https://x.com/iiiinvest/status/2038793491204223243 | 3.31 变盘在即 抢抓反弹机会
+- `2038884265841373451` | 2026-03-31 15:41:04 GMT+8 | original | https://x.com/iiiinvest/status/2038884265841373451 | 今天零跑表现有点弱，算上今天给你3天时间给我冲，不然阉了
+- `2038981311537574391` | 2026-03-31 22:06:41 GMT+8 | quote | https://x.com/iiiinvest/status/2038981311537574391 | TQQQ已经卖掉了，小赚1万U https://t.co/BWmWLC9YjD https://t.co/4IPVJ8N01u
+- `2039135666974679466` | 2026-04-01 08:20:02 GMT+8 | quote | https://x.com/iiiinvest/status/2039135666974679466 | 怎么看川普现在的TACO以及两三周结束战争的言论
+- `2039170830048051535` | 2026-04-01 10:39:46 GMT+8 | quote | https://x.com/iiiinvest/status/2039170830048051535 | 4.1 没抓住反弹？接下来更重要
+- `2039205990806196291` | 2026-04-01 12:59:29 GMT+8 | original | https://x.com/iiiinvest/status/2039205990806196291 | 零跑跟上的吃肉，这才刚开始。
+- `2039276330320363613` | 2026-04-01 17:38:59 GMT+8 | original | https://x.com/iiiinvest/status/2039276330320363613 | 零跑一天干了80万，猛😮 https://t.co/P5kaI8dq9z
+- `2039345383693054160` | 2026-04-01 22:13:23 GMT+8 | original | https://x.com/iiiinvest/status/2039345383693054160 | 我窗外这个灯光秀，有鱼有山有风景，不赚钱才怪😃 https://t.co/TJS50hBScp
+- `2039367570705535223` | 2026-04-01 23:41:33 GMT+8 | original | https://x.com/iiiinvest/status/2039367570705535223 | 小仓位空了一些纳指和黄金，明早看川普拉什么屎💩
+- `2039514145385779546` | 2026-04-02 09:23:59 GMT+8 | quote | https://x.com/iiiinvest/status/2039514145385779546 | 真的拉了 https://t.co/KWiMQZ1eSv
+- `2039518031106408485` | 2026-04-02 09:39:25 GMT+8 | quote | https://x.com/iiiinvest/status/2039518031106408485 | 结束战斗，全部止盈了。盈利令人高兴，逻辑验证更让人开心😁 https://t.co/1N48QfHAMA
+- `2039522649236492309` | 2026-04-02 09:57:46 GMT+8 | quote | https://x.com/iiiinvest/status/2039522649236492309 | 4.2 川普又拉了 接下来如何应对
+- `2039641032959406510` | 2026-04-02 17:48:11 GMT+8 | quote | https://x.com/iiiinvest/status/2039641032959406510 | 5天，零跑赚80万了。 https://t.co/t6XA2Riods https://t.co/C5fN6VrSjZ
+- `2039690307785445502` | 2026-04-02 21:03:59 GMT+8 | original | https://x.com/iiiinvest/status/2039690307785445502 | 其实现在的行情，波动大，比较适合交易的，定好计划干就行，别怂。
+- `2039717079751041269` | 2026-04-02 22:50:22 GMT+8 | quote | https://x.com/iiiinvest/status/2039717079751041269 | 没想到反弹这么猛，直接从-2%拉红了，现在这位置小空一下。 https://t.co/z2nWzbvDiQ
+- `2039898567113158781` | 2026-04-03 10:51:32 GMT+8 | quote | https://x.com/iiiinvest/status/2039898567113158781 | 4.3日 平静表面 暗藏大行情大波动
+- `2040737293875679655` | 2026-04-05 18:24:20 GMT+8 | original | https://x.com/iiiinvest/status/2040737293875679655 | 明天假期最后一天了，如果你还在刷推，那该陪陪家人了。
+- `2041117369859477876` | 2026-04-06 19:34:37 GMT+8 | original | https://x.com/iiiinvest/status/2041117369859477876 | 自上周四开始，市场就不按原预期在走了，今天夜盘更甚，有时在想市场到底在交易什么？停战？和谈？缓和？通胀？
+- `2041153604682461495` | 2026-04-06 21:58:36 GMT+8 | quote | https://x.com/iiiinvest/status/2041153604682461495 | 363买了tsla，7买了conl，跟着行情走，近期地点破位止损。 https://t.co/v2R7PH3QIf
+- `2041159127175757897` | 2026-04-06 22:20:33 GMT+8 | reply | https://x.com/iiiinvest/status/2041159127175757897 | @CryptoRounder 都是肉体凡胎啊
+- `2041343357319082368` | 2026-04-07 10:32:37 GMT+8 | quote | https://x.com/iiiinvest/status/2041343357319082368 | 4.7 抓主线任务 忽略市场噪音
+- `2041344305055576502` | 2026-04-07 10:36:23 GMT+8 | reply | https://x.com/iiiinvest/status/2041344305055576502 | 今天的判断很重要，你可以分享下你的观点
+- `2041380091218006430` | 2026-04-07 12:58:35 GMT+8 | original | https://x.com/iiiinvest/status/2041380091218006430 | 知行合一，夜盘已买TQQQ，并开比特币多平，会择机再加。
+- `2041380212865413451` | 2026-04-07 12:59:04 GMT+8 | original | https://x.com/iiiinvest/status/2041380212865413451 | 知行合一，夜盘已买TQQQ，并开比特币多平，会择机再加。
+- `2041435082230280556` | 2026-04-07 16:37:06 GMT+8 | original | https://x.com/iiiinvest/status/2041435082230280556 | 今天发日报的时候纳指-0.7%，几乎是日内最低点。目前盘前已经拉红+0.1%了，行情正在按照日报逻辑发展，现在请扣掉你的做空键，少看战争新闻，如果还能下跌都是加仓机会。
+- `2041435202392936782` | 2026-04-07 16:37:34 GMT+8 | reply | https://x.com/iiiinvest/status/2041435202392936782 | @MarinaroNi42044 @oxpsats 互相学习交流而已，没有对错
+- `2041504976237949407` | 2026-04-07 21:14:50 GMT+8 | reply | https://x.com/iiiinvest/status/2041504976237949407 | @oxpsats 且看且珍惜，哈哈
+- `2041539784611688587` | 2026-04-07 23:33:09 GMT+8 | quote | https://x.com/iiiinvest/status/2041539784611688587 | 已经加了TQQQ和特斯拉 https://t.co/CLfZL4KGeA
+- `2041539826571473120` | 2026-04-07 23:33:19 GMT+8 | reply | https://x.com/iiiinvest/status/2041539826571473120 | @lostsollar 嗯，加了
+- `2041540148073287877` | 2026-04-07 23:34:35 GMT+8 | original | https://x.com/iiiinvest/status/2041540148073287877 | 现在如果你还没有仓位，那真的要买点了
+- `2041541840596512924` | 2026-04-07 23:41:19 GMT+8 | original | https://x.com/iiiinvest/status/2041541840596512924 | 恐惧主要源于想象，就像打针💉，难受在撩衣服，擦酒精，拔针头，最后那一下反而是解脱和放松😌
+- `2041542057232392338` | 2026-04-07 23:42:11 GMT+8 | reply | https://x.com/iiiinvest/status/2041542057232392338 | @Bingoqbb 一起冲
+- `2041643356351279171` | 2026-04-08 06:24:42 GMT+8 | reply | https://x.com/iiiinvest/status/2041643356351279171 | @xcq618168 是的，吃肉了
+- `2041643527906730055` | 2026-04-08 06:25:23 GMT+8 | quote | https://x.com/iiiinvest/status/2041643527906730055 | 跟上的吃肉，没跟上的也别冲动了，现在没有性价比了，等结果吧 https://t.co/kDcMib4zjn
+- `2041649773929976259` | 2026-04-08 06:50:12 GMT+8 | quote | https://x.com/iiiinvest/status/2041649773929976259 | 开始逐步卖出 https://t.co/88vr29pOwk
+- `2041655855842783336` | 2026-04-08 07:14:22 GMT+8 | original | https://x.com/iiiinvest/status/2041655855842783336 | 大涨的时候，反而是我们打扫战场，准备下一场战斗的时候
+- `2041669879951155700` | 2026-04-08 08:10:06 GMT+8 | reply | https://x.com/iiiinvest/status/2041669879951155700 | @LeeFisun 谢谢，会不断分享
+- `2041677024692146656` | 2026-04-08 08:38:29 GMT+8 | quote | https://x.com/iiiinvest/status/2041677024692146656 | 多单已经全平，小仓位做多原油，逻辑日报说 https://t.co/PDIItkZTaQ
+- `2041686794161549380` | 2026-04-08 09:17:19 GMT+8 | reply | https://x.com/iiiinvest/status/2041686794161549380 | @mattecho233 谢谢，多交流
+- `2041694921405690128` | 2026-04-08 09:49:36 GMT+8 | quote | https://x.com/iiiinvest/status/2041694921405690128 | 4.8 一晚赚100万！接下来怎么操作
+- `2041695455596458366` | 2026-04-08 09:51:44 GMT+8 | reply | https://x.com/iiiinvest/status/2041695455596458366 | @Bingoqbb 干，不怂
+- `2041695479856296267` | 2026-04-08 09:51:49 GMT+8 | reply | https://x.com/iiiinvest/status/2041695479856296267 | @pnzhnqing1 多交流
+- `2041698565865808093` | 2026-04-08 10:04:05 GMT+8 | reply | https://x.com/iiiinvest/status/2041698565865808093 | @qinbafrank 。。。逻辑惊人一致
+- `2041741240140706078` | 2026-04-08 12:53:40 GMT+8 | reply | https://x.com/iiiinvest/status/2041741240140706078 | @SAAD_422 相互交流，一起进步
+- `2041741293827842557` | 2026-04-08 12:53:52 GMT+8 | reply | https://x.com/iiiinvest/status/2041741293827842557 | @islet0612 不搞了，没啥意思
+- `2041741384005369858` | 2026-04-08 12:54:14 GMT+8 | reply | https://x.com/iiiinvest/status/2041741384005369858 | @deathfly1980 现在
+- `2041741422899204237` | 2026-04-08 12:54:23 GMT+8 | reply | https://x.com/iiiinvest/status/2041741422899204237 | @lostsollar 🙏🏻
+- `2041741737861972220` | 2026-04-08 12:55:38 GMT+8 | reply | https://x.com/iiiinvest/status/2041741737861972220 | @oxpsats 谢谢🙏🏻
+- `2041746039074648123` | 2026-04-08 13:12:44 GMT+8 | original | https://x.com/iiiinvest/status/2041746039074648123 | 从昨天日报开始不断提示，这波我给自己满分。
+- `2041764800271970537` | 2026-04-08 14:27:17 GMT+8 | reply | https://x.com/iiiinvest/status/2041764800271970537 | @CryptoRounder 谢谢rounder，相互交流学习
+- `2041765032971919791` | 2026-04-08 14:28:12 GMT+8 | reply | https://x.com/iiiinvest/status/2041765032971919791 | @deathfly1980 那是有历史盈利导致的，不用看我这个
+- `2041786733818527790` | 2026-04-08 15:54:26 GMT+8 | reply | https://x.com/iiiinvest/status/2041786733818527790 | @islet0612 一起干
+- `2041874681276592320` | 2026-04-08 21:43:54 GMT+8 | original | https://x.com/iiiinvest/status/2041874681276592320 | 盘前根据日报计划，又买了点SQQQ，看看今晚能回调多少，差不多就平。再提醒伙伴一次，目前不要头脑一热又干进去了，后面还会反复的。别吃肉的时候没跟上，挨打一顿不少，我心疼你，我的伙伴。 https://t.co/jpzVaIn2sc
+- `2041884009618415903` | 2026-04-08 22:20:58 GMT+8 | reply | https://x.com/iiiinvest/status/2041884009618415903 | @xcq618168 跟着市场走，但不是跟着价格走
+- `2041884055277596921` | 2026-04-08 22:21:09 GMT+8 | reply | https://x.com/iiiinvest/status/2041884055277596921 | @JonyNian 干，记得止盈
+- `2041886394851979420` | 2026-04-08 22:30:27 GMT+8 | original | https://x.com/iiiinvest/status/2041886394851979420 | 假设这次战争影响全部结束（不可能完全结束，后遗症多着呢），那么美股回归基本面，大家还记得1-2月份美股7姐妹，发一个财报跌一个吗？
+- `2041892274465132559` | 2026-04-08 22:53:49 GMT+8 | reply | https://x.com/iiiinvest/status/2041892274465132559 | @xcq618168 总结很好
+- `2041894643273781385` | 2026-04-08 23:03:14 GMT+8 | quote | https://x.com/iiiinvest/status/2041894643273781385 | 全平了，包括纳指 白银 原油，小赚2万美金。 https://t.co/GUdAAgqJqn
+- `2041900322688495855` | 2026-04-08 23:25:48 GMT+8 | reply | https://x.com/iiiinvest/status/2041900322688495855 | @xcq618168 慢慢来，我也不是一蹴而就，加油
+- `2041900364988063759` | 2026-04-08 23:25:58 GMT+8 | reply | https://x.com/iiiinvest/status/2041900364988063759 | @FreeChaim 一起牛
+- `2041903389920129255` | 2026-04-08 23:37:59 GMT+8 | reply | https://x.com/iiiinvest/status/2041903389920129255 | @zhiyfly 一起干
+- `2042028983622263231` | 2026-04-09 07:57:03 GMT+8 | original | https://x.com/iiiinvest/status/2042028983622263231 | 1000个关注！感谢各位富哥帅少，我会继续真诚记录和分享，希望对你有帮助。同时也希望帅少们多赞评，给我动力！ https://t.co/fg2GGp5iZW
+- `2042062423855919312` | 2026-04-09 10:09:56 GMT+8 | quote | https://x.com/iiiinvest/status/2042062423855919312 | 4.9 零跑也赚100万！抓住主线才能赚钱
+- `2042070382967140429` | 2026-04-09 10:41:33 GMT+8 | reply | https://x.com/iiiinvest/status/2042070382967140429 | @wangHan48307800 谢谢帅少
+- `2042070461526503452` | 2026-04-09 10:41:52 GMT+8 | reply | https://x.com/iiiinvest/status/2042070461526503452 | @missma38385225 认清整体才能做好局部
+- `2042084028581580842` | 2026-04-09 11:35:47 GMT+8 | original | https://x.com/iiiinvest/status/2042084028581580842 | 这是我的关注列表，今天湖面平静，波动降低。前几天行情激烈，现在需要沉淀沉淀了。没机会就耐心等着，生活不是跳动的数字，而是人间烟火气。 https://t.co/xVuRTAgPxL
+- `2042152838739194289` | 2026-04-09 16:09:12 GMT+8 | reply | https://x.com/iiiinvest/status/2042152838739194289 | @RunDoris 确实很顺
+- `2042152872239100012` | 2026-04-09 16:09:20 GMT+8 | reply | https://x.com/iiiinvest/status/2042152872239100012 | @yijiebuyi1989 一起加油
+- `2042152901003661610` | 2026-04-09 16:09:27 GMT+8 | reply | https://x.com/iiiinvest/status/2042152901003661610 | @YmkkRXloVtfST8P 一起干
+- `2042153010651132147` | 2026-04-09 16:09:53 GMT+8 | reply | https://x.com/iiiinvest/status/2042153010651132147 | @RunDoris 等等机会，稍等说说逻辑
+- `2042153094809841835` | 2026-04-09 16:10:13 GMT+8 | reply | https://x.com/iiiinvest/status/2042153094809841835 | @xcq618168 大面都有，先看整体再找细节
+- `2042153121062043718` | 2026-04-09 16:10:20 GMT+8 | reply | https://x.com/iiiinvest/status/2042153121062043718 | @wangHan48307800 嗯
+- `2042158085129826620` | 2026-04-09 16:30:03 GMT+8 | original | https://x.com/iiiinvest/status/2042158085129826620 | 几个重点，还是梳理一下：
+- `2042242277532442937` | 2026-04-09 22:04:36 GMT+8 | reply | https://x.com/iiiinvest/status/2042242277532442937 | @xcq618168 没操作
+- `2042242328103194712` | 2026-04-09 22:04:48 GMT+8 | reply | https://x.com/iiiinvest/status/2042242328103194712 | @xcq618168 嗯，没啥可动的
+- `2042243051905773979` | 2026-04-09 22:07:41 GMT+8 | original | https://x.com/iiiinvest/status/2042243051905773979 | 开盘了，如下午所说，各种利空新闻下，纳指依旧很硬没啥波动。
+- `2042393586671763931` | 2026-04-10 08:05:51 GMT+8 | original | https://x.com/iiiinvest/status/2042393586671763931 | 原油的反弹是给前期套牢解套用的，不是用来追涨的。
+- `2042416747408756983` | 2026-04-10 09:37:53 GMT+8 | original | https://x.com/iiiinvest/status/2042416747408756983 | 零跑逐步卖出了，稍等日报说逻辑
+- `2042424010747887678` | 2026-04-10 10:06:45 GMT+8 | quote | https://x.com/iiiinvest/status/2042424010747887678 | 4.10 零跑赚111万！油价会怎么走
+- `2042426768733454735` | 2026-04-10 10:17:42 GMT+8 | reply | https://x.com/iiiinvest/status/2042426768733454735 | @JeffGaoX 一起加油
+- `2042436437635973162` | 2026-04-10 10:56:08 GMT+8 | reply | https://x.com/iiiinvest/status/2042436437635973162 | @LeeFisun 一起干
+- `2042443979346649485` | 2026-04-10 11:26:06 GMT+8 | original | https://x.com/iiiinvest/status/2042443979346649485 | 不再等了！
+- `2042464101465800918` | 2026-04-10 12:46:03 GMT+8 | reply | https://x.com/iiiinvest/status/2042464101465800918 | @LeeFisun 知行合一
+- `2042473813762589115` | 2026-04-10 13:24:39 GMT+8 | reply | https://x.com/iiiinvest/status/2042473813762589115 | @JonyNian 又建仓了
+- `2042522350026194972` | 2026-04-10 16:37:31 GMT+8 | reply | https://x.com/iiiinvest/status/2042522350026194972 | @AaronCarrot 感觉应该分化，反正跌也难
+- `2042529763307458796` | 2026-04-10 17:06:58 GMT+8 | original | https://x.com/iiiinvest/status/2042529763307458796 | 定好计划就执行，别左顾右盼。有计划的割没计划的，让自己成为收割者而不是被割者。你的结果全由你的选择决定。
+- `2042533899402907905` | 2026-04-10 17:23:24 GMT+8 | reply | https://x.com/iiiinvest/status/2042533899402907905 | @ShuYu622 刚赚100个，算吗
+- `2042581929606906280` | 2026-04-10 20:34:16 GMT+8 | quote | https://x.com/iiiinvest/status/2042581929606906280 | CPI出来了，3.3符合预期。盘前又加了点。 https://t.co/4WO7l6gG3T
+- `2042587212374782103` | 2026-04-10 20:55:15 GMT+8 | reply | https://x.com/iiiinvest/status/2042587212374782103 | @tf3ZInIRHt11922 中文看不懂吗哥，底仓
+- `2042600096769151265` | 2026-04-10 21:46:27 GMT+8 | original | https://x.com/iiiinvest/status/2042600096769151265 | 特斯拉TSLA这个股票特别有意思，我算了下，我在这个股票上赚了近120万美金，对，美金。每年几乎都有2-3波的赚钱机会，不适合长持，适合做波段。
+- `2042601402200133743` | 2026-04-10 21:51:38 GMT+8 | reply | https://x.com/iiiinvest/status/2042601402200133743 | @Bingoqbb 干就完了
+- `2042607809318339025` | 2026-04-10 22:17:06 GMT+8 | reply | https://x.com/iiiinvest/status/2042607809318339025 | @xcq618168 干就行，犹犹豫豫机会就过去了
+- `2042756357330534577` | 2026-04-11 08:07:22 GMT+8 | original | https://x.com/iiiinvest/status/2042756357330534577 | 预测全对！昨天日报说原油跌，美股和比特币涨，屌不屌？ https://t.co/agmiMHQYA1
+- `2042801357636407670` | 2026-04-11 11:06:11 GMT+8 | original | https://x.com/iiiinvest/status/2042801357636407670 | 周末了，多陪家人，放松放松，杭州下雨了。
+- `2042805758094643345` | 2026-04-11 11:23:40 GMT+8 | reply | https://x.com/iiiinvest/status/2042805758094643345 | @oxpsats 爽
+- `2043343850278990189` | 2026-04-12 23:01:52 GMT+8 | original | https://x.com/iiiinvest/status/2043343850278990189 | 看周末谈判这鸟样，金银明早大概率低开，如果你想盯盘，可以现在在币圈买点金银永续空单，到时开盘就平，目前是早上4点，也就是5小时后。
+- `2043420877304529342` | 2026-04-13 04:07:56 GMT+8 | reply | https://x.com/iiiinvest/status/2043420877304529342 | 6点
+- `2043451347882971552` | 2026-04-13 06:09:01 GMT+8 | quote | https://x.com/iiiinvest/status/2043451347882971552 | 白银平掉了，黄金等白天看下。睡觉 https://t.co/NaISHUfIV6
+- `2043477286121615631` | 2026-04-13 07:52:05 GMT+8 | quote | https://x.com/iiiinvest/status/2043477286121615631 | 都平了，赚了1.5万U。今天美股夜盘应该有机会 https://t.co/rw73qQ4rEF https://t.co/mo8p7Om2ph
+- `2043481451979755971` | 2026-04-13 08:08:38 GMT+8 | original | https://x.com/iiiinvest/status/2043481451979755971 | 夜盘买了点TQQQ，大概率赚钱
+- `2043481708650185106` | 2026-04-13 08:09:40 GMT+8 | reply | https://x.com/iiiinvest/status/2043481708650185106 | @LeeFisun 看大盘走势，目前看问题不大，我拿着呢
+- `2043509043667640730` | 2026-04-13 09:58:17 GMT+8 | quote | https://x.com/iiiinvest/status/2043509043667640730 | 4.13  抓住建仓期  别被情绪支配
+- `2043532081486348461` | 2026-04-13 11:29:49 GMT+8 | original | https://x.com/iiiinvest/status/2043532081486348461 | 从今天日报的互动来看，很多人还是在被新闻和情绪裹着走，那注定赚不到钱。
+- `2043579578195865808` | 2026-04-13 14:38:33 GMT+8 | original | https://x.com/iiiinvest/status/2043579578195865808 | MD，特斯拉没买到可惜了
+- `2043601408486990232` | 2026-04-13 16:05:18 GMT+8 | reply | https://x.com/iiiinvest/status/2043601408486990232 | @lostsollar 😑，比较确定赚钱的
+- `2043607629927436770` | 2026-04-13 16:30:02 GMT+8 | original | https://x.com/iiiinvest/status/2043607629927436770 | “要相信一个持续赚钱，还很努力的人。”
+- `2043611105713656298` | 2026-04-13 16:43:50 GMT+8 | reply | https://x.com/iiiinvest/status/2043611105713656298 | @hazenlee 哥，多空双吃行不
+- `2043614908055691578` | 2026-04-13 16:58:57 GMT+8 | original | https://x.com/iiiinvest/status/2043614908055691578 | 刚看了下，零跑逆市拉升，收涨在我上周卖出的价格。怎么看？
+- `2043615267876745713` | 2026-04-13 17:00:23 GMT+8 | reply | https://x.com/iiiinvest/status/2043615267876745713 | @JieOu66999 好，多互动
+- `2043684103179108807` | 2026-04-13 21:33:54 GMT+8 | quote | https://x.com/iiiinvest/status/2043684103179108807 | 卖了，做个短线。特斯拉 微软继续持有。 https://t.co/a1BglhDLMz
+- `2043684859781300643` | 2026-04-13 21:36:55 GMT+8 | reply | https://x.com/iiiinvest/status/2043684859781300643 | @xcq618168 现在都不能说上涨，横盘，真涨起来不是这个样子。
+- `2043689084254831020` | 2026-04-13 21:53:42 GMT+8 | quote | https://x.com/iiiinvest/status/2043689084254831020 | 在美股-1.2%几乎最低点提醒：该买了！现在美股大盘都拉红了，不知道你买了没？ https://t.co/Zg95DerUvD
+- `2043689527169204396` | 2026-04-13 21:55:27 GMT+8 | reply | https://x.com/iiiinvest/status/2043689527169204396 | @JieOu66999 这么狠吗
+- `2043691395203088640` | 2026-04-13 22:02:53 GMT+8 | original | https://x.com/iiiinvest/status/2043691395203088640 | 小小吹个牛，很少有人能像我这么牛，横跨金银 比特币 美股 原油，各个市场都能赚点。还愿意公开分享的。如果有其他人可以@一下，我也去看看
+- `2043691581346349280` | 2026-04-13 22:03:37 GMT+8 | reply | https://x.com/iiiinvest/status/2043691581346349280 | @islet0612 仓位够了，不追涨。
+- `2043692660721119615` | 2026-04-13 22:07:54 GMT+8 | reply | https://x.com/iiiinvest/status/2043692660721119615 | @pnzhnqing1 多互动，珍惜
+- `2043694284495556779` | 2026-04-13 22:14:22 GMT+8 | reply | https://x.com/iiiinvest/status/2043694284495556779 | @xcq618168 先稳住再起飞
+- `2043694328774877440` | 2026-04-13 22:14:32 GMT+8 | reply | https://x.com/iiiinvest/status/2043694328774877440 | @qimengle 多户动
+- `2043696381597213063` | 2026-04-13 22:22:42 GMT+8 | quote | https://x.com/iiiinvest/status/2043696381597213063 | 特斯拉应该稳住了，那么接下来就是赚多赚少的事了，止盈我会说。微软同理。 https://t.co/4LlSaDl81n
+- `2043696921676849375` | 2026-04-13 22:24:50 GMT+8 | reply | https://x.com/iiiinvest/status/2043696921676849375 | @zhugedaobtc 要看你亏没亏出经验，别下牌桌。
+- `2043697277576138824` | 2026-04-13 22:26:15 GMT+8 | reply | https://x.com/iiiinvest/status/2043697277576138824 | @0yrYd2jqQRcHnOA 没有，没意义
+- `2043697307640815791` | 2026-04-13 22:26:22 GMT+8 | reply | https://x.com/iiiinvest/status/2043697307640815791 | @moliqingcha2 多互动
+- `2043715744056451583` | 2026-04-13 23:39:38 GMT+8 | original | https://x.com/iiiinvest/status/2043715744056451583 | 睡了，明早数钱
+- `2043840809347494216` | 2026-04-14 07:56:36 GMT+8 | original | https://x.com/iiiinvest/status/2043840809347494216 | 爽啊，又又又赚了！
+- `2043841094618886639` | 2026-04-14 07:57:44 GMT+8 | reply | https://x.com/iiiinvest/status/2043841094618886639 | @mattecho233 。。。
+- `2043841281991028886` | 2026-04-14 07:58:29 GMT+8 | reply | https://x.com/iiiinvest/status/2043841281991028886 | @Bingoqbb 只是以前没分享
+- `2043841315579007240` | 2026-04-14 07:58:37 GMT+8 | reply | https://x.com/iiiinvest/status/2043841315579007240 | @LeeFisun 一起发财
+- `2043872605804069357` | 2026-04-14 10:02:57 GMT+8 | quote | https://x.com/iiiinvest/status/2043872605804069357 | 4.14  昨晚赚8万美金！但还没起飞
+- `2043887870512116000` | 2026-04-14 11:03:36 GMT+8 | reply | https://x.com/iiiinvest/status/2043887870512116000 | @LeeFisun 还持有
+- `2043913367090540849` | 2026-04-14 12:44:55 GMT+8 | reply | https://x.com/iiiinvest/status/2043913367090540849 | @yeager28080009 就是做多，网格其次
+- `2043953281836429350` | 2026-04-14 15:23:31 GMT+8 | original | https://x.com/iiiinvest/status/2043953281836429350 | 现在没仓位的才是最慌的，等他们追涨，大盘就要回调了。就这么残酷！
+- `2043958554621890576` | 2026-04-14 15:44:28 GMT+8 | original | https://x.com/iiiinvest/status/2043958554621890576 | 知道这位哥哥在开玩笑。其实遇到宝藏博主不是不分享，而是应该像后面几位哥哥一样加强执行力！
+- `2043958894721155357` | 2026-04-14 15:45:50 GMT+8 | original | https://x.com/iiiinvest/status/2043958894721155357 | 知道这位哥哥在开玩笑。其实遇到宝藏博主不是不分享，而是应该像后面几位哥哥一样加强执行力！
+- `2043965913486242267` | 2026-04-14 16:13:43 GMT+8 | reply | https://x.com/iiiinvest/status/2043965913486242267 | @pnzhnqing1 相互珍惜
+- `2043968856864240033` | 2026-04-14 16:25:25 GMT+8 | original | https://x.com/iiiinvest/status/2043968856864240033 | 比特币平掉了，赚了2.7万U，这两单赚的差不多，几乎吃到了6.8到7.4的全部涨幅。
+- `2043983440698343608` | 2026-04-14 17:23:22 GMT+8 | reply | https://x.com/iiiinvest/status/2043983440698343608 | @islet0612 中间有考虑，等抽时间说下
+- `2044048978925498415` | 2026-04-14 21:43:47 GMT+8 | original | https://x.com/iiiinvest/status/2044048978925498415 | 一切正常，安心持股。微软起来的比特斯拉快一些，核心原因是前段时间跌幅太大了，都跌到去年关税战时的价格了。
+- `2044050578536563002` | 2026-04-14 21:50:09 GMT+8 | original | https://x.com/iiiinvest/status/2044050578536563002 | 比特币最近挺强势的，目前站上了7.5万。盯紧7.6万，如果突破可以建仓。#比特币
+- `2044073773360672857` | 2026-04-14 23:22:19 GMT+8 | original | https://x.com/iiiinvest/status/2044073773360672857 | 今天明显有一波踏空资金冲进来，其实我们赚的正是这种预期反转的钱。但这时候并不是建仓的好时候，大部分资金还记着被套牢的恐惧，一旦形式不好就会加速回调，进而继续站岗。
+- `2044211357902631333` | 2026-04-15 08:29:01 GMT+8 | quote | https://x.com/iiiinvest/status/2044211357902631333 | 继续数钱 https://t.co/kOqjT2N73w
+- `2044229410312859763` | 2026-04-15 09:40:46 GMT+8 | quote | https://x.com/iiiinvest/status/2044229410312859763 | 4.15  再赚5万美金！接下来如何操作？
+- `2044242604540473572` | 2026-04-15 10:33:11 GMT+8 | reply | https://x.com/iiiinvest/status/2044242604540473572 | @xcq618168 不一定，你没看市场还一堆跌的😂
+- `2044242812083028069` | 2026-04-15 10:34:01 GMT+8 | reply | https://x.com/iiiinvest/status/2044242812083028069 | @wendy1061192180 加油
+- `2044242903816638497` | 2026-04-15 10:34:23 GMT+8 | reply | https://x.com/iiiinvest/status/2044242903816638497 | @RunDoris 不是，美股分歧反而应该卖
+- `2044242990756180319` | 2026-04-15 10:34:43 GMT+8 | reply | https://x.com/iiiinvest/status/2044242990756180319 | @LeeFisun 好的哥哥
+- `2044285617740361992` | 2026-04-15 13:24:06 GMT+8 | reply | https://x.com/iiiinvest/status/2044285617740361992 | @mattecho233 不用想太多，市场会给我们答案
+- `2044286093596725609` | 2026-04-15 13:26:00 GMT+8 | original | https://x.com/iiiinvest/status/2044286093596725609 | 不用想太多，市场会给我们答案。
+- `2044318642817642799` | 2026-04-15 15:35:20 GMT+8 | original | https://x.com/iiiinvest/status/2044318642817642799 | 美股还没开始回调呢，比特币就先萎了。昨天的多单平在了高点。现在关注日报说的做空机会，怎么把握呢？
+- `2044363976117764409` | 2026-04-15 18:35:29 GMT+8 | reply | https://x.com/iiiinvest/status/2044363976117764409 | @islet0612 看情况
+- `2044397349561327677` | 2026-04-15 20:48:05 GMT+8 | original | https://x.com/iiiinvest/status/2044397349561327677 | 小空了一点白银，试试火力。
+- `2044408559027560864` | 2026-04-15 21:32:38 GMT+8 | quote | https://x.com/iiiinvest/status/2044408559027560864 | 已空 https://t.co/AujqbDZVkS
+- `2044420258531037474` | 2026-04-15 22:19:07 GMT+8 | original | https://x.com/iiiinvest/status/2044420258531037474 | 舒服啊，微软和特斯拉双轮驱动。小马达动起来~~
+- `2044423611872841799` | 2026-04-15 22:32:27 GMT+8 | quote | https://x.com/iiiinvest/status/2044423611872841799 | 行了，今晚就这样吧，再涨犯规了。。。🤚 https://t.co/heMFar4mVh
+- `2044434860841075149` | 2026-04-15 23:17:09 GMT+8 | reply | https://x.com/iiiinvest/status/2044434860841075149 | @Bingoqbb 稳住
+- `2044435778873540748` | 2026-04-15 23:20:48 GMT+8 | original | https://x.com/iiiinvest/status/2044435778873540748 | 美股历史新高在即，是一飞冲天？还是调整下再冲击？这是个选择题。不管怎么发展，都有很好的交易机会。历史记录都发过了，不再重复。
+- `2044438183166009695` | 2026-04-15 23:30:21 GMT+8 | quote | https://x.com/iiiinvest/status/2044438183166009695 | 这时候再看，请把 “屌” 打在评论！ https://t.co/4LlSaDl81n
+- `2044444255146668061` | 2026-04-15 23:54:29 GMT+8 | original | https://x.com/iiiinvest/status/2044444255146668061 | 永远记住这种K线走势，这就是前几天刚被万人捶的股票走势。 https://t.co/JKjhMt34Nv
+- `2044560523845636397` | 2026-04-16 07:36:29 GMT+8 | quote | https://x.com/iiiinvest/status/2044560523845636397 | 数钱 https://t.co/JmotTHp5ie
+- `2044597258541498605` | 2026-04-16 10:02:27 GMT+8 | quote | https://x.com/iiiinvest/status/2044597258541498605 | 4.16  昨晚进账10万美金！接下来关注什么
+- `2044599677585387959` | 2026-04-16 10:12:04 GMT+8 | reply | https://x.com/iiiinvest/status/2044599677585387959 | @zhugedaobtc 只分享思路，自己参考
+- `2044692718874771866` | 2026-04-16 16:21:47 GMT+8 | reply | https://x.com/iiiinvest/status/2044692718874771866 | @RunDoris 嗯
+- `2044696237556015571` | 2026-04-16 16:35:46 GMT+8 | reply | https://x.com/iiiinvest/status/2044696237556015571 | @Super4DeFi 来都来了
+- `2044697412300865928` | 2026-04-16 16:40:26 GMT+8 | original | https://x.com/iiiinvest/status/2044697412300865928 | 看着账户持续新高，慌不慌？
+- `2044760611704508617` | 2026-04-16 20:51:34 GMT+8 | original | https://x.com/iiiinvest/status/2044760611704508617 | 今晚挺重要，看纳指能不能站稳新高吧
+- `2044779011621216455` | 2026-04-16 22:04:41 GMT+8 | quote | https://x.com/iiiinvest/status/2044779011621216455 | 新高位置反复是正常的。白银和比特币空单开始赚钱了。 https://t.co/seAUUphwic
+- `2044780594962571341` | 2026-04-16 22:10:58 GMT+8 | quote | https://x.com/iiiinvest/status/2044780594962571341 | 白银空单先平了，盘面还是很强。继续持有特斯拉，微软，比特币空单。 https://t.co/z51RejQmFs
+- `2044782218439172259` | 2026-04-16 22:17:25 GMT+8 | reply | https://x.com/iiiinvest/status/2044782218439172259 | @deathfly1980 7大问题不大
+- `2044802526760013967` | 2026-04-16 23:38:07 GMT+8 | quote | https://x.com/iiiinvest/status/2044802526760013967 | 睡吧，明早继续数钱 https://t.co/Omd8bfvimG
+- `2044960586308714961` | 2026-04-17 10:06:11 GMT+8 | quote | https://x.com/iiiinvest/status/2044960586308714961 | 4.17  怕高都是苦命人！机会马上来了
+- `2044965884628983938` | 2026-04-17 10:27:15 GMT+8 | reply | https://x.com/iiiinvest/status/2044965884628983938 | @oxpsats 对，感觉回调不会太深
+- `2044984716986835269` | 2026-04-17 11:42:05 GMT+8 | original | https://x.com/iiiinvest/status/2044984716986835269 | @xcq618168 。。。
+- `2044984765787603439` | 2026-04-17 11:42:16 GMT+8 | reply | https://x.com/iiiinvest/status/2044984765787603439 | @deathfly1980 看回调深度
+- `2045065663576936643` | 2026-04-17 17:03:44 GMT+8 | original | https://x.com/iiiinvest/status/2045065663576936643 | 盘面很强，关注比特币能不能站稳7.6万。
+- `2045075836592914517` | 2026-04-17 17:44:09 GMT+8 | quote | https://x.com/iiiinvest/status/2045075836592914517 | 我比特币空单平掉了，一而再再而三，一旦突破可能就很快拉起来了。 https://t.co/vC9VHOgb5l
+- `2045077545905983814` | 2026-04-17 17:50:57 GMT+8 | quote | https://x.com/iiiinvest/status/2045077545905983814 | 比特币做多了！7.57 https://t.co/4evczJ7VIX
+- `2045078979594563646` | 2026-04-17 17:56:39 GMT+8 | original | https://x.com/iiiinvest/status/2045078979594563646 | 这次，送空头回家！
+- `2045123866759238021` | 2026-04-17 20:55:01 GMT+8 | quote | https://x.com/iiiinvest/status/2045123866759238021 | 这次真的稳了，空头赶紧投降加入我军！ https://t.co/2LRgOvjEEC
+- `2045129144594526632` | 2026-04-17 21:15:59 GMT+8 | quote | https://x.com/iiiinvest/status/2045129144594526632 | 再不听，要被消灭了！我试过了，多军要肉有肉，要汤有汤，赶紧加入！ https://t.co/hO2DXUQJhH
+- `2045145820698427707` | 2026-04-17 22:22:15 GMT+8 | original | https://x.com/iiiinvest/status/2045145820698427707 | 都闪开，我要装逼了！ https://t.co/VZzZJ9OlgR
+- `2045148870813098279` | 2026-04-17 22:34:22 GMT+8 | reply | https://x.com/iiiinvest/status/2045148870813098279 | @xtony1314 这次让你失眠！
+- `2045149267346821475` | 2026-04-17 22:35:57 GMT+8 | reply | https://x.com/iiiinvest/status/2045149267346821475 | @xtony1314 过了今晚，想平仓都难（打爆）！
+- `2045149620440019062` | 2026-04-17 22:37:21 GMT+8 | reply | https://x.com/iiiinvest/status/2045149620440019062 | @xtony1314 这次，打爆你这个空头头子！
+- `2045153693960688088` | 2026-04-17 22:53:32 GMT+8 | quote | https://x.com/iiiinvest/status/2045153693960688088 | 15个了 https://t.co/ws2OVFmrTQ https://t.co/wToo3MQFzc
+- `2045161817639637124` | 2026-04-17 23:25:49 GMT+8 | original | https://x.com/iiiinvest/status/2045161817639637124 | 我为什么赚这么多，我开多比特币的同时，买了币股MSTX和CONL，你去看看K线~~
+- `2045161940876689451` | 2026-04-17 23:26:18 GMT+8 | reply | https://x.com/iiiinvest/status/2045161940876689451 | 现在别买了，我已经平了大部分。
+- `2045164494960431509` | 2026-04-17 23:36:27 GMT+8 | original | https://x.com/iiiinvest/status/2045164494960431509 | 我这波最牛的，不是赚了多少。而是比特币突破后，止损了空单！
+- `2045165259758137595` | 2026-04-17 23:39:29 GMT+8 | quote | https://x.com/iiiinvest/status/2045165259758137595 | 16个了 https://t.co/v5EvL0DFoI https://t.co/Eg3BAXUbBQ
+- `2045165420152602938` | 2026-04-17 23:40:08 GMT+8 | reply | https://x.com/iiiinvest/status/2045165420152602938 | @Bingoqbb 活该你赚钱，加油
+- `2045168548604195066` | 2026-04-17 23:52:34 GMT+8 | original | https://x.com/iiiinvest/status/2045168548604195066 | 比特币多单全部平仓（包括币股）！
+- `2045174842698432996` | 2026-04-18 00:17:34 GMT+8 | original | https://x.com/iiiinvest/status/2045174842698432996 | 特斯拉和微软，我减了1/3仓位，供参考。留出未来你想做T的现金来。
+- `2045313955040837705` | 2026-04-18 09:30:21 GMT+8 | original | https://x.com/iiiinvest/status/2045313955040837705 | 周一再说，周末大家好好休息！
+- `2045462401127194825` | 2026-04-18 19:20:13 GMT+8 | quote | https://x.com/iiiinvest/status/2045462401127194825 | 现在看，可谓牛逼克拉斯！ https://t.co/6h4JK02kxR
+- `2045805206911475910` | 2026-04-19 18:02:25 GMT+8 | quote | https://x.com/iiiinvest/status/2045805206911475910 | 这个策略还能操作，自己控制。 https://t.co/NaISHUfIV6
+- `2045987323914207442` | 2026-04-20 06:06:05 GMT+8 | quote | https://x.com/iiiinvest/status/2045987323914207442 | 平了，简直就是送钱。 https://t.co/0nXNVDp7e5
+- `2046031709242826930` | 2026-04-20 09:02:27 GMT+8 | reply | https://x.com/iiiinvest/status/2046031709242826930 | @LuYao_Trader 核心还是驾驭不了那个资金量
+- `2046031805967646829` | 2026-04-20 09:02:50 GMT+8 | reply | https://x.com/iiiinvest/status/2046031805967646829 | @YuhouL 核心还是驾驭不了那个资金量
+- `2046035323818492045` | 2026-04-20 09:16:49 GMT+8 | reply | https://x.com/iiiinvest/status/2046035323818492045 | @Web3shenqing A7到A8需要3～5个机会
+- `2046049837431636006` | 2026-04-20 10:14:29 GMT+8 | quote | https://x.com/iiiinvest/status/2046049837431636006 | 4.20  盈利100多万逃顶 今天怎么操作？
+- `2046094812450066738` | 2026-04-20 13:13:12 GMT+8 | original | https://x.com/iiiinvest/status/2046094812450066738 | 市场永远是对的，我们不需要证明。
+- `2046179552742052112` | 2026-04-20 18:49:56 GMT+8 | original | https://x.com/iiiinvest/status/2046179552742052112 | 这个账户年初放了150万，现在收益超过50%了 https://t.co/XtwGa0iSzW
+- `2046193196544520598` | 2026-04-20 19:44:09 GMT+8 | reply | https://x.com/iiiinvest/status/2046193196544520598 | @CryptoRounder 34月比较顺
+- `2046218668003282993` | 2026-04-20 21:25:22 GMT+8 | original | https://x.com/iiiinvest/status/2046218668003282993 | 撸了点RAVE，加上前面撸的一共撸了3万美金。这种风险比较大不敢分享。。。 https://t.co/6IQKuxHWP3
+- `2046223791232258146` | 2026-04-20 21:45:43 GMT+8 | reply | https://x.com/iiiinvest/status/2046223791232258146 | @0yrYd2jqQRcHnOA 美股23年30起步
+- `2046243608177811582` | 2026-04-20 23:04:28 GMT+8 | original | https://x.com/iiiinvest/status/2046243608177811582 | 如期回调，不是我准，是我尊重市场。
+- `2046404765803045298` | 2026-04-21 09:44:51 GMT+8 | quote | https://x.com/iiiinvest/status/2046404765803045298 | 4.21  今年已赚100万美金！紧跟市场节奏
+- `2046407184385507571` | 2026-04-21 09:54:27 GMT+8 | reply | https://x.com/iiiinvest/status/2046407184385507571 | @xtony1314 瞎几把画啥，干就完了
+- `2046485048279650685` | 2026-04-21 15:03:52 GMT+8 | reply | https://x.com/iiiinvest/status/2046485048279650685 | @RunDoris 10多年了
+- `2046521214261395552` | 2026-04-21 17:27:34 GMT+8 | original | https://x.com/iiiinvest/status/2046521214261395552 | 聊一下特斯拉接下来的操作策略！
+- `2046574445587042484` | 2026-04-21 20:59:05 GMT+8 | reply | https://x.com/iiiinvest/status/2046574445587042484 | @xtony1314 BB什么，亮出你的仓位。哈哈
+- `2046574573731360877` | 2026-04-21 20:59:36 GMT+8 | original | https://x.com/iiiinvest/status/2046574573731360877 | @tonymao1688 为什么叫止损，不是止盈吗
+- `2046587733012058397` | 2026-04-21 21:51:53 GMT+8 | quote | https://x.com/iiiinvest/status/2046587733012058397 | 掌声！ https://t.co/IE9s7tCcPE
+- `2046734128712937742` | 2026-04-22 07:33:37 GMT+8 | reply | https://x.com/iiiinvest/status/2046734128712937742 | @islet0612 继续拿
+- `2046735625504874613` | 2026-04-22 07:39:34 GMT+8 | reply | https://x.com/iiiinvest/status/2046735625504874613 | @xtony1314 多，干死你这空鬼
+- `2046741201043476955` | 2026-04-22 08:01:43 GMT+8 | original | https://x.com/iiiinvest/status/2046741201043476955 | 早起，数钱！
+- `2046776736717934928` | 2026-04-22 10:22:55 GMT+8 | quote | https://x.com/iiiinvest/status/2046776736717934928 | 4.22  市场拐点已现  机会还是陷阱？
+- `2046791663679688902` | 2026-04-22 11:22:14 GMT+8 | reply | https://x.com/iiiinvest/status/2046791663679688902 | @xtony1314 昨天：没人比我更懂做空，做空一切！
+- `2046811828580430071` | 2026-04-22 12:42:22 GMT+8 | reply | https://x.com/iiiinvest/status/2046811828580430071 | @RunDoris 还好吧，和正股一起操作就行
+- `2046812624713883829` | 2026-04-22 12:45:32 GMT+8 | quote | https://x.com/iiiinvest/status/2046812624713883829 | 基于早盘判断，在78空了点白银，56.45买了SQQQ。 https://t.co/CGhFZLvhC3
+- `2046816969148842313` | 2026-04-22 13:02:48 GMT+8 | reply | https://x.com/iiiinvest/status/2046816969148842313 | @xtony1314 仓爆了还能再开，人爆了就没了。。。
+- `2046818178739900618` | 2026-04-22 13:07:36 GMT+8 | original | https://x.com/iiiinvest/status/2046818178739900618 | 比特币这两天挺强，但也不用纠结，突破站稳7.8追就行，不需要内耗。
+- `2046822559623282760` | 2026-04-22 13:25:00 GMT+8 | original | https://x.com/iiiinvest/status/2046822559623282760 | 几个零碎的赚钱信息汇总下
+- `2046858528355483851` | 2026-04-22 15:47:56 GMT+8 | original | https://x.com/iiiinvest/status/2046858528355483851 | 7.8万，做多了比特币
+- `2046869008008577479` | 2026-04-22 16:29:35 GMT+8 | original | https://x.com/iiiinvest/status/2046869008008577479 | 我目前
+- `2046885827322712450` | 2026-04-22 17:36:25 GMT+8 | reply | https://x.com/iiiinvest/status/2046885827322712450 | @mattecho233 目前没上
+- `2046885857110732812` | 2026-04-22 17:36:32 GMT+8 | reply | https://x.com/iiiinvest/status/2046885857110732812 | @Aora781391 不设限
+- `2046932272465821773` | 2026-04-22 20:40:58 GMT+8 | reply | https://x.com/iiiinvest/status/2046932272465821773 | @Sunnyday626 看大盘再说
+- `2046963139938599085` | 2026-04-22 22:43:37 GMT+8 | quote | https://x.com/iiiinvest/status/2046963139938599085 | 7.88止盈扔掉了，没有美股强势。 https://t.co/BqWrHRtdSO
+- `2046978042753642933` | 2026-04-22 23:42:51 GMT+8 | quote | https://x.com/iiiinvest/status/2046978042753642933 | 睡了，除了比特币其他都还拿着。 https://t.co/w14HABQN8G
+- `2046978288845996493` | 2026-04-22 23:43:49 GMT+8 | reply | https://x.com/iiiinvest/status/2046978288845996493 | @tf3ZInIRHt11922 8万压力山大，不适合现在追了
+- `2047136177720009201` | 2026-04-23 10:11:13 GMT+8 | quote | https://x.com/iiiinvest/status/2047136177720009201 | 4.23  不对劲  要认真应对
+- `2047148423720382625` | 2026-04-23 10:59:53 GMT+8 | reply | https://x.com/iiiinvest/status/2047148423720382625 | @well_dins 没动
+- `2047148493970854382` | 2026-04-23 11:00:09 GMT+8 | reply | https://x.com/iiiinvest/status/2047148493970854382 | @islet0612 正股拿着啊
+- `2047148822275723704` | 2026-04-23 11:01:28 GMT+8 | original | https://x.com/iiiinvest/status/2047148822275723704 | 看比特币和白银这鸟样，今天美股危险！
+- `2047198372894056652` | 2026-04-23 14:18:21 GMT+8 | quote | https://x.com/iiiinvest/status/2047198372894056652 | 今天看了下零跑48了，距离卖出零跑，零跑跌了15%了，这次精准卖在高点。还是要相信逻辑，不要格局！ https://t.co/15ghWjo5ws
+- `2047199505230270763` | 2026-04-23 14:22:51 GMT+8 | reply | https://x.com/iiiinvest/status/2047199505230270763 | @tf3ZInIRHt11922 你看日报，其他没操作
+- `2047199774693315043` | 2026-04-23 14:23:56 GMT+8 | reply | https://x.com/iiiinvest/status/2047199774693315043 | @deathfly1980 量能要看阶段，底部 顶部都是相对的
+- `2047200330992263225` | 2026-04-23 14:26:08 GMT+8 | reply | https://x.com/iiiinvest/status/2047200330992263225 | @oxpsats 年内应该还有机会，但需要震荡震荡了
+- `2047320197619749046` | 2026-04-23 22:22:27 GMT+8 | original | https://x.com/iiiinvest/status/2047320197619749046 | 今晚特斯拉和微软成难兄难弟了
+- `2047321985169105009` | 2026-04-23 22:29:33 GMT+8 | original | https://x.com/iiiinvest/status/2047321985169105009 | 微软419全卖了
+- `2047488757516083607` | 2026-04-24 09:32:14 GMT+8 | quote | https://x.com/iiiinvest/status/2047488757516083607 | 4.24  出门了，长话短说
+- `2047552999028093406` | 2026-04-24 13:47:31 GMT+8 | original | https://x.com/iiiinvest/status/2047552999028093406 | 白银空的仓位不大但位置不错。很多时候我对美股大盘的判断来源于这种边缘资产，比如金银，比如比特币。 https://t.co/Ql5gBJcr4T
+- `2047685308737802572` | 2026-04-24 22:33:16 GMT+8 | original | https://x.com/iiiinvest/status/2047685308737802572 | 空了点半导体，18连升了，想上天啊。。。
+- `2047688798436458949` | 2026-04-24 22:47:08 GMT+8 | reply | https://x.com/iiiinvest/status/2047688798436458949 | @xcq618168 仓位控制好不怕
+- `2047693937083875716` | 2026-04-24 23:07:33 GMT+8 | original | https://x.com/iiiinvest/status/2047693937083875716 | 这时候做空美股像个傻逼，但我知道地球有引力，皮球弹起终将落下。我知道我还会继续赚，只是不知道是今天还是明天。
+- `2048642368547799177` | 2026-04-27 13:56:17 GMT+8 | quote | https://x.com/iiiinvest/status/2048642368547799177 | 4.25  一切照旧，回杭了更新。 https://t.co/bE8naPz1kl
+- `2048760162014711842` | 2026-04-27 21:44:21 GMT+8 | quote | https://x.com/iiiinvest/status/2048760162014711842 | 今晚就看半导体，半导体如果崩了这波就结束了。 https://t.co/gqReypsdOp
+- `2048904488430563780` | 2026-04-28 07:17:51 GMT+8 | original | https://x.com/iiiinvest/status/2048904488430563780 | 除了纳指，
+- `2048943743555002772` | 2026-04-28 09:53:50 GMT+8 | quote | https://x.com/iiiinvest/status/2048943743555002772 | 4.28 市场已经在跌了
+- `2048994532034011147` | 2026-04-28 13:15:39 GMT+8 | original | https://x.com/iiiinvest/status/2048994532034011147 | 按照计划，已7.7万做空比特币。
+- `2049035899053453425` | 2026-04-28 16:00:02 GMT+8 | original | https://x.com/iiiinvest/status/2049035899053453425 | 白银先走一步，半导体跟上，比特币和美股谁先来？
+- `2049039340203081979` | 2026-04-28 16:13:42 GMT+8 | reply | https://x.com/iiiinvest/status/2049039340203081979 | @liang32283332 谨慎点，大盘不稳
+- `2049039518314197416` | 2026-04-28 16:14:25 GMT+8 | reply | https://x.com/iiiinvest/status/2049039518314197416 | @xtony1314 我艹，这次和你一辆车了，你后来的坐后面
+- `2049039717564641365` | 2026-04-28 16:15:12 GMT+8 | reply | https://x.com/iiiinvest/status/2049039717564641365 | @CryptoRounder 没毛病，接下来注定大波动，这里要上去早上去了
+- `2049049408919236733` | 2026-04-28 16:53:43 GMT+8 | reply | https://x.com/iiiinvest/status/2049049408919236733 | @CryptoRounder 其实养孩子也能让时间变慢，孩子每天都在变化
+- `2049056830832468334` | 2026-04-28 17:23:12 GMT+8 | original | https://x.com/iiiinvest/status/2049056830832468334 | 币圈这个账户，年初30多万，目前快70万，差不多翻了一倍了。
+- `2049061608979419195` | 2026-04-28 17:42:11 GMT+8 | reply | https://x.com/iiiinvest/status/2049061608979419195 | @CryptoRounder https://t.co/u2Mkdkg1ms
+- `2049064672343806030` | 2026-04-28 17:54:22 GMT+8 | original | https://x.com/iiiinvest/status/2049064672343806030 | 什么是专业？
+- `2049091219406590069` | 2026-04-28 19:39:51 GMT+8 | original | https://x.com/iiiinvest/status/2049091219406590069 | 今晚又能装逼了
+- `2049094218736668837` | 2026-04-28 19:51:46 GMT+8 | reply | https://x.com/iiiinvest/status/2049094218736668837 | @ethigh_eth 对
+- `2049095879999865209` | 2026-04-28 19:58:22 GMT+8 | original | https://x.com/iiiinvest/status/2049095879999865209 | 4月初                    4月底
+- `2049114195413877055` | 2026-04-28 21:11:09 GMT+8 | reply | https://x.com/iiiinvest/status/2049114195413877055 | @islet0612 没关注
+- `2049138178431517002` | 2026-04-28 22:46:27 GMT+8 | quote | https://x.com/iiiinvest/status/2049138178431517002 | 叮咚~ 到账10万美金！ https://t.co/2LxmcCBVSF https://t.co/SGFI0xz5Gs
+- `2049138969326346530` | 2026-04-28 22:49:36 GMT+8 | reply | https://x.com/iiiinvest/status/2049138969326346530 | @xtony1314 行了，空军人够多了，闷声赚钱
+- `2049139738943312141` | 2026-04-28 22:52:39 GMT+8 | original | https://x.com/iiiinvest/status/2049139738943312141 | 我真JB神了，最近怎么都赚，给我点赞！
+- `2049141050342817875` | 2026-04-28 22:57:52 GMT+8 | original | https://x.com/iiiinvest/status/2049141050342817875 | 比特币看着挺强的，实际是在装逼，这种留到最后的，揍得最恨~
+- `2049157080356151653` | 2026-04-29 00:01:34 GMT+8 | original | https://x.com/iiiinvest/status/2049157080356151653 | 睡吧，明早才是大戏。
+- `2049294619205321056` | 2026-04-29 09:08:05 GMT+8 | reply | https://x.com/iiiinvest/status/2049294619205321056 | @sankin_eth 你赚不到不代表别人赚不到，你骂正说明你赚不到。。。
+- `2049294872050545074` | 2026-04-29 09:09:06 GMT+8 | reply | https://x.com/iiiinvest/status/2049294872050545074 | 美国时间，也就是今晚
+- `2049308039375950034` | 2026-04-29 10:01:25 GMT+8 | quote | https://x.com/iiiinvest/status/2049308039375950034 | 4.29  第一回合胜
+- `2049438636001923361` | 2026-04-29 18:40:22 GMT+8 | quote | https://x.com/iiiinvest/status/2049438636001923361 | 对不起，我说话声音大了。 https://t.co/vnPR1HJaMj
+- `2049484318012211543` | 2026-04-29 21:41:53 GMT+8 | reply | https://x.com/iiiinvest/status/2049484318012211543 | @LeeFisun 嘿嘿，等着瞧
+- `2049502190222594380` | 2026-04-29 22:52:54 GMT+8 | original | https://x.com/iiiinvest/status/2049502190222594380 | 交易量极度萎缩，大家都在等今晚的会议和财报。以不变应万变！
+- `2049513773485179335` | 2026-04-29 23:38:56 GMT+8 | quote | https://x.com/iiiinvest/status/2049513773485179335 | 说话大声点怎么了！ https://t.co/tUjYYIpw6B
+- `2049659467634278572` | 2026-04-30 09:17:52 GMT+8 | quote | https://x.com/iiiinvest/status/2049659467634278572 | 4.30  行情相反而行，注意止盈止损
+- `2049660125967970357` | 2026-04-30 09:20:29 GMT+8 | reply | https://x.com/iiiinvest/status/2049660125967970357 | @xtony1314 多空都赚钱啊 bro https://t.co/WAreebPGmp
+- `2049674088537600341` | 2026-04-30 10:15:58 GMT+8 | original | https://x.com/iiiinvest/status/2049674088537600341 | 卧槽，神 @xtony1314 是把我屏蔽了还是拉黑了。我平时就喜欢看你的网络文学，这下没乐子了🙄
+- `2049683237732298759` | 2026-04-30 10:52:19 GMT+8 | original | https://x.com/iiiinvest/status/2049683237732298759 | 刚才纳指期货爆了一根-0.4%的阴线，不知道谁在迫不及待跑路？今晚还是有戏！ https://t.co/8mIt4lzWag
+- `2049683404556542430` | 2026-04-30 10:52:59 GMT+8 | reply | https://x.com/iiiinvest/status/2049683404556542430 | @JeffGaoX @xtony1314 嗯，自己专注赚钱
+- `2049710242985091208` | 2026-04-30 12:39:38 GMT+8 | original | https://x.com/iiiinvest/status/2049710242985091208 | 反转了，兄弟们！
+- `2049712886185132133` | 2026-04-30 12:50:08 GMT+8 | reply | https://x.com/iiiinvest/status/2049712886185132133 | @pnzhnqing1 等等看
+- `2049759333995667576` | 2026-04-30 15:54:42 GMT+8 | original | https://x.com/iiiinvest/status/2049759333995667576 | 人在顺的时候，真的不要浪费这泼天的运气，这都行我真服了 https://t.co/wD57rOKrDs
+- `2049765575891853361` | 2026-04-30 16:19:30 GMT+8 | reply | https://x.com/iiiinvest/status/2049765575891853361 | @CryptoV_Alpha 看来是拉黑了一批啊，我也是😃
+- `2049767045739500020` | 2026-04-30 16:25:21 GMT+8 | quote | https://x.com/iiiinvest/status/2049767045739500020 | 还真是，你不赚钱可能是没选对 https://t.co/ptJcYav55v
+- `2049767832880321015` | 2026-04-30 16:28:28 GMT+8 | original | https://x.com/iiiinvest/status/2049767832880321015 | 从我这个特殊关注列表能看出，金银和比特币有点强，而这轮下跌金银是主力，作为前期上涨强势的半导体和纳指，反而没那么强了。 https://t.co/SjBB0KwE48
+- `2049768106072154274` | 2026-04-30 16:29:33 GMT+8 | reply | https://x.com/iiiinvest/status/2049768106072154274 | @liang32283332 小伙厉害啊
+- `2049848816141262955` | 2026-04-30 21:50:16 GMT+8 | original | https://x.com/iiiinvest/status/2049848816141262955 | 加空了点半导体，感觉今天要变盘，前高止损。
+- `2049850708225376478` | 2026-04-30 21:57:47 GMT+8 | original | https://x.com/iiiinvest/status/2049850708225376478 | 今晚开盘后，资金明显做了分流，前期涨幅高的半导体、纳指出现滞涨和下跌，早期跌幅大的金银、币股反而强势起来。这时候一般是资金恐高导致的，也就是对追高产生恐惧，去低价标的寻求安全感。
+- `2049850890379829659` | 2026-04-30 21:58:31 GMT+8 | original | https://x.com/iiiinvest/status/2049850890379829659 | @Tai0153 没
+- `2050047595825987892` | 2026-05-01 11:00:09 GMT+8 | quote | https://x.com/iiiinvest/status/2050047595825987892 | 5.1  纳指和半导体空单还在
+- `2050228817999106442` | 2026-05-01 23:00:16 GMT+8 | original | https://x.com/iiiinvest/status/2050228817999106442 | 把纳指空单去掉了，加到了半导体空单上。止损就是前高。
+- `2050229177803329949` | 2026-05-01 23:01:42 GMT+8 | reply | https://x.com/iiiinvest/status/2050229177803329949 | @oxpsats 是的，单边不回调。
+- `2050242371561169279` | 2026-05-01 23:54:07 GMT+8 | original | https://x.com/iiiinvest/status/2050242371561169279 | 现在做空半导体真的挺好！
+- `2051118305977704518` | 2026-05-04 09:54:46 GMT+8 | quote | https://x.com/iiiinvest/status/2051118305977704518 | 5.4 半导体突破了，关注比特币机会
+- `2051157143592792420` | 2026-05-04 12:29:06 GMT+8 | original | https://x.com/iiiinvest/status/2051157143592792420 | 追多了比特币和币股
+- `2051257519465799866` | 2026-05-04 19:07:57 GMT+8 | original | https://x.com/iiiinvest/status/2051257519465799866 | 73.3短线多了点白银，美股开盘应该还会拉升一波，拉升就扔。
+- `2051289184233717862` | 2026-05-04 21:13:47 GMT+8 | quote | https://x.com/iiiinvest/status/2051289184233717862 | 卖了，73.8 https://t.co/wSQU2IRchP
+- `2051308547376558180` | 2026-05-04 22:30:43 GMT+8 | original | https://x.com/iiiinvest/status/2051308547376558180 | 做空了闪迪，今日高点止损
+- `2051488945796706447` | 2026-05-05 10:27:34 GMT+8 | quote | https://x.com/iiiinvest/status/2051488945796706447 | 5.5  机会来了就不怂，干就完了
+- `2051852422193271126` | 2026-05-06 10:31:53 GMT+8 | quote | https://x.com/iiiinvest/status/2051852422193271126 | 5.6  彻底疯了，亏了波大的
+- `2051859045930373544` | 2026-05-06 10:58:12 GMT+8 | original | https://x.com/iiiinvest/status/2051859045930373544 | 涨起来，自然有大儒辨经。
+- `2051859796564017486` | 2026-05-06 11:01:11 GMT+8 | original | https://x.com/iiiinvest/status/2051859796564017486 | 我又把零跑加到特别关注里了，跌出性价比了，观察观察。
+- `2052026796103930090` | 2026-05-06 22:04:47 GMT+8 | original | https://x.com/iiiinvest/status/2052026796103930090 | 刺激啊，闪迪变闪崩吧，别演了。
+- `2052218553231974795` | 2026-05-07 10:46:46 GMT+8 | quote | https://x.com/iiiinvest/status/2052218553231974795 | 5.7 不废话说点发现的
+- `2052219803650367751` | 2026-05-07 10:51:44 GMT+8 | reply | https://x.com/iiiinvest/status/2052219803650367751 | 文中AMD不是ARM
+- `2052232481857065313` | 2026-05-07 11:42:06 GMT+8 | original | https://x.com/iiiinvest/status/2052232481857065313 | 按照日报已经建仓，另外做空了比特币和白银。目前
+- `2052250024806158784` | 2026-05-07 12:51:49 GMT+8 | original | https://x.com/iiiinvest/status/2052250024806158784 | 目前仓位打的很满了，不管逻辑正确与否，账户波动将创历史新高！！
+- `2052325153640706251` | 2026-05-07 17:50:21 GMT+8 | reply | https://x.com/iiiinvest/status/2052325153640706251 | @deathfly1980 所以多半导体
+- `2052397264577122661` | 2026-05-07 22:36:54 GMT+8 | quote | https://x.com/iiiinvest/status/2052397264577122661 | 去弱留强，将半导体多单平移到特斯拉了。目前：
+- `2052398822828167228` | 2026-05-07 22:43:05 GMT+8 | original | https://x.com/iiiinvest/status/2052398822828167228 | 纳指不断新高，比特币开启了8万保护战，真讽刺。。。
+- `2052578654979547353` | 2026-05-08 10:37:41 GMT+8 | quote | https://x.com/iiiinvest/status/2052578654979547353 | 5.8  纳指微调，策略有效
+- `2052680640785784849` | 2026-05-08 17:22:56 GMT+8 | original | https://x.com/iiiinvest/status/2052680640785784849 | 比特币的空单止盈了，美股太强了。 https://t.co/9iFLSjzSRf
+- `2052745365003403531` | 2026-05-08 21:40:07 GMT+8 | original | https://x.com/iiiinvest/status/2052745365003403531 | 加空了点闪迪，涨不动了
+- `2052747406316642636` | 2026-05-08 21:48:14 GMT+8 | original | https://x.com/iiiinvest/status/2052747406316642636 | 美股彻底疯了，扶稳坐好
+- `2052760843117551739` | 2026-05-08 22:41:38 GMT+8 | reply | https://x.com/iiiinvest/status/2052760843117551739 | @qimengle en
+- `2052762438341476432` | 2026-05-08 22:47:58 GMT+8 | original | https://x.com/iiiinvest/status/2052762438341476432 | 你知道闪迪会崩，
+- `2052763177969213777` | 2026-05-08 22:50:54 GMT+8 | original | https://x.com/iiiinvest/status/2052763177969213777 | 今天美光和闪迪登上了交易额榜单第一和第四的位置，谁说这不是泡沫我甩他一大耳光！
+- `2052763409729671406` | 2026-05-08 22:51:50 GMT+8 | original | https://x.com/iiiinvest/status/2052763409729671406 | 拿住闪迪空单，我们能赢！
+- `2052764502274478407` | 2026-05-08 22:56:10 GMT+8 | quote | https://x.com/iiiinvest/status/2052764502274478407 | 登顶，不是胜利的凯歌，而是衰败的大幕。 https://t.co/EQWMtib5Mq
+- `2052782710175981800` | 2026-05-09 00:08:31 GMT+8 | original | https://x.com/iiiinvest/status/2052782710175981800 | 一个闪迪的空单，抵消了纳指+特斯拉+AMD的多单收益，真牛逼。
+- `2052896876152901875` | 2026-05-09 07:42:10 GMT+8 | original | https://x.com/iiiinvest/status/2052896876152901875 | 艹，涨这么猛，竟然没赚钱，利润都被闪迪空单吃了。。。
+- `2052898070392979822` | 2026-05-09 07:46:55 GMT+8 | original | https://x.com/iiiinvest/status/2052898070392979822 | 这种行情，竟然没赚钱，得好好反思了
+- `2053488034985967690` | 2026-05-10 22:51:14 GMT+8 | original | https://x.com/iiiinvest/status/2053488034985967690 | 周末想了下下周计划，可以先看下下图，下图是周末收盘时的美股成交额排行榜，除了指数，美光和闪迪分列第一第二，下周还能不能持续第一第二？我是打问号的。
+- `2053602442697474540` | 2026-05-11 06:25:51 GMT+8 | reply | https://x.com/iiiinvest/status/2053602442697474540 | @RunDoris 最起码说明分歧很大，另外资金很热，这种烈度不可持续
+- `2053603475783901565` | 2026-05-11 06:29:57 GMT+8 | original | https://x.com/iiiinvest/status/2053603475783901565 | 白银空单趁着下跌全平了，同时建了比特币多单，逻辑见上条。
+- `2053660200096391353` | 2026-05-11 10:15:21 GMT+8 | quote | https://x.com/iiiinvest/status/2053660200096391353 | 5.11  有人的狂欢，有人的落寞
+- `2053660981612671363` | 2026-05-11 10:18:27 GMT+8 | original | https://x.com/iiiinvest/status/2053660981612671363 | 资金是情绪，情绪也是资金。
+- `2053664216129900954` | 2026-05-11 10:31:19 GMT+8 | quote | https://x.com/iiiinvest/status/2053664216129900954 | 我空闪迪，也不是看是不是周期股，就单纯交易上资金太拥挤了。 https://t.co/e13vq9FUxS
+- `2053670628423798828` | 2026-05-11 10:56:47 GMT+8 | original | https://x.com/iiiinvest/status/2053670628423798828 | 我也很好奇，今天美股开盘后资金会怎么选，社交媒体情绪也到位了，资金也到顶了。资金是继续在储存继续奏乐，还是分流。拭目以待！
+- `2053711667587104819` | 2026-05-11 13:39:52 GMT+8 | original | https://x.com/iiiinvest/status/2053711667587104819 | 韩国上次上涨熔断的新闻犹在耳，次日怎么走的，还记得吗？
+- `2053716510330540234` | 2026-05-11 13:59:06 GMT+8 | original | https://x.com/iiiinvest/status/2053716510330540234 | 动态PE不到10？
+- `2053717251510149308` | 2026-05-11 14:02:03 GMT+8 | original | https://x.com/iiiinvest/status/2053717251510149308 | 我又空了点100的两倍海力士！
+- `2053851015372509516` | 2026-05-11 22:53:35 GMT+8 | original | https://x.com/iiiinvest/status/2053851015372509516 | AMD止盈卖出了，资金在流向大科技，买入了英伟达。
+- `2053857789139927374` | 2026-05-11 23:20:30 GMT+8 | original | https://x.com/iiiinvest/status/2053857789139927374 | 纳指的多单也先止盈了，目前：
+- `2053861505523933615` | 2026-05-11 23:35:16 GMT+8 | original | https://x.com/iiiinvest/status/2053861505523933615 | 市场现在就是一个丢手绢游戏，大家都知道音乐会有停的那一刻，但在没停之前还在拼命奔跑，希望自己不是最后一个。
+- `2053991542994739654` | 2026-05-12 08:11:59 GMT+8 | original | https://x.com/iiiinvest/status/2053991542994739654 | 虽然做空闪迪本身还亏，但整体仓位已经开始赚钱了 https://t.co/4h1dn8CRpV
+- `2054014467055481257` | 2026-05-12 09:43:05 GMT+8 | quote | https://x.com/iiiinvest/status/2054014467055481257 | 还储存不，还工服不，还奖金不。。。空的不多，小赚先平一半，这只是闪迪预演！ https://t.co/mvemLrNnQN https://t.co/yW93Rvv1ei
+- `2054020325990686733` | 2026-05-12 10:06:22 GMT+8 | quote | https://x.com/iiiinvest/status/2054020325990686733 | 5.12 已开始盈利，静待花开
+- `2054033152042299875` | 2026-05-12 10:57:20 GMT+8 | original | https://x.com/iiiinvest/status/2054033152042299875 | 最近不少币圈跑美股的，这种迹象反而对比特币是好事，毕竟都卖了也就没卖得了。
+- `2054132217803407622` | 2026-05-12 17:30:59 GMT+8 | reply | https://x.com/iiiinvest/status/2054132217803407622 | @oxpsats 帅的一批
+- `2054132508569293165` | 2026-05-12 17:32:08 GMT+8 | original | https://x.com/iiiinvest/status/2054132508569293165 | 盘前加仓了RKLB，并建仓了COIN，目前仓位满了。
+- `2054134597051642159` | 2026-05-12 17:40:26 GMT+8 | original | https://x.com/iiiinvest/status/2054134597051642159 | 我做空闪迪
+- `2054135212351840513` | 2026-05-12 17:42:53 GMT+8 | original | https://x.com/iiiinvest/status/2054135212351840513 | 等这波做完，我会复盘每一笔收益和亏损，买卖都说过，绝不马后炮，敬请期待！
+- `2054135464702165117` | 2026-05-12 17:43:53 GMT+8 | reply | https://x.com/iiiinvest/status/2054135464702165117 | @0xCPT_Capital 这一次，干死空头！
+- `2054135575096312173` | 2026-05-12 17:44:19 GMT+8 | reply | https://x.com/iiiinvest/status/2054135575096312173 | @0xTaiBai 这就是抄底信号，让他们回来追高！
+- `2054136204275368184` | 2026-05-12 17:46:49 GMT+8 | original | https://x.com/iiiinvest/status/2054136204275368184 | 你们在见证一个农村出身，投资赚亿，屌丝的崛起！
+- `2054193515014607112` | 2026-05-12 21:34:33 GMT+8 | original | https://x.com/iiiinvest/status/2054193515014607112 | 开盘10万起步，且看今晚表演 https://t.co/e8xegm5QyN
+- `2054208431712788705` | 2026-05-12 22:33:50 GMT+8 | original | https://x.com/iiiinvest/status/2054208431712788705 | 还闪不闪，还迪不迪？
+- `2054228592763326472` | 2026-05-12 23:53:56 GMT+8 | original | https://x.com/iiiinvest/status/2054228592763326472 | 看了下闪迪的评论区，嗯，还想着抄底。
+- `2054228729128513671` | 2026-05-12 23:54:29 GMT+8 | reply | https://x.com/iiiinvest/status/2054228729128513671 | @youli396543217 多单拿不住，还是空单拿不住
+- `2054231923065786875` | 2026-05-13 00:07:10 GMT+8 | original | https://x.com/iiiinvest/status/2054231923065786875 | 今天这行情，不仅没亏钱，还赚钱，可见我选股还是不错的。
+- `2054348788081594813` | 2026-05-13 07:51:33 GMT+8 | original | https://x.com/iiiinvest/status/2054348788081594813 | 这几把行情昨晚能赚9万刀，舒服。且看今早 海力士 变 瘦弱小😀 https://t.co/oXP23flFjH
+- `2054379754648932791` | 2026-05-13 09:54:36 GMT+8 | quote | https://x.com/iiiinvest/status/2054379754648932791 | 5.13  市场回撤还赚钱 跟上节奏
+- `2054385360487268484` | 2026-05-13 10:16:53 GMT+8 | reply | https://x.com/iiiinvest/status/2054385360487268484 | @tf3ZInIRHt11922 很强的
+- `2054388366930853998` | 2026-05-13 10:28:50 GMT+8 | reply | https://x.com/iiiinvest/status/2054388366930853998 | @himself65 笑啥，笑我赚钱？
+- `2054397736678768757` | 2026-05-13 11:06:03 GMT+8 | original | https://x.com/iiiinvest/status/2054397736678768757 | 做空闪迪一时爽，一直做空一直爽。😊
+- `2054398338553016524` | 2026-05-13 11:08:27 GMT+8 | reply | https://x.com/iiiinvest/status/2054398338553016524 | @tf3ZInIRHt11922 那就继续空
+- `2054439756923289885` | 2026-05-13 13:53:02 GMT+8 | original | https://x.com/iiiinvest/status/2054439756923289885 | 一群赌徒，给我讲价值，去尼玛的
+- `2054468494054609243` | 2026-05-13 15:47:13 GMT+8 | original | https://x.com/iiiinvest/status/2054468494054609243 | 每一次下跌，都不会吸引更多人进场，反而会让在场的下次跑快点！
+- `2054471425818550278` | 2026-05-13 15:58:52 GMT+8 | original | https://x.com/iiiinvest/status/2054471425818550278 | 闪迪能不能再涨点，我要继续做空，盘前多涨点吧！
+- `2054471777573867660` | 2026-05-13 16:00:16 GMT+8 | original | https://x.com/iiiinvest/status/2054471777573867660 | 币圈fomo的风吹到了存储，张点心吧
+- `2054499821646721391` | 2026-05-13 17:51:42 GMT+8 | quote | https://x.com/iiiinvest/status/2054499821646721391 | 刚看了下，币圈这个账户突破80万美金了。✌🏻 https://t.co/4egwg0Kven https://t.co/oeFbMd2ldj
+- `2054500715201180123` | 2026-05-13 17:55:15 GMT+8 | reply | https://x.com/iiiinvest/status/2054500715201180123 | @hibtc37 今晚开盘再看。。。
+- `2054556220120543347` | 2026-05-13 21:35:49 GMT+8 | original | https://x.com/iiiinvest/status/2054556220120543347 | 闪迪的多头在哪，出来走两步！
+- `2054557230763237604` | 2026-05-13 21:39:50 GMT+8 | original | https://x.com/iiiinvest/status/2054557230763237604 | BNB 平掉了，比特币怎么萎了。
+- `2054569103738950081` | 2026-05-13 22:27:01 GMT+8 | original | https://x.com/iiiinvest/status/2054569103738950081 | RKLB，止盈了
+- `2054569470010806606` | 2026-05-13 22:28:28 GMT+8 | reply | https://x.com/iiiinvest/status/2054569470010806606 | @tf3ZInIRHt11922 一会看下，破8万了想撤了
+- `2054573239498883534` | 2026-05-13 22:43:27 GMT+8 | original | https://x.com/iiiinvest/status/2054573239498883534 | coin和比特币也平了，目前只剩下 闪迪空单、英伟达和特斯拉的多单。
+- `2054582108929368226` | 2026-05-13 23:18:41 GMT+8 | original | https://x.com/iiiinvest/status/2054582108929368226 | 特斯拉450这么难吗，使点劲啊
+- `2054585252606365833` | 2026-05-13 23:31:11 GMT+8 | reply | https://x.com/iiiinvest/status/2054585252606365833 | @CryptoRounder @CryptoPainter 再练一个。。。
+- `2054601459111797051` | 2026-05-14 00:35:35 GMT+8 | reply | https://x.com/iiiinvest/status/2054601459111797051 | @tf3ZInIRHt11922 为什么拿它
+- `2054728127868485854` | 2026-05-14 08:58:55 GMT+8 | original | https://x.com/iiiinvest/status/2054728127868485854 | 昨晚6万 https://t.co/33op8bXBCd
+- `2054753620487541098` | 2026-05-14 10:40:13 GMT+8 | quote | https://x.com/iiiinvest/status/2054753620487541098 | 5.14  美股继续狂奔，做好准备
+- `2054768717490520239` | 2026-05-14 11:40:12 GMT+8 | original | https://x.com/iiiinvest/status/2054768717490520239 | 闪迪的资金已经在出逃了，别有执念了
+- `2054840223004234202` | 2026-05-14 16:24:20 GMT+8 | original | https://x.com/iiiinvest/status/2054840223004234202 | 这是我做空的闪迪和做多的英伟达 特斯拉昨天和今天盘前的表现，请把牛逼打在公屏！ https://t.co/vZaUScWeGw
+- `2054859814749327412` | 2026-05-14 17:42:11 GMT+8 | original | https://x.com/iiiinvest/status/2054859814749327412 | 盘前6万起步，开盘能不能10万啊，前段时间你们都吃完肉了，现在让我小空头吃点行吗 https://t.co/jDKmhBpMEj
+- `2054912163131871538` | 2026-05-14 21:10:12 GMT+8 | reply | https://x.com/iiiinvest/status/2054912163131871538 | @mattecho233 。。。
+- `2055074470969364738` | 2026-05-15 07:55:09 GMT+8 | original | https://x.com/iiiinvest/status/2055074470969364738 | 嘿嘿 https://t.co/a4yQJ1RK3M
+- `2055105335904669714` | 2026-05-15 09:57:48 GMT+8 | quote | https://x.com/iiiinvest/status/2055105335904669714 | 5.15 昨晚赚百万！跟上鱼哥的节奏
+- `2055152813995651241` | 2026-05-15 13:06:28 GMT+8 | original | https://x.com/iiiinvest/status/2055152813995651241 | 纳指今天盘前如果跌幅大，可以买点做做短线，开盘拉就扔，这种行情就是送钱
+- `2055162143226675373` | 2026-05-15 13:43:32 GMT+8 | original | https://x.com/iiiinvest/status/2055162143226675373 | 闪迪，答应我，今天跌10个点好吗😘
+- `2055164863895544198` | 2026-05-15 13:54:21 GMT+8 | original | https://x.com/iiiinvest/status/2055164863895544198 | 看图：
+- `2055198291638509847` | 2026-05-15 16:07:11 GMT+8 | reply | https://x.com/iiiinvest/status/2055198291638509847 | @xiaomustock 我空了，不逼逼
+- `2055198530332135763` | 2026-05-15 16:08:08 GMT+8 | original | https://x.com/iiiinvest/status/2055198530332135763 | 盘前趁着闪迪上涨，加空了点，让你利好，利好是用来干啥的？掩护撤退的！
+- `2055203073174446359` | 2026-05-15 16:26:11 GMT+8 | original | https://x.com/iiiinvest/status/2055203073174446359 | 大盘盘前纳指-1.3%，买了点TQQQ，记住这是短线。
+- `2055204948779114735` | 2026-05-15 16:33:38 GMT+8 | reply | https://x.com/iiiinvest/status/2055204948779114735 | -1.6又买了点
+- `2055282537661141080` | 2026-05-15 21:41:56 GMT+8 | original | https://x.com/iiiinvest/status/2055282537661141080 | 我迪怎么这么硬
+- `2055288132741005344` | 2026-05-15 22:04:10 GMT+8 | original | https://x.com/iiiinvest/status/2055288132741005344 | 真几把刺激
+- `2055297499146121299` | 2026-05-15 22:41:24 GMT+8 | quote | https://x.com/iiiinvest/status/2055297499146121299 | 都走了，短线不恋战 https://t.co/Ho7BwU9UAm
+- `2055297813421133855` | 2026-05-15 22:42:38 GMT+8 | quote | https://x.com/iiiinvest/status/2055297813421133855 | 盘前加空的刚才止盈了，现在又加空上去了，理由：不合群！ https://t.co/SqbP8OwBZS
+- `2055445513965908424` | 2026-05-16 08:29:33 GMT+8 | original | https://x.com/iiiinvest/status/2055445513965908424 | 跌懵逼了，闪迪没对冲掉多仓损失。。。
+- `2056033473178296829` | 2026-05-17 23:25:53 GMT+8 | original | https://x.com/iiiinvest/status/2056033473178296829 | 躺在床上想了下下周的计划
+- `2056183775390990828` | 2026-05-18 09:23:08 GMT+8 | quote | https://x.com/iiiinvest/status/2056183775390990828 | 这么头铁吗。。。我做美股10年，只要这种格局的一般下场都挺惨。-不针对人 https://t.co/fw1XSR3t7n
+- `2056192120067961290` | 2026-05-18 09:56:18 GMT+8 | quote | https://x.com/iiiinvest/status/2056192120067961290 | 5.18  上周五跌蒙了，周一怎么办
+- `2056360379996139994` | 2026-05-18 21:04:54 GMT+8 | reply | https://x.com/iiiinvest/status/2056360379996139994 | @liaotem31 别，我亏麻了，你肯定赚得多
+- `2056372554290582007` | 2026-05-18 21:53:17 GMT+8 | original | https://x.com/iiiinvest/status/2056372554290582007 | 比特币真惨，跟跌不跟涨，短时间真的失去交易价值了
+- `2056373328651469163` | 2026-05-18 21:56:21 GMT+8 | original | https://x.com/iiiinvest/status/2056373328651469163 | 今天格局储存的，一个比一个跑得快。。。
+- `2056374649475522615` | 2026-05-18 22:01:36 GMT+8 | original | https://x.com/iiiinvest/status/2056374649475522615 | 希望格局AI、储存、CPU的知行合一，跌了护盘吧，拿单子说话！
+- `2056380154205839623` | 2026-05-18 22:23:29 GMT+8 | original | https://x.com/iiiinvest/status/2056380154205839623 | 盘面几乎和日报预测的一样，大盘从夜盘的-1%目前拉红，盘中分歧不小，要看后半夜抄底盘了。
+- `2056386500213055953` | 2026-05-18 22:48:42 GMT+8 | original | https://x.com/iiiinvest/status/2056386500213055953 | 闪迪，这真是一条去火葬场的路。
+- `2056403028580925942` | 2026-05-18 23:54:22 GMT+8 | original | https://x.com/iiiinvest/status/2056403028580925942 | 现在天天喊AI革命的，严重怀疑基本或根本就不用AI产品。
+- `2056404357680447762` | 2026-05-18 23:59:39 GMT+8 | reply | https://x.com/iiiinvest/status/2056404357680447762 | @tf3ZInIRHt11922 盈利可以卖一部分
+- `2056404392837001501` | 2026-05-18 23:59:48 GMT+8 | reply | https://x.com/iiiinvest/status/2056404392837001501 | @Lee7176787 盈利可以卖一部分
+- `2056528837232775610` | 2026-05-19 08:14:17 GMT+8 | original | https://x.com/iiiinvest/status/2056528837232775610 | 这逼行情，昨晚赚12万美金 https://t.co/8thzjpRtGx
+- `2056547471904711164` | 2026-05-19 09:28:20 GMT+8 | original | https://x.com/iiiinvest/status/2056547471904711164 | 晚上美光闪迪，白天三星海力士，储存的家人们不知道还能不能格局。
+- `2056552094296109241` | 2026-05-19 09:46:42 GMT+8 | quote | https://x.com/iiiinvest/status/2056552094296109241 | 5.19 节奏太好了，市场给饭吃
+- `2056560822919540926` | 2026-05-19 10:21:23 GMT+8 | original | https://x.com/iiiinvest/status/2056560822919540926 | 海力士空单平了
+- `2056666107545784395` | 2026-05-19 17:19:45 GMT+8 | original | https://x.com/iiiinvest/status/2056666107545784395 | 做完这一波，要回笼资金，备战6月份的SpaceX了。
+- `2056668547347280061` | 2026-05-19 17:29:27 GMT+8 | original | https://x.com/iiiinvest/status/2056668547347280061 | 盘前低吸一点指数，其他不敢买了。
+- `2056674072315170847` | 2026-05-19 17:51:24 GMT+8 | original | https://x.com/iiiinvest/status/2056674072315170847 | 闪迪空单趁着盘前下跌先止盈了，今明两天应该有次高点出来，到时候再空
+- `2056741448507384275` | 2026-05-19 22:19:08 GMT+8 | original | https://x.com/iiiinvest/status/2056741448507384275 | CBRS全卖了
+- `2056742369073185066` | 2026-05-19 22:22:47 GMT+8 | original | https://x.com/iiiinvest/status/2056742369073185066 | -1.4%，
+- `2056884116273184958` | 2026-05-20 07:46:03 GMT+8 | original | https://x.com/iiiinvest/status/2056884116273184958 | 大盘下跌，昨晚收益+12万美金。 https://t.co/ML3snAm73R
+- `2056918493656990013` | 2026-05-20 10:02:39 GMT+8 | quote | https://x.com/iiiinvest/status/2056918493656990013 | 5.20  收缩战线，备战SpaceX
+- `2056918751145345173` | 2026-05-20 10:03:40 GMT+8 | quote | https://x.com/iiiinvest/status/2056918751145345173 | 5.20  收缩战线，备战SpaceX
+- `2056922115954372781` | 2026-05-20 10:17:02 GMT+8 | reply | https://x.com/iiiinvest/status/2056922115954372781 | 标的没毛病，主要看切入时间。目前看主要两个关注点。
+- `2056924784374739363` | 2026-05-20 10:27:39 GMT+8 | original | https://x.com/iiiinvest/status/2056924784374739363 | 零跑没买的真建议买点，41这个价格一是不贵，而是下个月销量肯定爆，值搏率比较高。就这样！
+- `2057103180287324192` | 2026-05-20 22:16:31 GMT+8 | original | https://x.com/iiiinvest/status/2057103180287324192 | 今天盘面很有趣，多空互道傻逼，特别是存储，人心散了，队伍不好带了。。。
+- `2057104482320974215` | 2026-05-20 22:21:42 GMT+8 | original | https://x.com/iiiinvest/status/2057104482320974215 | 英伟达比预期要强一些，叠加前几天下跌的表现，有点期待财报后的表现了。
+- `2057126429079511509` | 2026-05-20 23:48:54 GMT+8 | original | https://x.com/iiiinvest/status/2057126429079511509 | 所有喊长期持有的，只有被套才可能长期。。。
+- `2057280336929943986` | 2026-05-21 10:00:29 GMT+8 | quote | https://x.com/iiiinvest/status/2057280336929943986 | 5.21 小赚5万美金，上涨要追吗？
+- `2057292185784189024` | 2026-05-21 10:47:34 GMT+8 | original | https://x.com/iiiinvest/status/2057292185784189024 | 又空了点海力士，想上天啊，有本事新高
+- `2057385066842747345` | 2026-05-21 16:56:38 GMT+8 | reply | https://x.com/iiiinvest/status/2057385066842747345 | @tf3ZInIRHt11922 啥东西
+- `2057397511892201886` | 2026-05-21 17:46:06 GMT+8 | original | https://x.com/iiiinvest/status/2057397511892201886 | RKLB今天如果大跌应该是个机会，开盘观察下
+- `2057435588794659246` | 2026-05-21 20:17:24 GMT+8 | original | https://x.com/iiiinvest/status/2057435588794659246 | 看白银这走势，今天闪迪是不是又是跑步比赛。
+- `2057435944480026676` | 2026-05-21 20:18:49 GMT+8 | reply | https://x.com/iiiinvest/status/2057435944480026676 | @tf3ZInIRHt11922 这种就是挂羊头卖狗肉，没有啥参考意义，你去看下cbrs当时的价格和真实上市的表现
+- `2057443183945298069` | 2026-05-21 20:47:35 GMT+8 | original | https://x.com/iiiinvest/status/2057443183945298069 | 风险 都是涨出来的。
+- `2057461189396021361` | 2026-05-21 21:59:07 GMT+8 | original | https://x.com/iiiinvest/status/2057461189396021361 | RKLB做了个短线卖了。
+- `2057465150631018559` | 2026-05-21 22:14:52 GMT+8 | original | https://x.com/iiiinvest/status/2057465150631018559 | 现在还留在场内的，不是演员就是买单的了。
+- `2057469830320759253` | 2026-05-21 22:33:28 GMT+8 | reply | https://x.com/iiiinvest/status/2057469830320759253 | @tf3ZInIRHt11922 白银对风险资金更敏感，以前看大饼，现在大饼废了
+- `2057616565366145049` | 2026-05-22 08:16:32 GMT+8 | original | https://x.com/iiiinvest/status/2057616565366145049 | 我迪这么强，对不起，是我声音太大，今天好好商量，咱们下去吧。
+- `2057631243060306090` | 2026-05-22 09:14:51 GMT+8 | original | https://x.com/iiiinvest/status/2057631243060306090 | 然后将最后一半TQQQ卖了，这个位置反弹的已经不少了，距离前高很近了
+- `2057640369765122201` | 2026-05-22 09:51:07 GMT+8 | quote | https://x.com/iiiinvest/status/2057640369765122201 | 5.22 拐点来临，下注吧
+- `2057644307230949739` | 2026-05-22 10:06:46 GMT+8 | quote | https://x.com/iiiinvest/status/2057644307230949739 | 跟上的评论区call 1，后续操作好同步 https://t.co/OKH8yVUmO7
+- `2057644480363380969` | 2026-05-22 10:07:27 GMT+8 | quote | https://x.com/iiiinvest/status/2057644480363380969 | 跟上的 原贴 评论区call 1，后续操作好同步 https://t.co/OKH8yVUmO7
+- `2057720183243100431` | 2026-05-22 15:08:16 GMT+8 | original | https://x.com/iiiinvest/status/2057720183243100431 | 投资，就是一个不断“越过山丘”的过程。过去两年，如果认同巴菲特并持有伯克希尔，你的收益为0 https://t.co/Wh2ZU1V48z
+- `2057729955107328250` | 2026-05-22 15:47:06 GMT+8 | original | https://x.com/iiiinvest/status/2057729955107328250 | 提供几个接下来可以博弈的标的：
+- `2057830231621456178` | 2026-05-22 22:25:34 GMT+8 | original | https://x.com/iiiinvest/status/2057830231621456178 | 赚钱的门槛越来越高，对我们是好事。
+- `2057833499353288705` | 2026-05-22 22:38:33 GMT+8 | original | https://x.com/iiiinvest/status/2057833499353288705 | 干了RKLB
+- `2057833841898012904` | 2026-05-22 22:39:55 GMT+8 | reply | https://x.com/iiiinvest/status/2057833841898012904 | @tf3ZInIRHt11922 不要太看重太宏观的东西，跟着市场走
+- `2057841153769341379` | 2026-05-22 23:08:58 GMT+8 | original | https://x.com/iiiinvest/status/2057841153769341379 | 买了苹果，防守。。。
+- `2057848064552116289` | 2026-05-22 23:36:26 GMT+8 | quote | https://x.com/iiiinvest/status/2057848064552116289 | 卖了，冲不上去。好好过周末了，睡觉 https://t.co/ITqeUrGNMq
+- `2058103114910302687` | 2026-05-23 16:29:54 GMT+8 | original | https://x.com/iiiinvest/status/2058103114910302687 | 周末愉快，铁子们，下周答应我，要赚钱好吗！
+- `2058799942819537010` | 2026-05-25 14:38:51 GMT+8 | original | https://x.com/iiiinvest/status/2058799942819537010 | 美伊谈判，不成功还有一股气吊着，真达成协议反而可能催生利好落地的利空情绪。谨慎点吧
+- `2058849761449668612` | 2026-05-25 17:56:49 GMT+8 | original | https://x.com/iiiinvest/status/2058849761449668612 | 年龄≈体力≈精力≈激情
+- `2059093485102436828` | 2026-05-26 10:05:17 GMT+8 | quote | https://x.com/iiiinvest/status/2059093485102436828 | 5.26 分批加大，注意控制
+- `2059093577263890729` | 2026-05-26 10:05:39 GMT+8 | quote | https://x.com/iiiinvest/status/2059093577263890729 | 5.26 分歧加大，注意控制
+- `2059181178708721887` | 2026-05-26 15:53:45 GMT+8 | original | https://x.com/iiiinvest/status/2059181178708721887 | 海力士损掉了，虽然但是，纪律第一☝🏻
+- `2059273896768254038` | 2026-05-26 22:02:11 GMT+8 | original | https://x.com/iiiinvest/status/2059273896768254038 | 干了指数TQQQ，上！
+- `2059274508079636819` | 2026-05-26 22:04:36 GMT+8 | original | https://x.com/iiiinvest/status/2059274508079636819 | 现在的 α 收益在航天，指数已经碰到3万了，看这气势不会停下来，干就行了
+- `2059279926495527129` | 2026-05-26 22:26:08 GMT+8 | original | https://x.com/iiiinvest/status/2059279926495527129 | 闪迪破了前高，空单损掉了
+- `2059298859650883744` | 2026-05-26 23:41:22 GMT+8 | original | https://x.com/iiiinvest/status/2059298859650883744 | 苹果卖掉了，买它不如买指数。现在就是买比大盘强的，短线。
+- `2059424930631139452` | 2026-05-27 08:02:20 GMT+8 | original | https://x.com/iiiinvest/status/2059424930631139452 | 妈的，以为前三年是牛市，没想到今年才是真正的大牛。
+- `2059455433610510339` | 2026-05-27 10:03:32 GMT+8 | quote | https://x.com/iiiinvest/status/2059455433610510339 | 5.27 突破  建仓
+- `2059457107863486522` | 2026-05-27 10:10:12 GMT+8 | reply | https://x.com/iiiinvest/status/2059457107863486522 | @AlphaDogX666 @xiaomustock 哥，是我错了，我短视了，我做空亏了，现在我上车了，继续涨吧！
+- `2059817771891130567` | 2026-05-28 10:03:21 GMT+8 | quote | https://x.com/iiiinvest/status/2059817771891130567 | 5.28 持仓体验特别差，要崩吗
+- `2059913459203297400` | 2026-05-28 16:23:34 GMT+8 | original | https://x.com/iiiinvest/status/2059913459203297400 | 今天盘前盘中要继续清理，持仓很难受，这种行情要么歇着，要么很累盯盘，我不喜欢后面一种。
+- `2059915807673774498` | 2026-05-28 16:32:54 GMT+8 | original | https://x.com/iiiinvest/status/2059915807673774498 | 今天如果指数停滞不前，就全面清仓。并逐步建立空头仓位了。
+- `2060006691534684462` | 2026-05-28 22:34:02 GMT+8 | original | https://x.com/iiiinvest/status/2060006691534684462 | 趁着上涨，基本都清掉了。
+- `2060006851568406613` | 2026-05-28 22:34:41 GMT+8 | reply | https://x.com/iiiinvest/status/2060006851568406613 | @tf3ZInIRHt11922 明天看看情况，破40就出
+- `2060143798458691699` | 2026-05-29 07:38:51 GMT+8 | original | https://x.com/iiiinvest/status/2060143798458691699 | 美股全部清仓了，节奏不舒服需要调整下。休息休息再战！
+- `2060179963379359835` | 2026-05-29 10:02:34 GMT+8 | quote | https://x.com/iiiinvest/status/2060179963379359835 | 5.29  全部清仓，调整节奏
+- `2061111670244811180` | 2026-05-31 23:44:50 GMT+8 | reply | https://x.com/iiiinvest/status/2061111670244811180 | @hibtc37 今年市场和前3年不一样，今年AI主线感太强了，指数涨背后一堆股票不涨，且轮动感越来越快，很难跟上
+- `2061273202974957883` | 2026-06-01 10:26:42 GMT+8 | quote | https://x.com/iiiinvest/status/2061273202974957883 | 6.1 想清楚了，接下来这么干
+- `2061276287688450154` | 2026-06-01 10:38:58 GMT+8 | original | https://x.com/iiiinvest/status/2061276287688450154 | 今天再想想怎么布局SpaceX上市前后的机会，这波就是今年第3波确定性机会！
+- `2061306483640500368` | 2026-06-01 12:38:57 GMT+8 | quote | https://x.com/iiiinvest/status/2061306483640500368 | 我画了个图，聊聊如何抓住 SpaceX 机会
+- `2061454859451396513` | 2026-06-01 22:28:33 GMT+8 | original | https://x.com/iiiinvest/status/2061454859451396513 | 想到了跌，但没想到太空这种无抵抗的跌，说明人心思跌，还有的跌。
+- `2061587651409678442` | 2026-06-02 07:16:13 GMT+8 | reply | https://x.com/iiiinvest/status/2061587651409678442 | @Mortrue Adobe更强一些
+- `2061587794909352438` | 2026-06-02 07:16:47 GMT+8 | reply | https://x.com/iiiinvest/status/2061587794909352438 | @tf3ZInIRHt11922 咋了，战争影响越来越弱了
+- `2061631420565791042` | 2026-06-02 10:10:08 GMT+8 | quote | https://x.com/iiiinvest/status/2061631420565791042 | 6.2 想清楚就干，做空太空股
+- `2061993943957692891` | 2026-06-03 10:10:40 GMT+8 | quote | https://x.com/iiiinvest/status/2061993943957692891 | 6.3 本周追高要谨慎
+- `2061994026988118288` | 2026-06-03 10:11:00 GMT+8 | reply | https://x.com/iiiinvest/status/2061994026988118288 | @tf3ZInIRHt11922 我空的rklb
+- `2062083309942002124` | 2026-06-03 16:05:47 GMT+8 | original | https://x.com/iiiinvest/status/2062083309942002124 | 下周一定要减仓！
+- `2062103434963390468` | 2026-06-03 17:25:45 GMT+8 | quote | https://x.com/iiiinvest/status/2062103434963390468 | 【SpaceX 交易机会2】如图，继续挖
+- `2062148930574733713` | 2026-06-03 20:26:32 GMT+8 | reply | https://x.com/iiiinvest/status/2062148930574733713 | @Mortrue 战争影响很小了，或者不是主因
+- `2062199954404499789` | 2026-06-03 23:49:17 GMT+8 | original | https://x.com/iiiinvest/status/2062199954404499789 | 所有多单全平了，包括指数。全力备战 SpaceX 机会。
+- `2062204275514810611` | 2026-06-04 00:06:27 GMT+8 | reply | https://x.com/iiiinvest/status/2062204275514810611 | @seelik970253 走掉了
+- `2062204328434336143` | 2026-06-04 00:06:40 GMT+8 | reply | https://x.com/iiiinvest/status/2062204328434336143 | @wangyun_fan 看不懂吗
+- `2062204411712270483` | 2026-06-04 00:07:00 GMT+8 | reply | https://x.com/iiiinvest/status/2062204411712270483 | @keanuoxleung 已经空了
+- `2062350626110235067` | 2026-06-04 09:48:00 GMT+8 | reply | https://x.com/iiiinvest/status/2062350626110235067 | @runzhe1646 好，你看看吧
+- `2062351910926275013` | 2026-06-04 09:53:06 GMT+8 | quote | https://x.com/iiiinvest/status/2062351910926275013 | 6.4 大盘调整，我在赚钱！
+- `2062363435481112765` | 2026-06-04 10:38:54 GMT+8 | original | https://x.com/iiiinvest/status/2062363435481112765 | 一直在提醒SpaceX对大盘的利空，真的要跌了才信吗！
+- `2062453304526057518` | 2026-06-04 16:36:00 GMT+8 | original | https://x.com/iiiinvest/status/2062453304526057518 | SpaceX的机会，其实早开始了。
+- `2062453472952533379` | 2026-06-04 16:36:41 GMT+8 | reply | https://x.com/iiiinvest/status/2062453472952533379 | @guiguzig 你知道美股一天多少成交额吗
+- `2062453528459886972` | 2026-06-04 16:36:54 GMT+8 | reply | https://x.com/iiiinvest/status/2062453528459886972 | @ZouGu72332 你持仓跌多少
+- `2062453557908185443` | 2026-06-04 16:37:01 GMT+8 | reply | https://x.com/iiiinvest/status/2062453557908185443 | @JohnsonLiang16 不然呢
+- `2062453623943258503` | 2026-06-04 16:37:17 GMT+8 | reply | https://x.com/iiiinvest/status/2062453623943258503 | @hadi19198888 看我时间线
+- `2062453653596967182` | 2026-06-04 16:37:24 GMT+8 | reply | https://x.com/iiiinvest/status/2062453653596967182 | @m3hD8IVxxsjYhKb 空了啊
+- `2062453697167450365` | 2026-06-04 16:37:34 GMT+8 | reply | https://x.com/iiiinvest/status/2062453697167450365 | @lzwaaron 这不是事实吗
+- `2062453752838386134` | 2026-06-04 16:37:47 GMT+8 | reply | https://x.com/iiiinvest/status/2062453752838386134 | @AustenNotes 别骂我行吗
+- `2062453975946055757` | 2026-06-04 16:38:41 GMT+8 | reply | https://x.com/iiiinvest/status/2062453975946055757 | @mercy777888 已经减了
+- `2062454003741712782` | 2026-06-04 16:38:47 GMT+8 | reply | https://x.com/iiiinvest/status/2062454003741712782 | @PandaJJ6 晒了
+- `2062454838181724484` | 2026-06-04 16:42:06 GMT+8 | reply | https://x.com/iiiinvest/status/2062454838181724484 | @ResearchKONG 投特斯拉的，多少是投马斯克，多少是投企业的？
+- `2062457189021958395` | 2026-06-04 16:51:27 GMT+8 | reply | https://x.com/iiiinvest/status/2062457189021958395 | @CryptoRounder 好的，房子已经卖了
+- `2062457581558546682` | 2026-06-04 16:53:00 GMT+8 | reply | https://x.com/iiiinvest/status/2062457581558546682 | @hibtc37 这次我抓住了做空的机会
+- `2062458202244141381` | 2026-06-04 16:55:28 GMT+8 | original | https://x.com/iiiinvest/status/2062458202244141381 | 6.2做多比特币，赚了2万美金，跑了🏃🏻‍♂️‍➡️。
+- `2062458352337355104` | 2026-06-04 16:56:04 GMT+8 | quote | https://x.com/iiiinvest/status/2062458352337355104 | 牛逼不 https://t.co/rAd74EFwX9
+- `2062460433341247739` | 2026-06-04 17:04:20 GMT+8 | original | https://x.com/iiiinvest/status/2062460433341247739 | 海力士今天跌的不多嘛。
+- `2062461294285131841` | 2026-06-04 17:07:45 GMT+8 | original | https://x.com/iiiinvest/status/2062461294285131841 | 你会参与SpaceX吗？
+- `2062462255317598343` | 2026-06-04 17:11:35 GMT+8 | reply | https://x.com/iiiinvest/status/2062462255317598343 | @CryptoRounder 回调概率很大了，身在其中感受比较明显
+- `2062464154276073555` | 2026-06-04 17:19:07 GMT+8 | original | https://x.com/iiiinvest/status/2062464154276073555 | 更新一下SpaceX吸血图，昨天把浓眉大眼的特斯拉忘了！ https://t.co/x0amTA4sTI
+- `2062695646285738378` | 2026-06-05 08:38:59 GMT+8 | original | https://x.com/iiiinvest/status/2062695646285738378 | 才跌一天就抄底？太不把我大SpaceX放在眼里了吧！
+- `2062696262944858226` | 2026-06-05 08:41:26 GMT+8 | reply | https://x.com/iiiinvest/status/2062696262944858226 | @tf3ZInIRHt11922 我感觉半导体可以小仓位参与
+- `2062696389541531937` | 2026-06-05 08:41:56 GMT+8 | reply | https://x.com/iiiinvest/status/2062696389541531937 | @369pie 看历史记录
+- `2062719290546204964` | 2026-06-05 10:12:56 GMT+8 | quote | https://x.com/iiiinvest/status/2062719290546204964 | 6.5 空头的狂欢才开始，别急
+- `2062722220867350671` | 2026-06-05 10:24:35 GMT+8 | original | https://x.com/iiiinvest/status/2062722220867350671 | 现在有一个做空整体山寨的机会，得选选标的
+- `2062733429587013638` | 2026-06-05 11:09:08 GMT+8 | original | https://x.com/iiiinvest/status/2062733429587013638 | 先做空了6个山寨，每个丢了10万美金去空。 https://t.co/pLIJwbDTWM
+- `2062760598421840341` | 2026-06-05 12:57:05 GMT+8 | quote | https://x.com/iiiinvest/status/2062760598421840341 | ZEC和HYPE先平了，跌几把太顺了 https://t.co/MCU9MfbqQL
+- `2062760667246141564` | 2026-06-05 12:57:21 GMT+8 | quote | https://x.com/iiiinvest/status/2062760667246141564 | ZEC和HYPE先平了，跌几把太顺了 https://t.co/NziBdTurUZ https://t.co/MCU9MfbqQL
+- `2062761181669196267` | 2026-06-05 12:59:24 GMT+8 | original | https://x.com/iiiinvest/status/2062761181669196267 | 想靠SpaceX上市发财的人，基本就是接盘的韭菜！
+- `2062768443028648300` | 2026-06-05 13:28:15 GMT+8 | original | https://x.com/iiiinvest/status/2062768443028648300 | 所有人都在想SpaceX上市后涨多少，就没想过跌吗？
+- `2062786717334257781` | 2026-06-05 14:40:52 GMT+8 | original | https://x.com/iiiinvest/status/2062786717334257781 | 昨天抄底的，今天还会心存侥幸，直到拉个大的。
+- `2062787120415252740` | 2026-06-05 14:42:28 GMT+8 | reply | https://x.com/iiiinvest/status/2062787120415252740 | @Jiangbingbin 现在不适合做空SX，还在发酵
+- `2062787730732724253` | 2026-06-05 14:44:54 GMT+8 | original | https://x.com/iiiinvest/status/2062787730732724253 | 什么叫拉个大的，看看今天的海力士！ https://t.co/XFOvMDvbJN
+- `2062808705062834232` | 2026-06-05 16:08:15 GMT+8 | quote | https://x.com/iiiinvest/status/2062808705062834232 | 全平了，赚2万美金，大饼短时间跌不下去。 https://t.co/13zZKyTRsD https://t.co/h0T0bCLCR0
+- `2062815988937372144` | 2026-06-05 16:37:11 GMT+8 | original | https://x.com/iiiinvest/status/2062815988937372144 | 今天如果美股崩个大的，比如-2%，那么抄底资金还会像昨天一样头铁吗？
+- `2062878297651036262` | 2026-06-05 20:44:47 GMT+8 | original | https://x.com/iiiinvest/status/2062878297651036262 | 特斯拉怎么这么硬，是有啥利好吗？分享SpaceX上市红利？感觉比较难啊
+- `2062904684965405071` | 2026-06-05 22:29:38 GMT+8 | original | https://x.com/iiiinvest/status/2062904684965405071 | 平了部分空单，自己比对 https://t.co/M71jktO7yn
+- `2062916122702426113` | 2026-06-05 23:15:05 GMT+8 | original | https://x.com/iiiinvest/status/2062916122702426113 | 没想到今天多头这么怂。
+- `2063046148093579325` | 2026-06-06 07:51:45 GMT+8 | original | https://x.com/iiiinvest/status/2063046148093579325 | 心疼多头
+- `2063077280772170146` | 2026-06-06 09:55:28 GMT+8 | quote | https://x.com/iiiinvest/status/2063077280772170146 | 牛逼+2 https://t.co/rAd74EFwX9
+- `2063106782768296307` | 2026-06-06 11:52:42 GMT+8 | reply | https://x.com/iiiinvest/status/2063106782768296307 | @zhongtao344663 嗯
+- `2063106933960401149` | 2026-06-06 11:53:18 GMT+8 | original | https://x.com/iiiinvest/status/2063106933960401149 | 周末好好休息吧，机会都是跌出来的，下周一如果低开是买入机会！
+- `2063192478895993207` | 2026-06-06 17:33:13 GMT+8 | original | https://x.com/iiiinvest/status/2063192478895993207 | 跌了，我不会说多头风凉话。
+- `2063228837966844292` | 2026-06-06 19:57:42 GMT+8 | reply | https://x.com/iiiinvest/status/2063228837966844292 | @CryptoRounder 下周做空性价比很高
+- `2063424474327007438` | 2026-06-07 08:55:05 GMT+8 | original | https://x.com/iiiinvest/status/2063424474327007438 | 周末得好好想想，下周操作好，收益不得了
+- `2063627093960020468` | 2026-06-07 22:20:14 GMT+8 | reply | https://x.com/iiiinvest/status/2063627093960020468 | @CryptoRounder 太对了，所以所谓价值投资很难
+- `2063798852285813243` | 2026-06-08 09:42:44 GMT+8 | quote | https://x.com/iiiinvest/status/2063798852285813243 | 6.8 平仓空单，建多单
+- `2063805650497663286` | 2026-06-08 10:09:45 GMT+8 | original | https://x.com/iiiinvest/status/2063805650497663286 | 真正危险的不是本周，而是下周和下下周，也就是SpaceX上市后的1-2周，勿谓言之不预也，到时看！
+- `2063884977931198940` | 2026-06-08 15:24:58 GMT+8 | original | https://x.com/iiiinvest/status/2063884977931198940 | 这种行情不用想太多，最重要的是不要自己吓自己。这种跌幅，以及前高位置，未来一定会出一个次高点，这时候一定是买不是卖，怕就分批买，等次高点出来卖！
+- `2063885127823028544` | 2026-06-08 15:25:34 GMT+8 | reply | https://x.com/iiiinvest/status/2063885127823028544 | @tf3ZInIRHt11922 买
+- `2063948507350982811` | 2026-06-08 19:37:25 GMT+8 | quote | https://x.com/iiiinvest/status/2063948507350982811 | 点个赞不为过！ https://t.co/QmRtWFmMK3
+- `2063984181051527655` | 2026-06-08 21:59:10 GMT+8 | original | https://x.com/iiiinvest/status/2063984181051527655 | 忍不住，还是装一下吧 https://t.co/YXWZ5D86ml
+- `2063985615440662809` | 2026-06-08 22:04:52 GMT+8 | reply | https://x.com/iiiinvest/status/2063985615440662809 | @tf3ZInIRHt11922 指数，半导体，下午不是说过吗
+- `2064163919015682142` | 2026-06-09 09:53:23 GMT+8 | quote | https://x.com/iiiinvest/status/2064163919015682142 | 6.9 反弹收尾，防守应对
+- `2064197421845094474` | 2026-06-09 12:06:30 GMT+8 | reply | https://x.com/iiiinvest/status/2064197421845094474 | @mfqunqun1 卖soxl更好一些吧
+- `2064246569172668835` | 2026-06-09 15:21:48 GMT+8 | original | https://x.com/iiiinvest/status/2064246569172668835 | 夜盘涨太多了，逐步建空单了。看了看还是选了波动大的标的，美光和半导体指数。
+- `2064351348720894011` | 2026-06-09 22:18:09 GMT+8 | quote | https://x.com/iiiinvest/status/2064351348720894011 | 掌声！ https://t.co/GH3KyzxF8z
+- `2064378127716081995` | 2026-06-10 00:04:34 GMT+8 | original | https://x.com/iiiinvest/status/2064378127716081995 | 空单全平了，剩下明早说！
+- `2064386580723413361` | 2026-06-10 00:38:09 GMT+8 | reply | https://x.com/iiiinvest/status/2064386580723413361 | @TJ_Research 桃总，让我装一下。。。 https://t.co/TpjnrS7fvv
+- `2064388611601252452` | 2026-06-10 00:46:14 GMT+8 | original | https://x.com/iiiinvest/status/2064388611601252452 | 这么跌，是把今晚CPI爆雷计价了，可以买点多单了。
+- `2064390314421596318` | 2026-06-10 00:53:00 GMT+8 | reply | https://x.com/iiiinvest/status/2064390314421596318 | @xiaomustock 钱没少，只是转移了 https://t.co/vMJhwNAF0l
+- `2064401412046631205` | 2026-06-10 01:37:06 GMT+8 | original | https://x.com/iiiinvest/status/2064401412046631205 | 睡觉了，就赚20，多了分逼不要！ https://t.co/0L2mRYqaCs
+- `2064402230766448900` | 2026-06-10 01:40:21 GMT+8 | reply | https://x.com/iiiinvest/status/2064402230766448900 | @hibtc37 度哥，控制好仓位，SpaceX 上市后我认为才是大问题。
+- `2064515750073926125` | 2026-06-10 09:11:26 GMT+8 | quote | https://x.com/iiiinvest/status/2064515750073926125 | 这周市场节奏太快，需要跟紧点。 https://t.co/T2UFvbKB95
+- `2064516220477702219` | 2026-06-10 09:13:18 GMT+8 | quote | https://x.com/iiiinvest/status/2064516220477702219 | 这条，几乎是日内最低点发的！ https://t.co/lUl0nlY87u
+- `2064533609244242030` | 2026-06-10 10:22:24 GMT+8 | quote | https://x.com/iiiinvest/status/2064533609244242030 | 6.10 踩准市场节奏，先一步下注
+- `2064565839656050994` | 2026-06-10 12:30:28 GMT+8 | original | https://x.com/iiiinvest/status/2064565839656050994 | 节奏无敌，点个赞吧，给点动力 https://t.co/cEUouI31I2
+- `2064603740024487983` | 2026-06-10 15:01:04 GMT+8 | original | https://x.com/iiiinvest/status/2064603740024487983 | 价值投资最大的毒是不做空。
+- `2064642706777805167` | 2026-06-10 17:35:55 GMT+8 | original | https://x.com/iiiinvest/status/2064642706777805167 | 问问问，给你们说怎么操作吧！
+- `2064667459630837909` | 2026-06-10 19:14:16 GMT+8 | original | https://x.com/iiiinvest/status/2064667459630837909 | 空单全平了。
+- `2064680191335821770` | 2026-06-10 20:04:52 GMT+8 | reply | https://x.com/iiiinvest/status/2064680191335821770 | @hibtc37 我干了80万刀
+- `2064680877310005647` | 2026-06-10 20:07:35 GMT+8 | original | https://x.com/iiiinvest/status/2064680877310005647 | 轻仓做多，TQQQ和半导体。
+- `2064687236868940076` | 2026-06-10 20:32:51 GMT+8 | original | https://x.com/iiiinvest/status/2064687236868940076 | 掌声！
+- `2064705462734655869` | 2026-06-10 21:45:17 GMT+8 | original | https://x.com/iiiinvest/status/2064705462734655869 | 半导体多单平掉了，继续拿着TQQQ多单。
+- `2064707808474603720` | 2026-06-10 21:54:36 GMT+8 | original | https://x.com/iiiinvest/status/2064707808474603720 | 接下来的市场，要围绕 SpaceX 进行交易了。
+- `2064714055903039833` | 2026-06-10 22:19:26 GMT+8 | quote | https://x.com/iiiinvest/status/2064714055903039833 | TQQQ也全部卖出了，做多单全部止盈。 https://t.co/vdWEX8hc8k
+- `2064714300078645411` | 2026-06-10 22:20:24 GMT+8 | reply | https://x.com/iiiinvest/status/2064714300078645411 | @T94042227 网上资料一大堆，吸血只是一部分
+- `2064728282420121912` | 2026-06-10 23:15:57 GMT+8 | original | https://x.com/iiiinvest/status/2064728282420121912 | 刺激吧！掌声！
+- `2064732444155330717` | 2026-06-10 23:32:30 GMT+8 | original | https://x.com/iiiinvest/status/2064732444155330717 | 嘿嘿，我刚才还偷偷高点做了空，现在也止盈了。就不告送你，让你不点赞。。。
+- `2064732645750456421` | 2026-06-10 23:33:18 GMT+8 | reply | https://x.com/iiiinvest/status/2064732645750456421 | https://t.co/WLg0mLHMVf
+- `2064851076898304072` | 2026-06-11 07:23:54 GMT+8 | original | https://x.com/iiiinvest/status/2064851076898304072 | 哇靠，还在跌！希望这轮带你逃顶了🙏🏻
+- `2064863950152617996` | 2026-06-11 08:15:03 GMT+8 | reply | https://x.com/iiiinvest/status/2064863950152617996 | @Aora781391 不着急
+- `2064875640390897735` | 2026-06-11 09:01:30 GMT+8 | original | https://x.com/iiiinvest/status/2064875640390897735 | 想三步 看两步 做一步
+- `2064895312452620550` | 2026-06-11 10:19:41 GMT+8 | original | https://x.com/iiiinvest/status/2064895312452620550 | 出差路上，日报晚点发，❤️
+- `2064947606313443742` | 2026-06-11 13:47:28 GMT+8 | quote | https://x.com/iiiinvest/status/2064947606313443742 | 6.11 聚焦下一场战役：SpaceX 
+- `2065004091449987142` | 2026-06-11 17:31:55 GMT+8 | quote | https://x.com/iiiinvest/status/2065004091449987142 | 虽然币圈机会少，但币圈这个账户还是来到了90万美金，做好SpaceX很容易突破100万！ https://t.co/NXjoyoXW3k https://t.co/G14PEyDchH
+- `2065066134240718867` | 2026-06-11 21:38:28 GMT+8 | original | https://x.com/iiiinvest/status/2065066134240718867 | 开盘了，坐下来看看交易机会。话说这两天基本我开盘就会发推，你们能跟上吗，到底有没有价值？
+- `2065066221796815069` | 2026-06-11 21:38:49 GMT+8 | original | https://x.com/iiiinvest/status/2065066221796815069 | 开盘了，坐下来看看交易机会。话说这两天基本我开单就会发推，你们能跟上吗，到底有没有价值？
+- `2065067370050465885` | 2026-06-11 21:43:22 GMT+8 | reply | https://x.com/iiiinvest/status/2065067370050465885 | @samuel8754321 参与了一个，但感觉中签率应该很低
+- `2065069914680090689` | 2026-06-11 21:53:29 GMT+8 | original | https://x.com/iiiinvest/status/2065069914680090689 | 多聊几句 SpaceX ，我自己预期相对较高的，我认为我做好应该能赚50万美金左右。
+- `2065073413967032386` | 2026-06-11 22:07:23 GMT+8 | original | https://x.com/iiiinvest/status/2065073413967032386 | 轻仓做空 纳指 和 半导体。太诱人了！
+- `2065083981796876289` | 2026-06-11 22:49:23 GMT+8 | original | https://x.com/iiiinvest/status/2065083981796876289 | 价值投资第二大坑：拿长线。
+- `2065088885345194333` | 2026-06-11 23:08:52 GMT+8 | original | https://x.com/iiiinvest/status/2065088885345194333 | 空单平了，掌声！
+- `2065095612115349740` | 2026-06-11 23:35:36 GMT+8 | reply | https://x.com/iiiinvest/status/2065095612115349740 | @zhongtao344663 可以参与，但中不了多少的，要赚钱还得博弈，不要想着套利赚大钱。
+- `2065096264317088255` | 2026-06-11 23:38:11 GMT+8 | reply | https://x.com/iiiinvest/status/2065096264317088255 | @chitiaoyu8 概率几乎为0
+- `2065096354561728703` | 2026-06-11 23:38:33 GMT+8 | reply | https://x.com/iiiinvest/status/2065096354561728703 | @Aora781391 短期大方向就是空为主
+- `2065220005919396221` | 2026-06-12 07:49:54 GMT+8 | original | https://x.com/iiiinvest/status/2065220005919396221 | 一觉醒来，SpaceX 170了，160买了吗？ https://t.co/RKrwrS1UR7
+- `2065235287895400754` | 2026-06-12 08:50:37 GMT+8 | original | https://x.com/iiiinvest/status/2065235287895400754 | 看到昨晚美股拉这么猛，真高兴又给做空机会了。让看多的做多，让看空的做空，大家都有赚钱机会，美股真他娘的好！
+- `2065235979980718307` | 2026-06-12 08:53:22 GMT+8 | reply | https://x.com/iiiinvest/status/2065235979980718307 | @Joensmoon 观点一致，干就完了
+- `2065255706199249176` | 2026-06-12 10:11:45 GMT+8 | quote | https://x.com/iiiinvest/status/2065255706199249176 | 6.12 SpaceX和大盘什么关系？
+- `2065298607784513989` | 2026-06-12 13:02:14 GMT+8 | original | https://x.com/iiiinvest/status/2065298607784513989 | 是不是被你们买起来了？我还没到10000股呢，要追吗 https://t.co/pVeJnp8w9c
+- `2065305445120823691` | 2026-06-12 13:29:24 GMT+8 | original | https://x.com/iiiinvest/status/2065305445120823691 | 关于 SpaceX 的相关操作，一定要跟紧点！
+- `2065341494350041368` | 2026-06-12 15:52:39 GMT+8 | original | https://x.com/iiiinvest/status/2065341494350041368 | 2000个关注，我谢谢你们。SpaceX这波，一起赚钱，一起吃肉🍖！ https://t.co/TfHJzGrZYN
+- `2065344313341751656` | 2026-06-12 16:03:51 GMT+8 | original | https://x.com/iiiinvest/status/2065344313341751656 | 今晚SpaceX就要上市了，再说一遍目标价！
+- `2065344927278707177` | 2026-06-12 16:06:17 GMT+8 | reply | https://x.com/iiiinvest/status/2065344927278707177 | @MoonDanceTSE 你小子背叛革命了？
+- `2065365904939180189` | 2026-06-12 17:29:39 GMT+8 | original | https://x.com/iiiinvest/status/2065365904939180189 | 我突然意识到，很多人没买过美股新股，美股新股并不是开盘就能买卖的，是任意时间。所以今晚SpaceX上市，并不是所有人同一时间能买到的！
+- `2065390220049035484` | 2026-06-12 19:06:16 GMT+8 | original | https://x.com/iiiinvest/status/2065390220049035484 | 写在SpaceX上市日盘前
+- `2065393001619493340` | 2026-06-12 19:17:19 GMT+8 | reply | https://x.com/iiiinvest/status/2065393001619493340 | @WangCalist39284 等
+- `2065423347366957469` | 2026-06-12 21:17:54 GMT+8 | original | https://x.com/iiiinvest/status/2065423347366957469 | 还15分钟开盘，SpaceX上市首日，准备好了吗
+- `2065427228536733711` | 2026-06-12 21:33:19 GMT+8 | reply | https://x.com/iiiinvest/status/2065427228536733711 | @CryptoRounder SX多，大盘空
+- `2065429493079326985` | 2026-06-12 21:42:19 GMT+8 | original | https://x.com/iiiinvest/status/2065429493079326985 | 做空了点半导体和美光。迎接SpaceX新王登基！
+- `2065430055728377915` | 2026-06-12 21:44:33 GMT+8 | quote | https://x.com/iiiinvest/status/2065430055728377915 | 177卖了部分，170买回来了 https://t.co/zIjzXWUix9
+- `2065433986009296955` | 2026-06-12 22:00:10 GMT+8 | original | https://x.com/iiiinvest/status/2065433986009296955 | SpaceX现场竞价，175😎
+- `2065435581346373891` | 2026-06-12 22:06:31 GMT+8 | reply | https://x.com/iiiinvest/status/2065435581346373891 | @islet0612 等开盘
+- `2065435647452889267` | 2026-06-12 22:06:46 GMT+8 | reply | https://x.com/iiiinvest/status/2065435647452889267 | @Edwx53BcXfBK4oD 不是刚建吗
+- `2065438585986429075` | 2026-06-12 22:18:27 GMT+8 | original | https://x.com/iiiinvest/status/2065438585986429075 | 给财神爷点赞！ https://t.co/Owy65vP89X
+- `2065451970752848254` | 2026-06-12 23:11:38 GMT+8 | quote | https://x.com/iiiinvest/status/2065451970752848254 | 现场竞价跌倒160了，拖个几把啊，赶紧开盘。我又加了点。 https://t.co/uDH3T9WVFn
+- `2065461682890215698` | 2026-06-12 23:50:14 GMT+8 | original | https://x.com/iiiinvest/status/2065461682890215698 | 开了
+- `2065462858339783038` | 2026-06-12 23:54:54 GMT+8 | quote | https://x.com/iiiinvest/status/2065462858339783038 | 我161买了1.4万股 https://t.co/95Ps7KZpsJ
+- `2065467374539776172` | 2026-06-13 00:12:51 GMT+8 | original | https://x.com/iiiinvest/status/2065467374539776172 | 只有一个方向，涨！
+- `2065471305844154686` | 2026-06-13 00:28:28 GMT+8 | reply | https://x.com/iiiinvest/status/2065471305844154686 | @zhanguuu0326 在
+- `2065471374425264316` | 2026-06-13 00:28:44 GMT+8 | reply | https://x.com/iiiinvest/status/2065471374425264316 | @OqKok 不设限，跟着走
+- `2065472962795647296` | 2026-06-13 00:35:03 GMT+8 | original | https://x.com/iiiinvest/status/2065472962795647296 | 好像有卖单在165压着不让涨，哪位大哥别压了，压不住的，水开了易疏不易堵😁
+- `2065474292272554451` | 2026-06-13 00:40:20 GMT+8 | quote | https://x.com/iiiinvest/status/2065474292272554451 | 已破165，继续冲！ https://t.co/lhkcNgkTRG
+- `2065476204380266790` | 2026-06-13 00:47:56 GMT+8 | quote | https://x.com/iiiinvest/status/2065476204380266790 | 就是要这样慢慢抬高才好，下一战破170！ https://t.co/XB4h6PuK6x
+- `2065477793719504948` | 2026-06-13 00:54:15 GMT+8 | quote | https://x.com/iiiinvest/status/2065477793719504948 | 170已破，下一战175！ https://t.co/xx7w2zHbX7
+- `2065480949320888598` | 2026-06-13 01:06:47 GMT+8 | quote | https://x.com/iiiinvest/status/2065480949320888598 | 174减掉了5000股，还记得开盘竞价最高是多少吗，175，需要冲破才行。 https://t.co/auw9afqMBK
+- `2065481319107510564` | 2026-06-13 01:08:15 GMT+8 | original | https://x.com/iiiinvest/status/2065481319107510564 | 你们怎么不点赞，是没跟上吗？？？
+- `2065481615263043926` | 2026-06-13 01:09:26 GMT+8 | quote | https://x.com/iiiinvest/status/2065481615263043926 | 175已破，下一战180！ https://t.co/bzDjJC3QfY
+- `2065484414860284029` | 2026-06-13 01:20:34 GMT+8 | quote | https://x.com/iiiinvest/status/2065484414860284029 | 175没有站稳，174再减4000股，还剩5000股。 https://t.co/XWeLtdzGB7
+- `2065487151446249753` | 2026-06-13 01:31:26 GMT+8 | quote | https://x.com/iiiinvest/status/2065487151446249753 | 好像要打扫战场阶段。我自己留了2000股，其他全清！ https://t.co/yExCD457dc
+- `2065489008742809855` | 2026-06-13 01:38:49 GMT+8 | original | https://x.com/iiiinvest/status/2065489008742809855 | 打扫战场！SpaceX上市首战盈利25万美金！
+- `2065592413721411744` | 2026-06-13 08:29:42 GMT+8 | original | https://x.com/iiiinvest/status/2065592413721411744 | 醒了，首战首捷，下周一再战！
+- `2065666285024026959` | 2026-06-13 13:23:15 GMT+8 | original | https://x.com/iiiinvest/status/2065666285024026959 | 周末好好休息，我也会整理整理思路，核心还是SpaceX，聚焦！
+- `2065790254167261374` | 2026-06-13 21:35:51 GMT+8 | original | https://x.com/iiiinvest/status/2065790254167261374 | 可能有人认为SpaceX上市了，是不是没机会了。
+- `2065792233350295590` | 2026-06-13 21:43:43 GMT+8 | reply | https://x.com/iiiinvest/status/2065792233350295590 | @Martinchu12_ 沙雕，装逼前提是有实力
+- `2065792390364008821` | 2026-06-13 21:44:21 GMT+8 | reply | https://x.com/iiiinvest/status/2065792390364008821 | @beicheng1022 半导体空单一直拿着啊
+- `2066164079363039407` | 2026-06-14 22:21:18 GMT+8 | original | https://x.com/iiiinvest/status/2066164079363039407 | 这两天一直在想下周操作，还是聚焦SpaceX，不论多空观点，只需要盯住热点，热点就是钱眼！
+- `2066166096043081956` | 2026-06-14 22:29:19 GMT+8 | reply | https://x.com/iiiinvest/status/2066166096043081956 | @888abcd999 跟着市场走就行了，不用过度担心
+- `2066166190582751515` | 2026-06-14 22:29:42 GMT+8 | reply | https://x.com/iiiinvest/status/2066166190582751515 | @hadi19198888 不用加，最近X多跟紧点一样
+- `2066166233075245464` | 2026-06-14 22:29:52 GMT+8 | reply | https://x.com/iiiinvest/status/2066166233075245464 | @luyi31774 暂时没有
+- `2066325072269521290` | 2026-06-15 09:01:02 GMT+8 | original | https://x.com/iiiinvest/status/2066325072269521290 | 早，兄弟们。加空了点半导体和美光，具体日报聊！
+- `2066342255338938601` | 2026-06-15 10:09:19 GMT+8 | quote | https://x.com/iiiinvest/status/2066342255338938601 | 6.15 SpaceX接下来怎么操作？
+- `2066377927420522670` | 2026-06-15 12:31:03 GMT+8 | original | https://x.com/iiiinvest/status/2066377927420522670 | 今天夜盘一个有意思的现象：半导体相较大盘弱势一些，说明资金也很恐高，持续关注盘前表现。
+- `2066381067381256474` | 2026-06-15 12:43:32 GMT+8 | original | https://x.com/iiiinvest/status/2066381067381256474 | SpaceX我今天会怎么建仓？
+- `2066421200394576002` | 2026-06-15 15:23:01 GMT+8 | original | https://x.com/iiiinvest/status/2066421200394576002 | SpaceX的第一个压力位就是175，预计在突破前还会给机会，到时候别怂！
+- `2066457004772929734` | 2026-06-15 17:45:17 GMT+8 | quote | https://x.com/iiiinvest/status/2066457004772929734 | 等到8点吧，如果跌不下来我还是会上仓位！ https://t.co/ZSqE42kTRu
+- `2066486210722500772` | 2026-06-15 19:41:20 GMT+8 | quote | https://x.com/iiiinvest/status/2066486210722500772 | 买了5000 https://t.co/qD4HSv1ejs
+- `2066509453986590961` | 2026-06-15 21:13:42 GMT+8 | quote | https://x.com/iiiinvest/status/2066509453986590961 | 170又买了5000，共1万股，等开盘！ https://t.co/ik0NfGb5m3
+- `2066515848945430632` | 2026-06-15 21:39:07 GMT+8 | quote | https://x.com/iiiinvest/status/2066515848945430632 | 紧盯175，冲过去海阔天空！ https://t.co/5FvgSoje4n
+- `2066524134587486314` | 2026-06-15 22:12:02 GMT+8 | quote | https://x.com/iiiinvest/status/2066524134587486314 | 使使劲，冲过去啊！！！ https://t.co/LYVsZQYldX
+- `2066524759270269084` | 2026-06-15 22:14:31 GMT+8 | quote | https://x.com/iiiinvest/status/2066524759270269084 | 跌不下去，那只能冲过去！我单方面认为今晚必过175！ https://t.co/tfyIxey1RM
+- `2066526354930278827` | 2026-06-15 22:20:51 GMT+8 | quote | https://x.com/iiiinvest/status/2066526354930278827 | 艹，群众里面有坏人啊！上去175直接市价砸盘，我去你大爷，干！ https://t.co/GIyUn4nSnz
+- `2066530845150908873` | 2026-06-15 22:38:42 GMT+8 | quote | https://x.com/iiiinvest/status/2066530845150908873 | 知道原因了，是承销商行使了绿鞋超额配售导致的，也就是从承销商的角度175是涨幅较大的区间了。看新闻好像是已经行使完了！ https://t.co/hSEGgi6pxk
+- `2066534092662067258` | 2026-06-15 22:51:36 GMT+8 | quote | https://x.com/iiiinvest/status/2066534092662067258 | 洗了把脸，想清楚了！市场最大卖家已经卖完了，我又买了1万股，不怂就是干！ https://t.co/JliBctcSVZ
+- `2066536961658220647` | 2026-06-15 23:03:00 GMT+8 | original | https://x.com/iiiinvest/status/2066536961658220647 | SpaceX 这周涨下周跌，我和马斯克说好了！@elonmusk
+- `2066545870305435807` | 2026-06-15 23:38:24 GMT+8 | quote | https://x.com/iiiinvest/status/2066545870305435807 | 熬到12点，如果还不突破175，我就睡觉了，赶紧的吧！ https://t.co/nl7uswKx3k
+- `2066548575363068049` | 2026-06-15 23:49:09 GMT+8 | quote | https://x.com/iiiinvest/status/2066548575363068049 | 突破175，冲击180！ https://t.co/Xa0xhMUamj
+- `2066564923476611355` | 2026-06-16 00:54:07 GMT+8 | quote | https://x.com/iiiinvest/status/2066564923476611355 | 180干不上去啊！再不上去先战略性撤退了！ https://t.co/r8VeWGhtBf
+- `2066567720880226727` | 2026-06-16 01:05:14 GMT+8 | quote | https://x.com/iiiinvest/status/2066567720880226727 | 突破180，冲刺185！掌声！ https://t.co/T7vcWhCRU0
+- `2066571170682728722` | 2026-06-16 01:18:56 GMT+8 | quote | https://x.com/iiiinvest/status/2066571170682728722 | 182出掉了，留了2000股明天观察。伟大撤退！ https://t.co/XGxqAJJEL5
+- `2066646093853863950` | 2026-06-16 06:16:39 GMT+8 | original | https://x.com/iiiinvest/status/2066646093853863950 | 一觉醒来197了，主要是尾盘拉的，是因为多倍杠杆平衡导致的，哎忘记了。
+- `2066673991574823333` | 2026-06-16 08:07:31 GMT+8 | original | https://x.com/iiiinvest/status/2066673991574823333 | 我安排个剧本，SpaceX今天回测下190，如果站稳顺势突破200，今天开盘后冲击220。 $SPCX 纯假设！
+- `2066689361656303709` | 2026-06-16 09:08:35 GMT+8 | original | https://x.com/iiiinvest/status/2066689361656303709 | 艹，趁着夜盘搞事情啊！
+- `2066692533682663791` | 2026-06-16 09:21:11 GMT+8 | original | https://x.com/iiiinvest/status/2066692533682663791 | 轧空了，把空头干废了
+- `2066694582612680858` | 2026-06-16 09:29:20 GMT+8 | original | https://x.com/iiiinvest/status/2066694582612680858 | 我们也算见证了历史了，对，就是历史，三万亿的股票，如何上市，如何拉升，如何轧空，后面还会出现fomo及瀑布，见证吧！
+- `2066704665828593857` | 2026-06-16 10:09:24 GMT+8 | quote | https://x.com/iiiinvest/status/2066704665828593857 | 6.16 不废话了，继续聚焦SpaceX，一年就这几次确定性机会，好好把握吧。 https://t.co/byLFxEWPw1
+- `2066750083442545104` | 2026-06-16 13:09:52 GMT+8 | original | https://x.com/iiiinvest/status/2066750083442545104 | 今天夜盘的这个上涨，打乱了节奏，得重新梳理下接下来的计划了。
+- `2066783000340451719` | 2026-06-16 15:20:40 GMT+8 | original | https://x.com/iiiinvest/status/2066783000340451719 | 上周五熬夜感觉还行，昨晚一熬夜，今天一天没精神。。。
+- `2066860536839672208` | 2026-06-16 20:28:47 GMT+8 | original | https://x.com/iiiinvest/status/2066860536839672208 | 今天盘面挺危险，多看少动。
+- `2066862564857073827` | 2026-06-16 20:36:50 GMT+8 | quote | https://x.com/iiiinvest/status/2066862564857073827 | SpaceX 还有可能向上，但蕴藏回踩的压力，这个时机判断需要很快，不敢带大家。如果短线没那么自信不建议参与这段行情。 https://t.co/NQnzfF7ye2
+- `2066880568978256288` | 2026-06-16 21:48:23 GMT+8 | original | https://x.com/iiiinvest/status/2066880568978256288 | 看戏吧！
+- `2066891607799128228` | 2026-06-16 22:32:14 GMT+8 | quote | https://x.com/iiiinvest/status/2066891607799128228 | 回踩可能来了，这次回踩之后，还会测试新高，所以还有一个回踩低点做多的机会！ https://t.co/iC7tmfhyNM
+- `2066896361723949317` | 2026-06-16 22:51:08 GMT+8 | original | https://x.com/iiiinvest/status/2066896361723949317 | SpaceX 上市初期几个机会：
+- `2066897269165891973` | 2026-06-16 22:54:44 GMT+8 | original | https://x.com/iiiinvest/status/2066897269165891973 | 我不可能带着你们一步一步操作，但提供了思路，可以参考！赚了牛逼，亏了赚经验。
+- `2066904279911432589` | 2026-06-16 23:22:36 GMT+8 | reply | https://x.com/iiiinvest/status/2066904279911432589 | @CryptoRounder R哥多指正
+- `2067028381997371879` | 2026-06-17 07:35:44 GMT+8 | quote | https://x.com/iiiinvest/status/2067028381997371879 | 勿谓言之不预，回调10%了！ https://t.co/6MkS3e0A1P
+- `2067064661053423665` | 2026-06-17 09:59:54 GMT+8 | quote | https://x.com/iiiinvest/status/2067064661053423665 | 6.17 昨天不信，今天信，后天呢？
+- `2067074298569961691` | 2026-06-17 10:38:11 GMT+8 | original | https://x.com/iiiinvest/status/2067074298569961691 | 相信相信的力量意思是，要么早信要么不信，别一会信一会不信。
+- `2067174556432052675` | 2026-06-17 17:16:35 GMT+8 | original | https://x.com/iiiinvest/status/2067174556432052675 | SpaceX这波顶部是不是225，看今晚了。
+- `2067185412268040498` | 2026-06-17 17:59:43 GMT+8 | quote | https://x.com/iiiinvest/status/2067185412268040498 | 前两天空的半导体和美光止损掉了，聚焦SpaceX！ https://t.co/9E1UEa7SCt
+- `2067247022034571715` | 2026-06-17 22:04:32 GMT+8 | quote | https://x.com/iiiinvest/status/2067247022034571715 | 掌声！ https://t.co/6MkS3e0A1P
+- `2067268479624040452` | 2026-06-17 23:29:48 GMT+8 | quote | https://x.com/iiiinvest/status/2067268479624040452 | 空单平掉了，供参考。 https://t.co/1Lh7iTzD7h
+- `2067272853956042898` | 2026-06-17 23:47:11 GMT+8 | quote | https://x.com/iiiinvest/status/2067272853956042898 | 平掉空单并不是立刻做多！如果你是短线高手可以，不是就等更确定性机会！ https://t.co/RMC82prNj1
+- `2067440797994352953` | 2026-06-18 10:54:32 GMT+8 | quote | https://x.com/iiiinvest/status/2067440797994352953 | 6.18 宏观变化，SpaceX节奏怎么把握！
+- `2067477759715348928` | 2026-06-18 13:21:24 GMT+8 | original | https://x.com/iiiinvest/status/2067477759715348928 | 问个话几把就一个人正经回答，懒死你们，那天不分享了自己玩去吧！ https://t.co/qoISOTh339
+- `2067510802836582532` | 2026-06-18 15:32:42 GMT+8 | original | https://x.com/iiiinvest/status/2067510802836582532 | SpaceX 目前192，现在做空的性价比不高。需要等今天的反弹高点出来才好做决定。
+- `2067513297340186814` | 2026-06-18 15:42:37 GMT+8 | reply | https://x.com/iiiinvest/status/2067513297340186814 | @CryptoRounder R兄，STRC是否提高股息，是自动还是团队决定的
+- `2067528823730753761` | 2026-06-18 16:44:19 GMT+8 | reply | https://x.com/iiiinvest/status/2067528823730753761 | @hibtc37 今天反弹，哈哈
+- `2067532279422058930` | 2026-06-18 16:58:02 GMT+8 | original | https://x.com/iiiinvest/status/2067532279422058930 | 今天反弹高点出来后，要大胆做空！还会去测低点的，也就是187的位置。细节边走边看！
+- `2067606244169490885` | 2026-06-18 21:51:57 GMT+8 | original | https://x.com/iiiinvest/status/2067606244169490885 | 第一个目标位到了，短线做多了，仓位自己控制下。
+- `2067608615436050704` | 2026-06-18 22:01:22 GMT+8 | original | https://x.com/iiiinvest/status/2067608615436050704 | 没想到跌这么顺畅，反弹这么弱。投机的人还是多啊。接下来不看空了，175-160是属于筹码密集区，这区间支撑应该比较大，可以考虑做多了。
+- `2067611439586852877` | 2026-06-18 22:12:36 GMT+8 | original | https://x.com/iiiinvest/status/2067611439586852877 | 不要怕没机会，机会有的是。接下来一个月，我们持续聚焦SpaceX 就可以了。吃的饱饱的！
+- `2067777716284518480` | 2026-06-19 09:13:19 GMT+8 | original | https://x.com/iiiinvest/status/2067777716284518480 | 昨晚SpaceX 177做多，舒服了。掌声响起来！
+- `2067876003662516388` | 2026-06-19 15:43:53 GMT+8 | original | https://x.com/iiiinvest/status/2067876003662516388 | 如果下周跌到175以下，勇敢加仓多单！
+- `2068153524937191694` | 2026-06-20 10:06:39 GMT+8 | original | https://x.com/iiiinvest/status/2068153524937191694 | 兄弟们，节假日快乐。
+- `2068707554490991065` | 2026-06-21 22:48:10 GMT+8 | original | https://x.com/iiiinvest/status/2068707554490991065 | 明天周一了，准备好干它一周！
+- `2068875542435356970` | 2026-06-22 09:55:41 GMT+8 | original | https://x.com/iiiinvest/status/2068875542435356970 | 梳理梳理发日报，未来日报中午发，更方便观察市场变化。
+- `2068896702908760218` | 2026-06-22 11:19:46 GMT+8 | quote | https://x.com/iiiinvest/status/2068896702908760218 | 6.22 SpaceX下跌，是机会还是陷阱？
+- `2068958092646383859` | 2026-06-22 15:23:43 GMT+8 | original | https://x.com/iiiinvest/status/2068958092646383859 | 因为SpaceX强流动性属性，现在夜盘和盘前的价格，参考意义不大。一切开盘才见分晓！
+- `2069052677762552220` | 2026-06-22 21:39:34 GMT+8 | original | https://x.com/iiiinvest/status/2069052677762552220 | 175没撑住，看来要去165了，不着急加仓，慢慢来。
+- `2069057254121459760` | 2026-06-22 21:57:45 GMT+8 | original | https://x.com/iiiinvest/status/2069057254121459760 | 现在的SpaceX 就是独立行情，忽略大盘。
+- `2069057772675899876` | 2026-06-22 21:59:48 GMT+8 | original | https://x.com/iiiinvest/status/2069057772675899876 | 171买了点，现在应该还没到底，只是博个小反弹。
+- `2069063894644163049` | 2026-06-22 22:24:08 GMT+8 | original | https://x.com/iiiinvest/status/2069063894644163049 | 200以上追涨的和现在160杀跌的是一批人，你想成为他们中的一员吗？？？想清楚再操作！
+- `2069064712646807609` | 2026-06-22 22:27:23 GMT+8 | original | https://x.com/iiiinvest/status/2069064712646807609 | 跌下来我是极度兴奋，而不是恐慌的。因为我知道一定会再涨上去。这可能就是为什么我能赚钱的原因吧。
+- `2069068411578302965` | 2026-06-22 22:42:05 GMT+8 | quote | https://x.com/iiiinvest/status/2069068411578302965 | 我真JB神了，真到了165开始反弹了！ https://t.co/WabnWSPXF9
+- `2069184970879606910` | 2026-06-23 06:25:15 GMT+8 | original | https://x.com/iiiinvest/status/2069184970879606910 | 一觉醒来，直接跌穿160了，洗把脸想想如何操作，晚点发！
+- `2069223102807224352` | 2026-06-23 08:56:46 GMT+8 | original | https://x.com/iiiinvest/status/2069223102807224352 | 第一步，不要慌，稳住！
+- `2069241652783522267` | 2026-06-23 10:10:29 GMT+8 | original | https://x.com/iiiinvest/status/2069241652783522267 | 第二步，等，等什么？等企稳！
+- `2069245947427930368` | 2026-06-23 10:27:33 GMT+8 | original | https://x.com/iiiinvest/status/2069245947427930368 | 今天开盘还会砸一下，关注150的支撑，如果撑住勇敢上仓！
+- `2069285614978253185` | 2026-06-23 13:05:10 GMT+8 | original | https://x.com/iiiinvest/status/2069285614978253185 | 150的SpaceX谁在卖？200以上追高被套的那批人在割肉🥩！
+- `2069333431910367561` | 2026-06-23 16:15:11 GMT+8 | original | https://x.com/iiiinvest/status/2069333431910367561 | 大盘现在-2.5%，SpaceX还能守住150，今天还是有机会，不要着急，一切开盘看。
+- `2069398092097745389` | 2026-06-23 20:32:07 GMT+8 | quote | https://x.com/iiiinvest/status/2069398092097745389 | 6.23 盘前分析，SpaceX 多空互道傻逼时刻
+- `2069402177983086876` | 2026-06-23 20:48:21 GMT+8 | reply | https://x.com/iiiinvest/status/2069402177983086876 | @tf3ZInIRHt11922 建议聚焦
+- `2069405156794675325` | 2026-06-23 21:00:11 GMT+8 | original | https://x.com/iiiinvest/status/2069405156794675325 | 还30分钟赌场开门，准备好！
+- `2069410706605420856` | 2026-06-23 21:22:14 GMT+8 | original | https://x.com/iiiinvest/status/2069410706605420856 | 感觉SpaceX 有机构在护盘。150的价格拉扯了好几次了。我猜是承销商，要知道承销商在SpaceX 上绿鞋可是赚了很多的。
+- `2069412313019592928` | 2026-06-23 21:28:37 GMT+8 | reply | https://x.com/iiiinvest/status/2069412313019592928 | @zhongtao344663 4成
+- `2069413704496812088` | 2026-06-23 21:34:09 GMT+8 | original | https://x.com/iiiinvest/status/2069413704496812088 | 150加仓了
+- `2069414457374302665` | 2026-06-23 21:37:09 GMT+8 | quote | https://x.com/iiiinvest/status/2069414457374302665 | 今天第一目标，先从跌拉到上涨，只有上涨才能让更多资金进来！ https://t.co/hMKdsH9jwg
+- `2069417790940061928` | 2026-06-23 21:50:23 GMT+8 | original | https://x.com/iiiinvest/status/2069417790940061928 | 插科打诨说一句半导体，现在的半导体最大问题是多头太多，杠杆太大，未来一旦跌起来，多杀多是最恐怖的！今天只是预演而已。
+- `2069419428677378201` | 2026-06-23 21:56:54 GMT+8 | quote | https://x.com/iiiinvest/status/2069419428677378201 | 拉涨了！跟上了吗？？？ https://t.co/HH28HQhPEo
+- `2069421415829581852` | 2026-06-23 22:04:48 GMT+8 | original | https://x.com/iiiinvest/status/2069421415829581852 | 接下来SpaceX 上涨有3波力量，1是抄底资金，2是空头平仓，3是FOMO追涨。当前只是第一波资金，只有盘面稳住123资金才会轮番登场！
+- `2069427365390983255` | 2026-06-23 22:28:26 GMT+8 | original | https://x.com/iiiinvest/status/2069427365390983255 | 风险都是涨出来的，现在的半导体就是风险资产，SpaceX就是避险资产，欢迎半导体的资金来SpaceX 避险！😂
+- `2069444911242588258` | 2026-06-23 23:38:09 GMT+8 | original | https://x.com/iiiinvest/status/2069444911242588258 | SpaceX 基本稳住了，这里反弹的话，短期还是先看175，至于次高点能去哪里，我拍脑袋认为200是这轮的顶部。200以上？解放军这次不过鸭绿江。
+- `2069449851549708609` | 2026-06-23 23:57:47 GMT+8 | quote | https://x.com/iiiinvest/status/2069449851549708609 | 反正我要睡了，相信相信的力量。 https://t.co/2gLj0gvpbn
+- `2069568422292381883` | 2026-06-24 07:48:57 GMT+8 | original | https://x.com/iiiinvest/status/2069568422292381883 | 睡醒了，有所回撤但还可以，这里反弹不要想一蹴而就，慢慢来走的远一些！
+- `2069605641564643525` | 2026-06-24 10:16:51 GMT+8 | reply | https://x.com/iiiinvest/status/2069605641564643525 | @DrunkDividends 现在跟着我做多，学费一会回来！
+- `2069606606762070089` | 2026-06-24 10:20:41 GMT+8 | original | https://x.com/iiiinvest/status/2069606606762070089 | 唐僧为什么能力不如孙悟空、猪八戒、沙和尚，却能做他们的师傅？
+- `2069712550510702881` | 2026-06-24 17:21:40 GMT+8 | quote | https://x.com/iiiinvest/status/2069712550510702881 | 6.24 SpaceX最危险的时刻已经过去
+- `2069767999947690035` | 2026-06-24 21:02:00 GMT+8 | original | https://x.com/iiiinvest/status/2069767999947690035 | 还半小时，赌场开门了！
+- `2069771569707278838` | 2026-06-24 21:16:11 GMT+8 | original | https://x.com/iiiinvest/status/2069771569707278838 | 今天最大风险来自大盘，最怕指数像昨天一样拉个大的，影响反弹情绪。
+- `2069777582523089204` | 2026-06-24 21:40:04 GMT+8 | original | https://x.com/iiiinvest/status/2069777582523089204 | 看回踩能不能稳住150的底线！
+- `2069779041289400460` | 2026-06-24 21:45:52 GMT+8 | quote | https://x.com/iiiinvest/status/2069779041289400460 | 稳了！152再次加仓了！ https://t.co/fwZjvxY8hC
+- `2069783752570785818` | 2026-06-24 22:04:35 GMT+8 | quote | https://x.com/iiiinvest/status/2069783752570785818 | 掌声！ https://t.co/RgDmdN6dqt
+- `2069799052062171338` | 2026-06-24 23:05:23 GMT+8 | quote | https://x.com/iiiinvest/status/2069799052062171338 | 今天最佳剧本是直接跨过160，再次冲击下165。然后留在160以上收盘！ https://t.co/3YlVfIqBKs
+- `2069803421637734894` | 2026-06-24 23:22:45 GMT+8 | original | https://x.com/iiiinvest/status/2069803421637734894 | 既然回踩不破150，这个位置就是比较安全的了。没必要过度焦虑，我们只需要拿着等次高点出来就行。
+- `2069936404826870208` | 2026-06-25 08:11:11 GMT+8 | original | https://x.com/iiiinvest/status/2069936404826870208 | 醒了，有一说一，SpaceX走的有点弱，今天开盘再观察下，无需焦虑，我和你在一起！
+- `2069948951651033539` | 2026-06-25 09:01:02 GMT+8 | original | https://x.com/iiiinvest/status/2069948951651033539 | 再说一遍，SpaceX最危险的时刻是前天，现在轻舟已过两重山，不要慌！！
+- `2070075903879651358` | 2026-06-25 17:25:30 GMT+8 | quote | https://x.com/iiiinvest/status/2070075903879651358 | 6.25 SpaceX目标价格更新
+- `2070094897928163469` | 2026-06-25 18:40:58 GMT+8 | quote | https://x.com/iiiinvest/status/2070094897928163469 | 发的时候153，现在160了，有没有点掌声！ https://t.co/EM6TmkatVp
+- `2070142322533396601` | 2026-06-25 21:49:25 GMT+8 | original | https://x.com/iiiinvest/status/2070142322533396601 | 相对大盘来说，SpaceX 还是强的，稳住！
+- `2070143924262613348` | 2026-06-25 21:55:47 GMT+8 | original | https://x.com/iiiinvest/status/2070143924262613348 | 活久见，第一次见美股TMD画门行情。 https://t.co/ekI454RC84
+- `2070146828100907307` | 2026-06-25 22:07:19 GMT+8 | original | https://x.com/iiiinvest/status/2070146828100907307 | SpaceX 震的够久了，可以起飞了！！！
+- `2070149922591293516` | 2026-06-25 22:19:37 GMT+8 | original | https://x.com/iiiinvest/status/2070149922591293516 | 再一次150压力测试，这次能不能守住！！！
+- `2070155699393610042` | 2026-06-25 22:42:35 GMT+8 | original | https://x.com/iiiinvest/status/2070155699393610042 | 知行合一，绝不口嗨，152再次买入2000股！！！ https://t.co/C5RKgrlyHM
+- `2070160250897146363` | 2026-06-25 23:00:40 GMT+8 | original | https://x.com/iiiinvest/status/2070160250897146363 | “怎么起飞变守住了？”那我就说下为什么SpaceX 守住150比起飞更重要。
+- `2070162308018708651` | 2026-06-25 23:08:50 GMT+8 | reply | https://x.com/iiiinvest/status/2070162308018708651 | @hamuul_eludoria 说过了，向上概率大于向下，欢迎做空做对手盘！
+- `2070282399838253553` | 2026-06-26 07:06:02 GMT+8 | original | https://x.com/iiiinvest/status/2070282399838253553 | 睡醒了，SpaceX一切正常！今天会有指数资金买入，晚点细说！
+- `2070330063455936544` | 2026-06-26 10:15:26 GMT+8 | original | https://x.com/iiiinvest/status/2070330063455936544 | 敢不敢做空美光？
+- `2070343527482146826` | 2026-06-26 11:08:56 GMT+8 | quote | https://x.com/iiiinvest/status/2070343527482146826 | 币圈这个账户，现在150万美金了！年初30多万美金，最近10几天涨了60万美金，可行？ https://t.co/lfKk1wkSDP https://t.co/Dl7a5szLjl
+- `2070348097490952307` | 2026-06-26 11:27:06 GMT+8 | original | https://x.com/iiiinvest/status/2070348097490952307 | 夜盘慌个jb
+- `2070357820311326848` | 2026-06-26 12:05:44 GMT+8 | quote | https://x.com/iiiinvest/status/2070357820311326848 | 荣幸和蛋总一辆车了 https://t.co/jmO5lkHRNV
+- `2070366103646380443` | 2026-06-26 12:38:39 GMT+8 | original | https://x.com/iiiinvest/status/2070366103646380443 | 旗帜鲜明，为什么做空1200的美光？
+- `2070401246331301994` | 2026-06-26 14:58:17 GMT+8 | original | https://x.com/iiiinvest/status/2070401246331301994 | 只要恐慌时杀跌的，都去洗把脸抽自己两巴掌，冷静冷静。SpaceX $SPCX 很硬！
+- `2070416817085141212` | 2026-06-26 16:00:10 GMT+8 | quote | https://x.com/iiiinvest/status/2070416817085141212 | 今晚涨服怎么样？ https://t.co/LxOGuHmGmY
+- `2070428727503409424` | 2026-06-26 16:47:29 GMT+8 | original | https://x.com/iiiinvest/status/2070428727503409424 | 美光利润都是靠涨价来的。苹果说我也涨价。
+- `2070429370456662481` | 2026-06-26 16:50:03 GMT+8 | reply | https://x.com/iiiinvest/status/2070429370456662481 | @Narutonoka 倾巢之下岂有完卵
+- `2070429507253932410` | 2026-06-26 16:50:35 GMT+8 | reply | https://x.com/iiiinvest/status/2070429507253932410 | @Workinghard917 拿仓位和盈利说话
+- `2070429820559974641` | 2026-06-26 16:51:50 GMT+8 | reply | https://x.com/iiiinvest/status/2070429820559974641 | @RGoerke65819 这不刚空上吗
+- `2070433011062170012` | 2026-06-26 17:04:31 GMT+8 | original | https://x.com/iiiinvest/status/2070433011062170012 | 傻逼还是牛逼，我始终在用仓位证明，如果亏了可以说我傻逼，但现在赚钱为啥说我傻逼，梁静茹给你的勇气吗？
+- `2070438040619929674` | 2026-06-26 17:24:30 GMT+8 | quote | https://x.com/iiiinvest/status/2070438040619929674 | 6.26 🔥准备好！抓住SpaceX进指数这个机会！
+- `2070473287000596923` | 2026-06-26 19:44:33 GMT+8 | original | https://x.com/iiiinvest/status/2070473287000596923 | 媒体开始宣传了，另外我说了等开盘稳一点再加仓，别jb现在缩进去了 https://t.co/k4rV1QSSPj
+- `2070473390297899488` | 2026-06-26 19:44:58 GMT+8 | original | https://x.com/iiiinvest/status/2070473390297899488 | 媒体开始宣传了 https://t.co/cPPBU6xcqp
+- `2070480401148338253` | 2026-06-26 20:12:49 GMT+8 | reply | https://x.com/iiiinvest/status/2070480401148338253 | @CryptoRounder 干😃
+- `2070480564545786335` | 2026-06-26 20:13:28 GMT+8 | reply | https://x.com/iiiinvest/status/2070480564545786335 | @CryptoDanta 与蛋总一起起飞
+- `2070491516443959301` | 2026-06-26 20:57:00 GMT+8 | original | https://x.com/iiiinvest/status/2070491516443959301 | 看盘前这情绪，SpaceX还是硬的。
+- `2070497721187025033` | 2026-06-26 21:21:39 GMT+8 | original | https://x.com/iiiinvest/status/2070497721187025033 | 刚洗了个澡，刷了个牙，弄的立立整整的。上次这样还是娶媳子，SpaceX 莫辜负！
+- `2070501530227323241` | 2026-06-26 21:36:47 GMT+8 | original | https://x.com/iiiinvest/status/2070501530227323241 | 我在看盘，有变化会随时通知。别慌！
+- `2070502090968097031` | 2026-06-26 21:39:01 GMT+8 | quote | https://x.com/iiiinvest/status/2070502090968097031 | 150附近加仓了。硬！ https://t.co/QrJwhtxIOy
+- `2070502576706253259` | 2026-06-26 21:40:57 GMT+8 | reply | https://x.com/iiiinvest/status/2070502576706253259 | @Huang9pb 别急，会说
+- `2070502823515828659` | 2026-06-26 21:41:55 GMT+8 | quote | https://x.com/iiiinvest/status/2070502823515828659 | 只要SpaceX 率先翻红上涨，星辰大海打开！ https://t.co/TLCvbTHOou
+- `2070506708603216327` | 2026-06-26 21:57:22 GMT+8 | quote | https://x.com/iiiinvest/status/2070506708603216327 | 150跌破，却在149磨蹭，为什么？要么149有人拉，要么是没人卖！这种位置大胆一些！ https://t.co/1BZI7wJ27P
+- `2070507999492468938` | 2026-06-26 22:02:29 GMT+8 | quote | https://x.com/iiiinvest/status/2070507999492468938 | 前半夜，SpaceX的目标就一个：守住！下半夜才是主场！ https://t.co/DiUm5sdReb
+- `2070509868625363329` | 2026-06-26 22:09:55 GMT+8 | quote | https://x.com/iiiinvest/status/2070509868625363329 | 最好是涨到155以上去震荡，不然很多人心态不够稳。我懂你！ https://t.co/UfMeApDBMa
+- `2070512139920646232` | 2026-06-26 22:18:57 GMT+8 | quote | https://x.com/iiiinvest/status/2070512139920646232 | 拉升翻红了，开心吗？掌声！ https://t.co/xaDVmJj333
+- `2070516011288391997` | 2026-06-26 22:34:20 GMT+8 | original | https://x.com/iiiinvest/status/2070516011288391997 | 基本稳住了。
+- `2070523656804208824` | 2026-06-26 23:04:42 GMT+8 | quote | https://x.com/iiiinvest/status/2070523656804208824 | 还不少兄弟，那我半小时发一次推。一切正常，已稳住待突破，23:00！ https://t.co/NDpZuZHiU5
+- `2070529107746767095` | 2026-06-26 23:26:22 GMT+8 | quote | https://x.com/iiiinvest/status/2070529107746767095 | 突破155！舒服，掌声！23:26！ https://t.co/tIabcPD2ui
+- `2070537285385465995` | 2026-06-26 23:58:52 GMT+8 | quote | https://x.com/iiiinvest/status/2070537285385465995 | 很硬吧！放心吧，今晚赚多赚少的事了。另外就是最后一小时最重要，临近收盘的半小时是拉升期！到时听我指挥！24:00! https://t.co/FqcezmvJMM
+- `2070545956446371933` | 2026-06-27 00:33:19 GMT+8 | quote | https://x.com/iiiinvest/status/2070545956446371933 | 00:30 要去摸160了，此战必胜！ https://t.co/QUFM33If6w
+- `2070555459103441027` | 2026-06-27 01:11:05 GMT+8 | quote | https://x.com/iiiinvest/status/2070555459103441027 | 01:00 现在开始，持续缩量是好事，尾盘拉升会更容易。这次进指数是很好的学习机会，珍惜！ https://t.co/TfLUkVbaHT
+- `2070560841943195683` | 2026-06-27 01:32:28 GMT+8 | quote | https://x.com/iiiinvest/status/2070560841943195683 | 01:30，现在盘中的价格，更多是影响尾盘拉升的起点，目前看波动在降低，也就还剩2个小时了，除了看盘你在忙啥？ https://t.co/lSQU626lQm
+- `2070563841961066585` | 2026-06-27 01:44:23 GMT+8 | quote | https://x.com/iiiinvest/status/2070563841961066585 | 01:45 竟然跌破了155，如果不是今天进指数尾盘预期，今天SpaceX 表现不值得我对它一片真心啊。既然开盘稳住了，现在也不用慌，一切想着尾盘！ https://t.co/hG57SJY2re
+- `2070564772131877090` | 2026-06-27 01:48:05 GMT+8 | quote | https://x.com/iiiinvest/status/2070564772131877090 | 01:46 突然想到个事，就是季末养老金平衡，尾盘波动会变大的，说白点就是涨的多的养老金会卖出做平衡，这对于前期涨幅大的股票是不利的，所以我又加空了点美光。 https://t.co/byMoajpxvY
+- `2070566617843687727` | 2026-06-27 01:55:25 GMT+8 | original | https://x.com/iiiinvest/status/2070566617843687727 | 无聊，说一下最近的一个收获：拿住。
+- `2070568454869160337` | 2026-06-27 02:02:43 GMT+8 | reply | https://x.com/iiiinvest/status/2070568454869160337 | @hcs20220927 看价格，应该会出掉部分，看盘后要不要补
+- `2070568973780082964` | 2026-06-27 02:04:47 GMT+8 | quote | https://x.com/iiiinvest/status/2070568973780082964 | 02:00 现在价格155。按照6.18日的行情，尾盘拉升后，盘后会跌回来大部分，所以这次我建议拉升时出掉，盘后看价格情况决定是否接回。 https://t.co/L9IEHu3Ttm
+- `2070576540832981370` | 2026-06-27 02:34:51 GMT+8 | quote | https://x.com/iiiinvest/status/2070576540832981370 | 02:30 现在价格153。还剩最后一个小时了，基本都是跟着大盘波动，期待最后的独立行情！ https://t.co/IHeeB0aMUj
+- `2070584027908841520` | 2026-06-27 03:04:36 GMT+8 | quote | https://x.com/iiiinvest/status/2070584027908841520 | 03:00 现在价格152。现在指数基金应该开始堆积买入订单了。 https://t.co/OM0j9ZDuf4
+- `2070586227510989295` | 2026-06-27 03:13:20 GMT+8 | quote | https://x.com/iiiinvest/status/2070586227510989295 | 03:12 多发几条，现在也不要多想，就等3.30及最重要的3.50。3.30开始最好是有像6.18日的明显拉升，最后价格要看3.50出现的NOII需求单。 https://t.co/ELnWdJ1Owq
+- `2070588174871810339` | 2026-06-27 03:21:05 GMT+8 | quote | https://x.com/iiiinvest/status/2070588174871810339 | 03:20  期待！不管结果如何，期待你我都赚钱！ https://t.co/pq9BwwfFBW
+- `2070590826435232227` | 2026-06-27 03:31:37 GMT+8 | quote | https://x.com/iiiinvest/status/2070590826435232227 | 03:30 没看到拉升，继续观察，特别是最后10分钟和竞价阶段了。 https://t.co/bh73FJQ10t
+- `2070593096585540083` | 2026-06-27 03:40:38 GMT+8 | quote | https://x.com/iiiinvest/status/2070593096585540083 | 03:40 依旧没有明显买盘，真要到最后5分钟？ https://t.co/jF14BXqXCA
+- `2070594643767816684` | 2026-06-27 03:46:47 GMT+8 | quote | https://x.com/iiiinvest/status/2070594643767816684 | 03:45 提前说一下，今天尾盘无论拉不拉升，我都会把今天买的卖出。 https://t.co/PT290O4kiX
+- `2070595442866552857` | 2026-06-27 03:49:58 GMT+8 | quote | https://x.com/iiiinvest/status/2070595442866552857 | 有点动静了，盯着，如果拉升选择市价单！ https://t.co/PUtDaz6YcP
+- `2070595971181056488` | 2026-06-27 03:52:03 GMT+8 | quote | https://x.com/iiiinvest/status/2070595971181056488 | 156了，开始逐步卖！别一次性 https://t.co/oRsQ28fPbb
+- `2070597511711232411` | 2026-06-27 03:58:11 GMT+8 | quote | https://x.com/iiiinvest/status/2070597511711232411 | 153左右，将今天买的全卖了 https://t.co/KPbOnX0kb6
+- `2070597904834953395` | 2026-06-27 03:59:45 GMT+8 | quote | https://x.com/iiiinvest/status/2070597904834953395 | 基本结束了。 https://t.co/usbaVTT3GT
+- `2070599754837586318` | 2026-06-27 04:07:06 GMT+8 | quote | https://x.com/iiiinvest/status/2070599754837586318 | 不及预期，先睡了，明天再复盘。💤 https://t.co/XLqSBiVEv6
+- `2070680761272009172` | 2026-06-27 09:28:59 GMT+8 | original | https://x.com/iiiinvest/status/2070680761272009172 | 醒了，昨晚相当于进纳指的预演，还是有不少启发，之前的计划要修正了。
+- `2071058627830624386` | 2026-06-28 10:30:29 GMT+8 | original | https://x.com/iiiinvest/status/2071058627830624386 | 古有未央宫，意思是永远别走到顶点，不然以后都是下坡路。
+- `2071392180363796888` | 2026-06-29 08:35:55 GMT+8 | original | https://x.com/iiiinvest/status/2071392180363796888 | SpaceX一定会有次高的，先看170再寻求200！我希望你们赚钱！
+- `2071395173188423862` | 2026-06-29 08:47:48 GMT+8 | reply | https://x.com/iiiinvest/status/2071395173188423862 | @ls8frMcniqxO8A2 7.6前
+- `2071415656801861661` | 2026-06-29 10:09:12 GMT+8 | original | https://x.com/iiiinvest/status/2071415656801861661 | 现在市场在交易什么？我拿仓位说话
+- `2071418804316578184` | 2026-06-29 10:21:42 GMT+8 | reply | https://x.com/iiiinvest/status/2071418804316578184 | @GMNIAO 跟上
+- `2071448613713322337` | 2026-06-29 12:20:09 GMT+8 | quote | https://x.com/iiiinvest/status/2071448613713322337 | 目前夜盘，大盘+0.6%，SpaceX+1.3%，美光+0.15%，半导体-0.05%，半导体弱于美光，美光弱于大盘，SpaceX强于大盘！ https://t.co/ueIhTh3ezp
+- `2071534976404005330` | 2026-06-29 18:03:20 GMT+8 | original | https://x.com/iiiinvest/status/2071534976404005330 | SpaceX夜盘和盘前走势，是近几天最强的了
+- `2071535699317436600` | 2026-06-29 18:06:12 GMT+8 | reply | https://x.com/iiiinvest/status/2071535699317436600 | @GiveYou_Smile 拿着仓位等开盘再说
+- `2071549506307645889` | 2026-06-29 19:01:04 GMT+8 | quote | https://x.com/iiiinvest/status/2071549506307645889 | 6.29 SpaceX进纳指前如何操作？
+- `2071560194501599720` | 2026-06-29 19:43:32 GMT+8 | reply | https://x.com/iiiinvest/status/2071560194501599720 | @Wei1753668 先看170
+- `2071572318888034372` | 2026-06-29 20:31:43 GMT+8 | original | https://x.com/iiiinvest/status/2071572318888034372 | 如果今晚SpaceX 起飞，请别惊讶，是对我们耐心的奖励！
+- `2071587921564704925` | 2026-06-29 21:33:43 GMT+8 | original | https://x.com/iiiinvest/status/2071587921564704925 | 开盘很舒服，先拿下160！
+- `2071596608031175112` | 2026-06-29 22:08:14 GMT+8 | quote | https://x.com/iiiinvest/status/2071596608031175112 | 就是要磨掉大家耐心，要跌破早破了。等大家卖了就涨了，所以：耐心！ https://t.co/Gv2AqWMkQA
+- `2071599496790950358` | 2026-06-29 22:19:43 GMT+8 | quote | https://x.com/iiiinvest/status/2071599496790950358 | 美光马上跌到1000了！ https://t.co/ixD4ufr9Qa
+- `2071605979951866358` | 2026-06-29 22:45:28 GMT+8 | reply | https://x.com/iiiinvest/status/2071605979951866358 | @MadisonZho23083 我只要发出来的，止盈止损都会说。
+- `2071607904302661632` | 2026-06-29 22:53:07 GMT+8 | original | https://x.com/iiiinvest/status/2071607904302661632 | 我真心想让你们赚钱，我自己赚够了！
+- `2071616467779690744` | 2026-06-29 23:27:09 GMT+8 | reply | https://x.com/iiiinvest/status/2071616467779690744 | @xcq618168 那看来要拉盘了😂
+- `2071624228483506229` | 2026-06-29 23:57:59 GMT+8 | original | https://x.com/iiiinvest/status/2071624228483506229 | 期待后半夜发发力，看会世界杯睡觉了
+- `2071725931102969992` | 2026-06-30 06:42:07 GMT+8 | original | https://x.com/iiiinvest/status/2071725931102969992 | 醒了，164，掌声！
+- `2071735179614486788` | 2026-06-30 07:18:52 GMT+8 | quote | https://x.com/iiiinvest/status/2071735179614486788 | 这里平个JB，能不能有点出息！ https://t.co/tDXZZUEwGf
+- `2071760652029575441` | 2026-06-30 09:00:05 GMT+8 | original | https://x.com/iiiinvest/status/2071760652029575441 | 今天日报早点发，说说接下来计划，避免你手贱。。。
+- `2071768107262283952` | 2026-06-30 09:29:43 GMT+8 | reply | https://x.com/iiiinvest/status/2071768107262283952 | @MoonDanceTSE 每天发的日报，就是前面日期那个
+- `2071794846105514352` | 2026-06-30 11:15:58 GMT+8 | quote | https://x.com/iiiinvest/status/2071794846105514352 | 6.30 🔥关于SpaceX突破160后怎么操作！
+- `2071892582561632326` | 2026-06-30 17:44:20 GMT+8 | original | https://x.com/iiiinvest/status/2071892582561632326 | 忘了这周五美股休市，那么持有SpaceX的你，距离暴富还剩4天😎
+- `2071892806881415304` | 2026-06-30 17:45:13 GMT+8 | reply | https://x.com/iiiinvest/status/2071892806881415304 | @Neo__BH 100倍？已经爆了吧。。。
+- `2071918595161088281` | 2026-06-30 19:27:42 GMT+8 | reply | https://x.com/iiiinvest/status/2071918595161088281 | @22333D 下跌应该错了，下跌2倍etf也是加速。-3的偶数幂次方＝3的偶数幂次方。初中数学，谢谢！
+- `2071931782598099016` | 2026-06-30 20:20:06 GMT+8 | original | https://x.com/iiiinvest/status/2071931782598099016 | 号外，盘前稳的一批，莫慌。开盘再报！
+- `2071954744420262383` | 2026-06-30 21:51:20 GMT+8 | original | https://x.com/iiiinvest/status/2071954744420262383 | 21:50，开盘20分钟，Spacex 回调洗盘，让不坚定的下车，问题不大，小场面。
+- `2071957040038347143` | 2026-06-30 22:00:28 GMT+8 | original | https://x.com/iiiinvest/status/2071957040038347143 | 22:00，突破165，剑指170！SpaceX 给我冲！！！
+- `2071961886556639358` | 2026-06-30 22:19:43 GMT+8 | original | https://x.com/iiiinvest/status/2071961886556639358 | 22:20，SpaceX波动大一些而已，别大惊小怪的，和没见过世面似的！
+- `2071966908157718568` | 2026-06-30 22:39:40 GMT+8 | original | https://x.com/iiiinvest/status/2071966908157718568 | 今晚假如又是一去不复返，如果你被震下车，请记住这次的感受。
+- `2071969168572977653` | 2026-06-30 22:48:39 GMT+8 | reply | https://x.com/iiiinvest/status/2071969168572977653 | @lunapuma28 你等着吧
+- `2071974479866331329` | 2026-06-30 23:09:46 GMT+8 | original | https://x.com/iiiinvest/status/2071974479866331329 | 23:09，突破170，加油！我的小北北！
+- `2071977241278624020` | 2026-06-30 23:20:44 GMT+8 | original | https://x.com/iiiinvest/status/2071977241278624020 | 现在价格在向175突进了。此刻，我们坚守4天的努力和耐心换来了回报。
+- `2071983306460324021` | 2026-06-30 23:44:50 GMT+8 | original | https://x.com/iiiinvest/status/2071983306460324021 | 什么时候卖？
+- `2071983386659582223` | 2026-06-30 23:45:09 GMT+8 | reply | https://x.com/iiiinvest/status/2071983386659582223 | 睡觉了，不要慌，明早看！
+- `2077772066066239594` | 2026-07-16 23:07:18 GMT+8 | quote | https://x.com/iiiinvest/status/2077772066066239594 | 辜负我一片赤诚！！！ https://t.co/wuG98BFjZs
+- `2077772477636509830` | 2026-07-16 23:08:56 GMT+8 | original | https://x.com/iiiinvest/status/2077772477636509830 | 拿住了吗！！！
+- `2077775868542472393` | 2026-07-16 23:22:24 GMT+8 | original | https://x.com/iiiinvest/status/2077775868542472393 | 没拿住的，弹小弟弟3下！没有小弟弟的找个小弟弟弹3下！！！
+- `2077775974700311034` | 2026-07-16 23:22:50 GMT+8 | original | https://x.com/iiiinvest/status/2077775974700311034 | @Vann1490751 你入门了
+- `2077777787583357308` | 2026-07-16 23:30:02 GMT+8 | reply | https://x.com/iiiinvest/status/2077777787583357308 | @TJ_Research 知道了哥，已经教训他们一顿了 https://t.co/MfQjqjWMXV
+- `2077781405799723492` | 2026-07-16 23:44:25 GMT+8 | reply | https://x.com/iiiinvest/status/2077781405799723492 | @CryptoDanta 我来了
+- `2077782363447418927` | 2026-07-16 23:48:13 GMT+8 | original | https://x.com/iiiinvest/status/2077782363447418927 | 兄弟们，别弹坏了，后面还有机会！
+- `2077783714042618117` | 2026-07-16 23:53:35 GMT+8 | reply | https://x.com/iiiinvest/status/2077783714042618117 | 别忘转发骗子那个帖子！
+- `2077785341172621375` | 2026-07-17 00:00:03 GMT+8 | reply | https://x.com/iiiinvest/status/2077785341172621375 | @w6644999 干他
+- `2077785695918440494` | 2026-07-17 00:01:27 GMT+8 | reply | https://x.com/iiiinvest/status/2077785695918440494 | @inducedcurrent 把我这篇贴他最新推文，让他粉丝都看到！
+- `2077786318353182859` | 2026-07-17 00:03:56 GMT+8 | quote | https://x.com/iiiinvest/status/2077786318353182859 | 睡前一善：以后只要他发推，就把我这篇贴他评论，以示大众！接力！！！ https://t.co/YcZAcCi0sN
+- `2077789155355168807` | 2026-07-17 00:15:12 GMT+8 | reply | https://x.com/iiiinvest/status/2077789155355168807 | @xiaomustock 哥，你账户绿了
+- `2077790086146773053` | 2026-07-17 00:18:54 GMT+8 | reply | https://x.com/iiiinvest/status/2077790086146773053 | @traders18 拿仓位说话 https://t.co/uHwFgwy79y
+- `2077890749245571555` | 2026-07-17 06:58:54 GMT+8 | original | https://x.com/iiiinvest/status/2077890749245571555 | 醒了，取消了！数钱了！ https://t.co/wdiBLA9nuq
+- `2077894040213963089` | 2026-07-17 07:11:59 GMT+8 | reply | https://x.com/iiiinvest/status/2077894040213963089 | @HuiZhang481902 永久免费
+- `2077897280502517780` | 2026-07-17 07:24:51 GMT+8 | original | https://x.com/iiiinvest/status/2077897280502517780 | 夸我的人很多，我很喜欢，请把牛逼大声喊出来！
+- `2077899945085174165` | 2026-07-17 07:35:27 GMT+8 | original | https://x.com/iiiinvest/status/2077899945085174165 | 今天有新的操作，等我！！！
+- `2077901122669551659` | 2026-07-17 07:40:07 GMT+8 | original | https://x.com/iiiinvest/status/2077901122669551659 | 止盈海力士空单！
+- `2077905005282201738` | 2026-07-17 07:55:33 GMT+8 | reply | https://x.com/iiiinvest/status/2077905005282201738 | @traders18 不是道人不努力，而是选错了方向
+- `2077906193423720753` | 2026-07-17 08:00:16 GMT+8 | reply | https://x.com/iiiinvest/status/2077906193423720753 | @elonmusk @SpaceX https://t.co/1xcfoQvDqy
+- `2077910421059850292` | 2026-07-17 08:17:04 GMT+8 | original | https://x.com/iiiinvest/status/2077910421059850292 | 出去转了一圈，都几把在亏损，就我们赚钱？
+- `2077931102141046955` | 2026-07-17 09:39:15 GMT+8 | original | https://x.com/iiiinvest/status/2077931102141046955 | SpaceX 空单止盈20%仓位，剩下等开盘看！ https://t.co/G7cdD4Ooik
+- `2077932404489216050` | 2026-07-17 09:44:26 GMT+8 | reply | https://x.com/iiiinvest/status/2077932404489216050 | 看清楚，20%仓位，大仓位空单还拿着！ https://t.co/4flVMpchE6
+- `2077934314042630293` | 2026-07-17 09:52:01 GMT+8 | original | https://x.com/iiiinvest/status/2077934314042630293 | 这波我赚多少？
+- `2077935989457346683` | 2026-07-17 09:58:40 GMT+8 | reply | https://x.com/iiiinvest/status/2077935989457346683 | @laozhang2579 🐮
+- `2077936246224207881` | 2026-07-17 09:59:41 GMT+8 | reply | https://x.com/iiiinvest/status/2077936246224207881 | @VenenoJYX 谢谢
+- `2077937591190724689` | 2026-07-17 10:05:02 GMT+8 | reply | https://x.com/iiiinvest/status/2077937591190724689 | @somukunmon 没算前面3轮盈利，空了看下
+- `2077939334075060665` | 2026-07-17 10:11:58 GMT+8 | reply | https://x.com/iiiinvest/status/2077939334075060665 | @c75492 谢谢
+- `2077939409559966046` | 2026-07-17 10:12:16 GMT+8 | reply | https://x.com/iiiinvest/status/2077939409559966046 | @yihei155919 恭喜
+- `2077939511238316387` | 2026-07-17 10:12:40 GMT+8 | reply | https://x.com/iiiinvest/status/2077939511238316387 | @Yqq0427 亏出经验也好
+- `2077943051234996541` | 2026-07-17 10:26:44 GMT+8 | quote | https://x.com/iiiinvest/status/2077943051234996541 | 半导体和美光的空单也止盈了，还拿着SpaceX空单！ https://t.co/0s2Ec52uub
+- `2077951411204284488` | 2026-07-17 10:59:57 GMT+8 | original | https://x.com/iiiinvest/status/2077951411204284488 | 突然想抱抱还在美光 海力士 半导体里苦苦挣扎的多头。
+- `2077953104851698060` | 2026-07-17 11:06:41 GMT+8 | original | https://x.com/iiiinvest/status/2077953104851698060 | 今天不用过分看跌，美光 半导体 显示出耐药性！
+- `2077957520497500624` | 2026-07-17 11:24:14 GMT+8 | reply | https://x.com/iiiinvest/status/2077957520497500624 | @v_y1339585728 不是说了吗，止盈！
+- `2077957577439404496` | 2026-07-17 11:24:27 GMT+8 | reply | https://x.com/iiiinvest/status/2077957577439404496 | @xdu4038 恭喜
+- `2077957915550556328` | 2026-07-17 11:25:48 GMT+8 | quote | https://x.com/iiiinvest/status/2077957915550556328 | 看到你们赚钱，我太开心了，真的。我想让你知道这个世界上有一个人希望你好！ https://t.co/3JZMsqGXbT
+- `2077961081428001273` | 2026-07-17 11:38:23 GMT+8 | original | https://x.com/iiiinvest/status/2077961081428001273 | 这波赚钱的接受打赏，不建议太多，1元足以，土豪随意！一起开心！🙂 https://t.co/T3HYekswGO
+- `2077961463508152638` | 2026-07-17 11:39:54 GMT+8 | reply | https://x.com/iiiinvest/status/2077961463508152638 | @oxpsats 一起赚
+- `2077961651081633795` | 2026-07-17 11:40:38 GMT+8 | reply | https://x.com/iiiinvest/status/2077961651081633795 | @JPFFFFFFFF 没赚钱不用打赏！
+- `2077965951480500378` | 2026-07-17 11:57:44 GMT+8 | reply | https://x.com/iiiinvest/status/2077965951480500378 | @somukunmon 不用了，图个乐呵
+- `2077970707477311836` | 2026-07-17 12:16:38 GMT+8 | quote | https://x.com/iiiinvest/status/2077970707477311836 | 不会做会员，我不靠这个赚钱。我主要是自己记录顺便分享给你，能交个朋友足以了！ https://t.co/M0qmmGb3IR
+- `2077970890046988769` | 2026-07-17 12:17:21 GMT+8 | reply | https://x.com/iiiinvest/status/2077970890046988769 | @CryptoRounder R兄也很优秀
+- `2077972846731829734` | 2026-07-17 12:25:08 GMT+8 | reply | https://x.com/iiiinvest/status/2077972846731829734 | @WallStreet0Name 前天想到的，然后187空的 https://t.co/OfBRgov6ku
+- `2077974468228714722` | 2026-07-17 12:31:34 GMT+8 | reply | https://x.com/iiiinvest/status/2077974468228714722 | @hazenlee 是的，今天汇率稳住了，就怕大盘突然来一下
+- `2077974765894283476` | 2026-07-17 12:32:45 GMT+8 | reply | https://x.com/iiiinvest/status/2077974765894283476 | @xiaomustock 继续睡吧，今天汇率稳住了，看大盘给不给机会了
+- `2077990288765935690` | 2026-07-17 13:34:26 GMT+8 | reply | https://x.com/iiiinvest/status/2077990288765935690 | @hazenlee 骂舒服了
+- `2077990550603743581` | 2026-07-17 13:35:29 GMT+8 | reply | https://x.com/iiiinvest/status/2077990550603743581 | @rickfan133 15年，分级B，卧槽
+- `2077991840574484691` | 2026-07-17 13:40:36 GMT+8 | reply | https://x.com/iiiinvest/status/2077991840574484691 | @xiaomustock 钱没少，转移了 https://t.co/TfuRyKK3kQ
+- `2077992123786547329` | 2026-07-17 13:41:44 GMT+8 | original | https://x.com/iiiinvest/status/2077992123786547329 | 没有高的位置不要随意开单！今天主要关注大盘风险。
+- `2077992181852422653` | 2026-07-17 13:41:58 GMT+8 | original | https://x.com/iiiinvest/status/2077992181852422653 | 没有好的位置不要随意开单！今天主要关注大盘风险。
+- `2077997103427793379` | 2026-07-17 14:01:31 GMT+8 | original | https://x.com/iiiinvest/status/2077997103427793379 | 这次以后要记得疼，别几把高位投资，拿长线了！是吧仙人小崽！
+- `2078003872912842957` | 2026-07-17 14:28:25 GMT+8 | original | https://x.com/iiiinvest/status/2078003872912842957 | 152做多美股海力士！
+- `2078005665419915392` | 2026-07-17 14:35:32 GMT+8 | reply | https://x.com/iiiinvest/status/2078005665419915392 | @parry4527421137 假
+- `2078032969785303486` | 2026-07-17 16:24:02 GMT+8 | original | https://x.com/iiiinvest/status/2078032969785303486 | 盘前速递，大盘在加速下跌，但半导体、美光、海力士反而抗跌了。再观察下，再探再报！
+- `2078033447407554822` | 2026-07-17 16:25:56 GMT+8 | reply | https://x.com/iiiinvest/status/2078033447407554822 | @fczxzw 看整体，目前我没损，半导体没破新低
+- `2078035225062613399` | 2026-07-17 16:33:00 GMT+8 | original | https://x.com/iiiinvest/status/2078035225062613399 | SpaceX 空单止盈！(2倍流动性不好我等开盘） https://t.co/JyCj8KkhaR
+- `2078046375292608580` | 2026-07-17 17:17:18 GMT+8 | original | https://x.com/iiiinvest/status/2078046375292608580 | 这次做多海力士，更多是博弈一个反弹。太多人吓破胆了，这就是带血的筹码。
+- `2078057127336345702` | 2026-07-17 18:00:02 GMT+8 | reply | https://x.com/iiiinvest/status/2078057127336345702 | @CryptoRounder 情绪反弹，然后二探
+- `2078069537791246681` | 2026-07-17 18:49:21 GMT+8 | original | https://x.com/iiiinvest/status/2078069537791246681 | 麻不麻？先别松懈，开盘还有一波冲击！再探再报！
+- `2078107489665753482` | 2026-07-17 21:20:09 GMT+8 | original | https://x.com/iiiinvest/status/2078107489665753482 | 马上开盘了，按照盘前这个走势，最危险的时候应该过去了，开盘再报！
+- `2078109459289886769` | 2026-07-17 21:27:59 GMT+8 | original | https://x.com/iiiinvest/status/2078109459289886769 | 其实现在SpaceX 也隐含一个做多线，开盘看看再说！
+- `2078113373179506722` | 2026-07-17 21:43:32 GMT+8 | quote | https://x.com/iiiinvest/status/2078113373179506722 | 123 做多了SpaceX ，止损设很小，跌破今日的低点122就损掉！ https://t.co/tSCAQyq7oQ
+- `2078115717690569083` | 2026-07-17 21:52:51 GMT+8 | quote | https://x.com/iiiinvest/status/2078115717690569083 | 开始反弹了，现在拿着SpaceX 和 海力士，止损点位就放到开盘砸的低点上，也就是海力士145，SpaceX 122！ https://t.co/UYR22eaOFn
+- `2078117509014937960` | 2026-07-17 21:59:58 GMT+8 | reply | https://x.com/iiiinvest/status/2078117509014937960 | @WallStreet0Name 街哥牛逼，海力士走了个加速版SPCX
+- `2078118374106878282` | 2026-07-17 22:03:24 GMT+8 | original | https://x.com/iiiinvest/status/2078118374106878282 | 完美啊！接受赞美和表扬，给小鱼点鼓励！
+- `2078123591120650562` | 2026-07-17 22:24:08 GMT+8 | reply | https://x.com/iiiinvest/status/2078123591120650562 | @Flameyu99 这就是你的不对了~~~
+- `2078130237934817682` | 2026-07-17 22:50:33 GMT+8 | original | https://x.com/iiiinvest/status/2078130237934817682 | 海力士/SpaceX 什么时候止盈？
+- `2078140831991787864` | 2026-07-17 23:32:38 GMT+8 | quote | https://x.com/iiiinvest/status/2078140831991787864 | 兄弟们睡了。海力士158，SpaceX124.5，问题不大，给点时间。我明早起床再看。 https://t.co/topDVe3W6w
+- `2078142136646762980` | 2026-07-17 23:37:50 GMT+8 | reply | https://x.com/iiiinvest/status/2078142136646762980 | @thankUcrypto 反转个几把，反弹！
+- `2078145050698236124` | 2026-07-17 23:49:24 GMT+8 | reply | https://x.com/iiiinvest/status/2078145050698236124 | @traderxiaoxia 刚赚了110万美金，算吗
+- `2078277225171050922` | 2026-07-18 08:34:37 GMT+8 | original | https://x.com/iiiinvest/status/2078277225171050922 | 醒了，有人怕周末，尾盘提前跑路了，问题不大。下周继续反弹！
+- `2078280929571938438` | 2026-07-18 08:49:20 GMT+8 | reply | https://x.com/iiiinvest/status/2078280929571938438 | @Vann1490751 睡觉比盯着那点波动靠谱
+- `2078332002856776167` | 2026-07-18 12:12:17 GMT+8 | original | https://x.com/iiiinvest/status/2078332002856776167 | 做多123 SpaceX 的逻辑
+- `2078346162093068298` | 2026-07-18 13:08:33 GMT+8 | reply | https://x.com/iiiinvest/status/2078346162093068298 | @c2ifsx 没有说周一吧，其实定了日期应该就会涨
+- `2078356285226192960` | 2026-07-18 13:48:47 GMT+8 | original | https://x.com/iiiinvest/status/2078356285226192960 | 大胆假设，还是需要点灵感的，这个灵感主要来源于你的关注，这也是为什么持续关注SpaceX的原因。
+- `2078359152892797416` | 2026-07-18 14:00:10 GMT+8 | reply | https://x.com/iiiinvest/status/2078359152892797416 | @yqd12365420633 期待有个像样反弹
+- `2078380579473719623` | 2026-07-18 15:25:19 GMT+8 | quote | https://x.com/iiiinvest/status/2078380579473719623 | 我不会以任何形式加你，都是骗子。真几把多骗子，一天拉黑几十个，他娘的骗子别盯着我了行吗 https://t.co/ADr8mMKH0V
+- `2078386148272123930` | 2026-07-18 15:47:26 GMT+8 | original | https://x.com/iiiinvest/status/2078386148272123930 | 最近是不是很难受？
+- `2078391118312693773` | 2026-07-18 16:07:11 GMT+8 | reply | https://x.com/iiiinvest/status/2078391118312693773 | @hamuul_eludoria 不赚钱都是废话，赚钱治百病
+- `2078412068093567212` | 2026-07-18 17:30:26 GMT+8 | reply | https://x.com/iiiinvest/status/2078412068093567212 | @c75492 都一样，亏出经验，不下牌桌
+- `2078432291995750486` | 2026-07-18 18:50:48 GMT+8 | original | https://x.com/iiiinvest/status/2078432291995750486 | 今日晚餐，脆皮鸡、狮子头、宋嫂鱼羹、时蔬。赚钱了也得吃好，不然就是有病！懂？
+- `2078437294844084718` | 2026-07-18 19:10:41 GMT+8 | reply | https://x.com/iiiinvest/status/2078437294844084718 | @tf3ZInIRHt11922 等哪天揭不开锅就来
+- `2078439982428250543` | 2026-07-18 19:21:22 GMT+8 | reply | https://x.com/iiiinvest/status/2078439982428250543 | @AlphaguyTrading 造孽
+- `2078468366847922218` | 2026-07-18 21:14:09 GMT+8 | original | https://x.com/iiiinvest/status/2078468366847922218 | SpaceX 123畏畏缩缩！怕个几把？？？
+- `2078497663411237061` | 2026-07-18 23:10:34 GMT+8 | reply | https://x.com/iiiinvest/status/2078497663411237061 | @liu_shi45126 你懂个几把
+- `2078503696124829819` | 2026-07-18 23:34:32 GMT+8 | original | https://x.com/iiiinvest/status/2078503696124829819 | 给你们说点真东西
+- `2078509445752226149` | 2026-07-18 23:57:23 GMT+8 | reply | https://x.com/iiiinvest/status/2078509445752226149 | @RaZup_ 可以等周一看给不给机会
+- `2078637810307981579` | 2026-07-19 08:27:27 GMT+8 | reply | https://x.com/iiiinvest/status/2078637810307981579 | @XiaolongCh1 这种稳妥做法适合做趋势单，但反弹单很可能来不及，三天你获得了确定性但损失了空间，各有利弊。
+- `2078653851134259491` | 2026-07-19 09:31:12 GMT+8 | original | https://x.com/iiiinvest/status/2078653851134259491 | 我为什么反对长线？
+- `2078665504496177662` | 2026-07-19 10:17:30 GMT+8 | reply | https://x.com/iiiinvest/status/2078665504496177662 | @tf3ZInIRHt11922 肯定比很多抠脚大汉强点
+- `2078667454310711662` | 2026-07-19 10:25:15 GMT+8 | original | https://x.com/iiiinvest/status/2078667454310711662 | @MTc3Njc0 是，指数也有坑，但比大部分股票强多了
+- `2078675894840009164` | 2026-07-19 10:58:47 GMT+8 | reply | https://x.com/iiiinvest/status/2078675894840009164 | @yihei155919 一天拉黑几十个，拉不完啊
+- `2078677548125581394` | 2026-07-19 11:05:22 GMT+8 | original | https://x.com/iiiinvest/status/2078677548125581394 | SpaceX 128了，还能不能买？
+- `2078681747806707872` | 2026-07-19 11:22:03 GMT+8 | original | https://x.com/iiiinvest/status/2078681747806707872 | 最近2天粉丝涨了3000，比我这波赚100万美金还开心😁，你们是真识货啊！
+- `2078682894470713603` | 2026-07-19 11:26:36 GMT+8 | reply | https://x.com/iiiinvest/status/2078682894470713603 | @somukunmon 不要那么多，粉丝多了就说不了那么细了
+- `2078683614058045678` | 2026-07-19 11:29:28 GMT+8 | reply | https://x.com/iiiinvest/status/2078683614058045678 | @aishen707 这就对了
+- `2078730913526206500` | 2026-07-19 14:37:25 GMT+8 | reply | https://x.com/iiiinvest/status/2078730913526206500 | @CryptoDanta 我日，蛋总没卖啊
+- `2078731231844585690` | 2026-07-19 14:38:41 GMT+8 | original | https://x.com/iiiinvest/status/2078731231844585690 | 谁真有能力？
+- `2078732387828343250` | 2026-07-19 14:43:16 GMT+8 | reply | https://x.com/iiiinvest/status/2078732387828343250 | @wobuxiangwanlaa 加油
+- `2078733209836335414` | 2026-07-19 14:46:32 GMT+8 | reply | https://x.com/iiiinvest/status/2078733209836335414 | @DOGEAAA888 我也是傻逼，但大家最好看我对的地方
+- `2078762159308484778` | 2026-07-19 16:41:34 GMT+8 | reply | https://x.com/iiiinvest/status/2078762159308484778 | @CryptoDanta 蛋总牛逼
+- `2078771610513977621` | 2026-07-19 17:19:08 GMT+8 | original | https://x.com/iiiinvest/status/2078771610513977621 | 给你看看长线的坑
+- `2078785266698031380` | 2026-07-19 18:13:24 GMT+8 | reply | https://x.com/iiiinvest/status/2078785266698031380 | @cai230332231521 拿着呢
+- `2078795161845567583` | 2026-07-19 18:52:43 GMT+8 | reply | https://x.com/iiiinvest/status/2078795161845567583 | @wngyunji253754 是不是深入浅出
+- `2078839952373346606` | 2026-07-19 21:50:42 GMT+8 | original | https://x.com/iiiinvest/status/2078839952373346606 | 今天早点休息。周末多说点理念，周中咱们多说操作！
+- `2078981070838718949` | 2026-07-20 07:11:27 GMT+8 | quote | https://x.com/iiiinvest/status/2078981070838718949 | 星舰这周五发射，对于123买入SpaceX的我们来说，发射前的高点就要卖！🚀 https://t.co/zC5wzXS8Ii
+- `2078993122298880391` | 2026-07-20 07:59:20 GMT+8 | original | https://x.com/iiiinvest/status/2078993122298880391 | 看今天美股夜盘的表现，今天又是数钱的一天！要成功常庆功，😎兄弟们嗨起来！👏
+- `2078994270934151238` | 2026-07-20 08:03:54 GMT+8 | reply | https://x.com/iiiinvest/status/2078994270934151238 | @liupi0996 🤫
+- `2078994450513272989` | 2026-07-20 08:04:37 GMT+8 | reply | https://x.com/iiiinvest/status/2078994450513272989 | @kngzhjngji21338 再弹3下
+- `2078996358426706320` | 2026-07-20 08:12:12 GMT+8 | quote | https://x.com/iiiinvest/status/2078996358426706320 | 周末敢这么说的，你猜是真有实力还是运气？ https://t.co/iYEWXJcwM1
+- `2079021311041679779` | 2026-07-20 09:51:21 GMT+8 | original | https://x.com/iiiinvest/status/2079021311041679779 | 只要稳住，没必要一直盯着。不然你会焦虑、会手贱、会无法自拔的！
+- `2079033902417793085` | 2026-07-20 10:41:23 GMT+8 | reply | https://x.com/iiiinvest/status/2079033902417793085 | @minminzi91874 看到没
+- `2079033940774699456` | 2026-07-20 10:41:32 GMT+8 | reply | https://x.com/iiiinvest/status/2079033940774699456 | @Jyugo233 看到没
+- `2079033978309546279` | 2026-07-20 10:41:41 GMT+8 | reply | https://x.com/iiiinvest/status/2079033978309546279 | @SHOWNASHIOL 看到没
+- `2079038029956890792` | 2026-07-20 10:57:47 GMT+8 | reply | https://x.com/iiiinvest/status/2079038029956890792 | @ren_xian59538 你累不累
+- `2079038069618188686` | 2026-07-20 10:57:57 GMT+8 | reply | https://x.com/iiiinvest/status/2079038069618188686 | @LazyDogLi 🙄
+- `2079051710769840398` | 2026-07-20 11:52:09 GMT+8 | original | https://x.com/iiiinvest/status/2079051710769840398 | 看到没
+- `2079060245213753370` | 2026-07-20 12:26:04 GMT+8 | reply | https://x.com/iiiinvest/status/2079060245213753370 | @panzer_LHN 😁
+- `2079060452861169918` | 2026-07-20 12:26:53 GMT+8 | reply | https://x.com/iiiinvest/status/2079060452861169918 | @yingjiuda 课代表
+- `2079060617479192700` | 2026-07-20 12:27:32 GMT+8 | reply | https://x.com/iiiinvest/status/2079060617479192700 | @AtoyarA 你是来搞笑的吗
+- `2079064327953457247` | 2026-07-20 12:42:17 GMT+8 | original | https://x.com/iiiinvest/status/2079064327953457247 | 下午应该要涨的，持续的涨到收盘那种。
+- `2079066534362984608` | 2026-07-20 12:51:03 GMT+8 | reply | https://x.com/iiiinvest/status/2079066534362984608 | @xiaomustock 这次蒙对了
+- `2079122298704101519` | 2026-07-20 16:32:38 GMT+8 | reply | https://x.com/iiiinvest/status/2079122298704101519 | @Dazed1992Y 😎
+- `2079122558855844107` | 2026-07-20 16:33:40 GMT+8 | reply | https://x.com/iiiinvest/status/2079122558855844107 | @RainLinlikedzlh 美女赚钱
+- `2079130299586469935` | 2026-07-20 17:04:26 GMT+8 | original | https://x.com/iiiinvest/status/2079130299586469935 | 你跟的上吗？
+- `2079141519051862120` | 2026-07-20 17:49:01 GMT+8 | reply | https://x.com/iiiinvest/status/2079141519051862120 | @Smithwxi0 。。。
+- `2079167398532505666` | 2026-07-20 19:31:51 GMT+8 | original | https://x.com/iiiinvest/status/2079167398532505666 | 152的海力士，123的SpaceX怎么止盈？
+- `2079199720942223464` | 2026-07-20 21:40:17 GMT+8 | original | https://x.com/iiiinvest/status/2079199720942223464 | 开盘了，资金在回补半导体板块了，要看第一波冲刺后回撤情况，再探再报！👏🏻
+- `2079199838135370105` | 2026-07-20 21:40:45 GMT+8 | reply | https://x.com/iiiinvest/status/2079199838135370105 | @liupi0996 嗯
+- `2079200306911662369` | 2026-07-20 21:42:37 GMT+8 | reply | https://x.com/iiiinvest/status/2079200306911662369 | @LAFAYETTE99999 你去翻
+- `2079201856740585698` | 2026-07-20 21:48:47 GMT+8 | quote | https://x.com/iiiinvest/status/2079201856740585698 | SpaceX要顶住122！ https://t.co/c8Sx6SUBxK
+- `2079205299186221444` | 2026-07-20 22:02:27 GMT+8 | quote | https://x.com/iiiinvest/status/2079205299186221444 | 看反弹情况，不行就要损掉！ https://t.co/erskHs3jlu
+- `2079217054515957798` | 2026-07-20 22:49:10 GMT+8 | quote | https://x.com/iiiinvest/status/2079217054515957798 | 大盘基本稳住了，海力士上涨不需要操作。SpaceX比较弱，目前还没损，我再观察下再同步情况 https://t.co/6wpKcRFM9l
+- `2079227102256365903` | 2026-07-20 23:29:06 GMT+8 | quote | https://x.com/iiiinvest/status/2079227102256365903 | 目前SpaceX反弹回122以上，我对后半夜行情相对乐观，暂时不损！稍等我写下SpaceX目前市场在交易什么 https://t.co/m1d0dzUTnU
+- `2079230143655297459` | 2026-07-20 23:41:11 GMT+8 | original | https://x.com/iiiinvest/status/2079230143655297459 | spaceX 跌到120，市场在交易什么？
+- `2079233720981348850` | 2026-07-20 23:55:24 GMT+8 | reply | https://x.com/iiiinvest/status/2079233720981348850 | @tianze321 听指挥
+- `2079233816217219387` | 2026-07-20 23:55:46 GMT+8 | reply | https://x.com/iiiinvest/status/2079233816217219387 | @minimalism_s 谢谢
+- `2079236205196325091` | 2026-07-21 00:05:16 GMT+8 | original | https://x.com/iiiinvest/status/2079236205196325091 | 做自己能看懂的，你只要看懂市场走势就不会慌，今晚无忧，睡觉！👏🏻
+- `2079236664212549908` | 2026-07-21 00:07:05 GMT+8 | quote | https://x.com/iiiinvest/status/2079236664212549908 | SpaceX涨回124了，后半夜可以期待下！👏🏻掌声！ https://t.co/p505bn3DT3
+- `2079242057101836466` | 2026-07-21 00:28:31 GMT+8 | reply | https://x.com/iiiinvest/status/2079242057101836466 | @CryptoApprenti1 在发射延迟基础上已经挺硬了
+- `2079333435727093880` | 2026-07-21 06:31:37 GMT+8 | original | https://x.com/iiiinvest/status/2079333435727093880 | 醒了，没想到大盘走的这么差，高开低走。尊重价格！SpaceX已经在120止损！
+- `2079338684227498143` | 2026-07-21 06:52:29 GMT+8 | original | https://x.com/iiiinvest/status/2079338684227498143 | 美股海力士152也平掉了！核心还是大盘走的太差，所有逻辑都要建立在大盘之下！
+- `2079340804288721072` | 2026-07-21 07:00:54 GMT+8 | original | https://x.com/iiiinvest/status/2079340804288721072 | 兄弟们，海力士和SpaceX都平掉了！
+- `2079350909944176766` | 2026-07-21 07:41:04 GMT+8 | reply | https://x.com/iiiinvest/status/2079350909944176766 | @QiZhi69007 👌🏻
+- `2079357856357535924` | 2026-07-21 08:08:40 GMT+8 | original | https://x.com/iiiinvest/status/2079357856357535924 | 昨晚纳指怎么了
+- `2079386780303011997` | 2026-07-21 10:03:36 GMT+8 | reply | https://x.com/iiiinvest/status/2079386780303011997 | @AlphaguyTrading 是的
+- `2079386840730390879` | 2026-07-21 10:03:50 GMT+8 | reply | https://x.com/iiiinvest/status/2079386840730390879 | @HugoWon68053284 一起
+- `2079418983070203973` | 2026-07-21 12:11:33 GMT+8 | original | https://x.com/iiiinvest/status/2079418983070203973 | 一切等开盘，站稳昨天高点就继续上车！
+- `2079461556501504475` | 2026-07-21 15:00:44 GMT+8 | original | https://x.com/iiiinvest/status/2079461556501504475 | 夜盘不算数，一定是开盘后的站稳。
+- `2079516658008465796` | 2026-07-21 18:39:41 GMT+8 | original | https://x.com/iiiinvest/status/2079516658008465796 | 每一次的开仓和平仓都是独立事件，忘记过往。提前做个提醒，纵情向前！
+- `2079559954646937795` | 2026-07-21 21:31:44 GMT+8 | original | https://x.com/iiiinvest/status/2079559954646937795 | 开盘了，观察下，有操作会同步！
+- `2079564034555466016` | 2026-07-21 21:47:56 GMT+8 | quote | https://x.com/iiiinvest/status/2079564034555466016 | 目前看大盘没有站稳昨日的高点29200附近，还在博弈，等！再探再报！ https://t.co/lvLpopmMRA
+- `2079576888511807964` | 2026-07-21 22:39:01 GMT+8 | quote | https://x.com/iiiinvest/status/2079576888511807964 | 大盘确实在反弹了，且破了昨日高点。
+- `2079581794790453312` | 2026-07-21 22:58:31 GMT+8 | original | https://x.com/iiiinvest/status/2079581794790453312 | 太短线的机会我就不发了，目前大盘进入震荡行情。这种情况发了你跟不上极容易被套，磨损成本太高。
+- `2079582337550180646` | 2026-07-21 23:00:40 GMT+8 | reply | https://x.com/iiiinvest/status/2079582337550180646 | @cccczzzgg 谢谢
+- `2079582580685537512` | 2026-07-21 23:01:38 GMT+8 | reply | https://x.com/iiiinvest/status/2079582580685537512 | @MilesSmilesc1 还好，我自己没拿住，但纪律定了不后悔
+- `2079585452022194280` | 2026-07-21 23:13:03 GMT+8 | original | https://x.com/iiiinvest/status/2079585452022194280 | 看对，做对，拿住
+- `2079718671115833345` | 2026-07-22 08:02:25 GMT+8 | original | https://x.com/iiiinvest/status/2079718671115833345 | 醒了，昨晚大盘强势反弹
+- `2079719097106043387` | 2026-07-22 08:04:06 GMT+8 | reply | https://x.com/iiiinvest/status/2079719097106043387 | @_TAOLIMAO 看到头像，明显应激了！
+- `2079728625105125417` | 2026-07-22 08:41:58 GMT+8 | original | https://x.com/iiiinvest/status/2079728625105125417 | 1000 再次做空美光！不废话说逻辑
+- `2079728769859010678` | 2026-07-22 08:42:32 GMT+8 | reply | https://x.com/iiiinvest/status/2079728769859010678 | @mingqian123 睡得特别香
+- `2079734993409208733` | 2026-07-22 09:07:16 GMT+8 | reply | https://x.com/iiiinvest/status/2079734993409208733 | @Kevin97055854 期待
+- `2079743517757415751` | 2026-07-22 09:41:09 GMT+8 | reply | https://x.com/iiiinvest/status/2079743517757415751 | @hazenlee 哥，我空了 https://t.co/BQZ6pC5GRV
+- `2079744396162171076` | 2026-07-22 09:44:38 GMT+8 | original | https://x.com/iiiinvest/status/2079744396162171076 | 晚点再说125 SpaceX的操作逻辑
+- `2079765448988799014` | 2026-07-22 11:08:17 GMT+8 | original | https://x.com/iiiinvest/status/2079765448988799014 | 永远不下牌桌，永远热泪盈眶，
+- `2079766412185555187` | 2026-07-22 11:12:07 GMT+8 | reply | https://x.com/iiiinvest/status/2079766412185555187 | @Melodyyyyyyyhan 抠脚大汉你好
+- `2079767775766315458` | 2026-07-22 11:17:32 GMT+8 | reply | https://x.com/iiiinvest/status/2079767775766315458 | @_TAOLIMAO 神，就是让人敬仰的😃
+- `2079772675015377048` | 2026-07-22 11:37:00 GMT+8 | reply | https://x.com/iiiinvest/status/2079772675015377048 | @hazenlee 说实话哥，你有点恶心了
+- `2079776117670678977` | 2026-07-22 11:50:41 GMT+8 | reply | https://x.com/iiiinvest/status/2079776117670678977 | @hotbabyrebao 这种水文别发了
+- `2079777944193618180` | 2026-07-22 11:57:56 GMT+8 | reply | https://x.com/iiiinvest/status/2079777944193618180 | @BigbirdflyChan 向老哥学习，可以分享下你的理解
+- `2079817650893636094` | 2026-07-22 14:35:43 GMT+8 | reply | https://x.com/iiiinvest/status/2079817650893636094 | @BigbirdflyChan 谢谢你理性分析，我认同“客户需求”，但我主要基于交易角度出发，与基本面不矛盾，再次点赞理性的交流
+- `2079818234669519318` | 2026-07-22 14:38:02 GMT+8 | reply | https://x.com/iiiinvest/status/2079818234669519318 | @maitian99 作为空军头子，你懂啥是交易吗
+- `2079820961680183388` | 2026-07-22 14:48:53 GMT+8 | original | https://x.com/iiiinvest/status/2079820961680183388 | 谁在哄你，谁在帮你
+- `2079822137062502414` | 2026-07-22 14:53:33 GMT+8 | reply | https://x.com/iiiinvest/status/2079822137062502414 | @BXSXHD6 哥哥，咱就不能客观点，我说的你懂，别人懂吗
+- `2079824362832802085` | 2026-07-22 15:02:24 GMT+8 | reply | https://x.com/iiiinvest/status/2079824362832802085 | @baby2ss 对你有帮助，我很开心
+- `2079829429275291969` | 2026-07-22 15:22:31 GMT+8 | reply | https://x.com/iiiinvest/status/2079829429275291969 | @pangzw1 等等看吧
+- `2079836842128777237` | 2026-07-22 15:51:59 GMT+8 | reply | https://x.com/iiiinvest/status/2079836842128777237 | @aiquanttools 综合看
+- `2079837015634543058` | 2026-07-22 15:52:40 GMT+8 | reply | https://x.com/iiiinvest/status/2079837015634543058 | @wwjdkkdjz 🙂
+- `2079837190708953102` | 2026-07-22 15:53:22 GMT+8 | reply | https://x.com/iiiinvest/status/2079837190708953102 | @Edwx53BcXfBK4oD 逻辑差不多
+- `2079837365003272398` | 2026-07-22 15:54:03 GMT+8 | reply | https://x.com/iiiinvest/status/2079837365003272398 | @1946wang 😳
+- `2079849192395346281` | 2026-07-22 16:41:03 GMT+8 | reply | https://x.com/iiiinvest/status/2079849192395346281 | @hazenlee 我家哥哥不光骚气，跑步也快
+- `2079849314558579068` | 2026-07-22 16:41:32 GMT+8 | reply | https://x.com/iiiinvest/status/2079849314558579068 | @TingHu888 小孩问什么大人的事
+- `2079849508176072972` | 2026-07-22 16:42:19 GMT+8 | reply | https://x.com/iiiinvest/status/2079849508176072972 | @CryptoDanta 你这是吃喝嫖赌都全了
+- `2079850479035756704` | 2026-07-22 16:46:10 GMT+8 | reply | https://x.com/iiiinvest/status/2079850479035756704 | @silverfang88 看着简单，实际步步惊心
+- `2079852329969603004` | 2026-07-22 16:53:31 GMT+8 | reply | https://x.com/iiiinvest/status/2079852329969603004 | @xiaomustock 来空军做家人吧 https://t.co/IY8yYsVYzx
+- `2079854779396997275` | 2026-07-22 17:03:15 GMT+8 | original | https://x.com/iiiinvest/status/2079854779396997275 | 欢迎一切！理性讨论
+- `2079856073838940349` | 2026-07-22 17:08:24 GMT+8 | reply | https://x.com/iiiinvest/status/2079856073838940349 | @BroBean88 不用后悔了，今晚机会又又又来了😂
+- `2079864229881069998` | 2026-07-22 17:40:49 GMT+8 | reply | https://x.com/iiiinvest/status/2079864229881069998 | @xcq618168 What
+- `2079864391395369149` | 2026-07-22 17:41:27 GMT+8 | reply | https://x.com/iiiinvest/status/2079864391395369149 | @ereavd 卧槽，你这比喻不太恰当吧
+- `2079864849396543638` | 2026-07-22 17:43:16 GMT+8 | reply | https://x.com/iiiinvest/status/2079864849396543638 | @Jaysonjwlf 有点风险，我晚点说
+- `2079865379481129206` | 2026-07-22 17:45:23 GMT+8 | reply | https://x.com/iiiinvest/status/2079865379481129206 | @weber_tan15843 我说一直等到的信吗
+- `2079865592916726220` | 2026-07-22 17:46:14 GMT+8 | reply | https://x.com/iiiinvest/status/2079865592916726220 | @hazenlee 谢谢哥哥，向哥哥学习
+- `2079871624338366696` | 2026-07-22 18:10:12 GMT+8 | original | https://x.com/iiiinvest/status/2079871624338366696 | 为什么SpaceX大幅上涨后，后半夜在大盘强势的情况下又跌回来了？
+- `2079902531334053927` | 2026-07-22 20:13:00 GMT+8 | reply | https://x.com/iiiinvest/status/2079902531334053927 | @bigMaxrocket 你也太小瞧我了，不至于，给你看下吧 https://t.co/hPT7Vl0UEc
+- `2079902792337289362` | 2026-07-22 20:14:03 GMT+8 | reply | https://x.com/iiiinvest/status/2079902792337289362 | @hazenlee 不会看上我了吧，我赶紧溜
+- `2079903765625516353` | 2026-07-22 20:17:55 GMT+8 | original | https://x.com/iiiinvest/status/2079903765625516353 | 盘前速递，美光从1000干到了930，也太配合了！
+- `2079911086523093471` | 2026-07-22 20:47:00 GMT+8 | original | https://x.com/iiiinvest/status/2079911086523093471 | 实话，tony是有真本领的
+- `2079924062546186474` | 2026-07-22 21:38:34 GMT+8 | original | https://x.com/iiiinvest/status/2079924062546186474 | 开盘正常，要等大盘探底，再探再报！
+- `2079929470463664351` | 2026-07-22 22:00:03 GMT+8 | quote | https://x.com/iiiinvest/status/2079929470463664351 | 开盘半小时，市场半导体存储比作为大科技的谷歌走的强一些。暂时没有操作计划，一切按照计划行事！ https://t.co/EpZ3CiVrSC
+- `2079930406653276228` | 2026-07-22 22:03:46 GMT+8 | original | https://x.com/iiiinvest/status/2079930406653276228 | 兄弟们，拜托个事：评论区骗子拉黑不完。为了避免被骗，我发完帖子请大家在评论区回复下" 唯一真号@iiiinvest "，有人发了就点赞。🙏🏻
+- `2079930702007812462` | 2026-07-22 22:04:57 GMT+8 | reply | https://x.com/iiiinvest/status/2079930702007812462 | 类似这样就行→：唯一真号@iiiinvest
+- `2079941160014143538` | 2026-07-22 22:46:30 GMT+8 | quote | https://x.com/iiiinvest/status/2079941160014143538 | 大盘和美光都处于震荡阶段，看样要等明天谷歌财报出来选方向了。 https://t.co/HVBBWjud5g
+- `2079943552227053576` | 2026-07-22 22:56:00 GMT+8 | reply | https://x.com/iiiinvest/status/2079943552227053576 | @x3zzsl 你提醒的很好，我认为不应该是赌财报，除了财报还有其他很多逻辑都要看到。
+- `2079951241430634591` | 2026-07-22 23:26:34 GMT+8 | original | https://x.com/iiiinvest/status/2079951241430634591 | 123再次买入SpaceX ！
+- `2079955469372912103` | 2026-07-22 23:43:22 GMT+8 | reply | https://x.com/iiiinvest/status/2079955469372912103 | @fczxzw 1
+- `2079955583046926555` | 2026-07-22 23:43:49 GMT+8 | reply | https://x.com/iiiinvest/status/2079955583046926555 | @ForThePast_ 1
+- `2079956093946691907` | 2026-07-22 23:45:51 GMT+8 | reply | https://x.com/iiiinvest/status/2079956093946691907 | @kngzhjngji21338 还好吧，这种一般会拿一段时间
+- `2079958717148414385` | 2026-07-22 23:56:16 GMT+8 | reply | https://x.com/iiiinvest/status/2079958717148414385 | @hohoxio91384 没有完美的人
+- `2079958761100513370` | 2026-07-22 23:56:27 GMT+8 | reply | https://x.com/iiiinvest/status/2079958761100513370 | @life_artwork 专注
+- `2079960970240422300` | 2026-07-23 00:05:13 GMT+8 | original | https://x.com/iiiinvest/status/2079960970240422300 | 睡觉，有计划慌个几把，把几把摆正，睡！
+- `2080076552176599360` | 2026-07-23 07:44:30 GMT+8 | original | https://x.com/iiiinvest/status/2080076552176599360 | 醒了，美光继续拿，SpaceX止损。
+- `2080168430456717730` | 2026-07-23 13:49:36 GMT+8 | original | https://x.com/iiiinvest/status/2080168430456717730 | 谷歌财报上调指引，猛吹AI，然后美光 海力士却没能涨到昨日高点。
+- `2080170428686049675` | 2026-07-23 13:57:32 GMT+8 | reply | https://x.com/iiiinvest/status/2080170428686049675 | @fczxzw 不用焦虑，跟着计划走
+- `2080171758540468515` | 2026-07-23 14:02:49 GMT+8 | original | https://x.com/iiiinvest/status/2080171758540468515 | 傻逼SpaceX，这次做多特别恶心🤢，真是如鲠在喉。今晚有星舰发射，多关注下能否出机会！
+- `2080281457097150668` | 2026-07-23 21:18:43 GMT+8 | original | https://x.com/iiiinvest/status/2080281457097150668 | 我在慎重考虑是否重新加入SpaceX空军行列，等今天星舰发射完，我想干他！
+- `2080284586614157814` | 2026-07-23 21:31:09 GMT+8 | original | https://x.com/iiiinvest/status/2080284586614157814 | 开盘了，不着急，是骡子是马拉出来溜溜！再探再报！
+- `2080289288672141556` | 2026-07-23 21:49:50 GMT+8 | quote | https://x.com/iiiinvest/status/2080289288672141556 | 美光今天核心就是看能不能有效突破站稳1000，如果突破了，基本宣告反弹继续，不然这就是反弹高点了。所以别着急！ https://t.co/uzXlRvL3RO
+- `2080296098971975717` | 2026-07-23 22:16:54 GMT+8 | quote | https://x.com/iiiinvest/status/2080296098971975717 | 900再次加空1000股美光！不口嗨，用仓位验证自己想法！有效站稳1000止损！ https://t.co/8ODTrEfaEx https://t.co/xEQeZ7fAbP
+- `2080296472512549091` | 2026-07-23 22:18:23 GMT+8 | quote | https://x.com/iiiinvest/status/2080296472512549091 | 990再次加空1000股美光！不口嗨，用仓位验证自己想法！有效站稳1000止损！ https://t.co/AhUkVB2aSs https://t.co/xEQeZ7fAbP
+- `2080300043312275780` | 2026-07-23 22:32:35 GMT+8 | quote | https://x.com/iiiinvest/status/2080300043312275780 | 太几把刺激了，好几次1000就上不去！玩呢？ https://t.co/ZOjgYrFEfi
+- `2080300472985079992` | 2026-07-23 22:34:17 GMT+8 | reply | https://x.com/iiiinvest/status/2080300472985079992 | @SheenS0001 有效的逻辑是最少第二个k站稳
+- `2080303070513451150` | 2026-07-23 22:44:36 GMT+8 | quote | https://x.com/iiiinvest/status/2080303070513451150 | 客观说，存储半导体今天挺硬的。但被大盘影响了，大盘主要又受大科技影响，大科技呢又受存储影响。这个悖论你想想，因为涨所以不涨。🤷🏻‍♂️ https://t.co/giqrOnmjfN
+- `2080303423011094922` | 2026-07-23 22:46:00 GMT+8 | reply | https://x.com/iiiinvest/status/2080303423011094922 | @CryptoDanta 😭
+- `2080306040877506959` | 2026-07-23 22:56:25 GMT+8 | quote | https://x.com/iiiinvest/status/2080306040877506959 | 美光的多头你好，我知道你累了，休息休息吧，睡会吧，睡着了我好弹你蛋蛋🥚 https://t.co/LbXrTpIxbe
+- `2080309081685008581` | 2026-07-23 23:08:30 GMT+8 | quote | https://x.com/iiiinvest/status/2080309081685008581 | 大盘跌的也太丝滑了。要小心大盘前低能不能守住啊，刚看了下也就1%左右就前低28200了！ https://t.co/tpAYyMyKu2
+- `2080310149655433330` | 2026-07-23 23:12:44 GMT+8 | quote | https://x.com/iiiinvest/status/2080310149655433330 | 半导体首先有点稳不住要跟大盘下跌了，美光海力士闪迪存储也别装了吧！！！ https://t.co/vhIAiDv98g
+- `2080310649130045860` | 2026-07-23 23:14:43 GMT+8 | reply | https://x.com/iiiinvest/status/2080310649130045860 | @dadali9523 你看看美光
+- `2080312039264993722` | 2026-07-23 23:20:15 GMT+8 | reply | https://x.com/iiiinvest/status/2080312039264993722 | @Xmasterofnone 不用感觉，就是
+- `2080312714220711980` | 2026-07-23 23:22:56 GMT+8 | quote | https://x.com/iiiinvest/status/2080312714220711980 | 外面千股跌停既视感，我们空着最靓的仔，这啥感觉呢，就像当众拉屎一样，拉不尽兴！ https://t.co/wX8PYOPRna
+- `2080315483098873877` | 2026-07-23 23:33:56 GMT+8 | reply | https://x.com/iiiinvest/status/2080315483098873877 | @MUgvL8xXlE72198 要么继续反弹止损，要么去探800新低
+- `2080318808393474319` | 2026-07-23 23:47:09 GMT+8 | quote | https://x.com/iiiinvest/status/2080318808393474319 | 今天这盘面太精彩了。兄弟们，心里能承受住这一晚的波动，你能成事！ https://t.co/dGWZ0yrta6
+- `2080318966921359659` | 2026-07-23 23:47:46 GMT+8 | original | https://x.com/iiiinvest/status/2080318966921359659 | @shinyrio07 顶
+- `2080321056741720133` | 2026-07-23 23:56:05 GMT+8 | reply | https://x.com/iiiinvest/status/2080321056741720133 | @shinyrio07 顶
+- `2080321417443430599` | 2026-07-23 23:57:31 GMT+8 | quote | https://x.com/iiiinvest/status/2080321417443430599 | 有意思的来了！你们自己看看K线，美光存储跟不上大盘的反弹了，我们好像熬出来了！！！ https://t.co/VG5l4VwlH3
+- `2080322073541648580` | 2026-07-24 00:00:07 GMT+8 | reply | https://x.com/iiiinvest/status/2080322073541648580 | @Zzhuuu23 对的，挺强的了，但今天也是存储最大机会，错过的话。。。。
+- `2080324929388703972` | 2026-07-24 00:11:28 GMT+8 | reply | https://x.com/iiiinvest/status/2080324929388703972 | @SheenS0001 吓得是不是没尿出来
+- `2080325115804586022` | 2026-07-24 00:12:12 GMT+8 | reply | https://x.com/iiiinvest/status/2080325115804586022 | @shinyrio07 顶
+- `2080325740147671381` | 2026-07-24 00:14:41 GMT+8 | quote | https://x.com/iiiinvest/status/2080325740147671381 | 美光存储今天是最佳反攻机会，如果今天抓不住接下来就很难了。基于此要么今天把我们干止损，要么就去探新低800。看现在大盘反弹存储的势能，好像我们今天守住了👏🏻！兄弟们我能睡觉了吗？ https://t.co/UQU2KvbWin
+- `2080331151831666698` | 2026-07-24 00:36:11 GMT+8 | quote | https://x.com/iiiinvest/status/2080331151831666698 | 最终还是突破1000了，那么就把今天990加空的部分损掉了。剩下的还是等1035！ https://t.co/g28uQ7nSi6
+- `2080333453384654926` | 2026-07-24 00:45:20 GMT+8 | quote | https://x.com/iiiinvest/status/2080333453384654926 | 不盯着了，我设置好价格，到价系统自动执行。我们得接受计划中可能得亏损，不然你也得不到应有的收获。每一步都算数，共勉，晚安💤！ https://t.co/QnaHPodY91
+- `2080438915576860902` | 2026-07-24 07:44:24 GMT+8 | reply | https://x.com/iiiinvest/status/2080438915576860902 | @shinyrio07 顶
+- `2080440699804434692` | 2026-07-24 07:51:30 GMT+8 | original | https://x.com/iiiinvest/status/2080440699804434692 | 醒了，美光最终还是压在1000以下收盘，我认为空头最危险的时候过去了。
+- `2080492020557348921` | 2026-07-24 11:15:26 GMT+8 | original | https://x.com/iiiinvest/status/2080492020557348921 | 兄弟们，我需要鼓励！昨晚带着大家顶着压力加空平空，最后还是拿住了。就目前走势来看，不能说一定成功吧，那也是阶段胜利了✌🏻。
+- `2080492672834474490` | 2026-07-24 11:18:01 GMT+8 | reply | https://x.com/iiiinvest/status/2080492672834474490 | @eclipse111222 看龙头美光
+- `2080505580045930710` | 2026-07-24 12:09:18 GMT+8 | reply | https://x.com/iiiinvest/status/2080505580045930710 | @haihaihaiti 没有站稳1000，1035更是碰都没碰
+- `2080508894422388782` | 2026-07-24 12:22:29 GMT+8 | original | https://x.com/iiiinvest/status/2080508894422388782 | 段永平做多SpaceX
+- `2080509214808813885` | 2026-07-24 12:23:45 GMT+8 | reply | https://x.com/iiiinvest/status/2080509214808813885 | @xiaomustock 来吧，和你做对手盘！ https://t.co/C104gCYXJu
+- `2080509715021508863` | 2026-07-24 12:25:44 GMT+8 | reply | https://x.com/iiiinvest/status/2080509715021508863 | @Jupiterxoxoxo 应激了啊
+- `2080511300560666688` | 2026-07-24 12:32:02 GMT+8 | reply | https://x.com/iiiinvest/status/2080511300560666688 | @AlphaguyTrading 去海力士看看弄套工服，也算特产
+- `2080512678511182057` | 2026-07-24 12:37:31 GMT+8 | reply | https://x.com/iiiinvest/status/2080512678511182057 | @JackyCh31516646 忽略，短线跟不上，且赚不到大钱
+- `2080525309858947127` | 2026-07-24 13:27:42 GMT+8 | original | https://x.com/iiiinvest/status/2080525309858947127 | 记住，不要下牌桌
+- `2080525383716520401` | 2026-07-24 13:28:00 GMT+8 | reply | https://x.com/iiiinvest/status/2080525383716520401 | @shinyrio07 骗子良心发现了
+- `2080525557658509708` | 2026-07-24 13:28:41 GMT+8 | reply | https://x.com/iiiinvest/status/2080525557658509708 | @Timrwrd 看对很重要
+- `2080535674252574827` | 2026-07-24 14:08:53 GMT+8 | reply | https://x.com/iiiinvest/status/2080535674252574827 | @traders18 不是幻想，我也有同样感受 https://t.co/e8LD5uFFpA
+- `2080538194106548496` | 2026-07-24 14:18:54 GMT+8 | original | https://x.com/iiiinvest/status/2080538194106548496 | 再说一遍！短线赚不到大钱！且累！且你跟不上！💣
+- `2080544534845620347` | 2026-07-24 14:44:06 GMT+8 | reply | https://x.com/iiiinvest/status/2080544534845620347 | @shinyrio07 顶
+- `2080566388088094751` | 2026-07-24 16:10:56 GMT+8 | quote | https://x.com/iiiinvest/status/2080566388088094751 | 这个视角很好，干啥都有成本。止损不代表错了，而是体系化的胜利！
+- `2080567628872163578` | 2026-07-24 16:15:52 GMT+8 | reply | https://x.com/iiiinvest/status/2080567628872163578 | @Jupiterxoxoxo 其实止损很耗心力
+- `2080582713174905223` | 2026-07-24 17:15:48 GMT+8 | original | https://x.com/iiiinvest/status/2080582713174905223 | 盘前速递，目前大盘几乎平开，美光海力士闪迪半导体微跌。今天关注美光能不能在大盘稳住的情况下继续上涨。
+- `2080584951192563864` | 2026-07-24 17:24:42 GMT+8 | reply | https://x.com/iiiinvest/status/2080584951192563864 | @shinyrio07 顶，骗子大哥良心发现
+- `2080586227850633674` | 2026-07-24 17:29:46 GMT+8 | reply | https://x.com/iiiinvest/status/2080586227850633674 | @c2ifsx 是的，没人被骗骗人的也就不做了
+- `2080587141705584944` | 2026-07-24 17:33:24 GMT+8 | reply | https://x.com/iiiinvest/status/2080587141705584944 | @hazenlee 哥，你怎么做到文武双修的
+- `2080607252252352957` | 2026-07-24 18:53:19 GMT+8 | original | https://x.com/iiiinvest/status/2080607252252352957 | 别碰两地上市股票
+- `2080610106241327563` | 2026-07-24 19:04:39 GMT+8 | reply | https://x.com/iiiinvest/status/2080610106241327563 | @chrischen611 专注美股吧
+- `2080622853213565082` | 2026-07-24 19:55:18 GMT+8 | original | https://x.com/iiiinvest/status/2080622853213565082 | 时刻关注SpaceX变盘时刻
+- `2080623109640802763` | 2026-07-24 19:56:20 GMT+8 | original | https://x.com/iiiinvest/status/2080623109640802763 | 时刻关注1170的SpaceX变盘时刻
+- `2080623204163531050` | 2026-07-24 19:56:42 GMT+8 | original | https://x.com/iiiinvest/status/2080623204163531050 | 时刻关注117的SpaceX变盘时刻
+- `2080626004306153549` | 2026-07-24 20:07:50 GMT+8 | reply | https://x.com/iiiinvest/status/2080626004306153549 | @haoshi001001 你是胆大的
+- `2080642497290846369` | 2026-07-24 21:13:22 GMT+8 | original | https://x.com/iiiinvest/status/2080642497290846369 | @haoshi001001 开盘应该会探低点，自己把握
+- `2080643335606436199` | 2026-07-24 21:16:42 GMT+8 | original | https://x.com/iiiinvest/status/2080643335606436199 | 做多SpaceX现在是人人唾弃了，我再次说我不会这阶段做空，只会择机做多，现在117，真的真的真的有支撑的感觉，这样吧，我今天会把手放在做多按钮上🔘，你们先看着我亏怎么样？
+- `2080645435040116891` | 2026-07-24 21:25:02 GMT+8 | reply | https://x.com/iiiinvest/status/2080645435040116891 | @shinyrio07 顶
+- `2080646353118749088` | 2026-07-24 21:28:41 GMT+8 | original | https://x.com/iiiinvest/status/2080646353118749088 | 马上开盘了，如果今天美光开始跌了，我不会嘲笑多头我知道你已经很尽力了，该休息了，但你要知道屁股洗好我要上了！
+- `2080649683463262702` | 2026-07-24 21:41:55 GMT+8 | quote | https://x.com/iiiinvest/status/2080649683463262702 | 👏🏻鼓掌！ https://t.co/MNpcd5Rcj8
+- `2080651861523329441` | 2026-07-24 21:50:35 GMT+8 | quote | https://x.com/iiiinvest/status/2080651861523329441 | 114买入10000股SpaceX，今日低点止损。怕就别跟看着我亏，好吗！？？ https://t.co/nhOGdA2Xsf https://t.co/1s8wbJFvm0
+- `2080653032954675376` | 2026-07-24 21:55:14 GMT+8 | quote | https://x.com/iiiinvest/status/2080653032954675376 | 刚发完大盘就发威，你们等稳下来再说！ https://t.co/Xo6BlFKTQP
+- `2080653913339097342` | 2026-07-24 21:58:44 GMT+8 | quote | https://x.com/iiiinvest/status/2080653913339097342 | 感觉差不多了，屁股大耐操de可以上 https://t.co/CLBEt7AHVS
+- `2080655580285538420` | 2026-07-24 22:05:21 GMT+8 | original | https://x.com/iiiinvest/status/2080655580285538420 | 我宣布：北京时间7月24日22:00，美光此轮反弹结束！接下来第一目标800！
+- `2080656957040730126` | 2026-07-24 22:10:49 GMT+8 | reply | https://x.com/iiiinvest/status/2080656957040730126 | @shinyrio07 顶
+- `2080660708329722036` | 2026-07-24 22:25:44 GMT+8 | quote | https://x.com/iiiinvest/status/2080660708329722036 | 他妈的臭傻逼马斯克，不会让我再损吧。市场这是在定价星舰爆炸吗💥 https://t.co/H69ogAOGoS
+- `2080662252882190738` | 2026-07-24 22:31:52 GMT+8 | reply | https://x.com/iiiinvest/status/2080662252882190738 | @wngmio152687 120没损吗
+- `2080662771415580926` | 2026-07-24 22:33:56 GMT+8 | reply | https://x.com/iiiinvest/status/2080662771415580926 | @CryptoDanta 打个车去干他吧
+- `2080663171841597519` | 2026-07-24 22:35:31 GMT+8 | reply | https://x.com/iiiinvest/status/2080663171841597519 | @wngmio152687 😮
+- `2080666991447388563` | 2026-07-24 22:50:42 GMT+8 | original | https://x.com/iiiinvest/status/2080666991447388563 | 美光今天跌5.6个点就行了，跌太多又会引发抄底的，慢慢跌，阴跌，持续跌，有利于我方士气！
+- `2080671010580553952` | 2026-07-24 23:06:40 GMT+8 | reply | https://x.com/iiiinvest/status/2080671010580553952 | @ForThePast_ 顶
+- `2080672280070480187` | 2026-07-24 23:11:43 GMT+8 | original | https://x.com/iiiinvest/status/2080672280070480187 | 突然看到纳指刚刚跌到28250，距离前低28200一步之遥，然后开始反弹。
+- `2080674425079496848` | 2026-07-24 23:20:14 GMT+8 | reply | https://x.com/iiiinvest/status/2080674425079496848 | @Cris00cc 我看的期货
+- `2080677838668358009` | 2026-07-24 23:33:48 GMT+8 | original | https://x.com/iiiinvest/status/2080677838668358009 | 几把摆正睡觉了。美光空单继续拿，SpaceX多单设置前低110止损，不破就拿。明早再看了。
+- `2080678371206586741` | 2026-07-24 23:35:55 GMT+8 | reply | https://x.com/iiiinvest/status/2080678371206586741 | @zha67402314 千大万大睡觉最大
+- `2080679502116798638` | 2026-07-24 23:40:25 GMT+8 | reply | https://x.com/iiiinvest/status/2080679502116798638 | @shinyrio07 顶
+- `2080680894592094616` | 2026-07-24 23:45:57 GMT+8 | reply | https://x.com/iiiinvest/status/2080680894592094616 | @yifaer_chen 都出来了，还在a股粪坑干啥
+- `2080811352852222405` | 2026-07-25 08:24:20 GMT+8 | original | https://x.com/iiiinvest/status/2080811352852222405 | 醒了🌞，昨晚睡得很香，8点才醒，睡醒几把还是正的。希望你拿住了，没拿住的弹几下自己定，量力而为！
+- `2080812915670831191` | 2026-07-25 08:30:33 GMT+8 | reply | https://x.com/iiiinvest/status/2080812915670831191 | @TJ_Research 🍑哥哥，我认为市场现在是陷入硬件涨→大科技跌→大盘跌→硬件跌，因为涨所以跌的悖论里了，最终还是看花钱的大科技 https://t.co/AAjHTOvJSj
+- `2080817910893973790` | 2026-07-25 08:50:24 GMT+8 | original | https://x.com/iiiinvest/status/2080817910893973790 | 1000空美光，已经盈利20万美金！
+- `2080820650298814605` | 2026-07-25 09:01:17 GMT+8 | reply | https://x.com/iiiinvest/status/2080820650298814605 | @Cris00cc 典型捡芝麻丢西瓜
+- `2080837752812429602` | 2026-07-25 10:09:15 GMT+8 | reply | https://x.com/iiiinvest/status/2080837752812429602 | @KrisFangaaz 轻点。后面还有机会
+- `2080837843086401644` | 2026-07-25 10:09:36 GMT+8 | reply | https://x.com/iiiinvest/status/2080837843086401644 | @zha67402314 等我
+- `2080844858710004004` | 2026-07-25 10:37:29 GMT+8 | reply | https://x.com/iiiinvest/status/2080844858710004004 | @Money_or_Life_X 怎么会没关系，那是钱啊
+- `2080847673343856934` | 2026-07-25 10:48:40 GMT+8 | reply | https://x.com/iiiinvest/status/2080847673343856934 | @AlphaguyTrading 1000万对他就是蚂蚁仓
+- `2080851098118889954` | 2026-07-25 11:02:16 GMT+8 | original | https://x.com/iiiinvest/status/2080851098118889954 | 10000粉了！
+- `2080852326785622485` | 2026-07-25 11:07:09 GMT+8 | reply | https://x.com/iiiinvest/status/2080852326785622485 | @Hdjcjehhxijgjf 照我这速度，10万粉可能2-3个月就到了。到时候应该会收一些吧
+- `2080944880272949628` | 2026-07-25 17:14:56 GMT+8 | original | https://x.com/iiiinvest/status/2080944880272949628 | 美股最大福利是什么？
+- `2080945791364206902` | 2026-07-25 17:18:33 GMT+8 | reply | https://x.com/iiiinvest/status/2080945791364206902 | @eDF6kPzCAYlYFn0 拿着
+- `2080945874142982183` | 2026-07-25 17:18:53 GMT+8 | reply | https://x.com/iiiinvest/status/2080945874142982183 | @maxmax40130561 做多就不会了？
+- `2080980393919209811` | 2026-07-25 19:36:03 GMT+8 | original | https://x.com/iiiinvest/status/2080980393919209811 | 我应该是全网唯一把SpaceX玩明白的人！
+- `2080990015296028780` | 2026-07-25 20:14:17 GMT+8 | reply | https://x.com/iiiinvest/status/2080990015296028780 | @maxmax40130561 小止损不要怕
+- `2080990798401954149` | 2026-07-25 20:17:23 GMT+8 | reply | https://x.com/iiiinvest/status/2080990798401954149 | @AlphaguyTrading 越早期，逻辑越简单好抓
+- `2081191198338015441` | 2026-07-26 09:33:43 GMT+8 | original | https://x.com/iiiinvest/status/2081191198338015441 | 预告下，一会说下SpaceX接下来的节奏，很重要！
+- `2081198321792905441` | 2026-07-26 10:02:01 GMT+8 | original | https://x.com/iiiinvest/status/2081198321792905441 | 由比特币看113的 SpaceX 走势！
+- `2081200154775036295` | 2026-07-26 10:09:18 GMT+8 | reply | https://x.com/iiiinvest/status/2081200154775036295 | @tf3ZInIRHt11922 该止损止损，但该继续干的时候别犹豫！
+- `2081302773577220134` | 2026-07-26 16:57:04 GMT+8 | original | https://x.com/iiiinvest/status/2081302773577220134 | 别怕没机会！
+- `2081333540613198267` | 2026-07-26 18:59:20 GMT+8 | reply | https://x.com/iiiinvest/status/2081333540613198267 | @shinyrio07 顶
+- `2081334270577254784` | 2026-07-26 19:02:14 GMT+8 | original | https://x.com/iiiinvest/status/2081334270577254784 | 周末川普又TACO了，美光闪迪又涨了，屁股又洗干净了。
+- `2081335252577140791` | 2026-07-26 19:06:08 GMT+8 | reply | https://x.com/iiiinvest/status/2081335252577140791 | @shinyrio07 顶
+- `2081383939936227577` | 2026-07-26 22:19:36 GMT+8 | original | https://x.com/iiiinvest/status/2081383939936227577 | 追着新闻交易，永远是韭菜！
+- `2081385554177138857` | 2026-07-26 22:26:01 GMT+8 | reply | https://x.com/iiiinvest/status/2081385554177138857 | @shinyrio07 顶
+- `2081394022443319373` | 2026-07-26 22:59:40 GMT+8 | original | https://x.com/iiiinvest/status/2081394022443319373 | 早点睡，养精蓄锐！明天新的一周，找到看的懂的机会，猛猛干！
+- `2081398655244976192` | 2026-07-26 23:18:04 GMT+8 | reply | https://x.com/iiiinvest/status/2081398655244976192 | @shinyrio07 顶
+- `2081403245956907111` | 2026-07-26 23:36:19 GMT+8 | reply | https://x.com/iiiinvest/status/2081403245956907111 | @CryptoRounder 加油R兄
+- `2081533097389207652` | 2026-07-27 08:12:18 GMT+8 | original | https://x.com/iiiinvest/status/2081533097389207652 | 早，一切正常！别跟着新闻做交易，新闻永远只报道想让你看到的内容！
+- `2081545638731465069` | 2026-07-27 09:02:08 GMT+8 | original | https://x.com/iiiinvest/status/2081545638731465069 | 接下来大机会：比特币！
+- `2081546871525560429` | 2026-07-27 09:07:02 GMT+8 | reply | https://x.com/iiiinvest/status/2081546871525560429 | @han637873660354 卧槽
+- `2081559468152930316` | 2026-07-27 09:57:05 GMT+8 | original | https://x.com/iiiinvest/status/2081559468152930316 | 长鑫上市，为什么海力士 美光跌了？为什么？
+- `2081562054092292583` | 2026-07-27 10:07:21 GMT+8 | reply | https://x.com/iiiinvest/status/2081562054092292583 | @pangzw1 必须
+- `2081585401865871378` | 2026-07-27 11:40:08 GMT+8 | original | https://x.com/iiiinvest/status/2081585401865871378 | 一有点好消息就高潮，为什么？
+- `2081585642228851000` | 2026-07-27 11:41:05 GMT+8 | reply | https://x.com/iiiinvest/status/2081585642228851000 | @HanHanxue521146 知道什么是预期吗
+- `2081586400391262428` | 2026-07-27 11:44:06 GMT+8 | reply | https://x.com/iiiinvest/status/2081586400391262428 | @xiaomustock 拿你当反指了，拿稳了 https://t.co/MI1R65F6S9
+- `2081590247062925779` | 2026-07-27 11:59:23 GMT+8 | reply | https://x.com/iiiinvest/status/2081590247062925779 | @Jupiterxoxoxo 不然呢
+- `2081643700548239363` | 2026-07-27 15:31:47 GMT+8 | original | https://x.com/iiiinvest/status/2081643700548239363 | 我16年开始参与美股，26年是我经历中比较疯狂的年份。
+- `2081647643768357320` | 2026-07-27 15:47:28 GMT+8 | original | https://x.com/iiiinvest/status/2081647643768357320 | 另外，我从来没见过像美光，这样持续霸榜成交额第一这么久的，据我观察应该5月到7月，2个月里差不多90%时间，美光持续成交额第一！
+- `2081734685139550332` | 2026-07-27 21:33:20 GMT+8 | original | https://x.com/iiiinvest/status/2081734685139550332 | 开盘了，符合预期，再探再报！
+- `2081736926651113843` | 2026-07-27 21:42:14 GMT+8 | quote | https://x.com/iiiinvest/status/2081736926651113843 | 存储今天表现，又是套人的一天啊。惨兮兮~ 希望你今天有看到我的提醒！！！ https://t.co/XbwbodxWDF
+- `2081738652682772868` | 2026-07-27 21:49:06 GMT+8 | quote | https://x.com/iiiinvest/status/2081738652682772868 | 存储你们应该拿住了，关于SpaceX 也很简单，有效跌破110走人，不然拿住！ https://t.co/0InoZeQhUO
+- `2081741507216986339` | 2026-07-27 22:00:26 GMT+8 | quote | https://x.com/iiiinvest/status/2081741507216986339 | 没拿住也没关系，记住机会永远不缺，下次记得这次的教训就好了。爱你！！！ https://t.co/vH750QOIk6
+- `2081744235351658664` | 2026-07-27 22:11:17 GMT+8 | quote | https://x.com/iiiinvest/status/2081744235351658664 | 上周说过，存储不要暴跌，阴跌，慢慢跌，这种才是真的结束了，现在这种无反弹的下跌会让更多多头绝望，进而形成多杀多的局面，是我们空头最喜欢的，好好感受这个过程。enjoy！👏🏻 https://t.co/ADj0DiRYH1
+- `2081744880112677047` | 2026-07-27 22:13:51 GMT+8 | original | https://x.com/iiiinvest/status/2081744880112677047 | 今天川沐又抄底了海力士2倍ETF，如果存储要见底，这种头部KOL割肉离场是一个标志性事件。
+- `2081746059471274289` | 2026-07-27 22:18:32 GMT+8 | original | https://x.com/iiiinvest/status/2081746059471274289 | @xxxLD666 这不是夸我吗
+- `2081747548008861866` | 2026-07-27 22:24:27 GMT+8 | reply | https://x.com/iiiinvest/status/2081747548008861866 | @shinyrio07 顶
+- `2081752013453644237` | 2026-07-27 22:42:11 GMT+8 | quote | https://x.com/iiiinvest/status/2081752013453644237 | SpaceX 破了110还是损掉了，今天其实挺强了，无奈大盘太恐怖了，从+1多直接干到快-1根本停不下来，多单都先休息休息吧！ https://t.co/4GoeVip6RC
+- `2081754630569197861` | 2026-07-27 22:52:35 GMT+8 | original | https://x.com/iiiinvest/status/2081754630569197861 | 7月27日，大盘今天格局已定，不要太在意1 2个点的波动，大方向正确的情况下，等止盈信号就行了。
+- `2081897155267285168` | 2026-07-28 08:18:56 GMT+8 | original | https://x.com/iiiinvest/status/2081897155267285168 | 醒了，兄弟们。醒来几把还是硬的，希望你也摆正了！
+- `2081924894057718015` | 2026-07-28 10:09:09 GMT+8 | original | https://x.com/iiiinvest/status/2081924894057718015 | 记住，这次美股崩完，坚定买入比特币！
+- `2081944249461830060` | 2026-07-28 11:26:04 GMT+8 | original | https://x.com/iiiinvest/status/2081944249461830060 | SpaceX我会按照计划再找点位做多，但止损3次了，不敢带你们了。是的，我情绪了，心疼你了😩
+- `2081975008352673948` | 2026-07-28 13:28:17 GMT+8 | original | https://x.com/iiiinvest/status/2081975008352673948 | 我没啥牛逼的，只是陪伴你，给你更多拿住的勇气，让你知道还有一批人和你在一起！👏🏻
+- `2081975258878493041` | 2026-07-28 13:29:17 GMT+8 | reply | https://x.com/iiiinvest/status/2081975258878493041 | @Press_Onnails8 哎，还是没有勇气面对大家止损的摩擦成本，就想让大家赚钱
+- `2081975417813229717` | 2026-07-28 13:29:55 GMT+8 | reply | https://x.com/iiiinvest/status/2081975417813229717 | @Hdjcjehhxijgjf 😭
+- `2081976839711711493` | 2026-07-28 13:35:34 GMT+8 | reply | https://x.com/iiiinvest/status/2081976839711711493 | @eclipse111222 等止盈信号
+- `2081978518326665293` | 2026-07-28 13:42:14 GMT+8 | original | https://x.com/iiiinvest/status/2081978518326665293 | 股票牛和产业牛两回事
+- `2081981825774490049` | 2026-07-28 13:55:23 GMT+8 | reply | https://x.com/iiiinvest/status/2081981825774490049 | @WallStreet0Name 街哥，存储反买，别墅靠海 https://t.co/7SkBHcNTuD
+- `2081982753965514935` | 2026-07-28 13:59:04 GMT+8 | original | https://x.com/iiiinvest/status/2081982753965514935 | 傻逼川沐把我拉黑了
+- `2082004871654642053` | 2026-07-28 15:26:57 GMT+8 | reply | https://x.com/iiiinvest/status/2082004871654642053 | @ereavd 肯定不会一直空啊，我止盈，我们是做交易的
+- `2082005301478527401` | 2026-07-28 15:28:40 GMT+8 | reply | https://x.com/iiiinvest/status/2082005301478527401 | @shinyrio07 顶
+- `2082006835729703169` | 2026-07-28 15:34:46 GMT+8 | original | https://x.com/iiiinvest/status/2082006835729703169 | 川沐昨天50抄底，我说他是反指。今天好了，海力士2倍跌了30%！现在干到了38，你一句买崩了结束了，跟着你的那批人呢，卧槽，渣男，呸呸！
+- `2082026993194020959` | 2026-07-28 16:54:52 GMT+8 | reply | https://x.com/iiiinvest/status/2082026993194020959 | @egg_tofur 这个位置不追空
+- `2082045413432164829` | 2026-07-28 18:08:03 GMT+8 | reply | https://x.com/iiiinvest/status/2082045413432164829 | @hazenlee 嗯，还是我ha哥正经人
+- `2082048739389431984` | 2026-07-28 18:21:16 GMT+8 | original | https://x.com/iiiinvest/status/2082048739389431984 | 要和强人一起
+- `2082098255371067564` | 2026-07-28 21:38:02 GMT+8 | original | https://x.com/iiiinvest/status/2082098255371067564 | 开盘了，鼓掌👏🏻，开心吗？！
+- `2082108057220477354` | 2026-07-28 22:16:59 GMT+8 | quote | https://x.com/iiiinvest/status/2082108057220477354 | 美光破800了！还硬不硬了？ https://t.co/Y4Vk0hV41e
+- `2082113292840165869` | 2026-07-28 22:37:47 GMT+8 | quote | https://x.com/iiiinvest/status/2082113292840165869 | 一旦跌破，即便有死猫跳，那也无济于事了。还是那句话：拿住！！！等我止盈信号！！！ https://t.co/CLjElJGwRT
+- `2082113942550384992` | 2026-07-28 22:40:22 GMT+8 | original | https://x.com/iiiinvest/status/2082113942550384992 | 咱们热热闹闹的
+- `2082115093987471821` | 2026-07-28 22:44:56 GMT+8 | reply | https://x.com/iiiinvest/status/2082115093987471821 | @luge517 鲁哥好！
+- `2082115166783815840` | 2026-07-28 22:45:14 GMT+8 | reply | https://x.com/iiiinvest/status/2082115166783815840 | @HugoWon68053284 顶
+- `2082116270061957333` | 2026-07-28 22:49:37 GMT+8 | quote | https://x.com/iiiinvest/status/2082116270061957333 | SpaceX 今晚硬的让人心疼，真像送给他个姑娘，太难了！ https://t.co/H9Gn7pwnA3
+- `2082116891779432880` | 2026-07-28 22:52:05 GMT+8 | reply | https://x.com/iiiinvest/status/2082116891779432880 | @luge517 马上杀回比特币
+- `2082117966494376342` | 2026-07-28 22:56:21 GMT+8 | reply | https://x.com/iiiinvest/status/2082117966494376342 | @zhang_xiao12158 能止损就是体系的成功，赚钱早晚得事
+- `2082118121176158633` | 2026-07-28 22:56:58 GMT+8 | reply | https://x.com/iiiinvest/status/2082118121176158633 | @hanyi606 核心还是供需，或者对买方卖方的分析和掌握！
+- `2082123268803428532` | 2026-07-28 23:17:25 GMT+8 | original | https://x.com/iiiinvest/status/2082123268803428532 | 经过这2次存储战役，兄弟们一定要牢记：
+- `2082126965306462261` | 2026-07-28 23:32:07 GMT+8 | reply | https://x.com/iiiinvest/status/2082126965306462261 | @shinyrio07 好的，做好分享下，哈哈
+- `2082127094319079449` | 2026-07-28 23:32:37 GMT+8 | reply | https://x.com/iiiinvest/status/2082127094319079449 | @hamuul_eludoria 也不能想吃到所有，体系的逻辑是吃鱼身
+- `2082131769277771879` | 2026-07-28 23:51:12 GMT+8 | original | https://x.com/iiiinvest/status/2082131769277771879 | 兄弟们，几把摆正睡了😴，一切正常无忧~
+- `2082248242239299644` | 2026-07-29 07:34:01 GMT+8 | original | https://x.com/iiiinvest/status/2082248242239299644 | 早，醒了数钱，几把很正！
+- `2082258112673960222` | 2026-07-29 08:13:15 GMT+8 | original | https://x.com/iiiinvest/status/2082258112673960222 | 刚看到海力士财报后，再昨晚-9%的基础上盘后又暴跌-9%，现在又拉回来了。
+- `2082275811885998142` | 2026-07-29 09:23:35 GMT+8 | reply | https://x.com/iiiinvest/status/2082275811885998142 | @Hxz1052543 其实，在趋势面前，财报就是个P
+- `2082283132385124508` | 2026-07-29 09:52:40 GMT+8 | original | https://x.com/iiiinvest/status/2082283132385124508 | 每次提醒，都提醒在关键点上，早上拉回来如果以为反弹干进去，现在已经被干了！
+- `2082286700387246432` | 2026-07-29 10:06:51 GMT+8 | reply | https://x.com/iiiinvest/status/2082286700387246432 | @WallStreet0Name 全他妈投机盘
+- `2082288760465805372` | 2026-07-29 10:15:02 GMT+8 | reply | https://x.com/iiiinvest/status/2082288760465805372 | @TJ_Research 🍑总，趋势亡了。那个底部会这么反弹的？
+- `2082307797962936809` | 2026-07-29 11:30:41 GMT+8 | reply | https://x.com/iiiinvest/status/2082307797962936809 | @Smith99Dean 顶
+- `2082308561447919922` | 2026-07-29 11:33:43 GMT+8 | reply | https://x.com/iiiinvest/status/2082308561447919922 | @TJ_Research 交易角度有个词叫：矫枉必过正。还是看量
+- `2082311378501853247` | 2026-07-29 11:44:54 GMT+8 | original | https://x.com/iiiinvest/status/2082311378501853247 | 因为被拉黑了，所以问下
+- `2082311608198656305` | 2026-07-29 11:45:49 GMT+8 | reply | https://x.com/iiiinvest/status/2082311608198656305 | @CryptoDanta 做多前先买好氧气瓶
+- `2082312825020768500` | 2026-07-29 11:50:39 GMT+8 | reply | https://x.com/iiiinvest/status/2082312825020768500 | @HugoWon68053284 几把摆正，首先要摆。顶
+- `2082313047545348129` | 2026-07-29 11:51:32 GMT+8 | reply | https://x.com/iiiinvest/status/2082313047545348129 | @Joey_TheFarmer 你非这么说我也没办法(o_ _)o
+- `2082314313885450598` | 2026-07-29 11:56:34 GMT+8 | reply | https://x.com/iiiinvest/status/2082314313885450598 | @hazenlee Ha哥真会哄人
+- `2082315546541117814` | 2026-07-29 12:01:28 GMT+8 | original | https://x.com/iiiinvest/status/2082315546541117814 | 我不是纯多头，也不是纯空头，我是做交易的，根据市场反应调整。
+- `2082315775772418063` | 2026-07-29 12:02:23 GMT+8 | reply | https://x.com/iiiinvest/status/2082315775772418063 | @Joey_TheFarmer 上次他不是搞了个图杠杆率180%了？现在还没强平那就是减仓了！
+- `2082316395367579800` | 2026-07-29 12:04:50 GMT+8 | reply | https://x.com/iiiinvest/status/2082316395367579800 | @bboczeng 今天如果再加加息，不敢想
+- `2082316852689334415` | 2026-07-29 12:06:39 GMT+8 | reply | https://x.com/iiiinvest/status/2082316852689334415 | @WallStreet0Name 街哥，还是看美光龙头，海力士闪迪都属于边角料
+- `2082317682565902617` | 2026-07-29 12:09:57 GMT+8 | reply | https://x.com/iiiinvest/status/2082317682565902617 | @feb_pain 好的，收到你的意见。但你真的看得下去那种傻逼乱叫吗
+- `2082317957032747443` | 2026-07-29 12:11:03 GMT+8 | reply | https://x.com/iiiinvest/status/2082317957032747443 | @Joey_TheFarmer 真实盘不口嗨
+- `2082340786625274276` | 2026-07-29 13:41:46 GMT+8 | original | https://x.com/iiiinvest/status/2082340786625274276 | 存储趋势确定性结束的前提下
+- `2082341431675621688` | 2026-07-29 13:44:20 GMT+8 | reply | https://x.com/iiiinvest/status/2082341431675621688 | @WallStreet0Name 街哥。小心点吧，第二波反弹我感觉很危险
+- `2082368655933993408` | 2026-07-29 15:32:30 GMT+8 | original | https://x.com/iiiinvest/status/2082368655933993408 | 我追求的，并不是单次的盈亏，而是体系化的过程！通过不断优化的体系，拿到结果是顺带的！
+- `2082369318864711740` | 2026-07-29 15:35:08 GMT+8 | reply | https://x.com/iiiinvest/status/2082369318864711740 | @WallStreet0Name 另外，我建议多关注美光，龙头才是最重要的观察点
+- `2082393684822413537` | 2026-07-29 17:11:58 GMT+8 | original | https://x.com/iiiinvest/status/2082393684822413537 | 115 做多狗屎SpaceX！
+- `2082405933163184383` | 2026-07-29 18:00:38 GMT+8 | original | https://x.com/iiiinvest/status/2082405933163184383 | 今天存储时间线好多抄底的，从盘面上波动也很大。说明这个位置确实分歧比较大，一切等开盘！
+- `2082434026967793791` | 2026-07-29 19:52:16 GMT+8 | original | https://x.com/iiiinvest/status/2082434026967793791 | 今天我会主要关注美光800的支撑。
+- `2082442961561006098` | 2026-07-29 20:27:46 GMT+8 | reply | https://x.com/iiiinvest/status/2082442961561006098 | @Marcusvvd 边走边看
+- `2082443057488904641` | 2026-07-29 20:28:09 GMT+8 | reply | https://x.com/iiiinvest/status/2082443057488904641 | @JIBmJztkY465018 凌晨2
+- `2082447593532223871` | 2026-07-29 20:46:10 GMT+8 | original | https://x.com/iiiinvest/status/2082447593532223871 | 盘前速递，一切正常，无需焦虑，有我呢！
+- `2082462655252693009` | 2026-07-29 21:46:01 GMT+8 | quote | https://x.com/iiiinvest/status/2082462655252693009 | 开盘了，看了会，存储今天反弹很弱，继续观察！ https://t.co/xzYrLXoNwg
+- `2082464979715023182` | 2026-07-29 21:55:16 GMT+8 | quote | https://x.com/iiiinvest/status/2082464979715023182 | 美光还是破了800，结合今天盘面表现，感觉800撑不住，不要着急止盈！ https://t.co/PwhFreJ5fa
+- `2082466097182511506` | 2026-07-29 21:59:42 GMT+8 | quote | https://x.com/iiiinvest/status/2082466097182511506 | 今天存储给我的感觉是抄底资金不强，就是那种不敢抄的感觉，量也不大就跌下去了。说明分歧不大，大家都认为要跌 https://t.co/eRDXgqphVu
+- `2082474020759617591` | 2026-07-29 22:31:11 GMT+8 | quote | https://x.com/iiiinvest/status/2082474020759617591 | 今天前半夜差不多也就这样了，大家都在等联储加息落地，我感觉是否加息都改变不了大趋势。 https://t.co/30OLrlkVqp
+- `2082485920746594592` | 2026-07-29 23:18:28 GMT+8 | reply | https://x.com/iiiinvest/status/2082485920746594592 | @silverfang88 懂了哥，空单拿住了
+- `2082488116448018500` | 2026-07-29 23:27:12 GMT+8 | quote | https://x.com/iiiinvest/status/2082488116448018500 | 现在应该是存储多头下跌以来最难受的时刻，因为美光竟然有点补跌的意味。龙头不作为，说明心气真散了！以前800是支撑，现在成了阻力，还得跌，这里不是底！ https://t.co/5NIYWmIjw2
+- `2082490171942191398` | 2026-07-29 23:35:22 GMT+8 | quote | https://x.com/iiiinvest/status/2082490171942191398 | 算了不看了，管他呢，几把摆正睡觉了！天大海大睡觉最大！兄弟们晚安💤！ https://t.co/bUrPfFRfT7
+- `2082625264895566135` | 2026-07-30 08:32:11 GMT+8 | original | https://x.com/iiiinvest/status/2082625264895566135 | 醒了，正吗？？？
+- `2082650256333000908` | 2026-07-30 10:11:29 GMT+8 | original | https://x.com/iiiinvest/status/2082650256333000908 | 昨晚美光发生了什么？
+- `2082650701629632724` | 2026-07-30 10:13:15 GMT+8 | original | https://x.com/iiiinvest/status/2082650701629632724 | 昨晚美光发生了什么？
+- `2082652659270750357` | 2026-07-30 10:21:02 GMT+8 | reply | https://x.com/iiiinvest/status/2082652659270750357 | @BXSXHD6 兄弟，不要水贴，要真有干货好好写，我帮你转！
+- `2082652870462349411` | 2026-07-30 10:21:52 GMT+8 | reply | https://x.com/iiiinvest/status/2082652870462349411 | @4OqBROzILO87728 现在空进去，你是头铁还是头铁
+- `2082656277642252724` | 2026-07-30 10:35:25 GMT+8 | reply | https://x.com/iiiinvest/status/2082656277642252724 | @bi_xing20969 不晚！
+- `2082656813292675173` | 2026-07-30 10:37:32 GMT+8 | original | https://x.com/iiiinvest/status/2082656813292675173 | 太惨了，抄底的太惨了，空单我都有点不好意思拿了！我这该死的同理心！
+- `2082667318119928291` | 2026-07-30 11:19:17 GMT+8 | original | https://x.com/iiiinvest/status/2082667318119928291 | 这次知道“拿住”有多难了吧！
+- `2082668619427885273` | 2026-07-30 11:24:27 GMT+8 | reply | https://x.com/iiiinvest/status/2082668619427885273 | @erwin7h now call
+- `2082670854530555946` | 2026-07-30 11:33:20 GMT+8 | quote | https://x.com/iiiinvest/status/2082670854530555946 | 回头看1200做空美光这篇，知行合一，简直神一般的存在！ https://t.co/ixD4ufr9Qa
+- `2082672090851983841` | 2026-07-30 11:38:15 GMT+8 | reply | https://x.com/iiiinvest/status/2082672090851983841 | @Zzhuuu23 🫡那有，一起向前！
+- `2082679481257574490` | 2026-07-30 12:07:37 GMT+8 | original | https://x.com/iiiinvest/status/2082679481257574490 | 仙人这个大骗子，如果之前发的持仓占比截图没作假，现在已经爆了！
+- `2082679778835104004` | 2026-07-30 12:08:48 GMT+8 | original | https://x.com/iiiinvest/status/2082679778835104004 | 仙人这个大骗子，如果之前发的持仓占比截图没作假，现在已经爆了！
+- `2082683169460088965` | 2026-07-30 12:22:16 GMT+8 | reply | https://x.com/iiiinvest/status/2082683169460088965 | @Kaiya4i 使点劲
+- `2082683518304600260` | 2026-07-30 12:23:39 GMT+8 | reply | https://x.com/iiiinvest/status/2082683518304600260 | @Crypto_Cat888 加油赚回来
+- `2082686741941821678` | 2026-07-30 12:36:28 GMT+8 | reply | https://x.com/iiiinvest/status/2082686741941821678 | @WallStreet0Name 空单继续拿住😃
+- `2082687837150077023` | 2026-07-30 12:40:49 GMT+8 | reply | https://x.com/iiiinvest/status/2082687837150077023 | @TJ_Research 所以，昨晚道指 标普 纳指，都是光头光脚普跌，很吓人
+- `2082688876595098096` | 2026-07-30 12:44:57 GMT+8 | original | https://x.com/iiiinvest/status/2082688876595098096 | 美光今晚还有一跌！如果大盘稳不住空单继续拿，如果稳住等我信号！👏🏻
+- `2082693803648205049` | 2026-07-30 13:04:32 GMT+8 | reply | https://x.com/iiiinvest/status/2082693803648205049 | @rraa68735 掏出来弹！
+- `2082693854902493553` | 2026-07-30 13:04:44 GMT+8 | reply | https://x.com/iiiinvest/status/2082693854902493553 | @Atiria 硬
+- `2082697453149847726` | 2026-07-30 13:19:02 GMT+8 | original | https://x.com/iiiinvest/status/2082697453149847726 | 记住，矫枉必过正！
+- `2082698782375059631` | 2026-07-30 13:24:19 GMT+8 | original | https://x.com/iiiinvest/status/2082698782375059631 | 还有，你们天天看市盈率5太便宜了，真以为大不了5年回本啊？
+- `2082703614536212591` | 2026-07-30 13:43:31 GMT+8 | original | https://x.com/iiiinvest/status/2082703614536212591 | 关注晚，没跟上别焦虑，等下个机会！
+- `2082703961770090721` | 2026-07-30 13:44:53 GMT+8 | reply | https://x.com/iiiinvest/status/2082703961770090721 | @oxpsats 一起前进
+- `2082706771421048887` | 2026-07-30 13:56:03 GMT+8 | reply | https://x.com/iiiinvest/status/2082706771421048887 | @bboczeng 你几把真敢说😂
+- `2082708876970086840` | 2026-07-30 14:04:25 GMT+8 | reply | https://x.com/iiiinvest/status/2082708876970086840 | @q99721971 别弄碎了，下次还有用
+- `2082730446501400789` | 2026-07-30 15:30:08 GMT+8 | reply | https://x.com/iiiinvest/status/2082730446501400789 | @bboczeng 勃哥，我空军啊
+- `2082735400905564322` | 2026-07-30 15:49:49 GMT+8 | original | https://x.com/iiiinvest/status/2082735400905564322 | 川沐50抄底的海力士腰斩了！2天腰斩，就2天就到25了，做交易一定要有纪律！不止损你就等着吧！ https://t.co/ostXaTAsiw
+- `2082770294058750355` | 2026-07-30 18:08:28 GMT+8 | original | https://x.com/iiiinvest/status/2082770294058750355 | 问现在还能不能做空的，是真头铁啊！我们都准备升级胜利会师了，你想起来加入了？
+- `2082770415706145127` | 2026-07-30 18:08:57 GMT+8 | original | https://x.com/iiiinvest/status/2082770415706145127 | 问现在还能不能做空的，是真头铁啊！我们都准备升级胜利会师了，你想起来加入了？
+- `2082821981016375692` | 2026-07-30 21:33:51 GMT+8 | original | https://x.com/iiiinvest/status/2082821981016375692 | 等
+- `2082827482718441756` | 2026-07-30 21:55:43 GMT+8 | original | https://x.com/iiiinvest/status/2082827482718441756 | 这反弹刺激，等冲刺完，等个低点平空了！
+- `2082832120926580944` | 2026-07-30 22:14:09 GMT+8 | quote | https://x.com/iiiinvest/status/2082832120926580944 | 从我的体系里面，这种单日暴涨暴跌的行情，意味着趋势的中断，所以今天我就会平掉。 https://t.co/HftHVbwiBR
+- `2082834706853494972` | 2026-07-30 22:24:25 GMT+8 | quote | https://x.com/iiiinvest/status/2082834706853494972 | 美光空单850全部平仓！ https://t.co/QxuU8KKiz1
+- `2082834993840291875` | 2026-07-30 22:25:34 GMT+8 | original | https://x.com/iiiinvest/status/2082834993840291875 | 下一战，SpaceX，兄弟们还记得我持有2万股吗，有多少跟的？
+- `2082837366256107817` | 2026-07-30 22:35:00 GMT+8 | quote | https://x.com/iiiinvest/status/2082837366256107817 | 算了下，赚了1100万！
+- `2082840680309862610` | 2026-07-30 22:48:10 GMT+8 | quote | https://x.com/iiiinvest/status/2082840680309862610 | SpaceX 的逻辑在这里，你再认真读下，认不认同都可以。我只想你，我的兄弟，对，就是你！赚钱，一起赚钱！还是那句，我怕我赚钱的时候你不在，那我会很难过！！！ https://t.co/ExC1PoyBmz
+- `2082840881259073855` | 2026-07-30 22:48:58 GMT+8 | reply | https://x.com/iiiinvest/status/2082840881259073855 | @somukunmon 兄弟一起
+- `2082840917980184779` | 2026-07-30 22:49:06 GMT+8 | reply | https://x.com/iiiinvest/status/2082840917980184779 | @shinyrio07 顶
+- `2082842101189120313` | 2026-07-30 22:53:48 GMT+8 | original | https://x.com/iiiinvest/status/2082842101189120313 | 后面还会不会再做存储，有可能，但需要再抓住相关逻辑，没有逻辑的乱开单，我不会操作！
+- `2082843299250082147` | 2026-07-30 22:58:34 GMT+8 | reply | https://x.com/iiiinvest/status/2082843299250082147 | @HugoWon68053284 顶
+- `2082844807186272486` | 2026-07-30 23:04:34 GMT+8 | original | https://x.com/iiiinvest/status/2082844807186272486 | 永远不要后悔
+- `2082846126361956721` | 2026-07-30 23:09:48 GMT+8 | original | https://x.com/iiiinvest/status/2082846126361956721 | 关于SpaceX，也很简单！
+- `2082846840727478694` | 2026-07-30 23:12:38 GMT+8 | reply | https://x.com/iiiinvest/status/2082846840727478694 | @DavidTao4133 等新的逻辑线出来
+- `2082846883563941965` | 2026-07-30 23:12:49 GMT+8 | reply | https://x.com/iiiinvest/status/2082846883563941965 | @q99721971 哎，不要怕
+- `2082847277690097854` | 2026-07-30 23:14:23 GMT+8 | reply | https://x.com/iiiinvest/status/2082847277690097854 | @klm67280349 你去读下之前类比比特币那篇
+- `2082848184506917048` | 2026-07-30 23:17:59 GMT+8 | reply | https://x.com/iiiinvest/status/2082848184506917048 | @senkenus 哎，难过
+- `2082849493033287796` | 2026-07-30 23:23:11 GMT+8 | reply | https://x.com/iiiinvest/status/2082849493033287796 | @JasonLeec47x 我来解放你
+- `2082858801116659771` | 2026-07-31 00:00:10 GMT+8 | original | https://x.com/iiiinvest/status/2082858801116659771 | 几把摆正，睡觉了。希望明早起来，大火箭像几把一样硬硬硬！👊🏻
+- `2082965059580649835` | 2026-07-31 07:02:24 GMT+8 | original | https://x.com/iiiinvest/status/2082965059580649835 | 早，大火箭昨晚真软啊，再给他点时间！
+- `2082968994508919120` | 2026-07-31 07:18:02 GMT+8 | original | https://x.com/iiiinvest/status/2082968994508919120 | 昨晚美光大涨，我没有头铁继续拿空单，为什么？
+- `2083060616781287447` | 2026-07-31 13:22:07 GMT+8 | original | https://x.com/iiiinvest/status/2083060616781287447 | SpaceX目前不是没人炒，而是没人敢炒，都知道马上解禁，谁敢？
+- `2083078056613495108` | 2026-07-31 14:31:25 GMT+8 | reply | https://x.com/iiiinvest/status/2083078056613495108 | @DavidTao4133 很多人这种心理，所以我真感觉难跌了
+- `2083078920765936075` | 2026-07-31 14:34:51 GMT+8 | original | https://x.com/iiiinvest/status/2083078920765936075 | 判断可能出错，但价格不会说谎。一切以市场为准！
+- `2083079913637281947` | 2026-07-31 14:38:47 GMT+8 | reply | https://x.com/iiiinvest/status/2083079913637281947 | @zhongtao344663 找机会
+- `2083081126315532770` | 2026-07-31 14:43:36 GMT+8 | original | https://x.com/iiiinvest/status/2083081126315532770 | 美光到底是反弹，还是反转？
+- `2083084220306751491` | 2026-07-31 14:55:54 GMT+8 | reply | https://x.com/iiiinvest/status/2083084220306751491 | @tf3ZInIRHt11922 现在不合适
+- `2083084384056533142` | 2026-07-31 14:56:33 GMT+8 | reply | https://x.com/iiiinvest/status/2083084384056533142 | @HugoWon68053284 顶
+- `2083178896242163930` | 2026-07-31 21:12:07 GMT+8 | original | https://x.com/iiiinvest/status/2083178896242163930 | 如果今天SpaceX收盘不跌破110，兄弟们就大胆上吧，真要跌破早就破了。我已经在水里感受过了，水挺温暖的，暂时没发现鳄鱼🐊。
+- `2083183020711018712` | 2026-07-31 21:28:30 GMT+8 | reply | https://x.com/iiiinvest/status/2083183020711018712 | @hazenlee Ha牛逼
+- `2083184147326193788` | 2026-07-31 21:32:59 GMT+8 | original | https://x.com/iiiinvest/status/2083184147326193788 | 开盘了，拿着SpaceX啥感觉呢，就是那种擦腚抠破纸了，有点黏糊！
+- `2083188341126914153` | 2026-07-31 21:49:38 GMT+8 | quote | https://x.com/iiiinvest/status/2083188341126914153 | 傻逼大火箭，别让我失望，别让我兄弟失望😞！我愿意以我一天不硬醒为代价换取我兄弟赚钱！ https://t.co/ATxuHn3JTE
+- `2083188827611693108` | 2026-07-31 21:51:34 GMT+8 | original | https://x.com/iiiinvest/status/2083188827611693108 | @liu_shi45126 仙人骗子，不敢公开仓位
+- `2083191559957455219` | 2026-07-31 22:02:26 GMT+8 | quote | https://x.com/iiiinvest/status/2083191559957455219 | 今晚美光存储波动太大了，现在还是以反弹看待。这个位置不要操作，看能不能等到950以上的机会，不然操作性价比不高！ https://t.co/6giPbXmjhb
+- `2083191703079633332` | 2026-07-31 22:03:00 GMT+8 | reply | https://x.com/iiiinvest/status/2083191703079633332 | @MilesSmilesc1 收盘看
+- `2083193993974984907` | 2026-07-31 22:12:06 GMT+8 | quote | https://x.com/iiiinvest/status/2083193993974984907 | 现在就是绞肉机行情，稍有不慎就挂树上。不要在这种行情去博，等行情稳定下来！ https://t.co/twQVLMwG4Q
+- `2083198086776782903` | 2026-07-31 22:28:22 GMT+8 | reply | https://x.com/iiiinvest/status/2083198086776782903 | @Jaysonjwlf 明天去普陀
+- `2083201188384919863` | 2026-07-31 22:40:41 GMT+8 | original | https://x.com/iiiinvest/status/2083201188384919863 | 如何做仓位管理
+- `2083201824044220742` | 2026-07-31 22:43:13 GMT+8 | reply | https://x.com/iiiinvest/status/2083201824044220742 | @Press_Onnails8 找机会写写
+- `2083212249913843904` | 2026-07-31 23:24:39 GMT+8 | original | https://x.com/iiiinvest/status/2083212249913843904 | 兄弟，睡了。我洗干净了，希望大火箭别他妈晚上袭击我屁股！
+- `2087365677216866377` | 2026-08-12 10:28:53 GMT+8 | original | https://x.com/iiiinvest/status/2087365677216866377 | 当下SpaceX买盘心态及计划
+- `2087386116328694081` | 2026-08-12 11:50:06 GMT+8 | reply | https://x.com/iiiinvest/status/2087386116328694081 | @jojoinz8v 你要上天啊
+- `2087387146940518621` | 2026-08-12 11:54:12 GMT+8 | reply | https://x.com/iiiinvest/status/2087387146940518621 | @Vann1490751 懂我
+- `2087418978327265608` | 2026-08-12 14:00:41 GMT+8 | original | https://x.com/iiiinvest/status/2087418978327265608 | 比特币的机会太确定了，几乎100%！但有个问题就是时间选择！
+- `2087421346179670476` | 2026-08-12 14:10:05 GMT+8 | reply | https://x.com/iiiinvest/status/2087421346179670476 | @RbnZng 网格优点可以借鉴
+- `2087422751254646866` | 2026-08-12 14:15:40 GMT+8 | reply | https://x.com/iiiinvest/status/2087422751254646866 | @tf3ZInIRHt11922 期权时间损耗太大了
+- `2087422890610475206` | 2026-08-12 14:16:14 GMT+8 | reply | https://x.com/iiiinvest/status/2087422890610475206 | @Enjewzhyf 怎么确定是不是低点很重要，很多人低点是不敢买的
+- `2087422960567230798` | 2026-08-12 14:16:30 GMT+8 | reply | https://x.com/iiiinvest/status/2087422960567230798 | @TSLASince2019 你觉得是底部，大概率可能不是
+- `2087440480539902295` | 2026-08-12 15:26:07 GMT+8 | reply | https://x.com/iiiinvest/status/2087440480539902295 | @CryptoRounder 这确实是个优势，能降低机会成本
+- `2087447416333271124` | 2026-08-12 15:53:41 GMT+8 | original | https://x.com/iiiinvest/status/2087447416333271124 | 今天SpaceX夜盘+0.6% 134表现还可以，微涨表明没有延续昨晚的弱势！
+- `2087455757193155020` | 2026-08-12 16:26:50 GMT+8 | original | https://x.com/iiiinvest/status/2087455757193155020 | 聊工作，你懂吗？
+- `2087458536771240220` | 2026-08-12 16:37:52 GMT+8 | reply | https://x.com/iiiinvest/status/2087458536771240220 | @ChenchenCpypto 磨洋工是你最佳选择，哈哈
+- `2087458591817257380` | 2026-08-12 16:38:06 GMT+8 | reply | https://x.com/iiiinvest/status/2087458591817257380 | @sdhjaa 干嘛，太多私信没看
+- `2087495452572938640` | 2026-08-12 19:04:34 GMT+8 | reply | https://x.com/iiiinvest/status/2087495452572938640 | @Xu19990606 你是老油条了
+- `2087495502468464642` | 2026-08-12 19:04:46 GMT+8 | reply | https://x.com/iiiinvest/status/2087495502468464642 | @elsashaw970122 骗子
+- `2087496916108181957` | 2026-08-12 19:10:23 GMT+8 | original | https://x.com/iiiinvest/status/2087496916108181957 | 朱镕基去世了
+- `2087531156715769909` | 2026-08-12 21:26:26 GMT+8 | quote | https://x.com/iiiinvest/status/2087531156715769909 | 盘前干到135了，对今晚还是有期待的！等开盘看，期待继续冲刺！！！ https://t.co/H5pZDPNs1w
+- `2087532293988708837` | 2026-08-12 21:30:58 GMT+8 | quote | https://x.com/iiiinvest/status/2087532293988708837 | 开盘了，很强势，期待，加油！ https://t.co/j6jnlMVaeg
+- `2087533532914843929` | 2026-08-12 21:35:53 GMT+8 | quote | https://x.com/iiiinvest/status/2087533532914843929 | 开盘走的这几步还可以，看杀跌后的反弹高度！ https://t.co/9tCuFeuAXg
+- `2087533962562588861` | 2026-08-12 21:37:35 GMT+8 | quote | https://x.com/iiiinvest/status/2087533962562588861 | 强，破了开盘高点，今晚有戏！拿住了！！！ https://t.co/lPHNmbSN9E
+- `2087536653716033977` | 2026-08-12 21:48:17 GMT+8 | quote | https://x.com/iiiinvest/status/2087536653716033977 | 要冲140了，兄弟们！！！ https://t.co/iJKVeHtGQi
+- `2087542429805408471` | 2026-08-12 22:11:14 GMT+8 | quote | https://x.com/iiiinvest/status/2087542429805408471 | 最后窗户纸，给我捅破！！！ https://t.co/BCKmHGHkDQ
+- `2087549439993139448` | 2026-08-12 22:39:05 GMT+8 | quote | https://x.com/iiiinvest/status/2087549439993139448 | 突破140了！！！给我使劲鼓掌！！！👏🏻 https://t.co/3YcLiRDIpi
+- `2087553346928607643` | 2026-08-12 22:54:37 GMT+8 | quote | https://x.com/iiiinvest/status/2087553346928607643 | 有他娘的大户，扫了140以上流动性砸盘，我去他大爷！需要尽快回到140以上！再观察会！ https://t.co/c0cTIHfNDm
+- `2087560619256152305` | 2026-08-12 23:23:31 GMT+8 | quote | https://x.com/iiiinvest/status/2087560619256152305 | 上去过一次140，原则上再上就不难。如果迟迟上不去反而是问题。所以，必须站稳140，不然就是骗炮！ https://t.co/vSNbewM4Ow
+- `2087564283706261754` | 2026-08-12 23:38:04 GMT+8 | quote | https://x.com/iiiinvest/status/2087564283706261754 | 再次突破140，这次应该稳了！
+- `2087564836553257122` | 2026-08-12 23:40:16 GMT+8 | original | https://x.com/iiiinvest/status/2087564836553257122 | 想了想，还是写段话：兄弟们！给自己点掌声吧！
+- `2087568957574406227` | 2026-08-12 23:56:39 GMT+8 | original | https://x.com/iiiinvest/status/2087568957574406227 | 兄弟们，几把摆正！睡了！
+- `2087686591745843559` | 2026-08-13 07:44:05 GMT+8 | original | https://x.com/iiiinvest/status/2087686591745843559 | 醒了，SpaceX146收盘，数钱！
+- `2087687243666469131` | 2026-08-13 07:46:40 GMT+8 | reply | https://x.com/iiiinvest/status/2087687243666469131 | @TJ_Research 🍑总没毛病，懂自己做的，做自己懂的
+- `2087700157316088036` | 2026-08-13 08:37:59 GMT+8 | original | https://x.com/iiiinvest/status/2087700157316088036 | SpaceX从115-146，已盈利68万美金！还没结束！ https://t.co/UPSzMQjhnW
+- `2087704068848558426` | 2026-08-13 08:53:32 GMT+8 | reply | https://x.com/iiiinvest/status/2087704068848558426 | @Dirty83757 Yes
+- `2087708854876533144` | 2026-08-13 09:12:33 GMT+8 | original | https://x.com/iiiinvest/status/2087708854876533144 | 昨晚SpaceX的走势很有意思，晚点我发个解读，你们可以对照自己的理解，这样增加盘感！
+- `2087734306932510816` | 2026-08-13 10:53:41 GMT+8 | original | https://x.com/iiiinvest/status/2087734306932510816 | SpaceX昨晚133-146复盘及计划
+- `2087738346156249224` | 2026-08-13 11:09:44 GMT+8 | reply | https://x.com/iiiinvest/status/2087738346156249224 | @laozhang2579 看最新的推
+- `2087751056851963948` | 2026-08-13 12:00:15 GMT+8 | original | https://x.com/iiiinvest/status/2087751056851963948 | 兄弟们，要自信啊！我们对SpaceX就是最专业的，我们的观察，逻辑，细节，全市场找不出第二家！
+- `2087768701458342015` | 2026-08-13 13:10:21 GMT+8 | reply | https://x.com/iiiinvest/status/2087768701458342015 | @HugoWon68053284 顶
+- `2087784089046962189` | 2026-08-13 14:11:30 GMT+8 | reply | https://x.com/iiiinvest/status/2087784089046962189 | @bboczeng 好的，已经在车上了
+- `2087789652568920139` | 2026-08-13 14:33:37 GMT+8 | original | https://x.com/iiiinvest/status/2087789652568920139 | 安慰一下，兄弟别焦虑！
+- `2087802910122094967` | 2026-08-13 15:26:17 GMT+8 | reply | https://x.com/iiiinvest/status/2087802910122094967 | @ChBVcecV9SFlVNu 先稳住再开
+- `2087810306349424992` | 2026-08-13 15:55:41 GMT+8 | reply | https://x.com/iiiinvest/status/2087810306349424992 | @maEdward194499 嗯
+- `2087810347147399464` | 2026-08-13 15:55:51 GMT+8 | reply | https://x.com/iiiinvest/status/2087810347147399464 | @tf3ZInIRHt11922 爱兄弟
+- `2087810384183034197` | 2026-08-13 15:55:59 GMT+8 | reply | https://x.com/iiiinvest/status/2087810384183034197 | @naluo48 谢谢
+- `2087811942610325786` | 2026-08-13 16:02:11 GMT+8 | original | https://x.com/iiiinvest/status/2087811942610325786 | 今天SpaceX夜盘表现：+0.4%，中规中矩，一般前一日大涨后，会有延续行情。150这个位置确实比较尴尬，买盘会犹豫，卖盘又很有理由！
+- `2087813883969093895` | 2026-08-13 16:09:54 GMT+8 | quote | https://x.com/iiiinvest/status/2087813883969093895 | 为什么大空头会等到150以上再考虑空呢？这个问题留给兄弟们想想，我晚点说我的理解！ https://t.co/4mEGHEb4os
+- `2087853278885503258` | 2026-08-13 18:46:26 GMT+8 | quote | https://x.com/iiiinvest/status/2087853278885503258 | 市场并没有秘密，我也不比兄弟们聪明，我所想的已经有兄弟提到了：
+- `2087853486981742847` | 2026-08-13 18:47:16 GMT+8 | original | https://x.com/iiiinvest/status/2087853486981742847 | @CryptoRounder 兄弟懂我
+- `2087853584205647971` | 2026-08-13 18:47:39 GMT+8 | reply | https://x.com/iiiinvest/status/2087853584205647971 | @Crypto_yimi 不错，加油
+- `2087884954445533254` | 2026-08-13 20:52:18 GMT+8 | original | https://x.com/iiiinvest/status/2087884954445533254 | 明天去台州逛逛，带娃轻松点的，有没有兄弟了解推荐下！
+- `2087891206844154108` | 2026-08-13 21:17:09 GMT+8 | quote | https://x.com/iiiinvest/status/2087891206844154108 | 盘前比较弱，竟然跌破了145，开盘看冲高力度了，如果在145下，我认为是相对弱势的，会刺激空头进场。开盘看了 https://t.co/jZQSUTUeNF
+- `2087894178114216401` | 2026-08-13 21:28:57 GMT+8 | quote | https://x.com/iiiinvest/status/2087894178114216401 | 盘前确实弱，这是要去测试140了，那么按照计划应该会进行止盈，开盘大家跟紧点！ https://t.co/qw0ECib0rn
+- `2087896001013338224` | 2026-08-13 21:36:12 GMT+8 | quote | https://x.com/iiiinvest/status/2087896001013338224 | 这里资金确实比较犹豫，但只要跌不下去，那么就对多头有利！先不着急操作，再观察下，盘面会告送我们如何操作！ https://t.co/jk4tf3litm
+- `2087910988783956305` | 2026-08-13 22:35:45 GMT+8 | quote | https://x.com/iiiinvest/status/2087910988783956305 | 今天盘面比较清晰了，开盘空头进攻，现在就看多头反攻怎么样了，如果失守大本营140，那么今晚空头胜利，这场仗也就不用打了，趋势结束！
+- `2087914788974461304` | 2026-08-13 22:50:51 GMT+8 | quote | https://x.com/iiiinvest/status/2087914788974461304 | 140全部卖出！这单115到140结束了。这个区间震荡不参与了！ https://t.co/83NkiSpJI1
+- `2087915734316007613` | 2026-08-13 22:54:37 GMT+8 | quote | https://x.com/iiiinvest/status/2087915734316007613 | 这单利润有所回撤最终54万美金，知足！同时恭喜这波参与的兄弟，下一波再见👋🏻 https://t.co/K3a62WBNnA https://t.co/5smKAczbmw
+- `2087919130628518029` | 2026-08-13 23:08:07 GMT+8 | original | https://x.com/iiiinvest/status/2087919130628518029 | 平掉后有几个需要注意的：
+- `2088078295778939038` | 2026-08-14 09:40:34 GMT+8 | original | https://x.com/iiiinvest/status/2088078295778939038 | 早，兄弟们，出门玩玩休息下，空仓的时候别想太多！
+- `2088128855374729664` | 2026-08-14 13:01:29 GMT+8 | original | https://x.com/iiiinvest/status/2088128855374729664 | 今天开车梳理了下接下来SpaceX的交易机会，如果今天还不过150，那么应该有次高点做空的机会！
+- `2088139055645302949` | 2026-08-14 13:42:01 GMT+8 | reply | https://x.com/iiiinvest/status/2088139055645302949 | @JastDoo 😃
+- `2088262356942180480` | 2026-08-14 21:51:58 GMT+8 | original | https://x.com/iiiinvest/status/2088262356942180480 | 刚看了眼SpaceX，已经跌破140了，但也没加速。一方面说明这波反弹确定结束了，另外就是前两天130-140震荡导致也没太多筹码砸盘，两方力量都在减弱，缩量整理阶段。
+- `2088269032969687233` | 2026-08-14 22:18:30 GMT+8 | original | https://x.com/iiiinvest/status/2088269032969687233 | 多说一句：没有好的价位，不要开单！
+- `2088271209335255056` | 2026-08-14 22:27:09 GMT+8 | reply | https://x.com/iiiinvest/status/2088271209335255056 | @won085582651602 这玩意比较看点位，我想清楚再发
+- `2088283603730149860` | 2026-08-14 23:16:24 GMT+8 | original | https://x.com/iiiinvest/status/2088283603730149860 | 970的美光交易机会
+- `2088391943827136961` | 2026-08-15 06:26:54 GMT+8 | quote | https://x.com/iiiinvest/status/2088391943827136961 | 早，兄弟们！美光昨晚尾盘很硬，没跌还有一些拉升！说明多方很强，空方这里也没有进攻！按照计划原价附近平掉了！周末不操心了！ https://t.co/9UqTo45AHj
+- `2088414704565977381` | 2026-08-15 07:57:21 GMT+8 | original | https://x.com/iiiinvest/status/2088414704565977381 | 怕有兄弟抗单，再说一下美光
+- `2088851756872871969` | 2026-08-16 12:54:02 GMT+8 | original | https://x.com/iiiinvest/status/2088851756872871969 | 没啥想说的，就单纯和兄弟们打个招呼，今天杭州有点热啊！
+- `2088853105471557808` | 2026-08-16 12:59:24 GMT+8 | reply | https://x.com/iiiinvest/status/2088853105471557808 | @wang_hao23575 兄弟也一样
+- `2088853173415133421` | 2026-08-16 12:59:40 GMT+8 | reply | https://x.com/iiiinvest/status/2088853173415133421 | @HugoWon68053284 烫腚吗
+- `2088853269452148932` | 2026-08-16 13:00:03 GMT+8 | reply | https://x.com/iiiinvest/status/2088853269452148932 | @panzer_LHN 中午好，哈哈
+- `2088853348640583839` | 2026-08-16 13:00:21 GMT+8 | reply | https://x.com/iiiinvest/status/2088853348640583839 | @Kaman2X 谢谢
+- `2088853427778716022` | 2026-08-16 13:00:40 GMT+8 | reply | https://x.com/iiiinvest/status/2088853427778716022 | @samhxmv 等有缘
+- `2088934490982990130` | 2026-08-16 18:22:47 GMT+8 | reply | https://x.com/iiiinvest/status/2088934490982990130 | @Crypto_yimi 晚上好哈哈
+- `2088989660160864739` | 2026-08-16 22:02:01 GMT+8 | original | https://x.com/iiiinvest/status/2088989660160864739 | 世界上只有一种痛苦就是贫穷
+- `2088990446202814590` | 2026-08-16 22:05:08 GMT+8 | reply | https://x.com/iiiinvest/status/2088990446202814590 | @Shaoming6jy6 毕业工作是普通人最佳路径，工作并不影响你投资
+- `2089019735648399471` | 2026-08-17 00:01:31 GMT+8 | original | https://x.com/iiiinvest/status/2089019735648399471 | @lhc199711 研究生毕业，37了
+- `2089019819781927050` | 2026-08-17 00:01:51 GMT+8 | reply | https://x.com/iiiinvest/status/2089019819781927050 | @laozhang2579 没有9
+- `2089019882918772913` | 2026-08-17 00:02:06 GMT+8 | reply | https://x.com/iiiinvest/status/2089019882918772913 | @Dongjia1214 有机会再分享吧
+- `2089020087584088502` | 2026-08-17 00:02:55 GMT+8 | reply | https://x.com/iiiinvest/status/2089020087584088502 | @ZINPOP9 因为穷
+- `2089020470293316017` | 2026-08-17 00:04:26 GMT+8 | reply | https://x.com/iiiinvest/status/2089020470293316017 | @whitevivian1 好
+- `2089175871605325866` | 2026-08-17 10:21:57 GMT+8 | original | https://x.com/iiiinvest/status/2089175871605325866 | 几把门，上午好！今天就盯两件事！
+- `2089190943639699901` | 2026-08-17 11:21:50 GMT+8 | reply | https://x.com/iiiinvest/status/2089190943639699901 | @yuanM96445 存储才是龙头
+- `2089191051710050758` | 2026-08-17 11:22:16 GMT+8 | reply | https://x.com/iiiinvest/status/2089191051710050758 | @011215w 观察，感受市场
+- `2089191095490293765` | 2026-08-17 11:22:27 GMT+8 | reply | https://x.com/iiiinvest/status/2089191095490293765 | @Alex677888 几把门你好
+- `2089236429713084810` | 2026-08-17 14:22:35 GMT+8 | original | https://x.com/iiiinvest/status/2089236429713084810 | 美光夜盘突破1000了，叠加近期美光的缩量，还有远期的中期选举，有几个预期需要注意！
+- `2089239580851782039` | 2026-08-17 14:35:06 GMT+8 | reply | https://x.com/iiiinvest/status/2089239580851782039 | @luckybibiw1p 也不用fomo，大饼会给很长时间上车，但这种上车方式大部分兄弟不会舒服
+- `2089239822024266213` | 2026-08-17 14:36:04 GMT+8 | reply | https://x.com/iiiinvest/status/2089239822024266213 | @Maxandzero 极高，极高
+- `2089252295032918519` | 2026-08-17 15:25:38 GMT+8 | reply | https://x.com/iiiinvest/status/2089252295032918519 | @Jupiterxoxoxo 好，我梳理清楚
+- `2089253317260312884` | 2026-08-17 15:29:41 GMT+8 | reply | https://x.com/iiiinvest/status/2089253317260312884 | @yuanM96445 1000-1200的阻力，缩量代表多方也没多少力量
+- `2089287814555050153` | 2026-08-17 17:46:46 GMT+8 | quote | https://x.com/iiiinvest/status/2089287814555050153 | 谢谢OKX邀请，除了SpaceX，还会说一下我对美光预期，以及如何布局比特币机会。近期有一些战绩，换个方式和兄弟们聊聊，有时间可以来听听！👏🏻 https://t.co/SaBxzb6MR7
+- `2089297760570970576` | 2026-08-17 18:26:18 GMT+8 | reply | https://x.com/iiiinvest/status/2089297760570970576 | @0xBeyondLee 谢谢师哥，😃
+- `2089304709077320083` | 2026-08-17 18:53:54 GMT+8 | reply | https://x.com/iiiinvest/status/2089304709077320083 | @CryptoDanta 干他丫的
+- `2089308084640301316` | 2026-08-17 19:07:19 GMT+8 | original | https://x.com/iiiinvest/status/2089308084640301316 | 美光持续在1000以上徘徊，是真的强！弱势的时候是一触即溃，强势的时候是怎么都跌不下去，这种是能通过盘面感受到的！
+- `2089311319757566322` | 2026-08-17 19:20:10 GMT+8 | reply | https://x.com/iiiinvest/status/2089311319757566322 | @Shaoming6jy6 等开盘看下，下杀能不能稳住
+- `2089315522882240694` | 2026-08-17 19:36:52 GMT+8 | reply | https://x.com/iiiinvest/status/2089315522882240694 | @xixixoz7 明天
+- `2089323114736046457` | 2026-08-17 20:07:02 GMT+8 | quote | https://x.com/iiiinvest/status/2089323114736046457 | 每一波做完还是算下，让心态重置！
+- `2089323752635154644` | 2026-08-17 20:09:35 GMT+8 | reply | https://x.com/iiiinvest/status/2089323752635154644 | @heyishuangyan 换算成人民币了
+- `2089329448642609430` | 2026-08-17 20:32:13 GMT+8 | reply | https://x.com/iiiinvest/status/2089329448642609430 | @ChocWonderLand 谢谢
+- `2089339352245764252` | 2026-08-17 21:11:34 GMT+8 | original | https://x.com/iiiinvest/status/2089339352245764252 | SpaceX 8月20日解禁前后走势推演！
+- `2089344469422538826` | 2026-08-17 21:31:54 GMT+8 | quote | https://x.com/iiiinvest/status/2089344469422538826 | 开盘了，这时候是去验证逻辑线的时候，让盘面走出来，别着急操作！ https://t.co/xwAwvHQLoI
+- `2089344997204336646` | 2026-08-17 21:34:00 GMT+8 | quote | https://x.com/iiiinvest/status/2089344997204336646 | 关注145，如果突破说明逻辑假设错误，没突破今天就是次高点！ https://t.co/a482w4OcsO
+- `2089347343732945270` | 2026-08-17 21:43:19 GMT+8 | quote | https://x.com/iiiinvest/status/2089347343732945270 | 很强，145已经突破，这时候不要贸然做空了，没有按照逻辑发展！ https://t.co/GiFjHgrI2h
+- `2089347773359600105` | 2026-08-17 21:45:02 GMT+8 | quote | https://x.com/iiiinvest/status/2089347773359600105 | 观察150阻力是否依旧，多观察少动手！ https://t.co/Ht53Ls4AIZ
+- `2089353856425824698` | 2026-08-17 22:09:12 GMT+8 | quote | https://x.com/iiiinvest/status/2089353856425824698 | 今晚大火箭太硬了，像是机构资金，如果是机构这个位置要干嘛？要破150嘛？ https://t.co/IbPGFCOhDk
+- `2089357093342236709` | 2026-08-17 22:22:04 GMT+8 | quote | https://x.com/iiiinvest/status/2089357093342236709 | 我不会在145以上做空，145-150之间就是临门一脚，属于强势区间，这种区间做空，空军会慌的一批，随时被人爆蛋的慌！如果能跌入145以下，反而是介入的机会。
+- `2089365136456986982` | 2026-08-17 22:54:01 GMT+8 | original | https://x.com/iiiinvest/status/2089365136456986982 | 兄弟们，今晚SpaceX 用实际走势教会我们：震荡，少几把动！
+- `2089368683361755299` | 2026-08-17 23:08:07 GMT+8 | quote | https://x.com/iiiinvest/status/2089368683361755299 | 今晚美光强势突破1000，回头看上周五对尾盘的判断，怎么样？兄弟们，并不是我几把硬，而是我尊重市场！
+- `2089370548665192582` | 2026-08-17 23:15:32 GMT+8 | quote | https://x.com/iiiinvest/status/2089370548665192582 | 像这位兄弟一样想法的应该不少，奉劝一句：开单讲究一个性价比，如果开单位置不对，不如不做！ https://t.co/hYY0euhaiW
+- `2089372628754792959` | 2026-08-17 23:23:48 GMT+8 | reply | https://x.com/iiiinvest/status/2089372628754792959 | @CryptoDanta 赚钱的男人最有魅力
+- `2089372736112222625` | 2026-08-17 23:24:13 GMT+8 | reply | https://x.com/iiiinvest/status/2089372736112222625 | @SHOWNASHIOL 谢谢
+- `2089372838356832311` | 2026-08-17 23:24:37 GMT+8 | reply | https://x.com/iiiinvest/status/2089372838356832311 | @dadali9523 真诚是必杀技
+- `2089381745728848340` | 2026-08-18 00:00:01 GMT+8 | original | https://x.com/iiiinvest/status/2089381745728848340 | 兄弟们，几把摆正睡了。明早起来看SpaceX 尾盘表现！
+- `2089514469814915553` | 2026-08-18 08:47:25 GMT+8 | original | https://x.com/iiiinvest/status/2089514469814915553 | 早，兄弟们！昨晚是让空头难受的一晚，晚点梳理下信息及后续计划！
+- `2089552349257937205` | 2026-08-18 11:17:56 GMT+8 | original | https://x.com/iiiinvest/status/2089552349257937205 | 动手！SpaceX (146) 盘面分析及操作
+- `2089557256757248373` | 2026-08-18 11:37:26 GMT+8 | reply | https://x.com/iiiinvest/status/2089557256757248373 | @narcissus0403 顶
+- `2089573852317995106` | 2026-08-18 12:43:23 GMT+8 | reply | https://x.com/iiiinvest/status/2089573852317995106 | @ZhaoTim2 ❤️
+- `2089623681437991300` | 2026-08-18 16:01:23 GMT+8 | original | https://x.com/iiiinvest/status/2089623681437991300 | 他妈的骗子太多了啊，拉黑不过来。记住：只有一个号，只有X，没有其他，没有会员，没有小群！
+- `2089625406488056298` | 2026-08-18 16:08:14 GMT+8 | reply | https://x.com/iiiinvest/status/2089625406488056298 | @LT02117 新号不断啊
+- `2089629652063342908` | 2026-08-18 16:25:07 GMT+8 | reply | https://x.com/iiiinvest/status/2089629652063342908 | @0x417276 顶
+- `2089644749322141965` | 2026-08-18 17:25:06 GMT+8 | original | https://x.com/iiiinvest/status/2089644749322141965 | 盘前速递，今天大盘比较弱，盘前已经-1.2%了，对于我们空单比较有好！
+- `2089649597593591888` | 2026-08-18 17:44:22 GMT+8 | reply | https://x.com/iiiinvest/status/2089649597593591888 | @uiwcbx 锤死这骗子
+- `2089649867710964148` | 2026-08-18 17:45:26 GMT+8 | reply | https://x.com/iiiinvest/status/2089649867710964148 | @zhang_xiao12158 顶
+- `2089654478022869269` | 2026-08-18 18:03:46 GMT+8 | original | https://x.com/iiiinvest/status/2089654478022869269 | 我们对这个世界都是盲人摸象，我并不比兄弟们知道更多！
+- `2089654903983743179` | 2026-08-18 18:05:27 GMT+8 | reply | https://x.com/iiiinvest/status/2089654903983743179 | @Lulu247168 几把门你好
+- `2089656402637975710` | 2026-08-18 18:11:24 GMT+8 | reply | https://x.com/iiiinvest/status/2089656402637975710 | @Aora781391 盘前交易量低，没反应真实价格
+- `2089660889700221266` | 2026-08-18 18:29:14 GMT+8 | reply | https://x.com/iiiinvest/status/2089660889700221266 | @Hdjcjehhxijgjf 亏不怕，亏出经验就好了
+- `2089660944435785916` | 2026-08-18 18:29:27 GMT+8 | reply | https://x.com/iiiinvest/status/2089660944435785916 | @uiwcbx 几把硬汉
+- `2089660997938385197` | 2026-08-18 18:29:40 GMT+8 | reply | https://x.com/iiiinvest/status/2089660997938385197 | @Cavanfbc 好像可以
+- `2089661129668837672` | 2026-08-18 18:30:11 GMT+8 | reply | https://x.com/iiiinvest/status/2089661129668837672 | @rpfDddeFOF64149 亏出经验也可以
+- `2089664012900507777` | 2026-08-18 18:41:39 GMT+8 | original | https://x.com/iiiinvest/status/2089664012900507777 | 几把门，一会直播有空可以听听，没空就算，明天太阳依旧升起，几把依旧硬硬！
+- `2089695444012339574` | 2026-08-18 20:46:33 GMT+8 | quote | https://x.com/iiiinvest/status/2089695444012339574 | 兄弟们，今天大盘助我们啊！最近无论是标普还是纳指都极度缩量，在交易上这是很危险的信号！有点像空中楼阁，很容易被一根柱子击溃！ https://t.co/H6wvl6CRMO
+- `2089696774084767999` | 2026-08-18 20:51:50 GMT+8 | reply | https://x.com/iiiinvest/status/2089696774084767999 | @uiwcbx 加州口音都听出来了？
+- `2089706295297536288` | 2026-08-18 21:29:40 GMT+8 | quote | https://x.com/iiiinvest/status/2089706295297536288 | 马上开盘，准备战斗！ https://t.co/8xRWxD8qQV
+- `2089709484704985150` | 2026-08-18 21:42:20 GMT+8 | quote | https://x.com/iiiinvest/status/2089709484704985150 | 今天开盘后还是有韧性的，跌破140没有加速，说明空军力量不强。这时候还是关注145，之上走，之下留！ https://t.co/eHOHFDvGgc
+- `2089714559087260037` | 2026-08-18 22:02:30 GMT+8 | quote | https://x.com/iiiinvest/status/2089714559087260037 | 今天大盘-1.5%，主要还是被半导体和存储带下来的。SpaceX 不能说多差！今天如果维持在140以上，还是很强的，再观察会！ https://t.co/gtZ3fJ8fWT
+- `2089715391069298772` | 2026-08-18 22:05:48 GMT+8 | reply | https://x.com/iiiinvest/status/2089715391069298772 | @luckybibiw1p 嗯，盘中跌不破就看尾盘
+- `2089716545316630572` | 2026-08-18 22:10:24 GMT+8 | reply | https://x.com/iiiinvest/status/2089716545316630572 | @zuo27948 兄弟，我们做空是不是说反了
+- `2089718417813279202` | 2026-08-18 22:17:50 GMT+8 | original | https://x.com/iiiinvest/status/2089718417813279202 | 我内心的预期
+- `2089723896656490986` | 2026-08-18 22:39:36 GMT+8 | reply | https://x.com/iiiinvest/status/2089723896656490986 | @Chow0227 别想太远的事
+- `2089734046050115932` | 2026-08-18 23:19:56 GMT+8 | reply | https://x.com/iiiinvest/status/2089734046050115932 | @adambrownh365 这么神奇吗
+- `2089735271004918047` | 2026-08-18 23:24:48 GMT+8 | quote | https://x.com/iiiinvest/status/2089735271004918047 | 兄弟们，目前看SpaceX 还是很强的，逻辑也说了，预期也说了，那么就看尾盘了！
+- `2089857809836093524` | 2026-08-19 07:31:44 GMT+8 | original | https://x.com/iiiinvest/status/2089857809836093524 | 早，兄弟们。SpaceX还是很强，盘中拉回了145，尾盘又下来了。晚点发解读和计划！
+- `2089894183813447784` | 2026-08-19 09:56:16 GMT+8 | original | https://x.com/iiiinvest/status/2089894183813447784 | SpaceX(143)复盘及计划
+- `2089904011055120552` | 2026-08-19 10:35:19 GMT+8 | original | https://x.com/iiiinvest/status/2089904011055120552 | 美光突破1000后，骗了一波流动性就下来了，这种骗流动性的戏码一定要足够专注才能抓住，典型表现就是突破后涨不动！
+- `2089904602246426865` | 2026-08-19 10:37:40 GMT+8 | reply | https://x.com/iiiinvest/status/2089904602246426865 | @Trash_ich_bin 解禁后我认为反而有操作机会
+- `2089904698048627100` | 2026-08-19 10:38:03 GMT+8 | reply | https://x.com/iiiinvest/status/2089904698048627100 | @samhxmv 没有性价比啊，兄弟
+- `2089904802629320763` | 2026-08-19 10:38:28 GMT+8 | reply | https://x.com/iiiinvest/status/2089904802629320763 | @Kaman2X 今天发完筹码分析，会给出具体建议
+- `2089904868807131188` | 2026-08-19 10:38:43 GMT+8 | reply | https://x.com/iiiinvest/status/2089904868807131188 | @zhongtao344663 谢谢
+- `2089928295706218500` | 2026-08-19 12:11:49 GMT+8 | original | https://x.com/iiiinvest/status/2089928295706218500 | 侥幸心理，要不得！
+- `2089930001198305408` | 2026-08-19 12:18:35 GMT+8 | reply | https://x.com/iiiinvest/status/2089930001198305408 | @TheworldDIRTYGG 顶
+- `2089930114591322504` | 2026-08-19 12:19:02 GMT+8 | reply | https://x.com/iiiinvest/status/2089930114591322504 | @ChocWonderLand 嗯
+- `2089930310536556690` | 2026-08-19 12:19:49 GMT+8 | reply | https://x.com/iiiinvest/status/2089930310536556690 | @Shaoming6jy6 昨天我都睡了，你盯盘损掉没毛病，别有心理负担
+- `2089931953701302297` | 2026-08-19 12:26:21 GMT+8 | reply | https://x.com/iiiinvest/status/2089931953701302297 | @oxpsats 对
+- `2089958098933104718` | 2026-08-19 14:10:14 GMT+8 | original | https://x.com/iiiinvest/status/2089958098933104718 | 再加！🔥SpaceX 8.20解禁筹码分析及建议！
+- `2089980097340289458` | 2026-08-19 15:37:39 GMT+8 | original | https://x.com/iiiinvest/status/2089980097340289458 | 兄弟们，我已毫无保留！希望你好！
+- `2090004202882035783` | 2026-08-19 17:13:27 GMT+8 | original | https://x.com/iiiinvest/status/2090004202882035783 | 兄弟们，盘前无惧！蛋放在裤裆里，几把摆正！
+- `2090032243251277862` | 2026-08-19 19:04:52 GMT+8 | original | https://x.com/iiiinvest/status/2090032243251277862 | 兄弟们，你们赚够多少就收手？收手后会去做什么？
+- `2090032376739197412` | 2026-08-19 19:05:24 GMT+8 | reply | https://x.com/iiiinvest/status/2090032376739197412 | @myj619610301 为啥多海力士，是看新闻吗，小心你屁股
+- `2090032454736412949` | 2026-08-19 19:05:42 GMT+8 | reply | https://x.com/iiiinvest/status/2090032454736412949 | @AKheVFRitM1108 自己把握
+- `2090033217973932297` | 2026-08-19 19:08:44 GMT+8 | reply | https://x.com/iiiinvest/status/2090033217973932297 | @luckybibiw1p 一亿不够吧
+- `2090034552324645281` | 2026-08-19 19:14:02 GMT+8 | reply | https://x.com/iiiinvest/status/2090034552324645281 | @Ziqinglau1 哈哈，感谢自己就好
+- `2090066782283514051` | 2026-08-19 21:22:07 GMT+8 | quote | https://x.com/iiiinvest/status/2090066782283514051 | 盘前拉到了145，按照逻辑我们要拿到解禁，也就是明天见分晓。如果今天不破150我就按照计划拿着。开盘再看！ https://t.co/1J2sAmIHkz
+- `2090070489507189118` | 2026-08-19 21:36:50 GMT+8 | quote | https://x.com/iiiinvest/status/2090070489507189118 | 开盘了，141。我知道你刚才很慌，现在又不慌了，心跳跟着股价在波动！兄弟们，跟着逻辑走，鱼哥和你在一起！ https://t.co/3fbzdSVQBE
+- `2090071535143039400` | 2026-08-19 21:41:00 GMT+8 | quote | https://x.com/iiiinvest/status/2090071535143039400 | 139，跌破140了！兄弟们，这次我们应该又能赢！！！掌声响起来！！！ https://t.co/yskQiiR7b5
+- `2090074906360946877` | 2026-08-19 21:54:24 GMT+8 | quote | https://x.com/iiiinvest/status/2090074906360946877 | 兄弟们，138！你们有我，怎么输！
+- `2090076869043581140` | 2026-08-19 22:02:11 GMT+8 | quote | https://x.com/iiiinvest/status/2090076869043581140 | 137！！！赚钱就要开心，就要快乐，不然财运不高兴！兄弟们，你要开心要快乐！
+- `2090081075293020594` | 2026-08-19 22:18:54 GMT+8 | quote | https://x.com/iiiinvest/status/2090081075293020594 | 136了！几把门集合！！！
+- `2090089712799437299` | 2026-08-19 22:53:14 GMT+8 | reply | https://x.com/iiiinvest/status/2090089712799437299 | @XAI2049 你太高看我了，咱们才几个人
+- `2090093731810886130` | 2026-08-19 23:09:12 GMT+8 | original | https://x.com/iiiinvest/status/2090093731810886130 | 兄弟们，今晚别担心了！
+- `2090102420458360909` | 2026-08-19 23:43:43 GMT+8 | original | https://x.com/iiiinvest/status/2090102420458360909 | 几把摆正，睡觉了！晚安兄弟们💤
+- `2090105387571945780` | 2026-08-19 23:55:31 GMT+8 | reply | https://x.com/iiiinvest/status/2090105387571945780 | @Crypto_yimi 有机会的
+- `2090105521672237219` | 2026-08-19 23:56:03 GMT+8 | reply | https://x.com/iiiinvest/status/2090105521672237219 | @TJ_Research 🍑总，我爱你
+- `2090231003570950248` | 2026-08-20 08:14:40 GMT+8 | original | https://x.com/iiiinvest/status/2090231003570950248 | 醒了，几把醒来还是正的！
+- `2090262004946854043` | 2026-08-20 10:17:51 GMT+8 | original | https://x.com/iiiinvest/status/2090262004946854043 | 比特币一根阳线拉起来了，之前说过比特币的机会确定性几乎100%，当然，兄弟们我也没偷偷上车😂。
+- `2090272045527707755` | 2026-08-20 10:57:45 GMT+8 | reply | https://x.com/iiiinvest/status/2090272045527707755 | @CryptoDanta 蛋总，咱们不是币股双修吗
+- `2090315580519931917` | 2026-08-20 13:50:45 GMT+8 | original | https://x.com/iiiinvest/status/2090315580519931917 | 在写比特币机会如何参与！突然想到，兄弟们是不是有些没参与过币圈？先做个调查！
+- `2090320931751432451` | 2026-08-20 14:12:01 GMT+8 | reply | https://x.com/iiiinvest/status/2090320931751432451 | @TheworldDIRTYGG 门槛还是高的
+- `2090340455003353174` | 2026-08-20 15:29:35 GMT+8 | original | https://x.com/iiiinvest/status/2090340455003353174 | 现在是夜盘，SpaceX+0.1%，相较大盘+0.5%还是比较弱势的。我认为今天核心不是开盘，而是盘中或者尾盘的走势！
+- `2090350148874555613` | 2026-08-20 16:08:06 GMT+8 | reply | https://x.com/iiiinvest/status/2090350148874555613 | @wYxoNiflaj44613 那上涨的动力从哪来，我们分析过筹码
+- `2090350408711786594` | 2026-08-20 16:09:08 GMT+8 | reply | https://x.com/iiiinvest/status/2090350408711786594 | @ICEM77 兄弟你是来搞笑的吗，我们都快长征结束了
+- `2090358965892972666` | 2026-08-20 16:43:09 GMT+8 | original | https://x.com/iiiinvest/status/2090358965892972666 | 一定要理解预期
+- `2090361952975704125` | 2026-08-20 16:55:01 GMT+8 | reply | https://x.com/iiiinvest/status/2090361952975704125 | @CryptoDanta 这次，一定
+- `2090366496367374556` | 2026-08-20 17:13:04 GMT+8 | original | https://x.com/iiiinvest/status/2090366496367374556 | 操他妈的美股仙人
+- `2090366746511446030` | 2026-08-20 17:14:04 GMT+8 | original | https://x.com/iiiinvest/status/2090366746511446030 | 操，美股仙人
+- `2090368172528664621` | 2026-08-20 17:19:44 GMT+8 | reply | https://x.com/iiiinvest/status/2090368172528664621 | @CryptoDanta 来吧，给你按秃噜皮
+- `2090394786578768069` | 2026-08-20 19:05:29 GMT+8 | quote | https://x.com/iiiinvest/status/2090394786578768069 | 盘前比夜盘更弱势，如果这种弱势进入开盘，极容易开盘就下插，我们空单爽歪歪。再观察会写写开盘策略！ https://t.co/Mn3g5TKBTU
+- `2090402067785592957` | 2026-08-20 19:34:25 GMT+8 | reply | https://x.com/iiiinvest/status/2090402067785592957 | @191101069 对，他妈的还拉黑人
+- `2090405790687658086` | 2026-08-20 19:49:13 GMT+8 | original | https://x.com/iiiinvest/status/2090405790687658086 | 想继续空美光了，等会说下逻辑！
+- `2090408538590081368` | 2026-08-20 20:00:08 GMT+8 | original | https://x.com/iiiinvest/status/2090408538590081368 | 935继续空1500股美光！
+- `2090409963210555613` | 2026-08-20 20:05:47 GMT+8 | reply | https://x.com/iiiinvest/status/2090409963210555613 | @lcka131 我简介放了币安链接可以用，我也是资金两头放着用
+- `2090410079107567669` | 2026-08-20 20:06:15 GMT+8 | reply | https://x.com/iiiinvest/status/2090410079107567669 | @ly_93818 IIIINVEST
+- `2090411291450180011` | 2026-08-20 20:11:04 GMT+8 | quote | https://x.com/iiiinvest/status/2090411291450180011 | 美光空单我是在币圈交易所空的，我现在券商和交易所两边都放资金。
+- `2090417390098255905` | 2026-08-20 20:35:18 GMT+8 | reply | https://x.com/iiiinvest/status/2090417390098255905 | @adambrownh365 永续确实有优势
+- `2090417447262367815` | 2026-08-20 20:35:32 GMT+8 | reply | https://x.com/iiiinvest/status/2090417447262367815 | @jinanoc6 好的，谢谢兄弟
+- `2090417514190922168` | 2026-08-20 20:35:48 GMT+8 | reply | https://x.com/iiiinvest/status/2090417514190922168 | @zha67402314 都行，但币安深度好一些
+- `2090417593358442728` | 2026-08-20 20:36:06 GMT+8 | reply | https://x.com/iiiinvest/status/2090417593358442728 | @MilesSmilesc1 都是工具，好用就行
+- `2090417630733795563` | 2026-08-20 20:36:15 GMT+8 | reply | https://x.com/iiiinvest/status/2090417630733795563 | @rn02jbg 谢谢
+- `2090417679450714310` | 2026-08-20 20:36:27 GMT+8 | reply | https://x.com/iiiinvest/status/2090417679450714310 | @ChocWonderLand 你可以试试
+- `2090418140526399914` | 2026-08-20 20:38:17 GMT+8 | original | https://x.com/iiiinvest/status/2090418140526399914 | 兄弟们，我们今晚又要赚钱了！开心点！高兴起来财运才会来！！！
+- `2090428440772219245` | 2026-08-20 21:19:13 GMT+8 | quote | https://x.com/iiiinvest/status/2090428440772219245 | 盘前137，是骡子是马拉出来溜溜！等开盘，跟紧点！ https://t.co/6B1f0cFPlv
+- `2090431849239806166` | 2026-08-20 21:32:45 GMT+8 | quote | https://x.com/iiiinvest/status/2090431849239806166 | 开盘，看下135的支撑！ https://t.co/Ncz7ywuTT4
+- `2090433956101648685` | 2026-08-20 21:41:08 GMT+8 | quote | https://x.com/iiiinvest/status/2090433956101648685 | 我感觉稳了，上不去！那么接下来要反复试探135才对，看支撑！兄弟们，拿住了，别瞎操作！！！ https://t.co/EJwQwAyKEG
+- `2090435385562366426` | 2026-08-20 21:46:48 GMT+8 | quote | https://x.com/iiiinvest/status/2090435385562366426 | 破135了！！！掌声在哪里！兄弟在哪里！几把硬不硬！ https://t.co/8MvCmmvoXu
+- `2090437455644328247` | 2026-08-20 21:55:02 GMT+8 | quote | https://x.com/iiiinvest/status/2090437455644328247 | 133了兄弟们，几把门规矩：没拿住的，掏出来，弹3下！！！ https://t.co/ev7tG8Hrbl
+- `2090441099559194831` | 2026-08-20 22:09:31 GMT+8 | reply | https://x.com/iiiinvest/status/2090441099559194831 | @CryptoDanta 蛋总抬举了
+- `2090441770559770988` | 2026-08-20 22:12:11 GMT+8 | quote | https://x.com/iiiinvest/status/2090441770559770988 | 既然已经跌破135，低点越来越低。那么下跌趋势就还没结束，兄弟们空单拿住了！！！
+- `2090445932932562949` | 2026-08-20 22:28:43 GMT+8 | quote | https://x.com/iiiinvest/status/2090445932932562949 | 美光碰了一下960，但没站稳，暂时不平，我只要开单无论是止盈还是止损都会同步兄弟们，兄弟们不要慌，干大事的，别紧张兮兮的，成何体统！！！ https://t.co/k0bQ0iqXjr
+- `2090446613865275727` | 2026-08-20 22:31:26 GMT+8 | reply | https://x.com/iiiinvest/status/2090446613865275727 | @CryptoDanta 来吧蛋总，给蛋总搓硬硬的！
+- `2090457277467853071` | 2026-08-20 23:13:48 GMT+8 | original | https://x.com/iiiinvest/status/2090457277467853071 | 看你们赚钱，或者说回本。。。替你们开心，至于说以后，以后谁说得准呢？珍惜当下吧！ https://t.co/TT4ILotQYK
+- `2090459960404738163` | 2026-08-20 23:24:28 GMT+8 | reply | https://x.com/iiiinvest/status/2090459960404738163 | @Amax95325853 多练，不难，加油！
+- `2090467792193794257` | 2026-08-20 23:55:35 GMT+8 | original | https://x.com/iiiinvest/status/2090467792193794257 | 准备睡了！睡前几个事再同步下：
+- `2090589255789858857` | 2026-08-21 07:58:14 GMT+8 | original | https://x.com/iiiinvest/status/2090589255789858857 | 早，兄弟们！
+- `2090596698376794424` | 2026-08-21 08:27:48 GMT+8 | reply | https://x.com/iiiinvest/status/2090596698376794424 | @HgLuo1165 问题不大
+- `2090597085376840096` | 2026-08-21 08:29:21 GMT+8 | reply | https://x.com/iiiinvest/status/2090597085376840096 | @Kevin1128175 互关个几把，我他妈关注就没超过100过，再说了赚不赚钱兄弟们不清楚？
+- `2090598517849170221` | 2026-08-21 08:35:02 GMT+8 | reply | https://x.com/iiiinvest/status/2090598517849170221 | @wSi988yuPlPHFhE 不想，尊重市场
+- `2090625522812559440` | 2026-08-21 10:22:21 GMT+8 | original | https://x.com/iiiinvest/status/2090625522812559440 | 比特币这几天升的太快，不敢这时候带你们入场，等等吧！
+- `2090655241058521164` | 2026-08-21 12:20:26 GMT+8 | original | https://x.com/iiiinvest/status/2090655241058521164 | SpaceX(134) 做空复盘及计划！
+- `2090699915861303478` | 2026-08-21 15:17:57 GMT+8 | original | https://x.com/iiiinvest/status/2090699915861303478 | 永远不要逆市做单！
+- `2090735014749393142` | 2026-08-21 17:37:26 GMT+8 | original | https://x.com/iiiinvest/status/2090735014749393142 | 盘前135，今天开盘会有一波搏反弹的买盘，所以开盘有概率拉一下。我们按我们的计划走！
+- `2090745307164459274` | 2026-08-21 18:18:20 GMT+8 | reply | https://x.com/iiiinvest/status/2090745307164459274 | @Znltfaf ？
+- `2090750662569050499` | 2026-08-21 18:39:36 GMT+8 | reply | https://x.com/iiiinvest/status/2090750662569050499 | @XAI2049 我看盘面
+- `2090751233598296325` | 2026-08-21 18:41:53 GMT+8 | original | https://x.com/iiiinvest/status/2090751233598296325 | 问昨天130为什么不平的，可以不用跟我了，我没那水平！
+- `2090774266891341943` | 2026-08-21 20:13:24 GMT+8 | original | https://x.com/iiiinvest/status/2090774266891341943 | 常四爷：我爱我的国啊可谁爱我啊！
+- `2090792479712764154` | 2026-08-21 21:25:46 GMT+8 | original | https://x.com/iiiinvest/status/2090792479712764154 | 不矫情了
+- `2090794879139848611` | 2026-08-21 21:35:18 GMT+8 | quote | https://x.com/iiiinvest/status/2090794879139848611 | 开盘从135杀到132，把昨天搏反弹的埋了！ https://t.co/SW70Ctw6fA
+- `2090797013235380640` | 2026-08-21 21:43:47 GMT+8 | quote | https://x.com/iiiinvest/status/2090797013235380640 | 从今天盘面看，还会去测试130的支撑，如果你接受不了震荡可以平，真心的！今晚不说太多了！ https://t.co/WTkrde0Z2R
+- `2090977964691198037` | 2026-08-22 09:42:49 GMT+8 | original | https://x.com/iiiinvest/status/2090977964691198037 | 醒了，136收盘，比预期强那么一丢丢。
+- `2090994809599410180` | 2026-08-22 10:49:46 GMT+8 | original | https://x.com/iiiinvest/status/2090994809599410180 | @Qqq3wnr ❤️
+- `2091009376815571139` | 2026-08-22 11:47:39 GMT+8 | original | https://x.com/iiiinvest/status/2091009376815571139 | 可能会有兄弟想：会不会没机会？
+- `2091070868583580082` | 2026-08-22 15:51:59 GMT+8 | quote | https://x.com/iiiinvest/status/2091070868583580082 | 没想到啊没想到，在山东那个屁地方竟然出现了一对卧龙凤雏，蛋总年少有为啊！！！ https://t.co/Kq84tYQCMm
+- `2091095133877842330` | 2026-08-22 17:28:25 GMT+8 | reply | https://x.com/iiiinvest/status/2091095133877842330 | @ZhaochengLi2003 够了
+- `2091105253160530062` | 2026-08-22 18:08:37 GMT+8 | original | https://x.com/iiiinvest/status/2091105253160530062 | 看来最近确实不少兄弟跟着赚到钱了，首先还是恭喜，其次我还是那句：常常叨叨偶尔启发总是陪伴！
+- `2091112854451560573` | 2026-08-22 18:38:50 GMT+8 | reply | https://x.com/iiiinvest/status/2091112854451560573 | @Yangligege 谢谢兄弟
+- `2091112963847356420` | 2026-08-22 18:39:16 GMT+8 | reply | https://x.com/iiiinvest/status/2091112963847356420 | @JasperLvtrha 嗯，有关注，挺好的博主
+- `2091113004800635175` | 2026-08-22 18:39:26 GMT+8 | reply | https://x.com/iiiinvest/status/2091113004800635175 | @YmeirSQChz51926 不客气
+- `2091120530191429821` | 2026-08-22 19:09:20 GMT+8 | original | https://x.com/iiiinvest/status/2091120530191429821 | 这世界的底层规律：弱肉强食！
+- `2091122160517390751` | 2026-08-22 19:15:48 GMT+8 | reply | https://x.com/iiiinvest/status/2091122160517390751 | @WallStreet0Name 比特币和美股不是一个操作逻辑，比特币周期性太强，普通人最适合的方式是大致底部开始定投
+- `2091122596603453903` | 2026-08-22 19:17:32 GMT+8 | reply | https://x.com/iiiinvest/status/2091122596603453903 | @MilesSmilesc1 怎么能不亏，都是亏出来的经验
+- `2091138994742694185` | 2026-08-22 20:22:42 GMT+8 | reply | https://x.com/iiiinvest/status/2091138994742694185 | @Spring7619 好
+- `2091139047049888073` | 2026-08-22 20:22:54 GMT+8 | original | https://x.com/iiiinvest/status/2091139047049888073 | 有兄弟想听我的来时路！想吗？想的掌声响起来！
+- `2091157090538795089` | 2026-08-22 21:34:36 GMT+8 | reply | https://x.com/iiiinvest/status/2091157090538795089 | @xuesiyuan920 我整理下思路
+- `2091166761718861869` | 2026-08-22 22:13:02 GMT+8 | quote | https://x.com/iiiinvest/status/2091166761718861869 | 这么多想听故事的。。。
+- `2091172449954206102` | 2026-08-22 22:35:38 GMT+8 | reply | https://x.com/iiiinvest/status/2091172449954206102 | @LiamSmithf2c3 这么年轻，这么有眼光，我告送你大学多谈恋爱！！！
+- `2091173366384521419` | 2026-08-22 22:39:17 GMT+8 | reply | https://x.com/iiiinvest/status/2091173366384521419 | @ChocWonderLand 江湖梦，梦江湖，都是江湖臭鱼烂虾，不必
+- `2091353302671962227` | 2026-08-23 10:34:17 GMT+8 | original | https://x.com/iiiinvest/status/2091353302671962227 | 赚钱是有加速度的！
+- `2091355665914868003` | 2026-08-23 10:43:40 GMT+8 | reply | https://x.com/iiiinvest/status/2091355665914868003 | @CryptoRounder 🫡
+- `2091356097856905631` | 2026-08-23 10:45:23 GMT+8 | reply | https://x.com/iiiinvest/status/2091356097856905631 | @ningsongowjw 14年10万，亏损起步！
+- `2091420714553454876` | 2026-08-23 15:02:09 GMT+8 | original | https://x.com/iiiinvest/status/2091420714553454876 | 这周末SpaceX从136跌到134。上次解禁后也经过一个周末，是从133干到最高141。现在周末成了情绪加速器，明天周一SpaceX应该又要去测试130了。
+- `2091421924597674374` | 2026-08-23 15:06:58 GMT+8 | reply | https://x.com/iiiinvest/status/2091421924597674374 | @Tudoukuku 那时候是碰到了大A坑
+- `2091422031392948683` | 2026-08-23 15:07:23 GMT+8 | reply | https://x.com/iiiinvest/status/2091422031392948683 | @Zhubao0pw7 踏实生活
+- `2091422165468147935` | 2026-08-23 15:07:55 GMT+8 | reply | https://x.com/iiiinvest/status/2091422165468147935 | @JonyNian 优化了，最近准备启动了
+- `2091422228760166467` | 2026-08-23 15:08:10 GMT+8 | reply | https://x.com/iiiinvest/status/2091422228760166467 | @ZhaoTim2 一直在输出啊
+- `2091422447581204947` | 2026-08-23 15:09:02 GMT+8 | reply | https://x.com/iiiinvest/status/2091422447581204947 | @adambrownh365 国内国外不串
+- `2091422541508391205` | 2026-08-23 15:09:25 GMT+8 | reply | https://x.com/iiiinvest/status/2091422541508391205 | @lianxiang0 期权我理解还是锦上添花
+- `2091422621040845074` | 2026-08-23 15:09:44 GMT+8 | reply | https://x.com/iiiinvest/status/2091422621040845074 | @x_hao_ge 真实能被人感受到
+- `2091422692197196227` | 2026-08-23 15:10:01 GMT+8 | reply | https://x.com/iiiinvest/status/2091422692197196227 | @sunapocn 加油
+- `2091422982854082967` | 2026-08-23 15:11:10 GMT+8 | reply | https://x.com/iiiinvest/status/2091422982854082967 | @LiamSmithf2c3 先把这种想法掐死
+- `2091423068581470612` | 2026-08-23 15:11:30 GMT+8 | reply | https://x.com/iiiinvest/status/2091423068581470612 | @stuart_2026 代表了情绪
+- `2091423220494999907` | 2026-08-23 15:12:07 GMT+8 | reply | https://x.com/iiiinvest/status/2091423220494999907 | @lbxx247365 😂
+- `2091448167875424539` | 2026-08-23 16:51:15 GMT+8 | original | https://x.com/iiiinvest/status/2091448167875424539 | 看到评论区那么多20多岁的兄弟，我真几把羡慕你们，在这几把不撸自硬的年龄，你不光发现了我，还有那么多时间可以挥霍！
+- `2091448747293352317` | 2026-08-23 16:53:33 GMT+8 | reply | https://x.com/iiiinvest/status/2091448747293352317 | @Reacher7777 相信我，没够
+- `2091457103760343225` | 2026-08-23 17:26:45 GMT+8 | reply | https://x.com/iiiinvest/status/2091457103760343225 | @daisicheng123 认准方向，别几把游到深水区
+- `2091457243644612636` | 2026-08-23 17:27:18 GMT+8 | reply | https://x.com/iiiinvest/status/2091457243644612636 | @en_ya63792 台妹好
+- `2091487744828821960` | 2026-08-23 19:28:30 GMT+8 | reply | https://x.com/iiiinvest/status/2091487744828821960 | @Mercy_okx @qinbafrank 网格现在太死板了，不然DCA+网格完美
+- `2091511172545810874` | 2026-08-23 21:01:36 GMT+8 | original | https://x.com/iiiinvest/status/2091511172545810874 | 趁着周末，把上次说到的比特币的策略说一说，我先码字，一会发出来！
+- `2091533985851519098` | 2026-08-23 22:32:15 GMT+8 | original | https://x.com/iiiinvest/status/2091533985851519098 | 7.6万的比特币，99.9%是机会！  
+- `2091555042398728440` | 2026-08-23 23:55:55 GMT+8 | reply | https://x.com/iiiinvest/status/2091555042398728440 | @U6Za1 还没搞明白怎么接，等
+- `2091555442803736745` | 2026-08-23 23:57:31 GMT+8 | reply | https://x.com/iiiinvest/status/2091555442803736745 | @CryptoRounder 这个车太震了
+- `2091692033081770339` | 2026-08-24 09:00:17 GMT+8 | original | https://x.com/iiiinvest/status/2091692033081770339 | 兄弟们早，新的一周打起精神！
+- `2091698971504955511` | 2026-08-24 09:27:51 GMT+8 | reply | https://x.com/iiiinvest/status/2091698971504955511 | @0tt0b0b 1819069
+- `2091699035640041716` | 2026-08-24 09:28:06 GMT+8 | reply | https://x.com/iiiinvest/status/2091699035640041716 | @yueliangpeng 好的几把
+- `2091699103818482096` | 2026-08-24 09:28:22 GMT+8 | reply | https://x.com/iiiinvest/status/2091699103818482096 | @Dongjia1214 加油
+- `2091727529757536525` | 2026-08-24 11:21:20 GMT+8 | original | https://x.com/iiiinvest/status/2091727529757536525 | 梳理下最近的宏观变化
+- `2091740172291604832` | 2026-08-24 12:11:34 GMT+8 | reply | https://x.com/iiiinvest/status/2091740172291604832 | @huang44034 黄金周期向下，比特币周期向上
+- `2091745438831702400` | 2026-08-24 12:32:30 GMT+8 | reply | https://x.com/iiiinvest/status/2091745438831702400 | @ChocWonderLand 通过稳定币化债是个理想，你先去看看美债多少规模。。。至于美股，更看经济和基本面，活在当下
+- `2091771352248435008` | 2026-08-24 14:15:28 GMT+8 | original | https://x.com/iiiinvest/status/2091771352248435008 | SpaceX 当前持仓者的心理！
+- `2091773641923195283` | 2026-08-24 14:24:34 GMT+8 | reply | https://x.com/iiiinvest/status/2091773641923195283 | @luckybibiw1p 7%
+- `2091773826631876616` | 2026-08-24 14:25:18 GMT+8 | reply | https://x.com/iiiinvest/status/2091773826631876616 | @ZhaochengLi2003 对的，具体跟着市场再修正
+- `2091829451923563005` | 2026-08-24 18:06:20 GMT+8 | original | https://x.com/iiiinvest/status/2091829451923563005 | 比特币今天真硬，不跟美股下跌。且黄金还在涨，结合今天发的宏观变化。
+- `2091830069287350620` | 2026-08-24 18:08:47 GMT+8 | reply | https://x.com/iiiinvest/status/2091830069287350620 | @ULTRAMANACECN 不是一直拿着吗
+- `2091830554618671479` | 2026-08-24 18:10:43 GMT+8 | reply | https://x.com/iiiinvest/status/2091830554618671479 | @CryptoDanta 干
+- `2091830700433707454` | 2026-08-24 18:11:17 GMT+8 | reply | https://x.com/iiiinvest/status/2091830700433707454 | @luckybibiw1p 太硬了，7.9是轧空出来的，但竟然没跌下去，说明这里绝不是顶
+- `2091835335038971930` | 2026-08-24 18:29:42 GMT+8 | quote | https://x.com/iiiinvest/status/2091835335038971930 | 你们能搜到吗，为什么突然这么多关注的，我现在币安实盘是测试盘，策略程序刚跑通！晚点我会具体说下细节！ https://t.co/ZyjwAA9IYD
+- `2091879443161808921` | 2026-08-24 21:24:59 GMT+8 | original | https://x.com/iiiinvest/status/2091879443161808921 | SpaceX盘前133，正常，今天希望插破130！
+- `2091889041772056849` | 2026-08-24 22:03:07 GMT+8 | quote | https://x.com/iiiinvest/status/2091889041772056849 | 开盘骗炮，扫了上方的流动性，还是希望今晚插一下130，哪怕一下，当个渣男吧！ https://t.co/woB1Lwugjs
+- `2091892167405187570` | 2026-08-24 22:15:32 GMT+8 | quote | https://x.com/iiiinvest/status/2091892167405187570 | 刚扫了眼美光，跌破900了。我们935介入空单，967止损。现在看好像不应该止损。
+- `2091893656747921708` | 2026-08-24 22:21:27 GMT+8 | quote | https://x.com/iiiinvest/status/2091893656747921708 | 我怎么做到杀伐果断的？
+- `2091897464433627448` | 2026-08-24 22:36:35 GMT+8 | quote | https://x.com/iiiinvest/status/2091897464433627448 | 比特币今晚要破8万了！
+- `2091907780773028009` | 2026-08-24 23:17:35 GMT+8 | quote | https://x.com/iiiinvest/status/2091907780773028009 | 关于比特币跟单，我开启了强制同步，先跑2天看看，程序如果稳定，那么我会再加些仓位。目前放了50万U，如果你跟不建议太少，100/200U想干嘛，这不是梭哈局！ https://t.co/yNIG2M5QCB
+- `2091917982025032168` | 2026-08-24 23:58:07 GMT+8 | quote | https://x.com/iiiinvest/status/2091917982025032168 | SpaceX还是在震荡，明早看后半夜的情况，晚安兄弟们。几把摆正睡觉！ https://t.co/7k7Inc3Jh2
+- `2092051144537427969` | 2026-08-25 08:47:15 GMT+8 | original | https://x.com/iiiinvest/status/2092051144537427969 | 几把门早！一会复盘下昨晚！
+- `2092065815634100325` | 2026-08-25 09:45:33 GMT+8 | original | https://x.com/iiiinvest/status/2092065815634100325 | 先复盘下昨晚的SpaceX(135)
+- `2092067867151995300` | 2026-08-25 09:53:42 GMT+8 | original | https://x.com/iiiinvest/status/2092067867151995300 | 比特币这波太多踏空的了！
+- `2092076599051223428` | 2026-08-25 10:28:24 GMT+8 | quote | https://x.com/iiiinvest/status/2092076599051223428 | 干丫的，破8万了！ https://t.co/lxTLNdBrDY
+- `2092080006260510899` | 2026-08-25 10:41:57 GMT+8 | reply | https://x.com/iiiinvest/status/2092080006260510899 | @Linlin_0506 上一轮有1股没平，券商算上上一轮赚的了
+- `2092080078813540393` | 2026-08-25 10:42:14 GMT+8 | reply | https://x.com/iiiinvest/status/2092080078813540393 | @ChocWonderLand 没t
+- `2092085122661290162` | 2026-08-25 11:02:16 GMT+8 | original | https://x.com/iiiinvest/status/2092085122661290162 | 洗一下粉，粉丝太多不是好事：不懂感恩的请取关！天天必须赚钱的请取关！几把硬不起来的请取关！
+- `2092085738695503904` | 2026-08-25 11:04:43 GMT+8 | reply | https://x.com/iiiinvest/status/2092085738695503904 | @Jupiterxoxoxo 不然怎么办，先把相看两厌的去掉
+- `2092088902790287634` | 2026-08-25 11:17:18 GMT+8 | reply | https://x.com/iiiinvest/status/2092088902790287634 | @Ameniiiiiiiiii 硬好
+- `2092090690343948463` | 2026-08-25 11:24:24 GMT+8 | original | https://x.com/iiiinvest/status/2092090690343948463 | 硬不硬，行不行，不用逼逼，送给黑子一句话：快来实盘，别他妈事后诸葛亮。
+- `2092094937680806068` | 2026-08-25 11:41:17 GMT+8 | original | https://x.com/iiiinvest/status/2092094937680806068 | 来，跟着我赚钱的点赞！给黑子看下，给黑子粉丝看下！
+- `2092128502254637392` | 2026-08-25 13:54:39 GMT+8 | original | https://x.com/iiiinvest/status/2092128502254637392 | 兄弟们，求教：怎么才能不让黑子看我分享。。。我他妈想吐，真心喂给白眼狼的感觉！
+- `2092174015456809241` | 2026-08-25 16:55:30 GMT+8 | original | https://x.com/iiiinvest/status/2092174015456809241 | 兄弟们，我也是普通人！
+- `2092177929069556093` | 2026-08-25 17:11:03 GMT+8 | reply | https://x.com/iiiinvest/status/2092177929069556093 | @tf3ZInIRHt11922 狠狠赚
+- `2092178000897028521` | 2026-08-25 17:11:20 GMT+8 | reply | https://x.com/iiiinvest/status/2092178000897028521 | @wm21987 谢谢
+- `2092184090732847462` | 2026-08-25 17:35:32 GMT+8 | original | https://x.com/iiiinvest/status/2092184090732847462 | 美光我赚了不少，不少兄弟问我意见，我感觉接下来进入困难模式了。我比较擅长趋势，做对后拿的住，但震荡行情不适合！
+- `2092200242099933274` | 2026-08-25 18:39:43 GMT+8 | original | https://x.com/iiiinvest/status/2092200242099933274 | SpaceX空单还有多少没平的？
+- `2092203160790331485` | 2026-08-25 18:51:19 GMT+8 | quote | https://x.com/iiiinvest/status/2092203160790331485 | 还不少，兄弟们，你们能成！今晚等我消息！记住：我买入发卖出一定会发，中间没发就是没动！ https://t.co/aIjNpPXm9j
+- `2092211738381091068` | 2026-08-25 19:25:24 GMT+8 | quote | https://x.com/iiiinvest/status/2092211738381091068 | 应对比特币踏空，我的计划！
+- `2092213125089231046` | 2026-08-25 19:30:55 GMT+8 | reply | https://x.com/iiiinvest/status/2092213125089231046 | @lu_zheng24352 这两篇讲的差不多了
+- `2092213159314817472` | 2026-08-25 19:31:03 GMT+8 | reply | https://x.com/iiiinvest/status/2092213159314817472 | @lpo967924153671 机器
+- `2092215802145677655` | 2026-08-25 19:41:33 GMT+8 | reply | https://x.com/iiiinvest/status/2092215802145677655 | @tf3ZInIRHt11922 也可以，但波动太大，比比特币还难把握
+- `2092220530900570490` | 2026-08-25 20:00:20 GMT+8 | original | https://x.com/iiiinvest/status/2092220530900570490 | 弱势是怎么都上不去
+- `2092239927111254083` | 2026-08-25 21:17:25 GMT+8 | original | https://x.com/iiiinvest/status/2092239927111254083 | 现在盘前看SpaceX很难破130了，那么今晚就平仓了，开盘看！
+- `2092249137173721130` | 2026-08-25 21:54:01 GMT+8 | quote | https://x.com/iiiinvest/status/2092249137173721130 | 还没平，再等等 https://t.co/P7FWgy1mxt
+- `2092253897700323660` | 2026-08-25 22:12:56 GMT+8 | quote | https://x.com/iiiinvest/status/2092253897700323660 | 137全平了！ https://t.co/dpH3MvqeR3
+- `2092255619227189440` | 2026-08-25 22:19:46 GMT+8 | original | https://x.com/iiiinvest/status/2092255619227189440 | SpaceX 从149下来这一波，整体看下来，包括第一轮解禁后的上涨，叠加第二轮解禁后的下跌，整体还是比较强的。说明在135这个位置，没更多人愿意卖了！
+- `2092260871636746620` | 2026-08-25 22:40:38 GMT+8 | reply | https://x.com/iiiinvest/status/2092260871636746620 | @Myron_26 😭
+- `2092260993145679901` | 2026-08-25 22:41:07 GMT+8 | reply | https://x.com/iiiinvest/status/2092260993145679901 | @Smith99Dean 恭喜
+- `2092262543704428983` | 2026-08-25 22:47:17 GMT+8 | original | https://x.com/iiiinvest/status/2092262543704428983 | 最近粉丝确实涨太快了。
+- `2092264092170150332` | 2026-08-25 22:53:26 GMT+8 | reply | https://x.com/iiiinvest/status/2092264092170150332 | @7O5Kn1gcvmyFc35 99%的人踏空
+- `2092264575886667977` | 2026-08-25 22:55:21 GMT+8 | reply | https://x.com/iiiinvest/status/2092264575886667977 | @RachelWUyim 搜：电鱼哥实盘
+- `2092265604468322504` | 2026-08-25 22:59:27 GMT+8 | reply | https://x.com/iiiinvest/status/2092265604468322504 | @ZhaochengLi2003 下一波见
+- `2092265658537107949` | 2026-08-25 22:59:40 GMT+8 | reply | https://x.com/iiiinvest/status/2092265658537107949 | @tf3ZInIRHt11922 爱你兄弟
+- `2092265802594685234` | 2026-08-25 23:00:14 GMT+8 | reply | https://x.com/iiiinvest/status/2092265802594685234 | @LeoLee510232 关键跟着赚钱了。。。
+- `2092276627275477451` | 2026-08-25 23:43:15 GMT+8 | original | https://x.com/iiiinvest/status/2092276627275477451 | 睡了兄弟们，平完大火箭有点空虚，那种感觉你应该懂！
+- `2092421328641146909` | 2026-08-26 09:18:14 GMT+8 | original | https://x.com/iiiinvest/status/2092421328641146909 | 早，几把门
+- `2092425021813821509` | 2026-08-26 09:32:55 GMT+8 | reply | https://x.com/iiiinvest/status/2092425021813821509 | @tf3ZInIRHt11922 如果不考虑机会成本也可以，3年你想想
+- `2092425258347409775` | 2026-08-26 09:33:51 GMT+8 | reply | https://x.com/iiiinvest/status/2092425258347409775 | @HUDSONZHGHX 第一天150开盘，现在137，你说真的吗？？
+- `2092442742836408507` | 2026-08-26 10:43:20 GMT+8 | reply | https://x.com/iiiinvest/status/2092442742836408507 | @YangHanxia46795 网格太死板，举个例子开仓就打满，你可以去实盘看下我那个程序怎么跑的，有能力自己开发个
+- `2092461090747613337` | 2026-08-26 11:56:14 GMT+8 | original | https://x.com/iiiinvest/status/2092461090747613337 | SpaceX 赚157.8万美金逻辑及启发！
+- `2092473814303293483` | 2026-08-26 12:46:48 GMT+8 | reply | https://x.com/iiiinvest/status/2092473814303293483 | @xuesiyuan920 加油
+- `2092473829004345506` | 2026-08-26 12:46:51 GMT+8 | reply | https://x.com/iiiinvest/status/2092473829004345506 | @tf3ZInIRHt11922 牛
+- `2092473933828399613` | 2026-08-26 12:47:16 GMT+8 | reply | https://x.com/iiiinvest/status/2092473933828399613 | @lovepisss 加油
+- `2092474059221291023` | 2026-08-26 12:47:46 GMT+8 | reply | https://x.com/iiiinvest/status/2092474059221291023 | @WoMengdie1 我们走了，买卖逻辑要一致，建议走掉
+- `2092474098647814436` | 2026-08-26 12:47:56 GMT+8 | reply | https://x.com/iiiinvest/status/2092474098647814436 | @YangHanxia46795 哈哈，应该不会
+- `2092474152158691465` | 2026-08-26 12:48:08 GMT+8 | original | https://x.com/iiiinvest/status/2092474152158691465 | @rraa68735 牛了
+- `2092528980234764300` | 2026-08-26 16:26:00 GMT+8 | original | https://x.com/iiiinvest/status/2092528980234764300 | 上次投票，大概50%的兄弟没有参与过比特币！这里我提个醒！
+- `2092530025539273160` | 2026-08-26 16:30:10 GMT+8 | reply | https://x.com/iiiinvest/status/2092530025539273160 | @nickzhao951 也不行
+- `2092530097219842477` | 2026-08-26 16:30:27 GMT+8 | reply | https://x.com/iiiinvest/status/2092530097219842477 | @kngbb735920 不懂照做，不然被割
+- `2092532891695894570` | 2026-08-26 16:41:33 GMT+8 | original | https://x.com/iiiinvest/status/2092532891695894570 | 扶老人要赔钱
+- `2092541757640913069` | 2026-08-26 17:16:47 GMT+8 | reply | https://x.com/iiiinvest/status/2092541757640913069 | @Qqq3wnr 交易又不是脱口秀
+- `2092553536945127624` | 2026-08-26 18:03:35 GMT+8 | original | https://x.com/iiiinvest/status/2092553536945127624 | 今晚盘后英伟达财报，对整个半导体板块应该有比较大影响，叠加最近屎一样的流动性，我感觉有交易机会！
+- `2092601433065672728` | 2026-08-26 21:13:54 GMT+8 | original | https://x.com/iiiinvest/status/2092601433065672728 | 逻辑写好了，但盘前跌的没法下手，等开盘看看，合适就做不合适就算了，不硬上！
+- `2092612663155290175` | 2026-08-26 21:58:32 GMT+8 | quote | https://x.com/iiiinvest/status/2092612663155290175 | 开盘看，半导体板块是弱于大盘的，说明有避险需求，我再观察下，如果操作会同步出来！ https://t.co/CqZwxWANVa
+- `2092615292338032812` | 2026-08-26 22:08:59 GMT+8 | original | https://x.com/iiiinvest/status/2092615292338032812 | 干！116做空三倍半导体SOXL！
+- `2092615424383074806` | 2026-08-26 22:09:30 GMT+8 | original | https://x.com/iiiinvest/status/2092615424383074806 | 干！116做空三倍半导体SOXL！
+- `2092618430751117646` | 2026-08-26 22:21:27 GMT+8 | reply | https://x.com/iiiinvest/status/2092618430751117646 | @JonyNian 也行
+- `2092618770028364095` | 2026-08-26 22:22:48 GMT+8 | original | https://x.com/iiiinvest/status/2092618770028364095 | 妈的，行情给饭吃啊！兄弟们跟上了吗？
+- `2092629940458172837` | 2026-08-26 23:07:11 GMT+8 | original | https://x.com/iiiinvest/status/2092629940458172837 | 按照计划来，如果尾盘跌的多可以考虑出一半，比如设个条件单，我感觉可以试试110附近。如果半死不活就等英伟达财报出来了。
+- `2092639989071032395` | 2026-08-26 23:47:07 GMT+8 | original | https://x.com/iiiinvest/status/2092639989071032395 | 几把摆正睡觉了！设好条件单，不纠结，等盘面给出答案！
+- `2092761879651446854` | 2026-08-27 07:51:28 GMT+8 | original | https://x.com/iiiinvest/status/2092761879651446854 | 醒了，赌错了。今天找机会平仓了！
+- `2092779893616763244` | 2026-08-27 09:03:03 GMT+8 | original | https://x.com/iiiinvest/status/2092779893616763244 | 121止损了，这单亏了8万美金！交易上我认为没问题，没想到英伟达把明年预期也打出来了！
+- `2092780787967947254` | 2026-08-27 09:06:36 GMT+8 | reply | https://x.com/iiiinvest/status/2092780787967947254 | @mingyueqwo 事后看是对的，但交易向前看！
+- `2092787726252904628` | 2026-08-27 09:34:10 GMT+8 | reply | https://x.com/iiiinvest/status/2092787726252904628 | @yuanM96445 每一单的逻辑独立看
+- `2092788027747934275` | 2026-08-27 09:35:22 GMT+8 | original | https://x.com/iiiinvest/status/2092788027747934275 | 对不住啊兄弟们，这单没赚到！我下次会做得更好一些！
+- `2092791712804700582` | 2026-08-27 09:50:01 GMT+8 | reply | https://x.com/iiiinvest/status/2092791712804700582 | @Trash_ich_bin 给你点赞
+- `2092791910742278642` | 2026-08-27 09:50:48 GMT+8 | reply | https://x.com/iiiinvest/status/2092791910742278642 | @sharejiyi 恭喜
+- `2092792053717725321` | 2026-08-27 09:51:22 GMT+8 | original | https://x.com/iiiinvest/status/2092792053717725321 | @maEdward194499 等等看，我感觉先抓住逻辑才能下单
+- `2092792115457937827` | 2026-08-27 09:51:37 GMT+8 | original | https://x.com/iiiinvest/status/2092792115457937827 | @eclipse111222 好的。我弹
+- `2092792143777780115` | 2026-08-27 09:51:43 GMT+8 | reply | https://x.com/iiiinvest/status/2092792143777780115 | @HugoWong556 谢谢
+- `2092792231774367778` | 2026-08-27 09:52:04 GMT+8 | reply | https://x.com/iiiinvest/status/2092792231774367778 | @zhongtao344663 真心
+- `2092816531378106426` | 2026-08-27 11:28:38 GMT+8 | original | https://x.com/iiiinvest/status/2092816531378106426 | 逻辑对也可能亏，逻辑错也可能赚。一切，以市场为准！❤️
+- `2092852194370564596` | 2026-08-27 13:50:21 GMT+8 | reply | https://x.com/iiiinvest/status/2092852194370564596 | @NNCG09863596 不能为了开单而开单
+- `2092907555785974129` | 2026-08-27 17:30:20 GMT+8 | original | https://x.com/iiiinvest/status/2092907555785974129 | 比特币再次突破8万，按照计划，我把底仓30个比特币加上了，现在就是通过网格不断降低持仓成本的阶段！
+- `2092910587005239513` | 2026-08-27 17:42:22 GMT+8 | reply | https://x.com/iiiinvest/status/2092910587005239513 | @kngzhjngji21338 。。。因噎废食
+- `2092926547070226531` | 2026-08-27 18:45:48 GMT+8 | reply | https://x.com/iiiinvest/status/2092926547070226531 | @kngzhjngji21338 @ikun243402 啊，什么鬼这手续费，截个图看下
+- `2092926676007264628` | 2026-08-27 18:46:18 GMT+8 | reply | https://x.com/iiiinvest/status/2092926676007264628 | @WoMengdie1 也可以，币圈有点api和资金利用率优势
+- `2092926730914902380` | 2026-08-27 18:46:32 GMT+8 | reply | https://x.com/iiiinvest/status/2092926730914902380 | @bin_li76466 你要去理解下网格原理
+- `2092926814478090575` | 2026-08-27 18:46:51 GMT+8 | reply | https://x.com/iiiinvest/status/2092926814478090575 | @wenbin2164 对，初始不做底仓或很少底仓
+- `2092970974077747516` | 2026-08-27 21:42:20 GMT+8 | original | https://x.com/iiiinvest/status/2092970974077747516 | 开盘了，我一般开盘会看一会，保持下盘感。但如果抓不到逻辑就不开单。没仓位很轻松，relax~
+- `2093004027521044802` | 2026-08-27 23:53:40 GMT+8 | original | https://x.com/iiiinvest/status/2093004027521044802 | 比特币第3次突破8万！
+- `2093005390011310376` | 2026-08-27 23:59:05 GMT+8 | reply | https://x.com/iiiinvest/status/2093005390011310376 | @mingze889 关注那个赚钱吗
+- `2093005484823654855` | 2026-08-27 23:59:28 GMT+8 | reply | https://x.com/iiiinvest/status/2093005484823654855 | @hamuul_eludoria 概率越来越低了，我个人感觉回6的概率低于5%
+- `2093005513323897025` | 2026-08-27 23:59:35 GMT+8 | reply | https://x.com/iiiinvest/status/2093005513323897025 | @Jyong4883Jyong 等机会
+- `2093006600529412268` | 2026-08-28 00:03:54 GMT+8 | original | https://x.com/iiiinvest/status/2093006600529412268 | 关于SpaceX，现在就是去摸一下这段震荡的上沿，然后再下次解禁前，应该还有回调。
+- `2093006823964242140` | 2026-08-28 00:04:47 GMT+8 | reply | https://x.com/iiiinvest/status/2093006823964242140 | @ChocWonderLand 我反正底仓有了，不慌不怕
+- `2093006916264063481` | 2026-08-28 00:05:09 GMT+8 | reply | https://x.com/iiiinvest/status/2093006916264063481 | @YangFanKing 只一次？
+- `2093146060491473227` | 2026-08-28 09:18:04 GMT+8 | original | https://x.com/iiiinvest/status/2093146060491473227 | 早，几把门
+- `2093147188230791527` | 2026-08-28 09:22:33 GMT+8 | reply | https://x.com/iiiinvest/status/2093147188230791527 | @raindrop667 肯定做啊，这不还没来吗
+- `2093147208724152727` | 2026-08-28 09:22:38 GMT+8 | reply | https://x.com/iiiinvest/status/2093147208724152727 | @0x417276 早
+- `2093156619786072196` | 2026-08-28 10:00:01 GMT+8 | original | https://x.com/iiiinvest/status/2093156619786072196 | 早点去魅
+- `2093176046497747273` | 2026-08-28 11:17:13 GMT+8 | original | https://x.com/iiiinvest/status/2093176046497747273 | 兄弟们，币安这几个徽章有代表性吗？如果有代表性，黑我的那些大佬是不是能力更强？有没有真牛逼不口嗨的我去关注下！ https://t.co/iinNpjMFHj
+- `2093178757834236201` | 2026-08-28 11:27:59 GMT+8 | reply | https://x.com/iiiinvest/status/2093178757834236201 | @Jyong4883Jyong 让兄弟们知道点真相不好吗
+- `2093194172052431306` | 2026-08-28 12:29:14 GMT+8 | reply | https://x.com/iiiinvest/status/2093194172052431306 | @zhongtao344663 不是，普通211
+- `2093205862613680231` | 2026-08-28 13:15:42 GMT+8 | original | https://x.com/iiiinvest/status/2093205862613680231 | 我要赚5000万美金。以前虚无缥缈的目标，有了现实模样！
+- `2093206473786712440` | 2026-08-28 13:18:07 GMT+8 | reply | https://x.com/iiiinvest/status/2093206473786712440 | @xgj199606 应该是很早期爆仓导致的。。。
+- `2093206908597596581` | 2026-08-28 13:19:51 GMT+8 | reply | https://x.com/iiiinvest/status/2093206908597596581 | @12youngwon21 一定行
+- `2093206968798503389` | 2026-08-28 13:20:05 GMT+8 | reply | https://x.com/iiiinvest/status/2093206968798503389 | @tf3ZInIRHt11922 让几把支棱起来
+- `2093210140874805757` | 2026-08-28 13:32:42 GMT+8 | original | https://x.com/iiiinvest/status/2093210140874805757 | 站在话事人的角度去投资
+- `2093244114859069925` | 2026-08-28 15:47:42 GMT+8 | reply | https://x.com/iiiinvest/status/2093244114859069925 | @jackcjking99 加油
+- `2093244140293423208` | 2026-08-28 15:47:48 GMT+8 | reply | https://x.com/iiiinvest/status/2093244140293423208 | @jianbing_j39971 好的
+- `2093277099045875990` | 2026-08-28 17:58:46 GMT+8 | reply | https://x.com/iiiinvest/status/2093277099045875990 | @YangHanxia46795 肯定有些赌的成分，但考虑少了一些
+- `2093319836684448091` | 2026-08-28 20:48:35 GMT+8 | original | https://x.com/iiiinvest/status/2093319836684448091 | 震荡市场，无聊。想玩短线的多不多？
+- `2093322611589829033` | 2026-08-28 20:59:37 GMT+8 | original | https://x.com/iiiinvest/status/2093322611589829033 | 短线有几个好处
+- `2093329296773513607` | 2026-08-28 21:26:11 GMT+8 | quote | https://x.com/iiiinvest/status/2093329296773513607 | 如果今晚让我选标的，盘前看我会选SOXL，主要原因是看和大盘的强弱关系！
+- `2093331726303203834` | 2026-08-28 21:35:50 GMT+8 | quote | https://x.com/iiiinvest/status/2093331726303203834 | 空了一点 https://t.co/EX8E4la1IX
+- `2093333081541513683` | 2026-08-28 21:41:13 GMT+8 | quote | https://x.com/iiiinvest/status/2093333081541513683 | 损掉了，大盘拉红了，没意思了 https://t.co/0YYJ4woNpP
+- `2093333609432408154` | 2026-08-28 21:43:19 GMT+8 | quote | https://x.com/iiiinvest/status/2093333609432408154 | 不行，短线心理压力太大，还影响我自己操作。。。 https://t.co/kPjLjS9Sb8
+- `2093338682967359589` | 2026-08-28 22:03:29 GMT+8 | quote | https://x.com/iiiinvest/status/2093338682967359589 | 半导体亏1000多，英伟达撸了1000多，没意思，还不如理财。。。 https://t.co/pO7gFJ2F1X https://t.co/E2jfQLHjWU
+- `2093348256369528860` | 2026-08-28 22:41:31 GMT+8 | quote | https://x.com/iiiinvest/status/2093348256369528860 | 继续撸英伟达赚了1万美金，今晚结束了。短线带不了，光下单就几秒，还得来回切换打字，都看不了盘。。。兄弟们，也算尝试了 https://t.co/iZKaZtC2gj https://t.co/GEhtTMghOs
+- `2093349517458551093` | 2026-08-28 22:46:32 GMT+8 | reply | https://x.com/iiiinvest/status/2093349517458551093 | @lovepisss 也是个办法
+- `2093364175607304333` | 2026-08-28 23:44:46 GMT+8 | original | https://x.com/iiiinvest/status/2093364175607304333 | 兄弟们，你们应该能感受到我想让你们多赚点的小心脏。奈何短线确实难同步，我VPN每次在券商下单还得赚2圈。且到X再打字，很多时候就和行情割裂开了。
+- `2093533229600866770` | 2026-08-29 10:56:32 GMT+8 | original | https://x.com/iiiinvest/status/2093533229600866770 | 几把门
+- `2093534936426819659` | 2026-08-29 11:03:19 GMT+8 | reply | https://x.com/iiiinvest/status/2093534936426819659 | @Jackyi_ld @cz_binance 你个傻逼才是最大的蹭溜子，自己把自己当OG，忘记自己是镰刀了？忘了要不要帮你回忆下？
+- `2093535503748386948` | 2026-08-29 11:05:34 GMT+8 | original | https://x.com/iiiinvest/status/2093535503748386948 | 臭傻逼易理华，我18年见他的时候，他还是李笑来的一条走狗，站在自诩币圈OG，自己做过的烂事一大堆，为什么大家说币圈是粪坑，就是这群臭傻逼弄的！
+- `2093667671355064420` | 2026-08-29 19:50:45 GMT+8 | reply | https://x.com/iiiinvest/status/2093667671355064420 | @jianbing_j39971 哎，人生坑坑洼洼
+- `2093668181751611901` | 2026-08-29 19:52:47 GMT+8 | original | https://x.com/iiiinvest/status/2093668181751611901 | 吃了顿自助餐，吃撑了。明天去澳门坐坐发财车💰🚗 https://t.co/YMTCCQW5As
+- `2093823129378271643` | 2026-08-30 06:08:30 GMT+8 | reply | https://x.com/iiiinvest/status/2093823129378271643 | @lpo967924153671 哎，给点时间吧
+- `2093850810874511859` | 2026-08-30 07:58:29 GMT+8 | reply | https://x.com/iiiinvest/status/2093850810874511859 | @yijiebuyi1989 来个受害者，是不是进入连个屁都没有，全广告
+- `2093851000016711708` | 2026-08-30 07:59:14 GMT+8 | reply | https://x.com/iiiinvest/status/2093851000016711708 | @laojiucai228 他其实是小喽啰，被他上面的人掩盖住了
+- `2093861002550907389` | 2026-08-30 08:38:59 GMT+8 | original | https://x.com/iiiinvest/status/2093861002550907389 | 你看币圈这群所谓大佬OG，有几个能回国的？知道为什么吗？
+- `2093933740523208765` | 2026-08-30 13:28:01 GMT+8 | reply | https://x.com/iiiinvest/status/2093933740523208765 | @feb_pain 你以为是不想吗
+- `2093943830760604040` | 2026-08-30 14:08:07 GMT+8 | original | https://x.com/iiiinvest/status/2093943830760604040 | 精简你关注的人
+- `2094009704405926019` | 2026-08-30 18:29:53 GMT+8 | original | https://x.com/iiiinvest/status/2094009704405926019 | 新人，特别是刚投资美股没多久的兄弟。在我这里，可以忽略SpaceX以外的交易。
+- `2094011743856927089` | 2026-08-30 18:37:59 GMT+8 | reply | https://x.com/iiiinvest/status/2094011743856927089 | @klm67280349 最近糟心，等静下心来再说吧
+- `2094011816523264409` | 2026-08-30 18:38:16 GMT+8 | reply | https://x.com/iiiinvest/status/2094011816523264409 | @lcka131 国内不叫新闻
+- `2094011982907125895` | 2026-08-30 18:38:56 GMT+8 | reply | https://x.com/iiiinvest/status/2094011982907125895 | @HugoWong556 我遇到好博主会分享给大家
+- `2094012029996527721` | 2026-08-30 18:39:07 GMT+8 | reply | https://x.com/iiiinvest/status/2094012029996527721 | @panzer_LHN 那也，，不是不可以
+- `2094054532758036716` | 2026-08-30 21:28:00 GMT+8 | reply | https://x.com/iiiinvest/status/2094054532758036716 | @HugoWong556 那个上市可以搞
+- `2094072428750139452` | 2026-08-30 22:39:07 GMT+8 | original | https://x.com/iiiinvest/status/2094072428750139452 | 澳门赌场真几把落寞了
+- `2094075010000310296` | 2026-08-30 22:49:23 GMT+8 | reply | https://x.com/iiiinvest/status/2094075010000310296 | @tf3ZInIRHt11922 抛媚眼的，一律当病毒屏蔽
+- `2094224603857977752` | 2026-08-31 08:43:49 GMT+8 | original | https://x.com/iiiinvest/status/2094224603857977752 | 早，几把门
+- `2094236197560168795` | 2026-08-31 09:29:53 GMT+8 | reply | https://x.com/iiiinvest/status/2094236197560168795 | @08me 确实硬
+- `2094236286311612788` | 2026-08-31 09:30:14 GMT+8 | reply | https://x.com/iiiinvest/status/2094236286311612788 | @DavidTao4133 等市场给机会
+- `2094244679634325506` | 2026-08-31 10:03:35 GMT+8 | original | https://x.com/iiiinvest/status/2094244679634325506 | 说点真的，拿住趋势单的要点
+- `2094268642028343455` | 2026-08-31 11:38:48 GMT+8 | reply | https://x.com/iiiinvest/status/2094268642028343455 | @wYxoNiflaj44613 你的意思是长持吗
+- `2094309333450534970` | 2026-08-31 14:20:30 GMT+8 | original | https://x.com/iiiinvest/status/2094309333450534970 | 价格不重要，重要的是趋势。
+- `2094321848272277791` | 2026-08-31 15:10:13 GMT+8 | reply | https://x.com/iiiinvest/status/2094321848272277791 | @ChocWonderLand 等等
+- `2094324677124743553` | 2026-08-31 15:21:28 GMT+8 | reply | https://x.com/iiiinvest/status/2094324677124743553 | @Bob221111 加油
+- `2094324707491496176` | 2026-08-31 15:21:35 GMT+8 | reply | https://x.com/iiiinvest/status/2094324707491496176 | @Noctua_btc 趋势赚大钱
+- `2094324744715899240` | 2026-08-31 15:21:44 GMT+8 | reply | https://x.com/iiiinvest/status/2094324744715899240 | @toudengcang 是不敢
+- `2094324801401983481` | 2026-08-31 15:21:57 GMT+8 | reply | https://x.com/iiiinvest/status/2094324801401983481 | @gegewu1985 但价格变了
+- `2094324827649876373` | 2026-08-31 15:22:04 GMT+8 | reply | https://x.com/iiiinvest/status/2094324827649876373 | @Yangligege 等，兄弟
+- `2094324851955916945` | 2026-08-31 15:22:10 GMT+8 | reply | https://x.com/iiiinvest/status/2094324851955916945 | @0x417276 必须的
+- `2094324888979067227` | 2026-08-31 15:22:18 GMT+8 | reply | https://x.com/iiiinvest/status/2094324888979067227 | @zhangjiazhou23 等
+- `2094365562633896084` | 2026-08-31 18:03:56 GMT+8 | original | https://x.com/iiiinvest/status/2094365562633896084 | 说下盘前看到的几个现象
+- `2094381057953108161` | 2026-08-31 19:05:30 GMT+8 | reply | https://x.com/iiiinvest/status/2094381057953108161 | @CryptoRounder 比特币最近很硬，个人感觉还有一波，可能会冲破82去骗些流动性
+- `2094381692727570501` | 2026-08-31 19:08:01 GMT+8 | quote | https://x.com/iiiinvest/status/2094381692727570501 | 我准备盘前8点左右看下，如果大盘还这样，我准备冲一些半导体SOXL多单，性价比还是有的，开盘最起码应该冲一下，再等下！ https://t.co/ddO8QZ17Jw
+- `2094384285621092367` | 2026-08-31 19:18:20 GMT+8 | reply | https://x.com/iiiinvest/status/2094384285621092367 | @silverfang88 没憋住，拉了
+- `2094415362997768634` | 2026-08-31 21:21:49 GMT+8 | quote | https://x.com/iiiinvest/status/2094415362997768634 | 盘前111买了点SOXL多单，仓位不大，准备开盘再看下，如果能稳住追都可以，但怕不稳！相当于先打个头仓。 https://t.co/Dlo1uVTEkk https://t.co/o0wvRkbQQZ
+- `2094424434153275606` | 2026-08-31 21:57:52 GMT+8 | quote | https://x.com/iiiinvest/status/2094424434153275606 | 开盘这半小时，半导体存储强，大科技弱，又是跷跷板。目前场内资金热度不高，东边亮了西边就得灭，很难普涨，所以指数机会不大，就是找结构性行情。
+- `2094430959383028094` | 2026-08-31 22:23:48 GMT+8 | original | https://x.com/iiiinvest/status/2094430959383028094 | 再次感慨，行情淡的蛋疼
+- `2094433781155537237` | 2026-08-31 22:35:00 GMT+8 | reply | https://x.com/iiiinvest/status/2094433781155537237 | @xiaominshengdou 是
+- `2094433865020686705` | 2026-08-31 22:35:20 GMT+8 | reply | https://x.com/iiiinvest/status/2094433865020686705 | @xxx1174403 确实
+- `2094433929726165047` | 2026-08-31 22:35:36 GMT+8 | reply | https://x.com/iiiinvest/status/2094433929726165047 | @1092642y 这啥玩意
+- `2094436356265308241` | 2026-08-31 22:45:14 GMT+8 | original | https://x.com/iiiinvest/status/2094436356265308241 | 妈的，SpaceX这厮竟然走出了超级玛丽行情，每天1个点上涨了5天，现在我们就重点关注145和150关键点位，以及9.9号解禁窗口。
+- `2094438165658657186` | 2026-08-31 22:52:26 GMT+8 | reply | https://x.com/iiiinvest/status/2094438165658657186 | @wang_hao23575 哒哒哒
+- `2094438267253146109` | 2026-08-31 22:52:50 GMT+8 | reply | https://x.com/iiiinvest/status/2094438267253146109 | @JansL438837 阅读理解不过关啊，这不明显在等吗
+- `2094441553486045579` | 2026-08-31 23:05:53 GMT+8 | quote | https://x.com/iiiinvest/status/2094441553486045579 | 半导体，还是走弱了。盘前打的头仓你可以选择原价走掉，或者像我一样设个110止损，不破就拿着，现在行情比较难走趋势单，震荡行情尽量减少磨损！ https://t.co/r6AeXidomh
+- `2094449451339534680` | 2026-08-31 23:37:16 GMT+8 | original | https://x.com/iiiinvest/status/2094449451339534680 | 几把摆正，睡了！
+- `2100070221113700531` | 2026-09-16 11:52:12 GMT+8 | reply | https://x.com/iiiinvest/status/2100070221113700531 | @Gp6Ps 市场已经定价2次了，还能怎么坏，主要看公布后市场怎么选
+- `2100070409211437068` | 2026-09-16 11:52:57 GMT+8 | reply | https://x.com/iiiinvest/status/2100070409211437068 | @wang_hao23575 是啊，中间还来个乌鸦嘴
+- `2100070458444161255` | 2026-09-16 11:53:09 GMT+8 | reply | https://x.com/iiiinvest/status/2100070458444161255 | @mj99admin 😭
+- `2100120052926439856` | 2026-09-16 15:10:13 GMT+8 | reply | https://x.com/iiiinvest/status/2100120052926439856 | @XLuluRich 来
+- `2100127069841785169` | 2026-09-16 15:38:06 GMT+8 | quote | https://x.com/iiiinvest/status/2100127069841785169 | 从亏55万到亏35万了。今晚决战，鱼哥将坚守阵地，兄弟们有计划吗？ https://t.co/4jsykKvPFM https://t.co/eIhOpWOiZ5
+- `2100130528527798332` | 2026-09-16 15:51:51 GMT+8 | reply | https://x.com/iiiinvest/status/2100130528527798332 | @k4rlxu 没动
+- `2100202435210105343` | 2026-09-16 20:37:35 GMT+8 | quote | https://x.com/iiiinvest/status/2100202435210105343 | 美债收益率和油还在回调，今晚美股大概率高开了，这时候更要关注的是如何应对了。
+- `2100228146205478937` | 2026-09-16 22:19:45 GMT+8 | quote | https://x.com/iiiinvest/status/2100228146205478937 | 开盘后，能感觉到很多资金在犹豫，等议息会议的不会少，这批资金也是议息会议后的潜在多头。
+- `2100244462601634298` | 2026-09-16 23:24:35 GMT+8 | original | https://x.com/iiiinvest/status/2100244462601634298 | SpaceX 的庄太坏了。昨天砸破145，让不坚定的下车。然后今天快速拉回到150上方，没花多少成本。
+- `2100251311140962365` | 2026-09-16 23:51:48 GMT+8 | reply | https://x.com/iiiinvest/status/2100251311140962365 | @Vann1490751 大概率追高的主
+- `2100251399275905401` | 2026-09-16 23:52:09 GMT+8 | reply | https://x.com/iiiinvest/status/2100251399275905401 | @Kkkkkkkwzat 都这么认为，我反而感觉周五前很大概率破，看看吧
+- `2100253614967251000` | 2026-09-17 00:00:57 GMT+8 | quote | https://x.com/iiiinvest/status/2100253614967251000 | 还有2个小时，加息预期落地。
+- `2100255477213147322` | 2026-09-17 00:08:21 GMT+8 | reply | https://x.com/iiiinvest/status/2100255477213147322 | @FeiyangXu81114 我也做了接针的准备，挂的70-75之间
+- `2100255582427189347` | 2026-09-17 00:08:46 GMT+8 | reply | https://x.com/iiiinvest/status/2100255582427189347 | @BestSPCX 都一样，我都做了点减仓，看个人。大仓位没动
+- `2100259821387931795` | 2026-09-17 00:25:37 GMT+8 | original | https://x.com/iiiinvest/status/2100259821387931795 | 我认为今晚要重点关注比特币及币股的机会。
+- `2100261847505252510` | 2026-09-17 00:33:40 GMT+8 | reply | https://x.com/iiiinvest/status/2100261847505252510 | @Kaman2X 嗯，等2点前的低点呢
+- `2100262378235703769` | 2026-09-17 00:35:46 GMT+8 | original | https://x.com/iiiinvest/status/2100262378235703769 | 多少没睡的，👏🏻互动下，好久没和兄弟们一起熬夜了！
+- `2100263252525744183` | 2026-09-17 00:39:15 GMT+8 | reply | https://x.com/iiiinvest/status/2100263252525744183 | @Magangbig mstr 125其实不错，再等等看会
+- `2100263329906504036` | 2026-09-17 00:39:33 GMT+8 | reply | https://x.com/iiiinvest/status/2100263329906504036 | @Xmasterofnone 损个几把，还准备加呢
+- `2100263408134422640` | 2026-09-17 00:39:52 GMT+8 | reply | https://x.com/iiiinvest/status/2100263408134422640 | @Kaman2X 。。。用你提醒了
+- `2100265677349388400` | 2026-09-17 00:48:53 GMT+8 | quote | https://x.com/iiiinvest/status/2100265677349388400 | 不等了，先加了一些MSTR，感觉跌不下去。留部分子弹到2点后。 https://t.co/rEn8z5ygao
+- `2100271726265606267` | 2026-09-17 01:12:55 GMT+8 | reply | https://x.com/iiiinvest/status/2100271726265606267 | @Kevin97055854 起来嗨
+- `2100271818531918211` | 2026-09-17 01:13:17 GMT+8 | reply | https://x.com/iiiinvest/status/2100271818531918211 | @YangFanKing 不怕，比特币大趋势向上
+- `2100271967467397179` | 2026-09-17 01:13:52 GMT+8 | reply | https://x.com/iiiinvest/status/2100271967467397179 | @mj99admin 再赚回来吧，亏亏赚赚才是常态
+- `2100272088959660269` | 2026-09-17 01:14:21 GMT+8 | reply | https://x.com/iiiinvest/status/2100272088959660269 | @yangjibao74226 希望账户也丰收
+- `2100272140520173886` | 2026-09-17 01:14:34 GMT+8 | reply | https://x.com/iiiinvest/status/2100272140520173886 | @CyberQI 不谢
+- `2100274765013606684` | 2026-09-17 01:24:59 GMT+8 | reply | https://x.com/iiiinvest/status/2100274765013606684 | @CryptoRounder 交易所能看到数据，真是明牌玩
+- `2100277184128794798` | 2026-09-17 01:34:36 GMT+8 | quote | https://x.com/iiiinvest/status/2100277184128794798 | 最后半小时，感觉差不多了，我把减掉的加回来了部分。等加息落地！ https://t.co/YqaUmGnRVq
+- `2100281427355144214` | 2026-09-17 01:51:28 GMT+8 | quote | https://x.com/iiiinvest/status/2100281427355144214 | 先把SpaceX 减掉了，一而再再而三的跌破150，不是强势的表现。加息落地后再看！ https://t.co/BRHMm1Bfok
+- `2100283051725234628` | 2026-09-17 01:57:55 GMT+8 | quote | https://x.com/iiiinvest/status/2100283051725234628 | 屏息凝神，最后3分钟！ https://t.co/i1yzPB5aXb
+- `2100284784836833769` | 2026-09-17 02:04:48 GMT+8 | quote | https://x.com/iiiinvest/status/2100284784836833769 | 如预期加息25，该涨了吧！ https://t.co/SuaZ0tiYLb
+- `2100298569853145097` | 2026-09-17 02:59:35 GMT+8 | quote | https://x.com/iiiinvest/status/2100298569853145097 | 盘面走的比想象中还要复杂，好像市场不相信美联储能控制通胀。我再观察会。 https://t.co/PVQZOyCdxm
+- `2100307659396399565` | 2026-09-17 03:35:42 GMT+8 | quote | https://x.com/iiiinvest/status/2100307659396399565 | 125附近又加仓了MSTR，还是看好后面比特币的表现。 https://t.co/bUitWQScB2
+- `2100309372589183412` | 2026-09-17 03:42:30 GMT+8 | original | https://x.com/iiiinvest/status/2100309372589183412 | 更新下仓位
+- `2100311046854763006` | 2026-09-17 03:49:10 GMT+8 | reply | https://x.com/iiiinvest/status/2100311046854763006 | @luckybibiw1p 希望是
+- `2100317188452450534` | 2026-09-17 04:13:34 GMT+8 | reply | https://x.com/iiiinvest/status/2100317188452450534 | @xxxLD666 很硬
+- `2100374891342209534` | 2026-09-17 08:02:51 GMT+8 | reply | https://x.com/iiiinvest/status/2100374891342209534 | @LeeYAN2004 强
+- `2100375045147369973` | 2026-09-17 08:03:28 GMT+8 | reply | https://x.com/iiiinvest/status/2100375045147369973 | @Lee7176787 差不多
+- `2100400175156187585` | 2026-09-17 09:43:19 GMT+8 | original | https://x.com/iiiinvest/status/2100400175156187585 | 1000万美金多单（半导体+比特币）逻辑
+- `2100415666897731818` | 2026-09-17 10:44:53 GMT+8 | reply | https://x.com/iiiinvest/status/2100415666897731818 | @Yxnh8023 认知变现或买单，都接受！
+- `2100415726972699025` | 2026-09-17 10:45:07 GMT+8 | reply | https://x.com/iiiinvest/status/2100415726972699025 | @NorrisChen1024 怕，永远没有
+- `2100415771633737868` | 2026-09-17 10:45:18 GMT+8 | reply | https://x.com/iiiinvest/status/2100415771633737868 | @jianbing_j39971 没压力啊
+- `2100415866034962632` | 2026-09-17 10:45:40 GMT+8 | reply | https://x.com/iiiinvest/status/2100415866034962632 | @ChenchenCpypto 说明我现在很乐观
+- `2100415978316411006` | 2026-09-17 10:46:07 GMT+8 | reply | https://x.com/iiiinvest/status/2100415978316411006 | @didiliu222 我说的，可以输但不能怂。。。
+- `2100416060734488827` | 2026-09-17 10:46:27 GMT+8 | reply | https://x.com/iiiinvest/status/2100416060734488827 | @Jupiterxoxoxo 干他丫的
+- `2100416163247456507` | 2026-09-17 10:46:51 GMT+8 | reply | https://x.com/iiiinvest/status/2100416163247456507 | @lu_zheng24352 单边上涨时也有加速度
+- `2100416251403419875` | 2026-09-17 10:47:12 GMT+8 | reply | https://x.com/iiiinvest/status/2100416251403419875 | @FeiyangXu81114 那都是噪音了
+- `2100429101270224969` | 2026-09-17 11:38:16 GMT+8 | original | https://x.com/iiiinvest/status/2100429101270224969 | 兄弟们，这个位置，建议加点仓。我强烈感觉这波要赚，要大赚。而在这路上，你希望有你！
+- `2100438866545246262` | 2026-09-17 12:17:04 GMT+8 | reply | https://x.com/iiiinvest/status/2100438866545246262 | @Mrchehc3y 同mstr
+- `2100439177649402170` | 2026-09-17 12:18:18 GMT+8 | reply | https://x.com/iiiinvest/status/2100439177649402170 | @9yjq3 都可以
+- `2100439239813103866` | 2026-09-17 12:18:33 GMT+8 | reply | https://x.com/iiiinvest/status/2100439239813103866 | @narcissus0403 存储这波跌的少
+- `2100439278761492587` | 2026-09-17 12:18:42 GMT+8 | reply | https://x.com/iiiinvest/status/2100439278761492587 | @shisang103 真心
+- `2100439317785247945` | 2026-09-17 12:18:52 GMT+8 | reply | https://x.com/iiiinvest/status/2100439317785247945 | @JDboy___ 看155怎么样再说
+- `2100492159535472747` | 2026-09-17 15:48:50 GMT+8 | reply | https://x.com/iiiinvest/status/2100492159535472747 | @nianli01311 看我持仓啊
+- `2100492227911033170` | 2026-09-17 15:49:07 GMT+8 | reply | https://x.com/iiiinvest/status/2100492227911033170 | @AlbertMuskkevin 一艘船
+- `2100509575585927231` | 2026-09-17 16:58:03 GMT+8 | original | https://x.com/iiiinvest/status/2100509575585927231 | 越涨你越不敢上车，上午说过给你犹豫的时间不多。瞎猜一下：今晚纳指2个点起！
+- `2100541819717357879` | 2026-09-17 19:06:10 GMT+8 | reply | https://x.com/iiiinvest/status/2100541819717357879 | @OsZerix 没动
+- `2100541881960771870` | 2026-09-17 19:06:25 GMT+8 | reply | https://x.com/iiiinvest/status/2100541881960771870 | @York_0831 拭目以待
+- `2100543390492639617` | 2026-09-17 19:12:25 GMT+8 | quote | https://x.com/iiiinvest/status/2100543390492639617 | 从亏55到14了，今晚有机会解套还赚，拭目以待。我亏的时候还能发贴让你上车，是真爱，珍惜好吗！ https://t.co/81J51pKM26 https://t.co/U1fuLaqLIB
+- `2100564654062010776` | 2026-09-17 20:36:54 GMT+8 | original | https://x.com/iiiinvest/status/2100564654062010776 | 不客气！
+- `2100571254155792489` | 2026-09-17 21:03:08 GMT+8 | reply | https://x.com/iiiinvest/status/2100571254155792489 | @xuesiyuan920 恭喜
+- `2100584738293788687` | 2026-09-17 21:56:43 GMT+8 | quote | https://x.com/iiiinvest/status/2100584738293788687 | 开始盈利了！这单最终能赚多少，拭目以待！ https://t.co/kZWnegNTJG https://t.co/dYLpDS5LSA
+- `2100585301597200874` | 2026-09-17 21:58:57 GMT+8 | reply | https://x.com/iiiinvest/status/2100585301597200874 | @TJ_Research 感谢🍑总启发！
+- `2100585539045126172` | 2026-09-17 21:59:54 GMT+8 | reply | https://x.com/iiiinvest/status/2100585539045126172 | @liwiln340093499 做了一点，又接回来了
+- `2100593188977451190` | 2026-09-17 22:30:18 GMT+8 | original | https://x.com/iiiinvest/status/2100593188977451190 | SpaceX突破155后，磨蹭了一会又跌回155内。这个位置，不建议再追多了，有几个考虑：
+- `2100748771663683959` | 2026-09-18 08:48:31 GMT+8 | original | https://x.com/iiiinvest/status/2100748771663683959 | 接下来
+- `2100769601676316902` | 2026-09-18 10:11:18 GMT+8 | reply | https://x.com/iiiinvest/status/2100769601676316902 | @ux9azo 🙄没出息
+- `2100769671024988534` | 2026-09-18 10:11:34 GMT+8 | reply | https://x.com/iiiinvest/status/2100769671024988534 | @Jjjjvsp5 赌赢了赚多少，赌输了呢
+- `2100769715149021289` | 2026-09-18 10:11:45 GMT+8 | reply | https://x.com/iiiinvest/status/2100769715149021289 | @Miranda3oz6 嘿嘿
+- `2100786162625663486` | 2026-09-18 11:17:06 GMT+8 | original | https://x.com/iiiinvest/status/2100786162625663486 | 比特币（币股）也要起飞了！这时候，给你个站票你要不要！
+- `2100802121792934171` | 2026-09-18 12:20:31 GMT+8 | reply | https://x.com/iiiinvest/status/2100802121792934171 | @Naxx0988 和半导体一样
+- `2100836836679786962` | 2026-09-18 14:38:28 GMT+8 | quote | https://x.com/iiiinvest/status/2100836836679786962 | 从亏55到赚20万，拿住了吗！ https://t.co/jxnurNnv25
+- `2100836925649338797` | 2026-09-18 14:38:49 GMT+8 | quote | https://x.com/iiiinvest/status/2100836925649338797 | 从亏55到赚20万，拿住了吗！ https://t.co/hDmBGcVRi6 https://t.co/jxnurNnv25
+- `2100850325053915302` | 2026-09-18 15:32:04 GMT+8 | reply | https://x.com/iiiinvest/status/2100850325053915302 | @samhxmv 兄弟，根本没破位啊
+- `2100864332016083326` | 2026-09-18 16:27:43 GMT+8 | original | https://x.com/iiiinvest/status/2100864332016083326 | 一而再，再而三，的说机会。
+- `2100874263930781791` | 2026-09-18 17:07:11 GMT+8 | reply | https://x.com/iiiinvest/status/2100874263930781791 | @tf3ZInIRHt11922 轻点
+- `2100874316342829062` | 2026-09-18 17:07:24 GMT+8 | reply | https://x.com/iiiinvest/status/2100874316342829062 | @xuesiyuan920 🤣
+- `2100901295808970863` | 2026-09-18 18:54:36 GMT+8 | reply | https://x.com/iiiinvest/status/2100901295808970863 | @__YellowDuck__ 可以啊
+- `2100901323013312912` | 2026-09-18 18:54:42 GMT+8 | reply | https://x.com/iiiinvest/status/2100901323013312912 | @DanielZCP1 同半导体
+- `2100901372501889335` | 2026-09-18 18:54:54 GMT+8 | reply | https://x.com/iiiinvest/status/2100901372501889335 | @Liusc6282 拿住
+- `2100901494312817040` | 2026-09-18 18:55:23 GMT+8 | reply | https://x.com/iiiinvest/status/2100901494312817040 | @ts413698539305 就你这智商指导我？
+- `2100919097693553039` | 2026-09-18 20:05:20 GMT+8 | original | https://x.com/iiiinvest/status/2100919097693553039 | 都说要爱自己，连自己都不信怎么爱自己，爱自己首先相信自己！
+- `2100926105758966235` | 2026-09-18 20:33:11 GMT+8 | reply | https://x.com/iiiinvest/status/2100926105758966235 | @Jupiterxoxoxo 亏得时候说话都需要勇气
+- `2100927889445359860` | 2026-09-18 20:40:16 GMT+8 | original | https://x.com/iiiinvest/status/2100927889445359860 | 说我亏得时候不发，赚的时候狂发的兄弟，摸摸自己几把，我亏得时候不是不发，是发的少，即便少你知道需要多大勇气吗！
+- `2100943197530964411` | 2026-09-18 21:41:06 GMT+8 | reply | https://x.com/iiiinvest/status/2100943197530964411 | @xuesiyuan920 卧槽，这么有道理
+- `2100943327634084246` | 2026-09-18 21:41:37 GMT+8 | reply | https://x.com/iiiinvest/status/2100943327634084246 | @AlbertMuskkevin 无所谓，图个乐呵
+- `2100943430939717957` | 2026-09-18 21:42:02 GMT+8 | reply | https://x.com/iiiinvest/status/2100943430939717957 | @Thank1519 图你几把大？
+- `2100943518659445069` | 2026-09-18 21:42:23 GMT+8 | reply | https://x.com/iiiinvest/status/2100943518659445069 | @narcissus0403 恭喜
+- `2100944876460552219` | 2026-09-18 21:47:46 GMT+8 | original | https://x.com/iiiinvest/status/2100944876460552219 | 妈的，👏🏻鼓掌！
+- `2100951205908504725` | 2026-09-18 22:12:55 GMT+8 | reply | https://x.com/iiiinvest/status/2100951205908504725 | @__elon_mask 不然呢
+- `2100952637835468912` | 2026-09-18 22:18:37 GMT+8 | reply | https://x.com/iiiinvest/status/2100952637835468912 | @x9pippo1 弹两下
+- `2100955516591911109` | 2026-09-18 22:30:03 GMT+8 | original | https://x.com/iiiinvest/status/2100955516591911109 | 我知道很多炒美股的，反感比特币。但作为兄弟我建议你，别有偏见。未来3年比特币含币股，会为我带来不可思议的收益！
+- `2100956366244593791` | 2026-09-18 22:33:26 GMT+8 | reply | https://x.com/iiiinvest/status/2100956366244593791 | @Kkkkkkkwzat 做个几把，拿住是现在最佳策略
+- `2100961909793235109` | 2026-09-18 22:55:27 GMT+8 | original | https://x.com/iiiinvest/status/2100961909793235109 | 拿不住的，掏出来，弹2下！
+- `2101100676877316399` | 2026-09-19 08:06:52 GMT+8 | original | https://x.com/iiiinvest/status/2101100676877316399 | 以后也可以吹牛逼说：我是一晚赚过百万美金的男人！ https://t.co/trdMwwVdBs
+- `2101115009833320474` | 2026-09-19 09:03:49 GMT+8 | reply | https://x.com/iiiinvest/status/2101115009833320474 | @Kkkkkkkwzat 没出息
+- `2101115064396993003` | 2026-09-19 09:04:02 GMT+8 | reply | https://x.com/iiiinvest/status/2101115064396993003 | @Jyong4883Jyong 没出息
+- `2101130517496426823` | 2026-09-19 10:05:27 GMT+8 | quote | https://x.com/iiiinvest/status/2101130517496426823 | This old man is so cool https://t.co/mQrLAfpWuZ
+- `2101131467510448299` | 2026-09-19 10:09:13 GMT+8 | reply | https://x.com/iiiinvest/status/2101131467510448299 | @saylor Thx man, question you, believe you, be you! https://t.co/1qyCz8YP2F
+- `2101143505414639911` | 2026-09-19 10:57:03 GMT+8 | original | https://x.com/iiiinvest/status/2101143505414639911 | 这波做完，应该不止5000万，可能会到6000-7000万。
+- `2101144392400789981` | 2026-09-19 11:00:35 GMT+8 | reply | https://x.com/iiiinvest/status/2101144392400789981 | @FeiyangXu81114 别废物，盘面根本没出止盈信号
+- `2101144505265299803` | 2026-09-19 11:01:02 GMT+8 | reply | https://x.com/iiiinvest/status/2101144505265299803 | @Jyong4883Jyong 别弹坏了。。。
+- `2101309360979009915` | 2026-09-19 21:56:06 GMT+8 | reply | https://x.com/iiiinvest/status/2101309360979009915 | @WallStreet0Name 发现，想多了
+- `2101312261751177329` | 2026-09-19 22:07:38 GMT+8 | original | https://x.com/iiiinvest/status/2101312261751177329 | 我发现，我没有太多物质欲望，现在比几年前资金增长了几千万，但消费习惯并没有太大差别。
+- `2101342423347782140` | 2026-09-20 00:07:29 GMT+8 | reply | https://x.com/iiiinvest/status/2101342423347782140 | @Teslainvestor88 时间自由
+- `2101342554168168671` | 2026-09-20 00:08:00 GMT+8 | reply | https://x.com/iiiinvest/status/2101342554168168671 | @bianokx_momo 会的，我会弄个慈善基金
+- `2101342666734887307` | 2026-09-20 00:08:27 GMT+8 | reply | https://x.com/iiiinvest/status/2101342666734887307 | @12youngwon21 加油
+- `2101342732816154892` | 2026-09-20 00:08:43 GMT+8 | reply | https://x.com/iiiinvest/status/2101342732816154892 | @shisang103 加油
+- `2101343041516982722` | 2026-09-20 00:09:56 GMT+8 | reply | https://x.com/iiiinvest/status/2101343041516982722 | @directyou 钱能带来安全感
+- `2101343298967450083` | 2026-09-20 00:10:58 GMT+8 | reply | https://x.com/iiiinvest/status/2101343298967450083 | @Miranda3oz6 搞个duo
+- `2101343601519399216` | 2026-09-20 00:12:10 GMT+8 | reply | https://x.com/iiiinvest/status/2101343601519399216 | @jfQvJcJWvZ81222 孩子确实具有时效性
+- `2101343920181633394` | 2026-09-20 00:13:26 GMT+8 | reply | https://x.com/iiiinvest/status/2101343920181633394 | @Enjewzhyf 加油
+- `2101344182891848094` | 2026-09-20 00:14:28 GMT+8 | reply | https://x.com/iiiinvest/status/2101344182891848094 | @minbo37760407 你会玩
+- `2101346534663323707` | 2026-09-20 00:23:49 GMT+8 | reply | https://x.com/iiiinvest/status/2101346534663323707 | @wufantouzi 是认错的成本太高
+- `2101468542713680000` | 2026-09-20 08:28:38 GMT+8 | reply | https://x.com/iiiinvest/status/2101468542713680000 | @Tmc810705881045 没有，一直想快点1000，怎么可能停
+- `2101468650976968960` | 2026-09-20 08:29:04 GMT+8 | reply | https://x.com/iiiinvest/status/2101468650976968960 | @__YellowDuck__ 加油
+- `2101468719549698125` | 2026-09-20 08:29:20 GMT+8 | reply | https://x.com/iiiinvest/status/2101468719549698125 | @DarkMary1029 有点理想
+- `2101468905420239128` | 2026-09-20 08:30:05 GMT+8 | reply | https://x.com/iiiinvest/status/2101468905420239128 | @Judi1024 孩子多大了啊
+- `2101469403800125563` | 2026-09-20 08:32:03 GMT+8 | reply | https://x.com/iiiinvest/status/2101469403800125563 | @gNsgvZyqRmtqSok 答案在自己
+- `2101469483777007730` | 2026-09-20 08:32:23 GMT+8 | reply | https://x.com/iiiinvest/status/2101469483777007730 | @jerryrickknnh 现在赶路呢，等等吧
+- `2101479850678841428` | 2026-09-20 09:13:34 GMT+8 | reply | https://x.com/iiiinvest/status/2101479850678841428 | @QIUYUNFANY 谨慎
+- `2101479992614130125` | 2026-09-20 09:14:08 GMT+8 | reply | https://x.com/iiiinvest/status/2101479992614130125 | @wuli17349905 五星级有哪些服务可以试试吗
+- `2101496569321472295` | 2026-09-20 10:20:00 GMT+8 | original | https://x.com/iiiinvest/status/2101496569321472295 | 比特币从来没这么坚定的站稳8万。如果你还陷在熊市思维，那我建议你洗一下眼睛！
+- `2101496898683330854` | 2026-09-20 10:21:19 GMT+8 | reply | https://x.com/iiiinvest/status/2101496898683330854 | @kakikawaiile 止盈什么股票很重要
+- `2101497086315532330` | 2026-09-20 10:22:03 GMT+8 | reply | https://x.com/iiiinvest/status/2101497086315532330 | @X5367047676897 不会，只是到时候的分钟可能和现在也不一样了
+- `2101497131022586097` | 2026-09-20 10:22:14 GMT+8 | reply | https://x.com/iiiinvest/status/2101497131022586097 | @vvvv1v1 三巫日
+- `2101505999513563147` | 2026-09-20 10:57:29 GMT+8 | original | https://x.com/iiiinvest/status/2101505999513563147 | 周末，推荐几个博主
+- `2101507011590701376` | 2026-09-20 11:01:30 GMT+8 | reply | https://x.com/iiiinvest/status/2101507011590701376 | @TJ_Research @xtony1314 @WallStreet0Name ❤️
+- `2101540817060131109` | 2026-09-20 13:15:50 GMT+8 | reply | https://x.com/iiiinvest/status/2101540817060131109 | @silverfang88 @TJ_Research @xtony1314 @WallStreet0Name 牛逼
+- `2101540883971862685` | 2026-09-20 13:16:06 GMT+8 | reply | https://x.com/iiiinvest/status/2101540883971862685 | @CryptoRounder @TJ_Research @xtony1314 @WallStreet0Name 一路同行
+- `2101545457545810230` | 2026-09-20 13:34:16 GMT+8 | reply | https://x.com/iiiinvest/status/2101545457545810230 | @Timrwrd @TJ_Research @xtony1314 @WallStreet0Name 收个几把
+- `2101545511425826886` | 2026-09-20 13:34:29 GMT+8 | reply | https://x.com/iiiinvest/status/2101545511425826886 | @wagmi_OG @TJ_Research @xtony1314 @WallStreet0Name 好好努力
+- `2101546124884746279` | 2026-09-20 13:36:55 GMT+8 | original | https://x.com/iiiinvest/status/2101546124884746279 | 一个个看完你们财富自由后想做的事，有想环球旅行的，有想归隐山林的，有想双飞的...，我感受到的是鲜活的生命力，以及曾经的自己。
+- `2101548054264639880` | 2026-09-20 13:44:35 GMT+8 | reply | https://x.com/iiiinvest/status/2101548054264639880 | @xxxLD666 @TJ_Research @xtony1314 @WallStreet0Name 😃
+- `2101548098808115476` | 2026-09-20 13:44:46 GMT+8 | reply | https://x.com/iiiinvest/status/2101548098808115476 | @gxs272813 @TJ_Research @xtony1314 @WallStreet0Name 加油
+- `2101548238650429717` | 2026-09-20 13:45:19 GMT+8 | reply | https://x.com/iiiinvest/status/2101548238650429717 | @sosolab13 @TJ_Research @xtony1314 @WallStreet0Name 学你认为对的地方
+- `2101548287023276108` | 2026-09-20 13:45:31 GMT+8 | reply | https://x.com/iiiinvest/status/2101548287023276108 | @BennieLiu12 @TJ_Research @xtony1314 @WallStreet0Name 谢谢
+- `2101548555060260982` | 2026-09-20 13:46:35 GMT+8 | reply | https://x.com/iiiinvest/status/2101548555060260982 | @AndrewBit2337 没毛病
+- `2101612671628157222` | 2026-09-20 18:01:21 GMT+8 | reply | https://x.com/iiiinvest/status/2101612671628157222 | @wtf5188 加油
+- `2101612704633102524` | 2026-09-20 18:01:29 GMT+8 | reply | https://x.com/iiiinvest/status/2101612704633102524 | @zxiaoyan0906 我现在在做什么
+- `2101612787441307831` | 2026-09-20 18:01:49 GMT+8 | reply | https://x.com/iiiinvest/status/2101612787441307831 | @lngw110835 我山东小农村出身
+- `2101612944593473656` | 2026-09-20 18:02:26 GMT+8 | reply | https://x.com/iiiinvest/status/2101612944593473656 | @9yjq3 说过的，翻下
+- `2101674198079062132` | 2026-09-20 22:05:50 GMT+8 | original | https://x.com/iiiinvest/status/2101674198079062132 | 半导体 SOXL 周末在交易所跌了一些，我认为明天券商开盘也会跟，但不要恐慌轻易下车。
+- `2101694667276583354` | 2026-09-20 23:27:10 GMT+8 | reply | https://x.com/iiiinvest/status/2101694667276583354 | @nonocaicaicai 没意义的论调
+- `2101835362800898342` | 2026-09-21 08:46:15 GMT+8 | original | https://x.com/iiiinvest/status/2101835362800898342 | 舒服吗
+- `2101846492986396926` | 2026-09-21 09:30:29 GMT+8 | reply | https://x.com/iiiinvest/status/2101846492986396926 | @xuesiyuan920 拭目以待
+- `2101850598207566302` | 2026-09-21 09:46:47 GMT+8 | original | https://x.com/iiiinvest/status/2101850598207566302 | 焦虑吗？
+- `2101883060019138729` | 2026-09-21 11:55:47 GMT+8 | reply | https://x.com/iiiinvest/status/2101883060019138729 | @ChenchenCpypto 弹几下就好了
+- `2101884742283239781` | 2026-09-21 12:02:28 GMT+8 | quote | https://x.com/iiiinvest/status/2101884742283239781 | 半导体从亏55万，到赚64万。鱼哥不仅走到了对岸，还上了高速。还没完！ https://t.co/l2jD5Un7h0 https://t.co/aHW33mFNCJ
+- `2101906478257111145` | 2026-09-21 13:28:50 GMT+8 | reply | https://x.com/iiiinvest/status/2101906478257111145 | @hibtc37 谢谢度哥
+- `2101906545227505962` | 2026-09-21 13:29:06 GMT+8 | reply | https://x.com/iiiinvest/status/2101906545227505962 | @RuiSeven180685 没有神，都是人
+- `2101913618384379934` | 2026-09-21 13:57:12 GMT+8 | reply | https://x.com/iiiinvest/status/2101913618384379934 | @GouGou8898 都提前说，对得住兄弟了
+- `2101946521877172256` | 2026-09-21 16:07:57 GMT+8 | original | https://x.com/iiiinvest/status/2101946521877172256 | 兄弟们，不是鱼哥吹牛逼啊，这波我1000万美金下注，接下来要开启印钱模式了啊。
+- `2101949411148566599` | 2026-09-21 16:19:26 GMT+8 | reply | https://x.com/iiiinvest/status/2101949411148566599 | @T59K8E3H1N89244 ✌🏻
+- `2101950198872518795` | 2026-09-21 16:22:34 GMT+8 | reply | https://x.com/iiiinvest/status/2101950198872518795 | @silverfang88 牛市
+- `2101955388178596350` | 2026-09-21 16:43:11 GMT+8 | original | https://x.com/iiiinvest/status/2101955388178596350 | 叫亲哥！
+- `2101976640096198828` | 2026-09-21 18:07:38 GMT+8 | original | https://x.com/iiiinvest/status/2101976640096198828 | 比特币8.5万会磨一下，回调后是你上车的最后机会！
+- `2101979103310274941` | 2026-09-21 18:17:25 GMT+8 | reply | https://x.com/iiiinvest/status/2101979103310274941 | @LindaPhill95955 滚蛋，傻逼
+- `2102010860319416505` | 2026-09-21 20:23:37 GMT+8 | original | https://x.com/iiiinvest/status/2102010860319416505 | 一个币安的员工问我，10万到4000万是不是真的。我说实盘开在币安，一搜不就看到了。他搜了下，一句句说着牛逼。
+- `2102015056716394928` | 2026-09-21 20:40:17 GMT+8 | reply | https://x.com/iiiinvest/status/2102015056716394928 | @ChocWonderLand 你们赚钱，我更开心
+- `2102016829195771939` | 2026-09-21 20:47:20 GMT+8 | reply | https://x.com/iiiinvest/status/2102016829195771939 | @ChocWonderLand 😎
+- `2102017044187320625` | 2026-09-21 20:48:11 GMT+8 | reply | https://x.com/iiiinvest/status/2102017044187320625 | @wagmi_OG “电鱼哥实盘”
+- `2102030733720371401` | 2026-09-21 21:42:35 GMT+8 | original | https://x.com/iiiinvest/status/2102030733720371401 | 拿不住的时候就来我这里看看
+- `2102052280342360342` | 2026-09-21 23:08:12 GMT+8 | original | https://x.com/iiiinvest/status/2102052280342360342 | 这一轮，选的标的太好了！上周半导体和比特币（币股）都被双击，价格被压的极有性价比。
+- `2102061201324953883` | 2026-09-21 23:43:39 GMT+8 | reply | https://x.com/iiiinvest/status/2102061201324953883 | @Miranda3oz6 拯救不少兄弟
+- `2102062869227675683` | 2026-09-21 23:50:17 GMT+8 | reply | https://x.com/iiiinvest/status/2102062869227675683 | @pengshang373831 看简介
+- `2102063114170863763` | 2026-09-21 23:51:15 GMT+8 | reply | https://x.com/iiiinvest/status/2102063114170863763 | @xiaominshengdou 23年我30多到80吧
+- `2102189271297978805` | 2026-09-22 08:12:33 GMT+8 | original | https://x.com/iiiinvest/status/2102189271297978805 | 1000万仓位，已盈利270万美金，1周！ https://t.co/TrGldfC5rE
+- `2102213227384127662` | 2026-09-22 09:47:45 GMT+8 | reply | https://x.com/iiiinvest/status/2102213227384127662 | @panzer_LHN 雪盈券商
+- `2102213314579398958` | 2026-09-22 09:48:06 GMT+8 | reply | https://x.com/iiiinvest/status/2102213314579398958 | @bigk18cm 对，行吗？
+- `2102213652325757413` | 2026-09-22 09:49:26 GMT+8 | reply | https://x.com/iiiinvest/status/2102213652325757413 | @SsySsy2082409 爱你
+- `2102213742855622950` | 2026-09-22 09:49:48 GMT+8 | reply | https://x.com/iiiinvest/status/2102213742855622950 | @xxxxdk11 早
+- `2102248657378832744` | 2026-09-22 12:08:32 GMT+8 | original | https://x.com/iiiinvest/status/2102248657378832744 | 现实中，我早已经学会了闭嘴🤐。
+- `2102284191983685917` | 2026-09-22 14:29:44 GMT+8 | original | https://x.com/iiiinvest/status/2102284191983685917 | 昨晚纳指大涨，很久没看到这么强的行情，犹如18岁的几把一柱擎天，今天夜盘有点萎，淡定！
+- `2102319889067471312` | 2026-09-22 16:51:35 GMT+8 | original | https://x.com/iiiinvest/status/2102319889067471312 | 加息没有抽走美股流动性，却可能会抽走日韩港等外围流动性。昨晚美股大涨，今天外围市场表现并不好，可能也在印证这个逻辑。
+- `2102322330165039245` | 2026-09-22 17:01:17 GMT+8 | reply | https://x.com/iiiinvest/status/2102322330165039245 | @KINGBOYU 加油
+- `2102322374783959110` | 2026-09-22 17:01:28 GMT+8 | reply | https://x.com/iiiinvest/status/2102322374783959110 | @x9pippo1 跑个几把
+- `2102322478697812052` | 2026-09-22 17:01:52 GMT+8 | reply | https://x.com/iiiinvest/status/2102322478697812052 | @ILwtzL0olGGLvBG 知道什么叫厚积薄发吗
+- `2102322566149058684` | 2026-09-22 17:02:13 GMT+8 | reply | https://x.com/iiiinvest/status/2102322566149058684 | @BiezhiX7716 啥技术指标背后都是价格
+- `2102322632490443069` | 2026-09-22 17:02:29 GMT+8 | reply | https://x.com/iiiinvest/status/2102322632490443069 | @0xdanmo 翻记录
+- `2102322669287100765` | 2026-09-22 17:02:38 GMT+8 | reply | https://x.com/iiiinvest/status/2102322669287100765 | @ly4979747764096 练
+- `2102355224312885406` | 2026-09-22 19:12:00 GMT+8 | original | https://x.com/iiiinvest/status/2102355224312885406 | 亚盘行情不好，美股也要跌，这是典型分不清大小王了。记住，所有股市都得看美股大哥脸色。
+- `2102356966295441673` | 2026-09-22 19:18:55 GMT+8 | reply | https://x.com/iiiinvest/status/2102356966295441673 | @ChocWonderLand 把握不好就不做
+- `2102373255621579183` | 2026-09-22 20:23:39 GMT+8 | original | https://x.com/iiiinvest/status/2102373255621579183 | 说一下SpaceX。这两天纳指权重资金落地后 $SPCX 价格不温不火的在150-155左右晃荡，貌似又回到了解禁的老套路。但9月的两次解禁，基本验证了，现在解禁并没有太大抛压，最起码心理不再恐惧。
+- `2102386650500481108` | 2026-09-22 21:16:52 GMT+8 | original | https://x.com/iiiinvest/status/2102386650500481108 | 真正慌的人是现在还没上车，但想上车的人。现在位置很尴尬，你追涨他就套你，然后你焦虑割肉，他继续涨，然后再追再割肉。
+- `2102393349542121688` | 2026-09-22 21:43:29 GMT+8 | original | https://x.com/iiiinvest/status/2102393349542121688 | 纳指要破历史新高去了，等破了新高，会有大量资金去追高！
+- `2102413304832680063` | 2026-09-22 23:02:47 GMT+8 | original | https://x.com/iiiinvest/status/2102413304832680063 | 刚才纳指破了下新高又跌了回来，要我判断，这里更多是底部筹码的止盈盘，相较于踏空盘，新高突破是99.99%的概率。
+- `2102427852562112779` | 2026-09-23 00:00:35 GMT+8 | original | https://x.com/iiiinvest/status/2102427852562112779 | 什么叫强？看看半导体，看看比特币(币股)！
+- `2102547515124109372` | 2026-09-23 07:56:05 GMT+8 | original | https://x.com/iiiinvest/status/2102547515124109372 | 一单200万美金，鱼哥是不是有点实力！ https://t.co/vxD8bxdH5b
+- `2102558476962771395` | 2026-09-23 08:39:39 GMT+8 | reply | https://x.com/iiiinvest/status/2102558476962771395 | @gowestrun 我就是普通人，加油
+- `2102558603186225279` | 2026-09-23 08:40:09 GMT+8 | reply | https://x.com/iiiinvest/status/2102558603186225279 | @jackyefu 3下
+- `2102561972504117732` | 2026-09-23 08:53:32 GMT+8 | reply | https://x.com/iiiinvest/status/2102561972504117732 | @hazenlee 要不看你发这么多，我就信了
+- `2102608328392315028` | 2026-09-23 11:57:44 GMT+8 | original | https://x.com/iiiinvest/status/2102608328392315028 | 看了下，币安实盘我已经干到了全平台第8！前十中唯一公开仓位不需要订阅的！
+- `2102667776204914916` | 2026-09-23 15:53:58 GMT+8 | original | https://x.com/iiiinvest/status/2102667776204914916 | 相信我！拉黑还在看空比特币的KOL，那会耽误你赚钱！
+- `2102712279628173603` | 2026-09-23 18:50:48 GMT+8 | original | https://x.com/iiiinvest/status/2102712279628173603 | 兄弟们，说点真心话。昨晚纳指收盘新高了，说明几点：
+- `2102763296202072320` | 2026-09-23 22:13:31 GMT+8 | original | https://x.com/iiiinvest/status/2102763296202072320 | 纳指没有站稳新高，那么看反抽的情况了。昨晚尾盘新高，今天开盘有止盈盘正常，反抽及尾盘会更重要，决定了这次新高的质量。再观察下，别慌！
+- `2102773355111907518` | 2026-09-23 22:53:30 GMT+8 | original | https://x.com/iiiinvest/status/2102773355111907518 | 下跌的时候是最好的修炼场，感受下跌时你的心理，是不是有点慌，是不是手哆嗦着想卖出？多感受下，交易其实没有天才，唯手熟尔！
+- `2102911855358566670` | 2026-09-24 08:03:51 GMT+8 | original | https://x.com/iiiinvest/status/2102911855358566670 | 一觉醒来，尾盘半导体还算可以，币股回调深一些，晚点梳理下应对计划。
+- `2102939017457422428` | 2026-09-24 09:51:47 GMT+8 | original | https://x.com/iiiinvest/status/2102939017457422428 | 【重要】纳指新高后跌破，如何应对
+- `2102945901446869439` | 2026-09-24 10:19:08 GMT+8 | original | https://x.com/iiiinvest/status/2102945901446869439 | @FeiyangXu81114 一样道理，目前跟美股多一些
+- `2102946014726660411` | 2026-09-24 10:19:35 GMT+8 | reply | https://x.com/iiiinvest/status/2102946014726660411 | @ChenH2rno 哪有不测
+- `2102946044728520902` | 2026-09-24 10:19:42 GMT+8 | reply | https://x.com/iiiinvest/status/2102946044728520902 | @zoudashenax 不客气，学习逻辑
+- `2102946143760183662` | 2026-09-24 10:20:06 GMT+8 | reply | https://x.com/iiiinvest/status/2102946143760183662 | @panzer_LHN 学会多实践
+- `2102946184486858790` | 2026-09-24 10:20:15 GMT+8 | reply | https://x.com/iiiinvest/status/2102946184486858790 | @tf3ZInIRHt11922 加油
+- `2102971193762673121` | 2026-09-24 11:59:38 GMT+8 | original | https://x.com/iiiinvest/status/2102971193762673121 | 刚清了币股，剩余BTC量化撸震荡！
+- `2103013515728732336` | 2026-09-24 14:47:48 GMT+8 | original | https://x.com/iiiinvest/status/2103013515728732336 | 夜盘纳指跌破了昨日的低点，亚盘外围市场继续下跌。今天大盘应该要继续下探了。
+- `2103014925056790639` | 2026-09-24 14:53:24 GMT+8 | original | https://x.com/iiiinvest/status/2103014925056790639 | 战役还没打完，兄弟们跟紧点，今晚如果纳指如果不能强势站稳，我准备空一下。
+- `2103037596909838534` | 2026-09-24 16:23:30 GMT+8 | original | https://x.com/iiiinvest/status/2103037596909838534 | 盯着实盘的兄弟应该看到了，我半导体也清掉了，盈利125.5万美金。
+- `2103044907745374320` | 2026-09-24 16:52:33 GMT+8 | original | https://x.com/iiiinvest/status/2103044907745374320 | 盘前跌的太凶了！兄弟们，我多说一句：假如你是跟着我买的，那么我卖了你也要卖，这叫逻辑一致。
+- `2103045954467443008` | 2026-09-24 16:56:42 GMT+8 | reply | https://x.com/iiiinvest/status/2103045954467443008 | @hnshu195671 不客气
+- `2103049409798025710` | 2026-09-24 17:10:26 GMT+8 | reply | https://x.com/iiiinvest/status/2103049409798025710 | @denver_lee1 加油
+- `2103049604279513489` | 2026-09-24 17:11:13 GMT+8 | reply | https://x.com/iiiinvest/status/2103049604279513489 | @shlinzhn184282 券商夜盘深度太差，尽量注册交易所对冲
+- `2103049661317894595` | 2026-09-24 17:11:26 GMT+8 | reply | https://x.com/iiiinvest/status/2103049661317894595 | @samhxmv 纪律
+- `2103049848786432173` | 2026-09-24 17:12:11 GMT+8 | reply | https://x.com/iiiinvest/status/2103049848786432173 | @DavidTao4133 起点都一样兄弟，自怨自艾没意义
+- `2103049921062703142` | 2026-09-24 17:12:28 GMT+8 | reply | https://x.com/iiiinvest/status/2103049921062703142 | @lcka131 问题不大
+- `2103049982777704533` | 2026-09-24 17:12:43 GMT+8 | reply | https://x.com/iiiinvest/status/2103049982777704533 | @HsuLeo007 恭喜
+- `2103054124489302270` | 2026-09-24 17:29:10 GMT+8 | reply | https://x.com/iiiinvest/status/2103054124489302270 | @xingyecaijing 人才
+- `2103054205531594854` | 2026-09-24 17:29:30 GMT+8 | reply | https://x.com/iiiinvest/status/2103054205531594854 | @xxxxdk11 赞
+- `2103089343502152001` | 2026-09-24 19:49:07 GMT+8 | original | https://x.com/iiiinvest/status/2103089343502152001 | 兄弟们，虽然清仓了，但现在宏观纷扰复杂，盘面不会平静，叠加纳指前高位置，我认为这里空一下性价比挺高的。具体操作上今晚开盘，我会看反抽的力度，择机开仓！我开完会发，兄弟们跟紧了！
+- `2103125520351453609` | 2026-09-24 22:12:52 GMT+8 | original | https://x.com/iiiinvest/status/2103125520351453609 | 200万刀做空了3万股TQQQ，差不多20%多仓位，自己参考下仓位！
+- `2103132157862695015` | 2026-09-24 22:39:15 GMT+8 | original | https://x.com/iiiinvest/status/2103132157862695015 | 不看了，跌破昨日低点，确认是调整了。具体调整到哪里，市场会走出来，积极应对就好了。
+- `2103144852347297906` | 2026-09-24 23:29:41 GMT+8 | reply | https://x.com/iiiinvest/status/2103144852347297906 | @MaginaHa 加油
+- `2103144990151156198` | 2026-09-24 23:30:14 GMT+8 | reply | https://x.com/iiiinvest/status/2103144990151156198 | @doug_leas 你试试
+- `2103145176311222660` | 2026-09-24 23:30:59 GMT+8 | reply | https://x.com/iiiinvest/status/2103145176311222660 | @JanaVoges89338 差不多，但TQQQ可以享受磨损收益，你不懂可以找AI问问
+- `2103145271492571254` | 2026-09-24 23:31:21 GMT+8 | reply | https://x.com/iiiinvest/status/2103145271492571254 | @lovepisss 跟随市场
+- `2103145322587517343` | 2026-09-24 23:31:34 GMT+8 | reply | https://x.com/iiiinvest/status/2103145322587517343 | @xie_kunlunhhh 加油
+- `2103145405789905350` | 2026-09-24 23:31:53 GMT+8 | reply | https://x.com/iiiinvest/status/2103145405789905350 | @Qqq3wnr 加油
+- `2103285919889641935` | 2026-09-25 08:50:15 GMT+8 | original | https://x.com/iiiinvest/status/2103285919889641935 | 兄弟们，中秋快乐🎉
+- `2103300158859731189` | 2026-09-25 09:46:49 GMT+8 | reply | https://x.com/iiiinvest/status/2103300158859731189 | @tf3ZInIRHt11922 爱你
+- `2103303874794889236` | 2026-09-25 10:01:35 GMT+8 | original | https://x.com/iiiinvest/status/2103303874794889236 | 看到交易所被盗，大过节的够糟心的。我前几年也被黑客盗过40万美金，放在当时也是要老命了。
+- `2103368107914113204` | 2026-09-25 14:16:50 GMT+8 | reply | https://x.com/iiiinvest/status/2103368107914113204 | @OqKok 链上
+- `2103368593635447188` | 2026-09-25 14:18:46 GMT+8 | reply | https://x.com/iiiinvest/status/2103368593635447188 | @Lukefeller 开着呢，说过了新高止损
+- `2103444458876596473` | 2026-09-25 19:20:13 GMT+8 | original | https://x.com/iiiinvest/status/2103444458876596473 | 今天去山姆买了一车东西，花了不到1千，再看今年我在美股收益超过3000万，一下感受到国外赚钱国内花的高性价比。
+- `2103449291268472858` | 2026-09-25 19:39:25 GMT+8 | reply | https://x.com/iiiinvest/status/2103449291268472858 | @luckybibiw1p 比特币明年就有大量造富效应了
+- `2103449414606233691` | 2026-09-25 19:39:55 GMT+8 | reply | https://x.com/iiiinvest/status/2103449414606233691 | @apri_2357 乱七八糟的日常用品，还好吧
+- `2103449456658292814` | 2026-09-25 19:40:05 GMT+8 | reply | https://x.com/iiiinvest/status/2103449456658292814 | @Zbo827 又没破新高
+- `2103449606260666396` | 2026-09-25 19:40:40 GMT+8 | reply | https://x.com/iiiinvest/status/2103449606260666396 | @12youngwon21 不出金就好了
+- `2103463536827720061` | 2026-09-25 20:36:02 GMT+8 | original | https://x.com/iiiinvest/status/2103463536827720061 | 昨天平掉多单后，我200万做空了纳指。梳理下思考分享给兄弟们：
+- `2103468001895031150` | 2026-09-25 20:53:46 GMT+8 | reply | https://x.com/iiiinvest/status/2103468001895031150 | @CC06357 暂无
+- `2103475284561518752` | 2026-09-25 21:22:43 GMT+8 | reply | https://x.com/iiiinvest/status/2103475284561518752 | @GoGo_Web3 做T导致的
+- `2103475328412975493` | 2026-09-25 21:22:53 GMT+8 | reply | https://x.com/iiiinvest/status/2103475328412975493 | @yijiebuyi1989 恭喜
+- `2103495900891116022` | 2026-09-25 22:44:38 GMT+8 | original | https://x.com/iiiinvest/status/2103495900891116022 | 兄弟们，持仓的过程中，不要太焦虑。焦虑不会改变行情，只会改变你几把的硬度。所以，淡定很重要，你说对不对！
+- `2103499578544968025` | 2026-09-25 22:59:15 GMT+8 | reply | https://x.com/iiiinvest/status/2103499578544968025 | @panzer_LHN 加大电量
+- `2103505647111430606` | 2026-09-25 23:23:22 GMT+8 | reply | https://x.com/iiiinvest/status/2103505647111430606 | @__elon_mask 干嘛
+- `2103505717089218658` | 2026-09-25 23:23:38 GMT+8 | reply | https://x.com/iiiinvest/status/2103505717089218658 | @Eason5218918077 之前说过，翻下
+- `2103505926011621392` | 2026-09-25 23:24:28 GMT+8 | original | https://x.com/iiiinvest/status/2103505926011621392 | 现在的SpaceX ，不在看多看空，而是失去了波动，也就失去了交易价值。这句话你懂了，会帮你赚很多钱！
+- `2103512038781988978` | 2026-09-25 23:48:46 GMT+8 | reply | https://x.com/iiiinvest/status/2103512038781988978 | @TJ_Research @viviennaBTC @heyibinance 🍑总才是最专业的
+- `2103512229786317086` | 2026-09-25 23:49:31 GMT+8 | reply | https://x.com/iiiinvest/status/2103512229786317086 | @totoronoah 强于纳指，我目前空的纳指
+- `2103512343514935348` | 2026-09-25 23:49:58 GMT+8 | reply | https://x.com/iiiinvest/status/2103512343514935348 | @ruiqian666 没意义
+- `2103512390491066849` | 2026-09-25 23:50:09 GMT+8 | reply | https://x.com/iiiinvest/status/2103512390491066849 | @GuanlliG39157 比较省心
+- `2103512509978395090` | 2026-09-25 23:50:38 GMT+8 | reply | https://x.com/iiiinvest/status/2103512509978395090 | @Wei9rb 关注少
+- `2103512578370818114` | 2026-09-25 23:50:54 GMT+8 | reply | https://x.com/iiiinvest/status/2103512578370818114 | @0x417276 期权谨慎吧
+- `2103649535239262559` | 2026-09-26 08:55:07 GMT+8 | reply | https://x.com/iiiinvest/status/2103649535239262559 | @lovepisss 不脑补，看行情就是没波动
+- `2103649995761324260` | 2026-09-26 08:56:57 GMT+8 | reply | https://x.com/iiiinvest/status/2103649995761324260 | @timy55082128 翻翻记录不就知道吹不出牛了。。。
+- `2103654963323060698` | 2026-09-26 09:16:41 GMT+8 | original | https://x.com/iiiinvest/status/2103654963323060698 | 今年赚3000多万，一堆人质疑，实盘看一下就知道了：币安账户近一年收益300万美金，券商账户还没算。
+- `2103705117157670985` | 2026-09-26 12:35:59 GMT+8 | reply | https://x.com/iiiinvest/status/2103705117157670985 | @EricChe25522286 相信自己
+- `2103705165744537954` | 2026-09-26 12:36:11 GMT+8 | reply | https://x.com/iiiinvest/status/2103705165744537954 | @lovepisss 实盘证明一切
+- `2103705352743350298` | 2026-09-26 12:36:55 GMT+8 | reply | https://x.com/iiiinvest/status/2103705352743350298 | @Chronoeggn 他们是谁
+- `2103705753681006984` | 2026-09-26 12:38:31 GMT+8 | reply | https://x.com/iiiinvest/status/2103705753681006984 | @Andylee9fcd 多关注就行
+- `2103705841773986167` | 2026-09-26 12:38:52 GMT+8 | reply | https://x.com/iiiinvest/status/2103705841773986167 | @YINJIAOKING 超市自由肯定有
+- `2103705916734632101` | 2026-09-26 12:39:10 GMT+8 | reply | https://x.com/iiiinvest/status/2103705916734632101 | @TuiMei8801 。。。有必要说假吗
+- `2103706009206480930` | 2026-09-26 12:39:32 GMT+8 | reply | https://x.com/iiiinvest/status/2103706009206480930 | @HuShuowx5825 你不会翻一下记录吗
+- `2103706141628997825` | 2026-09-26 12:40:03 GMT+8 | quote | https://x.com/iiiinvest/status/2103706141628997825 | 我他妈气笑了 https://t.co/aaA6giToxW
+- `2103706545733484959` | 2026-09-26 12:41:40 GMT+8 | reply | https://x.com/iiiinvest/status/2103706545733484959 | @hibtc37 谢谢度哥提醒，有计划的
+- `2103751772015907288` | 2026-09-26 15:41:22 GMT+8 | original | https://x.com/iiiinvest/status/2103751772015907288 | 下周暴跌
+- `2103765855125573844` | 2026-09-26 16:37:20 GMT+8 | reply | https://x.com/iiiinvest/status/2103765855125573844 | @Guofeifeine 该出的利好都出完了
+- `2103765943512097033` | 2026-09-26 16:37:41 GMT+8 | reply | https://x.com/iiiinvest/status/2103765943512097033 | @yijiebuyi1989 只有量化的了
+- `2103766013045346768` | 2026-09-26 16:37:58 GMT+8 | reply | https://x.com/iiiinvest/status/2103766013045346768 | @d67778 先稳住
+- `2103813761610223630` | 2026-09-26 19:47:42 GMT+8 | reply | https://x.com/iiiinvest/status/2103813761610223630 | @Judi1024 现在也不晚
+- `2103813803670720953` | 2026-09-26 19:47:52 GMT+8 | reply | https://x.com/iiiinvest/status/2103813803670720953 | @Hhojpax7z 厚积薄发
+- `2103813853574521067` | 2026-09-26 19:48:04 GMT+8 | reply | https://x.com/iiiinvest/status/2103813853574521067 | @Kangzi_VC 加油
+- `2103813899476926489` | 2026-09-26 19:48:15 GMT+8 | reply | https://x.com/iiiinvest/status/2103813899476926489 | @zhaihuiujej 翻记录
+- `2103813932691718333` | 2026-09-26 19:48:23 GMT+8 | reply | https://x.com/iiiinvest/status/2103813932691718333 | @Yxnh8023 多学习
+- `2103814078221447194` | 2026-09-26 19:48:57 GMT+8 | reply | https://x.com/iiiinvest/status/2103814078221447194 | @Maddere7 还好吧，有纪律保护
+- `2103814202792296538` | 2026-09-26 19:49:27 GMT+8 | reply | https://x.com/iiiinvest/status/2103814202792296538 | @getoeds 哈哈。好
+- `2103814286309265734` | 2026-09-26 19:49:47 GMT+8 | reply | https://x.com/iiiinvest/status/2103814286309265734 | @jnfhsijd 利好出尽
+- `2103814341971857513` | 2026-09-26 19:50:00 GMT+8 | reply | https://x.com/iiiinvest/status/2103814341971857513 | @LylLq7Mtqo43873 是不是少了点
+- `2103814451170562147` | 2026-09-26 19:50:26 GMT+8 | reply | https://x.com/iiiinvest/status/2103814451170562147 | @linlin2010205 最后一站是纳指
+- `2103814479406645341` | 2026-09-26 19:50:33 GMT+8 | reply | https://x.com/iiiinvest/status/2103814479406645341 | @amazingguy96420 前高都上不去
+- `2103814605369942218` | 2026-09-26 19:51:03 GMT+8 | reply | https://x.com/iiiinvest/status/2103814605369942218 | @Wen2two 我有空单
+- `2103814787323121990` | 2026-09-26 19:51:46 GMT+8 | reply | https://x.com/iiiinvest/status/2103814787323121990 | @tf3ZInIRHt11922 加油
+- `2103815037236474266` | 2026-09-26 19:52:46 GMT+8 | reply | https://x.com/iiiinvest/status/2103815037236474266 | @yqd12365420633 差不多吧
+- `2103815063148884266` | 2026-09-26 19:52:52 GMT+8 | reply | https://x.com/iiiinvest/status/2103815063148884266 | @RachelWUyim 在啊
+- `2103815184406249882` | 2026-09-26 19:53:21 GMT+8 | reply | https://x.com/iiiinvest/status/2103815184406249882 | @iegeek38175 割了。。。
+- `2103815602641203383` | 2026-09-26 19:55:01 GMT+8 | reply | https://x.com/iiiinvest/status/2103815602641203383 | @JillianWu43373 期货30700附近
+- `2103815819725824308` | 2026-09-26 19:55:53 GMT+8 | reply | https://x.com/iiiinvest/status/2103815819725824308 | @JessiCao316191 不用考虑那么多
+- `2103815882367799714` | 2026-09-26 19:56:08 GMT+8 | reply | https://x.com/iiiinvest/status/2103815882367799714 | @xiaofuzi0924 写这么多看不懂吗
+- `2103815946280513855` | 2026-09-26 19:56:23 GMT+8 | reply | https://x.com/iiiinvest/status/2103815946280513855 | @uncle20th 拭目以待
+- `2103816074869497957` | 2026-09-26 19:56:53 GMT+8 | reply | https://x.com/iiiinvest/status/2103816074869497957 | @ManQinHelper 都是赌
+- `2103816138450989133` | 2026-09-26 19:57:09 GMT+8 | reply | https://x.com/iiiinvest/status/2103816138450989133 | @chenfu336 不多
+- `2103816180687671495` | 2026-09-26 19:57:19 GMT+8 | reply | https://x.com/iiiinvest/status/2103816180687671495 | @PiggyThePiggyy 谨慎，强于指数
+- `2103816307733152243` | 2026-09-26 19:57:49 GMT+8 | reply | https://x.com/iiiinvest/status/2103816307733152243 | @WEEXAILabs 加油吧
+- `2103816348237443180` | 2026-09-26 19:57:59 GMT+8 | reply | https://x.com/iiiinvest/status/2103816348237443180 | @Qyjpoiy 不出金
+- `2103816428742926681` | 2026-09-26 19:58:18 GMT+8 | reply | https://x.com/iiiinvest/status/2103816428742926681 | @s39293 我是傻逼
+- `2103816534569472023` | 2026-09-26 19:58:43 GMT+8 | reply | https://x.com/iiiinvest/status/2103816534569472023 | @Pzai00 我爱分享不行吗
+- `2103816577816940758` | 2026-09-26 19:58:53 GMT+8 | reply | https://x.com/iiiinvest/status/2103816577816940758 | @mydongo 真实
+- `2103816663401628115` | 2026-09-26 19:59:14 GMT+8 | reply | https://x.com/iiiinvest/status/2103816663401628115 | @jadensmith645 15年
+- `2103816733186482493` | 2026-09-26 19:59:30 GMT+8 | reply | https://x.com/iiiinvest/status/2103816733186482493 | @EricChe25522286 必须的
+- `2103816889642426678` | 2026-09-26 20:00:08 GMT+8 | reply | https://x.com/iiiinvest/status/2103816889642426678 | @dandeliont66 币圈就是粪坑，除了比特币都别碰
+- `2103816944113865136` | 2026-09-26 20:00:21 GMT+8 | reply | https://x.com/iiiinvest/status/2103816944113865136 | @HgLuo1165 还算可以吧
+- `2103846284562219136` | 2026-09-26 21:56:56 GMT+8 | reply | https://x.com/iiiinvest/status/2103846284562219136 | @samhxmv 没空半导体啊
+- `2103846364631405018` | 2026-09-26 21:57:15 GMT+8 | reply | https://x.com/iiiinvest/status/2103846364631405018 | @Matt_9419 啥心态明说
+- `2103846462035816602` | 2026-09-26 21:57:38 GMT+8 | reply | https://x.com/iiiinvest/status/2103846462035816602 | @AlbertMuskkevin 我靠，你这发现
+- `2103846561797337567` | 2026-09-26 21:58:02 GMT+8 | reply | https://x.com/iiiinvest/status/2103846561797337567 | @jump5o2bg 川大爷已经说了，谈崩
+- `2103846690025517386` | 2026-09-26 21:58:33 GMT+8 | reply | https://x.com/iiiinvest/status/2103846690025517386 | @AbuKaian7 Come on
+- `2103846827242160467` | 2026-09-26 21:59:05 GMT+8 | reply | https://x.com/iiiinvest/status/2103846827242160467 | @hancao723006 人
+- `2103846967323586656` | 2026-09-26 21:59:39 GMT+8 | reply | https://x.com/iiiinvest/status/2103846967323586656 | @tonyteng83 谢谢
+- `2103847058969133228` | 2026-09-26 22:00:01 GMT+8 | reply | https://x.com/iiiinvest/status/2103847058969133228 | @cenziwei 有，业余干交易
+- `2103847090304811381` | 2026-09-26 22:00:08 GMT+8 | reply | https://x.com/iiiinvest/status/2103847090304811381 | @kid_gongjingyu 加油
+- `2103847181140848872` | 2026-09-26 22:00:30 GMT+8 | reply | https://x.com/iiiinvest/status/2103847181140848872 | @zhngx4540837445 你们啊，无语
+- `2103853151548010835` | 2026-09-26 22:24:13 GMT+8 | original | https://x.com/iiiinvest/status/2103853151548010835 | 我在很多人眼中也是大V了，但你千万别把我想的多高大上，鱼哥也年轻过，屎尿臭屁天天有，吃喝嫖赌样样全。
+- `2103853603882737929` | 2026-09-26 22:26:01 GMT+8 | reply | https://x.com/iiiinvest/status/2103853603882737929 | @luckybibiw1p 可以啊
+- `2103880936760963552` | 2026-09-27 00:14:38 GMT+8 | reply | https://x.com/iiiinvest/status/2103880936760963552 | @Gp6Ps 烂了
+- `2103881000023650389` | 2026-09-27 00:14:53 GMT+8 | reply | https://x.com/iiiinvest/status/2103881000023650389 | @zhaihuiujej 也可以
+- `2103881100280123835` | 2026-09-27 00:15:17 GMT+8 | reply | https://x.com/iiiinvest/status/2103881100280123835 | @nonocaicaicai 错了小亏，对了大赚
+- `2103881192441594284` | 2026-09-27 00:15:39 GMT+8 | reply | https://x.com/iiiinvest/status/2103881192441594284 | @lea_coste 说明啥
+- `2103881229569605725` | 2026-09-27 00:15:48 GMT+8 | reply | https://x.com/iiiinvest/status/2103881229569605725 | @ChrisRain5910 奔4
+- `2103881341200969736` | 2026-09-27 00:16:14 GMT+8 | reply | https://x.com/iiiinvest/status/2103881341200969736 | @samhxmv 加油
+- `2103881424357171590` | 2026-09-27 00:16:34 GMT+8 | reply | https://x.com/iiiinvest/status/2103881424357171590 | @Ambitfun Be real
+- `2103881523414159533` | 2026-09-27 00:16:58 GMT+8 | reply | https://x.com/iiiinvest/status/2103881523414159533 | @xiaominshengdou 没意外就继续分享
+- `2103881577076031892` | 2026-09-27 00:17:10 GMT+8 | reply | https://x.com/iiiinvest/status/2103881577076031892 | @crowkkkkkk 就你事
+- `2103881835440988596` | 2026-09-27 00:18:12 GMT+8 | reply | https://x.com/iiiinvest/status/2103881835440988596 | @zw505105583 逼逼没用
+- `2103882017767383371` | 2026-09-27 00:18:55 GMT+8 | reply | https://x.com/iiiinvest/status/2103882017767383371 | @king1827267 赚刀
+- `2103882047324578186` | 2026-09-27 00:19:02 GMT+8 | reply | https://x.com/iiiinvest/status/2103882047324578186 | @Dralmighty_ 加油
+- `2104024583628304594` | 2026-09-27 09:45:26 GMT+8 | reply | https://x.com/iiiinvest/status/2104024583628304594 | @masbwspa 都是一路磕磕绊绊走过来的
+- `2104024631636283767` | 2026-09-27 09:45:37 GMT+8 | reply | https://x.com/iiiinvest/status/2104024631636283767 | @LinaJian1984 谢谢
+- `2104025182319108385` | 2026-09-27 09:47:49 GMT+8 | quote | https://x.com/iiiinvest/status/2104025182319108385 | 我哪有会员群，实盘你知道是啥吗就喷，币安实盘包括2块，我操作的实盘，免费公开的，另外一个带单，带单我有10%分成，不赚钱没得分，另外我也说过这分成手续费都会放到慈善基金里面。
+- `2104044317618884907` | 2026-09-27 11:03:51 GMT+8 | original | https://x.com/iiiinvest/status/2104044317618884907 | 我梳理下接下来的策略，稍等发出来，兄弟们可以参考！
+- `2104050491626062254` | 2026-09-27 11:28:23 GMT+8 | original | https://x.com/iiiinvest/status/2104050491626062254 | 如何抓住比特币牛市（实盘策略披露）
+- `2104070417225044069` | 2026-09-27 12:47:33 GMT+8 | reply | https://x.com/iiiinvest/status/2104070417225044069 | @u6395571585830 震荡和回调本身就很难预测，所以通过量化去解决。对于你来说，核心是假如不同阶段你怎么应对，我的建议已经很清晰了
+- `2104070662616940827` | 2026-09-27 12:48:32 GMT+8 | reply | https://x.com/iiiinvest/status/2104070662616940827 | @dpw547643 你什么时候关注的，你翻过记录吗，或者你让ai复盘我的推文不就行了，真累
+- `2104070767579390198` | 2026-09-27 12:48:57 GMT+8 | reply | https://x.com/iiiinvest/status/2104070767579390198 | @kingwon55098816 工具无好坏，只有适不适合
+- `2104070798168445135` | 2026-09-27 12:49:04 GMT+8 | reply | https://x.com/iiiinvest/status/2104070798168445135 | @Commuator 谢谢
+- `2104070846268809216` | 2026-09-27 12:49:16 GMT+8 | reply | https://x.com/iiiinvest/status/2104070846268809216 | @0x9491 还好吧
+- `2104070913201434822` | 2026-09-27 12:49:32 GMT+8 | reply | https://x.com/iiiinvest/status/2104070913201434822 | @jfQvJcJWvZ81222 谢谢
+- `2104071001386701277` | 2026-09-27 12:49:53 GMT+8 | reply | https://x.com/iiiinvest/status/2104071001386701277 | @leili9320 我写了具体如何应对了
+- `2104071036371390929` | 2026-09-27 12:50:01 GMT+8 | reply | https://x.com/iiiinvest/status/2104071036371390929 | @AlbertMuskkevin 谢谢
+- `2104071121465458956` | 2026-09-27 12:50:21 GMT+8 | reply | https://x.com/iiiinvest/status/2104071121465458956 | @jump5o2bg 实盘还不能证明，那要用嘴证明吗
+- `2104071263958475032` | 2026-09-27 12:50:55 GMT+8 | reply | https://x.com/iiiinvest/status/2104071263958475032 | @sahfjd 这里也正好说下，跟单请选择全部仓位跟，别自己瞎操作
+- `2104071332162060740` | 2026-09-27 12:51:11 GMT+8 | reply | https://x.com/iiiinvest/status/2104071332162060740 | @Deserve9851 喊了好几次
+- `2104071359966171369` | 2026-09-27 12:51:18 GMT+8 | reply | https://x.com/iiiinvest/status/2104071359966171369 | @RuiLinovo 不知道
+- `2104071471379423338` | 2026-09-27 12:51:45 GMT+8 | reply | https://x.com/iiiinvest/status/2104071471379423338 | @JingongH 谢谢
+- `2104071497786794289` | 2026-09-27 12:51:51 GMT+8 | reply | https://x.com/iiiinvest/status/2104071497786794289 | @0x417276 绝对走心
+- `2104071637226397741` | 2026-09-27 12:52:24 GMT+8 | reply | https://x.com/iiiinvest/status/2104071637226397741 | @AndrewBit2337 太多人杠了，我以后也少说了
+- `2104090534235308267` | 2026-09-27 14:07:30 GMT+8 | reply | https://x.com/iiiinvest/status/2104090534235308267 | @blk0xalpha 简单理解就是网格策略
+- `2104090640070164917` | 2026-09-27 14:07:55 GMT+8 | reply | https://x.com/iiiinvest/status/2104090640070164917 | @jiychn888587 我自己号40%
+- `2104090705090302304` | 2026-09-27 14:08:10 GMT+8 | reply | https://x.com/iiiinvest/status/2104090705090302304 | @panzer_LHN 很爽啊
+- `2104090769015677151` | 2026-09-27 14:08:26 GMT+8 | reply | https://x.com/iiiinvest/status/2104090769015677151 | @LMDFAB 不出金
+- `2104090802851115376` | 2026-09-27 14:08:34 GMT+8 | reply | https://x.com/iiiinvest/status/2104090802851115376 | @shisang103 不客气
+- `2104090859117662571` | 2026-09-27 14:08:47 GMT+8 | reply | https://x.com/iiiinvest/status/2104090859117662571 | @RM1wans 干
+- `2104095002729275503` | 2026-09-27 14:25:15 GMT+8 | original | https://x.com/iiiinvest/status/2104095002729275503 | 实盘84500做空了50个BTC
+- `2104099626597200192` | 2026-09-27 14:43:37 GMT+8 | reply | https://x.com/iiiinvest/status/2104099626597200192 | @Kaman2X 币股不开盘，明早也可以吧，逻辑类似
+- `2104100058014896269` | 2026-09-27 14:45:20 GMT+8 | reply | https://x.com/iiiinvest/status/2104100058014896269 | @jiychn888587 IIIINVEST
+- `2104144833288016094` | 2026-09-27 17:43:16 GMT+8 | reply | https://x.com/iiiinvest/status/2104144833288016094 | @Z1DEMONSS 带单还是量化在跑
+- `2104144955812057462` | 2026-09-27 17:43:45 GMT+8 | reply | https://x.com/iiiinvest/status/2104144955812057462 | @chiang_ttt 是只开放了btc
+- `2104145157105021143` | 2026-09-27 17:44:33 GMT+8 | reply | https://x.com/iiiinvest/status/2104145157105021143 | @GZY499G 是个思路，但明天开盘大盘主导
+- `2104145352907792579` | 2026-09-27 17:45:19 GMT+8 | reply | https://x.com/iiiinvest/status/2104145352907792579 | @Sacmenon 看盘面也值得做空
+- `2104172973079060696` | 2026-09-27 19:35:05 GMT+8 | original | https://x.com/iiiinvest/status/2104172973079060696 | 交易没什么神秘的，就是赌。
+- `2104207797164658937` | 2026-09-27 21:53:27 GMT+8 | reply | https://x.com/iiiinvest/status/2104207797164658937 | @li_wei83368 谨慎，比大盘强势
+- `2104207898717135196` | 2026-09-27 21:53:52 GMT+8 | reply | https://x.com/iiiinvest/status/2104207898717135196 | @even366 勇为先
+- `2104207975170859104` | 2026-09-27 21:54:10 GMT+8 | reply | https://x.com/iiiinvest/status/2104207975170859104 | @Dolcncpl 看简介
+- `2104208132918628527` | 2026-09-27 21:54:47 GMT+8 | reply | https://x.com/iiiinvest/status/2104208132918628527 | @realcc_ 下周挺重要
+- `2104208223788265533` | 2026-09-27 21:55:09 GMT+8 | reply | https://x.com/iiiinvest/status/2104208223788265533 | @wang_hao23575 加油
+- `2104223320355041318` | 2026-09-27 22:55:08 GMT+8 | reply | https://x.com/iiiinvest/status/2104223320355041318 | @YeYang88500 什么鬼
+- `2104223421412626575` | 2026-09-27 22:55:32 GMT+8 | reply | https://x.com/iiiinvest/status/2104223421412626575 | @Oliver1337098 为什么空半导体，它比大盘强啊
+- `2104370661846397019` | 2026-09-28 08:40:37 GMT+8 | original | https://x.com/iiiinvest/status/2104370661846397019 | 这周宏观事件比较多，交易上不考虑那么多，到位走，不到位拿。
+- `2104395688725610751` | 2026-09-28 10:20:04 GMT+8 | quote | https://x.com/iiiinvest/status/2104395688725610751 | 周末逻辑第一条已经验证，下午再看后续逻辑是否成立了，目前就是持仓等下午。 https://t.co/OFIqGCSwjR
+- `2104414295559983477` | 2026-09-28 11:34:00 GMT+8 | original | https://x.com/iiiinvest/status/2104414295559983477 | 纳指今天这个走势，特别像是做个双顶，那么短期这里顶部的概率就大了，要等开盘再确认下。
+- `2104419020644712461` | 2026-09-28 11:52:47 GMT+8 | original | https://x.com/iiiinvest/status/2104419020644712461 | 半场开个香槟，又是100万。把鱼哥牛逼打在评论区！ https://t.co/LhjJHTCwFV
+- `2104430723646345471` | 2026-09-28 12:39:17 GMT+8 | reply | https://x.com/iiiinvest/status/2104430723646345471 | @magicfoxwen 那个是带单，带单目前量化撸短线，短时间不用太关注，仓位很小
+- `2104432874892189954` | 2026-09-28 12:47:50 GMT+8 | original | https://x.com/iiiinvest/status/2104432874892189954 | 看到有些兄弟不理解，带单的策略目前是撸短线增厚利润，同时通过下跌积累底仓。实盘是主观交易，短期看空和长期看多不矛盾。
+- `2104449429612921264` | 2026-09-28 13:53:37 GMT+8 | reply | https://x.com/iiiinvest/status/2104449429612921264 | @Babizhang0qlv 不用支持我，是自己认不认同
+- `2104449471560261789` | 2026-09-28 13:53:47 GMT+8 | reply | https://x.com/iiiinvest/status/2104449471560261789 | @FQYwithX 哈哈
+- `2104449723306569791` | 2026-09-28 13:54:47 GMT+8 | reply | https://x.com/iiiinvest/status/2104449723306569791 | @bbhggg144686 你要么就买BTC放到明年底
+- `2104449764167414229` | 2026-09-28 13:54:57 GMT+8 | reply | https://x.com/iiiinvest/status/2104449764167414229 | @mmfibonacci 不知道
+- `2104449831968379046` | 2026-09-28 13:55:13 GMT+8 | reply | https://x.com/iiiinvest/status/2104449831968379046 | @shaozhipeng1 多平
+- `2104449877669466618` | 2026-09-28 13:55:24 GMT+8 | reply | https://x.com/iiiinvest/status/2104449877669466618 | @besttraderever1 谢谢
+- `2104450373675335778` | 2026-09-28 13:57:22 GMT+8 | reply | https://x.com/iiiinvest/status/2104450373675335778 | @JonyNian 哎
+- `2104450403723260042` | 2026-09-28 13:57:29 GMT+8 | reply | https://x.com/iiiinvest/status/2104450403723260042 | @design_AIGC 对的
+- `2104450449940328671` | 2026-09-28 13:57:40 GMT+8 | reply | https://x.com/iiiinvest/status/2104450449940328671 | @Commuator 谢谢
+- `2104450523302912460` | 2026-09-28 13:57:58 GMT+8 | reply | https://x.com/iiiinvest/status/2104450523302912460 | @jfQvJcJWvZ81222 想让更多兄弟跟上啊
+- `2104450604169142602` | 2026-09-28 13:58:17 GMT+8 | reply | https://x.com/iiiinvest/status/2104450604169142602 | @mks1231237549 还好吧
+- `2104450702676533342` | 2026-09-28 13:58:40 GMT+8 | reply | https://x.com/iiiinvest/status/2104450702676533342 | @wangls69 看下一条推
+- `2104450822172229640` | 2026-09-28 13:59:09 GMT+8 | reply | https://x.com/iiiinvest/status/2104450822172229640 | @chang_jun_001 关键是逻辑，不是幅度，别拿着钉子看锤子
+- `2104450886093431248` | 2026-09-28 13:59:24 GMT+8 | reply | https://x.com/iiiinvest/status/2104450886093431248 | @luanalook2008 看的多，动的少是吧
+- `2104450958935957973` | 2026-09-28 13:59:42 GMT+8 | reply | https://x.com/iiiinvest/status/2104450958935957973 | @woyoule 看下个推文
+- `2104451650748559659` | 2026-09-28 14:02:27 GMT+8 | reply | https://x.com/iiiinvest/status/2104451650748559659 | @narcissus0403 量化其实也是我的思想，只不过是程序代替。另外量化真的解决很多问题，人精力有限的
+- `2104471401549983826` | 2026-09-28 15:20:55 GMT+8 | quote | https://x.com/iiiinvest/status/2104471401549983826 | 观察下来，相较于纳指，比特币含币股，今天还是挺强的。马上BG开放提现，按照逻辑提现后应该有抛售，到时候看，如果跌不下去，我会倾向于平掉了。跟紧点！ https://t.co/gPsk565GZ5
+- `2104488697458782698` | 2026-09-28 16:29:39 GMT+8 | quote | https://x.com/iiiinvest/status/2104488697458782698 | 逻辑很硬，目前看BTC确实跌的很独立！ https://t.co/PN1RuSVGd9
+- `2104493349466243311` | 2026-09-28 16:48:08 GMT+8 | original | https://x.com/iiiinvest/status/2104493349466243311 | 平掉了，
+- `2104498448712262117` | 2026-09-28 17:08:24 GMT+8 | reply | https://x.com/iiiinvest/status/2104498448712262117 | @FQYwithX 不晚
+- `2104498492232421504` | 2026-09-28 17:08:34 GMT+8 | reply | https://x.com/iiiinvest/status/2104498492232421504 | @shisang103 爱你
+- `2104498533407895655` | 2026-09-28 17:08:44 GMT+8 | reply | https://x.com/iiiinvest/status/2104498533407895655 | @cc84376122 可以
+- `2104507802173735375` | 2026-09-28 17:45:34 GMT+8 | reply | https://x.com/iiiinvest/status/2104507802173735375 | @lysuzhinan 谢谢
+- `2104507823292141793` | 2026-09-28 17:45:39 GMT+8 | reply | https://x.com/iiiinvest/status/2104507823292141793 | @Zzibin1 在
+- `2104526370445639775` | 2026-09-28 18:59:21 GMT+8 | reply | https://x.com/iiiinvest/status/2104526370445639775 | @johnonlr 看大盘
+- `2104526652957208913` | 2026-09-28 19:00:28 GMT+8 | reply | https://x.com/iiiinvest/status/2104526652957208913 | @liang32283332 🫡
+- `2104528201066406078` | 2026-09-28 19:06:38 GMT+8 | original | https://x.com/iiiinvest/status/2104528201066406078 | 比特币这是支线任务，今晚的纳指才是主线。兄弟们，我们能走到对岸吗！
+- `2104530905851408815` | 2026-09-28 19:17:22 GMT+8 | reply | https://x.com/iiiinvest/status/2104530905851408815 | @EvaCmore 运气
+- `2104541615838908456` | 2026-09-28 19:59:56 GMT+8 | original | https://x.com/iiiinvest/status/2104541615838908456 | 兄弟们，说两句真心话。
+- `2104548024190136379` | 2026-09-28 20:25:24 GMT+8 | reply | https://x.com/iiiinvest/status/2104548024190136379 | @Vann1490751 不孤单本身就有价值
+- `2104548129228173712` | 2026-09-28 20:25:49 GMT+8 | reply | https://x.com/iiiinvest/status/2104548129228173712 | @yqd12365420633 你先去把我仓位建议那篇看看
+- `2104548147892789603` | 2026-09-28 20:25:53 GMT+8 | reply | https://x.com/iiiinvest/status/2104548147892789603 | @tf3ZInIRHt11922 加油
+- `2104548413748674922` | 2026-09-28 20:26:57 GMT+8 | reply | https://x.com/iiiinvest/status/2104548413748674922 | @Timgaomy 我845开空，最高涨到851，你爆仓说明杠杆太大了
+- `2104548569126691224` | 2026-09-28 20:27:34 GMT+8 | reply | https://x.com/iiiinvest/status/2104548569126691224 | @Ivanovic_two 我感觉10倍设好止损还好
+- `2104548659916652973` | 2026-09-28 20:27:55 GMT+8 | reply | https://x.com/iiiinvest/status/2104548659916652973 | @gegewu1985 逻辑一致，2个逻辑线都验证结束了
+- `2104548730317967809` | 2026-09-28 20:28:12 GMT+8 | reply | https://x.com/iiiinvest/status/2104548730317967809 | @zhouyongyuling 券商没交易所灵活
+- `2104548768339386858` | 2026-09-28 20:28:21 GMT+8 | reply | https://x.com/iiiinvest/status/2104548768339386858 | @hnshu195671 不客气
+- `2104548953740157037` | 2026-09-28 20:29:05 GMT+8 | reply | https://x.com/iiiinvest/status/2104548953740157037 | @Commuator 应该能感受到我的真诚
+- `2104549174012432463` | 2026-09-28 20:29:58 GMT+8 | reply | https://x.com/iiiinvest/status/2104549174012432463 | @BruyneDe10 不碰
+- `2104549276366045224` | 2026-09-28 20:30:22 GMT+8 | reply | https://x.com/iiiinvest/status/2104549276366045224 | @GreenBuddaa 也许吧，且行且珍惜
+- `2104549486924345347` | 2026-09-28 20:31:12 GMT+8 | reply | https://x.com/iiiinvest/status/2104549486924345347 | @Tequilawan9 实盘应该能看到吧
+- `2104587037706006983` | 2026-09-28 23:00:25 GMT+8 | original | https://x.com/iiiinvest/status/2104587037706006983 | 真他妈绝了，我这节奏踩的太好了，我都佩服自己！
+- `2104736867166109857` | 2026-09-29 08:55:47 GMT+8 | original | https://x.com/iiiinvest/status/2104736867166109857 | 一切正常，拿住！
+- `2104757017563029840` | 2026-09-29 10:15:52 GMT+8 | original | https://x.com/iiiinvest/status/2104757017563029840 | 要成功，常庆功
+- `2104769511488618503` | 2026-09-29 11:05:30 GMT+8 | reply | https://x.com/iiiinvest/status/2104769511488618503 | @panzer_LHN 是的，市场不买单了
+- `2104769587959173622` | 2026-09-29 11:05:49 GMT+8 | reply | https://x.com/iiiinvest/status/2104769587959173622 | @BinjieX1235 🦅
+- `2104769773339054173` | 2026-09-29 11:06:33 GMT+8 | reply | https://x.com/iiiinvest/status/2104769773339054173 | @Kaman2X 大聪明
+- `2104798043363295585` | 2026-09-29 12:58:53 GMT+8 | reply | https://x.com/iiiinvest/status/2104798043363295585 | @xuqingjun 啊
+- `2104798118151884817` | 2026-09-29 12:59:11 GMT+8 | reply | https://x.com/iiiinvest/status/2104798118151884817 | @danielhugo19823 应该有影响，但大趋势不变
+- `2104798188393910434` | 2026-09-29 12:59:28 GMT+8 | reply | https://x.com/iiiinvest/status/2104798188393910434 | @JingLiuunp 纳指稳一些
+- `2104798236628439498` | 2026-09-29 12:59:39 GMT+8 | reply | https://x.com/iiiinvest/status/2104798236628439498 | @KtonLim92881 看大盘
+- `2104798352416399389` | 2026-09-29 13:00:07 GMT+8 | reply | https://x.com/iiiinvest/status/2104798352416399389 | @zzq204 不想参与
+- `2104798419630129244` | 2026-09-29 13:00:23 GMT+8 | reply | https://x.com/iiiinvest/status/2104798419630129244 | @apri_2357 一大把空的工具
+- `2104798470435651663` | 2026-09-29 13:00:35 GMT+8 | reply | https://x.com/iiiinvest/status/2104798470435651663 | @7O5Kn1gcvmyFc35 发财
+- `2104798517277716803` | 2026-09-29 13:00:46 GMT+8 | reply | https://x.com/iiiinvest/status/2104798517277716803 | @SsySsy2082409 哎
+- `2104798644729962538` | 2026-09-29 13:01:16 GMT+8 | original | https://x.com/iiiinvest/status/2104798644729962538 | 看了下，过去7天涨近7000粉丝，位列中文推第7，感谢各位的关注。
+- `2104807034550100060` | 2026-09-29 13:34:37 GMT+8 | reply | https://x.com/iiiinvest/status/2104807034550100060 | @Kaman2X 简单实现共同富裕
+- `2104807063859978354` | 2026-09-29 13:34:44 GMT+8 | reply | https://x.com/iiiinvest/status/2104807063859978354 | @Nsensci 好的
+- `2104807090485358802` | 2026-09-29 13:34:50 GMT+8 | reply | https://x.com/iiiinvest/status/2104807090485358802 | @shisang103 爱你
+- `2104807145460134318` | 2026-09-29 13:35:03 GMT+8 | reply | https://x.com/iiiinvest/status/2104807145460134318 | @Zbo827 几把门
+- `2104837958457229783` | 2026-09-29 15:37:29 GMT+8 | reply | https://x.com/iiiinvest/status/2104837958457229783 | @luge517 运气运气
+- `2104855824564977809` | 2026-09-29 16:48:29 GMT+8 | original | https://x.com/iiiinvest/status/2104855824564977809 | 纳指波动挺大的，有几个点需要注意
+- `2104895007882870934` | 2026-09-29 19:24:11 GMT+8 | original | https://x.com/iiiinvest/status/2104895007882870934 | 全世界都被川大爷操盘，对，操。
+- `2104900523107450927` | 2026-09-29 19:46:06 GMT+8 | reply | https://x.com/iiiinvest/status/2104900523107450927 | @Klark222222 10月加息肯定波动啊
+- `2104900571392270378` | 2026-09-29 19:46:18 GMT+8 | reply | https://x.com/iiiinvest/status/2104900571392270378 | @Danvi_jon 股票深度太差了
+- `2104900656108810521` | 2026-09-29 19:46:38 GMT+8 | reply | https://x.com/iiiinvest/status/2104900656108810521 | @golden1682 3倍还波动小。。。
+- `2104900775457743223` | 2026-09-29 19:47:06 GMT+8 | reply | https://x.com/iiiinvest/status/2104900775457743223 | @X5367047676897 一样
+- `2104900816373272807` | 2026-09-29 19:47:16 GMT+8 | reply | https://x.com/iiiinvest/status/2104900816373272807 | @AlexD8818 新高，说过了
+- `2104900953707352401` | 2026-09-29 19:47:49 GMT+8 | reply | https://x.com/iiiinvest/status/2104900953707352401 | @FrRjoB4qvIJHZs4 先看看再说
+- `2104907644184268951` | 2026-09-29 20:14:24 GMT+8 | original | https://x.com/iiiinvest/status/2104907644184268951 | 你，卧槽，怎么涨了，慌的一批！
+- `2104914287487774842` | 2026-09-29 20:40:48 GMT+8 | reply | https://x.com/iiiinvest/status/2104914287487774842 | @xuesiyuan920 这什么脑回路
+- `2104914398951440445` | 2026-09-29 20:41:14 GMT+8 | reply | https://x.com/iiiinvest/status/2104914398951440445 | @Commuator 我还没加，我说的心态，开盘看
+- `2104930265059766291` | 2026-09-29 21:44:17 GMT+8 | original | https://x.com/iiiinvest/status/2104930265059766291 | 看到了吗，空了10000股SOXL！ https://t.co/xr2jSyNKqY
+- `2104933678585622700` | 2026-09-29 21:57:51 GMT+8 | quote | https://x.com/iiiinvest/status/2104933678585622700 | 今天半导体确实强于大盘，我是这么想的，先试试盘，如果大盘跌，一定是半导体也涨到头。交易纪律上也比较好设置，前高止损掉就行了。 https://t.co/aT6sofZWbV
+- `2104958165297316325` | 2026-09-29 23:35:09 GMT+8 | original | https://x.com/iiiinvest/status/2104958165297316325 | 半导体SOXL的空单加到了2万股
+- `2104963326308716804` | 2026-09-29 23:55:39 GMT+8 | reply | https://x.com/iiiinvest/status/2104963326308716804 | @WengangT77917 震荡-回调，看我置顶
+- `2104963386333442065` | 2026-09-29 23:55:54 GMT+8 | reply | https://x.com/iiiinvest/status/2104963386333442065 | @Vann1490751 有点不太看好
+- `2104963464460685597` | 2026-09-29 23:56:12 GMT+8 | reply | https://x.com/iiiinvest/status/2104963464460685597 | @Matt_9419 差不多
+- `2104963595301978302` | 2026-09-29 23:56:44 GMT+8 | reply | https://x.com/iiiinvest/status/2104963595301978302 | @AndrewBit2337 谢谢
+- `2104963627535225241` | 2026-09-29 23:56:51 GMT+8 | reply | https://x.com/iiiinvest/status/2104963627535225241 | @zha67402314 能吗
+- `2104963837179166845` | 2026-09-29 23:57:41 GMT+8 | reply | https://x.com/iiiinvest/status/2104963837179166845 | @ZZP_2024 不知道，需要行情走出来
+- `2104963979101819153` | 2026-09-29 23:58:15 GMT+8 | reply | https://x.com/iiiinvest/status/2104963979101819153 | @AdrianLiii 我要成神了
+- `2104965773785784577` | 2026-09-30 00:05:23 GMT+8 | reply | https://x.com/iiiinvest/status/2104965773785784577 | @liang32283332 坚决拿下！
+- `2105086043007623220` | 2026-09-30 08:03:17 GMT+8 | original | https://x.com/iiiinvest/status/2105086043007623220 | 600万美金做空纳指、半导体逻辑思考
+- `2105161310342439002` | 2026-09-30 13:02:23 GMT+8 | original | https://x.com/iiiinvest/status/2105161310342439002 | 兄弟们，投资亦如人生，活的就是个过程，赚了就开心，开心一刻是一刻，嗨起来！
+- `2105169074934431898` | 2026-09-30 13:33:14 GMT+8 | reply | https://x.com/iiiinvest/status/2105169074934431898 | @skefb67899 一样
+- `2105169209139605992` | 2026-09-30 13:33:46 GMT+8 | reply | https://x.com/iiiinvest/status/2105169209139605992 | @Lind8vg 与时俱进
+- `2105169248884785411` | 2026-09-30 13:33:55 GMT+8 | reply | https://x.com/iiiinvest/status/2105169248884785411 | @Trash_ich_bin 好
+- `2105169274654622070` | 2026-09-30 13:34:01 GMT+8 | reply | https://x.com/iiiinvest/status/2105169274654622070 | @Bevingv 好
+- `2105169348633690296` | 2026-09-30 13:34:19 GMT+8 | reply | https://x.com/iiiinvest/status/2105169348633690296 | @AirSmithenmj 差不多
+- `2105169497984549176` | 2026-09-30 13:34:55 GMT+8 | reply | https://x.com/iiiinvest/status/2105169497984549176 | @Gp6Ps 拭目以待
+- `2105169601239953877` | 2026-09-30 13:35:19 GMT+8 | reply | https://x.com/iiiinvest/status/2105169601239953877 | @Mrchehc3y 相信自己
+- `2105169638913188344` | 2026-09-30 13:35:28 GMT+8 | reply | https://x.com/iiiinvest/status/2105169638913188344 | @jackyefu 掏出来
+- `2105169700938568010` | 2026-09-30 13:35:43 GMT+8 | reply | https://x.com/iiiinvest/status/2105169700938568010 | @GuanlliG39157 看逻辑
+- `2105170406609182793` | 2026-09-30 13:38:31 GMT+8 | reply | https://x.com/iiiinvest/status/2105170406609182793 | @AnsonChen8383 对
+- `2105170496207925551` | 2026-09-30 13:38:53 GMT+8 | reply | https://x.com/iiiinvest/status/2105170496207925551 | @jiychn888587 赚
+- `2105222302237589504` | 2026-09-30 17:04:44 GMT+8 | reply | https://x.com/iiiinvest/status/2105222302237589504 | @DCheas61075 就听你的
+- `2105225296354124088` | 2026-09-30 17:16:38 GMT+8 | original | https://x.com/iiiinvest/status/2105225296354124088 | 油价上涨，交易的是通胀逻辑。
+- `2105287408770236690` | 2026-09-30 21:23:27 GMT+8 | original | https://x.com/iiiinvest/status/2105287408770236690 | 盘前微涨，按照计划来，不纠结不内耗。尊重市场，而不是自我演戏。开盘看！
+- `2105303475785785425` | 2026-09-30 22:27:17 GMT+8 | original | https://x.com/iiiinvest/status/2105303475785785425 | 盘后美光财报
+- `2105313482380038295` | 2026-09-30 23:07:03 GMT+8 | quote | https://x.com/iiiinvest/status/2105313482380038295 | 部分兄弟说的挺好的。我认为以当前的情绪，很难带动整体半导体板块，叠加当前反弹高位，我空单拿着等盘后财报了。
+- `2105329279852851351` | 2026-10-01 00:09:50 GMT+8 | quote | https://x.com/iiiinvest/status/2105329279852851351 | 今晚定个闹钟，4点前起来看下！ https://t.co/LO8f4IZz8Z
+- `2105397067518742594` | 2026-10-01 04:39:11 GMT+8 | quote | https://x.com/iiiinvest/status/2105397067518742594 | 波动不大，挂个插针单继续睡觉了 https://t.co/S4sjWFqFE1
+- `2105458679357292794` | 2026-10-01 08:44:01 GMT+8 | original | https://x.com/iiiinvest/status/2105458679357292794 | 昨天的盘面还是挺有意思的，一会复盘下。
+- `2105478806656229693` | 2026-10-01 10:04:00 GMT+8 | original | https://x.com/iiiinvest/status/2105478806656229693 | PCE美光财报后，我的4000万空单计划
+- `2105511066742775983` | 2026-10-01 12:12:11 GMT+8 | original | https://x.com/iiiinvest/status/2105511066742775983 | 夜盘，半导体和夜盘挺强的。一般新高会反复下，我等开盘看看。
+- `2105548878062002356` | 2026-10-01 14:42:26 GMT+8 | original | https://x.com/iiiinvest/status/2105548878062002356 | 夜盘情绪起来了，纳指和半导体都创了新高。我还是开盘再决定是否止损。现在也简单了：
+- `2105582979695456415` | 2026-10-01 16:57:56 GMT+8 | quote | https://x.com/iiiinvest/status/2105582979695456415 | 盘前又跌回来了。现在的持仓体验确实很差，我知道很多兄弟在抱怨了，如果受不了我真心建议在这个位置微亏止损。
+- `2105659738080084255` | 2026-10-01 22:02:57 GMT+8 | original | https://x.com/iiiinvest/status/2105659738080084255 | 操他妈的，这逼行情到底骗了多少兄弟啊！！！
+- `2105663126775710011` | 2026-10-01 22:16:25 GMT+8 | reply | https://x.com/iiiinvest/status/2105663126775710011 | @liang32283332 😭
+- `2105663217628590266` | 2026-10-01 22:16:47 GMT+8 | reply | https://x.com/iiiinvest/status/2105663217628590266 | @cacha_lot 😭
+- `2105677846928826784` | 2026-10-01 23:14:54 GMT+8 | original | https://x.com/iiiinvest/status/2105677846928826784 | 4000万 空单 继续拿住了！
+- `2105683061577052177` | 2026-10-01 23:35:38 GMT+8 | quote | https://x.com/iiiinvest/status/2105683061577052177 | 昨晚平掉的半导体空单又加回来了，恢复到300万美金！
+- `2105683694891720911` | 2026-10-01 23:38:09 GMT+8 | reply | https://x.com/iiiinvest/status/2105683694891720911 | @WeiDeng_19 没毛病，空仓也是一种选择！我为什么做空之前说过，是因为性价比高！
+- `2105832103879594300` | 2026-10-02 09:27:52 GMT+8 | original | https://x.com/iiiinvest/status/2105832103879594300 | 行情很割裂，白天谨慎操作了。10月加息预期一跌再跌到25%了，不加息为什么行情不涨？
+- `2105869956412051766` | 2026-10-02 11:58:17 GMT+8 | quote | https://x.com/iiiinvest/status/2105869956412051766 | 币安带单，排名跑到第2名了
+- `2105981172832735601` | 2026-10-02 19:20:13 GMT+8 | original | https://x.com/iiiinvest/status/2105981172832735601 | 浮亏的时候，说啥都没意义。我不愿意说，因为该说的说完了。你也不愿意听，因为没心情。
+- `2106004523840069737` | 2026-10-02 20:53:00 GMT+8 | quote | https://x.com/iiiinvest/status/2106004523840069737 | 开盘看市场表现，尊重市场。 https://t.co/7sram4vKDd
+- `2106036605513560278` | 2026-10-02 23:00:29 GMT+8 | original | https://x.com/iiiinvest/status/2106036605513560278 | 纳指、半导体 新高
+- `2106046969261281304` | 2026-10-02 23:41:40 GMT+8 | original | https://x.com/iiiinvest/status/2106046969261281304 | 卧槽，这次非农数据一定提前泄露了！
+- `2106053921873793460` | 2026-10-03 00:09:18 GMT+8 | quote | https://x.com/iiiinvest/status/2106053921873793460 | 跌回到前高附近了，明早再看了再决定了。 https://t.co/bcbN70gvzk
+- `2106173510305644878` | 2026-10-03 08:04:30 GMT+8 | original | https://x.com/iiiinvest/status/2106173510305644878 | 报告一下，空单没平。突破后收盘没站稳新高，很大概率骗炮，多个利好站不稳，我怎么对做空越来越有信心了。快骂醒我😤！
+- `2106566841921663115` | 2026-10-04 10:07:27 GMT+8 | original | https://x.com/iiiinvest/status/2106566841921663115 | 目前这轮做空纳指和半导体，累计亏了35万美金了，200多万了！
+- `2107201035362295922` | 2026-10-06 04:07:31 GMT+8 | original | https://x.com/iiiinvest/status/2107201035362295922 | 空单，全部止损了
+- `2107447536793649580` | 2026-10-06 20:27:01 GMT+8 | original | https://x.com/iiiinvest/status/2107447536793649580 | 交易里面，止损比止盈困难一万倍。不要低估人在失去时的损失厌恶！
+- `2107770236246380748` | 2026-10-07 17:49:19 GMT+8 | original | https://x.com/iiiinvest/status/2107770236246380748 | 早一步，成了先烈？
+- `2108016385096097912` | 2026-10-08 10:07:25 GMT+8 | original | https://x.com/iiiinvest/status/2108016385096097912 | 9月到现在，先是做多SOXL MSTR赚1400万，然后做空BTC赚100万，最后做空QQQ和SOXL亏300万。
+- `2108019445130203256` | 2026-10-08 10:19:35 GMT+8 | reply | https://x.com/iiiinvest/status/2108019445130203256 | @TJ_Research ❤️
+- `2108147686679683098` | 2026-10-08 18:49:10 GMT+8 | original | https://x.com/iiiinvest/status/2108147686679683098 | 今晚我应该会继续做空，等开盘！
+- `2108194055410819526` | 2026-10-08 21:53:25 GMT+8 | original | https://x.com/iiiinvest/status/2108194055410819526 | 2000万，做空了美光！
+- `2108358455077871867` | 2026-10-09 08:46:41 GMT+8 | original | https://x.com/iiiinvest/status/2108358455077871867 | 小胜 https://t.co/mgrQcORpCX
+- `2108400965829448094` | 2026-10-09 11:35:37 GMT+8 | original | https://x.com/iiiinvest/status/2108400965829448094 | 补一下，2000万做空美光逻辑
+- `2108449123280241011` | 2026-10-09 14:46:58 GMT+8 | original | https://x.com/iiiinvest/status/2108449123280241011 | 看了你们这几天的留言，感慨，感慨~
+- `2108557530872102941` | 2026-10-09 21:57:45 GMT+8 | original | https://x.com/iiiinvest/status/2108557530872102941 | 也不知道，那个几把大的兄弟总结的：我方向正确，但总是快一步。
+- `2108563425156841517` | 2026-10-09 22:21:10 GMT+8 | reply | https://x.com/iiiinvest/status/2108563425156841517 | @luckybibiw1p 要这么明确吗
+- `2108565311721287875` | 2026-10-09 22:28:40 GMT+8 | original | https://x.com/iiiinvest/status/2108565311721287875 | 我现在的盘感是：
+- `2108707048380842007` | 2026-10-10 07:51:52 GMT+8 | original | https://x.com/iiiinvest/status/2108707048380842007 | 现在的交易所，老板已经意识到美股的机会，但下面一群人并没有跟上，比如我给他们提过一个需求：增加注册美股引导页，给我说排期很久。
+- `2108724492000477419` | 2026-10-10 09:01:11 GMT+8 | original | https://x.com/iiiinvest/status/2108724492000477419 | 美光空单赚150万了，还没平。
+- `2108791104631881901` | 2026-10-10 13:25:53 GMT+8 | original | https://x.com/iiiinvest/status/2108791104631881901 | 讲个鱼哥亏损的故事
+- `2108801406866190694` | 2026-10-10 14:06:49 GMT+8 | reply | https://x.com/iiiinvest/status/2108801406866190694 | @LKK23688 害人仙人
+- `2108837346343100644` | 2026-10-10 16:29:38 GMT+8 | reply | https://x.com/iiiinvest/status/2108837346343100644 | @ZhengGH777 目前投资都是业余时间，没全职
+- `2108837459320860814` | 2026-10-10 16:30:05 GMT+8 | reply | https://x.com/iiiinvest/status/2108837459320860814 | @blackhandXm 死扛很危险，只不过美股给人错觉太多
+- `2108837599137923141` | 2026-10-10 16:30:38 GMT+8 | reply | https://x.com/iiiinvest/status/2108837599137923141 | @x_hao_ge 和爆差不多了😂
+- `2108837670411723090` | 2026-10-10 16:30:55 GMT+8 | reply | https://x.com/iiiinvest/status/2108837670411723090 | @Davidzhang_infi 那时最好的是去大厂互联网
+- `2108837736119693794` | 2026-10-10 16:31:11 GMT+8 | reply | https://x.com/iiiinvest/status/2108837736119693794 | @klm67280349 还好吧
+- `2108837899454267584` | 2026-10-10 16:31:50 GMT+8 | reply | https://x.com/iiiinvest/status/2108837899454267584 | @apri_2357 我不是北大的
+- `2108838327214583817` | 2026-10-10 16:33:32 GMT+8 | reply | https://x.com/iiiinvest/status/2108838327214583817 | @ArLui8886 你可能高估自己的耐性了，另外不建议定投个股，还不如指数
+- `2108838415630479695` | 2026-10-10 16:33:53 GMT+8 | reply | https://x.com/iiiinvest/status/2108838415630479695 | @AdrianLiii 没有
+- `2108838445095506398` | 2026-10-10 16:34:00 GMT+8 | reply | https://x.com/iiiinvest/status/2108838445095506398 | @NehsOzz 好的
+- `2108838515811443121` | 2026-10-10 16:34:17 GMT+8 | reply | https://x.com/iiiinvest/status/2108838515811443121 | @Alex80901238134 他还在分享啊
+- `2108838624473268579` | 2026-10-10 16:34:43 GMT+8 | reply | https://x.com/iiiinvest/status/2108838624473268579 | @jiangteaa 晚点聊聊
+- `2108838739309125765` | 2026-10-10 16:35:10 GMT+8 | reply | https://x.com/iiiinvest/status/2108838739309125765 | @caotianmumu 只有茅台
+- `2108838827322376473` | 2026-10-10 16:35:31 GMT+8 | reply | https://x.com/iiiinvest/status/2108838827322376473 | @Kkkkkkkwzat 和币圈差不多
+- `2108838959677935815` | 2026-10-10 16:36:02 GMT+8 | reply | https://x.com/iiiinvest/status/2108838959677935815 | @Jupiterxoxoxo 😂
+- `2108839028305121556` | 2026-10-10 16:36:19 GMT+8 | reply | https://x.com/iiiinvest/status/2108839028305121556 | @Ontheway1981 20年
+- `2108839295201210744` | 2026-10-10 16:37:22 GMT+8 | reply | https://x.com/iiiinvest/status/2108839295201210744 | @ArLui8886 80个就得学会仓位管理了
+- `2108878869080268848` | 2026-10-10 19:14:38 GMT+8 | reply | https://x.com/iiiinvest/status/2108878869080268848 | @jerryrickknnh 工作也是配置一环，并不花费太多时间
+- `2109113304585281983` | 2026-10-11 10:46:11 GMT+8 | reply | https://x.com/iiiinvest/status/2109113304585281983 | @drizztsith87 成为历史了
+- `2109113400437756008` | 2026-10-11 10:46:34 GMT+8 | reply | https://x.com/iiiinvest/status/2109113400437756008 | @nightcruising12 指数会安全一些
+- `2109113499838459933` | 2026-10-11 10:46:58 GMT+8 | reply | https://x.com/iiiinvest/status/2109113499838459933 | @zjwdlh 那时候正是杭州房价起飞元年，而我亏没了
+- `2109113566322458982` | 2026-10-11 10:47:14 GMT+8 | reply | https://x.com/iiiinvest/status/2109113566322458982 | @ZemingWanges 加油
+- `2109113927619809665` | 2026-10-11 10:48:40 GMT+8 | reply | https://x.com/iiiinvest/status/2109113927619809665 | @404latitude 坑在没止损
+- `2109114012978061553` | 2026-10-11 10:49:00 GMT+8 | reply | https://x.com/iiiinvest/status/2109114012978061553 | @zhiweizhang0803 不影响大面
+- `2109114110856368363` | 2026-10-11 10:49:24 GMT+8 | reply | https://x.com/iiiinvest/status/2109114110856368363 | @Lucus83350 你还会回来的
+- `2109114271863124320` | 2026-10-11 10:50:02 GMT+8 | reply | https://x.com/iiiinvest/status/2109114271863124320 | @explore1320183 等AI泡沫破的时候...，不敢想
+- `2109114304289284570` | 2026-10-11 10:50:10 GMT+8 | reply | https://x.com/iiiinvest/status/2109114304289284570 | @bizihaosuan 37
+- `2109114555003756753` | 2026-10-11 10:51:10 GMT+8 | reply | https://x.com/iiiinvest/status/2109114555003756753 | @gegewu1985 15年，5000多干到2000多
+- `2109114761619382382` | 2026-10-11 10:51:59 GMT+8 | reply | https://x.com/iiiinvest/status/2109114761619382382 | @iOStuikuan 黄金原则上会被压制，资金不能进黄金
+- `2109118071093010868` | 2026-10-11 11:05:08 GMT+8 | original | https://x.com/iiiinvest/status/2109118071093010868 | 再说下 SpaceX 行情
+- `2109245572024823916` | 2026-10-11 19:31:46 GMT+8 | original | https://x.com/iiiinvest/status/2109245572024823916 | 5000万，到1亿的路在哪？
+- `2109287226890998143` | 2026-10-11 22:17:18 GMT+8 | reply | https://x.com/iiiinvest/status/2109287226890998143 | @iOStuikuan 谢谢，黄金我也有关注。
+- `2109287258281197665` | 2026-10-11 22:17:25 GMT+8 | reply | https://x.com/iiiinvest/status/2109287258281197665 | @lvyingwei1 10万
+- `2109306319522120085` | 2026-10-11 23:33:10 GMT+8 | reply | https://x.com/iiiinvest/status/2109306319522120085 | @jackcjking99 CRCL的问题是散户太多了。。。
+- `2109450269444440256` | 2026-10-12 09:05:10 GMT+8 | original | https://x.com/iiiinvest/status/2109450269444440256 | 关注下黄金
+- `2109498272985555163` | 2026-10-12 12:15:55 GMT+8 | original | https://x.com/iiiinvest/status/2109498272985555163 | 劝人长期，犹如杀人
+- `2109567229843173551` | 2026-10-12 16:49:56 GMT+8 | original | https://x.com/iiiinvest/status/2109567229843173551 | 这波做空美光+35万美金了，方向正确就拿住！ https://t.co/BvnkgNKv4F
+- `2109567793905783212` | 2026-10-12 16:52:10 GMT+8 | reply | https://x.com/iiiinvest/status/2109567793905783212 | @LKK23688 还是震荡
+- `2109568366134571041` | 2026-10-12 16:54:27 GMT+8 | reply | https://x.com/iiiinvest/status/2109568366134571041 | @Commuator 不客气
+- `2109568541641015381` | 2026-10-12 16:55:08 GMT+8 | reply | https://x.com/iiiinvest/status/2109568541641015381 | @jiangteaa 卧槽，好贴切
+- `2109568687640571978` | 2026-10-12 16:55:43 GMT+8 | reply | https://x.com/iiiinvest/status/2109568687640571978 | @DaydayStock 没毛病
+- `2109568813121548488` | 2026-10-12 16:56:13 GMT+8 | reply | https://x.com/iiiinvest/status/2109568813121548488 | @realcc_ 没跟上美光，就等下一波
+- `2109568954314428771` | 2026-10-12 16:56:47 GMT+8 | reply | https://x.com/iiiinvest/status/2109568954314428771 | @1688shops 案例来了
+- `2109569063781560679` | 2026-10-12 16:57:13 GMT+8 | reply | https://x.com/iiiinvest/status/2109569063781560679 | @Edwhiskie 优秀
+- `2109569095452790856` | 2026-10-12 16:57:20 GMT+8 | reply | https://x.com/iiiinvest/status/2109569095452790856 | @LiuLiuX8866 案例
+- `2109623625477509581` | 2026-10-12 20:34:01 GMT+8 | original | https://x.com/iiiinvest/status/2109623625477509581 | 我知道这波做空美光，不少兄弟没跟上。但我不会说你，你也别懊恼，因为，我开仓的那刻，也不能保证100%赚钱。
+- `2109648959371411481` | 2026-10-12 22:14:41 GMT+8 | original | https://x.com/iiiinvest/status/2109648959371411481 | 4180做多了黄金，总仓位800万美金，晚点补逻辑。 https://t.co/2A53XjQPTU
+- `2109810027301118133` | 2026-10-13 08:54:43 GMT+8 | original | https://x.com/iiiinvest/status/2109810027301118133 | 美光空单，盈利50万美金！ https://t.co/gJaBodgug5
+- `2109815559437398398` | 2026-10-13 09:16:42 GMT+8 | reply | https://x.com/iiiinvest/status/2109815559437398398 | @CryptoRounder 1年后就行了
+- `2109827797598556659` | 2026-10-13 10:05:20 GMT+8 | reply | https://x.com/iiiinvest/status/2109827797598556659 | @TJ_Research 🍑总用心了
+- `2109839958999728201` | 2026-10-13 10:53:39 GMT+8 | original | https://x.com/iiiinvest/status/2109839958999728201 | 看你们评论才发现：黄金逻辑没发成功。。。
+- `2109843929701212373` | 2026-10-13 11:09:26 GMT+8 | original | https://x.com/iiiinvest/status/2109843929701212373 | 黄金800万美金，多单逻辑及计划
+- `2109846872953324020` | 2026-10-13 11:21:08 GMT+8 | reply | https://x.com/iiiinvest/status/2109846872953324020 | @FrankYing996 影响个几把
+- `2109848534719889674` | 2026-10-13 11:27:44 GMT+8 | reply | https://x.com/iiiinvest/status/2109848534719889674 | @wencsshp 你要小心了
+- `2109925302457737604` | 2026-10-13 16:32:47 GMT+8 | original | https://x.com/iiiinvest/status/2109925302457737604 | 想了想，粉丝多了还是需要建个群。
+- `2109983507405840745` | 2026-10-13 20:24:04 GMT+8 | original | https://x.com/iiiinvest/status/2109983507405840745 | 存储尿崩了啊，美光空单盈利70万美金了。。。 https://t.co/MiUDBzdBVz
+- `2109985653610176670` | 2026-10-13 20:32:36 GMT+8 | reply | https://x.com/iiiinvest/status/2109985653610176670 | @ttggiug 写过逻辑的，你去翻下
+- `2109985714452725990` | 2026-10-13 20:32:50 GMT+8 | reply | https://x.com/iiiinvest/status/2109985714452725990 | @caiyun_888 🫣
+- `2109985765287673881` | 2026-10-13 20:33:02 GMT+8 | reply | https://x.com/iiiinvest/status/2109985765287673881 | @Daniel61227232 不是一个逻辑
+- `2110004203724964271` | 2026-10-13 21:46:18 GMT+8 | original | https://x.com/iiiinvest/status/2110004203724964271 | 美光空单940左右全平了
+- `2110011025345106391` | 2026-10-13 22:13:25 GMT+8 | reply | https://x.com/iiiinvest/status/2110011025345106391 | @liang32283332 😀
+- `2110022220131226106` | 2026-10-13 22:57:54 GMT+8 | original | https://x.com/iiiinvest/status/2110022220131226106 | 建群了（免费）
+- `2110176550377443524` | 2026-10-14 09:11:09 GMT+8 | reply | https://x.com/iiiinvest/status/2110176550377443524 | @QuanjianXi22974 卖出
+- `2110176968587247644` | 2026-10-14 09:12:49 GMT+8 | reply | https://x.com/iiiinvest/status/2110176968587247644 | @haodudeheshang 不错了，参考逻辑比结果更重要
+- `2110177076917805394` | 2026-10-14 09:13:14 GMT+8 | reply | https://x.com/iiiinvest/status/2110177076917805394 | @Melod88986 谢谢
+- `2110178097723253166` | 2026-10-14 09:17:18 GMT+8 | reply | https://x.com/iiiinvest/status/2110178097723253166 | @jinwu19869 谢谢
+- `2110178500770722035` | 2026-10-14 09:18:54 GMT+8 | reply | https://x.com/iiiinvest/status/2110178500770722035 | @GlLAOhtBmk62757 看下个人资料里的链接，那个就会自动绑定
+- `2110178686880395429` | 2026-10-14 09:19:38 GMT+8 | reply | https://x.com/iiiinvest/status/2110178686880395429 | @KongEzza805 谢谢
+- `2110185175816835273` | 2026-10-14 09:45:25 GMT+8 | original | https://x.com/iiiinvest/status/2110185175816835273 | 兄弟们，关于群和X分享
+- `2110278125103853716` | 2026-10-14 15:54:46 GMT+8 | original | https://x.com/iiiinvest/status/2110278125103853716 | 太多信息了，几个重复问题
+- `2110294405546668490` | 2026-10-14 16:59:28 GMT+8 | original | https://x.com/iiiinvest/status/2110294405546668490 | 说两句行情，以及黄金多单应对
+- `2110350328533340650` | 2026-10-14 20:41:41 GMT+8 | original | https://x.com/iiiinvest/status/2110350328533340650 | CPI出来，10月加息预期干到50%了，市场真的很疯癫。通胀涨应该黄金涨，现在也跟着市场下跌，说明市场逻辑在变化了。
+- `2110355530887954843` | 2026-10-14 21:02:21 GMT+8 | original | https://x.com/iiiinvest/status/2110355530887954843 | 今晚盘中看看，市场是走利空出尽的剧本，还是走避险的剧本。
+- `2110380881924010454` | 2026-10-14 22:43:05 GMT+8 | original | https://x.com/iiiinvest/status/2110380881924010454 | 市场开盘后的表现
+- `2110389577810923799` | 2026-10-14 23:17:39 GMT+8 | reply | https://x.com/iiiinvest/status/2110389577810923799 | @havefun123115 确实逻辑被证伪了，明早看价格吧
+- `2110540377807782218` | 2026-10-15 09:16:52 GMT+8 | original | https://x.com/iiiinvest/status/2110540377807782218 | 在黄金里躲暴跌
+- `2110553399850930269` | 2026-10-15 10:08:37 GMT+8 | original | https://x.com/iiiinvest/status/2110553399850930269 | 105做多了SOXL半导体
+- `2110603247031550428` | 2026-10-15 13:26:41 GMT+8 | original | https://x.com/iiiinvest/status/2110603247031550428 | 怎么敬畏金融市场？
+- `2110684997237801281` | 2026-10-15 18:51:32 GMT+8 | original | https://x.com/iiiinvest/status/2110684997237801281 | 盘前K线像死了一样，情绪太低了，大家都很谨慎。兄弟们，还能坚持的住吗？
+- `2110718398120460305` | 2026-10-15 21:04:16 GMT+8 | original | https://x.com/iiiinvest/status/2110718398120460305 | 此刻你慌得一逼，对不对？
+- `2110740934791164380` | 2026-10-15 22:33:49 GMT+8 | original | https://x.com/iiiinvest/status/2110740934791164380 | 今天也没啥好分析的，就是情绪杀，杀，杀，散户不敢买了，都慌着割肉。
+- `2110744937130254820` | 2026-10-15 22:49:43 GMT+8 | reply | https://x.com/iiiinvest/status/2110744937130254820 | @TJ_Research 老马的嘴，骗人的鬼
+- `2110754326117556407` | 2026-10-15 23:27:01 GMT+8 | reply | https://x.com/iiiinvest/status/2110754326117556407 | @liang32283332 干
+- `2110865237847241030` | 2026-10-16 06:47:45 GMT+8 | reply | https://x.com/iiiinvest/status/2110865237847241030 | @LXT_supreme 应该是金额小的原因
+- `2110882212401025168` | 2026-10-16 07:55:12 GMT+8 | original | https://x.com/iiiinvest/status/2110882212401025168 | 可以说鱼哥快了点，但别质疑鱼哥的准度。
+- `2110965760197824621` | 2026-10-16 13:27:11 GMT+8 | original | https://x.com/iiiinvest/status/2110965760197824621 | 市场上的大鳄很多的，散户恐慌的时候他们冷冷的看着，然后默默按下买入键。假如武功里有一种从天而降的掌法，那么投资上也有一种捡尸体的战法。
+- `2110973627076362576` | 2026-10-16 13:58:27 GMT+8 | original | https://x.com/iiiinvest/status/2110973627076362576 | 很多时候，交易背后就是一些灵感迸发，比如今天沃什的讲话几乎没透露任何有效信息。但在一个恐慌市场，没有坏消息，就是好消息。
+- `2111100890803581142` | 2026-10-16 22:24:09 GMT+8 | original | https://x.com/iiiinvest/status/2111100890803581142 | 1100万美金仓位！
+- `2111241744553755070` | 2026-10-17 07:43:51 GMT+8 | original | https://x.com/iiiinvest/status/2111241744553755070 | 醒了，一起来发现市场给个大耳瓜子，大波动蕴藏大机会，我梳理下发推！
+- `2111296885378142526` | 2026-10-17 11:22:58 GMT+8 | original | https://x.com/iiiinvest/status/2111296885378142526 | 纳指大跌-2.5%，原因及应对
+- `2111416943752122540` | 2026-10-17 19:20:02 GMT+8 | original | https://x.com/iiiinvest/status/2111416943752122540 | 纳指其实现在也就调整了5%，之所以你这么难受，是因为你拿的是高波动标的，或者追高进去的。
+- `2111419631630266514` | 2026-10-17 19:30:43 GMT+8 | reply | https://x.com/iiiinvest/status/2111419631630266514 | @U8Wtp8J27dBSU9I 实盘看不到吗，我下周一应该会加仓
+- `2111419693961712107` | 2026-10-17 19:30:57 GMT+8 | reply | https://x.com/iiiinvest/status/2111419693961712107 | @LKK23688 我知道我肯定能走到对岸
+- `2111977104200135028` | 2026-10-19 08:25:54 GMT+8 | original | https://x.com/iiiinvest/status/2111977104200135028 | 早，新的一周，纵情向前。半导体SOXL这轮反弹先看109能不能站上去。
+- `2112005606269984803` | 2026-10-19 10:19:10 GMT+8 | original | https://x.com/iiiinvest/status/2112005606269984803 | 800万的黄金多单平掉了
+- `2112049008495775787` | 2026-10-19 13:11:38 GMT+8 | reply | https://x.com/iiiinvest/status/2112049008495775787 | @CWr5ONBqN7p3sQ5 3年。。。
+- `2112050812293968161` | 2026-10-19 13:18:48 GMT+8 | original | https://x.com/iiiinvest/status/2112050812293968161 | 周末的时候你那么恐慌，鱼哥怎么说？
+- `2112068127731438033` | 2026-10-19 14:27:36 GMT+8 | reply | https://x.com/iiiinvest/status/2112068127731438033 | @Arthurmorg17482 加油
+- `2112152291767971858` | 2026-10-19 20:02:02 GMT+8 | original | https://x.com/iiiinvest/status/2112152291767971858 | 世人皆说赚钱好，唯有心关过不了。
+- `2112165967744979395` | 2026-10-19 20:56:23 GMT+8 | reply | https://x.com/iiiinvest/status/2112165967744979395 | @liang32283332 🫡
+- `2112169377324007487` | 2026-10-19 21:09:56 GMT+8 | original | https://x.com/iiiinvest/status/2112169377324007487 | 赚钱的时候拿不住，亏钱的时候拿死死的，这是一种穷病！
+- `2112195762918691065` | 2026-10-19 22:54:47 GMT+8 | original | https://x.com/iiiinvest/status/2112195762918691065 | 仓位就是态度，看多做多半导体SOXL，350万美金，硬吗？ https://t.co/0MBlFeX1Ew
+- `2112341230134894766` | 2026-10-20 08:32:49 GMT+8 | original | https://x.com/iiiinvest/status/2112341230134894766 | 昨晚行情中规中矩吧，尾盘一般，情绪还是没稳住，涨一点就抢跑。整体只要不继续跌就说明在反弹，继续拿着看看。
+- `2112356613386637823` | 2026-10-20 09:33:56 GMT+8 | reply | https://x.com/iiiinvest/status/2112356613386637823 | @luckybibiw1p 加油
+- `2112380706425119068` | 2026-10-20 11:09:41 GMT+8 | reply | https://x.com/iiiinvest/status/2112380706425119068 | @silverfang88 韩股还是看美股，今天跌更多是补跌
+- `2112382342455324719` | 2026-10-20 11:16:11 GMT+8 | original | https://x.com/iiiinvest/status/2112382342455324719 | 现在市场在交易什么？
+- `2112525173304037416` | 2026-10-20 20:43:44 GMT+8 | original | https://x.com/iiiinvest/status/2112525173304037416 | 今晚关注SpaceX的机会。
+- `2112546469127524688` | 2026-10-20 22:08:22 GMT+8 | original | https://x.com/iiiinvest/status/2112546469127524688 | 买入2万股SpaceX，300万美金。 https://t.co/Z4VhWzRbB1
+- `2112696605824762316` | 2026-10-21 08:04:57 GMT+8 | original | https://x.com/iiiinvest/status/2112696605824762316 | 👏
+- `2112737894121222194` | 2026-10-21 10:49:01 GMT+8 | reply | https://x.com/iiiinvest/status/2112737894121222194 | @TJ_Research ❤️
+- `2112758257265852664` | 2026-10-21 12:09:56 GMT+8 | quote | https://x.com/iiiinvest/status/2112758257265852664 | 下跌时候，能不断给你充值信仰，让你拿住。鱼哥才是你亲哥！ https://t.co/bziPTLDs7Q
+- `2112824037034672628` | 2026-10-21 16:31:19 GMT+8 | reply | https://x.com/iiiinvest/status/2112824037034672628 | @TJ_Research 主要是现在市场需要这种叙事，至于未来，市场当下不会太关心。。。
+- `2112841215297368094` | 2026-10-21 17:39:35 GMT+8 | original | https://x.com/iiiinvest/status/2112841215297368094 | 一晚+30万美金，这次让后入鱼哥的兄弟失望了。 https://t.co/SX17YmIbuV
+- `2112877618060222667` | 2026-10-21 20:04:14 GMT+8 | quote | https://x.com/iiiinvest/status/2112877618060222667 | 关于SpaceX买入的核心逻辑看这篇。股价是预期的游戏，解禁结束，星辰大海！ https://t.co/glQvqv3dnP
+- `2113112936545915386` | 2026-10-22 11:39:18 GMT+8 | quote | https://x.com/iiiinvest/status/2113112936545915386 | 昨晚尾盘涨的还不错，今天夜盘又泄了。
+- `2113248220394770553` | 2026-10-22 20:36:52 GMT+8 | original | https://x.com/iiiinvest/status/2113248220394770553 | 今天白天跌的太顺畅了，根本没有啥反弹，等开盘再看看了。如果有操作会同步。
+- `2113255014743585141` | 2026-10-22 21:03:52 GMT+8 | original | https://x.com/iiiinvest/status/2113255014743585141 | 很多兄弟可能不清楚为什么跌
+- `2113426158037635581` | 2026-10-23 08:23:56 GMT+8 | original | https://x.com/iiiinvest/status/2113426158037635581 | 醒了，昨晚跌的这么顺畅！半导体操作没跟上，目前还拿着，这次抄底变抄家了，一会聊聊行情及应对。
+- `2113450705667436930` | 2026-10-23 10:01:28 GMT+8 | original | https://x.com/iiiinvest/status/2113450705667436930 | 市场在害怕什么，以及如何应对
+- `2113474687007330449` | 2026-10-23 11:36:46 GMT+8 | original | https://x.com/iiiinvest/status/2113474687007330449 | 跌的时候怎么平衡心态？
+- `2113501683078844648` | 2026-10-23 13:24:02 GMT+8 | original | https://x.com/iiiinvest/status/2113501683078844648 | 来，兄弟们乐呵下：半导体我亏50万美金了。
+- `2113551568549413345` | 2026-10-23 16:42:16 GMT+8 | reply | https://x.com/iiiinvest/status/2113551568549413345 | @jackcjking99 没毛病
+- `2113551596718334429` | 2026-10-23 16:42:23 GMT+8 | reply | https://x.com/iiiinvest/status/2113551596718334429 | @BoboShouyu 一定能
+- `2113643976800752083` | 2026-10-23 22:49:28 GMT+8 | quote | https://x.com/iiiinvest/status/2113643976800752083 | 按照计划执行。 https://t.co/dUMyzIDBDi
+- `2113859316545438127` | 2026-10-24 13:05:09 GMT+8 | original | https://x.com/iiiinvest/status/2113859316545438127 | 赚钱只是手段，生活才是目的。周末，吃好喝好休息好，莫多想。
+- `2114556174209093901` | 2026-10-26 11:14:13 GMT+8 | original | https://x.com/iiiinvest/status/2114556174209093901 | 我对本周相对乐观，这轮调整核心是对于不确定性的避险行为。随着财报、加息等不确定性因素落地，情绪和行情会有所提振。
+- `2114611645058294159` | 2026-10-26 14:54:38 GMT+8 | original | https://x.com/iiiinvest/status/2114611645058294159 | 我最近在用Grok Bot，把投资照进了现实
+- `2114613418942669022` | 2026-10-26 15:01:41 GMT+8 | reply | https://x.com/iiiinvest/status/2114613418942669022 | @TJ_Research 其实没太大意义，今年在X没AI票的少之又少。下跌一定是痛苦的，核心是这批人换手完就可以了
+- `2114656473947181564` | 2026-10-26 17:52:46 GMT+8 | quote | https://x.com/iiiinvest/status/2114656473947181564 | 一定会反弹，你要做的是：在场。👏🏻 https://t.co/QNSaqsAGBR
+- `2114688565481542025` | 2026-10-26 20:00:17 GMT+8 | reply | https://x.com/iiiinvest/status/2114688565481542025 | @jackyefu 你对磨损一无所有
+- `2114698627159605729` | 2026-10-26 20:40:16 GMT+8 | original | https://x.com/iiiinvest/status/2114698627159605729 | 你可以质疑鱼哥快了点，但不要质疑鱼哥对于行情方向的判断。
+- `2114730287817220480` | 2026-10-26 22:46:05 GMT+8 | quote | https://x.com/iiiinvest/status/2114730287817220480 | 情绪说逆转也快，一根大阳线，千军万马来相见。好好享受这轮反弹。睡了~ https://t.co/4fI6gF6nS8
+- `2114878787561443734` | 2026-10-27 08:36:10 GMT+8 | original | https://x.com/iiiinvest/status/2114878787561443734 | 鱼哥硬不硬？掌声👏🏻
+- `2114982919941042402` | 2026-10-27 15:29:57 GMT+8 | original | https://x.com/iiiinvest/status/2114982919941042402 | 盯着A股做美股，典型分不清大小王。
+- `2114996570441871571` | 2026-10-27 16:24:11 GMT+8 | reply | https://x.com/iiiinvest/status/2114996570441871571 | @TJ_Research 全是bot操作的，为了流量吧。我自己私信都用bot处理了。感受下ai的便捷。。。
+- `2115004336141173178` | 2026-10-27 16:55:03 GMT+8 | original | https://x.com/iiiinvest/status/2115004336141173178 | 半导体的反弹会延续吗？
+- `2115011788450447785` | 2026-10-27 17:24:40 GMT+8 | reply | https://x.com/iiiinvest/status/2115011788450447785 | @PhyrexNi 核心还是有业务，没有业务有个AI有个bot也没用。但如果有业务场景，bot确实能代替人工。我目前4个bot，能代替一个助理工作。bot和小龙虾没有可比性，小龙虾门槛之高没几个人用起来
+- `2115039042488406076` | 2026-10-27 19:12:57 GMT+8 | reply | https://x.com/iiiinvest/status/2115039042488406076 | @ChocWonderLand 就问你是不是卖了
+- `2115039196322857239` | 2026-10-27 19:13:34 GMT+8 | reply | https://x.com/iiiinvest/status/2115039196322857239 | @WaterWhitekvs 最后一句理解下
+- `2115041701148668022` | 2026-10-27 19:23:31 GMT+8 | original | https://x.com/iiiinvest/status/2115041701148668022 | 别问了，SOXL没跑呢，实在不放心去订阅实盘。
+- `2115234388913099233` | 2026-10-28 08:09:12 GMT+8 | original | https://x.com/iiiinvest/status/2115234388913099233 | 又是硬醒的一天，最近电鱼哥对行情的判断准的可怕！
+- `2115276773642649799` | 2026-10-28 10:57:37 GMT+8 | reply | https://x.com/iiiinvest/status/2115276773642649799 | @IamRamenPanda 才反弹一点又开始说胡话了。。。
+- `2115280380169441745` | 2026-10-28 11:11:57 GMT+8 | original | https://x.com/iiiinvest/status/2115280380169441745 | 为什么那么多人痴迷画线
+- `2115284689703653668` | 2026-10-28 11:29:04 GMT+8 | reply | https://x.com/iiiinvest/status/2115284689703653668 | @Lucus83350 为啥总输，赢不好吗
+- `2115341900811284562` | 2026-10-28 15:16:24 GMT+8 | reply | https://x.com/iiiinvest/status/2115341900811284562 | @CryptoRounder 😂
+- `2115373454795190590` | 2026-10-28 17:21:48 GMT+8 | original | https://x.com/iiiinvest/status/2115373454795190590 | 兄弟们，半导体我吃上肉了。这段时间对你知无不言，相信你应该感受到鱼哥的真情实意。
+- `2115446551128752297` | 2026-10-28 22:12:15 GMT+8 | original | https://x.com/iiiinvest/status/2115446551128752297 | SpaceX 好弱
+- `2115451183343231268` | 2026-10-28 22:30:39 GMT+8 | reply | https://x.com/iiiinvest/status/2115451183343231268 | @TJ_Research 可能是，上次解禁上涨让人放松了警惕，老马这个鬼老头
+- `2115542550752928217` | 2026-10-29 04:33:43 GMT+8 | original | https://x.com/iiiinvest/status/2115542550752928217 | 半导体和SpaceX都走了，大科技财报在降资本开支，担心未来杀半导体业绩了。
+- `2115616022384542186` | 2026-10-29 09:25:40 GMT+8 | original | https://x.com/iiiinvest/status/2115616022384542186 | 稍等我写一下昨晚大科技财报及美联储对行情的影响
+- `2115632578229367058` | 2026-10-29 10:31:27 GMT+8 | original | https://x.com/iiiinvest/status/2115632578229367058 | 微软+谷歌+不加息，为什么跌及应对
+- `2115779834525921652` | 2026-10-29 20:16:36 GMT+8 | original | https://x.com/iiiinvest/status/2115779834525921652 | 这轮半导体反弹赚了30万美金。
+- `2115780311661605316` | 2026-10-29 20:18:30 GMT+8 | reply | https://x.com/iiiinvest/status/2115780311661605316 | @liang32283332 🤝🏻
+- `2115788411328151919` | 2026-10-29 20:50:41 GMT+8 | reply | https://x.com/iiiinvest/status/2115788411328151919 | @Trader_TOMMM 🫡
+- `2115810346586055027` | 2026-10-29 22:17:51 GMT+8 | original | https://x.com/iiiinvest/status/2115810346586055027 | 我感觉接下来的机会在：比特币
+- `2115960856840491112` | 2026-10-30 08:15:55 GMT+8 | original | https://x.com/iiiinvest/status/2115960856840491112 | 一觉醒来又变天了，半导体又尿崩了。
+- `2115980905273811027` | 2026-10-30 09:35:35 GMT+8 | reply | https://x.com/iiiinvest/status/2115980905273811027 | @tianqi1024 还错杀，哪有错杀的，都是晚杀的，醒醒吧
+- `2115982381027090576` | 2026-10-30 09:41:27 GMT+8 | original | https://x.com/iiiinvest/status/2115982381027090576 | 你们
+- `2115995468945821874` | 2026-10-30 10:33:27 GMT+8 | reply | https://x.com/iiiinvest/status/2115995468945821874 | @Guilin_Chen_ 陈总，本世纪最大空想家。。。
+- `2116004160378490958` | 2026-10-30 11:07:59 GMT+8 | reply | https://x.com/iiiinvest/status/2116004160378490958 | @DujunX 哥，放域链上
+- `2116042830728851663` | 2026-10-30 13:41:39 GMT+8 | original | https://x.com/iiiinvest/status/2116042830728851663 | 抄底？
+- `2116043170937242053` | 2026-10-30 13:43:00 GMT+8 | reply | https://x.com/iiiinvest/status/2116043170937242053 | @luckybibiw1p 可能跌出机会，等稳了再说
+- `2116082742370967764` | 2026-10-30 16:20:15 GMT+8 | reply | https://x.com/iiiinvest/status/2116082742370967764 | @TJ_Research 抱抱🍑总
+- `2116111262522454063` | 2026-10-30 18:13:35 GMT+8 | original | https://x.com/iiiinvest/status/2116111262522454063 | 今晚可能是一场很残酷很残酷的厮杀，会有大量的尸体被抬出。
+- `2116171758839693689` | 2026-10-30 22:13:58 GMT+8 | original | https://x.com/iiiinvest/status/2116171758839693689 | 今天还是谨慎，再谨慎，大跌+月末，期权集中结算日。做市商为了保证自身仓位，会加大卖压的。
+- `2116182920956367061` | 2026-10-30 22:58:19 GMT+8 | original | https://x.com/iiiinvest/status/2116182920956367061 | 半导体 跟着逃顶的，举个手🤚
+- `2116184758409625884` | 2026-10-30 23:05:37 GMT+8 | reply | https://x.com/iiiinvest/status/2116184758409625884 | @TJ_Research 加油，🍑总
+- `2116204242138792160` | 2026-10-31 00:23:03 GMT+8 | reply | https://x.com/iiiinvest/status/2116204242138792160 | @huyangpangbian 不会是我1200做空的时候吧
+- `2116256933619573139` | 2026-10-31 03:52:25 GMT+8 | original | https://x.com/iiiinvest/status/2116256933619573139 | 尾盘买入300万纳指 100万MSTR https://t.co/5WsObxRg5b
+- `2116348643678789932` | 2026-10-31 09:56:51 GMT+8 | original | https://x.com/iiiinvest/status/2116348643678789932 | 昨晚，400万美金接恐慌盘+机械卖盘❗
+- `2116350642671493352` | 2026-10-31 10:04:47 GMT+8 | reply | https://x.com/iiiinvest/status/2116350642671493352 | @liang32283332 🫡
+- `2116446740102733972` | 2026-10-31 16:26:39 GMT+8 | original | https://x.com/iiiinvest/status/2116446740102733972 | 10月这地狱行情，赚了80万美金。
+- `2116516453935731075` | 2026-10-31 21:03:40 GMT+8 | original | https://x.com/iiiinvest/status/2116516453935731075 | 今年的美股市场，是我近几年感受最割裂的，年初我其实预期很低，因为已经涨了3年。但没想到3月砸出底部后，一路高歌猛进，一直涨到6月。下半年震荡，现在又下杀，剧烈的波动，必然会让很多兄弟承受损失，甚至离开市场。
+- `2116530632880972200` | 2026-10-31 22:00:00 GMT+8 | reply | https://x.com/iiiinvest/status/2116530632880972200 | @EC77177 多少有点天赋
+- `2116539233393607054` | 2026-10-31 22:34:11 GMT+8 | reply | https://x.com/iiiinvest/status/2116539233393607054 | @kennithwu2 等我到1亿再说
+- `2116539306529702370` | 2026-10-31 22:34:28 GMT+8 | reply | https://x.com/iiiinvest/status/2116539306529702370 | @Grok30vh 你不看记录吗
+- `2116539525057134998` | 2026-10-31 22:35:20 GMT+8 | reply | https://x.com/iiiinvest/status/2116539525057134998 | @Aijunshu 赶上A股的大部队了
+- `2116539573501379012` | 2026-10-31 22:35:32 GMT+8 | reply | https://x.com/iiiinvest/status/2116539573501379012 | @hope_201706 普通人
+- `2116539786244862429` | 2026-10-31 22:36:23 GMT+8 | reply | https://x.com/iiiinvest/status/2116539786244862429 | @yyyss02 暂时没有不更新的理由
+- `2116539906646491300` | 2026-10-31 22:36:51 GMT+8 | reply | https://x.com/iiiinvest/status/2116539906646491300 | @TGeroge33666 生来就是
+- `2116711333790101938` | 2026-11-01 09:58:03 GMT+8 | original | https://x.com/iiiinvest/status/2116711333790101938 | 下周行情怎么走？
+- `2116882390127960370` | 2026-11-01 21:17:46 GMT+8 | original | https://x.com/iiiinvest/status/2116882390127960370 | 说说比特币，被盗和涨跌
+- `2117045055190089857` | 2026-11-02 08:04:08 GMT+8 | quote | https://x.com/iiiinvest/status/2117045055190089857 | 现在纳指开涨0.5%，没跟上的等等吧，今天白天亚盘应该会受周五美股影响跌一下，那时候再看有没有机会上车吧。我会持续关注，有机会同步你，我的亲弟！❤️ https://t.co/DbEBikddXH
+- `2117060578099495119` | 2026-11-02 09:05:49 GMT+8 | reply | https://x.com/iiiinvest/status/2117060578099495119 | @Jaywfire 她关注的人很多，不奇怪啊。
+- `2117091200612323755` | 2026-11-02 11:07:30 GMT+8 | original | https://x.com/iiiinvest/status/2117091200612323755 | 鱼哥好像又踏准了。你可能没跟上，但看到我近期一些列操作，对你的交易观应该是一种极大的激励。
+- `2117142732443627653` | 2026-11-02 14:32:16 GMT+8 | original | https://x.com/iiiinvest/status/2117142732443627653 | 这波“抄底”为什么不选半导体？
+- `2117175185401073670` | 2026-11-02 16:41:14 GMT+8 | reply | https://x.com/iiiinvest/status/2117175185401073670 | @LittleW38273069 等等看
+- `2117175222709416055` | 2026-11-02 16:41:22 GMT+8 | reply | https://x.com/iiiinvest/status/2117175222709416055 | @X1149561415 比较难
+- `2117175331773972952` | 2026-11-02 16:41:48 GMT+8 | reply | https://x.com/iiiinvest/status/2117175331773972952 | @Chow0227 大概率参与
+- `2117252331205238814` | 2026-11-02 21:47:47 GMT+8 | original | https://x.com/iiiinvest/status/2117252331205238814 | 鱼哥不仅对盘面有所见长，对国际局势也稍窥一角。简单称之为：牛逼。 https://t.co/DB0vhUGtMP
+- `2117270932037501148` | 2026-11-02 23:01:41 GMT+8 | quote | https://x.com/iiiinvest/status/2117270932037501148 | 纳指+0.5%，半导体龙头美光竟然是跌的。核心逻辑就是我白天发的这篇。再提醒一遍：大盘可能反转，但半导体板块牛市已经结束，放弃幻想，认清现实！ https://t.co/BQFp3MJva2
+- `2117420697928757594` | 2026-11-03 08:56:48 GMT+8 | original | https://x.com/iiiinvest/status/2117420697928757594 | 一觉醒来又跳水了，不断提示半导体风险，希望救了部分兄弟！❤️
+- `2117458532849377366` | 2026-11-03 11:27:09 GMT+8 | original | https://x.com/iiiinvest/status/2117458532849377366 | 卖出纳指QQQ，保留币股MSTR
+- `2117466971319193687` | 2026-11-03 12:00:41 GMT+8 | reply | https://x.com/iiiinvest/status/2117466971319193687 | @wngwngbn5 走掉了，因为没发所以也就没说
+- `2117580398351835171` | 2026-11-03 19:31:24 GMT+8 | original | https://x.com/iiiinvest/status/2117580398351835171 | 兄弟们，慢下来！
+- `2117641510527418813` | 2026-11-03 23:34:14 GMT+8 | original | https://x.com/iiiinvest/status/2117641510527418813 | 今天开盘走的还可以，那就看尾盘了。如果能稳住，结合明天中选落地，那么这波下跌应该就告一段落了。
+- `2117644899764081114` | 2026-11-03 23:47:42 GMT+8 | original | https://x.com/iiiinvest/status/2117644899764081114 | 比特币城不欺我，MSTR已入账10万刀~
+- `2117786569155526721` | 2026-11-04 09:10:39 GMT+8 | original | https://x.com/iiiinvest/status/2117786569155526721 | 猴市🐒
+- `2117818230471590067` | 2026-11-04 11:16:27 GMT+8 | quote | https://x.com/iiiinvest/status/2117818230471590067 | 半导体开始比纳指更抗跌，现在重点就是看纳指什么时候稳住了。
+- `2117856735805468892` | 2026-11-04 13:49:28 GMT+8 | original | https://x.com/iiiinvest/status/2117856735805468892 | 说过了，半导体反弹！ https://t.co/uKCSoSn1M5
+- `2117861070237044935` | 2026-11-04 14:06:41 GMT+8 | reply | https://x.com/iiiinvest/status/2117861070237044935 | @aiyouwei258 恭喜
+- `2117861092122919082` | 2026-11-04 14:06:46 GMT+8 | reply | https://x.com/iiiinvest/status/2117861092122919082 | @jerryrickknnh 恭喜
+- `2117861123483738283` | 2026-11-04 14:06:54 GMT+8 | reply | https://x.com/iiiinvest/status/2117861123483738283 | @li1772856 恭喜
+- `2117871409582235866` | 2026-11-04 14:47:46 GMT+8 | quote | https://x.com/iiiinvest/status/2117871409582235866 | 走了，挥一挥衣袖带走10万刀。开盘再看~ https://t.co/tc1IXqPrCa https://t.co/5q4m7H1d7U
+- `2117881987814064530` | 2026-11-04 15:29:48 GMT+8 | original | https://x.com/iiiinvest/status/2117881987814064530 | 这波，最受伤的是老马。
+- `2117932631157518571` | 2026-11-04 18:51:03 GMT+8 | quote | https://x.com/iiiinvest/status/2117932631157518571 | 大盘还在持续反弹，这里不要追了，等开盘接我们上车！
+- `2117960418857726298` | 2026-11-04 20:41:28 GMT+8 | quote | https://x.com/iiiinvest/status/2117960418857726298 | 错了，最受伤的是老马的股东。记住：老马的话可以信，老马的股别长持！
+- `2117976670485598659` | 2026-11-04 21:46:03 GMT+8 | original | https://x.com/iiiinvest/status/2117976670485598659 | 兄弟，你应该怎么面对“亏损”
+- `2117997033101594815` | 2026-11-04 23:06:57 GMT+8 | original | https://x.com/iiiinvest/status/2117997033101594815 | 比特币重回8万！ https://t.co/F5PakEY68D
+- `2118091168789754356` | 2026-11-05 05:21:01 GMT+8 | reply | https://x.com/iiiinvest/status/2118091168789754356 | @mj99admin 😎
+- `2118117465544872164` | 2026-11-05 07:05:31 GMT+8 | original | https://x.com/iiiinvest/status/2118117465544872164 | 我说不看空，你是不是抱着空单不放？
+- `2118125122997592463` | 2026-11-05 07:35:56 GMT+8 | reply | https://x.com/iiiinvest/status/2118125122997592463 | @vEdKfqp6twto4UC 👍🏻
+- `2118151915452440958` | 2026-11-05 09:22:24 GMT+8 | original | https://x.com/iiiinvest/status/2118151915452440958 | 夜盘又在跌，如果你不知道发生了什么，最好管住手！
+- `2118154414120898798` | 2026-11-05 09:32:20 GMT+8 | reply | https://x.com/iiiinvest/status/2118154414120898798 | @242_chika 因为你还拿着
+- `2118154653762457694` | 2026-11-05 09:33:17 GMT+8 | reply | https://x.com/iiiinvest/status/2118154653762457694 | @mcf0310 你懂个JB
+- `2118184777098633358` | 2026-11-05 11:32:59 GMT+8 | original | https://x.com/iiiinvest/status/2118184777098633358 | 10 - 6000万了！呱唧呱唧👏🏻👏🏻👏🏻
+- `2118185946617356664` | 2026-11-05 11:37:38 GMT+8 | reply | https://x.com/iiiinvest/status/2118185946617356664 | @NewGateway2026 别齁着
+- `2118186018516169129` | 2026-11-05 11:37:55 GMT+8 | reply | https://x.com/iiiinvest/status/2118186018516169129 | @kennithwu2 我之前发过，自己搜下仓位管理
+- `2118186108563648932` | 2026-11-05 11:38:16 GMT+8 | reply | https://x.com/iiiinvest/status/2118186108563648932 | @Luisjosenae_52 那就学
+- `2118186173617352949` | 2026-11-05 11:38:32 GMT+8 | reply | https://x.com/iiiinvest/status/2118186173617352949 | @VinceLoveLife 少亏也算赚
+- `2118186299027071310` | 2026-11-05 11:39:02 GMT+8 | reply | https://x.com/iiiinvest/status/2118186299027071310 | @musheng1212 兄弟，见识少了
+- `2118186351535567246` | 2026-11-05 11:39:14 GMT+8 | reply | https://x.com/iiiinvest/status/2118186351535567246 | @ChocWonderLand 骑上
+- `2118186419063820773` | 2026-11-05 11:39:30 GMT+8 | reply | https://x.com/iiiinvest/status/2118186419063820773 | @wangmia33812950 摆对方向
+- `2118187266967515617` | 2026-11-05 11:42:53 GMT+8 | reply | https://x.com/iiiinvest/status/2118187266967515617 | @CryptoRounder 谢谢R兄
+- `2118210965783372239` | 2026-11-05 13:17:03 GMT+8 | reply | https://x.com/iiiinvest/status/2118210965783372239 | @dark60385253 加油
+- `2118211062634029100` | 2026-11-05 13:17:26 GMT+8 | reply | https://x.com/iiiinvest/status/2118211062634029100 | @JingLiuunp 还需要时间
+- `2118211223422722074` | 2026-11-05 13:18:04 GMT+8 | reply | https://x.com/iiiinvest/status/2118211223422722074 | @Matt_9419 翻记录
+- `2118211270948327885` | 2026-11-05 13:18:16 GMT+8 | reply | https://x.com/iiiinvest/status/2118211270948327885 | @kklmt123456 股票主要在券商
+- `2118211309678535041` | 2026-11-05 13:18:25 GMT+8 | reply | https://x.com/iiiinvest/status/2118211309678535041 | @mengyun6357781 人啊
+- `2118213888416338297` | 2026-11-05 13:28:40 GMT+8 | reply | https://x.com/iiiinvest/status/2118213888416338297 | @X2786f 这还亏钱，退游吧
+- `2118214061418787099` | 2026-11-05 13:29:21 GMT+8 | reply | https://x.com/iiiinvest/status/2118214061418787099 | @ZZP_2024 急着送人头吗
+- `2118226046927708505` | 2026-11-05 14:16:58 GMT+8 | reply | https://x.com/iiiinvest/status/2118226046927708505 | @Grok30vh 拿
+- `2118252472707780825` | 2026-11-05 16:01:59 GMT+8 | original | https://x.com/iiiinvest/status/2118252472707780825 | 世界互联网大会，好像是上个时代的东西了。
+- `2118258526720295015` | 2026-11-05 16:26:02 GMT+8 | reply | https://x.com/iiiinvest/status/2118258526720295015 | @Jackyi_ld 我信你个鬼，糟老头子坏得很
+- `2118272450236723461` | 2026-11-05 17:21:22 GMT+8 | original | https://x.com/iiiinvest/status/2118272450236723461 | 抓市场主线
+- `2118315598316994904` | 2026-11-05 20:12:49 GMT+8 | quote | https://x.com/iiiinvest/status/2118315598316994904 | 很不舒服，闷闷的，那种暴风雨前寂静的感觉。如果再来一波血洗，才会把最后的恐慌盘杀出来！ https://t.co/CPCT1pUsuX
+- `2118320085379289432` | 2026-11-05 20:30:39 GMT+8 | quote | https://x.com/iiiinvest/status/2118320085379289432 | 全部止盈了，包括币比特币和币股MSTR，暂时观望，等开盘看看再说！ https://t.co/jBkBP4H9Yh https://t.co/PhcD77yMB9
+- `2118326145401975265` | 2026-11-05 20:54:44 GMT+8 | original | https://x.com/iiiinvest/status/2118326145401975265 | 草他妈的，说完10分钟就跌，这盘感绝了！
+- `2118353931273445773` | 2026-11-05 22:45:08 GMT+8 | original | https://x.com/iiiinvest/status/2118353931273445773 | 大崩，谢谢你亲哥！
+- `2118356455309070444` | 2026-11-05 22:55:10 GMT+8 | quote | https://x.com/iiiinvest/status/2118356455309070444 | 再看这句话的含金量！ https://t.co/2NhWk6n6cM
+- `2118362420964123121` | 2026-11-05 23:18:53 GMT+8 | original | https://x.com/iiiinvest/status/2118362420964123121 | 服了吗？？？
+- `2118364316894404674` | 2026-11-05 23:26:25 GMT+8 | original | https://x.com/iiiinvest/status/2118364316894404674 | 他妈的，股灾了！！！
+- `2118370024503296423` | 2026-11-05 23:49:05 GMT+8 | original | https://x.com/iiiinvest/status/2118370024503296423 | 开始逐步买入，TQQQ 和 SOXL，干他丫的！
+- `2118371901156507763` | 2026-11-05 23:56:33 GMT+8 | original | https://x.com/iiiinvest/status/2118371901156507763 | 就你们这群怂包样，反弹上去让你追高！
+- `2118478236787327078` | 2026-11-06 06:59:05 GMT+8 | original | https://x.com/iiiinvest/status/2118478236787327078 | 全网唯一，在崩盘前10分钟跑路的男人❤️
+- `2118500986243416451` | 2026-11-06 08:29:29 GMT+8 | original | https://x.com/iiiinvest/status/2118500986243416451 | 操，昨晚我喊买入几乎是日内最低点，还能被喷？
+- `2118530190909538633` | 2026-11-06 10:25:32 GMT+8 | original | https://x.com/iiiinvest/status/2118530190909538633 | 操他妈的，给我道歉！
+- `2118554067777790128` | 2026-11-06 12:00:25 GMT+8 | original | https://x.com/iiiinvest/status/2118554067777790128 | 昨晚盘前的逃顶，真的是神来之笔！
+- `2118584052592898305` | 2026-11-06 13:59:34 GMT+8 | original | https://x.com/iiiinvest/status/2118584052592898305 | 未来我会减少分享，我得学会保护自己。
+- `2118609426429231503` | 2026-11-06 15:40:23 GMT+8 | reply | https://x.com/iiiinvest/status/2118609426429231503 | @bboczeng 傻勃，实盘都堵不上你这臭嘴
+- `2118638265670729776` | 2026-11-06 17:34:59 GMT+8 | original | https://x.com/iiiinvest/status/2118638265670729776 | 小傻瓜，我怎么舍得你难过。鱼哥永远在！爱你❤️
+- `2118657536610140496` | 2026-11-06 18:51:34 GMT+8 | original | https://x.com/iiiinvest/status/2118657536610140496 | 抄底的部分先止盈了，今晚非农发布前应该还有机会。
+- `2118660209338093931` | 2026-11-06 19:02:11 GMT+8 | reply | https://x.com/iiiinvest/status/2118660209338093931 | @fxs0323 都走了，TQQQ赚2万
+- `2118695995148320833` | 2026-11-06 21:24:23 GMT+8 | original | https://x.com/iiiinvest/status/2118695995148320833 | 再买回 3 万股半导体SOXL，比想象中强！ https://t.co/0tf6iLfJ27
+- `2118876658610610540` | 2026-11-07 09:22:16 GMT+8 | original | https://x.com/iiiinvest/status/2118876658610610540 | 昨晚行情比预期要弱
+- `2118881192724557986` | 2026-11-07 09:40:17 GMT+8 | reply | https://x.com/iiiinvest/status/2118881192724557986 | @DuanHongz 跌没都亏不回去
+- `2119022499656798511` | 2026-11-07 19:01:48 GMT+8 | original | https://x.com/iiiinvest/status/2119022499656798511 | 最近行情割裂，弄的心神不宁。兄弟们周末好吃好喝好好休息，莫念~
+- `2119264559462826193` | 2026-11-08 11:03:39 GMT+8 | original | https://x.com/iiiinvest/status/2119264559462826193 | 去掉了SpaceX
+- `2119348590686695459` | 2026-11-08 16:37:34 GMT+8 | reply | https://x.com/iiiinvest/status/2119348590686695459 | @hangtienchia why not
+- `2119348730763808877` | 2026-11-08 16:38:07 GMT+8 | reply | https://x.com/iiiinvest/status/2119348730763808877 | @Noodle1988Lee 去翻记录
+- `2119348785042379094` | 2026-11-08 16:38:20 GMT+8 | reply | https://x.com/iiiinvest/status/2119348785042379094 | @jayee_gan84720 练
+- `2119349338895958082` | 2026-11-08 16:40:32 GMT+8 | reply | https://x.com/iiiinvest/status/2119349338895958082 | @xxxxdk11 做多生活，永远涨
+- `2119433317212926006` | 2026-11-08 22:14:14 GMT+8 | original | https://x.com/iiiinvest/status/2119433317212926006 | 下周走势
+- `2119437070347428203` | 2026-11-08 22:29:09 GMT+8 | reply | https://x.com/iiiinvest/status/2119437070347428203 | @TeodorTheGR 看清兄弟，我的意思是泡沫是否继续吹！
+- `2119577686914072589` | 2026-11-09 07:47:55 GMT+8 | original | https://x.com/iiiinvest/status/2119577686914072589 | 一早起来，看到老黄出轨消息。他娘的60的人了，还这么能折腾，果然美利坚养人啊。
+- `2119601336530718807` | 2026-11-09 09:21:53 GMT+8 | original | https://x.com/iiiinvest/status/2119601336530718807 | 加仓了，5万股SOXL，看多做多半导体，永远年轻永远热泪盈眶！ https://t.co/rLpOM60BJX
+- `2119615963436068951` | 2026-11-09 10:20:00 GMT+8 | quote | https://x.com/iiiinvest/status/2119615963436068951 | 他妈的，利空呢，怎么不砸了？哪位兄弟有资源，下次给老黄安排上，让他彻底对女的去魅！ https://t.co/SKnRlMISOB
+- `2119619092399415475` | 2026-11-09 10:32:26 GMT+8 | reply | https://x.com/iiiinvest/status/2119619092399415475 | @oxpsats 还有风声
+- `2119714247479607770` | 2026-11-09 16:50:33 GMT+8 | original | https://x.com/iiiinvest/status/2119714247479607770 | 慌个几把，这里是阶段底部的概率很大。分析不想看就学操作，我会拿着底仓不动，然后做做T，割一下追涨杀跌的韭菜（可以去看实盘）。
+- `2119752546696987114` | 2026-11-09 19:22:44 GMT+8 | quote | https://x.com/iiiinvest/status/2119752546696987114 | 今天2次加仓都加在低点，对你们，我真是真爱了！
+- `2119754043841233054` | 2026-11-09 19:28:41 GMT+8 | reply | https://x.com/iiiinvest/status/2119754043841233054 | @qqnrwjqb 200万美金少？
+- `2119803271342960818` | 2026-11-09 22:44:18 GMT+8 | original | https://x.com/iiiinvest/status/2119803271342960818 | 告送我，谁给你说要反弹？谁给你说别慌？谁给亲自示范？？？
+- `2119805571281088933` | 2026-11-09 22:53:26 GMT+8 | reply | https://x.com/iiiinvest/status/2119805571281088933 | @StaryZ_68 穷病
+- `2119820226393202896` | 2026-11-09 23:51:40 GMT+8 | reply | https://x.com/iiiinvest/status/2119820226393202896 | @liang32283332 给力
+- `2119823356929404991` | 2026-11-10 00:04:07 GMT+8 | original | https://x.com/iiiinvest/status/2119823356929404991 | 半导体SOXL 多单盈利35万美金了。就这走势，大戏在尾盘。睡了~ https://t.co/LSeaqZY8GG
+- `2119946222475915614` | 2026-11-10 08:12:20 GMT+8 | original | https://x.com/iiiinvest/status/2119946222475915614 | 半导体盈利40万美金了。
+- `2120023131263992267` | 2026-11-10 13:17:57 GMT+8 | original | https://x.com/iiiinvest/status/2120023131263992267 | 很多人担心今晚的CPI，我认为是脱裤子放屁。
+- `2120028506545590464` | 2026-11-10 13:39:18 GMT+8 | reply | https://x.com/iiiinvest/status/2120028506545590464 | @fei22liu 恭喜
+- `2120028543275172096` | 2026-11-10 13:39:27 GMT+8 | reply | https://x.com/iiiinvest/status/2120028543275172096 | @YangM6796 🙄
+- `2120028576833765562` | 2026-11-10 13:39:35 GMT+8 | reply | https://x.com/iiiinvest/status/2120028576833765562 | @kayinw921112 兄弟牛逼
+- `2120028628373381304` | 2026-11-10 13:39:47 GMT+8 | reply | https://x.com/iiiinvest/status/2120028628373381304 | @TonyCheung898 自己想办法
+- `2120028662229844067` | 2026-11-10 13:39:55 GMT+8 | reply | https://x.com/iiiinvest/status/2120028662229844067 | @JustinnnnLl 爱你
+- `2120028890047590510` | 2026-11-10 13:40:50 GMT+8 | reply | https://x.com/iiiinvest/status/2120028890047590510 | @zhnmng240300 😁
+- `2120029051205419408` | 2026-11-10 13:41:28 GMT+8 | reply | https://x.com/iiiinvest/status/2120029051205419408 | @Sybil70390579 相信相信的力量
+- `2120037066079957253` | 2026-11-10 14:13:19 GMT+8 | reply | https://x.com/iiiinvest/status/2120037066079957253 | @DestinedMiss 这么多追着让开付费的。。。。
+- `2120046917216526364` | 2026-11-10 14:52:28 GMT+8 | reply | https://x.com/iiiinvest/status/2120046917216526364 | @lyyyyyyyzhao 加油吧，唯有自渡
+- `2120064656308060365` | 2026-11-10 16:02:57 GMT+8 | reply | https://x.com/iiiinvest/status/2120064656308060365 | @__YellowDuck__ 🫡
+- `2120064857206849702` | 2026-11-10 16:03:45 GMT+8 | reply | https://x.com/iiiinvest/status/2120064857206849702 | @jkl_showmaker 着眼当下
+- `2120078548383977591` | 2026-11-10 16:58:09 GMT+8 | reply | https://x.com/iiiinvest/status/2120078548383977591 | @thankUcrypto 哥哥，那是营销文，话说交易所确实比券商有些优势
+- `2120082576429989944` | 2026-11-10 17:14:10 GMT+8 | original | https://x.com/iiiinvest/status/2120082576429989944 | 再声明下
+- `2120087993579176186` | 2026-11-10 17:35:41 GMT+8 | reply | https://x.com/iiiinvest/status/2120087993579176186 | @jimqwvna 缅你妹
+- `2120160093828485498` | 2026-11-10 22:22:11 GMT+8 | original | https://x.com/iiiinvest/status/2120160093828485498 | 知道很多人在等我信息，但其实完全没必要。
+- `2120160267640414642` | 2026-11-10 22:22:53 GMT+8 | reply | https://x.com/iiiinvest/status/2120160267640414642 | @liang32283332 干
+- `2120160436687720677` | 2026-11-10 22:23:33 GMT+8 | reply | https://x.com/iiiinvest/status/2120160436687720677 | @Dt_5102 还没空
+- `2120166279638294960` | 2026-11-10 22:46:46 GMT+8 | reply | https://x.com/iiiinvest/status/2120166279638294960 | @youziba1 很多时候大家就是需要一个：有人在一起 的感觉
+- `2120168514300584084` | 2026-11-10 22:55:39 GMT+8 | reply | https://x.com/iiiinvest/status/2120168514300584084 | @liang32283332 ❤️
+- `2120168686787174605` | 2026-11-10 22:56:20 GMT+8 | reply | https://x.com/iiiinvest/status/2120168686787174605 | @jinzeyu2007 知道什么叫专业吗
+- `2120175710161740113` | 2026-11-10 23:24:14 GMT+8 | quote | https://x.com/iiiinvest/status/2120175710161740113 | 半导体SOXL逼近60了！
+- `2120177585040838704` | 2026-11-10 23:31:41 GMT+8 | reply | https://x.com/iiiinvest/status/2120177585040838704 | @akiac590945 半导体不光存储
+- `2120177653710012789` | 2026-11-10 23:31:58 GMT+8 | reply | https://x.com/iiiinvest/status/2120177653710012789 | @BoboShouyu 等后面机会呗
+- `2120177819091370021` | 2026-11-10 23:32:37 GMT+8 | reply | https://x.com/iiiinvest/status/2120177819091370021 | @JohnSmi79357856 长点心吧
+- `2120177949131641269` | 2026-11-10 23:33:08 GMT+8 | reply | https://x.com/iiiinvest/status/2120177949131641269 | @youziba1 谢谢哈
+- `2120306425415283052` | 2026-11-11 08:03:39 GMT+8 | original | https://x.com/iiiinvest/status/2120306425415283052 | 几把门早，晚点复盘下昨晚行情，问题不大！❤️
+- `2120326603536523414` | 2026-11-11 09:23:50 GMT+8 | original | https://x.com/iiiinvest/status/2120326603536523414 | 半导体走势及应对
+- `2120330491807347109` | 2026-11-11 09:39:17 GMT+8 | reply | https://x.com/iiiinvest/status/2120330491807347109 | @YefengX 那逼人害人太惨！
+- `2120330629716062594` | 2026-11-11 09:39:50 GMT+8 | reply | https://x.com/iiiinvest/status/2120330629716062594 | @JustinnnnLl 🫡
+- `2120330776894173690` | 2026-11-11 09:40:25 GMT+8 | reply | https://x.com/iiiinvest/status/2120330776894173690 | @wang_qiao920923 可以了
+- `2120347723388064214` | 2026-11-11 10:47:46 GMT+8 | reply | https://x.com/iiiinvest/status/2120347723388064214 | @PigBtc 那你不够聪明
+- `2120366590810341724` | 2026-11-11 12:02:44 GMT+8 | original | https://x.com/iiiinvest/status/2120366590810341724 | 半导体SOXL盈利55万美金了！
+- `2120402111901143149` | 2026-11-11 14:23:53 GMT+8 | reply | https://x.com/iiiinvest/status/2120402111901143149 | @gg_xlg 印
+- `2120402572871962714` | 2026-11-11 14:25:43 GMT+8 | reply | https://x.com/iiiinvest/status/2120402572871962714 | @mqsken 够了
+- `2120402612185165909` | 2026-11-11 14:25:52 GMT+8 | reply | https://x.com/iiiinvest/status/2120402612185165909 | @UsYwwda5k 恭喜
+- `2120447970957197575` | 2026-11-11 17:26:06 GMT+8 | original | https://x.com/iiiinvest/status/2120447970957197575 | 常庆功，才成功！不要压抑自己，嗨起来~ ！~ ！
+- `2120449635936518329` | 2026-11-11 17:32:43 GMT+8 | reply | https://x.com/iiiinvest/status/2120449635936518329 | @BooobWealth 吃点好的不好吗
+- `2120449745303097744` | 2026-11-11 17:33:09 GMT+8 | reply | https://x.com/iiiinvest/status/2120449745303097744 | @Thefool_0401 知道了，今晚洗干净
+- `2120474781317571045` | 2026-11-11 19:12:39 GMT+8 | original | https://x.com/iiiinvest/status/2120474781317571045 | 经过这次半导体底部做多，你肯定更能理解“对了拿住”这话的重量！ https://t.co/Aatomw8u0H
+- `2120497802035995100` | 2026-11-11 20:44:07 GMT+8 | reply | https://x.com/iiiinvest/status/2120497802035995100 | @bbnomula17 后面还有机会，多锻炼
+- `2120499964581425635` | 2026-11-11 20:52:43 GMT+8 | original | https://x.com/iiiinvest/status/2120499964581425635 | 我之前说过，在我这里，你跟单赚点钱是其次的，最重要的是会刷新你的交易观！
+- `2120503282628211129` | 2026-11-11 21:05:54 GMT+8 | reply | https://x.com/iiiinvest/status/2120503282628211129 | @Oliver_bigqaq 掏出来自己弹
+- `2120503727513809373` | 2026-11-11 21:07:40 GMT+8 | reply | https://x.com/iiiinvest/status/2120503727513809373 | @Peter02818 躲墙角和仙子一桌去了
+- `2120528950787260418` | 2026-11-11 22:47:54 GMT+8 | original | https://x.com/iiiinvest/status/2120528950787260418 | 半导体多单全部止盈了！这次反弹总共赚了55万美金，知足。 https://t.co/aqYed6ZAA9
+- `2120660508177264800` | 2026-11-12 07:30:39 GMT+8 | original | https://x.com/iiiinvest/status/2120660508177264800 | 醒了，英伟达又开始带头下跌了。
+- `2120679750545052095` | 2026-11-12 08:47:07 GMT+8 | reply | https://x.com/iiiinvest/status/2120679750545052095 | @JohnLockeeuxo 不客气，一会聊聊后续行情
+- `2120679845630022017` | 2026-11-12 08:47:30 GMT+8 | reply | https://x.com/iiiinvest/status/2120679845630022017 | @YYigongDing 都是假的，烦死了
+- `2120680161939161449` | 2026-11-12 08:48:45 GMT+8 | reply | https://x.com/iiiinvest/status/2120680161939161449 | @HectorQin99 意识层面应该是的。我们更影响考虑对交易的影响
+- `2120686426937491661` | 2026-11-12 09:13:39 GMT+8 | original | https://x.com/iiiinvest/status/2120686426937491661 | 半导体反弹结束了吗？
+- `2120688384771506651` | 2026-11-12 09:21:26 GMT+8 | reply | https://x.com/iiiinvest/status/2120688384771506651 | @rn02jbg 恭喜
+- `2120688455386824912` | 2026-11-12 09:21:42 GMT+8 | reply | https://x.com/iiiinvest/status/2120688455386824912 | @PrettyBeeBabe 好的，亲妹
+- `2120695898871349540` | 2026-11-12 09:51:17 GMT+8 | reply | https://x.com/iiiinvest/status/2120695898871349540 | @JasperZhu0304 先观察下吧
+- `2120696026491507031` | 2026-11-12 09:51:47 GMT+8 | reply | https://x.com/iiiinvest/status/2120696026491507031 | @xxxLD666 你再离谱点我就信了
+- `2120696138466783377` | 2026-11-12 09:52:14 GMT+8 | reply | https://x.com/iiiinvest/status/2120696138466783377 | @Sc4ven 一起加油
+- `2120737868880736687` | 2026-11-12 12:38:04 GMT+8 | original | https://x.com/iiiinvest/status/2120737868880736687 | 千万别把“现实”带进“投资”
+- `2120776436156162174` | 2026-11-12 15:11:19 GMT+8 | reply | https://x.com/iiiinvest/status/2120776436156162174 | @apri_2357 情绪是当下，预期是未来
+- `2120776553080717597` | 2026-11-12 15:11:47 GMT+8 | reply | https://x.com/iiiinvest/status/2120776553080717597 | @IamMemory_exp 说他都算看的起他了，让他自生自灭吧
+- `2120776622899106022` | 2026-11-12 15:12:03 GMT+8 | reply | https://x.com/iiiinvest/status/2120776622899106022 | @StephenS777777 进个几把
+- `2120806411064201241` | 2026-11-12 17:10:25 GMT+8 | original | https://x.com/iiiinvest/status/2120806411064201241 | 无论什么行情，都有兄弟亏损
+- `2120818921423139208` | 2026-11-12 18:00:08 GMT+8 | reply | https://x.com/iiiinvest/status/2120818921423139208 | @Davidpxod 就针对你？
+- `2120819725144068182` | 2026-11-12 18:03:20 GMT+8 | reply | https://x.com/iiiinvest/status/2120819725144068182 | @Neverpaobu What？
+- `2120819792949256213` | 2026-11-12 18:03:36 GMT+8 | reply | https://x.com/iiiinvest/status/2120819792949256213 | @mqsken 恭喜
+- `2120821592867717278` | 2026-11-12 18:10:45 GMT+8 | reply | https://x.com/iiiinvest/status/2120821592867717278 | @Jackyi_ld 你就是个菜逼。。。
+- `2120861171649806431` | 2026-11-12 20:48:01 GMT+8 | original | https://x.com/iiiinvest/status/2120861171649806431 | 很多兄弟按耐不住想开单了
+- `2120863105626570954` | 2026-11-12 20:55:42 GMT+8 | reply | https://x.com/iiiinvest/status/2120863105626570954 | @groakyxzs 开多还是开空？开多逆势，开空性价比高吗
+- `2120863287063859415` | 2026-11-12 20:56:26 GMT+8 | reply | https://x.com/iiiinvest/status/2120863287063859415 | @dz4704264752507 好的，谢谢
+- `2120883965745943007` | 2026-11-12 22:18:36 GMT+8 | quote | https://x.com/iiiinvest/status/2120883965745943007 | 黄仁勋卸任了！卧槽，真几把牛逼，全球市值第一的公司说干就干了，尼玛，谁说资本主义的，全他妈是政治！ https://t.co/FHZ1VdQBke
+- `2120900304069861714` | 2026-11-12 23:23:31 GMT+8 | original | https://x.com/iiiinvest/status/2120900304069861714 | 美元破了近1年新高，美债收益率也在涨，石油筑底也在反弹，半导体板块在英伟达利空的打击下，并没有加速下跌。
+- `2120909682084839708` | 2026-11-13 00:00:47 GMT+8 | reply | https://x.com/iiiinvest/status/2120909682084839708 | @Mikealong24 你同伙太多，难了
+- `2120909863094251803` | 2026-11-13 00:01:30 GMT+8 | reply | https://x.com/iiiinvest/status/2120909863094251803 | @ktclqt5 等稳住再说
+- `2120910027808793027` | 2026-11-13 00:02:09 GMT+8 | reply | https://x.com/iiiinvest/status/2120910027808793027 | @ChocWonderLand 像猎人一样
+- `2120910082594754607` | 2026-11-13 00:02:22 GMT+8 | reply | https://x.com/iiiinvest/status/2120910082594754607 | @LKK23688 加油
+- `2121035559695220796` | 2026-11-13 08:20:59 GMT+8 | original | https://x.com/iiiinvest/status/2121035559695220796 | 醒了，低开高走再回调，这种只能做做日内短线，多拿一天都是煎熬一天。
+- `2121074323867984231` | 2026-11-13 10:55:01 GMT+8 | reply | https://x.com/iiiinvest/status/2121074323867984231 | @LMMT112 👍🏻
+- `2121090078575612199` | 2026-11-13 11:57:37 GMT+8 | original | https://x.com/iiiinvest/status/2121090078575612199 | 半导体走势及计划
+- `2121090712573972723` | 2026-11-13 12:00:08 GMT+8 | reply | https://x.com/iiiinvest/status/2121090712573972723 | @TJ_Research 所以，不做多头也不做空头，做滑头~
+- `2121091445281165558` | 2026-11-13 12:03:03 GMT+8 | reply | https://x.com/iiiinvest/status/2121091445281165558 | @SGLH05 兄弟，宏观最近哪有利好。。。
+- `2121091579058541051` | 2026-11-13 12:03:35 GMT+8 | reply | https://x.com/iiiinvest/status/2121091579058541051 | @zhao78391 都可以啊，前高做空，低点做多，看自己技术，没技术就等着。
+- `2121097430225875090` | 2026-11-13 12:26:50 GMT+8 | reply | https://x.com/iiiinvest/status/2121097430225875090 | @CryptoRounder 需要等外围变好了
+- `2121101066934915303` | 2026-11-13 12:41:17 GMT+8 | reply | https://x.com/iiiinvest/status/2121101066934915303 | @CryptoRounder 加油，会熬过去的。
+- `2121112483322794010` | 2026-11-13 13:26:39 GMT+8 | reply | https://x.com/iiiinvest/status/2121112483322794010 | @LuYao_Trader 你坚持错了方向，来美股吧
+- `2121122829282525582` | 2026-11-13 14:07:45 GMT+8 | original | https://x.com/iiiinvest/status/2121122829282525582 | 抬眼看，最痛的时候可能要来了
+- `2121126960692916401` | 2026-11-13 14:24:10 GMT+8 | reply | https://x.com/iiiinvest/status/2121126960692916401 | @idolxduo 那是插针策略，小群说过。占我仓位很小，谨慎模仿！
+- `2121172719681294532` | 2026-11-13 17:26:00 GMT+8 | original | https://x.com/iiiinvest/status/2121172719681294532 | 币安实盘，盈利排名又进入前3了！
+- `2121173669951271268` | 2026-11-13 17:29:47 GMT+8 | reply | https://x.com/iiiinvest/status/2121173669951271268 | @Jackyi_ld 你不说话对比特币就是最大贡献，闭嘴！谢谢！
+- `2121173968183001458` | 2026-11-13 17:30:58 GMT+8 | reply | https://x.com/iiiinvest/status/2121173968183001458 | @xxxgucc1_xxx 干净吗
+- `2121174450372808801` | 2026-11-13 17:32:53 GMT+8 | reply | https://x.com/iiiinvest/status/2121174450372808801 | @Mark01_btc 这个是带单，从聪明钱里看
+- `2121177976326996175` | 2026-11-13 17:46:53 GMT+8 | reply | https://x.com/iiiinvest/status/2121177976326996175 | @Mark01_btc 因为不相信
+- `2121196076296532014` | 2026-11-13 18:58:49 GMT+8 | reply | https://x.com/iiiinvest/status/2121196076296532014 | @RolarkLawrence 自己去看曲线，如果只靠一波我认为价值不大
+- `2121216576355721478` | 2026-11-13 20:20:16 GMT+8 | original | https://x.com/iiiinvest/status/2121216576355721478 | 比特币今天跌的有点多，时间线上一片FUD之声。其实我也没想到，这波比特币从6万涨到8.7万又回到6.8万，基本把信仰减半周期的都套了。
+- `2121257754870554757` | 2026-11-13 23:03:54 GMT+8 | quote | https://x.com/iiiinvest/status/2121257754870554757 | 半导体跌破60了，又带兄弟们逃了顶！
+- `2121264601765732829` | 2026-11-13 23:31:06 GMT+8 | reply | https://x.com/iiiinvest/status/2121264601765732829 | @zhaoyun0001 没那么多为什么
+- `2121416841478455767` | 2026-11-14 09:36:03 GMT+8 | original | https://x.com/iiiinvest/status/2121416841478455767 | 说过很多次了
+- `2121422633808085460` | 2026-11-14 09:59:04 GMT+8 | reply | https://x.com/iiiinvest/status/2121422633808085460 | @pi2Uri7ZZH45080 机会永不缺
+- `2121422912716673340` | 2026-11-14 10:00:11 GMT+8 | reply | https://x.com/iiiinvest/status/2121422912716673340 | @jace20212 😂
+- `2121422943511277994` | 2026-11-14 10:00:18 GMT+8 | reply | https://x.com/iiiinvest/status/2121422943511277994 | @coastline2050 你不是一个人
+- `2121423046905053546` | 2026-11-14 10:00:43 GMT+8 | reply | https://x.com/iiiinvest/status/2121423046905053546 | @Archmage_996 再来一次全回去
+- `2121447149821181990` | 2026-11-14 11:36:29 GMT+8 | reply | https://x.com/iiiinvest/status/2121447149821181990 | @JustinnnnLl 🤝🏻
+- `2121558170728636475` | 2026-11-14 18:57:39 GMT+8 | original | https://x.com/iiiinvest/status/2121558170728636475 | 周末还是那句：好吃，好喝，好好休息🌹。
+- `2121559918063100300` | 2026-11-14 19:04:35 GMT+8 | reply | https://x.com/iiiinvest/status/2121559918063100300 | @NickTigerHH 赞
+- `2121782843580060080` | 2026-11-15 09:50:25 GMT+8 | original | https://x.com/iiiinvest/status/2121782843580060080 | 越是飘摇的时候越要稳住阵脚，晚上发对下周的判断。
+- `2121923021481078877` | 2026-11-15 19:07:26 GMT+8 | quote | https://x.com/iiiinvest/status/2121923021481078877 | 下周，纳指/半导体走势
+- `2121929773937254431` | 2026-11-15 19:34:16 GMT+8 | reply | https://x.com/iiiinvest/status/2121929773937254431 | @blackrabbit_f 先攒着
+- `2121930260845576280` | 2026-11-15 19:36:12 GMT+8 | reply | https://x.com/iiiinvest/status/2121930260845576280 | @cuonggiau2 吊毛，说中文
+- `2121930814422450647` | 2026-11-15 19:38:24 GMT+8 | reply | https://x.com/iiiinvest/status/2121930814422450647 | @nier1216 这是市场主流声音，但大部分赚不到钱的原因你想想为什么
+- `2121932615322353716` | 2026-11-15 19:45:33 GMT+8 | reply | https://x.com/iiiinvest/status/2121932615322353716 | @hxzzdhx 这个视角挺好，但我认为现在不是看英伟达一家公司，而是AI整体。
+- `2121964708882444666` | 2026-11-15 21:53:05 GMT+8 | reply | https://x.com/iiiinvest/status/2121964708882444666 | @dajunluo2 吆喝，看来是个大户啊
+- `2121964942404509771` | 2026-11-15 21:54:01 GMT+8 | reply | https://x.com/iiiinvest/status/2121964942404509771 | @Stevenneidong 不然关注市场的意义是什么
+- `2122138197950173642` | 2026-11-16 09:22:28 GMT+8 | original | https://x.com/iiiinvest/status/2122138197950173642 | 今天凌晨有一个关于黄仁勋回归的新闻，早盘冲高了一下，但这种新闻和实质利好还是有区别，还是按照周末计划来。
+- `2122139266658758879` | 2026-11-16 09:26:43 GMT+8 | reply | https://x.com/iiiinvest/status/2122139266658758879 | @DdX1045330 你活在梦里吗
+- `2122141983548567916` | 2026-11-16 09:37:31 GMT+8 | reply | https://x.com/iiiinvest/status/2122141983548567916 | @xiaozhang2j 套个时间差
+- `2122283614637551734` | 2026-11-16 19:00:18 GMT+8 | original | https://x.com/iiiinvest/status/2122283614637551734 | 寂静，死一般的寂静。
+- `2122287862523818209` | 2026-11-16 19:17:11 GMT+8 | reply | https://x.com/iiiinvest/status/2122287862523818209 | @lewang_teraliq 等等
+- `2122292075639251420` | 2026-11-16 19:33:55 GMT+8 | reply | https://x.com/iiiinvest/status/2122292075639251420 | @sven_bullish 尼玛，懂了
+- `2122325386457411842` | 2026-11-16 21:46:17 GMT+8 | original | https://x.com/iiiinvest/status/2122325386457411842 | 致：陷在半导体泥潭的兄弟
+- `2122330835227726153` | 2026-11-16 22:07:56 GMT+8 | reply | https://x.com/iiiinvest/status/2122330835227726153 | @0x7Hz 都装死对吧
+- `2122330989733323075` | 2026-11-16 22:08:33 GMT+8 | reply | https://x.com/iiiinvest/status/2122330989733323075 | @LiuLiuX8866 还好，我抓住了做空美光的点。
+- `2122334934392299664` | 2026-11-16 22:24:14 GMT+8 | reply | https://x.com/iiiinvest/status/2122334934392299664 | @huiyuanai_x 对，大部分人还是用了杠杆ETF，更不能长持
+- `2122349328924815450` | 2026-11-16 23:21:26 GMT+8 | reply | https://x.com/iiiinvest/status/2122349328924815450 | @Ronan_KCEX 我何止清了，我美光1200做空，10月1100又继续空，抓住了所有顶点做空。。。
+- `2122355381225816108` | 2026-11-16 23:45:28 GMT+8 | original | https://x.com/iiiinvest/status/2122355381225816108 | 太弱了。
+- `2122359752021926395` | 2026-11-17 00:02:51 GMT+8 | reply | https://x.com/iiiinvest/status/2122359752021926395 | @mj99admin 我感觉意义不大
+- `2122480247010652568` | 2026-11-17 08:01:39 GMT+8 | original | https://x.com/iiiinvest/status/2122480247010652568 | 醒了，你不得不承认，我对行情的判断很准。
+- `2122492456260554954` | 2026-11-17 08:50:10 GMT+8 | reply | https://x.com/iiiinvest/status/2122492456260554954 | @justinsuntron 滑天下之大稽
+- `2122492581380841755` | 2026-11-17 08:50:40 GMT+8 | reply | https://x.com/iiiinvest/status/2122492581380841755 | @AdrianLiii 怎么做到的
+- `2122492659516551397` | 2026-11-17 08:50:58 GMT+8 | reply | https://x.com/iiiinvest/status/2122492659516551397 | @I9Z8ihIMNv21188 耐心是美好品德
+- `2122511177909682334` | 2026-11-17 10:04:33 GMT+8 | original | https://x.com/iiiinvest/status/2122511177909682334 | 半导体今日计划
+- `2122517160551653465` | 2026-11-17 10:28:20 GMT+8 | reply | https://x.com/iiiinvest/status/2122517160551653465 | @lesliedqbb 他娘的，中文都看不懂
+- `2122522043317137916` | 2026-11-17 10:47:44 GMT+8 | reply | https://x.com/iiiinvest/status/2122522043317137916 | @Thefool_0401 爱你
+- `2122522436063338752` | 2026-11-17 10:49:17 GMT+8 | reply | https://x.com/iiiinvest/status/2122522436063338752 | @wngwngbn5 他都死了，还学他
+- `2122531593369895275` | 2026-11-17 11:25:41 GMT+8 | original | https://x.com/iiiinvest/status/2122531593369895275 | 买了！
+- `2122590115335987232` | 2026-11-17 15:18:13 GMT+8 | reply | https://x.com/iiiinvest/status/2122590115335987232 | @zhao78391 好好学习
+- `2122590236849115454` | 2026-11-17 15:18:42 GMT+8 | reply | https://x.com/iiiinvest/status/2122590236849115454 | @xxxLD666 就你能
+- `2122615808178466996` | 2026-11-17 17:00:19 GMT+8 | reply | https://x.com/iiiinvest/status/2122615808178466996 | @XueJieYaa 妈的AI说的一道一道的
+- `2122625030660247711` | 2026-11-17 17:36:58 GMT+8 | quote | https://x.com/iiiinvest/status/2122625030660247711 | 慌个几把，看到我怎么写的了吗？
+- `2122654236735607046` | 2026-11-17 19:33:01 GMT+8 | reply | https://x.com/iiiinvest/status/2122654236735607046 | @200nextyear 来，亮单子
+- `2122654806355607654` | 2026-11-17 19:35:17 GMT+8 | quote | https://x.com/iiiinvest/status/2122654806355607654 | 草他妈，对手盘呢，出来走两步！ https://t.co/uHW0DWuCBF
+- `2122713561118167265` | 2026-11-17 23:28:45 GMT+8 | original | https://x.com/iiiinvest/status/2122713561118167265 | 多军总司令要睡了~
+- `2122840736341332055` | 2026-11-18 07:54:06 GMT+8 | quote | https://x.com/iiiinvest/status/2122840736341332055 | 昨晚多军拿下空军首级，接下来我会带领多军乘胜追击，直捣老巢。
+- `2122859812451180679` | 2026-11-18 09:09:54 GMT+8 | reply | https://x.com/iiiinvest/status/2122859812451180679 | @TJ_Research ❤️
+- `2122860499151007846` | 2026-11-18 09:12:38 GMT+8 | reply | https://x.com/iiiinvest/status/2122860499151007846 | @fei22liu 坦克车，谢谢
+- `2122864981339410531` | 2026-11-18 09:30:27 GMT+8 | reply | https://x.com/iiiinvest/status/2122864981339410531 | @liang32283332 ❤️
+- `2122890907985084895` | 2026-11-18 11:13:28 GMT+8 | quote | https://x.com/iiiinvest/status/2122890907985084895 | 周三计划
+- `2122919736371753143` | 2026-11-18 13:08:01 GMT+8 | reply | https://x.com/iiiinvest/status/2122919736371753143 | @seyha186 去看实盘
+- `2122925212119547913` | 2026-11-18 13:29:47 GMT+8 | reply | https://x.com/iiiinvest/status/2122925212119547913 | @ihitfk @seyha186 主页看不到？？？
+- `2122989092216754521` | 2026-11-18 17:43:37 GMT+8 | original | https://x.com/iiiinvest/status/2122989092216754521 | 行情如果能一直推土机一样上涨，那就稳了。
+- `2123023755010265197` | 2026-11-18 20:01:21 GMT+8 | original | https://x.com/iiiinvest/status/2123023755010265197 | 半导体多单平掉了，盈利22万美金。
+- `2123072399176610294` | 2026-11-18 23:14:39 GMT+8 | quote | https://x.com/iiiinvest/status/2123072399176610294 | 这个位置反弹的太弱了，该强不强就是弱。
+- `2123076202101686551` | 2026-11-18 23:29:46 GMT+8 | reply | https://x.com/iiiinvest/status/2123076202101686551 | @4amPokerFace 聪明钱里搜
+- `2123209085617402230` | 2026-11-19 08:17:47 GMT+8 | original | https://x.com/iiiinvest/status/2123209085617402230 | 震了一晚，有点虚啊。一会聊聊后续吧❤️
+- `2123230087441166816` | 2026-11-19 09:41:15 GMT+8 | quote | https://x.com/iiiinvest/status/2123230087441166816 | 周四计划
+- `2123233330082808031` | 2026-11-19 09:54:08 GMT+8 | reply | https://x.com/iiiinvest/status/2123233330082808031 | @oxpsats 做滑头
+- `2123240938629939246` | 2026-11-19 10:24:22 GMT+8 | reply | https://x.com/iiiinvest/status/2123240938629939246 | @CooperQ999 我说过，大部分人并不适合长线。你搜搜
+- `2123241479187603762` | 2026-11-19 10:26:31 GMT+8 | reply | https://x.com/iiiinvest/status/2123241479187603762 | @Li38115919 谢谢
+- `2123241532807594223` | 2026-11-19 10:26:43 GMT+8 | reply | https://x.com/iiiinvest/status/2123241532807594223 | @weiweiyiku 然后成为鱼哥
+- `2123245024460812714` | 2026-11-19 10:40:36 GMT+8 | reply | https://x.com/iiiinvest/status/2123245024460812714 | @CooperQ999 短期都判断不准，你长期就判断准了？
+- `2123245102718218721` | 2026-11-19 10:40:55 GMT+8 | reply | https://x.com/iiiinvest/status/2123245102718218721 | @Yixiansheng0904 亏出经验也是好事
+- `2123251403439374741` | 2026-11-19 11:05:57 GMT+8 | reply | https://x.com/iiiinvest/status/2123251403439374741 | @CooperQ999 太年轻
+- `2123256494292688916` | 2026-11-19 11:26:11 GMT+8 | reply | https://x.com/iiiinvest/status/2123256494292688916 | @Joesrxqj 傻der，人家这是借喻，这个“你”就是读书的你
+- `2123287758961820030` | 2026-11-19 13:30:25 GMT+8 | original | https://x.com/iiiinvest/status/2123287758961820030 | 如果你看不懂
+- `2123305078480404871` | 2026-11-19 14:39:14 GMT+8 | reply | https://x.com/iiiinvest/status/2123305078480404871 | @TZMoreNRoll 尼玛，进进出出的你以为啥呢
+- `2123305146084122839` | 2026-11-19 14:39:30 GMT+8 | reply | https://x.com/iiiinvest/status/2123305146084122839 | @lesliedqbb 懂个几把
+- `2123348841793830920` | 2026-11-19 17:33:08 GMT+8 | quote | https://x.com/iiiinvest/status/2123348841793830920 | 给我认真起来
+- `2123354754168582484` | 2026-11-19 17:56:38 GMT+8 | reply | https://x.com/iiiinvest/status/2123354754168582484 | @Jackie279023585 不懂别乱说
+- `2123369487198236919` | 2026-11-19 18:55:10 GMT+8 | reply | https://x.com/iiiinvest/status/2123369487198236919 | @Godblessyou007 下次清醒的时候别操作
+- `2123392327104524337` | 2026-11-19 20:25:56 GMT+8 | original | https://x.com/iiiinvest/status/2123392327104524337 | Anthropic 首日机会
+- `2123393164631498978` | 2026-11-19 20:29:15 GMT+8 | reply | https://x.com/iiiinvest/status/2123393164631498978 | @nwj202607 嗯，多睡会
+- `2123442087190544681` | 2026-11-19 23:43:39 GMT+8 | original | https://x.com/iiiinvest/status/2123442087190544681 | 这吊世界还会好吗，+2%开盘都能转跌。
+- `2123442774821523712` | 2026-11-19 23:46:23 GMT+8 | reply | https://x.com/iiiinvest/status/2123442774821523712 | @liangfen9897 晚上找个妹子抱着吧
+- `2123442956703330428` | 2026-11-19 23:47:07 GMT+8 | reply | https://x.com/iiiinvest/status/2123442956703330428 | @Yixiansheng0904 有没有一种可能，一直在案板上。。。
+- `2123444869414965534` | 2026-11-19 23:54:43 GMT+8 | reply | https://x.com/iiiinvest/status/2123444869414965534 | @wxcxzx98 没上当。。。
+- `2123444984858988859` | 2026-11-19 23:55:10 GMT+8 | reply | https://x.com/iiiinvest/status/2123444984858988859 | @MichaelHer8639 睡着就不痛了
+- `2123464994075689168` | 2026-11-20 01:14:41 GMT+8 | quote | https://x.com/iiiinvest/status/2123464994075689168 | 根据指导思想，ANT高开太多空了一把，赚了7万美金。 https://t.co/h0f64TkjWu https://t.co/CSBLyUvkp9
+- `2123465764753600854` | 2026-11-20 01:17:45 GMT+8 | reply | https://x.com/iiiinvest/status/2123465764753600854 | @MadisonZho23083 睡了，狗命要紧
+- `2123569105395466349` | 2026-11-20 08:08:23 GMT+8 | original | https://x.com/iiiinvest/status/2123569105395466349 | 天塌了，纳指、标普、道指三大指数全部破位了。周二52多卖掉半导体，又逃顶了，最近你鱼哥神了。。。
+- `2123579141677334593` | 2026-11-20 08:48:16 GMT+8 | reply | https://x.com/iiiinvest/status/2123579141677334593 | @ChocWonderLand ❤️
+- `2123579171129471070` | 2026-11-20 08:48:23 GMT+8 | reply | https://x.com/iiiinvest/status/2123579171129471070 | @LKK23688 ❤️
+- `2123591224070476173` | 2026-11-20 09:36:16 GMT+8 | reply | https://x.com/iiiinvest/status/2123591224070476173 | @plink0719 活该，让你们注册币安为什么不搞呢，纳闷。
+- `2123591518527328380` | 2026-11-20 09:37:27 GMT+8 | reply | https://x.com/iiiinvest/status/2123591518527328380 | @Joe_pkuer 你心真大，我都发过参照了
+- `2123597259082506681` | 2026-11-20 10:00:15 GMT+8 | original | https://x.com/iiiinvest/status/2123597259082506681 | 管不住手被套的
+- `2123600619659526497` | 2026-11-20 10:13:36 GMT+8 | reply | https://x.com/iiiinvest/status/2123600619659526497 | @greenci81 啥基调？我说认真对待不对吗？？？
+- `2123603813580046588` | 2026-11-20 10:26:18 GMT+8 | original | https://x.com/iiiinvest/status/2123603813580046588 | 很多人，并不懂交易，枉费真心，多说无益！💔
+- `2123954935574512042` | 2026-11-21 09:41:32 GMT+8 | original | https://x.com/iiiinvest/status/2123954935574512042 | 调整一下，休息一下，兄弟勿念。❤️
+- `2124304416857891005` | 2026-11-22 08:50:15 GMT+8 | original | https://x.com/iiiinvest/status/2124304416857891005 | 兄弟们，我来了
+- `2124349029785931889` | 2026-11-22 11:47:31 GMT+8 | reply | https://x.com/iiiinvest/status/2124349029785931889 | @liang32283332 ❤️
+- `2124366229813199253` | 2026-11-22 12:55:52 GMT+8 | reply | https://x.com/iiiinvest/status/2124366229813199253 | @c_x123456 网贷是咱家开的对吧
+- `2124366349153763551` | 2026-11-22 12:56:21 GMT+8 | reply | https://x.com/iiiinvest/status/2124366349153763551 | @LKK23688 ❤️
+- `2124366820375228924` | 2026-11-22 12:58:13 GMT+8 | reply | https://x.com/iiiinvest/status/2124366820375228924 | @GundamExiaR1 除了骗子不会拉黑任何人，各美其美。
+- `2124367162735292923` | 2026-11-22 12:59:35 GMT+8 | reply | https://x.com/iiiinvest/status/2124367162735292923 | @AKheVFRitM1108 你懂我啊，他们枉费我真心了
+- `2124398554970202586` | 2026-11-22 15:04:19 GMT+8 | reply | https://x.com/iiiinvest/status/2124398554970202586 | @rdsad4 今晚我梳理后会发
+- `2124454176898097469` | 2026-11-22 18:45:20 GMT+8 | quote | https://x.com/iiiinvest/status/2124454176898097469 | 当前市场 及 下周应对
+- `2124459201208746034` | 2026-11-22 19:05:18 GMT+8 | reply | https://x.com/iiiinvest/status/2124459201208746034 | @laozhang2579 ❤️
+- `2124459798146289989` | 2026-11-22 19:07:41 GMT+8 | reply | https://x.com/iiiinvest/status/2124459798146289989 | @GavMomentum07 加油
+- `2124459996738146475` | 2026-11-22 19:08:28 GMT+8 | reply | https://x.com/iiiinvest/status/2124459996738146475 | @hgsjz1 好的，大家知晓下。核心逻辑不变
+- `2124460984819732847` | 2026-11-22 19:12:24 GMT+8 | reply | https://x.com/iiiinvest/status/2124460984819732847 | @TJ_Research 桃总别再推荐我了🙏🏻
+- `2124702211997614405` | 2026-11-23 11:10:57 GMT+8 | quote | https://x.com/iiiinvest/status/2124702211997614405 | 根据周末所说的观察点，周一核心是观察：是否企稳。
+- `2124835615745401259` | 2026-11-23 20:01:02 GMT+8 | quote | https://x.com/iiiinvest/status/2124835615745401259 | 盘前还是很强的， 纳指横在3%以上一天。还是等到开盘决定。耐心等待🫡 https://t.co/sgnGuCR5IK
+- `2124858567354404972` | 2026-11-23 21:32:15 GMT+8 | reply | https://x.com/iiiinvest/status/2124858567354404972 | @fei22liu 那都是骗子，认准本号
+- `2124868065443930374` | 2026-11-23 22:09:59 GMT+8 | quote | https://x.com/iiiinvest/status/2124868065443930374 | 操他妈的，黄仁勋回归！计划打乱了！ https://t.co/iCmZ0KsmGj
+- `2124872738762362980` | 2026-11-23 22:28:33 GMT+8 | original | https://x.com/iiiinvest/status/2124872738762362980 | 先买2万股SOXL，越跌越买，熔断限制了上涨，小心轧空。 https://t.co/s1GamZOkob
+- `2124881634105430037` | 2026-11-23 23:03:54 GMT+8 | quote | https://x.com/iiiinvest/status/2124881634105430037 | 又加了2万股SOXL和2万股TQQQ。总占30%左右仓位，等尾盘再看下要不要加。 https://t.co/LhjlnlY6ji https://t.co/MyKTlm6UIj
+- `2124883966549524640` | 2026-11-23 23:13:10 GMT+8 | reply | https://x.com/iiiinvest/status/2124883966549524640 | @JieCheng853057 夜盘短线赚的，实际刚41买入
+- `2125019223550459977` | 2026-11-24 08:10:38 GMT+8 | original | https://x.com/iiiinvest/status/2125019223550459977 | 昨晚变化太大，一会聊下后续计划。❤️
+- `2125045242059764137` | 2026-11-24 09:54:01 GMT+8 | quote | https://x.com/iiiinvest/status/2125045242059764137 | 周二计划
+- `2125047685858423053` | 2026-11-24 10:03:44 GMT+8 | reply | https://x.com/iiiinvest/status/2125047685858423053 | @DreamWalkesy 不是博弈重点
+- `2125059909528260783` | 2026-11-24 10:52:18 GMT+8 | reply | https://x.com/iiiinvest/status/2125059909528260783 | @AISolomonAI 😂
+- `2125158673203048455` | 2026-11-24 17:24:45 GMT+8 | quote | https://x.com/iiiinvest/status/2125158673203048455 | 盘前下跌了些，我继续39买了 5000 SOXL，按照计划越跌越买。
+- `2125165053078839443` | 2026-11-24 17:50:06 GMT+8 | reply | https://x.com/iiiinvest/status/2125165053078839443 | @Joe_pkuer 小群

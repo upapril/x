@@ -1,0 +1,1541 @@
+{
+  "collected_at_utc": "2026-11-24T12:29:16Z",
+  "collected_at_shanghai": "2026-11-24T20:29:16+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RFG7EXH5XT0MJPED8KYBP.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2018-08-01T00:00:00Z",
+    "end_time": "2018-09-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2018-08"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1028788755006509056",
+      "created_at": "2018-08-13T00:09:45.000Z",
+      "display_text_range": [
+        11,
+        72
+      ],
+      "edit_history_tweet_ids": [
+        "1028795706859896833"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "106109075",
+            "start": 0,
+            "username": "magicleap"
+          }
+        ]
+      },
+      "id": "1028795706859896833",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1028788755006509056",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@magicleap And it charges using USB-C, meaning I can use my Mac charger!",
+      "url": "https://x.com/alexandr_wang/status/1028795706859896833"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1028788750304735232"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1028788755006509056",
+      "created_at": "2018-08-12T23:42:07.000Z",
+      "display_text_range": [
+        0,
+        158
+      ],
+      "edit_history_tweet_ids": [
+        "1028788755006509056"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "106109075",
+            "start": 1,
+            "username": "magicleap"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/r9loGO3byy",
+            "end": 182,
+            "expanded_url": "https://x.com/alexandr_wang/status/1028788755006509056/photo/1",
+            "media_key": "3_1028788750304735232",
+            "start": 159,
+            "url": "https://t.co/r9loGO3byy"
+          }
+        ]
+      },
+      "id": "1028788755006509056",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 0,
+        "like_count": 104,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 15
+      },
+      "text": ".@magicleap One. Exceeds expectations.\n\nCurrently building a LIDAR visualizer—most excited I've been to hack on something in a long time.\n\nKudos to the team!! https://t.co/r9loGO3byy",
+      "url": "https://x.com/alexandr_wang/status/1028788755006509056"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1027971398914924544",
+      "created_at": "2018-08-10T17:34:14.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1027971398914924544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "33846451",
+            "start": 3,
+            "username": "Accel"
+          },
+          {
+            "end": 96,
+            "id": "14989226",
+            "start": 82,
+            "username": "daniel_levine"
+          }
+        ]
+      },
+      "id": "1027971398914924544",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1027971333651488768",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Accel: With more than 10,000 people doing @scaleAPI tasks all over the world, @daniel_levine reflects on Scale's journey to-date, where…",
+      "url": "https://x.com/alexandr_wang/status/1027971398914924544"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1027737308827549696",
+      "created_at": "2018-08-10T02:04:03.000Z",
+      "display_text_range": [
+        0,
+        100
+      ],
+      "edit_history_tweet_ids": [
+        "1027737308827549696"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "14989226",
+            "start": 3,
+            "username": "daniel_levine"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "accel.com/interests/OurI…",
+            "end": 100,
+            "expanded_url": "http://www.accel.com/interests/OurInvestmentinScale",
+            "start": 77,
+            "url": "https://t.co/0hLFKGPJvC"
+          }
+        ]
+      },
+      "id": "1027737308827549696",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1027714960535613441",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @daniel_levine: The Next Step of AI: Our Continued Investment in Scale -  https://t.co/0hLFKGPJvC",
+      "url": "https://x.com/alexandr_wang/status/1027737308827549696"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026968202222424067",
+      "created_at": "2018-08-08T06:17:56.000Z",
+      "display_text_range": [
+        8,
+        83
+      ],
+      "edit_history_tweet_ids": [
+        "1027076425398898688"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "7458572",
+            "start": 0,
+            "username": "ediggs"
+          },
+          {
+            "end": 59,
+            "id": "33836629",
+            "start": 50,
+            "username": "karpathy"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "karpathy.github.io/2015/11/14/ai/",
+            "end": 83,
+            "expanded_url": "http://karpathy.github.io/2015/11/14/ai/",
+            "start": 60,
+            "status": 200,
+            "unwound_url": "http://karpathy.github.io/2015/11/14/ai/",
+            "url": "https://t.co/m67PnNqR3V"
+          }
+        ]
+      },
+      "id": "1027076425398898688",
+      "in_reply_to_user_id": "7458572",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026968202222424067",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ediggs yep—premise of this sci-fi short story by @karpathy https://t.co/m67PnNqR3V",
+      "url": "https://x.com/alexandr_wang/status/1027076425398898688"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1027074235833839616",
+      "created_at": "2018-08-08T06:09:14.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1027074235833839616"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "817386",
+            "start": 3,
+            "username": "Techmeme"
+          }
+        ]
+      },
+      "id": "1027074235833839616",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026947621942951937",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Techmeme: Scale, a managed marketplace for contractors who examine and categorize visual data to train AI systems, raises $18M Series B…",
+      "url": "https://x.com/alexandr_wang/status/1027074235833839616"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026952610891231232",
+      "created_at": "2018-08-07T22:07:15.000Z",
+      "display_text_range": [
+        15,
+        81
+      ],
+      "edit_history_tweet_ids": [
+        "1026952940181893120"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "26895943",
+            "start": 0,
+            "username": "cjc"
+          }
+        ]
+      },
+      "id": "1026952940181893120",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 7,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@cjc @scaleAPI Thanks Cristina!! Your basement was an integral part of the story!",
+      "url": "https://x.com/alexandr_wang/status/1026952940181893120"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026828308174921728",
+      "created_at": "2018-08-07T17:47:35.000Z",
+      "display_text_range": [
+        8,
+        21
+      ],
+      "edit_history_tweet_ids": [
+        "1026887593026179072"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "116669011",
+            "start": 0,
+            "username": "ilyasu"
+          }
+        ]
+      },
+      "id": "1026887593026179072",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "@ilyasu Thanks Ilya!!",
+      "url": "https://x.com/alexandr_wang/status/1026887593026179072"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026886845345329152",
+      "created_at": "2018-08-07T17:44:37.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1026886845345329152"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "16953157",
+            "start": 3,
+            "username": "WIREDTransport"
+          }
+        ]
+      },
+      "id": "1026886845345329152",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026800313586601985",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @WIREDTransport: If data-labeling companies like Scale API have to re-do the same kind of work for multiple autonomous driving companies…",
+      "url": "https://x.com/alexandr_wang/status/1026886845345329152"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026886712507609088",
+      "created_at": "2018-08-07T17:44:05.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1026886712507609088"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "816653",
+            "start": 3,
+            "username": "TechCrunch"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "tcrn.ch/2Mvkpu4",
+            "end": 139,
+            "expanded_url": "https://tcrn.ch/2Mvkpu4",
+            "start": 116,
+            "unwound_url": "https://tcrn.ch/2Mvkpu4",
+            "url": "https://t.co/koHo5hJPUp"
+          }
+        ]
+      },
+      "id": "1026886712507609088",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026878011587665921",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @TechCrunch: Scale, whose army of humans annotate raw data to train self-driving and other AI systems, nabs $18M https://t.co/koHo5hJPUp…",
+      "url": "https://x.com/alexandr_wang/status/1026886712507609088"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026884721039441920",
+      "created_at": "2018-08-07T17:36:10.000Z",
+      "display_text_range": [
+        0,
+        89
+      ],
+      "edit_history_tweet_ids": [
+        "1026884721039441920"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "113130846",
+            "start": 3,
+            "username": "ycombinator"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scaleapi.com/blog/series-b",
+            "end": 89,
+            "expanded_url": "https://www.scaleapi.com/blog/series-b",
+            "start": 66,
+            "url": "https://t.co/i0AMa3Fbh6"
+          }
+        ]
+      },
+      "id": "1026884721039441920",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 13
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026884457255632899",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ycombinator: Congrats to @scaleAPI on raising their Series B: https://t.co/i0AMa3Fbh6",
+      "url": "https://x.com/alexandr_wang/status/1026884721039441920"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026877763955740673",
+      "created_at": "2018-08-07T17:30:49.000Z",
+      "display_text_range": [
+        0,
+        38
+      ],
+      "edit_history_tweet_ids": [
+        "1026883373094981632"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1344951",
+            "start": 5,
+            "username": "WIRED"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "wired.com/story/scale-ai…",
+            "end": 38,
+            "expanded_url": "https://www.wired.com/story/scale-ai-label-share-self-driving-data/",
+            "start": 15,
+            "status": 200,
+            "unwound_url": "https://www.wired.com/story/scale-ai-label-share-self-driving-data/",
+            "url": "https://t.co/e42M0YBGne"
+          }
+        ]
+      },
+      "id": "1026883373094981632",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "from @WIRED : \nhttps://t.co/e42M0YBGne",
+      "url": "https://x.com/alexandr_wang/status/1026883373094981632"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026877763955740673",
+      "created_at": "2018-08-07T17:30:38.000Z",
+      "display_text_range": [
+        0,
+        43
+      ],
+      "edit_history_tweet_ids": [
+        "1026883328660496385"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "60642052",
+            "start": 5,
+            "username": "VentureBeat"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "venturebeat.com/2018/08/07/sca…",
+            "end": 43,
+            "expanded_url": "https://venturebeat.com/2018/08/07/scale-raises-18-million-to-label-data-from-autonomous-car-companies-like-lyft-and-embark/",
+            "start": 20,
+            "status": 200,
+            "unwound_url": "https://venturebeat.com/business/scale-raises-18-million-to-label-data-from-autonomous-car-companies-like-lyft-and-embark",
+            "url": "https://t.co/IQgbOJkMKg"
+          }
+        ]
+      },
+      "id": "1026883328660496385",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026877763955740673",
+          "type": "replied_to"
+        }
+      ],
+      "text": "From @VentureBeat :\nhttps://t.co/IQgbOJkMKg",
+      "url": "https://x.com/alexandr_wang/status/1026883328660496385"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026877763955740673",
+      "created_at": "2018-08-07T17:30:17.000Z",
+      "display_text_range": [
+        0,
+        48
+      ],
+      "edit_history_tweet_ids": [
+        "1026883240978669568"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "techcrunch.com/2018/08/07/sca…",
+            "end": 48,
+            "expanded_url": "https://techcrunch.com/2018/08/07/scale-whose-army-of-humans-annotate-raw-data-to-train-self-driving-and-other-ai-systems-nabs-18m/",
+            "start": 25,
+            "status": 200,
+            "unwound_url": "https://techcrunch.com/2018/08/07/scale-whose-army-of-humans-annotate-raw-data-to-train-self-driving-and-other-ai-systems-nabs-18m/",
+            "url": "https://t.co/z8VJ5SCUID"
+          }
+        ]
+      },
+      "id": "1026883240978669568",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026877763955740673",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Coverage on the funding:\nhttps://t.co/z8VJ5SCUID",
+      "url": "https://x.com/alexandr_wang/status/1026883240978669568"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026880264641769472",
+      "created_at": "2018-08-07T17:18:28.000Z",
+      "display_text_range": [
+        0,
+        103
+      ],
+      "edit_history_tweet_ids": [
+        "1026880264641769472"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "19908394",
+            "start": 1,
+            "username": "mavolpi"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/mavolpi/status…",
+            "end": 127,
+            "expanded_url": "https://twitter.com/mavolpi/status/1026852306099220481",
+            "start": 104,
+            "url": "https://t.co/obPSQFMMoV"
+          }
+        ]
+      },
+      "id": "1026880264641769472",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026852306099220481",
+          "type": "quoted"
+        }
+      ],
+      "text": ".@mavolpi has been absolutely incredible to work with. Not hard to see why he'll have 3+ IPOs this year https://t.co/obPSQFMMoV",
+      "url": "https://x.com/alexandr_wang/status/1026880264641769472"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026878895365058560",
+      "created_at": "2018-08-07T17:13:01.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1026878895365058560"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 92,
+            "id": "19720395",
+            "start": 78,
+            "username": "IndexVentures"
+          },
+          {
+            "end": 104,
+            "id": "33846451",
+            "start": 98,
+            "username": "Accel"
+          },
+          {
+            "end": 118,
+            "id": "113130846",
+            "start": 106,
+            "username": "ycombinator"
+          },
+          {
+            "end": 132,
+            "id": "14225267",
+            "start": 120,
+            "username": "drewhouston"
+          }
+        ]
+      },
+      "id": "1026878895365058560",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026878553663533057",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaleAPI: Exciting news! Scale has raised $18M in Series B funding led by @IndexVentures with @Accel, @ycombinator, @drewhouston and @j…",
+      "url": "https://x.com/alexandr_wang/status/1026878895365058560"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026877763955740673",
+      "created_at": "2018-08-07T17:08:32.000Z",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "edit_history_tweet_ids": [
+        "1026877763955740673"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 62,
+            "id": "19908394",
+            "start": 54,
+            "username": "mavolpi"
+          },
+          {
+            "end": 82,
+            "id": "19720395",
+            "start": 68,
+            "username": "IndexVentures"
+          },
+          {
+            "end": 90,
+            "id": "33846451",
+            "start": 84,
+            "username": "Accel"
+          },
+          {
+            "end": 104,
+            "id": "113130846",
+            "start": 92,
+            "username": "ycombinator"
+          },
+          {
+            "end": 118,
+            "id": "14225267",
+            "start": 106,
+            "username": "drewhouston"
+          },
+          {
+            "end": 136,
+            "id": "28917111",
+            "start": 126,
+            "username": "justinkan"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scaleapi.com/about#jobs",
+            "end": 258,
+            "expanded_url": "http://scaleapi.com/about#jobs",
+            "start": 235,
+            "status": 200,
+            "unwound_url": "https://scale.com/about",
+            "url": "https://t.co/Uu6fst7nSP"
+          },
+          {
+            "display_url": "scaleapi.com/blog/series-b",
+            "end": 284,
+            "expanded_url": "https://www.scaleapi.com/blog/series-b",
+            "start": 261,
+            "url": "https://t.co/kuhA1FCoQT"
+          }
+        ]
+      },
+      "id": "1026877763955740673",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 62,
+        "quote_count": 1,
+        "reply_count": 10,
+        "retweet_count": 11
+      },
+      "text": "Thrilled to announce the @scaleAPI $18M Series B with @mavolpi from @IndexVentures, @Accel, @ycombinator, @drewhouston, &amp; @justinkan to build AWS for AI.\n\nWant to solve the challenges of applying AI to the real world? We're hiring https://t.co/Uu6fst7nSP \n\nhttps://t.co/kuhA1FCoQT",
+      "url": "https://x.com/alexandr_wang/status/1026877763955740673"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1026859628225646592",
+      "created_at": "2018-08-07T15:56:28.000Z",
+      "display_text_range": [
+        0,
+        110
+      ],
+      "edit_history_tweet_ids": [
+        "1026859628225646592"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "19908394",
+            "start": 3,
+            "username": "mavolpi"
+          },
+          {
+            "end": 58,
+            "id": "615818451",
+            "start": 44,
+            "username": "alexandr_wang"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "wired.com/story/scale-ai…",
+            "end": 110,
+            "expanded_url": "https://www.wired.com/story/scale-ai-label-share-self-driving-data/?mbid=social_twitter_onsiteshare",
+            "start": 87,
+            "status": 200,
+            "unwound_url": "https://www.wired.com/story/scale-ai-label-share-self-driving-data/?mbid=social_twitter_onsiteshare",
+            "url": "https://t.co/jVdaARcIgi"
+          }
+        ]
+      },
+      "id": "1026859628225646592",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1026855834205057025",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @mavolpi: Great article on @scaleAPI and @alexandr_wang: Powering computer vision - https://t.co/jVdaARcIgi",
+      "url": "https://x.com/alexandr_wang/status/1026859628225646592"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1028788750304735232",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1028788750304735232"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1028788755006509056",
+        "created_at": "2018-08-12T23:42:07.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_history_tweet_ids": [
+          "1028788755006509056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "106109075",
+              "start": 1,
+              "username": "magicleap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9loGO3byy",
+              "end": 182,
+              "expanded_url": "https://x.com/alexandr_wang/status/1028788755006509056/photo/1",
+              "media_key": "3_1028788750304735232",
+              "start": 159,
+              "url": "https://t.co/r9loGO3byy"
+            }
+          ]
+        },
+        "id": "1028788755006509056",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 0,
+          "like_count": 104,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "text": ".@magicleap One. Exceeds expectations.\n\nCurrently building a LIDAR visualizer—most excited I've been to hack on something in a long time.\n\nKudos to the team!! https://t.co/r9loGO3byy"
+      },
+      {
+        "author_id": "33846451",
+        "conversation_id": "1027971333651488768",
+        "created_at": "2018-08-10T17:33:59.000Z",
+        "display_text_range": [
+          0,
+          245
+        ],
+        "edit_history_tweet_ids": [
+          "1027971333651488768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 245,
+              "start": 233,
+              "tag": "AccelFamily"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 85,
+              "id": "14989226",
+              "start": 71,
+              "username": "daniel_levine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "accel.com/interests/OurI…",
+              "end": 232,
+              "expanded_url": "https://www.accel.com/interests/OurInvestmentinScale",
+              "start": 209,
+              "url": "https://t.co/Hh0SoagK2P"
+            }
+          ]
+        },
+        "id": "1027971333651488768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "text": "With more than 10,000 people doing @scaleAPI tasks all over the world, @daniel_levine reflects on Scale's journey to-date, where the future of AI is headed and why we believe it could be the next macro-trend: https://t.co/Hh0SoagK2P #AccelFamily"
+      },
+      {
+        "author_id": "14989226",
+        "conversation_id": "1027714960535613441",
+        "created_at": "2018-08-10T00:35:15.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_history_tweet_ids": [
+          "1027714960535613441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "accel.com/interests/OurI…",
+              "end": 81,
+              "expanded_url": "http://www.accel.com/interests/OurInvestmentinScale",
+              "start": 58,
+              "url": "https://t.co/0hLFKGPJvC"
+            }
+          ]
+        },
+        "id": "1027714960535613441",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "The Next Step of AI: Our Continued Investment in Scale -  https://t.co/0hLFKGPJvC"
+      },
+      {
+        "author_id": "7458572",
+        "conversation_id": "1026968202222424067",
+        "created_at": "2018-08-07T23:07:54.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_history_tweet_ids": [
+          "1026968202222424067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Techmeme/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Techmeme/status/1026947621942951937",
+              "start": 60,
+              "url": "https://t.co/M9pir5qfRU"
+            }
+          ]
+        },
+        "id": "1026968202222424067",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1026947621942951937",
+            "type": "quoted"
+          }
+        ],
+        "text": "The jobs of the future - “AI trainer” will be high up there https://t.co/M9pir5qfRU"
+      },
+      {
+        "author_id": "817386",
+        "conversation_id": "1026947621942951937",
+        "created_at": "2018-08-07T21:46:07.000Z",
+        "display_text_range": [
+          0,
+          225
+        ],
+        "edit_history_tweet_ids": [
+          "1026947621942951937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 162,
+              "id": "21662638",
+              "start": 149,
+              "username": "ingridlunden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "techcrunch.com/2018/08/07/sca…",
+              "end": 201,
+              "expanded_url": "http://techcrunch.com/2018/08/07/scale-whose-army-of-humans-annotate-raw-data-to-train-self-driving-and-other-ai-systems-nabs-18m/",
+              "start": 178,
+              "status": 200,
+              "unwound_url": "https://techcrunch.com/2018/08/07/scale-whose-army-of-humans-annotate-raw-data-to-train-self-driving-and-other-ai-systems-nabs-18m/",
+              "url": "https://t.co/zI1eXF8j2s"
+            },
+            {
+              "display_url": "techmeme.com/180807/p23#a18…",
+              "end": 225,
+              "expanded_url": "http://www.techmeme.com/180807/p23#a180807p23",
+              "start": 202,
+              "status": 200,
+              "unwound_url": "https://www.techmeme.com/180807/p23",
+              "url": "https://t.co/KJsFtaeZ4n"
+            }
+          ]
+        },
+        "id": "1026947621942951937",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "Scale, a managed marketplace for contractors who examine and categorize visual data to train AI systems, raises $18M Series B led by Index Ventures (@ingridlunden / TechCrunch)\n\nhttps://t.co/zI1eXF8j2s\nhttps://t.co/KJsFtaeZ4n"
+      },
+      {
+        "author_id": "16953157",
+        "conversation_id": "1026800313586601985",
+        "created_at": "2018-08-07T12:00:46.000Z",
+        "display_text_range": [
+          0,
+          210
+        ],
+        "edit_history_tweet_ids": [
+          "1026800313586601985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "trib.al/SIprBcp",
+              "end": 210,
+              "expanded_url": "https://trib.al/SIprBcp",
+              "start": 187,
+              "url": "https://t.co/9aMi5qOOBa"
+            }
+          ]
+        },
+        "id": "1026800313586601985",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "If data-labeling companies like Scale API have to re-do the same kind of work for multiple autonomous driving companies, the really important stuff—the weird edge cases—might get missed. https://t.co/9aMi5qOOBa"
+      },
+      {
+        "author_id": "816653",
+        "conversation_id": "1026878011587665921",
+        "created_at": "2018-08-07T17:09:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "1026878011587665921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "21662638",
+              "start": 127,
+              "username": "ingridlunden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "tcrn.ch/2Mvkpu4",
+              "end": 123,
+              "expanded_url": "https://tcrn.ch/2Mvkpu4",
+              "start": 100,
+              "unwound_url": "https://tcrn.ch/2Mvkpu4",
+              "url": "https://t.co/koHo5hJPUp"
+            }
+          ]
+        },
+        "id": "1026878011587665921",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "text": "Scale, whose army of humans annotate raw data to train self-driving and other AI systems, nabs $18M https://t.co/koHo5hJPUp by @ingridlunden"
+      },
+      {
+        "author_id": "113130846",
+        "conversation_id": "1026884457255632899",
+        "created_at": "2018-08-07T17:35:07.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_history_tweet_ids": [
+          "1026884457255632899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scaleapi.com/blog/series-b",
+              "end": 72,
+              "expanded_url": "https://www.scaleapi.com/blog/series-b",
+              "start": 49,
+              "url": "https://t.co/i0AMa3Fbh6"
+            }
+          ]
+        },
+        "id": "1026884457255632899",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "text": "Congrats to @scaleAPI on raising their Series B: https://t.co/i0AMa3Fbh6"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1026877763955740673",
+        "created_at": "2018-08-07T17:08:32.000Z",
+        "display_text_range": [
+          0,
+          284
+        ],
+        "edit_history_tweet_ids": [
+          "1026877763955740673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "19908394",
+              "start": 54,
+              "username": "mavolpi"
+            },
+            {
+              "end": 82,
+              "id": "19720395",
+              "start": 68,
+              "username": "IndexVentures"
+            },
+            {
+              "end": 90,
+              "id": "33846451",
+              "start": 84,
+              "username": "Accel"
+            },
+            {
+              "end": 104,
+              "id": "113130846",
+              "start": 92,
+              "username": "ycombinator"
+            },
+            {
+              "end": 118,
+              "id": "14225267",
+              "start": 106,
+              "username": "drewhouston"
+            },
+            {
+              "end": 136,
+              "id": "28917111",
+              "start": 126,
+              "username": "justinkan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scaleapi.com/about#jobs",
+              "end": 258,
+              "expanded_url": "http://scaleapi.com/about#jobs",
+              "start": 235,
+              "status": 200,
+              "unwound_url": "https://scale.com/about",
+              "url": "https://t.co/Uu6fst7nSP"
+            },
+            {
+              "display_url": "scaleapi.com/blog/series-b",
+              "end": 284,
+              "expanded_url": "https://www.scaleapi.com/blog/series-b",
+              "start": 261,
+              "url": "https://t.co/kuhA1FCoQT"
+            }
+          ]
+        },
+        "id": "1026877763955740673",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "text": "Thrilled to announce the @scaleAPI $18M Series B with @mavolpi from @IndexVentures, @Accel, @ycombinator, @drewhouston, &amp; @justinkan to build AWS for AI.\n\nWant to solve the challenges of applying AI to the real world? We're hiring https://t.co/Uu6fst7nSP \n\nhttps://t.co/kuhA1FCoQT"
+      },
+      {
+        "author_id": "19908394",
+        "conversation_id": "1026852306099220481",
+        "created_at": "2018-08-07T15:27:22.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "edit_history_tweet_ids": [
+          "1026852306099220481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "615818451",
+              "start": 59,
+              "username": "Alexandr_Wang"
+            },
+            {
+              "end": 189,
+              "id": "19720395",
+              "start": 175,
+              "username": "IndexVentures"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "indexventures.com/blog/is-that-a…",
+              "end": 170,
+              "expanded_url": "https://www.indexventures.com/blog/is-that-a-cat-teaching-computers-how-to-learn",
+              "start": 147,
+              "status": 200,
+              "unwound_url": "https://www.indexventures.com/perspectives/is-that-a-cat-teaching-computers-how-to-learn/",
+              "url": "https://t.co/20NjJ0WteX"
+            }
+          ]
+        },
+        "id": "1026852306099220481",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "text": "Delighted to announce our newest investment: @ScaleAPI and @Alexandr_Wang will do amazing this...  Is that a cat? Teaching computers how to learn. https://t.co/20NjJ0WteX via @IndexVentures"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1026878553663533057",
+        "created_at": "2018-08-07T17:11:40.000Z",
+        "display_text_range": [
+          0,
+          213
+        ],
+        "edit_history_tweet_ids": [
+          "1026878553663533057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 78,
+              "id": "19720395",
+              "start": 64,
+              "username": "IndexVentures"
+            },
+            {
+              "end": 90,
+              "id": "33846451",
+              "start": 84,
+              "username": "Accel"
+            },
+            {
+              "end": 104,
+              "id": "113130846",
+              "start": 92,
+              "username": "ycombinator"
+            },
+            {
+              "end": 118,
+              "id": "14225267",
+              "start": 106,
+              "username": "drewhouston"
+            },
+            {
+              "end": 133,
+              "id": "28917111",
+              "start": 123,
+              "username": "justinkan"
+            },
+            {
+              "end": 188,
+              "id": "615818451",
+              "start": 174,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scaleapi.com/blog/series-b",
+              "end": 213,
+              "expanded_url": "https://www.scaleapi.com/blog/series-b",
+              "start": 190,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog/series-b",
+              "url": "https://t.co/FjDE5Yzn5M"
+            }
+          ]
+        },
+        "id": "1026878553663533057",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 38,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "text": "Exciting news! Scale has raised $18M in Series B funding led by @IndexVentures with @Accel, @ycombinator, @drewhouston and @justinkan participating.\n\nRead more from our CEO, @alexandr_wang\n\nhttps://t.co/FjDE5Yzn5M"
+      },
+      {
+        "author_id": "19908394",
+        "conversation_id": "1026855834205057025",
+        "created_at": "2018-08-07T15:41:23.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_history_tweet_ids": [
+          "1026855834205057025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "615818451",
+              "start": 31,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "wired.com/story/scale-ai…",
+              "end": 97,
+              "expanded_url": "https://www.wired.com/story/scale-ai-label-share-self-driving-data/?mbid=social_twitter_onsiteshare",
+              "start": 74,
+              "status": 200,
+              "unwound_url": "https://www.wired.com/story/scale-ai-label-share-self-driving-data/?mbid=social_twitter_onsiteshare",
+              "url": "https://t.co/jVdaARcIgi"
+            }
+          ]
+        },
+        "id": "1026855834205057025",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "text": "Great article on @scaleAPI and @alexandr_wang: Powering computer vision - https://t.co/jVdaARcIgi"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "7458572",
+        "name": "Eze Vidra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845863731630141440/oklrAw3O_normal.jpg",
+        "username": "ediggs",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1028795706859896833",
+    "next_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
+    "oldest_id": "1026859628225646592",
+    "result_count": 18
+  },
+  "errors": []
+}

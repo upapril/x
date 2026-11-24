@@ -1,0 +1,203 @@
+# @thankUcrypto chronological archive
+
+This file is an **index**. Full original-language text for every stored post is in the yearly files under `archives/YYYY.md`.
+
+- Unique posts stored (deduped by id): **178**
+- Span (API UTC): `2022-12-30T09:55:07.000Z` → `2026-11-24T11:05:18.000Z`
+- Span (Asia/Shanghai, GMT+8): 2022-12-30 17:55:07 GMT+8 → 2026-11-24 19:05:18 GMT+8
+- Types: original 82, reply 74, quote 21, repost 1
+- Earliest stored: [1608763604010176512](https://x.com/thankUcrypto/status/1608763604010176512) — 2022-12-30 17:55:07 GMT+8
+- Latest stored: [2125183975757119963](https://x.com/thankUcrypto/status/2125183975757119963) — 2026-11-24 19:05:18 GMT+8
+
+This is **not** a complete account history. See `coverage_manifest.md`.
+
+## Posts per calendar year (UTC year of created_at)
+
+| Year | Stored posts | Full-text file |
+|---|---:|---|
+| 2022 | 2 | `archives/2022.md` |
+| 2023 | 25 | `archives/2023.md` |
+| 2024 | 25 | `archives/2024.md` |
+| 2025 | 50 | `archives/2025.md` |
+| 2026 | 76 | `archives/2026.md` |
+
+## Compact chronological index (id, time, type, URL, first line)
+
+- `1608763604010176512` | 2022-12-30 17:55:07 GMT+8 | reply | https://x.com/thankUcrypto/status/1608763604010176512 | @yonghaochen168 加P受害者之一吧
+- `1608771876050055168` | 2022-12-30 18:27:59 GMT+8 | reply | https://x.com/thankUcrypto/status/1608771876050055168 | @xcl2022 请问3万亿外汇不翼而飞是哪里的信息，有出处吗，我想深入了解一下，我搜了几个引擎“3万亿”没检索到对应的数据。
+- `1739881864259858531` | 2023-12-27 13:32:16 GMT+8 | original | https://x.com/thankUcrypto/status/1739881864259858531 | BSV该动一动了，能不能七天翻倍。 https://t.co/rLiORQBAOH
+- `1739895379343380615` | 2023-12-27 14:25:58 GMT+8 | quote | https://x.com/thankUcrypto/status/1739895379343380615 | 这图，怎么有火箭有狗的 https://t.co/QI6xG3sJxZ
+- `1739952066951557368` | 2023-12-27 18:11:14 GMT+8 | quote | https://x.com/thankUcrypto/status/1739952066951557368 | 走的很不错，突破新高了，应该100有戏，周末也是可以继续表演的品种。没做的怕高可以做bch接力 https://t.co/KNjsRAFB50
+- `1740187541188510004` | 2023-12-28 09:46:55 GMT+8 | original | https://x.com/thankUcrypto/status/1740187541188510004 | 多单都走完了，还105.5开始小空了sol。 
+- `1740194015176458537` | 2023-12-28 10:12:39 GMT+8 | reply | https://x.com/thankUcrypto/status/1740194015176458537 | @devilcatbtc cao!
+- `1740256068499038428` | 2023-12-28 14:19:13 GMT+8 | quote | https://x.com/thankUcrypto/status/1740256068499038428 | 100马上到了。平常我不喊单，没啥自己确定性的东西，这次还不错。 https://t.co/L8mcwULGiV https://t.co/KNjsRAFB50
+- `1740279061103198625` | 2023-12-28 15:50:35 GMT+8 | reply | https://x.com/thankUcrypto/status/1740279061103198625 | @sisibinance @Bitfatty 我的天，刘翔终于夺冠了
+- `1740579097951211828` | 2023-12-29 11:42:50 GMT+8 | original | https://x.com/thankUcrypto/status/1740579097951211828 | sol趋势线突破，小玩一下。 https://t.co/lC0Dg4iWER
+- `1740601802947764261` | 2023-12-29 13:13:03 GMT+8 | original | https://x.com/thankUcrypto/status/1740601802947764261 | 万能的推特，请问有没有人在买那个 #BRC420 的音乐NFT为啥我买了会弹这个提示，用的unisat钱包。 https://t.co/Sgnopum6sN
+- `1740604647457673343` | 2023-12-29 13:24:21 GMT+8 | reply | https://x.com/thankUcrypto/status/1740604647457673343 | @f2519895544640 我知道了，交易的那几个都被人卡链了，只能买后面贵的
+- `1740607353266049120` | 2023-12-29 13:35:06 GMT+8 | reply | https://x.com/thankUcrypto/status/1740607353266049120 | @f2519895544640 应该会退。。手续费不知道会不会退//
+- `1740609503421432090` | 2023-12-29 13:43:39 GMT+8 | reply | https://x.com/thankUcrypto/status/1740609503421432090 | @f2519895544640 干哦，没有brc420交流社区吗，好麻烦
+- `1740621735790317727` | 2023-12-29 14:32:15 GMT+8 | reply | https://x.com/thankUcrypto/status/1740621735790317727 | @aooyoo3o 看来是微博过来的，恭喜你发现了我的分身
+- `1740622378504524214` | 2023-12-29 14:34:48 GMT+8 | quote | https://x.com/thankUcrypto/status/1740622378504524214 | 已经脱离成本区，浮盈3500u。不跟进了，我会在109开始减仓。 https://t.co/SyJmPIIE8m
+- `1740624252704006454` | 2023-12-29 14:42:15 GMT+8 | reply | https://x.com/thankUcrypto/status/1740624252704006454 | @Danenbao 你没看我这图么
+- `1740687713802862593` | 2023-12-29 18:54:26 GMT+8 | original | https://x.com/thankUcrypto/status/1740687713802862593 | 我只想说，买少了。只买了12张，关键卡链让我没敢多买，等了很久。
+- `1740710539255583074` | 2023-12-29 20:25:08 GMT+8 | reply | https://x.com/thankUcrypto/status/1740710539255583074 | @0xFFtB 你是打到的！！
+- `1740786429972852753` | 2023-12-30 01:26:41 GMT+8 | original | https://x.com/thankUcrypto/status/1740786429972852753 | 这里下跌确定性变大了，追了一些空，请控制自己杠杆。做跌破思路。 https://t.co/ZvhxodADJO
+- `1740791541948699000` | 2023-12-30 01:47:00 GMT+8 | quote | https://x.com/thankUcrypto/status/1740791541948699000 | 防止爆拉穿针，把多的保证金移出去了双损策略。目前4000u浮盈。 https://t.co/eOASTZSsDh https://t.co/dNdiH6A2q5
+- `1740892232193106035` | 2023-12-30 08:27:07 GMT+8 | quote | https://x.com/thankUcrypto/status/1740892232193106035 | 并没有如预期跌破，仅插针，去手续费，收益450u，平仓。 https://t.co/giWvZOOqht
+- `1741188369064038492` | 2023-12-31 04:03:51 GMT+8 | original | https://x.com/thankUcrypto/status/1741188369064038492 | 准备在89.5附近接bsv，差一点点了 https://t.co/ezVAAcMRpQ
+- `1741231436097839208` | 2023-12-31 06:54:59 GMT+8 | quote | https://x.com/thankUcrypto/status/1741231436097839208 | 睡醒，差0.2。算了，单子撤了。 https://t.co/kjEzWpbsHb https://t.co/ulB950Ulgt
+- `1741335237832130936` | 2023-12-31 13:47:27 GMT+8 | original | https://x.com/thankUcrypto/status/1741335237832130936 | 朋友们，这@nodeMonkes 是啥项目，咋我身边的KOL都没出来喊他。已经冲到okx合集第二了。 https://t.co/PalRsMETPM
+- `1741335444875510188` | 2023-12-31 13:48:17 GMT+8 | reply | https://x.com/thankUcrypto/status/1741335444875510188 | @wdctlllltcdw nodemonkes这东西刚上线，咋价格搞上去了，中文圈没见有人说。
+- `1741337897964646901` | 2023-12-31 13:58:02 GMT+8 | reply | https://x.com/thankUcrypto/status/1741337897964646901 | @0xYuCry @0xSunNFT @nodemonkes 谢谢哥！
+- `1873708175352045569` | 2024-12-30 20:30:15 GMT+8 | reply | https://x.com/thankUcrypto/status/1873708175352045569 | @LegendaryBaconG 真单，没毛病，我看到的，不过我看好今天以太会启动，同步的主流也会有行情，Zen算是有故事的币了，所以从ENA LINK ZEN里选了ZEN
+- `1873717059227664681` | 2024-12-30 21:05:33 GMT+8 | original | https://x.com/thankUcrypto/status/1873717059227664681 | MicroStrategy 以 97,837 美元的平均价格收购 2,138 个比特币
+- `1873718861478215815` | 2024-12-30 21:12:43 GMT+8 | reply | https://x.com/thankUcrypto/status/1873718861478215815 | @kz007031229 交易员会有强制止损线，他拿自己发债的钱买的，不用担心他止损问题。
+- `1873810052966232244` | 2024-12-31 03:15:04 GMT+8 | original | https://x.com/thankUcrypto/status/1873810052966232244 | 我觉得GMGN 有一点做的不好，KOL 应该分成聪明钱 和蠢猪钱。
+- `1873819073379000747` | 2024-12-31 03:50:55 GMT+8 | reply | https://x.com/thankUcrypto/status/1873819073379000747 | 我既然都要赚一级的钱了，就想吃饱饱，不想撸短了啊
+- `1874063279183851539` | 2024-12-31 20:01:18 GMT+8 | quote | https://x.com/thankUcrypto/status/1874063279183851539 | 我不带人哈，带自己朋友做一做，非公开。 https://t.co/ufx0OA44PG
+- `1874070257251549582` | 2024-12-31 20:29:02 GMT+8 | reply | https://x.com/thankUcrypto/status/1874070257251549582 | @YingyingBTC 没事我，一周66 倍那会也没这种营销。
+- `1874091603884929294` | 2024-12-31 21:53:51 GMT+8 | original | https://x.com/thankUcrypto/status/1874091603884929294 | 右侧追涨的时候大家都狂热。
+- `1874095287914160158` | 2024-12-31 22:08:30 GMT+8 | reply | https://x.com/thankUcrypto/status/1874095287914160158 | @CBearpawpaw 现在不是ETF的流入流出数据的问题，是比特币已经完全和美股强绑定，完全被影响，没有自己的独立走势。
+- `1874098306282119447` | 2024-12-31 22:20:29 GMT+8 | original | https://x.com/thankUcrypto/status/1874098306282119447 | 我割肉chillguy是因为我不够chill。
+- `1874099790210121739` | 2024-12-31 22:26:23 GMT+8 | reply | https://x.com/thankUcrypto/status/1874099790210121739 | @DcDcgao2 从来都是，现在也一样
+- `1874101239283408964` | 2024-12-31 22:32:09 GMT+8 | reply | https://x.com/thankUcrypto/status/1874101239283408964 | @avalongarden6 昨天今天这种特么的不叫震荡，叫噶韭菜。。
+- `1874101434280796346` | 2024-12-31 22:32:55 GMT+8 | reply | https://x.com/thankUcrypto/status/1874101434280796346 | @Jayden2140 还是你懂啊😭，懂得延长自己的生命周期。。
+- `1874115672252571957` | 2024-12-31 23:29:30 GMT+8 | reply | https://x.com/thankUcrypto/status/1874115672252571957 | @jack85898589 你自己的交易方法能赚就一直用，不能平稳的盈利就换。
+- `1874118173982941561` | 2024-12-31 23:39:26 GMT+8 | original | https://x.com/thankUcrypto/status/1874118173982941561 | 有个好消息。
+- `1874118450148499492` | 2024-12-31 23:40:32 GMT+8 | reply | https://x.com/thankUcrypto/status/1874118450148499492 | @cyphernormie 没fake，就是我小号，里面 150人都是我自己社区的
+- `1874122250506690608` | 2024-12-31 23:55:38 GMT+8 | reply | https://x.com/thankUcrypto/status/1874122250506690608 | @aaronXu2024 因为历史经验来看，盘中还是美股主导还是会跟美股走。所以我不期待盘中拉多少。
+- `1874125741954392352` | 2025-01-01 00:09:31 GMT+8 | original | https://x.com/thankUcrypto/status/1874125741954392352 | 新年了，我也又涨了一岁
+- `1874126412384526374` | 2025-01-01 00:12:10 GMT+8 | reply | https://x.com/thankUcrypto/status/1874126412384526374 | @Karsahe1 必须a9！
+- `1874126802291220744` | 2025-01-01 00:13:43 GMT+8 | reply | https://x.com/thankUcrypto/status/1874126802291220744 | 哥们是真长了一岁不是什么虚岁，我生日1 月 1号。 。 https://t.co/HrYRgUBZOK
+- `1874131426377162906` | 2025-01-01 00:32:06 GMT+8 | reply | https://x.com/thankUcrypto/status/1874131426377162906 | @luckybb88 谢谢！祝老师你越来越漂亮！！
+- `1874133438791602448` | 2025-01-01 00:40:06 GMT+8 | reply | https://x.com/thankUcrypto/status/1874133438791602448 | @cryptojiejie @luckybb88 谢谢老师！祝老师越来越能赚！
+- `1874133581058216262` | 2025-01-01 00:40:40 GMT+8 | reply | https://x.com/thankUcrypto/status/1874133581058216262 | 回不过来了，祝评论区的每位朋友都长命百岁！
+- `1874134608469778660` | 2025-01-01 00:44:45 GMT+8 | reply | https://x.com/thankUcrypto/status/1874134608469778660 | @0xctzctk 谢谢老师！今年一定发财，！
+- `1874157176220246207` | 2025-01-01 02:14:25 GMT+8 | quote | https://x.com/thankUcrypto/status/1874157176220246207 | 有个不好的消息，美股时间内直接补跌了？😭 https://t.co/GWwygOlnex
+- `1938174466665967769` | 2025-06-26 17:56:17 GMT+8 | reply | https://x.com/thankUcrypto/status/1938174466665967769 | @0x0xFeng 叽里咕噜说啥呢 ，今天疯狂星期四还不V我50？
+- `1938240137969995941` | 2025-06-26 22:17:14 GMT+8 | original | https://x.com/thankUcrypto/status/1938240137969995941 | sahara博弈点在12点前那么一个小时。
+- `1938241497889120567` | 2025-06-26 22:22:38 GMT+8 | reply | https://x.com/thankUcrypto/status/1938241497889120567 | 我不是说一定做多，是按时间节点看走法的，我也不希望谁成我我流动性。。赌的是主力出完货以后慢慢平空，把价格平上去。 https://t.co/nzs4Jc9tS1
+- `1938243087433974209` | 2025-06-26 22:28:57 GMT+8 | quote | https://x.com/thankUcrypto/status/1938243087433974209 | 又是这样，我现在哪还敢提山寨。
+- `1938256428462166103` | 2025-06-26 23:21:58 GMT+8 | reply | https://x.com/thankUcrypto/status/1938256428462166103 | @wangbuai 我不知道啊，突然小红书很多人提我，我去看熬鹰这个关键词都起来了，只能起个号防伪了。 。
+- `1938259138863370368` | 2025-06-26 23:32:44 GMT+8 | original | https://x.com/thankUcrypto/status/1938259138863370368 | E/B汇率终于下来了，吓死我了，最高亏了特么60wu。中午睡醒我人傻了，差2%止损。
+- `1938261369968857360` | 2025-06-26 23:41:36 GMT+8 | reply | https://x.com/thankUcrypto/status/1938261369968857360 | @pikka_o ？我特么浮亏一整天精准个屁。
+- `1938263519826481317` | 2025-06-26 23:50:08 GMT+8 | reply | https://x.com/thankUcrypto/status/1938263519826481317 | @Cryptosis9_OKX 一天全搞定了，没任何问题。
+- `1938270558132818320` | 2025-06-27 00:18:07 GMT+8 | original | https://x.com/thankUcrypto/status/1938270558132818320 | SAHARA可以起飞不。资金费吃着，币价涨着，又吃又拿。
+- `1938297622181384628` | 2025-06-27 02:05:39 GMT+8 | quote | https://x.com/thankUcrypto/status/1938297622181384628 | 所有Sahara 的做多角度都是基于有资金去为了资金费做博弈。
+- `1938567118003331500` | 2025-06-27 19:56:32 GMT+8 | reply | https://x.com/thankUcrypto/status/1938567118003331500 | @xtony1314 这就是你带我去商量k线的地方的原因？
+- `1938617439111295289` | 2025-06-27 23:16:29 GMT+8 | original | https://x.com/thankUcrypto/status/1938617439111295289 | 赚钱了！爽，拿了好几天了。 https://t.co/YFEAi6E4dH
+- `1938667521638359060` | 2025-06-28 02:35:30 GMT+8 | original | https://x.com/thankUcrypto/status/1938667521638359060 | 从这里看稳定币板块，再看美股位置。
+- `1938852342394470495` | 2025-06-28 14:49:55 GMT+8 | reply | https://x.com/thankUcrypto/status/1938852342394470495 | @thankUcrypto https://t.co/nixWQ6BxZL
+- `1938875889879564777` | 2025-06-28 16:23:29 GMT+8 | reply | https://x.com/thankUcrypto/status/1938875889879564777 | @EnHeng456 我就不吹嗯哼了。
+- `1938878237918273854` | 2025-06-28 16:32:49 GMT+8 | reply | https://x.com/thankUcrypto/status/1938878237918273854 | @0xanyi888 @EnHeng456 那说明你不玩儿微博呀，我22-24微博分享一路做起来，25年才转的推。
+- `1938906286290051320` | 2025-06-28 18:24:16 GMT+8 | reply | https://x.com/thankUcrypto/status/1938906286290051320 | @Tintinx2021 ？
+- `1938922076162924778` | 2025-06-28 19:27:01 GMT+8 | reply | https://x.com/thankUcrypto/status/1938922076162924778 | @CryptoNataNata @Tintinx2021 吃醋了？
+- `1939564865716449339` | 2025-06-30 14:01:14 GMT+8 | original | https://x.com/thankUcrypto/status/1939564865716449339 | 这几天忙着结婚的各种事呢，没空发东西。
+- `1939565531486732316` | 2025-06-30 14:03:52 GMT+8 | reply | https://x.com/thankUcrypto/status/1939565531486732316 | @dotyyds1234 我就没见过长得高的女人，但是我从来不歧视女性身高。 反正再高身边也出不了两米的女人。
+- `1939569117775683697` | 2025-06-30 14:18:07 GMT+8 | original | https://x.com/thankUcrypto/status/1939569117775683697 | 不是突然找到另一半，也不是什么闪婚。
+- `1939569736318140484` | 2025-06-30 14:20:35 GMT+8 | reply | https://x.com/thankUcrypto/status/1939569736318140484 | 下次你们带我去商量K线的地方记得用暗号，不能被我老婆知道，知道了我一半身家可就没了。
+- `1939573046882312527` | 2025-06-30 14:33:44 GMT+8 | original | https://x.com/thankUcrypto/status/1939573046882312527 | @alexdxd233 @dotyyds1234 1米96以上的算高
+- `1939649547426537604` | 2025-06-30 19:37:43 GMT+8 | original | https://x.com/thankUcrypto/status/1939649547426537604 | 再抽8888u吧，这次参与的人多一些，雨露均沾。
+- `1939650730874609865` | 2025-06-30 19:42:25 GMT+8 | reply | https://x.com/thankUcrypto/status/1939650730874609865 | 红包口令 NQT5OB1A
+- `2001653021269488085` | 2025-12-18 21:57:23 GMT+8 | reply | https://x.com/thankUcrypto/status/2001653021269488085 | @Sgr45701075 宏观利好 BTC响应的最好也最硬，我带杠杆上仓位抄底选BTC。追涨选山寨主流。
+- `2001660443853742346` | 2025-12-18 22:26:53 GMT+8 | reply | https://x.com/thankUcrypto/status/2001660443853742346 | @Goupenguin 差不多，我充了2000U，一周打没钱了。 https://t.co/C1SdCjhS57
+- `2001660698611593419` | 2025-12-18 22:27:54 GMT+8 | reply | https://x.com/thankUcrypto/status/2001660698611593419 | @Goupenguin 主要我一天打10个小时，其实差不多。 。一天接近2000块。
+- `2001661844810031403` | 2025-12-18 22:32:27 GMT+8 | reply | https://x.com/thankUcrypto/status/2001661844810031403 | @EnHeng456 我都不好意思把我22年备忘录发出来，因为那时候备忘录都手动记网贷还款日期的。 微信 支付宝 百度 美团 信用卡 白条套现 花呗套现 多少钱 多久还款 哪个app要先提前还上好再借出来循环贷。
+- `2001678874531500443` | 2025-12-18 23:40:07 GMT+8 | original | https://x.com/thankUcrypto/status/2001678874531500443 | 做突破和做震荡手法一样，但是想法是不一样的。
+- `2001679526225715562` | 2025-12-18 23:42:43 GMT+8 | reply | https://x.com/thankUcrypto/status/2001679526225715562 | @ABC13554741590 傻逼，实盘都不知道怎么看的狗东西。
+- `2001679947686121966` | 2025-12-18 23:44:23 GMT+8 | reply | https://x.com/thankUcrypto/status/2001679947686121966 | @peterzhangx 我已经做了6次突破了，这两周。只是这次真突破了能拿住罢了，希望是真突破。
+- `2001682399911108965` | 2025-12-18 23:54:08 GMT+8 | original | https://x.com/thankUcrypto/status/2001682399911108965 | 我是最轴的交易风格，最主观的交易。我判断行情是要走趋势了，我就会一直去尝试做突破，做到真突破拿住，所以我会不停的在可能突破的节点去介入交易。
+- `2001701665846763624` | 2025-12-19 01:10:41 GMT+8 | original | https://x.com/thankUcrypto/status/2001701665846763624 | 又他妈的失败了。
+- `2001702174355787983` | 2025-12-19 01:12:42 GMT+8 | original | https://x.com/thankUcrypto/status/2001702174355787983 | 不知道是我对日本加息理解有问题，但是又下来了，美股带头下，这么多天都是美股时间跌下去。
+- `2001829582505414686` | 2025-12-19 09:38:59 GMT+8 | quote | https://x.com/thankUcrypto/status/2001829582505414686 | 盈亏同源，有格局，敢拿，只相信自己，这就是咱们能赚大钱的原因，同时也是亏大钱的原因，这就是我们与众不同的地方，也是交易的魅力所在。
+- `2001857336651272451` | 2025-12-19 11:29:16 GMT+8 | original | https://x.com/thankUcrypto/status/2001857336651272451 | 这次还能杀到我，我吃三吨！ https://t.co/Egv7GAIYJw
+- `2001861478551617655` | 2025-12-19 11:45:43 GMT+8 | repost | https://x.com/thankUcrypto/status/2001861478551617655 | RT @hao95692280: @thankUcrypto 这视频一直收着 https://t.co/7mK69rYEFQ
+- `2001861633103270174` | 2025-12-19 11:46:20 GMT+8 | reply | https://x.com/thankUcrypto/status/2001861633103270174 | @Walden779 哈哈，敢下判断，敢下手，就这么简单的事，不用藏着掖着，
+- `2001862355052105854` | 2025-12-19 11:49:12 GMT+8 | original | https://x.com/thankUcrypto/status/2001862355052105854 | https://t.co/m259ozw4Ju
+- `2001875213903114470` | 2025-12-19 12:40:18 GMT+8 | reply | https://x.com/thankUcrypto/status/2001875213903114470 | @xtony1314 别人都不知道，其实tony已经50岁了，17年就开始炒虚拟货币赚钱了。那时候哪有什么反佣这种东西，交易所都没几个呢。
+- `2002028402870784011` | 2025-12-19 22:49:01 GMT+8 | original | https://x.com/thankUcrypto/status/2002028402870784011 | 除了大饼外，开始加了Aster多单。
+- `2002031996584005844` | 2025-12-19 23:03:18 GMT+8 | quote | https://x.com/thankUcrypto/status/2002031996584005844 | 答应我，不要让cz和我一起去送外卖，好吗？快点儿回0.9可以吗？ https://t.co/O0g7Nf5fjl https://t.co/52ckxsZVpl
+- `2002034942851825821` | 2025-12-19 23:15:01 GMT+8 | quote | https://x.com/thankUcrypto/status/2002034942851825821 | 再公布一下大饼早上的多单。 https://t.co/goudFR4GEL https://t.co/t8O8dGvKVi
+- `2002055084587524225` | 2025-12-20 00:35:03 GMT+8 | original | https://x.com/thankUcrypto/status/2002055084587524225 | 九次假突破我都做了，第十次真突破却拿不住？
+- `2002314849704161516` | 2025-12-20 17:47:16 GMT+8 | reply | https://x.com/thankUcrypto/status/2002314849704161516 | @0xsuperidol @0x0Frank 做反佣的没一千个也有八百个，怎么市场就出我一个了？没脑子吗？ 那其他999人不应该都是亿万富翁了？
+- `2002356290216210839` | 2025-12-20 20:31:56 GMT+8 | reply | https://x.com/thankUcrypto/status/2002356290216210839 | @xtony1314 tony喜欢吃鸡
+- `2004570794719154330` | 2025-12-26 23:11:35 GMT+8 | original | https://x.com/thankUcrypto/status/2004570794719154330 | 这一周把我活活整没了100wu，就为了吃个突破。
+- `2004701159731462252` | 2025-12-27 07:49:36 GMT+8 | original | https://x.com/thankUcrypto/status/2004701159731462252 | 四十来天亏112wu。
+- `2005443162744193100` | 2025-12-29 08:58:03 GMT+8 | original | https://x.com/thankUcrypto/status/2005443162744193100 | 上周也是贵金属下杀，大饼涨一根，这次也是。
+- `2066054890221367776` | 2026-06-14 15:07:25 GMT+8 | quote | https://x.com/thankUcrypto/status/2066054890221367776 | 吃了个瓜。 。
+- `2066120439823474962` | 2026-06-14 19:27:54 GMT+8 | original | https://x.com/thankUcrypto/status/2066120439823474962 | 某交易所的朋友很客观的跟我聊了俩小时。
+- `2066121154809782643` | 2026-06-14 19:30:44 GMT+8 | reply | https://x.com/thankUcrypto/status/2066121154809782643 | @Futarkey 你他妈的真是人才，真说对了
+- `2066123206168371581` | 2026-06-14 19:38:53 GMT+8 | reply | https://x.com/thankUcrypto/status/2066123206168371581 | @Web3Feng 😊 https://t.co/Nf8vE75gXg
+- `2066501986653221245` | 2026-06-15 20:44:02 GMT+8 | original | https://x.com/thankUcrypto/status/2066501986653221245 | 感觉超级周期要来了。
+- `2066547879708389593` | 2026-06-15 23:46:23 GMT+8 | reply | https://x.com/thankUcrypto/status/2066547879708389593 | 这周不播，收益率新高了播
+- `2067331344351556018` | 2026-06-18 03:39:36 GMT+8 | original | https://x.com/thankUcrypto/status/2067331344351556018 | 沃什的FOMC是对鲍威尔拙劣的模仿。
+- `2067637985944973725` | 2026-06-18 23:58:05 GMT+8 | original | https://x.com/thankUcrypto/status/2067637985944973725 | 到底发生了什么，大家都在抛售STRC
+- `2069878085693087890` | 2026-06-25 04:19:26 GMT+8 | original | https://x.com/thankUcrypto/status/2069878085693087890 | 美光财报远超预期，很可能回调结束。
+- `2069884536406859849` | 2026-06-25 04:45:04 GMT+8 | original | https://x.com/thankUcrypto/status/2069884536406859849 | 赌财报真爽。 https://t.co/qhvOBee0tU
+- `2070032843372454293` | 2026-06-25 14:34:23 GMT+8 | original | https://x.com/thankUcrypto/status/2070032843372454293 | 美光日线新高这里带单号跑完了。
+- `2070032924796477635` | 2026-06-25 14:34:43 GMT+8 | original | https://x.com/thankUcrypto/status/2070032924796477635 | 美光日线新高这里带单号跑完了。
+- `2070350417754460461` | 2026-06-26 11:36:19 GMT+8 | original | https://x.com/thankUcrypto/status/2070350417754460461 | 我觉得存储涨价导致这次苹果 微软的手机 Xbox涨价是见顶信号。
+- `2070505839174312331` | 2026-06-26 21:53:54 GMT+8 | original | https://x.com/thankUcrypto/status/2070505839174312331 | 比特币最恐慌时刻终于过去了。
+- `2070507657904156734` | 2026-06-26 22:01:08 GMT+8 | original | https://x.com/thankUcrypto/status/2070507657904156734 | MSTR一点儿小底仓，应该算是好底价。
+- `2070511539191447911` | 2026-06-26 22:16:33 GMT+8 | quote | https://x.com/thankUcrypto/status/2070511539191447911 | 看到这里了吗？虚位以待 https://t.co/xGOVQJms87 https://t.co/wmj0G8TtHY
+- `2070513835463872865` | 2026-06-26 22:25:41 GMT+8 | quote | https://x.com/thankUcrypto/status/2070513835463872865 | 感谢予与老师打赏了他一单1/50的手续费。 https://t.co/lyQSJeHLv7 https://t.co/UbL21T26Rp
+- `2070522793888977245` | 2026-06-26 23:01:17 GMT+8 | original | https://x.com/thankUcrypto/status/2070522793888977245 | 这个月推特工资，全投苹果的call了，下周五交割😭，涨点儿吧，要吃不起饭了。 https://t.co/mzwlMsjaHG
+- `2070711598453506477` | 2026-06-27 11:31:31 GMT+8 | reply | https://x.com/thankUcrypto/status/2070711598453506477 | @guorenjie666 不好意思，是五天，周三，问题不大 https://t.co/JphvkwaehO
+- `2070748411494809932` | 2026-06-27 13:57:48 GMT+8 | original | https://x.com/thankUcrypto/status/2070748411494809932 | 由于配置AI环境方便这个月中旬搞了台Macbook pro，21000拿下。
+- `2071565705481462061` | 2026-06-29 20:05:26 GMT+8 | original | https://x.com/thankUcrypto/status/2071565705481462061 | 我笑了，市场笃定微策略卖币，结果出新闻，微策略没买没卖，反而涨起来了 https://t.co/ywOYX0UKKj
+- `2071569153794961516` | 2026-06-29 20:19:08 GMT+8 | quote | https://x.com/thankUcrypto/status/2071569153794961516 | Strategy 筹集 1。2 亿美元作为美元储备，授权 10 亿美元数字信用回购计划：正在备案
+- `2071581265158082755` | 2026-06-29 21:07:16 GMT+8 | quote | https://x.com/thankUcrypto/status/2071581265158082755 | 一点儿没动，坐等拉盘。 https://t.co/zqk8q6Z2kg https://t.co/ni9Ertzhmp
+- `2071641282347507834` | 2026-06-30 01:05:45 GMT+8 | original | https://x.com/thankUcrypto/status/2071641282347507834 | 感觉是山寨季了，但是我满手大饼，真他妈的焦虑。
+- `2071641959765307866` | 2026-06-30 01:08:27 GMT+8 | reply | https://x.com/thankUcrypto/status/2071641959765307866 | https://t.co/n4uX2VukRb
+- `2091778918810612183` | 2026-08-24 14:45:32 GMT+8 | original | https://x.com/thankUcrypto/status/2091778918810612183 | 最后一次更新实盘挑战系列数据，以后就不跟大家更新了，这个带单号会开着继续试试做下去。
+- `2115925932682977369` | 2026-10-30 05:57:09 GMT+8 | quote | https://x.com/thankUcrypto/status/2115925932682977369 | 果然，币安官推说，因为“技术故障”，提不了币😧。 https://t.co/UCiGJmFlhp https://t.co/D4twC2ibjw
+- `2115928513467519311` | 2026-10-30 06:07:24 GMT+8 | original | https://x.com/thankUcrypto/status/2115928513467519311 | 会补跌的。
+- `2115937772121067719` | 2026-10-30 06:44:11 GMT+8 | original | https://x.com/thankUcrypto/status/2115937772121067719 | 目前黑客从币安热钱包接收了57.7亿美元的资产。
+- `2115938957477523617` | 2026-10-30 06:48:54 GMT+8 | reply | https://x.com/thankUcrypto/status/2115938957477523617 | @tHCzx1Stpc88630 以目前的走势来看，提币通道关停后，有大资金在这次盗币阶段为市场护盘，而非做空。
+- `2115977649978024385` | 2026-10-30 09:22:39 GMT+8 | original | https://x.com/thankUcrypto/status/2115977649978024385 | 信心比真金白银更重要。
+- `2115983935218090433` | 2026-10-30 09:47:37 GMT+8 | original | https://x.com/thankUcrypto/status/2115983935218090433 | 这黑客的行事风格不太像朝鲜黑客，倒像是懂得一些交易逻辑的交易员。
+- `2115989295857295480` | 2026-10-30 10:08:55 GMT+8 | reply | https://x.com/thankUcrypto/status/2115989295857295480 | @KvaxMeaFT7BD1gU 希望你现在买的冷钱包是厂家直邮
+- `2115992595252040114` | 2026-10-30 10:22:02 GMT+8 | original | https://x.com/thankUcrypto/status/2115992595252040114 | 睡觉了，顶不住。 https://t.co/hIcvHqIn0v
+- `2115997489086230871` | 2026-10-30 10:41:29 GMT+8 | reply | https://x.com/thankUcrypto/status/2115997489086230871 | @Web3_HUUC 敢碰给他手打断
+- `2116084938223313108` | 2026-10-30 16:28:58 GMT+8 | reply | https://x.com/thankUcrypto/status/2116084938223313108 | @sun_xinjin 自从tradefi出来以后，交易量很大一部分分流给美股币股和大宗商品，这些手续费极低
+- `2116096234343878801` | 2026-10-30 17:13:52 GMT+8 | reply | https://x.com/thankUcrypto/status/2116096234343878801 | @RaccoonHKG 有没有可能那些人本来就没几个钱。 。
+- `2116106027766874591` | 2026-10-30 17:52:47 GMT+8 | reply | https://x.com/thankUcrypto/status/2116106027766874591 | @SenseeeeeeMo_mo https://t.co/4dL0916cNF
+- `2116128860786106597` | 2026-10-30 19:23:30 GMT+8 | quote | https://x.com/thankUcrypto/status/2116128860786106597 | 果然，黑客很熟悉币安的思路，知道交易所会第一时间把被盗的代币买回来。
+- `2116131100930285782` | 2026-10-30 19:32:24 GMT+8 | original | https://x.com/thankUcrypto/status/2116131100930285782 | 怎么这么多人没智商说交易所自导自演。交易所绝对是超级损失，这里是推特，不是小红书 微博 抖音。有点儿脑子行不行。这次事件带来的信用损失远超30亿美元。
+- `2116142016803578361` | 2026-10-30 20:15:47 GMT+8 | original | https://x.com/thankUcrypto/status/2116142016803578361 | 让你们练薄肌，你们说先赚了钱再练。
+- `2116145616057454940` | 2026-10-30 20:30:05 GMT+8 | reply | https://x.com/thankUcrypto/status/2116145616057454940 | @cryptobraveHQ 你这个问题有意思
+- `2116155193637380470` | 2026-10-30 21:08:09 GMT+8 | original | https://x.com/thankUcrypto/status/2116155193637380470 | 一个事件是否影响恶劣，一般是由该事件导致的市场波动是否剧烈决定的。
+- `2116155429902578107` | 2026-10-30 21:09:05 GMT+8 | original | https://x.com/thankUcrypto/status/2116155429902578107 | 一个事件是否影响恶劣，一般是由该事件导致的市场波动是否剧烈决定的。
+- `2116199062131347684` | 2026-10-31 00:02:28 GMT+8 | original | https://x.com/thankUcrypto/status/2116199062131347684 | 美股科技股 黄金 正在加速下跌。
+- `2116226612861837490` | 2026-10-31 01:51:56 GMT+8 | original | https://x.com/thankUcrypto/status/2116226612861837490 | 这时候华语区谁会出头骂币安，那说明这人就没啥钱。
+- `2116381201082851524` | 2026-10-31 12:06:13 GMT+8 | reply | https://x.com/thankUcrypto/status/2116381201082851524 | @heyibinance 👏 加油加油
+- `2116517777007923353` | 2026-10-31 21:08:55 GMT+8 | reply | https://x.com/thankUcrypto/status/2116517777007923353 | @sun43983 我自己不提币不影响我让我粉丝提币
+- `2116524997615518073` | 2026-10-31 21:37:37 GMT+8 | reply | https://x.com/thankUcrypto/status/2116524997615518073 | @zx229499154 @sun43983 并不是，我自己能承担不提币的后果，我粉丝不能，只要有一丝可能我都会让粉丝先走。
+- `2116534368336527715` | 2026-10-31 22:14:51 GMT+8 | original | https://x.com/thankUcrypto/status/2116534368336527715 | 每天都有项目被盗，手法不一。
+- `2116536096943435834` | 2026-10-31 22:21:43 GMT+8 | reply | https://x.com/thankUcrypto/status/2116536096943435834 | @cryptoangel668 币本位不安全，金本位应该没问题
+- `2123990275580391784` | 2026-11-21 12:01:58 GMT+8 | reply | https://x.com/thankUcrypto/status/2123990275580391784 | 这六年 21-26年，你60000买进去这六年都是倒亏钱的。
+- `2124003033801711701` | 2026-11-21 12:52:39 GMT+8 | reply | https://x.com/thankUcrypto/status/2124003033801711701 | @lulu03311396 你说错了，这六年你买美股三大股指绝对赚钱，疫情时期还刚好是美股股指回调最低点。
+- `2124348741981478995` | 2026-11-22 11:46:23 GMT+8 | original | https://x.com/thankUcrypto/status/2124348741981478995 | 开平仓只影响分钟级别行情。
+- `2124374739707953390` | 2026-11-22 13:29:41 GMT+8 | original | https://x.com/thankUcrypto/status/2124374739707953390 | 我都笑了，我ZEC开1倍空以后，多空比立马1.21变成0.72。那一时刻没大于一万个账户开空我是不信的。
+- `2124419137577648597` | 2026-11-22 16:26:06 GMT+8 | original | https://x.com/thankUcrypto/status/2124419137577648597 | 怎么又牛回了，不会拉到63000把我爆了吧？
+- `2124441921653461267` | 2026-11-22 17:56:39 GMT+8 | original | https://x.com/thankUcrypto/status/2124441921653461267 | 别涨了，要是63000把我爆了我可要趴在地上打滚了。😭
+- `2124457667993420081` | 2026-11-22 18:59:13 GMT+8 | original | https://x.com/thankUcrypto/status/2124457667993420081 | 最爽的应该就是全球风险资产腰斩，而我现在手里有现金吧。
+- `2124743604820389902` | 2026-11-23 13:55:25 GMT+8 | original | https://x.com/thankUcrypto/status/2124743604820389902 | 和游戏好友聊天说今天出了1000万。
+- `2124744786964095298` | 2026-11-23 14:00:07 GMT+8 | original | https://x.com/thankUcrypto/status/2124744786964095298 | 中际还没回本。希望周末来的利好能拉一周吧。让我回个本就行。 https://t.co/qzRRebbkJz
+- `2124745358274330719` | 2026-11-23 14:02:23 GMT+8 | reply | https://x.com/thankUcrypto/status/2124745358274330719 | @wang53961 银行会问这钱能不能别投去股市，来买买理财。 。 https://t.co/RL7YFK4bzp
+- `2124746863656231190` | 2026-11-23 14:08:22 GMT+8 | original | https://x.com/thankUcrypto/status/2124746863656231190 | 劝你做多的是害你，劝你做空的也是害你，劝你提现的总不会想着“我就是怕你赢”吧。
+- `2124794698867040479` | 2026-11-23 17:18:27 GMT+8 | original | https://x.com/thankUcrypto/status/2124794698867040479 | 这下好了，真没上车了这次。
+- `2124865087043408022` | 2026-11-23 21:58:09 GMT+8 | original | https://x.com/thankUcrypto/status/2124865087043408022 | 啥情况？到底啥情况？ https://t.co/YfZp2b6ZNx
+- `2124865463897440440` | 2026-11-23 21:59:39 GMT+8 | original | https://x.com/thankUcrypto/status/2124865463897440440 | 怎么给我止盈了1M我草泥马11 https://t.co/iJeQoZo3T4
+- `2124869960187154910` | 2026-11-23 22:17:31 GMT+8 | original | https://x.com/thankUcrypto/status/2124869960187154910 | 傻逼了，我自己还说开了去刷红果，挂了150止盈。
+- `2124872181243162843` | 2026-11-23 22:26:20 GMT+8 | original | https://x.com/thankUcrypto/status/2124872181243162843 | 凌晨美财长松口，特朗普又加码给压力，英伟达大概率董事会要折中办法，但是没想到回归这么快。
+- `2124872306233332112` | 2026-11-23 22:26:50 GMT+8 | original | https://x.com/thankUcrypto/status/2124872306233332112 | 凌晨美财长松口，特朗普又加码给压力，英伟达大概率董事会要折中办法，但是没想到回归这么快。
+- `2124889715535159774` | 2026-11-23 23:36:01 GMT+8 | reply | https://x.com/thankUcrypto/status/2124889715535159774 | 被调查那天空的以太吧，周一凌晨开盘直接下去以太画大门。 https://t.co/DOOTDHCUpk
+- `2125019765509157142` | 2026-11-24 08:12:47 GMT+8 | original | https://x.com/thankUcrypto/status/2125019765509157142 | 提醒一下微博我没号， 也不准备建小号，微博把我号永封了我就没打算再去微博发
+- `2125035887218315701` | 2026-11-24 09:16:51 GMT+8 | original | https://x.com/thankUcrypto/status/2125035887218315701 | 好像要涨停了。 。
+- `2125039806409474306` | 2026-11-24 09:32:25 GMT+8 | original | https://x.com/thankUcrypto/status/2125039806409474306 | 舒服了。 https://t.co/7suJoCi1Py
+- `2125064467440603382` | 2026-11-24 11:10:25 GMT+8 | original | https://x.com/thankUcrypto/status/2125064467440603382 | 身神通，是本门修行必备斗法神通。
+- `2125098727585321463` | 2026-11-24 13:26:33 GMT+8 | reply | https://x.com/thankUcrypto/status/2125098727585321463 | @mmngq382248 那你比我快
+- `2125155429512855651` | 2026-11-24 17:11:52 GMT+8 | original | https://x.com/thankUcrypto/status/2125155429512855651 | 交易和短线不短线不重要。
+- `2125183975757119963` | 2026-11-24 19:05:18 GMT+8 | original | https://x.com/thankUcrypto/status/2125183975757119963 | 我炒 a 股真是一窍不通，只能选哥美股强关联的产业。

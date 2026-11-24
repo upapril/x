@@ -1,0 +1,129 @@
+{
+  "collected_at_utc": "2026-11-24T12:07:11Z",
+  "collected_at_shanghai": "2026-11-24T20:07:11+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86Q55JRZ4EYWN9X7S0S0TK8.txt",
+  "request": {
+    "query": "from:silverfang88",
+    "start_time": "2026-11-08T00:00:00Z",
+    "end_time": "2026-11-25T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzlzcmp101yvwbt8dwp1tl4t3y2rh",
+    "window_label": "2026-11-08to25"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2119317705753030656",
+          "3_2119317706579292160"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "created_at": "2026-11-08T06:34:55.000Z",
+      "edit_history_tweet_ids": [
+        "2119317727592771888"
+      ],
+      "id": "2119317727592771888",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 14334,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 0
+      },
+      "text": "目前 @polymarket 定价64开\n用的应该是CLOB \n肯定也参考了传统博彩公司\n庄家直接报的赔率\n或者说专业做市商和套利者\n用自研模型\n参考其他博彩市场的赔率剔除水钱\n也同时从大池子里套利\n然后在poly上挂单\n\n考虑到T1的粉丝效应\n和本来就偏高的预期\n目前真实的市场赔率是73开 https://t.co/YYPONj8JGJ",
+      "url": "https://x.com/silverfang88/status/2119317727592771888"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "created_at": "2026-11-08T06:05:20.000Z",
+      "edit_history_tweet_ids": [
+        "2119310281507848334"
+      ],
+      "id": "2119310281507848334",
+      "in_reply_to_user_id": "1500486837839998976",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2714,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2119302330508329283",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@surfcapitalfour 确实没办法",
+      "url": "https://x.com/silverfang88/status/2119310281507848334"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "created_at": "2026-11-08T04:50:02.000Z",
+      "edit_history_tweet_ids": [
+        "2119291331277365436"
+      ],
+      "id": "2119291331277365436",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 24261,
+        "like_count": 86,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 1
+      },
+      "text": "单纯看比赛内容\n我觉得明天BLG能赢T1 \n但是稳输GenG\n\n但是考虑到T1的成长A属性\n以及过往的历史\n\n只要被T1拖入第五局\n那基本BLG也要回家了\n心魔难破 天劫难度",
+      "url": "https://x.com/silverfang88/status/2119291331277365436"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2119317705753030656",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_2119317706579292160",
+        "type": "photo"
+      }
+    ],
+    "users": [
+      {
+        "id": "1435990322702520320",
+        "name": "子时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111376053289594881/HJoHb6MH_normal.jpg",
+        "username": "silverfang88",
+        "verified": false
+      },
+      {
+        "id": "1500486837839998976",
+        "name": "徐冲浪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110649813717090304/24mihXRZ_normal.jpg",
+        "username": "retiredxu",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2119317727592771888",
+    "next_token": "b26v89c19zqg8o3juzlzcklssuo2zh01rkkxyiyybcha5",
+    "oldest_id": "2119291331277365436",
+    "result_count": 3
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2119302330508329283].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2119302330508329283",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2119302330508329283"
+    }
+  ]
+}

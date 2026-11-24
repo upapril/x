@@ -1,0 +1,219 @@
+# Provenance: vendor/finance-skills
+
+Vendored copy of tracked files from the upstream repository. This is not a GitHub fork. The upstream `.git` directory was not copied.
+
+| Field | Value |
+|---|---|
+| Upstream canonical URL | https://github.com/himself65/finance-skills |
+| Upstream commit | `a0850786e72aa23b92862f9f1635b0de506fe206` |
+| Upstream commit subject | chore: release v11.2.1 |
+| Upstream committer date (UTC) | 2026-10-25T07:34:56Z |
+| Refs checked at import | `HEAD` and `refs/heads/main` both resolved to this commit |
+| Import date | 2026-11-24 19:40:00 GMT+8 (Asia/Shanghai) / 2026-11-24T11:40:00Z |
+| Import location | `vendor/finance-skills/` in https://github.com/upapril/x |
+| License | MIT License, Copyright (c) 2025 Alex Yang |
+| License file | `vendor/finance-skills/LICENSE` (copied unchanged) |
+| Tracked files imported | 180 |
+
+The MIT permission notice is included by keeping `LICENSE` byte-for-byte. Copyright (c) 2025 Alex Yang.
+
+## Update method
+
+1. Pick a commit on https://github.com/himself65/finance-skills.
+2. Export tracked content only with `git archive <commit>`.
+3. Replace the contents of `vendor/finance-skills/` with that export. Do not copy `.git`, and do not change this repository's remotes or history.
+4. Leave `LICENSE` exactly as that commit ships it.
+5. Update this file: commit SHA, commit date, import date, file count, and the sha256 list below.
+6. Do not run, install, or activate upstream skills, scripts, package managers, or plugins as part of the import.
+7. Re-run `python3 -m unittest discover -s tests -v`.
+
+## Verification at import
+
+A checkout of `a0850786e72aa23b92862f9f1635b0de506fe206` and this directory were compared with `diff -rq` (excluding `.git`). The comparison reported no differences. File count matched `git ls-files` (180). No secret-shaped filenames or private-key material were found in the tracked tree during that check.
+
+## sha256
+
+Each line is the SHA-256 of one imported file, then two spaces, then the path relative to `vendor/finance-skills/`. `tests/test_vendor_finance_skills.py` recomputes these hashes.
+
+```
+17dcd088cd4d66080379ba6618d80332d31dee167d33826adfe5ad8f35e67658  .agents/plugins/marketplace.json
+7e9c71332dcc2b52d3d0ee2b4c547264a69561b2a1a6cc5f01bb4db5adfe3440  .claude-plugin/marketplace.json
+5dccdc993678756d0e5932dfd7d64e3fc8080941e7c4b1f94950eb0c4f1061df  .github/workflows/opencli-plugin-test.yml
+3858affbd4c03563d0f5342dbe7dbdf8d5efc0811c7c818ad9a2a452e27263a8  .github/workflows/plugin-packages.yml
+4f63b2f938a641d0ab23775da0abe2e669b8cf8c16f9cba242753ec8ac34dae4  .github/workflows/release-skills.yml
+7c1ec84fdf4ee4d00c6dcc23fb459ad577829b9c025c8f3e66308d644c95a729  .github/workflows/skill-lint.yml
+dcf27d1ebe57c97bfd9524e4cc2ff54b4594334fd3c4dba7709282bc9c3f4fa8  .gitignore
+98120549825d01a4ed31d88dd6dd307c61ef5afa355f402eccd6514319df0a8e  AGENTS.md
+336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49  CLAUDE.md
+afb4751be1f58107f1daf07472d16f7eb6ec6df09996b5758e8ef6cc6d5a0a30  LICENSE
+6cfd82c7c6843d348b81babaff6295f2843fc2d0ed637f861d7dea7194c2dc68  README.md
+0c50ecbf68ea25cfca74c5a77d6f560efff0b3df7f695bdc217cd413915c8c0c  docs/codex.md
+24202a07390a3d5bcde49ea76fb3e9682c4fe00fd71ebc96c3021a746420542e  opencli-plugin.json
+88b6b09796bc021a6f46b5964be1cbe30ef7a25d613ee43f868e720ee4d15587  opencli-plugins/hyperliquid/.gitignore
+ee19b2e957e93e3c98572d1f49959dc32fac361a8310650376340ad31e81ab83  opencli-plugins/hyperliquid/README.md
+e74911060a17c21e7c75329dc0e9f0f7436367da01b26d26acf108253b0d7d08  opencli-plugins/hyperliquid/book.js
+47cbe516bd0cd0b5f2a3d2be7f5e657a15aa5a2893227ab5207701e2520b7d1b  opencli-plugins/hyperliquid/candles.js
+f21076e550ae4a635323c33b37a126ea3e4079ecc6578cab09aca6910ae78331  opencli-plugins/hyperliquid/funding-compare.js
+3a3240cf5c3462d518bf6cbecedcac4a962ba021f92ad50e58e8596dec4d63ca  opencli-plugins/hyperliquid/funding-history.js
+6ec4c1b71673360f134141e420bf8ebf31a4f97cedd957da0d7d8c8bfb282c6e  opencli-plugins/hyperliquid/lib/api.js
+df491489666b35dd24c27e689a0093f38ec5b62377f5a8f5e1d0261f4fedc87c  opencli-plugins/hyperliquid/lib/book.js
+fd6f3445dcf9fefb7e9f866bfd53ce51bcf8aba1bbc921fff7104402703c2aa0  opencli-plugins/hyperliquid/lib/candles.js
+66fe1887fb40ca3cb11c02d65194133f8dbb03cd6864e94738471c99fd9f4ede  opencli-plugins/hyperliquid/lib/funding.js
+966654b4d064d3df5c934c8977d9a7d7114134bdd306ec4b0fceb087fd358c23  opencli-plugins/hyperliquid/lib/markets.js
+41f0537e3bba0a38adc1eca63bb8f1341174e577683a2b94bf0bcd428580401b  opencli-plugins/hyperliquid/markets.js
+321e2709bb9737eec3db7e8711d9b2b50801052dd4e9cfb2a3229132a5c1f951  opencli-plugins/hyperliquid/mids.js
+b0e93af96d8c47e9207843df2e541f713d4db32375241a7da02a6bff38782d6b  opencli-plugins/hyperliquid/opencli-plugin.json
+f9a461150e84433f606869b966b67f16090c76451347f85cee982735f192dac1  opencli-plugins/hyperliquid/package.json
+c89768e0db1af5593bf35487ca2b88968fd174a9c7dd2dd4823ebc4a4a1824bd  opencli-plugins/hyperliquid/spot-markets.js
+9e60758caf447ff2fd02777fced8e1aa7f14ced24088077d2dfffb0738153f1e  opencli-plugins/hyperliquid/tests/api.test.js
+95deeda7c91a60512bad100837f9ae5dff39dcd643da02cdf7dc9d9231eaf53d  opencli-plugins/hyperliquid/tests/book.test.js
+251a8807f3a47be67e1d0783d839acd8aadd33d72ef5b918e0de0f01bee5629a  opencli-plugins/hyperliquid/tests/candles.test.js
+436db78c84851219ccd7ddd0dd76c5fc698a19b100358fbc9b7b4e0fec236811  opencli-plugins/hyperliquid/tests/funding.test.js
+385e032d68fdc3a4de58d8ec002a9b16996bbf15a6b7ba4c09a51f145f5a7443  opencli-plugins/hyperliquid/tests/markets.test.js
+88b6b09796bc021a6f46b5964be1cbe30ef7a25d613ee43f868e720ee4d15587  opencli-plugins/tradingview/.gitignore
+74db419e09c34e45d29b67a13658333098f57df53a332fabbb55da387df25bd9  opencli-plugins/tradingview/README.md
+060dc083ccb4519e34a3f3cd44bf9eda7c4f1663f484d8dec7ddc918dd258274  opencli-plugins/tradingview/alerts.js
+b8085c9ba2f6b8a0eee7853f9406a7cb18677deb9d83005075cdb902a77499f8  opencli-plugins/tradingview/chart-state.js
+577be796a9243a3c4b5218b274be52102df51e7f8e783597efcdec8e583069dc  opencli-plugins/tradingview/launch.js
+3a505b168f3ab53c8b1ff199a8c91bbee3b799353684d2d4b3507ecedf533598  opencli-plugins/tradingview/lib/alerts.js
+19617d64ed1cedca214b6d602a3ceac0111e66f2f03c6fc02e3929d06b126391  opencli-plugins/tradingview/lib/cdp.js
+af17371172218cc7eeb96b1ed4cba459da01cd8b00e7237ad44043245094638d  opencli-plugins/tradingview/lib/cookies.js
+b70ebf56871ea0396558ade1c1f01d503a9597ca77da700c8d998263d7e703d6  opencli-plugins/tradingview/lib/news.js
+9c0e122223d9b494a405893de1d2d3372318d3b5d26c29b41c4afd410d1e533d  opencli-plugins/tradingview/lib/scanner.js
+d32a0b93db3491e8963c2d5f7575c07159d81d3ccd37ed0089ba597c411b35e3  opencli-plugins/tradingview/lib/symbols.js
+f3423eae4bf451a76c41215a381d32138dfe49e53a2bc5a98cd28d5d86257768  opencli-plugins/tradingview/news.js
+6a1d05a3288dec46240e3ca4b2218094300df6553edd23045dbb1df80cf763c7  opencli-plugins/tradingview/opencli-plugin.json
+f76f5d4f956794234eac4a3be24e00df7c3f11f1af26bcff6b20cb879b1eeb5f  opencli-plugins/tradingview/options-chain.js
+183a3f390422cf66f8be16d905de651fc5ccfde5e09956db81b49eba07c4fc8a  opencli-plugins/tradingview/options-expiries.js
+059a880e46cc3737812a240b30f80e7689093d01b84d6d4ef71d805d1bfe5934  opencli-plugins/tradingview/package.json
+1a5ac6e99e4e4d1b677d6421243c66d605f76b137024c11bb1c96043f97bdf08  opencli-plugins/tradingview/quote.js
+aa6a3883280a5d0864442e954ffb875104f0fbe8a4a0437aa023b06f3794942f  opencli-plugins/tradingview/screener.js
+dee4102ce5a53f1055d894d0b3e597c618591c35c620fd8df32e149151c592d6  opencli-plugins/tradingview/screenshot.js
+a7831f2d375c7f4f1d4a2e1090883e4dcd98610f5655b122f27eeef81b532acf  opencli-plugins/tradingview/search.js
+456bcdc9ade1e66ee8f27869310dc5437e1cf67a2a5f08916f09f1305844cf64  opencli-plugins/tradingview/status.js
+a247040d0bfbfdb276a3a005811ae7675ca10b38916188e3b53bc43a161a06c0  opencli-plugins/tradingview/tests/alerts.test.js
+52957500b4e374b44d7b02e5edb667f8f0e588f4bac79d9ee54221376a8fda71  opencli-plugins/tradingview/tests/cookies.test.js
+874027e795ea241ca81cfacb1dad6228fe8158aa791beea6bdbb138cb67d13c6  opencli-plugins/tradingview/tests/news.test.js
+d84d85421a8a768231b2e5e70ed30899da17d2a4f65545eb9e24480b6414df99  opencli-plugins/tradingview/tests/scanner.test.js
+56b692ab876c15e2ba0adaca63c65e09a5434d6dce6bd082baabbab9e8733107  opencli-plugins/tradingview/tests/screener.test.js
+2d0cb1bd19b7eb4f12b95d18efe53b46b94fb7d9563a4771adc8b60fb443e9af  opencli-plugins/tradingview/tests/symbols.test.js
+41d4115ce17128ca98bca7ff8b7234c0bb4fe86a6777cc68c68bc0dbf89c03dc  opencli-plugins/tradingview/watchlists.js
+2c268994d67e72a751ae27591b1e80ba4fabf5bfd559b449f7b589012cbbfb83  package.json
+82e6c2a58d6b4556df564ee0e0f2c87f6016b65982863cbbb26d366a5d7c1dfa  plugins/data-providers/.codex-plugin/plugin.json
+23257d1e98a550258621c7125ade31e624e76334b07cc233ab1526fd228f8a99  plugins/data-providers/.mcp.json
+448dad62df359f54aa8603516ecc96497f2e96838fa9fdff7dcc1c6f39439b29  plugins/data-providers/mcp.json
+eced51be7aafd5057e58daa844851aa2ae4ce3bcb831fee95cd069f3d132d182  plugins/data-providers/plugin.json
+544a90705413a4c37be16888a69bfae8dac2ae09ff5c09729c7544858297cf5e  plugins/data-providers/skills/finance-sentiment/README.md
+1995fc5936b8b8bc88e667e8b342acc82ea98a673ff531be06aaf1f928959c0c  plugins/data-providers/skills/finance-sentiment/SKILL.md
+7ff5f000a3850f328edd5d6dcb45fc9dc9cc14b8ec148036e3ee13ecb3213a93  plugins/data-providers/skills/finance-sentiment/references/api_reference.md
+b57ef9f94fe7ed9cf4c334964a2a8be3a5f314e8e668d17bd532a0424d6a8d75  plugins/data-providers/skills/fintel-data/README.md
+dcb856e10a2d99ea3bbf9c57bcc1c5581dae9b6cb3f8b38d772e3cab7ca84ec9  plugins/data-providers/skills/fintel-data/SKILL.md
+d05cad2b69174581c97718cb265bd4d7b4a8e5d2ce0cc30841eddfb4c59f4d61  plugins/data-providers/skills/fintel-data/references/api-reference.md
+06869de5a96b2483648f9ae0d126d39551e2c42e4c2dd0a42917acd31cb862f6  plugins/data-providers/skills/hormuz-strait/README.md
+1f179c1a95a7793d73b028c3724c51ed7843503c7742901bfb0bfe44f6109a89  plugins/data-providers/skills/hormuz-strait/SKILL.md
+6b931a00052af7307b1db0d46154a8547ba2c566d6f6d3e34782f595d2050522  plugins/data-providers/skills/hormuz-strait/references/api_schema.md
+4c3fb23b3d019c136c04c738959976b36f48df61b9ad11a92c5c15f5f0cba144  plugins/data-providers/skills/hyperliquid-reader/README.md
+bae0faaa40c3c5f40f935f1298ae2209cc0504bab2b6580ddba10779cba71ad8  plugins/data-providers/skills/hyperliquid-reader/SKILL.md
+de8f62dbfc7b09f50f2f3070977beb073091423a54e6fea6dffb3aa70ea4f343  plugins/data-providers/skills/hyperliquid-reader/references/commands.md
+3edfe4f73076a982a2333287414720b6704a8a3507d4ddce43b53905d3de2853  plugins/data-providers/skills/tradingview-mcp/README.md
+157deb5e7199f7c9930a15bd8800c978f7a24dab9ab72ea9375376423b9f206f  plugins/data-providers/skills/tradingview-mcp/SKILL.md
+d197fc5a74a51db24466244917d9f0eb205edc544a06bfdfe048d36a194c8dfe  plugins/data-providers/skills/tradingview-reader/README.md
+6258335e38ad6b0a07b50aa1fbcf038c035bae9dbeff1c452eae0bc938b7610b  plugins/data-providers/skills/tradingview-reader/SKILL.md
+b33caf7f5da7d234651fda26e7262927e26acc4f2cc32cf6b1491b06d1e874d3  plugins/data-providers/skills/tradingview-reader/references/commands.md
+980f75e1e6d0c0d882204c9600e889b048e02837c68b508e62ec73d33e6a0efa  plugins/market-analysis/.codex-plugin/plugin.json
+fa9cabf80cc91770f840375383387b47c6c26482be872efa3b47e30c9c153396  plugins/market-analysis/plugin.json
+84d37e76e5279c062aec6e4489e0c5e842f6327894e9e26252a52439257db7ce  plugins/market-analysis/skills/company-valuation/README.md
+bb3e65fe377541eec655da96a5d4417be8d01fcedd4319c49c52e52d5fffc5b2  plugins/market-analysis/skills/company-valuation/SKILL.md
+71b4fb10de0cdddf8ada7170ad37b50db2262a853fd4afd5de60dfefee7331d2  plugins/market-analysis/skills/company-valuation/references/dcf.md
+7fd32e31223d2a03bb404bcb390256d325d41e31f70e564141d0a2203581db7b  plugins/market-analysis/skills/company-valuation/references/relative_valuation.md
+6d7f0a8e36c503639c0ead9f99d4b92da79f96e76f3fce62ce5a929ffa25353d  plugins/market-analysis/skills/company-valuation/references/sotp.md
+7a77f82bdf6460485ab371c58a0cf411638b78d0617029bd905861e2e4a68037  plugins/market-analysis/skills/company-valuation/references/wacc_erp_rates.md
+0e3e1435e6a71d8930d78ece790faf300fab60cff2a04b209f80846d43c7722a  plugins/market-analysis/skills/earnings-preview/README.md
+d8776e32aab42ef689d36a0deac3915c526465b31e7e577a54a703be8ff586e8  plugins/market-analysis/skills/earnings-preview/SKILL.md
+9a5feb45fec2580f530ded1e542aa1fcad5f0bd824c3fd9768babc5c35f9df71  plugins/market-analysis/skills/earnings-preview/references/api_reference.md
+03e23a8ae675322acf780e07275965bd8296c0ee517c4b904ce4da9300aa29a5  plugins/market-analysis/skills/earnings-recap/README.md
+203d09612f1e73a9a259e87235061cbde3a6c817d2561cdf8b1e39ccf86e8192  plugins/market-analysis/skills/earnings-recap/SKILL.md
+100f0b61c0c1d4632e0edcc624eee2f3c5310ee0099d930b79e06a2058fedb1e  plugins/market-analysis/skills/earnings-recap/references/api_reference.md
+ed7353c85e32abb3fcec50a373ce151be3d20b1a325d52d45d54acad6508f1e3  plugins/market-analysis/skills/estimate-analysis/README.md
+dc7f091e7169fa15ca9941f8ff8b6c461f248ad00aec48a757e2b5ff0b5af842  plugins/market-analysis/skills/estimate-analysis/SKILL.md
+03f71030c25c39a33576d6847d234c27a363c2d158c2a3659ad2161d56b70583  plugins/market-analysis/skills/estimate-analysis/references/api_reference.md
+cdd612487d21519b92d171fa7bcbdf01aedc8cddbeac06e4215d84cdc60c75a1  plugins/market-analysis/skills/etf-premium/README.md
+7730298b2476093ecc3ca1bf33412ac7a4153742f64b31810f0247668133cf02  plugins/market-analysis/skills/etf-premium/SKILL.md
+c8f4658e33ff351cbfa8079d50cdede3d7e886fbd278137b7dfb6d08f9acf76d  plugins/market-analysis/skills/etf-premium/references/etf_premium_reference.md
+a69caa8d16b35a822e31b6897b7d9fba08de9aacf9ab6889a7449c838dff1099  plugins/market-analysis/skills/etf-premium/references/gamma_squeeze_reference.md
+2aa9fe011eb9bb72b04b0c2e0b22fe91ea28b743fe46fbc20c9ffd209ef21ce6  plugins/market-analysis/skills/options-payoff/README.md
+2501e5c0bd1ada259554f3fa7bf03cde01cc57e488b601ab234941791426370c  plugins/market-analysis/skills/options-payoff/SKILL.md
+c40b2b1103706e704aa0e82f2cef8e154fe69ace4fb9ff56421cdab33b478f57  plugins/market-analysis/skills/options-payoff/references/bs_code.md
+2dbeae37e3cfedd72fb12cab77906cd6ac90aa8207c99264590497e4a59e1d0a  plugins/market-analysis/skills/options-payoff/references/strategies.md
+7477293e27fb8ea2057fc19bf32569dca1576fcdb3c2a2c8cdacf1faac9f53a6  plugins/market-analysis/skills/saas-valuation-compression/README.md
+78df9bb1495ec9c2dbcbe2b58ae48bca7986ce335db3158bc0d8fbf551179454  plugins/market-analysis/skills/saas-valuation-compression/SKILL.md
+30191e6781926155d8bcec81f9707002c976ff62927673074d2122086fec1ee5  plugins/market-analysis/skills/saas-valuation-compression/references/benchmarks.md
+212b2d9f1fe419dc52973eaeed39a0a20736efca314e76dd02bcd358fc351905  plugins/market-analysis/skills/sepa-strategy/README.md
+00ee8f4b473ca038b17fd5000f3691afcf3c3cc1781c6920b66cce4ec9920c4b  plugins/market-analysis/skills/sepa-strategy/SKILL.md
+7f682cc72d3afef2e645975676fc7eae36af36644a785d2f58e987ead85a3281  plugins/market-analysis/skills/sepa-strategy/references/entry-rules.md
+b077e99aa1bbce347f10cfd4d9ba9a304dbe56cd2cd478ceb683899dc7b16340  plugins/market-analysis/skills/sepa-strategy/references/fundamentals.md
+0788217ee8f5c85ba2c9641a2f2a4ce81ae0e885675340ce94a92dcbebbb4e2e  plugins/market-analysis/skills/sepa-strategy/references/market-environment.md
+c29837ff797105ac210dc24591bf77133347548ce172c3e5b79d24cb15ebed3c  plugins/market-analysis/skills/sepa-strategy/references/patterns.md
+09a9253c47762d3a795bebf088c6593ee7dfdb6fe5d49d4a412e61fd5b59c5c5  plugins/market-analysis/skills/sepa-strategy/references/position-sizing.md
+4bfa452168ef956b2eba4cd3ee91e929982869825e0b4e89d826b3f6dcb93e1a  plugins/market-analysis/skills/sepa-strategy/references/stage-analysis.md
+9d0695c971cd34f3b550185697d68b77a54b110515460386e5136d46dcd8e64a  plugins/market-analysis/skills/sepa-strategy/references/trend-template.md
+820411eb1b06186ab8533d1c671b44c56a85ea17ccd82178abadfb768da80376  plugins/market-analysis/skills/stock-correlation/README.md
+1fc3ebf4751111dd95cb634df4f70f2c4b4ed217cd9d82fa8e8b8fa17a515f2c  plugins/market-analysis/skills/stock-correlation/SKILL.md
+7a3c06b416265a360bbcecb6020fec057deba282252fd19e4cd90b600c30f227  plugins/market-analysis/skills/stock-correlation/references/sector_universes.md
+b8684b1ae073838d5b5a7b3c7230534f8701b05947d4fea6d78bde6e4c8ecb13  plugins/market-analysis/skills/stock-liquidity/README.md
+4295779f600087089017d8fce4a5bd6b0a43d4b2a321f8761f1f04e3ad4a04a8  plugins/market-analysis/skills/stock-liquidity/SKILL.md
+cfde788a0695b764806f28cec6d8722aece7ef22e64ad8922de40bac5b30fc3e  plugins/market-analysis/skills/stock-liquidity/references/liquidity_reference.md
+3ce2f944f7260f898e6451905404dd29601ea3c56a2359d5ff8b67e7f512edf3  plugins/market-analysis/skills/yfinance-data/README.md
+502db0ad9e13da4c48197dad8378080624827847c4c9332be1884c0fb19a932d  plugins/market-analysis/skills/yfinance-data/SKILL.md
+5303690532bd4a110a8a893673c757630b46900bcb89022c00ab62b4397204d7  plugins/market-analysis/skills/yfinance-data/references/api_reference.md
+d2489c07ebcd6f34eb98fd4f9127c63e995277828823ea8ca58d974c6e80ba3a  plugins/skill-creator/.codex-plugin/plugin.json
+51683a13224fd95adff9a53171fdad067723eea18c9898df3b20e471acfa93de  plugins/skill-creator/plugin.json
+2891af0893e0c6153c2fc7ddb53c25fea8120d5e43a3617edb96437ea706a740  plugins/skill-creator/skills/skill-creator/README.md
+25e03bbb869d1300f851471d4873fb01110ab19234259e644b28586ab4195eaf  plugins/skill-creator/skills/skill-creator/SKILL.md
+bd4c0f39ccf5b73143b0f7e6f8da8f605d8cbc6fc84e019fbba3b11cae82fec7  plugins/skill-creator/skills/skill-creator/references/architecture-patterns.md
+dc7939feccef63dbf7c3c918b95c3f96572279b424990e7c5c4be19db8a7f788  plugins/skill-creator/skills/skill-creator/references/dynamic-calling.md
+d1c000ad3ca699e823cdb36bbfab0e5bacb4c1be3b66bb09924b814bc7ffaca8  plugins/skill-creator/skills/skill-creator/references/frontmatter-guide.md
+d43ca387004d62807c318beb5d2a6ddc804a37e2c51cec3179a554a92bd0b7f6  plugins/skill-creator/skills/skill-creator/references/quality-rubric.md
+b49a5d09f89180884cd26a13e4e7a52d87da20c21535f12d82d232b16051dfd8  plugins/skill-creator/skills/skill-creator/references/skill-examples.md
+025ca6a90329e2d9c42d69e1a852dda9c8cc4ee0639f396a87242376e5bdc9a9  plugins/skill-creator/skills/skill-creator/references/writing-guide.md
+9f6f971919da60aa4f4399bbb59e37f64036668f64a5417aaa19df34eaa309b2  plugins/social-readers/.codex-plugin/plugin.json
+a26ad0e4ba19a192c6772afa2238be7740bc21b251e349dba5fe2f4f6040d5db  plugins/social-readers/plugin.json
+c82f951d411e3c75de5c44bb3256c2444eb9109f590bbad04f43002e940b9df3  plugins/social-readers/skills/discord-reader/README.md
+2ab4440ed19a4cf98a329205858dd96138acc20416999ee83218b1fdaedccf92  plugins/social-readers/skills/discord-reader/SKILL.md
+cc3696dfd3c830943dc3142c2ab9f507970750ba704451a4a925d221b59cece0  plugins/social-readers/skills/discord-reader/references/commands.md
+5a13fc6079aa2f682697afe73004bf22ebb06974c48f42a38c90348c68b8c35f  plugins/social-readers/skills/linkedin-reader/README.md
+ce9bbf4a45df207427e1b669ad0095a5cdb53afb9eb5616bae623ea1bd0c8017  plugins/social-readers/skills/linkedin-reader/SKILL.md
+5d033760abe268f61e68ae35ba46be432fd46ec9e2659e4787beb380212333c3  plugins/social-readers/skills/linkedin-reader/references/commands.md
+150a338746b7e167f4adc382e1afee405b3c5b37f91c4a7bc33dfdc8a5a8808e  plugins/social-readers/skills/opencli-reader/README.md
+0a8520026416d4d52b4ca7dd69fbc29c0767425581836d45d517390f8980d6a2  plugins/social-readers/skills/opencli-reader/SKILL.md
+1032da179970663ef0436dedb215844a790dbc14ee74fedca0631a74a0b126ec  plugins/social-readers/skills/opencli-reader/references/discovery.md
+357511208bbf4759cbaac55125b29c37fe38b9cd3e57dc7b9ad05b18fb69a530  plugins/social-readers/skills/opencli-reader/references/finance-sources.md
+b8a40b3a0e99293786569af16a022c14cf0e476979883b3e706ee934bf85a3aa  plugins/social-readers/skills/telegram-reader/README.md
+16cd91e47b4cac2685928f3866926997fdf950a0d65b0b415cabba8d46b67419  plugins/social-readers/skills/telegram-reader/SKILL.md
+c9e64fbaca29349104f957db581fc2c05086cb7e535e37611cee43bad450dac3  plugins/social-readers/skills/telegram-reader/references/commands.md
+b53660aafc210e056d40ed0b29beff2a1cae0aad662978fe42d8e24bd166abe8  plugins/social-readers/skills/twitter-reader/README.md
+6a5285541131cf98fcfaa20abbaca30753d4756280ba9343bf69293e3cbe6505  plugins/social-readers/skills/twitter-reader/SKILL.md
+308b9668aba33dad252e532e3f8798217ee0604e89f38d21520d7b704b617a9e  plugins/social-readers/skills/twitter-reader/references/commands.md
+0909edbf7f65688519c1ba6adf10e97334092b3f5e78be7076a7b0631a7e61a5  plugins/social-readers/skills/twitter-reader/references/schema.md
+d8278d282bac280c866d46239d8d04f557dac1c245f1f95abd852ab9b32452f5  plugins/social-readers/skills/yc-reader/README.md
+1172f3200a96c847f0f4ca57476a4230f6fba4b432c878f0ca2a2e361a520217  plugins/social-readers/skills/yc-reader/SKILL.md
+d7d4530c3e3c0fec529502b196c8aa17066e96183550e6ef81fabbc451ba534e  plugins/social-readers/skills/yc-reader/references/api_reference.md
+7697398fceb308c49cd17ab450ce94254c9c25c151e23d9f19776de42b574414  plugins/startup-tools/.codex-plugin/plugin.json
+02a0f97dfe6b5dedd92fca99702c54bce456cb22510fb38d81c50d49b6d9254e  plugins/startup-tools/plugin.json
+0d4017b691fd25cf9e2fb14a23d73cc7ee698b3b451076d5dc5488a4ec155d3c  plugins/startup-tools/skills/startup-analysis/README.md
+7430e7165004c6cf7f5746c8894e2dcec681bbcdaf8d877b2aafa9283604cbb4  plugins/startup-tools/skills/startup-analysis/SKILL.md
+8b1d174536bb08c449b44a049c0d187149440df8da649d0e1cfff6429eb6557a  plugins/startup-tools/skills/startup-analysis/references/ceo-framework.md
+b5c6948fc5bff7d5035c2e1d2e3003a54f231ccb1a32a07dcc818dfae265213b  plugins/startup-tools/skills/startup-analysis/references/job-applicant-framework.md
+def73b537206b19f9be0f23ba4be6c006eeceb369973461ddab02deaef16cadd  plugins/startup-tools/skills/startup-analysis/references/vc-framework.md
+72b59921d49d2eb50349b7bacef6e105645b59d344966c1745cf51d3b6b9691f  plugins/ui-tools/.codex-plugin/plugin.json
+21e977134e0c9c9ad42d4b47ca082c4a91ea25e70df21b1f38ced8d97c91879b  plugins/ui-tools/plugin.json
+5a891c8de73160ae9a057958c286e553ef24be0089688f813ad71f3bc0d0570c  plugins/ui-tools/skills/generative-ui/README.md
+f52710b144d3c621dc0a87a2bfd1cc8e98edf9459f5f4cbc5052eaf18764242a  plugins/ui-tools/skills/generative-ui/SKILL.md
+7b785fccfcf4264e5326a43550c2ba4fa5c79f6be34f4a200aae053be443d224  plugins/ui-tools/skills/generative-ui/references/chart_js.md
+8f3016cf3485203e5f2e80fded01891873cf8fe52c8208fddff9f6473ea1ab7a  plugins/ui-tools/skills/generative-ui/references/design_system.md
+e8b62160d7aaa182020a04f9e8368e5eb56ee3ca6e1d986bca3a9539d8bdfcac  plugins/ui-tools/skills/generative-ui/references/svg_and_diagrams.md
+2f34511d3fe1459057b6e724aeb14c266a308b8fbd3fcf8ac0d2896d427bb534  pnpm-lock.yaml
+1f9d424b19444a247bbb0ee1e16c159a788893a15f81f2d5cff63bcd51b2c581  scripts/package_plugins.py
+a399ab0aeca0182b57b274592d6d0bcd1c31a4d091924b736259bc5a232f16fc  scripts/smoke_codex.py
+8734fd0f50fb6e084732a0ea0ef8b14e6ebc4916bdbbadccbf1e6eb27115b2d5  scripts/tests/test_package_plugins.py
+```

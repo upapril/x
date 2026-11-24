@@ -1,0 +1,370 @@
+{
+  "collected_at_utc": "2026-11-24T12:29:16Z",
+  "collected_at_shanghai": "2026-11-24T20:29:16+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RFPNFZ9489MVTB31GR9DK.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2018-02-01T00:00:00Z",
+    "end_time": "2018-03-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2018-02"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2018-02-26T23:30:31.000Z",
+      "edit_history_tweet_ids": [
+        "968267061817360385"
+      ],
+      "id": "968267061817360385",
+      "in_reply_to_user_id": "570502777",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@alex_teichman by the way, let me know if you'd like any help with producing labeled data—@scaleAPI  would be happy to help with 2D/3D data 🙂",
+      "url": "https://x.com/alexandr_wang/status/968267061817360385"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2018-02-22T06:32:45.000Z",
+      "edit_history_tweet_ids": [
+        "966561381637013504"
+      ],
+      "id": "966561381637013504",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "966491156333740033",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @alex_teichman: @scaleAPI where were you during my PhD??  Back in the bad old days I had to write all this by hand. https://t.co/N450nbG…",
+      "url": "https://x.com/alexandr_wang/status/966561381637013504"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2018-02-21T22:04:45.000Z",
+      "edit_history_tweet_ids": [
+        "966433537728552961"
+      ],
+      "id": "966433537728552961",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "966432072662319104",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @joininteract: Check out @scaleAPI's Sensor Fusion Annotations -- @alexandr_wang &amp; team's newest product focused on building 3D percepti…",
+      "url": "https://x.com/alexandr_wang/status/966433537728552961"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2018-02-21T18:07:07.000Z",
+      "edit_history_tweet_ids": [
+        "966373736541650944"
+      ],
+      "id": "966373736541650944",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "966373538469896193",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaleAPI: Our founder @alexandr_wang on the human costs to deploying mapping for self-driving cars.\n\nhttps://t.co/z1QdSish3A https://t.…",
+      "url": "https://x.com/alexandr_wang/status/966373736541650944"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2018-02-16T16:36:42.000Z",
+      "edit_history_tweet_ids": [
+        "964539043542269952"
+      ],
+      "id": "964539043542269952",
+      "in_reply_to_user_id": "68746721",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "964536950492246016",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fchollet Strongly agree. At https://t.co/Xd7883yj9W, we're working to make high quality data labeling an infrastructure service that every company has access to. The 2nd might be solved with some AutoML-like thing offered by cloud providers.",
+      "url": "https://x.com/alexandr_wang/status/964539043542269952"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_964228752325529600"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2018-02-15T22:48:41.000Z",
+      "edit_history_tweet_ids": [
+        "964270266363789312"
+      ],
+      "id": "964270266363789312",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "964228760001118209",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaleAPI: Introducing Sensor Fusion Annotation\n\nhttps://t.co/nLyuyo7Lyu https://t.co/xYBuvqKO4C",
+      "url": "https://x.com/alexandr_wang/status/964270266363789312"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2018-02-15T07:19:14.000Z",
+      "edit_history_tweet_ids": [
+        "964036364541902848"
+      ],
+      "id": "964036364541902848",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "964034678628978688",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @alexandr_wang: Excited to accelerate self-driving cars with our new launch\nScale 3D: build 3D perception for self-driving cars https://…",
+      "url": "https://x.com/alexandr_wang/status/964036364541902848"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_964034675542056960"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2018-02-15T07:12:32.000Z",
+      "edit_history_tweet_ids": [
+        "964034678628978688"
+      ],
+      "id": "964034678628978688",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 43,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 12
+      },
+      "text": "Excited to accelerate self-driving cars with our new launch\nScale 3D: build 3D perception for self-driving cars https://t.co/3n4NXlAxIB https://t.co/u2WnRcxcBK",
+      "url": "https://x.com/alexandr_wang/status/964034678628978688"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_964228752325529600",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_964034675542056960",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "570502777",
+        "created_at": "2018-02-22T01:53:42.000Z",
+        "edit_history_tweet_ids": [
+          "966491156333740033"
+        ],
+        "id": "966491156333740033",
+        "in_reply_to_user_id": "752712449321644032",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "966432072662319104",
+            "type": "quoted"
+          }
+        ],
+        "text": "@scaleAPI where were you during my PhD??  Back in the bad old days I had to write all this by hand. https://t.co/N450nbGIr5"
+      },
+      {
+        "author_id": "956905844",
+        "created_at": "2018-02-21T21:58:56.000Z",
+        "edit_history_tweet_ids": [
+          "966432072662319104"
+        ],
+        "id": "966432072662319104",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "Check out @scaleAPI's Sensor Fusion Annotations -- @alexandr_wang &amp; team's newest product focused on building 3D perception using LiDAR, camera, and radar https://t.co/ChENIfy5vP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_966373524658044928"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "created_at": "2018-02-21T18:06:20.000Z",
+        "edit_history_tweet_ids": [
+          "966373538469896193"
+        ],
+        "id": "966373538469896193",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "Our founder @alexandr_wang on the human costs to deploying mapping for self-driving cars.\n\nhttps://t.co/z1QdSish3A https://t.co/ThBHfU1Sev"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_964228752325529600"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "created_at": "2018-02-15T20:03:45.000Z",
+        "edit_history_tweet_ids": [
+          "964228760001118209"
+        ],
+        "id": "964228760001118209",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "text": "Introducing Sensor Fusion Annotation\n\nhttps://t.co/nLyuyo7Lyu https://t.co/xYBuvqKO4C"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_964034675542056960"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2018-02-15T07:12:32.000Z",
+        "edit_history_tweet_ids": [
+          "964034678628978688"
+        ],
+        "id": "964034678628978688",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "text": "Excited to accelerate self-driving cars with our new launch\nScale 3D: build 3D perception for self-driving cars https://t.co/3n4NXlAxIB https://t.co/u2WnRcxcBK"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "570502777",
+        "name": "Alex Teichman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904999001587597312/EQSWYhNz_normal.jpg",
+        "username": "alex_teichman",
+        "verified": false
+      },
+      {
+        "id": "68746721",
+        "name": "François Chollet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+        "username": "fchollet",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "968267061817360385",
+    "next_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
+    "oldest_id": "964034678628978688",
+    "result_count": 8
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [964536950492246016].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "964536950492246016",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "964536950492246016"
+    }
+  ]
+}

@@ -1,0 +1,1659 @@
+{
+  "collected_at_utc": "2026-11-24T12:19:42Z",
+  "collected_at_shanghai": "2026-11-24T20:19:42+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86QXXFWVJV159VN0T53EC8F.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2022-04-01T00:00:00Z",
+    "end_time": "2022-05-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2022-04"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1519386740796149760",
+      "created_at": "2022-04-27T20:49:38.000Z",
+      "display_text_range": [
+        27,
+        45
+      ],
+      "edit_history_tweet_ids": [
+        "1519418514750070785"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "18438688",
+            "start": 0,
+            "username": "jajordan13"
+          },
+          {
+            "end": 26,
+            "id": "1528558014",
+            "start": 12,
+            "username": "patrick_oshag"
+          }
+        ]
+      },
+      "id": "1519418514750070785",
+      "in_reply_to_user_id": "18438688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1519386740796149760",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jajordan13 @patrick_oshag Glad you liked it!",
+      "url": "https://x.com/alexandr_wang/status/1519418514750070785"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1517166351755792384",
+      "created_at": "2022-04-21T15:40:20.000Z",
+      "display_text_range": [
+        0,
+        249
+      ],
+      "edit_history_tweet_ids": [
+        "1517166351755792384"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 38,
+            "id": "15385273",
+            "start": 24,
+            "username": "williamhockey"
+          },
+          {
+            "end": 222,
+            "id": "752712449321644032",
+            "start": 213,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/williamhockey/…",
+            "end": 273,
+            "expanded_url": "https://twitter.com/williamhockey/status/1517142615895855105",
+            "start": 250,
+            "url": "https://t.co/04GfLlzr6E"
+          }
+        ]
+      },
+      "id": "1517166351755792384",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1517142615895855105",
+          "type": "quoted"
+        }
+      ],
+      "text": "So excited and proud of @williamhockey for building what has the potential to be one of the biggest infrastructure companies ever!\n\nWe’re very lucky to be able to steal Will away from his exciting day job for the @scale_AI Board from time to time :) https://t.co/04GfLlzr6E",
+      "url": "https://x.com/alexandr_wang/status/1517166351755792384"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1516819133576278017",
+      "created_at": "2022-04-20T16:40:37.000Z",
+      "display_text_range": [
+        0,
+        176
+      ],
+      "edit_history_tweet_ids": [
+        "1516819133576278017"
+      ],
+      "id": "1516819133576278017",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "text": "Wrote a piece about something I care deeply about:\n\nAmerica needs a National Data Strategy, and we need it now!\n\nIt’s obvious, urgent, and very doable.\n\nhttps://t.co/GSsjIXc9F4",
+      "url": "https://x.com/alexandr_wang/status/1516819133576278017"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1516096150189010945",
+      "created_at": "2022-04-18T16:47:44.000Z",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "edit_history_tweet_ids": [
+        "1516096150189010945"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 46,
+            "id": "615818451",
+            "start": 32,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 70,
+            "id": "1433356862",
+            "start": 59,
+            "username": "DefenseOne"
+          }
+        ]
+      },
+      "id": "1516096150189010945",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1516095123020390405",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: Check out our CEO @alexandr_wang’s byline in @DefenseOne to learn more about the need for a U.S. data strategy and how Scale…",
+      "url": "https://x.com/alexandr_wang/status/1516096150189010945"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1516084965439467526",
+      "created_at": "2022-04-18T16:03:17.000Z",
+      "display_text_range": [
+        0,
+        144
+      ],
+      "edit_history_tweet_ids": [
+        "1516084965439467526"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "362399785",
+            "start": 3,
+            "username": "alexfmac"
+          },
+          {
+            "end": 59,
+            "id": "615818451",
+            "start": 45,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 80,
+            "id": "1528558014",
+            "start": 66,
+            "username": "patrick_oshag"
+          },
+          {
+            "end": 99,
+            "id": "1282422772845744140",
+            "start": 84,
+            "username": "InvestLikeBest"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "t.co",
+            "end": 143,
+            "start": 131,
+            "url": "https://t.co"
+          }
+        ]
+      },
+      "id": "1516084965439467526",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1516076597522145280",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @alexfmac: Tweet inspired by listening to @alexandr_wang &amp; @patrick_oshag on @InvestLikeBest - super interesting episode: \n\nhttps://t.co…",
+      "url": "https://x.com/alexandr_wang/status/1516084965439467526"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1516084879829524480",
+      "created_at": "2022-04-18T16:02:57.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1516084879829524480"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "567531086",
+            "start": 3,
+            "username": "themollette"
+          }
+        ]
+      },
+      "id": "1516084879829524480",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1516064623409209351",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @themollette: One of the traits I admire most is experts who can explain basic concepts in ways normal people can grasp— clearly @alexan…",
+      "url": "https://x.com/alexandr_wang/status/1516084879829524480"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1515070716781240329",
+      "created_at": "2022-04-15T20:56:27.000Z",
+      "display_text_range": [
+        8,
+        36
+      ],
+      "edit_history_tweet_ids": [
+        "1515071577204924416"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "159201100",
+            "start": 0,
+            "username": "anjsud"
+          }
+        ]
+      },
+      "id": "1515071577204924416",
+      "in_reply_to_user_id": "159201100",
+      "lang": "es",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1515070716781240329",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@anjsud CONGRATS ANJALI!!! SO CUTE 😍",
+      "url": "https://x.com/alexandr_wang/status/1515071577204924416"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1514291863854804992",
+      "created_at": "2022-04-13T19:20:43.000Z",
+      "display_text_range": [
+        47,
+        49
+      ],
+      "edit_history_tweet_ids": [
+        "1514322708502245377"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "9445792",
+            "start": 0,
+            "username": "zoink"
+          },
+          {
+            "end": 17,
+            "id": "14325343",
+            "start": 7,
+            "username": "witheiler"
+          },
+          {
+            "end": 32,
+            "id": "996848767792918528",
+            "start": 18,
+            "username": "ninaachadjian"
+          },
+          {
+            "end": 46,
+            "id": "108698830",
+            "start": 33,
+            "username": "StartupGrind"
+          }
+        ]
+      },
+      "id": "1514322708502245377",
+      "in_reply_to_user_id": "9445792",
+      "lang": "qme",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1514317372403843075",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@zoink @witheiler @ninaachadjian @StartupGrind 🤓😇",
+      "url": "https://x.com/alexandr_wang/status/1514322708502245377"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1514291863854804992",
+      "created_at": "2022-04-13T18:58:41.000Z",
+      "display_text_range": [
+        40,
+        109
+      ],
+      "edit_history_tweet_ids": [
+        "1514317164890640385"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "14325343",
+            "start": 0,
+            "username": "witheiler"
+          },
+          {
+            "end": 25,
+            "id": "996848767792918528",
+            "start": 11,
+            "username": "ninaachadjian"
+          },
+          {
+            "end": 39,
+            "id": "108698830",
+            "start": 26,
+            "username": "StartupGrind"
+          },
+          {
+            "end": 81,
+            "id": "9445792",
+            "start": 75,
+            "username": "zoink"
+          }
+        ]
+      },
+      "id": "1514317164890640385",
+      "in_reply_to_user_id": "14325343",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1514314551415746564",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@witheiler @ninaachadjian @StartupGrind you'll have to come shopping w me. @zoink can attest it's a fun time!",
+      "url": "https://x.com/alexandr_wang/status/1514317164890640385"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1514291863854804992",
+      "created_at": "2022-04-13T17:18:09.000Z",
+      "display_text_range": [
+        0,
+        120
+      ],
+      "edit_history_tweet_ids": [
+        "1514291863854804992"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 36,
+            "id": "996848767792918528",
+            "start": 22,
+            "username": "ninaachadjian"
+          },
+          {
+            "end": 53,
+            "id": "108698830",
+            "start": 40,
+            "username": "StartupGrind"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/ninaachadjian/…",
+            "end": 144,
+            "expanded_url": "https://twitter.com/ninaachadjian/status/1514290187362136069",
+            "start": 121,
+            "url": "https://t.co/1BBt95GRz6"
+          }
+        ]
+      },
+      "id": "1514291863854804992",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 0,
+        "like_count": 52,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1514290187362136069",
+          "type": "quoted"
+        }
+      ],
+      "text": "Had a great time with @ninaachadjian at @StartupGrind!\n\nNina is too kind, but honor is all mine to be onstage with her 💜 https://t.co/1BBt95GRz6",
+      "url": "https://x.com/alexandr_wang/status/1514291863854804992"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1514259693144748035",
+      "created_at": "2022-04-13T15:10:19.000Z",
+      "display_text_range": [
+        0,
+        130
+      ],
+      "edit_history_tweet_ids": [
+        "1514259693144748035"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 23,
+            "id": "1008927348807225346",
+            "start": 16,
+            "username": "brexHQ"
+          },
+          {
+            "end": 115,
+            "id": "14354665",
+            "start": 106,
+            "username": "pedroh96"
+          },
+          {
+            "end": 126,
+            "id": "59922431",
+            "start": 116,
+            "username": "hdubugras"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/hdubugras/stat…",
+            "end": 154,
+            "expanded_url": "https://twitter.com/hdubugras/status/1514234682010914817",
+            "start": 131,
+            "url": "https://t.co/XIajrrttZk"
+          }
+        ]
+      },
+      "id": "1514259693144748035",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 31,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1514234682010914817",
+          "type": "quoted"
+        }
+      ],
+      "text": "Congrats to the @brexHQ team on a massive launch!\n\nEmpower is a huge launch for an incredible company. Go @pedroh96 @hdubugras 💥💥💥 https://t.co/XIajrrttZk",
+      "url": "https://x.com/alexandr_wang/status/1514259693144748035"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1513850997545730050",
+      "created_at": "2022-04-12T12:06:18.000Z",
+      "display_text_range": [
+        0,
+        268
+      ],
+      "edit_history_tweet_ids": [
+        "1513850997545730050"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 51,
+            "id": "1282422772845744140",
+            "start": 36,
+            "username": "InvestLikeBest"
+          },
+          {
+            "end": 71,
+            "id": "1528558014",
+            "start": 57,
+            "username": "patrick_oshag"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/patrick_oshag/…",
+            "end": 292,
+            "expanded_url": "https://twitter.com/patrick_oshag/status/1513845743383101445",
+            "start": 269,
+            "url": "https://t.co/SjQi3FRPZz"
+          }
+        ]
+      },
+      "id": "1513850997545730050",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 0,
+        "like_count": 84,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 13
+      },
+      "referenced_tweets": [
+        {
+          "id": "1513845743383101445",
+          "type": "quoted"
+        }
+      ],
+      "text": "It was an incredible honor to be on @InvestLikeBest with @patrick_oshag!\n\nIf you care about AI and how it’s rapidly shaping our world, I encourage you to give it a listen!\n\nPatrick is a great interviewer who took our conversation in a number of interesting directions. https://t.co/SjQi3FRPZz",
+      "url": "https://x.com/alexandr_wang/status/1513850997545730050"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1513663088196685826",
+      "created_at": "2022-04-11T23:39:37.000Z",
+      "display_text_range": [
+        0,
+        60
+      ],
+      "edit_history_tweet_ids": [
+        "1513663088196685826"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 59,
+            "id": "120266797",
+            "start": 46,
+            "username": "TEDxBerkeley"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/scale_AI/statu…",
+            "end": 84,
+            "expanded_url": "https://twitter.com/scale_AI/status/1513622833502457858",
+            "start": 61,
+            "url": "https://t.co/bdDmSAjZ7z"
+          }
+        ]
+      },
+      "id": "1513663088196685826",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1513622833502457858",
+          "type": "quoted"
+        }
+      ],
+      "text": "Check out the talk I gave over the weekend at @TEDxBerkeley! https://t.co/bdDmSAjZ7z",
+      "url": "https://x.com/alexandr_wang/status/1513663088196685826"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1513304668184657920",
+          "3_1513304668163747840",
+          "3_1513304668088455168"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1513304673037406209",
+      "created_at": "2022-04-10T23:55:24.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1513304673037406209"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 127,
+            "id": "28603477",
+            "start": 115,
+            "username": "rapideRobot"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/lGbGfE5QJ6",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1513304673037406209/photo/1",
+            "media_key": "3_1513304668184657920",
+            "start": 281,
+            "url": "https://t.co/lGbGfE5QJ6"
+          },
+          {
+            "display_url": "pic.x.com/lGbGfE5QJ6",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1513304673037406209/photo/2",
+            "media_key": "3_1513304668163747840",
+            "start": 281,
+            "url": "https://t.co/lGbGfE5QJ6"
+          },
+          {
+            "display_url": "pic.x.com/lGbGfE5QJ6",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1513304673037406209/photo/3",
+            "media_key": "3_1513304668088455168",
+            "start": 281,
+            "url": "https://t.co/lGbGfE5QJ6"
+          }
+        ]
+      },
+      "id": "1513304673037406209",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 0,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "text": "Just read the beautiful short story “The Truth of Fact, the Truth of Feeling” by Ted Chiang, via recommendation by @rapideRobot \n\nIt explores digital memory via omnipresent video recordings + AI (which many are working towards!)\n\nVery elegant narrative structure, would recommend! https://t.co/lGbGfE5QJ6",
+      "url": "https://x.com/alexandr_wang/status/1513304673037406209"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1512168333252067347",
+      "created_at": "2022-04-07T20:40:00.000Z",
+      "display_text_range": [
+        0,
+        45
+      ],
+      "edit_history_tweet_ids": [
+        "1512168333252067347"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 43,
+            "id": "21299316",
+            "start": 29,
+            "username": "shandspickett"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/wolfejosh/stat…",
+            "end": 69,
+            "expanded_url": "https://twitter.com/wolfejosh/status/1512103305891176454",
+            "start": 46,
+            "url": "https://t.co/smqBBfgA7T"
+          }
+        ]
+      },
+      "id": "1512168333252067347",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1512103305891176454",
+          "type": "quoted"
+        }
+      ],
+      "text": "I also agree w this piece by @shandspickett 🙂 https://t.co/smqBBfgA7T",
+      "url": "https://x.com/alexandr_wang/status/1512168333252067347"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1511418982640746498",
+      "created_at": "2022-04-06T13:37:30.000Z",
+      "display_text_range": [
+        20,
+        61
+      ],
+      "edit_history_tweet_ids": [
+        "1511699622577668104"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "68608798",
+            "start": 0,
+            "username": "gordoncching"
+          },
+          {
+            "end": 19,
+            "id": "1051754132699115520",
+            "start": 14,
+            "username": "fast"
+          },
+          {
+            "end": 36,
+            "id": "752712449321644032",
+            "start": 27,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.com/careers",
+            "end": 61,
+            "expanded_url": "http://scale.com/careers",
+            "start": 38,
+            "url": "https://t.co/60ab3N6hwF"
+          }
+        ]
+      },
+      "id": "1511699622577668104",
+      "in_reply_to_user_id": "68608798",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1511418982640746498",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gordoncching @fast We are @scale_AI! https://t.co/60ab3N6hwF",
+      "url": "https://x.com/alexandr_wang/status/1511699622577668104"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1513304668184657920",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1513304668163747840",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1513304668088455168",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "18438688",
+        "conversation_id": "1519386740796149760",
+        "created_at": "2022-04-27T18:43:22.000Z",
+        "display_text_range": [
+          0,
+          246
+        ],
+        "edit_history_tweet_ids": [
+          "1519386740796149760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "AI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "615818451",
+              "start": 30,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 63,
+              "id": "1528558014",
+              "start": 49,
+              "username": "patrick_oshag"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/patrick_oshag/…",
+              "end": 270,
+              "expanded_url": "https://twitter.com/patrick_oshag/status/1513845743383101445",
+              "start": 247,
+              "url": "https://t.co/CoAK67BIVA"
+            }
+          ]
+        },
+        "id": "1519386740796149760",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1513845743383101445",
+            "type": "quoted"
+          }
+        ],
+        "text": "Interesting interview between @alexandr_wang and @patrick_oshag on #AI’s present and not too distant future.\n\nAlso grateful they are using their platform to discuss some of the many potential geo-political ramifications as well! Give it a listen… https://t.co/CoAK67BIVA"
+      },
+      {
+        "author_id": "15385273",
+        "conversation_id": "1517142615895855105",
+        "created_at": "2022-04-21T14:06:01.000Z",
+        "display_text_range": [
+          0,
+          204
+        ],
+        "edit_history_tweet_ids": [
+          "1517142615895855105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1549962014998482944",
+              "start": 33,
+              "username": "columnbank"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The only nationally chartered bank built to enable developers and builders to create new financial services.",
+              "display_url": "column.com",
+              "end": 204,
+              "expanded_url": "http://column.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2115933872193945600/E73EiLEb?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2115933872193945600/E73EiLEb?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 181,
+              "status": 200,
+              "title": "Column | The platform bank built for scale",
+              "unwound_url": "https://column.com/",
+              "url": "https://t.co/xQ4c1bnY1f"
+            }
+          ]
+        },
+        "id": "1517142615895855105",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 0,
+          "like_count": 1366,
+          "quote_count": 65,
+          "reply_count": 127,
+          "retweet_count": 81
+        },
+        "text": "1) Today I'm publicly announcing @columnbank, the company I've been quietly building for almost three years. We're the first chartered bank built from the ground up for developers. https://t.co/xQ4c1bnY1f"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1516095123020390405",
+        "created_at": "2022-04-18T16:43:39.000Z",
+        "display_text_range": [
+          0,
+          195
+        ],
+        "edit_history_tweet_ids": [
+          "1516095123020390405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "615818451",
+              "start": 18,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 56,
+              "id": "1433356862",
+              "start": 45,
+              "username": "DefenseOne"
+            }
+          ]
+        },
+        "id": "1516095123020390405",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "text": "Check out our CEO @alexandr_wang’s byline in @DefenseOne to learn more about the need for a U.S. data strategy and how Scale is working to solve the national data problem: https://t.co/v95lE5KTUK"
+      },
+      {
+        "author_id": "362399785",
+        "conversation_id": "1516076595198451717",
+        "created_at": "2022-04-18T15:30:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_history_tweet_ids": [
+          "1516076597522145280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "615818451",
+              "start": 31,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 66,
+              "id": "1528558014",
+              "start": 52,
+              "username": "patrick_oshag"
+            },
+            {
+              "end": 85,
+              "id": "1282422772845744140",
+              "start": 70,
+              "username": "InvestLikeBest"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "open.spotify.com/episode/0jFd4L…",
+              "end": 140,
+              "expanded_url": "https://open.spotify.com/episode/0jFd4L8nvDROu05lk2kv6y?si=cfd0bf8d49bf4a37",
+              "start": 117,
+              "status": 200,
+              "unwound_url": "https://open.spotify.com/episode/0jFd4L8nvDROu05lk2kv6y?si=cfd0bf8d49bf4a37",
+              "url": "https://t.co/bf5LCqW8gX"
+            }
+          ]
+        },
+        "id": "1516076597522145280",
+        "in_reply_to_user_id": "362399785",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1516076595198451717",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Tweet inspired by listening to @alexandr_wang &amp; @patrick_oshag on @InvestLikeBest - super interesting episode: \n\nhttps://t.co/bf5LCqW8gX"
+      },
+      {
+        "author_id": "567531086",
+        "conversation_id": "1516064623409209351",
+        "created_at": "2022-04-18T14:42:27.000Z",
+        "display_text_range": [
+          0,
+          239
+        ],
+        "edit_history_tweet_ids": [
+          "1516064623409209351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 129,
+              "id": "615818451",
+              "start": 115,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 212,
+              "id": "1528558014",
+              "start": 198,
+              "username": "patrick_oshag"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "spoti.fi/3jOJO3X",
+              "end": 239,
+              "expanded_url": "https://spoti.fi/3jOJO3X",
+              "start": 216,
+              "status": 200,
+              "unwound_url": "https://spoti.fi/3jOJO3X",
+              "url": "https://t.co/Om3elac56S"
+            }
+          ]
+        },
+        "id": "1516064623409209351",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "text": "One of the traits I admire most is experts who can explain basic concepts in ways normal people can grasp— clearly @alexandr_wang is one of those gems. \n\nGreat interview on AI principles— thank you @patrick_oshag! \n\nhttps://t.co/Om3elac56S"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1515070705951547392"
+          ]
+        },
+        "author_id": "159201100",
+        "conversation_id": "1515070716781240329",
+        "created_at": "2022-04-15T20:53:02.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_history_tweet_ids": [
+          "1515070716781240329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sii5pttHId",
+              "end": 57,
+              "expanded_url": "https://x.com/anjsud/status/1515070716781240329/photo/1",
+              "media_key": "3_1515070705951547392",
+              "start": 34,
+              "url": "https://t.co/Sii5pttHId"
+            }
+          ]
+        },
+        "id": "1515070716781240329",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 0,
+          "like_count": 10815,
+          "quote_count": 26,
+          "reply_count": 451,
+          "retweet_count": 100
+        },
+        "text": "My beautiful boy, Deva 💗 \n4.14.22 https://t.co/Sii5pttHId"
+      },
+      {
+        "author_id": "9445792",
+        "conversation_id": "1514291863854804992",
+        "created_at": "2022-04-13T18:59:30.000Z",
+        "display_text_range": [
+          55,
+          80
+        ],
+        "edit_history_tweet_ids": [
+          "1514317372403843075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 25,
+              "id": "14325343",
+              "start": 15,
+              "username": "witheiler"
+            },
+            {
+              "end": 40,
+              "id": "996848767792918528",
+              "start": 26,
+              "username": "ninaachadjian"
+            },
+            {
+              "end": 54,
+              "id": "108698830",
+              "start": 41,
+              "username": "StartupGrind"
+            }
+          ]
+        },
+        "id": "1514317372403843075",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1514317164890640385",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @witheiler @ninaachadjian @StartupGrind Alex makes everything fun"
+      },
+      {
+        "author_id": "14325343",
+        "conversation_id": "1514291863854804992",
+        "created_at": "2022-04-13T18:48:18.000Z",
+        "display_text_range": [
+          44,
+          77
+        ],
+        "edit_history_tweet_ids": [
+          "1514314551415746564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 29,
+              "id": "996848767792918528",
+              "start": 15,
+              "username": "ninaachadjian"
+            },
+            {
+              "end": 43,
+              "id": "108698830",
+              "start": 30,
+              "username": "StartupGrind"
+            }
+          ]
+        },
+        "id": "1514314551415746564",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1514291863854804992",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @ninaachadjian @StartupGrind But where can I get those shoes 👀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1514290182421291012"
+          ]
+        },
+        "author_id": "996848767792918528",
+        "conversation_id": "1514290187362136069",
+        "created_at": "2022-04-13T17:11:29.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_history_tweet_ids": [
+          "1514290187362136069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "615818451",
+              "start": 1,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 107,
+              "id": "752712449321644032",
+              "start": 98,
+              "username": "scale_AI"
+            },
+            {
+              "end": 167,
+              "id": "108698830",
+              "start": 154,
+              "username": "StartupGrind"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/row4ZKp8jb",
+              "end": 195,
+              "expanded_url": "https://x.com/ninaachadjian/status/1514290187362136069/photo/1",
+              "media_key": "3_1514290182421291012",
+              "start": 172,
+              "url": "https://t.co/row4ZKp8jb"
+            }
+          ]
+        },
+        "id": "1514290187362136069",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "text": ".@alexandr_wang you are truly such an inspiration. Thank you for sharing the incredible vision of @scale_AI, the World's AI Partner. Thanks for having us @StartupGrind! ✨🤖 https://t.co/row4ZKp8jb"
+      },
+      {
+        "author_id": "59922431",
+        "conversation_id": "1514234682010914817",
+        "created_at": "2022-04-13T13:30:55.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_history_tweet_ids": [
+          "1514234682010914817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "brex.com/journal/introd…",
+              "end": 144,
+              "expanded_url": "https://www.brex.com/journal/introducing-brex-empower/",
+              "start": 121,
+              "status": 404,
+              "unwound_url": "https://www.brex.com/journal/introducing-brex-empower",
+              "url": "https://t.co/OKPj3vE6Nk"
+            }
+          ]
+        },
+        "id": "1514234682010914817",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 0,
+          "like_count": 355,
+          "quote_count": 25,
+          "reply_count": 45,
+          "retweet_count": 49
+        },
+        "text": "1/6 Today, we are announcing the biggest change to Brex since our launch in 2018, with the introduction of Brex Empower. https://t.co/OKPj3vE6Nk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1513845739759312902"
+          ]
+        },
+        "author_id": "1528558014",
+        "conversation_id": "1513845743383101445",
+        "created_at": "2022-04-12T11:45:25.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_history_tweet_ids": [
+          "1513845743383101445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "615818451",
+              "start": 21,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "joincolossus.com/episodes/75224…",
+              "end": 278,
+              "expanded_url": "https://www.joincolossus.com/episodes/75224660/wang-a-primer-on-ai?tab=blocks",
+              "start": 255,
+              "url": "https://t.co/FIopSGhqWd"
+            },
+            {
+              "display_url": "pic.x.com/cBFSodARDf",
+              "end": 302,
+              "expanded_url": "https://x.com/patrick_oshag/status/1513845743383101445/photo/1",
+              "media_key": "3_1513845739759312902",
+              "start": 279,
+              "url": "https://t.co/cBFSodARDf"
+            }
+          ]
+        },
+        "id": "1513845743383101445",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 0,
+          "like_count": 48,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "text": "My conversation with @alexandr_wang on all things AI\n\nWe haven’t touched on this important topic in a while, and this serves as a detailed overview and update:\n\n- digital arms race in geopolitics\n- AI/data vs software companies\n- what comes next\n\nEnjoy!\n\nhttps://t.co/FIopSGhqWd https://t.co/cBFSodARDf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1513622593131225092"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1513622833502457858",
+        "created_at": "2022-04-11T20:59:39.000Z",
+        "display_text_range": [
+          0,
+          218
+        ],
+        "edit_history_tweet_ids": [
+          "1513622833502457858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "ICYMI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "615818451",
+              "start": 30,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 67,
+              "id": "120266797",
+              "start": 54,
+              "username": "TEDxBerkeley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJXHkyz9xa",
+              "end": 242,
+              "expanded_url": "https://x.com/scale_AI/status/1513622833502457858/photo/1",
+              "media_key": "3_1513622593131225092",
+              "start": 219,
+              "url": "https://t.co/vJXHkyz9xa"
+            }
+          ]
+        },
+        "id": "1513622833502457858",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "#ICYMI: This weekend, our CEO @alexandr_wang spoke at @TEDxBerkeley where he discussed why AI will never replace humans and why he believes human-led AI is the path forward. Watch his talk here: https://t.co/hIKKYga1Sd https://t.co/vJXHkyz9xa"
+      },
+      {
+        "author_id": "15370019",
+        "conversation_id": "1512103305891176454",
+        "created_at": "2022-04-07T16:21:36.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_history_tweet_ids": [
+          "1512103305891176454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "warontherocks.com/2022/04/reboot…",
+              "end": 124,
+              "expanded_url": "https://warontherocks.com/2022/04/reboot-the-defense-innovation-ecosystem/",
+              "start": 101,
+              "status": 200,
+              "unwound_url": "https://warontherocks.com/reboot-the-defense-innovation-ecosystem/",
+              "url": "https://t.co/XdMsVx85VA"
+            }
+          ]
+        },
+        "id": "1512103305891176454",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 0,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "text": "I AGREE with this piece by Shands Pickett––even (or especially) as he partially DISAGREES with me...\nhttps://t.co/XdMsVx85VA"
+      },
+      {
+        "author_id": "68608798",
+        "conversation_id": "1511418982640746498",
+        "created_at": "2022-04-05T19:02:20.000Z",
+        "display_text_range": [
+          0,
+          269
+        ],
+        "edit_history_tweet_ids": [
+          "1511418982640746498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1051754132699115520",
+              "start": 4,
+              "username": "fast"
+            }
+          ]
+        },
+        "id": "1511418982640746498",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 0,
+          "like_count": 577,
+          "quote_count": 5,
+          "reply_count": 251,
+          "retweet_count": 94
+        },
+        "text": "The @fast design team (brand, product, research) is a superstar team that I'd work with again in a heartbeat.\nWe're building a list of opportunities to help my team get a smoother landing into their next roles.\n\nIf you're hiring, please share below, or RT and help out."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "18438688",
+        "name": "Jennifer Jordan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/468764042459242497/xKXbQ4HD_normal.jpeg",
+        "username": "jajordan13",
+        "verified": false
+      },
+      {
+        "id": "159201100",
+        "name": "Anjali Sud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776341588764942336/20isn4Q4_normal.jpg",
+        "username": "anjsud",
+        "verified": false
+      },
+      {
+        "id": "9445792",
+        "name": "Dylan Field",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511358032319377409/c391E2BZ_normal.jpg",
+        "username": "zoink",
+        "verified": false
+      },
+      {
+        "id": "14325343",
+        "name": "Matthew Witheiler",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/559129277149372416/hFuS6X2u_normal.jpeg",
+        "username": "witheiler",
+        "verified": false
+      },
+      {
+        "id": "68608798",
+        "name": "Gordon Ching",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715655499230928896/WCtnI8_g_normal.jpg",
+        "username": "gordoncching",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1519418514750070785",
+    "next_token": "b26v89c19zqg8o3fpytlg0qsfp33k2bncud7098v3t30d",
+    "oldest_id": "1511699622577668104",
+    "result_count": 16
+  },
+  "errors": []
+}

@@ -1,0 +1,218 @@
+{
+  "collected_at_utc": "2026-11-24T12:24:16Z",
+  "collected_at_shanghai": "2026-11-24T20:24:16+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R625X9QTTXAPYDPJ719KD.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2020-10-01T00:00:00Z",
+    "end_time": "2020-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2020-10"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1318621054902915073",
+      "created_at": "2020-10-20T18:32:12.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1318621054902915073"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1318621054902915073",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1318600214312226816",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: A few weeks ago, we introduced our new API Documentation to enable easier task creation with more effective instructions. Tod…",
+      "url": "https://x.com/alexandr_wang/status/1318621054902915073"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1315334920475045889",
+      "created_at": "2020-10-11T16:54:17.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1315334920475045889"
+      ],
+      "id": "1315334920475045889",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 0,
+        "like_count": 109,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 8
+      },
+      "text": "Why internal issues are worse than external issues (competitors, etc) at startups:\n\nAll good companies build muscles to deal with external issues—they are inevitable, so you need the muscle.\n\nInternal issues deactivate these muscles, and ultimately exacerbate the external issues.",
+      "url": "https://x.com/alexandr_wang/status/1315334920475045889"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1313920831660060672",
+      "created_at": "2020-10-07T19:15:12.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1313920831660060672"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1313920831660060672",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "1313880411496312832",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: The machine learning team at Scale AI regularly meets to discuss research papers they find interesting. Take a look at the pa…",
+      "url": "https://x.com/alexandr_wang/status/1313920831660060672"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1318600214312226816",
+        "created_at": "2020-10-20T17:09:24.000Z",
+        "display_text_range": [
+          0,
+          238
+        ],
+        "edit_history_tweet_ids": [
+          "1318600214312226816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/blog/quick-sta…",
+              "end": 238,
+              "expanded_url": "https://scale.com/blog/quick-start-guide-to-customized-api-documentation",
+              "start": 215,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog",
+              "url": "https://t.co/lEriQAcbrb"
+            }
+          ]
+        },
+        "id": "1318600214312226816",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "text": "A few weeks ago, we introduced our new API Documentation to enable easier task creation with more effective instructions. Today, we’re excited to share further details on how we implemented this in our latest blog: https://t.co/lEriQAcbrb"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1313880411496312832",
+        "created_at": "2020-10-07T16:34:35.000Z",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "edit_history_tweet_ids": [
+          "1313880411496312832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/blog/scale-ai-…",
+              "end": 186,
+              "expanded_url": "https://scale.com/blog/scale-ai-machine-learning-digest-q3-2020",
+              "start": 163,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog",
+              "url": "https://t.co/IbuGBlMC2l"
+            }
+          ]
+        },
+        "id": "1313880411496312832",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "text": "The machine learning team at Scale AI regularly meets to discuss research papers they find interesting. Take a look at the papers the team read this past quarter: https://t.co/IbuGBlMC2l"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1318621054902915073",
+    "next_token": "b26v89c19zqg8o3fos8tmxab9r96ll1whn14ng9ip65bx",
+    "oldest_id": "1313920831660060672",
+    "result_count": 3
+  },
+  "errors": []
+}

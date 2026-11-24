@@ -1,0 +1,1023 @@
+{
+  "collected_at_utc": "2026-11-24T12:07:17Z",
+  "collected_at_shanghai": "2026-11-24T20:07:17+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86Q6359XZ1CRXQ4A2WKMS1G.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2022-11-01T00:00:00Z",
+    "end_time": "2022-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fpzhkhibrpn64efltasf9rxpntlnct",
+    "window_label": "2022-11"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-15T18:58:12.000Z",
+      "edit_history_tweet_ids": [
+        "1592592824138141696"
+      ],
+      "id": "1592592824138141696",
+      "public_metrics": {
+        "bookmark_count": 191,
+        "impression_count": 0,
+        "like_count": 1326,
+        "quote_count": 14,
+        "reply_count": 66,
+        "retweet_count": 72
+      },
+      "referenced_tweets": [
+        {
+          "id": "1592520954227613697",
+          "type": "quoted"
+        }
+      ],
+      "text": "Let’s not lie to ourselves about American Dynamism\n\nThe fact that @a16z doesn’t include any AI, chip, or cyber companies, despite these being the top 3 tech competitions w/China, is laughable\n\nWe won’t beat China with vertical SaaS\n\nIt’s just them schilling their portfolio https://t.co/ywrMSBf1Ub",
+      "url": "https://x.com/alexandr_wang/status/1592592824138141696"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-15T16:42:39.000Z",
+      "edit_history_tweet_ids": [
+        "1592558710278467584"
+      ],
+      "id": "1592558710278467584",
+      "in_reply_to_user_id": "2846440344",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 88,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1592520954227613697",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oyhsu @a16z You’re missing @scale_AI!\n\nWe’re the largest AI prime for the USG.",
+      "url": "https://x.com/alexandr_wang/status/1592558710278467584"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-14T05:23:00.000Z",
+      "edit_history_tweet_ids": [
+        "1592025282806185985"
+      ],
+      "id": "1592025282806185985",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 55,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1592024593912721409",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Related question—given a model (either LLM or diffusion model), how much would it cost to simply get enough inferences before you could ~roughly replicate performance by fine-tuning on the outputs?",
+      "url": "https://x.com/alexandr_wang/status/1592025282806185985"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-14T05:20:16.000Z",
+      "edit_history_tweet_ids": [
+        "1592024593912721409"
+      ],
+      "id": "1592024593912721409",
+      "public_metrics": {
+        "bookmark_count": 276,
+        "impression_count": 0,
+        "like_count": 658,
+        "quote_count": 10,
+        "reply_count": 18,
+        "retweet_count": 81
+      },
+      "text": "Interesting development in generative AI—\n\nA firm open-sourced a Midjourney-style model by fine-tuning Stable Diffusion on publicly available MJ images\n\nPoints to even thinner moats—if your model is popular, people can copy it based on JUST shared images\n\nhttps://t.co/YpCJKktj54",
+      "url": "https://x.com/alexandr_wang/status/1592024593912721409"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1592011195606786050"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-14T04:27:08.000Z",
+      "edit_history_tweet_ids": [
+        "1592010736649256960",
+        "1592011222110859264"
+      ],
+      "id": "1592011222110859264",
+      "public_metrics": {
+        "bookmark_count": 30,
+        "impression_count": 0,
+        "like_count": 108,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 8
+      },
+      "text": "I was on with @aarthir and @sriramk on @aarthisrirampod!\n\nWe talked about a range of topics I'm passionate about:\n- AI and national security\n- Generative AI and where the value is\n- Betting on unknown unknowns\n- Active thinking\n\nCheck it out!👇\n\nhttps://t.co/C3WVG03J7K https://t.co/o6lqlnrmhf",
+      "url": "https://x.com/alexandr_wang/status/1592011222110859264"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-14T04:25:12.000Z",
+      "edit_history_tweet_ids": [
+        "1592010736649256960",
+        "1592011222110859264"
+      ],
+      "id": "1592010736649256960",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "I was on with @aarthir and @sriramk on @aarthisrirampod!\n\nWe talked about a range of topics I'm passionate about:\n- AI and national security\n- Generative AI and where the value is\n- Betting on unknown unknowns\n- Active thinking\n\nCheck it out!👇\n\nhttps://t.co/C3WVG03bic",
+      "url": "https://x.com/alexandr_wang/status/1592010736649256960"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-13T15:43:55.000Z",
+      "edit_history_tweet_ids": [
+        "1591819155480932352"
+      ],
+      "id": "1591819155480932352",
+      "public_metrics": {
+        "bookmark_count": 187,
+        "impression_count": 0,
+        "like_count": 912,
+        "quote_count": 11,
+        "reply_count": 18,
+        "retweet_count": 141
+      },
+      "text": "Attention is all you really have.\n\nBe careful how you allocate it. Social media is built to hijack and fray your attention.\n\nGive your attention to long term goals and long term people. All else is noise.\n\n[My sequel to “Attention is All You Need”, the seminal Transformer paper]",
+      "url": "https://x.com/alexandr_wang/status/1591819155480932352"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-12T21:34:11.000Z",
+      "edit_history_tweet_ids": [
+        "1591544913057157123"
+      ],
+      "id": "1591544913057157123",
+      "in_reply_to_user_id": "1346900599200043010",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1591544693372092417",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mrexits 🫡🏭",
+      "url": "https://x.com/alexandr_wang/status/1591544913057157123"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-12T21:10:31.000Z",
+      "edit_history_tweet_ids": [
+        "1591538957468463104"
+      ],
+      "id": "1591538957468463104",
+      "public_metrics": {
+        "bookmark_count": 128,
+        "impression_count": 0,
+        "like_count": 1177,
+        "quote_count": 42,
+        "reply_count": 64,
+        "retweet_count": 108
+      },
+      "text": "The cultural prohibition of grinding &amp; hard work will be the road to hell for America.\n\nIf you love America, you’d realize our future is contingent on industrialism, not hedonism.",
+      "url": "https://x.com/alexandr_wang/status/1591538957468463104"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-11T22:27:28.000Z",
+      "edit_history_tweet_ids": [
+        "1591195935723638784"
+      ],
+      "id": "1591195935723638784",
+      "public_metrics": {
+        "bookmark_count": 1327,
+        "impression_count": 0,
+        "like_count": 5194,
+        "quote_count": 209,
+        "reply_count": 193,
+        "retweet_count": 585
+      },
+      "text": "Life hack: rewire yourself to enjoy grinding.\n\nMIT did this for me &amp; most classmates. The school embrace the grind because there is no other way.\n\nThe harder you work early in your career, the faster you’ll compound. The payoff later in life can be astronomical (&gt;10x).",
+      "url": "https://x.com/alexandr_wang/status/1591195935723638784"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-11T03:51:25.000Z",
+      "edit_history_tweet_ids": [
+        "1590915070544207872"
+      ],
+      "id": "1590915070544207872",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@curatordesigner @scale_AI Great work Rachel!",
+      "url": "https://x.com/alexandr_wang/status/1590915070544207872"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1590772584869601281"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-10T19:00:13.000Z",
+      "edit_history_tweet_ids": [
+        "1590781388764385281"
+      ],
+      "id": "1590781388764385281",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590781386566565888",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5/ Scale Forge ⚒ is now available for Early Access. Join the waitlist at:\n\nhttps://t.co/mMJkE4GjIi https://t.co/6RUVlzTiCD",
+      "url": "https://x.com/alexandr_wang/status/1590781388764385281"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1590772400488009728"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-10T19:00:12.000Z",
+      "edit_history_tweet_ids": [
+        "1590781386566565888"
+      ],
+      "id": "1590781386566565888",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590781384800759808",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ We’re excited to get feedback from early customers and iterate on our capabilities!\n\nWe're running tests with everywhere from:\n- biggest brands in the world\n- DTC brands\n- e-commerce marketplaces\n- Startups\n- Small brands and e-commerce players https://t.co/YqwDPodHQD",
+      "url": "https://x.com/alexandr_wang/status/1590781386566565888"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1590772253347614720"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-10T19:00:12.000Z",
+      "edit_history_tweet_ids": [
+        "1590781384800759808"
+      ],
+      "id": "1590781384800759808",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590781382670057472",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ Show your products in scenarios that connect with your customers\n\nWe’ve initially released Scene Creation, which enables you to place your products in unique customizable scenes\n\nShow a red mug in a Christmas setting, your sunscreen on the beach, or a blanket by the fireplace https://t.co/FzuoCsg2Ve",
+      "url": "https://x.com/alexandr_wang/status/1590781384800759808"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1590772100318392320"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-10T19:00:11.000Z",
+      "edit_history_tweet_ids": [
+        "1590781382670057472"
+      ],
+      "id": "1590781382670057472",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590781380644204545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ Scale Forge ⚒ is an AI-powered design studio that enables customers to create new product images that allow for high-fidelity brand preservation.\n\nYou can use one of our default products, or upload your own! https://t.co/hn2meUe44O",
+      "url": "https://x.com/alexandr_wang/status/1590781382670057472"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1590771612755771392"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-10T19:00:11.000Z",
+      "edit_history_tweet_ids": [
+        "1590781380644204545"
+      ],
+      "id": "1590781380644204545",
+      "public_metrics": {
+        "bookmark_count": 143,
+        "impression_count": 0,
+        "like_count": 387,
+        "quote_count": 12,
+        "reply_count": 16,
+        "retweet_count": 34
+      },
+      "text": "1/ We are launching a product we previewed 2 weeks ago—Scale Forge ⚒\n\nWe're enabling marketers to AI-generate UNLIMITED and INFINITELY CREATIVE product imagery for:\n- brand campaigns\n- ad creatives\n- social media\n- product images\n\nSee the product in the video!\n\nThread 🧵 https://t.co/zZpMMBEdOh",
+      "url": "https://x.com/alexandr_wang/status/1590781380644204545"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-10T05:40:11.000Z",
+      "edit_history_tweet_ids": [
+        "1590580057256656897"
+      ],
+      "id": "1590580057256656897",
+      "public_metrics": {
+        "bookmark_count": 77,
+        "impression_count": 0,
+        "like_count": 480,
+        "quote_count": 7,
+        "reply_count": 10,
+        "retweet_count": 56
+      },
+      "text": "Being truly committed, unwaveringly, is one of the few hacks to life that will never go away.\n\nMost people live remarkably transient lives, drifting from cause to cause, institution to institution.\n\nAllegiance is scarce. Do something that matters with people you believe in.",
+      "url": "https://x.com/alexandr_wang/status/1590580057256656897"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-09T16:03:38.000Z",
+      "edit_history_tweet_ids": [
+        "1590374566010195969"
+      ],
+      "id": "1590374566010195969",
+      "public_metrics": {
+        "bookmark_count": 147,
+        "impression_count": 0,
+        "like_count": 654,
+        "quote_count": 15,
+        "reply_count": 56,
+        "retweet_count": 74
+      },
+      "text": "There’s a good chance that the software that everybody will use over the next 30 years will all be invented in the next 3 years within AI:\n\n- Word &amp; PowerPoint 2.0\n- web browser 2.0\n- Google 2.0\n- social media 2.0\n\nDo you want to be in the room where they happen, or a bystander?",
+      "url": "https://x.com/alexandr_wang/status/1590374566010195969"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-09T15:17:49.000Z",
+      "edit_history_tweet_ids": [
+        "1590363032198479873"
+      ],
+      "id": "1590363032198479873",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590255001360019458",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @goodside: Just dropped: Spellbook from @scale_AI. Great ideas in here — couples prompts with uploaded training data to automatically wr…",
+      "url": "https://x.com/alexandr_wang/status/1590363032198479873"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-08T20:40:54.000Z",
+      "edit_history_tweet_ids": [
+        "1590081951096246272"
+      ],
+      "id": "1590081951096246272",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 0,
+        "like_count": 59,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590081949905096704",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Try it out at https://t.co/GSmVoWadMx, now available in early access.",
+      "url": "https://x.com/alexandr_wang/status/1590081951096246272"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1590081155327401984"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-08T20:40:53.000Z",
+      "edit_history_tweet_ids": [
+        "1590081949905096704"
+      ],
+      "id": "1590081949905096704",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 54,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590081949150113792",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ Deploy instantly to an API endpoint with built-in monitoring.\n\nEven better, Spellbook🪄 apps are accessible from spreadsheets, so you can =Spellbook() to call your apps directly on your spreadsheet data. https://t.co/hqhF8LGTtG",
+      "url": "https://x.com/alexandr_wang/status/1590081949905096704"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2022-11-08T20:40:53.000Z",
+      "edit_history_tweet_ids": [
+        "1590081949150113792"
+      ],
+      "id": "1590081949150113792",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590081946818072576",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ Spellbook🪄 integrates with all of the popular large language models, like GPT-3, Cohere, Flan, and BLOOM.",
+      "url": "https://x.com/alexandr_wang/status/1590081949150113792"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1590081084573700096"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-08T20:40:53.000Z",
+      "edit_history_tweet_ids": [
+        "1590081946818072576"
+      ],
+      "id": "1590081946818072576",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590081945706582016",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ Try different prompts, save variants, and compare experiments side by side.\n\nSpellbook🪄 computes evaluation metrics in one click: using your labels (for classification apps) or human graders (for generative apps). https://t.co/tfxP24QQxq",
+      "url": "https://x.com/alexandr_wang/status/1590081946818072576"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1590080953178738688"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-08T20:40:52.000Z",
+      "edit_history_tweet_ids": [
+        "1590081945706582016"
+      ],
+      "id": "1590081945706582016",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 0,
+        "like_count": 49,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1590081944603484160",
+          "type": "replied_to"
+        }
+      ],
+      "text": "1/ Spellbook🪄 makes it effortless to create and deploy LLM apps: a language model + prompt or fine-tune.\n\nUpload a dataset and Spellbook🪄 will auto-suggest a prompt for your problem, pulling the best examples from your data. https://t.co/cKl1VD9rSe",
+      "url": "https://x.com/alexandr_wang/status/1590081945706582016"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1590080836031770625"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2022-11-08T20:40:52.000Z",
+      "edit_history_tweet_ids": [
+        "1590081944603484160"
+      ],
+      "id": "1590081944603484160",
+      "public_metrics": {
+        "bookmark_count": 577,
+        "impression_count": 0,
+        "like_count": 1302,
+        "quote_count": 35,
+        "reply_count": 42,
+        "retweet_count": 117
+      },
+      "text": "Large language models are magical. But using them in production has been tricky, until now.\n\nI’m excited to share ✨Spellbook🪄✨— the platform for LLM apps from @scale_AI. 🧵 https://t.co/Qoia9ncbNu",
+      "url": "https://x.com/alexandr_wang/status/1590081944603484160"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1592011195606786050",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1590772584869601281",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1590772400488009728",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1590772253347614720",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1590772100318392320",
+        "type": "photo"
+      },
+      {
+        "media_key": "7_1590771612755771392",
+        "type": "video"
+      },
+      {
+        "media_key": "7_1590081155327401984",
+        "type": "video"
+      },
+      {
+        "media_key": "7_1590081084573700096",
+        "type": "video"
+      },
+      {
+        "media_key": "7_1590080953178738688",
+        "type": "video"
+      },
+      {
+        "media_key": "7_1590080836031770625",
+        "type": "video"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1592421112473743360"
+          ]
+        },
+        "author_id": "2846440344",
+        "created_at": "2022-11-15T14:12:37.000Z",
+        "edit_history_tweet_ids": [
+          "1592520954227613697"
+        ],
+        "id": "1592520954227613697",
+        "public_metrics": {
+          "bookmark_count": 412,
+          "impression_count": 0,
+          "like_count": 920,
+          "quote_count": 52,
+          "reply_count": 55,
+          "retweet_count": 71
+        },
+        "text": "1/ We at @a16z are thrilled to publish the first-ever American Dynamism 50 🇺🇸🚀\n\n50 companies building in the national interest that embody the ethos of American Dynamism.\n\nhttps://t.co/lqpCURW2PM https://t.co/UfJClO0dEM"
+      },
+      {
+        "author_id": "615818451",
+        "created_at": "2022-11-14T05:20:16.000Z",
+        "edit_history_tweet_ids": [
+          "1592024593912721409"
+        ],
+        "id": "1592024593912721409",
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 0,
+          "like_count": 658,
+          "quote_count": 10,
+          "reply_count": 18,
+          "retweet_count": 81
+        },
+        "text": "Interesting development in generative AI—\n\nA firm open-sourced a Midjourney-style model by fine-tuning Stable Diffusion on publicly available MJ images\n\nPoints to even thinner moats—if your model is popular, people can copy it based on JUST shared images\n\nhttps://t.co/YpCJKktj54"
+      },
+      {
+        "author_id": "1346900599200043010",
+        "created_at": "2022-11-12T21:33:19.000Z",
+        "edit_history_tweet_ids": [
+          "1591544693372092417"
+        ],
+        "id": "1591544693372092417",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1591538957468463104",
+            "type": "quoted"
+          }
+        ],
+        "text": "Herdonism is a bottomless pit that only grows deeper and more insidious the more you put into it. True salvation comes via building and building alone - relationships, businesses, ideas; this will set you free. https://t.co/3vOADsD5Co"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1590772400488009728"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-10T19:00:12.000Z",
+        "edit_history_tweet_ids": [
+          "1590781386566565888"
+        ],
+        "id": "1590781386566565888",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590781384800759808",
+            "type": "replied_to"
+          }
+        ],
+        "text": "4/ We’re excited to get feedback from early customers and iterate on our capabilities!\n\nWe're running tests with everywhere from:\n- biggest brands in the world\n- DTC brands\n- e-commerce marketplaces\n- Startups\n- Small brands and e-commerce players https://t.co/YqwDPodHQD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1590772253347614720"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-10T19:00:12.000Z",
+        "edit_history_tweet_ids": [
+          "1590781384800759808"
+        ],
+        "id": "1590781384800759808",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590781382670057472",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ Show your products in scenarios that connect with your customers\n\nWe’ve initially released Scene Creation, which enables you to place your products in unique customizable scenes\n\nShow a red mug in a Christmas setting, your sunscreen on the beach, or a blanket by the fireplace https://t.co/FzuoCsg2Ve"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1590772100318392320"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-10T19:00:11.000Z",
+        "edit_history_tweet_ids": [
+          "1590781382670057472"
+        ],
+        "id": "1590781382670057472",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590781380644204545",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ Scale Forge ⚒ is an AI-powered design studio that enables customers to create new product images that allow for high-fidelity brand preservation.\n\nYou can use one of our default products, or upload your own! https://t.co/hn2meUe44O"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1590771612755771392"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-10T19:00:11.000Z",
+        "edit_history_tweet_ids": [
+          "1590781380644204545"
+        ],
+        "id": "1590781380644204545",
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 0,
+          "like_count": 387,
+          "quote_count": 12,
+          "reply_count": 16,
+          "retweet_count": 34
+        },
+        "text": "1/ We are launching a product we previewed 2 weeks ago—Scale Forge ⚒\n\nWe're enabling marketers to AI-generate UNLIMITED and INFINITELY CREATIVE product imagery for:\n- brand campaigns\n- ad creatives\n- social media\n- product images\n\nSee the product in the video!\n\nThread 🧵 https://t.co/zZpMMBEdOh"
+      },
+      {
+        "author_id": "16535432",
+        "created_at": "2022-11-09T08:08:32.000Z",
+        "edit_history_tweet_ids": [
+          "1590255001360019458"
+        ],
+        "id": "1590255001360019458",
+        "in_reply_to_user_id": "16535432",
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 0,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590081944603484160",
+            "type": "quoted"
+          },
+          {
+            "id": "1588262930553786368",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Just dropped: Spellbook from @scale_AI. Great ideas in here — couples prompts with uploaded training data to automatically write k-shots, give evaluation metrics for prompt variants; also lets you turn prompts to spreadsheet functions https://t.co/hNGNXmGJtV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1590081155327401984"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-08T20:40:53.000Z",
+        "edit_history_tweet_ids": [
+          "1590081949905096704"
+        ],
+        "id": "1590081949905096704",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590081949150113792",
+            "type": "replied_to"
+          }
+        ],
+        "text": "4/ Deploy instantly to an API endpoint with built-in monitoring.\n\nEven better, Spellbook🪄 apps are accessible from spreadsheets, so you can =Spellbook() to call your apps directly on your spreadsheet data. https://t.co/hqhF8LGTtG"
+      },
+      {
+        "author_id": "615818451",
+        "created_at": "2022-11-08T20:40:53.000Z",
+        "edit_history_tweet_ids": [
+          "1590081949150113792"
+        ],
+        "id": "1590081949150113792",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590081946818072576",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ Spellbook🪄 integrates with all of the popular large language models, like GPT-3, Cohere, Flan, and BLOOM."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1590081084573700096"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-08T20:40:53.000Z",
+        "edit_history_tweet_ids": [
+          "1590081946818072576"
+        ],
+        "id": "1590081946818072576",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590081945706582016",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ Try different prompts, save variants, and compare experiments side by side.\n\nSpellbook🪄 computes evaluation metrics in one click: using your labels (for classification apps) or human graders (for generative apps). https://t.co/tfxP24QQxq"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1590080953178738688"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-08T20:40:52.000Z",
+        "edit_history_tweet_ids": [
+          "1590081945706582016"
+        ],
+        "id": "1590081945706582016",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 0,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1590081944603484160",
+            "type": "replied_to"
+          }
+        ],
+        "text": "1/ Spellbook🪄 makes it effortless to create and deploy LLM apps: a language model + prompt or fine-tune.\n\nUpload a dataset and Spellbook🪄 will auto-suggest a prompt for your problem, pulling the best examples from your data. https://t.co/cKl1VD9rSe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1590080836031770625"
+          ]
+        },
+        "author_id": "615818451",
+        "created_at": "2022-11-08T20:40:52.000Z",
+        "edit_history_tweet_ids": [
+          "1590081944603484160"
+        ],
+        "id": "1590081944603484160",
+        "public_metrics": {
+          "bookmark_count": 577,
+          "impression_count": 0,
+          "like_count": 1302,
+          "quote_count": 35,
+          "reply_count": 42,
+          "retweet_count": 117
+        },
+        "text": "Large language models are magical. But using them in production has been tricky, until now.\n\nI’m excited to share ✨Spellbook🪄✨— the platform for LLM apps from @scale_AI. 🧵 https://t.co/Qoia9ncbNu"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "2846440344",
+        "name": "Oliver Hsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085545310114205696/zyRCoeLr_normal.jpg",
+        "username": "oyhsu",
+        "verified": false
+      },
+      {
+        "id": "1346900599200043010",
+        "name": "prayingforexits 🏴‍☠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639756826400137216/pbjm_VCc_normal.jpg",
+        "username": "mrexits",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1592592824138141696",
+    "next_token": "b26v89c19zqg8o3fpzhj7mlqzua0f9qe1jiucyar7r919",
+    "oldest_id": "1590081944603484160",
+    "result_count": 25
+  },
+  "errors": []
+}

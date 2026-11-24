@@ -1,0 +1,101 @@
+{
+  "collected_at_utc": "2026-11-24T12:28:18Z",
+  "collected_at_shanghai": "2026-11-24T20:28:18+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RDYMVPJ9W1VC73VBV499D.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2019-02-01T00:00:00Z",
+    "end_time": "2019-03-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2019-02"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2019-02-26T20:29:05.000Z",
+      "edit_history_tweet_ids": [
+        "1100492974255796224"
+      ],
+      "id": "1100492974255796224",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1100492924758814720",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: We are excited to work with @OpenAI on their mission to ensure artificial general intelligence benefits all of humanity.\n\nWe…",
+      "url": "https://x.com/alexandr_wang/status/1100492974255796224"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-02-21T18:24:21.000Z",
+      "edit_history_tweet_ids": [
+        "1098649641329905665"
+      ],
+      "id": "1098649641329905665",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "The Travis news was sad to hear.\n\n@scale_AI would be extremely excited to work with former Travis engineers.\n\nWe are working to build next gen infrastructure for the AI age. #travisAlums\n\nhttps://t.co/lm63K0aCOf",
+      "url": "https://x.com/alexandr_wang/status/1098649641329905665"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1100492920459714560"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "created_at": "2019-02-26T20:28:54.000Z",
+        "edit_history_tweet_ids": [
+          "1100492924758814720"
+        ],
+        "id": "1100492924758814720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "text": "We are excited to work with @OpenAI on their mission to ensure artificial general intelligence benefits all of humanity.\n\nWe hope to share our work with them soon. Stay tuned! https://t.co/K2NlJXZq3s"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1100492974255796224",
+    "next_token": "b26v89c19zqg8o3fn11my9pdk5lhc1q5mm1jssjpcrbst",
+    "oldest_id": "1098649641329905665",
+    "result_count": 2
+  },
+  "errors": []
+}

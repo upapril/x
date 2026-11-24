@@ -1,0 +1,1839 @@
+{
+  "collected_at_utc": "2026-11-24T11:56:04Z",
+  "collected_at_shanghai": "2026-11-24T19:56:04+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86PJQ3K9BH7Z2F7F58YCWX5.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2023-04-01T00:00:00Z",
+    "end_time": "2023-05-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-04"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1652078305024311298",
+      "created_at": "2023-04-28T22:32:16.000Z",
+      "display_text_range": [
+        0,
+        203
+      ],
+      "edit_history_tweet_ids": [
+        "1652078305024311298"
+      ],
+      "id": "1652078305024311298",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 48,
+        "impression_count": 35038,
+        "like_count": 358,
+        "quote_count": 1,
+        "reply_count": 15,
+        "retweet_count": 35
+      },
+      "text": "business boils down to making the better decision time after time after time after time\n\nand when you make the wrong call, accepting that you made a mistake, and quickly adapting\n\nnot much more to it tbh",
+      "url": "https://x.com/alexandr_wang/status/1652078305024311298"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:42.000Z",
+      "display_text_range": [
+        0,
+        82
+      ],
+      "edit_history_tweet_ids": [
+        "1651759815184777216"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Scale delivers proven data, evaluations, and outcomes to AI labs, governments, and the Fortune 500.",
+            "display_url": "scale.com/ai-readiness-r…",
+            "end": 82,
+            "expanded_url": "https://scale.com/ai-readiness-report",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2124916091965390850/xEJuXHwf?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124916091965390850/xEJuXHwf?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 59,
+            "status": 200,
+            "title": "Scale: Reliable AI Systems for Critical Decisions",
+            "unwound_url": "https://scale.com/",
+            "url": "https://t.co/KClyo0ckQW"
+          }
+        ]
+      },
+      "id": "1651759815184777216",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 7887,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651759812932407298",
+          "type": "replied_to"
+        }
+      ],
+      "text": "For all the insights—go download the report for yourself:\n\nhttps://t.co/KClyo0ckQW",
+      "url": "https://x.com/alexandr_wang/status/1651759815184777216"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1651759091252080640"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:42.000Z",
+      "display_text_range": [
+        0,
+        207
+      ],
+      "edit_history_tweet_ids": [
+        "1651759812932407298"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Dx1eHLBxNs",
+            "end": 231,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651759812932407298/photo/1",
+            "media_key": "3_1651759091252080640",
+            "start": 208,
+            "url": "https://t.co/Dx1eHLBxNs"
+          }
+        ]
+      },
+      "id": "1651759812932407298",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 10671,
+        "like_count": 35,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651759811376353281",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The biggest use cases for AI are in developing entirely new products or services.\n\nBroadly speaking, the pie is getting bigger.\n\nComparatively, profits remained most elusive amongst all outcomes we measured. https://t.co/Dx1eHLBxNs",
+      "url": "https://x.com/alexandr_wang/status/1651759812932407298"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1651758663609237504"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:41.000Z",
+      "display_text_range": [
+        0,
+        247
+      ],
+      "edit_history_tweet_ids": [
+        "1651759811376353281"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 20,
+            "id": "4398626122",
+            "start": 13,
+            "username": "openai"
+          },
+          {
+            "end": 66,
+            "id": "1166332664569368576",
+            "start": 57,
+            "username": "AI21Labs"
+          },
+          {
+            "end": 222,
+            "id": "1353836358901501952",
+            "start": 210,
+            "username": "AnthropicAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/qGdrvVfewO",
+            "end": 271,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651759811376353281/photo/1",
+            "media_key": "3_1651758663609237504",
+            "start": 248,
+            "url": "https://t.co/qGdrvVfewO"
+          }
+        ]
+      },
+      "id": "1651759811376353281",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 4331,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651759810327748609",
+          "type": "replied_to"
+        }
+      ],
+      "text": "While we see @openai in the lead of model adoption, both @AI21Labs and @CohereAI have reasonable share among the folks we interviewed.\n\nNote, many of these results were collected before many new models such as @AnthropicAI's have become available. https://t.co/qGdrvVfewO",
+      "url": "https://x.com/alexandr_wang/status/1651759811376353281"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1651758427625095168"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:41.000Z",
+      "display_text_range": [
+        0,
+        87
+      ],
+      "edit_history_tweet_ids": [
+        "1651759810327748609"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/1AUlsjeTjA",
+            "end": 111,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651759810327748609/photo/1",
+            "media_key": "3_1651758427625095168",
+            "start": 88,
+            "url": "https://t.co/1AUlsjeTjA"
+          }
+        ]
+      },
+      "id": "1651759810327748609",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 3598,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651759809228832770",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Virtually every industry is looking to increase their AI budgets over the next 3 years. https://t.co/1AUlsjeTjA",
+      "url": "https://x.com/alexandr_wang/status/1651759810327748609"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1651758014557483008"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:41.000Z",
+      "display_text_range": [
+        0,
+        147
+      ],
+      "edit_history_tweet_ids": [
+        "1651759809228832770"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/h0SZTalhnk",
+            "end": 171,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651759809228832770/photo/1",
+            "media_key": "3_1651758014557483008",
+            "start": 148,
+            "url": "https://t.co/h0SZTalhnk"
+          }
+        ]
+      },
+      "id": "1651759809228832770",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2246,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651759808113147904",
+          "type": "replied_to"
+        }
+      ],
+      "text": "70% of business folks believe that AI is either critical or highly critical to their business in 3 years.\n\nThere is no going back—AI is the future. https://t.co/h0SZTalhnk",
+      "url": "https://x.com/alexandr_wang/status/1651759809228832770"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1651757606963400704"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:41.000Z",
+      "display_text_range": [
+        0,
+        183
+      ],
+      "edit_history_tweet_ids": [
+        "1651759808113147904"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/UvjqGE0dg7",
+            "end": 207,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651759808113147904/photo/1",
+            "media_key": "3_1651757606963400704",
+            "start": 184,
+            "url": "https://t.co/UvjqGE0dg7"
+          }
+        ]
+      },
+      "id": "1651759808113147904",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 9470,
+        "like_count": 58,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651759806968115200",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Open Source models have, overall, greater adoption than Cloud API models.\n\nWith better and better open-source models coming out every month, I expect this trend to certainly continue. https://t.co/UvjqGE0dg7",
+      "url": "https://x.com/alexandr_wang/status/1651759808113147904"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1651759806968115200",
+      "created_at": "2023-04-28T01:26:40.000Z",
+      "display_text_range": [
+        0,
+        275
+      ],
+      "edit_history_tweet_ids": [
+        "1651759806968115200"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 159,
+            "id": "752712449321644032",
+            "start": 150,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Scale delivers proven data, evaluations, and outcomes to AI labs, governments, and the Fortune 500.",
+            "display_url": "scale.com/ai-readiness-r…",
+            "end": 275,
+            "expanded_url": "https://scale.com/ai-readiness-report",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2124916091965390850/xEJuXHwf?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124916091965390850/xEJuXHwf?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 252,
+            "status": 200,
+            "title": "Scale: Reliable AI Systems for Critical Decisions",
+            "unwound_url": "https://scale.com/",
+            "url": "https://t.co/KClyo0ckQW"
+          }
+        ]
+      },
+      "id": "1651759806968115200",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 57,
+        "impression_count": 30605,
+        "like_count": 129,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 18
+      },
+      "text": "we've surveyed the enterprise and the AI community to see what's happening in AI adoption\n\nif you want to see a VERY pretty website by the incredible @scale_AI team, check out Scale Zeitgeist:\n\n🧵 below for a breakdown of the most interesting insights\n\nhttps://t.co/KClyo0ckQW",
+      "url": "https://x.com/alexandr_wang/status/1651759806968115200"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1651267769206452230",
+      "created_at": "2023-04-26T16:51:30.000Z",
+      "display_text_range": [
+        0,
+        89
+      ],
+      "edit_history_tweet_ids": [
+        "1651267772171849728"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "alexw.substack.com/p/war",
+            "end": 89,
+            "expanded_url": "http://alexw.substack.com/p/war",
+            "start": 66,
+            "status": 200,
+            "unwound_url": "https://alexw.substack.com/p/war",
+            "url": "https://t.co/dMQGerP5xG"
+          }
+        ]
+      },
+      "id": "1651267772171849728",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 7039,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1651267769206452230",
+          "type": "replied_to"
+        }
+      ],
+      "text": "For more of my thoughts on the topic, see:\n\n(Sequel coming soon)\n\nhttps://t.co/dMQGerP5xG",
+      "url": "https://x.com/alexandr_wang/status/1651267772171849728"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1651267763581902848",
+          "3_1651267763586105344"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1651267769206452230",
+      "created_at": "2023-04-26T16:51:29.000Z",
+      "display_text_range": [
+        0,
+        273
+      ],
+      "edit_history_tweet_ids": [
+        "1651267769206452230"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 240,
+            "id": "815966620300480514",
+            "start": 230,
+            "username": "chairmang"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/4Vo8Q255pI",
+            "end": 297,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651267769206452230/photo/1",
+            "media_key": "3_1651267763581902848",
+            "start": 274,
+            "url": "https://t.co/4Vo8Q255pI"
+          },
+          {
+            "display_url": "pic.x.com/4Vo8Q255pI",
+            "end": 297,
+            "expanded_url": "https://x.com/alexandr_wang/status/1651267769206452230/photo/2",
+            "media_key": "3_1651267763586105344",
+            "start": 274,
+            "url": "https://t.co/4Vo8Q255pI"
+          }
+        ]
+      },
+      "id": "1651267769206452230",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 12846,
+        "like_count": 69,
+        "quote_count": 6,
+        "reply_count": 10,
+        "retweet_count": 11
+      },
+      "text": "Last night, I briefed the Select Committee on China (@committeeonccp) about the AI War with China.\n\nWe are in a historic moment—our ability to integrate AI into warfighting could define the future of the free world.\n\nThank you to @chairmang for hosting Mike Brown and me 🇺🇸 https://t.co/4Vo8Q255pI",
+      "url": "https://x.com/alexandr_wang/status/1651267769206452230"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1650903432126140416",
+      "created_at": "2023-04-25T20:44:52.000Z",
+      "display_text_range": [
+        5,
+        29
+      ],
+      "edit_history_tweet_ids": [
+        "1650964111738433580"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 4,
+            "id": "26895943",
+            "start": 0,
+            "username": "cjc"
+          }
+        ]
+      },
+      "id": "1650964111738433580",
+      "in_reply_to_user_id": "26895943",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1983,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1650903432126140416",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cjc OMG ADORABLE AHHHH 💕💕💕💕💕",
+      "url": "https://x.com/alexandr_wang/status/1650964111738433580"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1650720706358022144",
+      "created_at": "2023-04-25T04:38:57.000Z",
+      "display_text_range": [
+        0,
+        71
+      ],
+      "edit_history_tweet_ids": [
+        "1650721031450157056"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "634708561",
+            "start": 36,
+            "username": "GuptaRK22"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "rkg.blog/water.php",
+            "end": 71,
+            "expanded_url": "https://www.rkg.blog/water.php",
+            "start": 48,
+            "status": 200,
+            "unwound_url": "https://www.rkg.blog/water.php",
+            "url": "https://t.co/KXrv7NK3kR"
+          }
+        ]
+      },
+      "id": "1650721031450157056",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 9956,
+        "like_count": 35,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1650720706358022144",
+          "type": "replied_to"
+        }
+      ],
+      "text": "related, and also great writing via @GuptaRK22: https://t.co/KXrv7NK3kR",
+      "url": "https://x.com/alexandr_wang/status/1650721031450157056"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1650720706358022144",
+      "created_at": "2023-04-25T04:37:39.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1650720706358022144"
+      ],
+      "id": "1650720706358022144",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 56,
+        "impression_count": 46030,
+        "like_count": 363,
+        "quote_count": 5,
+        "reply_count": 15,
+        "retweet_count": 28
+      },
+      "text": "the difference between a big company and a small company is that a big company is really good at lying to itself—to sleep better at night\n\nthe small company has no choice but to fight for its life\n\n—\n\ncorollary—the way a big co stays small is by being brutally honest with itself",
+      "url": "https://x.com/alexandr_wang/status/1650720706358022144"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1650531366633873416",
+      "created_at": "2023-04-24T16:05:17.000Z",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "edit_history_tweet_ids": [
+        "1650531366633873416"
+      ],
+      "id": "1650531366633873416",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 139,
+        "impression_count": 92508,
+        "like_count": 754,
+        "quote_count": 5,
+        "reply_count": 24,
+        "retweet_count": 88
+      },
+      "text": "it is crazy to the degree to which mindset &amp; attitude is the key indicator for how much impact you’ll have at a startup—WAY more than raw talent.\n\nif you roll up your sleeves, have nothing to prove, &amp; are optimistic even in the face of daunting facts…\n\nyou will move mountains",
+      "url": "https://x.com/alexandr_wang/status/1650531366633873416"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1648828119040819201",
+      "created_at": "2023-04-19T23:33:47.000Z",
+      "display_text_range": [
+        13,
+        40
+      ],
+      "edit_history_tweet_ids": [
+        "1648832294009065474"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "324",
+            "start": 0,
+            "username": "chrisfralic"
+          }
+        ]
+      },
+      "id": "1648832294009065474",
+      "in_reply_to_user_id": "324",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 423,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1648828119040819201",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@chrisfralic Thank you! Appreciate that!",
+      "url": "https://x.com/alexandr_wang/status/1648832294009065474"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1647915954137956354",
+      "created_at": "2023-04-18T00:34:29.000Z",
+      "display_text_range": [
+        12,
+        31
+      ],
+      "edit_history_tweet_ids": [
+        "1648122794239234048"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "183749519",
+            "start": 0,
+            "username": "paulg"
+          },
+          {
+            "end": 11,
+            "id": "15248437",
+            "start": 7,
+            "username": "enf"
+          }
+        ]
+      },
+      "id": "1648122794239234048",
+      "in_reply_to_user_id": "183749519",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10354,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1647915954137956354",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@paulg @enf wow this is awesome",
+      "url": "https://x.com/alexandr_wang/status/1648122794239234048"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1648040173631049728",
+      "created_at": "2023-04-17T19:06:11.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1648040173631049728"
+      ],
+      "id": "1648040173631049728",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 201,
+        "impression_count": 412307,
+        "like_count": 1569,
+        "quote_count": 14,
+        "reply_count": 76,
+        "retweet_count": 232
+      },
+      "text": "awkward truth:\n\nengineering productivity is far more correlated with culture than team size\n\nthere are startups w/ 10 engineers that ship more for their customers than big co engineering teams of 1000 (ex: Midjourney)\n\nyou cannot throw people and/or money at building great things",
+      "url": "https://x.com/alexandr_wang/status/1648040173631049728"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1648017579573923840",
+      "created_at": "2023-04-17T17:36:24.000Z",
+      "display_text_range": [
+        0,
+        218
+      ],
+      "edit_history_tweet_ids": [
+        "1648017579573923840"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 39,
+            "id": "3021662641",
+            "start": 24,
+            "username": "goldenkatepark"
+          },
+          {
+            "end": 52,
+            "id": "752712449321644032",
+            "start": 43,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/goldenkatepark…",
+            "end": 242,
+            "expanded_url": "https://twitter.com/goldenkatepark/status/1648013657408946183",
+            "start": 219,
+            "url": "https://t.co/Ufdy764U76"
+          }
+        ]
+      },
+      "id": "1648017579573923840",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 36784,
+        "like_count": 111,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1648013657408946183",
+          "type": "quoted"
+        }
+      ],
+      "text": "Very excited to welcome @goldenkatepark to @scale_AI!\n\nKate built the one of the most exquisite data engines out there at Tesla Autopilot.\n\nI’m excited to join forces and build the data engine that will fuel all of AI. https://t.co/Ufdy764U76",
+      "url": "https://x.com/alexandr_wang/status/1648017579573923840"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1647090523478585346"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1647090529187016705",
+      "created_at": "2023-04-15T04:12:38.000Z",
+      "display_text_range": [
+        0,
+        247
+      ],
+      "edit_history_tweet_ids": [
+        "1647090529187016705"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 97,
+            "id": "752712449321644032",
+            "start": 88,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/lANKhxxy2X",
+            "end": 271,
+            "expanded_url": "https://x.com/alexandr_wang/status/1647090529187016705/photo/1",
+            "media_key": "3_1647090523478585346",
+            "start": 248,
+            "url": "https://t.co/lANKhxxy2X"
+          }
+        ]
+      },
+      "id": "1647090529187016705",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 171554,
+        "like_count": 842,
+        "quote_count": 7,
+        "reply_count": 59,
+        "retweet_count": 45
+      },
+      "text": "kinda surreal\n\nbut this is very much a team honor for one of the best teams in ai (✨the @scale_AI team✨)\n\nand the incredible innovation of our customers, who inspire us every day\n\nand the journey is nowhere close to over :) here’s to the next leg! https://t.co/lANKhxxy2X",
+      "url": "https://x.com/alexandr_wang/status/1647090529187016705"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1645807017725153283",
+      "created_at": "2023-04-11T15:12:25.000Z",
+      "display_text_range": [
+        0,
+        163
+      ],
+      "edit_history_tweet_ids": [
+        "1645807020006871040"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "alexw.substack.com/p/war",
+            "end": 163,
+            "expanded_url": "https://alexw.substack.com/p/war",
+            "start": 140,
+            "status": 200,
+            "unwound_url": "https://alexw.substack.com/p/war",
+            "url": "https://t.co/TawcO6cWSl"
+          }
+        ]
+      },
+      "id": "1645807020006871040",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 12460,
+        "like_count": 67,
+        "quote_count": 2,
+        "reply_count": 10,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645807017725153283",
+          "type": "replied_to"
+        }
+      ],
+      "text": "AI for national security will define the future of our world. Either America wins or our authoritarian adversaries do.\n\nHere’s how we win:\n\nhttps://t.co/TawcO6cWSl",
+      "url": "https://x.com/alexandr_wang/status/1645807020006871040"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1645807017725153283",
+      "created_at": "2023-04-11T15:12:25.000Z",
+      "display_text_range": [
+        0,
+        275
+      ],
+      "edit_history_tweet_ids": [
+        "1645807017725153283"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "cnbc.com/2023/04/07/law…",
+            "end": 275,
+            "expanded_url": "https://www.cnbc.com/2023/04/07/lawmakers-look-to-future-of-china-competition-in-tech-media-meetings.html",
+            "start": 252,
+            "status": 200,
+            "unwound_url": "https://www.cnbc.com/2023/04/07/lawmakers-look-to-future-of-china-competition-in-tech-media-meetings.html",
+            "url": "https://t.co/OfohPN4Sze"
+          }
+        ]
+      },
+      "id": "1645807017725153283",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 54203,
+        "like_count": 141,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 11
+      },
+      "text": "Last week, I met with House Select Committee on the Strategic Competition w/China, alongside execs from Google, Microsoft, and Apple.\n\nI stressed—we cannot afford to fall behind on national security, and that AI is critical to maintaining leadership.\n\nhttps://t.co/OfohPN4Sze",
+      "url": "https://x.com/alexandr_wang/status/1645807017725153283"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1644871382868819968",
+      "created_at": "2023-04-09T01:17:04.000Z",
+      "display_text_range": [
+        0,
+        224
+      ],
+      "edit_history_tweet_ids": [
+        "1644872021082292226"
+      ],
+      "id": "1644872021082292226",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 21726,
+        "like_count": 149,
+        "quote_count": 2,
+        "reply_count": 13,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644871382868819968",
+          "type": "replied_to"
+        }
+      ],
+      "text": "don’t believe all the hype out there\n\nthere are always those throughout history who have foretold the end of the world\n\nthe world will change deeply, don’t get me wrong.\n\njust not in a fell swoop of AI subordinating humanity",
+      "url": "https://x.com/alexandr_wang/status/1644872021082292226"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1644871382868819968",
+      "created_at": "2023-04-09T01:14:32.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1644871382868819968"
+      ],
+      "id": "1644871382868819968",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 72,
+        "impression_count": 130241,
+        "like_count": 459,
+        "quote_count": 13,
+        "reply_count": 44,
+        "retweet_count": 54
+      },
+      "text": "a superpowerful AI that surpasses all humanity is far fetched based on today’s tech\n\nall of their capabilities and talents have been gifted to them by human-generated data (internet + RLHF)\n\nthese models, while insane learners, do not self improve\n\nit is impressive, but not magic",
+      "url": "https://x.com/alexandr_wang/status/1644871382868819968"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1643703274913275908",
+      "created_at": "2023-04-05T19:52:53.000Z",
+      "display_text_range": [
+        0,
+        230
+      ],
+      "edit_history_tweet_ids": [
+        "1643703274913275908"
+      ],
+      "id": "1643703274913275908",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 131,
+        "impression_count": 2625921,
+        "like_count": 1208,
+        "quote_count": 1427,
+        "reply_count": 1760,
+        "retweet_count": 69
+      },
+      "text": "let’s all be honest—working during COVID sucked. a lot.\n\nget your ass back in an office and rediscover what it feels like to love your work, and work with a team you love\n\nnot too many other life hacks out there that are this easy",
+      "url": "https://x.com/alexandr_wang/status/1643703274913275908"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1643017954009956352",
+      "created_at": "2023-04-03T22:29:40.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1643017954009956352"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1643017954009956352",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 40
+      },
+      "referenced_tweets": [
+        {
+          "id": "1642951289008177153",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: ChatGPT and other large language models have taken the world by storm. These models are trained and tuned using Reinforcement…",
+      "url": "https://x.com/alexandr_wang/status/1643017954009956352"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1651759091252080640",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1651758663609237504",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1651758427625095168",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1651758014557483008",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1651757606963400704",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1651267763581902848",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1651267763586105344",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1647090523478585346",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1651759091252080640"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1651759806968115200",
+        "created_at": "2023-04-28T01:26:42.000Z",
+        "display_text_range": [
+          0,
+          207
+        ],
+        "edit_history_tweet_ids": [
+          "1651759812932407298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dx1eHLBxNs",
+              "end": 231,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651759812932407298/photo/1",
+              "media_key": "3_1651759091252080640",
+              "start": 208,
+              "url": "https://t.co/Dx1eHLBxNs"
+            }
+          ]
+        },
+        "id": "1651759812932407298",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10671,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651759811376353281",
+            "type": "replied_to"
+          }
+        ],
+        "text": "The biggest use cases for AI are in developing entirely new products or services.\n\nBroadly speaking, the pie is getting bigger.\n\nComparatively, profits remained most elusive amongst all outcomes we measured. https://t.co/Dx1eHLBxNs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1651758663609237504"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1651759806968115200",
+        "created_at": "2023-04-28T01:26:41.000Z",
+        "display_text_range": [
+          0,
+          247
+        ],
+        "edit_history_tweet_ids": [
+          "1651759811376353281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "4398626122",
+              "start": 13,
+              "username": "openai"
+            },
+            {
+              "end": 66,
+              "id": "1166332664569368576",
+              "start": 57,
+              "username": "AI21Labs"
+            },
+            {
+              "end": 222,
+              "id": "1353836358901501952",
+              "start": 210,
+              "username": "AnthropicAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGdrvVfewO",
+              "end": 271,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651759811376353281/photo/1",
+              "media_key": "3_1651758663609237504",
+              "start": 248,
+              "url": "https://t.co/qGdrvVfewO"
+            }
+          ]
+        },
+        "id": "1651759811376353281",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4331,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651759810327748609",
+            "type": "replied_to"
+          }
+        ],
+        "text": "While we see @openai in the lead of model adoption, both @AI21Labs and @CohereAI have reasonable share among the folks we interviewed.\n\nNote, many of these results were collected before many new models such as @AnthropicAI's have become available. https://t.co/qGdrvVfewO"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1651758427625095168"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1651759806968115200",
+        "created_at": "2023-04-28T01:26:41.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_history_tweet_ids": [
+          "1651759810327748609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AUlsjeTjA",
+              "end": 111,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651759810327748609/photo/1",
+              "media_key": "3_1651758427625095168",
+              "start": 88,
+              "url": "https://t.co/1AUlsjeTjA"
+            }
+          ]
+        },
+        "id": "1651759810327748609",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3598,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651759809228832770",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Virtually every industry is looking to increase their AI budgets over the next 3 years. https://t.co/1AUlsjeTjA"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1651758014557483008"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1651759806968115200",
+        "created_at": "2023-04-28T01:26:41.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_history_tweet_ids": [
+          "1651759809228832770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0SZTalhnk",
+              "end": 171,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651759809228832770/photo/1",
+              "media_key": "3_1651758014557483008",
+              "start": 148,
+              "url": "https://t.co/h0SZTalhnk"
+            }
+          ]
+        },
+        "id": "1651759809228832770",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2246,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651759808113147904",
+            "type": "replied_to"
+          }
+        ],
+        "text": "70% of business folks believe that AI is either critical or highly critical to their business in 3 years.\n\nThere is no going back—AI is the future. https://t.co/h0SZTalhnk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1651757606963400704"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1651759806968115200",
+        "created_at": "2023-04-28T01:26:41.000Z",
+        "display_text_range": [
+          0,
+          183
+        ],
+        "edit_history_tweet_ids": [
+          "1651759808113147904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UvjqGE0dg7",
+              "end": 207,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651759808113147904/photo/1",
+              "media_key": "3_1651757606963400704",
+              "start": 184,
+              "url": "https://t.co/UvjqGE0dg7"
+            }
+          ]
+        },
+        "id": "1651759808113147904",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9470,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1651759806968115200",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Open Source models have, overall, greater adoption than Cloud API models.\n\nWith better and better open-source models coming out every month, I expect this trend to certainly continue. https://t.co/UvjqGE0dg7"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1651759806968115200",
+        "created_at": "2023-04-28T01:26:40.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_history_tweet_ids": [
+          "1651759806968115200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 159,
+              "id": "752712449321644032",
+              "start": 150,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Scale delivers proven data, evaluations, and outcomes to AI labs, governments, and the Fortune 500.",
+              "display_url": "scale.com/ai-readiness-r…",
+              "end": 275,
+              "expanded_url": "https://scale.com/ai-readiness-report",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2124916091965390850/xEJuXHwf?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124916091965390850/xEJuXHwf?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 252,
+              "status": 200,
+              "title": "Scale: Reliable AI Systems for Critical Decisions",
+              "unwound_url": "https://scale.com/",
+              "url": "https://t.co/KClyo0ckQW"
+            }
+          ]
+        },
+        "id": "1651759806968115200",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 30605,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "text": "we've surveyed the enterprise and the AI community to see what's happening in AI adoption\n\nif you want to see a VERY pretty website by the incredible @scale_AI team, check out Scale Zeitgeist:\n\n🧵 below for a breakdown of the most interesting insights\n\nhttps://t.co/KClyo0ckQW"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1651267763581902848",
+            "3_1651267763586105344"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1651267769206452230",
+        "created_at": "2023-04-26T16:51:29.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_history_tweet_ids": [
+          "1651267769206452230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 240,
+              "id": "815966620300480514",
+              "start": 230,
+              "username": "chairmang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vo8Q255pI",
+              "end": 297,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651267769206452230/photo/1",
+              "media_key": "3_1651267763581902848",
+              "start": 274,
+              "url": "https://t.co/4Vo8Q255pI"
+            },
+            {
+              "display_url": "pic.x.com/4Vo8Q255pI",
+              "end": 297,
+              "expanded_url": "https://x.com/alexandr_wang/status/1651267769206452230/photo/2",
+              "media_key": "3_1651267763586105344",
+              "start": 274,
+              "url": "https://t.co/4Vo8Q255pI"
+            }
+          ]
+        },
+        "id": "1651267769206452230",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12846,
+          "like_count": 69,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "text": "Last night, I briefed the Select Committee on China (@committeeonccp) about the AI War with China.\n\nWe are in a historic moment—our ability to integrate AI into warfighting could define the future of the free world.\n\nThank you to @chairmang for hosting Mike Brown and me 🇺🇸 https://t.co/4Vo8Q255pI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1650903428351262720"
+          ]
+        },
+        "author_id": "26895943",
+        "conversation_id": "1650903432126140416",
+        "created_at": "2023-04-25T16:43:45.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_history_tweet_ids": [
+          "1650903432126140416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 72,
+              "id": "615818451",
+              "start": 58,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMRsDUXkHF",
+              "end": 96,
+              "expanded_url": "https://x.com/cjc/status/1650903432126140416/photo/1",
+              "media_key": "3_1650903428351262720",
+              "start": 73,
+              "url": "https://t.co/ZMRsDUXkHF"
+            }
+          ]
+        },
+        "id": "1650903432126140416",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13730,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "text": "AI baby chose to wear her Scale t-shirt this morning. cc/ @alexandr_wang https://t.co/ZMRsDUXkHF"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1650720706358022144",
+        "created_at": "2023-04-25T04:37:39.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "1650720706358022144"
+        ],
+        "id": "1650720706358022144",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 46030,
+          "like_count": 363,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 28
+        },
+        "text": "the difference between a big company and a small company is that a big company is really good at lying to itself—to sleep better at night\n\nthe small company has no choice but to fight for its life\n\n—\n\ncorollary—the way a big co stays small is by being brutally honest with itself"
+      },
+      {
+        "author_id": "324",
+        "conversation_id": "1648828119040819201",
+        "created_at": "2023-04-19T23:17:11.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_history_tweet_ids": [
+          "1648828119040819201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1648828119040819201",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@alexandr_wang great TED talk - can’t wait to share when it drops."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1647915809094737923"
+          ]
+        },
+        "author_id": "183749519",
+        "conversation_id": "1647915954137956354",
+        "created_at": "2023-04-17T10:52:34.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_history_tweet_ids": [
+          "1647915954137956354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "15248437",
+              "start": 40,
+              "username": "enf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qpo6Wb0THC",
+              "end": 173,
+              "expanded_url": "https://x.com/paulg/status/1647915954137956354/photo/1",
+              "media_key": "3_1647915809094737923",
+              "start": 150,
+              "url": "https://t.co/Qpo6Wb0THC"
+            }
+          ]
+        },
+        "id": "1647915954137956354",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 511,
+          "impression_count": 633625,
+          "like_count": 2087,
+          "quote_count": 27,
+          "reply_count": 51,
+          "retweet_count": 171
+        },
+        "text": "Tourists vs locals in San Francisco, by @enf. The red dots are photos taken by tourists and the blue ones photos by locals. (Yellow could be either.) https://t.co/Qpo6Wb0THC"
+      },
+      {
+        "author_id": "3021662641",
+        "conversation_id": "1648013657408946183",
+        "created_at": "2023-04-17T17:20:49.000Z",
+        "display_text_range": [
+          0,
+          264
+        ],
+        "edit_history_tweet_ids": [
+          "1648013657408946183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "752712449321644032",
+              "start": 58,
+              "username": "scale_AI"
+            }
+          ]
+        },
+        "id": "1648013657408946183",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 486945,
+          "like_count": 1121,
+          "quote_count": 9,
+          "reply_count": 61,
+          "retweet_count": 27
+        },
+        "text": "Personal news: I've decided to take on a new challenge at @scale_AI as their Director of Product! I had a blast building Tesla Autopilot's data engine and I'm excited to generalize this product for multiple industries from computer vision to large language models."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1645807017725153283",
+        "created_at": "2023-04-11T15:12:25.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_history_tweet_ids": [
+          "1645807017725153283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "cnbc.com/2023/04/07/law…",
+              "end": 275,
+              "expanded_url": "https://www.cnbc.com/2023/04/07/lawmakers-look-to-future-of-china-competition-in-tech-media-meetings.html",
+              "start": 252,
+              "status": 200,
+              "unwound_url": "https://www.cnbc.com/2023/04/07/lawmakers-look-to-future-of-china-competition-in-tech-media-meetings.html",
+              "url": "https://t.co/OfohPN4Sze"
+            }
+          ]
+        },
+        "id": "1645807017725153283",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 54203,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "text": "Last week, I met with House Select Committee on the Strategic Competition w/China, alongside execs from Google, Microsoft, and Apple.\n\nI stressed—we cannot afford to fall behind on national security, and that AI is critical to maintaining leadership.\n\nhttps://t.co/OfohPN4Sze"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1644871382868819968",
+        "created_at": "2023-04-09T01:14:32.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_history_tweet_ids": [
+          "1644871382868819968"
+        ],
+        "id": "1644871382868819968",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 130241,
+          "like_count": 459,
+          "quote_count": 13,
+          "reply_count": 44,
+          "retweet_count": 54
+        },
+        "text": "a superpowerful AI that surpasses all humanity is far fetched based on today’s tech\n\nall of their capabilities and talents have been gifted to them by human-generated data (internet + RLHF)\n\nthese models, while insane learners, do not self improve\n\nit is impressive, but not magic"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1642951289008177153",
+        "created_at": "2023-04-03T18:04:46.000Z",
+        "display_text_range": [
+          0,
+          221
+        ],
+        "edit_history_tweet_ids": [
+          "1642951289008177153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 181,
+              "start": 176,
+              "tag": "RLHF"
+            }
+          ]
+        },
+        "id": "1642951289008177153",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 57218,
+          "like_count": 144,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 40
+        },
+        "text": "ChatGPT and other large language models have taken the world by storm. These models are trained and tuned using Reinforcement Learning with Human Feedback (RLHF).\n\nBut what is #RLHF and how does it work? Here’s our guide:"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "26895943",
+        "name": "Cristina Cordova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725744657647489024/2u5E9_Dx_normal.jpg",
+        "username": "cjc",
+        "verified": false
+      },
+      {
+        "id": "324",
+        "name": "Chris Fralic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/497204896798502913/COHUXFzo_normal.jpeg",
+        "username": "chrisfralic",
+        "verified": false
+      },
+      {
+        "id": "183749519",
+        "name": "Paul Graham",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+        "username": "paulg",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1652078305024311298",
+    "next_token": "b26v89c19zqg8o3fqkczxfppxqoby7rce1dzm8qi44y2l",
+    "oldest_id": "1643017954009956352",
+    "result_count": 25
+  },
+  "errors": []
+}

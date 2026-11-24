@@ -1,0 +1,619 @@
+{
+  "collected_at_utc": "2026-11-24T12:28:18Z",
+  "collected_at_shanghai": "2026-11-24T20:28:18+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RDZVW31DB1Q69MY2ZH260.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2019-01-01T00:00:00Z",
+    "end_time": "2019-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2019-01"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1090764063934636035",
+      "created_at": "2019-01-31T00:09:52.000Z",
+      "display_text_range": [
+        0,
+        122
+      ],
+      "edit_history_tweet_ids": [
+        "1090764063934636035"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 45,
+            "id": "1036947635603693568",
+            "start": 32,
+            "username": "PAVECampaign"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/PAVECampaign/s…",
+            "end": 146,
+            "expanded_url": "https://twitter.com/PAVECampaign/status/1090611338966114304",
+            "start": 123,
+            "url": "https://t.co/XsxSlNA3bC"
+          }
+        ]
+      },
+      "id": "1090764063934636035",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1090611338966114304",
+          "type": "quoted"
+        }
+      ],
+      "text": "Really excited to be supporting @PAVECampaign to educate the public and policymakers on the impacts of autonomous vehicles https://t.co/XsxSlNA3bC",
+      "url": "https://x.com/alexandr_wang/status/1090764063934636035"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1089616419719852032",
+      "created_at": "2019-01-27T21:03:50.000Z",
+      "display_text_range": [
+        11,
+        204
+      ],
+      "edit_history_tweet_ids": [
+        "1089630081041936384"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1193126161619963905",
+            "start": 0,
+            "username": "theRahulM"
+          }
+        ]
+      },
+      "id": "1089630081041936384",
+      "in_reply_to_user_id": "1898269662",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1089623504624902144",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@theRahulM It's \"easy\" to measure. Also, it's easy to diagnose startup failures as tackling a too-small market, when in reality it's almost always execution. All great startups started in \"small\" markets.",
+      "url": "https://x.com/alexandr_wang/status/1089630081041936384"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1089616419719852032",
+      "created_at": "2019-01-27T20:09:33.000Z",
+      "display_text_range": [
+        0,
+        226
+      ],
+      "edit_history_tweet_ids": [
+        "1089616419719852032"
+      ],
+      "id": "1089616419719852032",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "The myopic focus on TAM for startup ideas feels like a bug of the current startup meta. Markets are rarely too small, especially if they are growing quickly.\n\nThe real risk is not being able to win a market by going too broad.",
+      "url": "https://x.com/alexandr_wang/status/1089616419719852032"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1087830885460660225",
+      "created_at": "2019-01-22T21:54:28.000Z",
+      "display_text_range": [
+        0,
+        69
+      ],
+      "edit_history_tweet_ids": [
+        "1087830885460660225"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/scale_AI/statu…",
+            "end": 93,
+            "expanded_url": "https://twitter.com/scale_AI/status/1087830347956404225",
+            "start": 70,
+            "url": "https://t.co/TPlVcmDhPl"
+          }
+        ]
+      },
+      "id": "1087830885460660225",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1087830347956404225",
+          "type": "quoted"
+        }
+      ],
+      "text": "Extremely excited to have Eugene joining as our Head of Engineering 🎉 https://t.co/TPlVcmDhPl",
+      "url": "https://x.com/alexandr_wang/status/1087830885460660225"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1087772244141588481",
+      "created_at": "2019-01-22T18:19:08.000Z",
+      "display_text_range": [
+        16,
+        52
+      ],
+      "edit_history_tweet_ids": [
+        "1087776694138679296"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3293740627",
+            "start": 0,
+            "username": "software_daily"
+          }
+        ]
+      },
+      "id": "1087776694138679296",
+      "in_reply_to_user_id": "3293740627",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1087772244141588481",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@software_daily Thanks for having me on the podcast!",
+      "url": "https://x.com/alexandr_wang/status/1087776694138679296"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1087776612551077888",
+      "created_at": "2019-01-22T18:18:49.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1087776612551077888"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "3293740627",
+            "start": 3,
+            "username": "software_daily"
+          },
+          {
+            "end": 49,
+            "id": "615818451",
+            "start": 35,
+            "username": "alexandr_wang"
+          }
+        ]
+      },
+      "id": "1087776612551077888",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1087772244141588481",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @software_daily: Alexandr Wang (@alexandr_wang), CEO at ScaleAPI on big data in self-driving technology.\n\nListen to the full episode bel…",
+      "url": "https://x.com/alexandr_wang/status/1087776612551077888"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1084496639107129345",
+      "created_at": "2019-01-13T19:26:23.000Z",
+      "display_text_range": [
+        9,
+        227
+      ],
+      "edit_history_tweet_ids": [
+        "1084532125481676800"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "5252591",
+            "start": 0,
+            "username": "bgurley"
+          }
+        ]
+      },
+      "id": "1084532125481676800",
+      "in_reply_to_user_id": "5252591",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1084496639107129345",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bgurley Weather prediction will improve a lot in next couple of years. Google Brain is working on weather prediction using barometric data from phones in cities... will be significantly more accurate wherever there are people.",
+      "url": "https://x.com/alexandr_wang/status/1084532125481676800"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1090608395529478145",
+            "3_1090608816591376385"
+          ]
+        },
+        "author_id": "1036947635603693568",
+        "conversation_id": "1090611338966114304",
+        "created_at": "2019-01-30T14:03:00.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_history_tweet_ids": [
+          "1090611338966114304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 107,
+              "id": "841720867402993666",
+              "start": 96,
+              "username": "DeepMapInc"
+            },
+            {
+              "end": 113,
+              "id": "15676492",
+              "start": 108,
+              "username": "Ford"
+            },
+            {
+              "end": 130,
+              "id": "3100337683",
+              "start": 114,
+              "username": "perceptive_auto"
+            },
+            {
+              "end": 140,
+              "id": "16420776",
+              "start": 131,
+              "username": "ridecell"
+            },
+            {
+              "end": 150,
+              "id": "752712449321644032",
+              "start": 141,
+              "username": "scale_AI"
+            },
+            {
+              "end": 167,
+              "id": "834555526214098944",
+              "start": 151,
+              "username": "StarskyRobotics"
+            },
+            {
+              "end": 185,
+              "id": "65652799",
+              "start": 172,
+              "username": "UnitedSpinal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eneYc3tBBt",
+              "end": 209,
+              "expanded_url": "https://x.com/PAVECampaign/status/1090611338966114304/photo/1",
+              "media_key": "3_1090608395529478145",
+              "start": 186,
+              "url": "https://t.co/eneYc3tBBt"
+            },
+            {
+              "display_url": "pic.x.com/eneYc3tBBt",
+              "end": 209,
+              "expanded_url": "https://x.com/PAVECampaign/status/1090611338966114304/photo/2",
+              "media_key": "3_1090608816591376385",
+              "start": 186,
+              "url": "https://t.co/eneYc3tBBt"
+            }
+          ]
+        },
+        "id": "1090611338966114304",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 29,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "text": "PAVE today added eight industry and advocacy leaders to our growing coalition. Welcome: Argo AI @DeepMapInc @Ford @perceptive_auto @ridecell @scale_AI @StarskyRobotics and @UnitedSpinal https://t.co/eneYc3tBBt"
+      },
+      {
+        "author_id": "1898269662",
+        "conversation_id": "1089616419719852032",
+        "created_at": "2019-01-27T20:37:42.000Z",
+        "display_text_range": [
+          15,
+          116
+        ],
+        "edit_history_tweet_ids": [
+          "1089623504624902144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1089623504624902144",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1089616419719852032",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Why do you think the current meta is so TAM-focused? Just a cultural movement towards \"big problems\"?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1087830345058152453"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1087830347956404225",
+        "created_at": "2019-01-22T21:52:20.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_history_tweet_ids": [
+          "1087830347956404225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "816303721764134913",
+              "start": 38,
+              "username": "eugene_fratkin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.ai/blog/eugene-wh…",
+              "end": 120,
+              "expanded_url": "https://scale.ai/blog/eugene-why-i-joined-scale",
+              "start": 97,
+              "url": "https://t.co/5Nonyw0QvT"
+            },
+            {
+              "display_url": "pic.x.com/PK8BtXDGRd",
+              "end": 144,
+              "expanded_url": "https://x.com/scale_AI/status/1087830347956404225/photo/1",
+              "media_key": "3_1087830345058152453",
+              "start": 121,
+              "url": "https://t.co/PK8BtXDGRd"
+            }
+          ]
+        },
+        "id": "1087830347956404225",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "We're excited to have Eugene Fratkin (@eugene_fratkin) joining our team as Head of Engineering!\n\nhttps://t.co/5Nonyw0QvT https://t.co/PK8BtXDGRd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1087771940167634949"
+          ]
+        },
+        "author_id": "3293740627",
+        "conversation_id": "1087772244141588481",
+        "created_at": "2019-01-22T18:01:27.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_history_tweet_ids": [
+          "1087772244141588481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "615818451",
+              "start": 15,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "softwareengineeringdaily.com/2018/02/27/sca…",
+              "end": 146,
+              "expanded_url": "https://softwareengineeringdaily.com/2018/02/27/scale-self-driving-with-alexandr-wang/",
+              "start": 123,
+              "url": "https://t.co/OwMsywweap"
+            },
+            {
+              "display_url": "pic.x.com/nyJeBWHCtd",
+              "end": 170,
+              "expanded_url": "https://x.com/software_daily/status/1087772244141588481/video/1",
+              "media_key": "7_1087771940167634949",
+              "start": 147,
+              "url": "https://t.co/nyJeBWHCtd"
+            }
+          ]
+        },
+        "id": "1087772244141588481",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "text": "Alexandr Wang (@alexandr_wang), CEO at ScaleAPI on big data in self-driving technology.\n\nListen to the full episode below:\nhttps://t.co/OwMsywweap https://t.co/nyJeBWHCtd"
+      },
+      {
+        "author_id": "5252591",
+        "conversation_id": "1084496639107129345",
+        "created_at": "2019-01-13T17:05:22.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_history_tweet_ids": [
+          "1084496639107129345"
+        ],
+        "id": "1084496639107129345",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 188,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "text": "I have four weather apps on my phone, and I use them all. I think I might be opinion shopping."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1898269662",
+        "name": "Rahul Madduluri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959328078251147264/r5TqY5rI_normal.jpg",
+        "username": "rahul_madduluri",
+        "verified": false
+      },
+      {
+        "id": "3293740627",
+        "name": "Software Engineering Daily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082189675079299072/NchJkqVy_normal.jpg",
+        "username": "software_daily",
+        "verified": false
+      },
+      {
+        "id": "5252591",
+        "name": "Bill Gurley",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338587084911767554/Le6JNY5F_normal.jpg",
+        "username": "bgurley",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1090764063934636035",
+    "next_token": "b26v89c19zqg8o3fn0ylhp3dlb04a1n28uc643fyhqs1p",
+    "oldest_id": "1084532125481676800",
+    "result_count": 7
+  },
+  "errors": []
+}

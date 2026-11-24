@@ -1,0 +1,512 @@
+{
+  "collected_at_utc": "2026-11-24T11:36:29Z",
+  "collected_at_shanghai": "2026-11-24T19:36:29+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86NF1JD2068BG2EB592Z95Z.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2023-06-01T00:00:00Z",
+    "end_time": "2023-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-06"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1673007168407126016",
+      "created_at": "2023-06-25T16:36:06.000Z",
+      "edit_history_tweet_ids": [
+        "1673007168407126016"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1551258526584115204",
+            "start": 3,
+            "username": "FinanceYF5"
+          }
+        ]
+      },
+      "id": "1673007168407126016",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 830
+      },
+      "referenced_tweets": [
+        {
+          "id": "1672812733438517250",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @FinanceYF5: 你可以用ChatGPT自动化任何任务。\n\n它甚至可以从任何网站提取数据。\n\n不再需要知道如何编码就能做到这一点。\n\n下面是一个线程，向你展示如何在几秒钟内完成：",
+      "url": "https://x.com/iiiinvest/status/1673007168407126016"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1671398787766710275",
+      "created_at": "2023-06-21T06:04:58.000Z",
+      "edit_history_tweet_ids": [
+        "1671398787766710275"
+      ],
+      "id": "1671398787766710275",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 225,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "BEIJING: US President joe Biden on Tuesday called Xi Jinping adictator, a day after top US diplomat Antony Blinken visitedBeijing to stabilize bilateral relations that China says are at theirlowest point since formal ties were established.",
+      "url": "https://x.com/iiiinvest/status/1671398787766710275"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1670827273765945349",
+      "created_at": "2023-06-19T16:13:59.000Z",
+      "edit_history_tweet_ids": [
+        "1670827273765945349"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "958562247831367680",
+            "start": 3,
+            "username": "Bitturing"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Qodo is an agentic code review and integrity platform for improving code quality at every stage.",
+            "display_url": "codium.ai",
+            "end": 60,
+            "expanded_url": "http://codium.ai",
+            "images": [
+              {
+                "height": 1590,
+                "url": "https://pbs.twimg.com/news_img/2120914873563721730/R-0Qgbvt?format=jpg&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2120914873563721730/R-0Qgbvt?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 37,
+            "status": 200,
+            "title": "Qodo | AI Agents for Code, Review & Workflows",
+            "unwound_url": "https://www.qodo.ai/",
+            "url": "https://t.co/nW4AvVzZXT"
+          },
+          {
+            "description": "The free website builder with a design agent that takes you from idea to launch. Changes stay editable, with hosting, CMS, analytics, SEO, and AEO built in.",
+            "display_url": "framer.com",
+            "end": 95,
+            "expanded_url": "http://framer.com",
+            "images": [
+              {
+                "height": 1260,
+                "url": "https://pbs.twimg.com/news_img/2124711248717832192/QmAL73BK?format=png&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124711248717832192/QmAL73BK?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 72,
+            "status": 200,
+            "title": "Framer: Free website builder and AI design agent",
+            "unwound_url": "https://www.framer.com/?utm_source=twitter&utm_medium=paid&utm_campaign={{campaign_id}}&utm_content={{adgroup_id}}",
+            "url": "https://t.co/zVkuQHNv6E"
+          },
+          {
+            "description": "UI design for apps, websites, and desktop software in minutes. If you can use Google Slides or PowerPoint, you can use Uizard!",
+            "display_url": "uizard.io",
+            "end": 126,
+            "expanded_url": "http://uizard.io",
+            "images": [
+              {
+                "height": 1344,
+                "url": "https://pbs.twimg.com/news_img/2122344950511607808/1bMZ4mdk?format=jpg&name=orig",
+                "width": 2560
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122344950511607808/1bMZ4mdk?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 103,
+            "status": 200,
+            "title": "UI Design Made Easy, Powered By AI | Uizard",
+            "unwound_url": "https://uizard.io/",
+            "url": "https://t.co/1RSV6gmPMr"
+          }
+        ]
+      },
+      "id": "1670827273765945349",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 814
+      },
+      "referenced_tweets": [
+        {
+          "id": "1669643210254340096",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Bitturing: GPT-4已经改变了世界。\n\n1. 编程。\nhttps://t.co/nW4AvVzZXT\n\n2. 无需编码建站\nhttps://t.co/zVkuQHNv6E\n\n3. 设计\nhttps://t.co/1RSV6gmPMr\n\n4. 会议\nhttps…",
+      "url": "https://x.com/iiiinvest/status/1670827273765945349"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1666146982191300608",
+      "created_at": "2023-06-06T18:16:10.000Z",
+      "edit_history_tweet_ids": [
+        "1666146982191300608"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "985402927253635073",
+            "start": 3,
+            "username": "jike_collection"
+          }
+        ]
+      },
+      "id": "1666146982191300608",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 435
+      },
+      "referenced_tweets": [
+        {
+          "id": "1665762063455764480",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @jike_collection: 这不就是小红书的流量密码嘛！你领悟了吗？\n\n一：40+爆款标题公式\n\n重要指数：★★★★★\n\n1、救命！我真的会xxxx！\n\n2、居然有人会说xxxx，我真的会xxxx！\n\n3、女生一定要学会xxxx！格局炸裂\n\n4、人人都能学会！深扒…",
+      "url": "https://x.com/iiiinvest/status/1666146982191300608"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1666133310463176704",
+      "created_at": "2023-06-06T17:50:43.000Z",
+      "edit_history_tweet_ids": [
+        "1666140575165460480"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1465779736840265729",
+            "start": 0,
+            "username": "wufantouzi"
+          }
+        ]
+      },
+      "id": "1666140575165460480",
+      "in_reply_to_user_id": "1465779736840265729",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2264,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1666133310463176704",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wufantouzi 饭总，睡这么晚第二天会头疼吗",
+      "url": "https://x.com/iiiinvest/status/1666140575165460480"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1551258526584115204",
+        "conversation_id": "1672812733438517250",
+        "created_at": "2023-06-25T03:43:29.000Z",
+        "edit_history_tweet_ids": [
+          "1672812733438517250"
+        ],
+        "id": "1672812733438517250",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1588,
+          "impression_count": 563805,
+          "like_count": 2209,
+          "quote_count": 16,
+          "reply_count": 101,
+          "retweet_count": 830
+        },
+        "text": "你可以用ChatGPT自动化任何任务。\n\n它甚至可以从任何网站提取数据。\n\n不再需要知道如何编码就能做到这一点。\n\n下面是一个线程，向你展示如何在几秒钟内完成："
+      },
+      {
+        "author_id": "958562247831367680",
+        "conversation_id": "1669643210254340096",
+        "created_at": "2023-06-16T09:48:56.000Z",
+        "edit_history_tweet_ids": [
+          "1669643210254340096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Qodo is an agentic code review and integrity platform for improving code quality at every stage.",
+              "display_url": "codium.ai",
+              "end": 45,
+              "expanded_url": "http://codium.ai",
+              "images": [
+                {
+                  "height": 1590,
+                  "url": "https://pbs.twimg.com/news_img/2120914873563721730/R-0Qgbvt?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120914873563721730/R-0Qgbvt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "Qodo | AI Agents for Code, Review & Workflows",
+              "unwound_url": "https://www.qodo.ai/",
+              "url": "https://t.co/nW4AvVzZXT"
+            },
+            {
+              "description": "The free website builder with a design agent that takes you from idea to launch. Changes stay editable, with hosting, CMS, analytics, SEO, and AEO built in.",
+              "display_url": "framer.com",
+              "end": 80,
+              "expanded_url": "http://framer.com",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2124711248717832192/QmAL73BK?format=png&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124711248717832192/QmAL73BK?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "Framer: Free website builder and AI design agent",
+              "unwound_url": "https://www.framer.com/?utm_source=twitter&utm_medium=paid&utm_campaign={{campaign_id}}&utm_content={{adgroup_id}}",
+              "url": "https://t.co/zVkuQHNv6E"
+            },
+            {
+              "description": "UI design for apps, websites, and desktop software in minutes. If you can use Google Slides or PowerPoint, you can use Uizard!",
+              "display_url": "uizard.io",
+              "end": 111,
+              "expanded_url": "http://uizard.io",
+              "images": [
+                {
+                  "height": 1344,
+                  "url": "https://pbs.twimg.com/news_img/2122344950511607808/1bMZ4mdk?format=jpg&name=orig",
+                  "width": 2560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122344950511607808/1bMZ4mdk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "UI Design Made Easy, Powered By AI | Uizard",
+              "unwound_url": "https://uizard.io/",
+              "url": "https://t.co/1RSV6gmPMr"
+            },
+            {
+              "description": "tl;dv is the AI notetaker and AI meeting assistant for Zoom, Google Meet and Teams. Transcripts, summaries and CRM updates from every call. Free forever.",
+              "display_url": "tldv.io",
+              "end": 142,
+              "expanded_url": "http://tldv.io",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2123717500986621952/u002vJq9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2123717500986621952/u002vJq9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 119,
+              "status": 200,
+              "title": "AI Notetaker & AI Meeting Assistant | tl;dv",
+              "unwound_url": "https://tldv.io/",
+              "url": "https://t.co/xmTZLxQF0b"
+            },
+            {
+              "description": "Land More Interviews with the #1 AI Resume Builder. Rezi's AI builds ATS-proof resumes that actually get callbacks. 4,785,497+ job seekers trust it, Forbes ranks it #1. Free, done in minutes.",
+              "display_url": "rezi.ai",
+              "end": 173,
+              "expanded_url": "http://rezi.ai",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2122603479579377665/-SEcaFeA?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122603479579377665/-SEcaFeA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 150,
+              "status": 200,
+              "title": "The #1 AI Resume Builder – Forbes' Top Pick. Trusted by 4,785,497+",
+              "unwound_url": "https://www.rezi.ai/",
+              "url": "https://t.co/Mk1fcz4R7T"
+            },
+            {
+              "display_url": "copymatic.ai",
+              "end": 204,
+              "expanded_url": "http://copymatic.ai",
+              "start": 181,
+              "unwound_url": "http://copymatic.ai",
+              "url": "https://t.co/6Xv9ORhv0P"
+            }
+          ]
+        },
+        "id": "1669643210254340096",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1019,
+          "impression_count": 225751,
+          "like_count": 1877,
+          "quote_count": 12,
+          "reply_count": 47,
+          "retweet_count": 814
+        },
+        "text": "GPT-4已经改变了世界。\n\n1. 编程。\nhttps://t.co/nW4AvVzZXT\n\n2. 无需编码建站\nhttps://t.co/zVkuQHNv6E\n\n3. 设计\nhttps://t.co/1RSV6gmPMr\n\n4. 会议\nhttps://t.co/xmTZLxQF0b\n\n5. 简历\nhttps://t.co/Mk1fcz4R7T\n\n6. 博客\nhttps://t.co/6Xv9ORhv0P"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1665762061065031680"
+          ]
+        },
+        "author_id": "985402927253635073",
+        "conversation_id": "1665762063455764480",
+        "created_at": "2023-06-05T16:46:38.000Z",
+        "edit_history_tweet_ids": [
+          "1665762063455764480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5spVAcXMco",
+              "end": 154,
+              "expanded_url": "https://x.com/jike_collection/status/1665762063455764480/photo/1",
+              "media_key": "3_1665762061065031680",
+              "start": 131,
+              "url": "https://t.co/5spVAcXMco"
+            }
+          ]
+        },
+        "id": "1665762063455764480",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 371419,
+          "like_count": 1557,
+          "quote_count": 26,
+          "reply_count": 63,
+          "retweet_count": 435
+        },
+        "text": "这不就是小红书的流量密码嘛！你领悟了吗？\n\n一：40+爆款标题公式\n\n重要指数：★★★★★\n\n1、救命！我真的会xxxx！\n\n2、居然有人会说xxxx，我真的会xxxx！\n\n3、女生一定要学会xxxx！格局炸裂\n\n4、人人都能学会！深扒yyyy的xxxx小心机 https://t.co/5spVAcXMco"
+      },
+      {
+        "author_id": "1465779736840265729",
+        "conversation_id": "1666133310463176704",
+        "created_at": "2023-06-06T17:21:51.000Z",
+        "edit_history_tweet_ids": [
+          "1666133310463176704"
+        ],
+        "id": "1666133310463176704",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36724,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "text": "这一波能把空头都网住嘛？\n多头已经只剩下裤衩了"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "public_metrics": {
+          "followers_count": 56906,
+          "following_count": 39,
+          "like_count": 3998,
+          "listed_count": 529,
+          "media_count": 436,
+          "tweet_count": 4858
+        },
+        "username": "iiiinvest"
+      },
+      {
+        "id": "1465779736840265729",
+        "name": "wu fan",
+        "public_metrics": {
+          "followers_count": 139163,
+          "following_count": 56,
+          "like_count": 4438,
+          "listed_count": 1777,
+          "media_count": 1198,
+          "tweet_count": 6399
+        },
+        "username": "wufantouzi"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1673007168407126016",
+    "next_token": "b26v89c19zqg8o3fqkj0btotl1oie02l0ejrjssg0cwvx",
+    "oldest_id": "1666140575165460480",
+    "result_count": 5
+  },
+  "errors": []
+}

@@ -1,0 +1,248 @@
+{
+  "collected_at_utc": "2026-11-24T12:16:52Z",
+  "collected_at_shanghai": "2026-11-24T20:16:52+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86QRVFJ4ZTYCC0D2H76E6H6.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2022-10-01T00:00:00Z",
+    "end_time": "2022-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fpzbm796q7h5u00inkh6o0jvbjdcvx",
+    "window_label": "2022-10"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1576805438762336256",
+      "created_at": "2022-10-03T05:24:46.000Z",
+      "display_text_range": [
+        0,
+        270
+      ],
+      "edit_history_tweet_ids": [
+        "1576805438762336256"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "The state of the art AI image generation engine.",
+            "display_url": "lexica.art",
+            "end": 73,
+            "expanded_url": "http://lexica.art",
+            "start": 50,
+            "status": 500,
+            "title": "Lexica",
+            "unwound_url": "https://lexica.art/",
+            "url": "https://t.co/X2sDl5OHwu"
+          }
+        ]
+      },
+      "id": "1576805438762336256",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 68,
+        "impression_count": 0,
+        "like_count": 248,
+        "quote_count": 2,
+        "reply_count": 7,
+        "retweet_count": 20
+      },
+      "text": "For creative inspiration, have found searching on https://t.co/X2sDl5OHwu significantly faster/better/more inspiring/more useful than using DALL-E/SD directly.\n\nLow latency is massive.\n\nAlso—lexica is a tastefully curated corpus (not sure how), and taste is worth a LOT.",
+      "url": "https://x.com/alexandr_wang/status/1576805438762336256"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1576379866294808577",
+      "created_at": "2022-10-02T01:32:00.000Z",
+      "display_text_range": [
+        8,
+        286
+      ],
+      "edit_history_tweet_ids": [
+        "1576384470378156034"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "784436415744442368",
+            "start": 0,
+            "username": "mobav0"
+          }
+        ]
+      },
+      "id": "1576384470378156034",
+      "in_reply_to_user_id": "784436415744442368",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1576383842822213632",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mobav0 In each case (including RL), the technology is cool and engineers should be excited.\n\nBut the organizations/companies/leaders who continue to hype these directions even despite low practical impact often do so for slightly misleading reasons, often to seem insurmountably ahead.",
+      "url": "https://x.com/alexandr_wang/status/1576384470378156034"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1576379866294808577",
+      "created_at": "2022-10-02T01:13:43.000Z",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "edit_history_tweet_ids": [
+        "1576379868400361473"
+      ],
+      "id": "1576379868400361473",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 52,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1576379866294808577",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The sim2real gap is big both semantically and visually.\n\nAnother example:\n\nReinforcement Learning (excl. recent RLHF for LLMs). It was great for AlphaGo, but the practical applications were very sparse. That being said, every tech co from Uber to Google overplayed their RL tech",
+      "url": "https://x.com/alexandr_wang/status/1576379868400361473"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1576379866294808577",
+      "created_at": "2022-10-02T01:13:42.000Z",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "edit_history_tweet_ids": [
+        "1576379866294808577"
+      ],
+      "id": "1576379866294808577",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 0,
+        "like_count": 175,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 11
+      },
+      "text": "Mirage Technologies:\n\nTech that is not practically useful, but disproportionately demo’d to create perception of innovation or tech moats\n\nEx: Simulation for ML for AV. Huge part of every co’s narrative (incl. Tesla AI day), BUT it just doesn’t move the needle / have big impact",
+      "url": "https://x.com/alexandr_wang/status/1576379866294808577"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "784436415744442368",
+        "conversation_id": "1576379866294808577",
+        "created_at": "2022-10-02T01:29:30.000Z",
+        "display_text_range": [
+          15,
+          256
+        ],
+        "edit_history_tweet_ids": [
+          "1576383842822213632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1576383842822213632",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1576379868400361473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Isn’t that a bit of hindsight though? Around 2017, after alphago / dota, it seemed very plausible that RL could quickly blow up and eat the world. \n\nIt took a long while to realize the success in games won’t easily translate to applications."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1576379866294808577",
+        "created_at": "2022-10-02T01:13:42.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_history_tweet_ids": [
+          "1576379866294808577"
+        ],
+        "id": "1576379866294808577",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 0,
+          "like_count": 175,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "text": "Mirage Technologies:\n\nTech that is not practically useful, but disproportionately demo’d to create perception of innovation or tech moats\n\nEx: Simulation for ML for AV. Huge part of every co’s narrative (incl. Tesla AI day), BUT it just doesn’t move the needle / have big impact"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "784436415744442368",
+        "name": "Mo Bavarian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772135936509476864/ZyTNbt79_normal.jpg",
+        "username": "mobav0",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1576805438762336256",
+    "next_token": "b26v89c19zqg8o3fpzbm6ykwdfvsrjdrh7bjs8mz4w60t",
+    "oldest_id": "1576379866294808577",
+    "result_count": 4
+  },
+  "errors": []
+}
