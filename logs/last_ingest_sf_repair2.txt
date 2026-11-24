@@ -1,0 +1,50 @@
+sil 2026-09           19700 ['"result_count":16'] nxt=True BAD=False
+sil 2026-07-01to26    33735 ['"result_count":25'] nxt=True BAD=False
+sil 2026-06           18548 ['"result_count":24'] nxt=True BAD=False
+sil 2025-12           36653 ['"result_count":25'] nxt=True BAD=False
+sil 2025-11           25575 ['"result_count":25'] nxt=True BAD=False
+sil 2025-10           27565 ['"result_count":25'] nxt=True BAD=False
+sil 2025-09            6770 ['"result_count":25'] nxt=True BAD=False
+sil 2025-08           33041 ['"result_count":25'] nxt=True BAD=False
+LAST_FOOTER X reads left for this user: 21 of 30 this minute (resets at 2026-11-24T12:17:00.000Z), 314 of 1000 today (resets at 2026-11-25T00:00:00.000Z).
+2026-09: added= 16 ret= 16 total=8236 2026-09-12T16:44:05.000Z->2026-09-15T01:12:12.000Z end=False pages=10
+2026-07-01to26: added= 25 ret= 25 total=8261 2026-07-04T10:48:56.000Z->2026-07-08T08:06:58.000Z end=False pages=6
+2026-06: added= 24 ret= 24 total=8285 2026-06-06T12:58:40.000Z->2026-06-10T16:02:18.000Z end=False pages=7
+2025-12: added= 25 ret= 25 total=8310 2025-12-06T09:13:14.000Z->2025-12-08T12:01:34.000Z end=False pages=9
+2025-11: added= 25 ret= 25 total=8335 2025-11-05T11:33:16.000Z->2025-11-07T23:15:20.000Z end=False pages=8
+2025-10: added= 25 ret= 25 total=8360 2025-10-09T08:24:45.000Z->2025-10-10T22:41:04.000Z end=False pages=8
+2025-09: added= 25 ret= 25 total=8385 2025-09-04T17:56:08.000Z->2025-09-09T01:52:05.000Z end=False pages=7
+2025-08: added= 25 ret= 25 total=8410 2025-08-16T08:15:43.000Z->2025-08-19T16:55:04.000Z end=False pages=4
+open ['2024-03(p10,+248)', '2024-05(p6,+150)', '2024-06(p4,+75)', '2024-07(p3,+75)', '2024-08(p2,+50)', '2024-09(p1,+25)', '2025-08(p4,+100)', '2025-09(p7,+170)', '2025-10(p8,+200)', '2025-11(p8,+200)', '2025-12(p9,+200)', '2026-06(p7,+147)', '2026-09(p10,+169)', '2026-10(p10,+216)', '2026-07-01to26(p6,+148)']
+exhausted ['2021-09(p3,+26)', '2021-10(p2,+0)', '2021-11(p2,+0)', '2021-12(p5,+62)', '2022-01(p6,+110)', '2022-02(p6,+108)', '2022-03(p7,+126)', '2022-04(p12,+252)', '2022-05(p7,+138)', '2022-06(p9,+184)', '2022-07(p10,+203)', '2022-08(p7,+133)', '2022-09(p5,+76)', '2022-10(p8,+170)', '2022-11(p12,+261)', '2022-12(p8,+128)', '2023-01(p8,+153)', '2023-02(p10,+216)', '2023-03(p15,+330)', '2023-04(p8,+163)', '2023-05(p9,+188)', '2023-06(p21,+478)', '2023-07(p13,+298)', '2023-08(p13,+291)', '2023-09-01to14(p6,+113)', '2023-10(p18,+406)', '2023-11(p7,+138)', '2023-12(p8,+133)', '2024-01(p8,+163)', '2024-02(p13,+285)', '2024-04(p6,+119)', '2026-08(p8,+164)', '2026-11-01to08(p5,+74)', '2026-11-08to25(p8,+19)']
+calls_this_pass 658 last_total 8410
+
+UNIQUES {'silverfang88': 8410, 'iiiinvest': 2504, 'alexandr_wang': 1331} sum 12245
+DAILY 314 USABLE 239
+OPEN silverfang88 2025-08 p4 +100 TOKEN=b26v89c19zqg8o3fscb7yiwc8h16zbccviymul0ufbon1 2025-08-01T00:00:00Z->2025-09-01T00:00:00Z
+OPEN silverfang88 2025-09 p7 +170 TOKEN=b26v89c19zqg8o3fsce6gy4lzsymcky8tb2r68cqny5x9 2025-09-01T00:00:00Z->2025-10-01T00:00:00Z
+OPEN silverfang88 2025-10 p8 +200 TOKEN=b26v89c19zqg8o3fsch7i2exha9tzsoagdqzreopnni4d 2025-10-01T00:00:00Z->2025-11-01T00:00:00Z
+OPEN silverfang88 2025-11 p8 +200 TOKEN=b26v89c19zqg8o3fsck79u7kp5cbihrl97hawlszzrrst 2025-11-01T00:00:00Z->2025-12-01T00:00:00Z
+OPEN silverfang88 2025-12 p9 +200 TOKEN=b26v89c19zqg8o3fscn7h045w3k2g4dzlsompkssktegt 2025-12-01T00:00:00Z->2026-01-01T00:00:00Z
+OPEN silverfang88 2026-06 p7 +147 TOKEN=b26v89c19zqg8o3jueqhdakf0ayfat7w4g8nmbrflb5vh 2026-06-01T00:00:00Z->2026-07-01T00:00:00Z
+OPEN silverfang88 2026-09 p10 +169 TOKEN=b26v89c19zqg8o3juezit3h6azsogxzsf8pfp3sppw8zh 2026-09-01T00:00:00Z->2026-10-01T00:00:00Z
+OPEN silverfang88 2026-10 p10 +216 TOKEN=b26v89c19zqg8o3juzizkz88tgwdzxyys19mcq8w3nmnx 2026-10-01T00:00:00Z->2026-11-01T00:00:00Z
+OPEN iiiinvest 2024-03 p1 +0 TOKEN=b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d 2024-03-01T00:00:00Z->2024-04-01T00:00:00Z
+OPEN iiiinvest 2024-04 p1 +0 TOKEN=b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5 2024-04-01T00:00:00Z->2024-05-01T00:00:00Z
+OPEN iiiinvest 2026-02 p5 +125 TOKEN=b26v89c19zqg8o3juebl10kp0hbe8ibtdrkm1qj6enpfh 2026-02-01T00:00:00Z->2026-03-01T00:00:00Z
+OPEN iiiinvest 2026-03 p5 +100 TOKEN=b26v89c19zqg8o3jueekt2zh2ese82n77ynnfmrhqys8t 2026-03-01T00:00:00Z->2026-04-01T00:00:00Z
+OPEN iiiinvest 2026-04 p5 +125 TOKEN=b26v89c19zqg8o3jueki8ys6yeevem9dggglyxyel7ybh 2026-04-01T00:00:00Z->2026-05-01T00:00:00Z
+OPEN iiiinvest 2026-06 p7 +150 TOKEN=b26v89c19zqg8o3jueqimzx5fttwhu9ecdiiypl5wmxz1 2026-06-01T00:00:00Z->2026-07-01T00:00:00Z
+OPEN iiiinvest 2026-07 p10 +250 TOKEN=b26v89c19zqg8o3juewfnnwszjyveqgb0i3mqfcxsz2wt 2026-07-01T00:00:00Z->2026-08-01T00:00:00Z
+OPEN iiiinvest 2026-09 p10 +225 TOKEN=b26v89c19zqg8o3juzix1oqqawa85szpmvn96n86qnjb1 2026-09-01T00:00:00Z->2026-10-01T00:00:00Z
+OPEN iiiinvest 2026-11 p9 +89 TOKEN=b26v89c19zqg8o3juzlzcv88ic7and7zn7rmjoakyoewt 2026-11-01T00:00:00Z->2026-11-25T00:00:00Z
+OPEN alexandr_wang 2022-05 p1 +25 TOKEN=b26v89c19zqg8o3fpywmh0t5hm40gy3a0bldd2t2e9l6l 2022-05-01T00:00:00Z->2022-06-01T00:00:00Z
+OPEN alexandr_wang 2022-06 p1 +14 TOKEN=b26v89c19zqg8o3fpyzlepvm6f0lp7nejsggq89rxubul 2022-06-01T00:00:00Z->2022-07-01T00:00:00Z
+OPEN alexandr_wang 2022-10 p3 +54 TOKEN=b26v89c19zqg8o3fpzbm6ykwdfvsrjdrh7bjs8mz4w60t 2022-10-01T00:00:00Z->2022-11-01T00:00:00Z
+OPEN silverfang88 2026-07-01to26 p6 +148 TOKEN=b26v89c19zqg8o3jueth58qn6d1kkgc7030qwiksm3rzx 2026-07-01T00:00:00Z->2026-07-26T15:21:49Z
+OPEN iiiinvest 2026-08-01to27 p6 +150 TOKEN=b26v89c19zqg8o3juezffws5yzvt9xg1b3yjtrjec3vjx 2026-08-01T00:00:00Z->2026-08-27T16:04:47Z
+STALL pagination_stalled silverfang88 2023-09 b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp
+STALL pagination_stalled silverfang88 2026-07 b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp
+STALL pagination_stalled iiiinvest 2026-08 b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp
+STALL not_proven_exhausted alexandr_wang 2012-2014 None
+checkpointed calls_this_pass 658 chunk 168 daily 314 usable 239

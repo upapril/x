@@ -1,0 +1,624 @@
+{
+  "collected_at_utc": "2026-11-24T12:24:16Z",
+  "collected_at_shanghai": "2026-11-24T20:24:16+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R65QZGFJ486JSN0S3RKQA.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2020-07-01T00:00:00Z",
+    "end_time": "2020-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2020-07"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1283433126685892609",
+      "created_at": "2020-07-15T16:07:57.000Z",
+      "display_text_range": [
+        0,
+        150
+      ],
+      "edit_history_tweet_ids": [
+        "1283433126685892609"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 38,
+            "id": "19908394",
+            "start": 30,
+            "username": "mavolpi"
+          },
+          {
+            "end": 93,
+            "id": "752712449321644032",
+            "start": 84,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/indexventures/…",
+            "end": 174,
+            "expanded_url": "https://twitter.com/indexventures/status/1283431125243752448",
+            "start": 151,
+            "url": "https://t.co/GBh8ltmYYY"
+          }
+        ]
+      },
+      "id": "1283433126685892609",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 36,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1283431125243752448",
+          "type": "quoted"
+        }
+      ],
+      "text": "I sat down with the wonderful @mavolpi to talk about the journey so far in building @scale_AI \n\nAs a general rule, always love sitting down with Mike! https://t.co/GBh8ltmYYY",
+      "url": "https://x.com/alexandr_wang/status/1283433126685892609"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1282443500416454657"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1282444915025129474",
+      "created_at": "2020-07-12T22:41:09.000Z",
+      "display_text_range": [
+        0,
+        227
+      ],
+      "edit_history_tweet_ids": [
+        "1282444915025129474"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 28,
+            "id": "752712449321644032",
+            "start": 19,
+            "username": "scale_AI"
+          },
+          {
+            "end": 47,
+            "id": "1305940272",
+            "start": 39,
+            "username": "SlackHQ"
+          },
+          {
+            "end": 227,
+            "id": "1697125616",
+            "start": 216,
+            "username": "chunonline"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/2x8wVUJFD9",
+            "end": 251,
+            "expanded_url": "https://x.com/alexandr_wang/status/1282444915025129474/photo/1",
+            "media_key": "3_1282443500416454657",
+            "start": 228,
+            "url": "https://t.co/2x8wVUJFD9"
+          }
+        ]
+      },
+      "id": "1282444915025129474",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 34,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "There's a trend at @scale_AI where our @SlackHQ avatars are all custom ghost👻 illustrations.\n\nSome of my favorites:\n- Parent 👻\n- Rubik's 👻\n- Spicy ramen 👻\n- Bartender 👻\n\nGreat things happen with great designers! h/t @chunonline https://t.co/2x8wVUJFD9",
+      "url": "https://x.com/alexandr_wang/status/1282444915025129474"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1282390872584151040",
+      "created_at": "2020-07-12T20:30:53.000Z",
+      "display_text_range": [
+        10,
+        45
+      ],
+      "edit_history_tweet_ids": [
+        "1282412132454109184"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "33836629",
+            "start": 0,
+            "username": "karpathy"
+          }
+        ]
+      },
+      "id": "1282412132454109184",
+      "in_reply_to_user_id": "33836629",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1282390872584151040",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@karpathy I also use safari as main browser 👊",
+      "url": "https://x.com/alexandr_wang/status/1282412132454109184"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1281279875865645056",
+      "created_at": "2020-07-09T17:31:42.000Z",
+      "display_text_range": [
+        0,
+        71
+      ],
+      "edit_history_tweet_ids": [
+        "1281279875865645056"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 63,
+            "id": "15460048",
+            "start": 59,
+            "username": "MIT"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/mitcnc/status/…",
+            "end": 95,
+            "expanded_url": "https://twitter.com/mitcnc/status/1278441100638916614",
+            "start": 72,
+            "url": "https://t.co/NLBLm6Rpb8"
+          }
+        ]
+      },
+      "id": "1281279875865645056",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1278441100638916614",
+          "type": "quoted"
+        }
+      ],
+      "text": "Excited to speak at this conference organized by wonderful @MIT alumni! https://t.co/NLBLm6Rpb8",
+      "url": "https://x.com/alexandr_wang/status/1281279875865645056"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1280186098002440192",
+      "created_at": "2020-07-06T17:05:25.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1280186098002440192"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1280186098002440192",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1278361697602768896",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: Fostering and maintaining connections when everyone is remote is tricky. In our latest blog, we highlight and share our peopl…",
+      "url": "https://x.com/alexandr_wang/status/1280186098002440192"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1280186070974394369",
+      "created_at": "2020-07-06T17:05:18.000Z",
+      "display_text_range": [
+        0,
+        138
+      ],
+      "edit_history_tweet_ids": [
+        "1280186070974394369"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 40,
+            "id": "91478624",
+            "start": 33,
+            "username": "Forbes"
+          }
+        ]
+      },
+      "id": "1280186070974394369",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1280180270470066176",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: We are grateful to @Forbes for the recognition as one of America's Most Promising AI Companies for the second year running!…",
+      "url": "https://x.com/alexandr_wang/status/1280186070974394369"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1282443500416454657",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1283429440819585027"
+          ]
+        },
+        "author_id": "19720395",
+        "conversation_id": "1283431125243752448",
+        "created_at": "2020-07-15T15:59:59.000Z",
+        "display_text_range": [
+          0,
+          285
+        ],
+        "edit_history_tweet_ids": [
+          "1283431125243752448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "615818451",
+              "start": 8,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 40,
+              "id": "752712449321644032",
+              "start": 31,
+              "username": "scale_AI"
+            },
+            {
+              "end": 260,
+              "id": "19908394",
+              "start": 252,
+              "username": "mavolpi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdRhDNcFZJ",
+              "end": 309,
+              "expanded_url": "https://x.com/IndexVentures/status/1283431125243752448/video/1",
+              "media_key": "7_1283429440819585027",
+              "start": 286,
+              "url": "https://t.co/xdRhDNcFZJ"
+            }
+          ]
+        },
+        "id": "1283431125243752448",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "In 2016 @alexandr_wang founded @scale_AI to help businesses train data for ML applications. Today with customers like Lyft, Pinterest, &amp; Samsung, Alex shares a candid conversation about his journey &amp; shares insights into the state of the AI w/ @mavolpi: https://t.co/HKrQKATOGd https://t.co/xdRhDNcFZJ"
+      },
+      {
+        "author_id": "33836629",
+        "conversation_id": "1282390872584151040",
+        "created_at": "2020-07-12T19:06:24.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_history_tweet_ids": [
+          "1282390872584151040"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 278,
+              "start": 260,
+              "tag": "strugglecontinues"
+            }
+          ]
+        },
+        "id": "1282390872584151040",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 0,
+          "like_count": 555,
+          "quote_count": 4,
+          "reply_count": 69,
+          "retweet_count": 15
+        },
+        "text": "Earlier I had to switch back from Brave to Chrome due to mix of performance/stability, also had to switch from 🦆🦆Go back to Google because I found myself g! almost 80% of the time :( Will give both another shot later. Meanwhile switching from Chrome to Safari #strugglecontinues"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1278440862482128900"
+          ]
+        },
+        "author_id": "21233371",
+        "conversation_id": "1278441100638916614",
+        "created_at": "2020-07-01T21:31:25.000Z",
+        "display_text_range": [
+          0,
+          243
+        ],
+        "edit_history_tweet_ids": [
+          "1278441100638916614"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "MITCNC"
+            },
+            {
+              "end": 123,
+              "start": 99,
+              "tag": "AIVirtualConference2020"
+            },
+            {
+              "end": 142,
+              "start": 124,
+              "tag": "AIForABetterWorld"
+            },
+            {
+              "end": 152,
+              "start": 143,
+              "tag": "Learning"
+            },
+            {
+              "end": 160,
+              "start": 153,
+              "tag": "Health"
+            },
+            {
+              "end": 169,
+              "start": 161,
+              "tag": "Economy"
+            },
+            {
+              "end": 175,
+              "start": 170,
+              "tag": "Work"
+            },
+            {
+              "end": 190,
+              "start": 176,
+              "tag": "Entertainment"
+            },
+            {
+              "end": 206,
+              "start": 191,
+              "tag": "Infrastructure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mitcnc.org/events/mit-ai-…",
+              "end": 89,
+              "expanded_url": "http://www.mitcnc.org/events/mit-ai-conference-2020/",
+              "start": 66,
+              "url": "https://t.co/rnnBY1YMmS"
+            },
+            {
+              "display_url": "linkedin.com/in/alexandrwan…",
+              "end": 243,
+              "expanded_url": "https://www.linkedin.com/in/alexandrwang/",
+              "start": 220,
+              "url": "https://t.co/vt9VbNvOWk"
+            },
+            {
+              "display_url": "pic.x.com/xcBCpyUT68",
+              "end": 267,
+              "expanded_url": "https://x.com/mitcnc/status/1278441100638916614/photo/1",
+              "media_key": "3_1278440862482128900",
+              "start": 244,
+              "url": "https://t.co/xcBCpyUT68"
+            }
+          ]
+        },
+        "id": "1278441100638916614",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "Join Alexandr Wang at the MIT AI 2020 (Jul 14-18) - Register now: https://t.co/rnnBY1YMmS\n\n#MITCNC #AIVirtualConference2020 #AIForABetterWorld #Learning #Health #Economy #Work #Entertainment #Infrastructure\n\nFollow Him: https://t.co/vt9VbNvOWk https://t.co/xcBCpyUT68"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1278361697602768896",
+        "created_at": "2020-07-01T16:15:54.000Z",
+        "display_text_range": [
+          0,
+          188
+        ],
+        "edit_history_tweet_ids": [
+          "1278361697602768896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/blog/keeping-t…",
+              "end": 188,
+              "expanded_url": "https://scale.com/blog/keeping-the-team-close-while-distancing",
+              "start": 165,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog",
+              "url": "https://t.co/xCSJCoyHW9"
+            }
+          ]
+        },
+        "id": "1278361697602768896",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "text": "Fostering and maintaining connections when everyone is remote is tricky. In our latest blog, we highlight and share our people team’s social connection initiatives: https://t.co/xCSJCoyHW9"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1280180270470066176",
+        "created_at": "2020-07-06T16:42:15.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_history_tweet_ids": [
+          "1280180270470066176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "91478624",
+              "start": 19,
+              "username": "Forbes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "forbes.com/sites/alanohns…",
+              "end": 148,
+              "expanded_url": "https://www.forbes.com/sites/alanohnsman/2020/07/03/ai-50-americas-most-promising-artificial-intelligence-companies/#3c177aed5c99",
+              "start": 125,
+              "url": "https://t.co/2E9WCD9Ymp"
+            }
+          ]
+        },
+        "id": "1280180270470066176",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 27,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "text": "We are grateful to @Forbes for the recognition as one of America's Most Promising AI Companies for the second year running! \nhttps://t.co/2E9WCD9Ymp"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "33836629",
+        "name": "Andrej Karpathy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+        "username": "karpathy",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1283433126685892609",
+    "next_token": "b26v89c19zqg8o3fo7jcgf6mzd8ar00kja2h4w4b7om0t",
+    "oldest_id": "1280186070974394369",
+    "result_count": 6
+  },
+  "errors": []
+}

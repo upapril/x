@@ -1,0 +1,130 @@
+{
+  "collected_at_utc": "2026-11-24T12:19:42Z",
+  "collected_at_shanghai": "2026-11-24T20:19:42+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86QXVD3Y32RK15TYBJ02Z37.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2022-05-01T00:00:00Z",
+    "end_time": "2022-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fpywmh0t5hm40gy3a0bldd2t2e9l6l",
+    "window_label": "2022-05"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1523805004385058816",
+      "created_at": "2022-05-09T23:19:58.000Z",
+      "display_text_range": [
+        0,
+        173
+      ],
+      "edit_history_tweet_ids": [
+        "1523805004385058816"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 32,
+            "id": "229119882",
+            "start": 20,
+            "username": "SeaAirSpace"
+          }
+        ]
+      },
+      "id": "1523805004385058816",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 23,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "Had a great time at @SeaAirSpace discussing how to advance the U.S. artificial intelligence strategy. Check out the panel session here to learn more: https://t.co/cPKjzQTHUr",
+      "url": "https://x.com/alexandr_wang/status/1523805004385058816"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1522023148958322688",
+      "created_at": "2022-05-05T01:19:31.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1522023148958322688"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 30,
+            "id": "17482791",
+            "start": 20,
+            "username": "ivanhzhao"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Why the wrong thing happens",
+            "display_url": "alexw.substack.com/p/information-…",
+            "end": 279,
+            "expanded_url": "https://alexw.substack.com/p/information-compression",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2113037258991288320/tEK_V96o?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2113037258991288320/tEK_V96o?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 256,
+            "status": 200,
+            "title": "Information Compression",
+            "unwound_url": "https://alexw.substack.com/p/information-compression",
+            "url": "https://t.co/zF3Y4Mz80Y"
+          }
+        ]
+      },
+      "id": "1522023148958322688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 27,
+        "impression_count": 0,
+        "like_count": 62,
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 5
+      },
+      "text": "Two founders (incl. @ivanhzhao who I deeply respect) told me yesterday they really loved one of my articles &amp; was relevant to their current semi-remote contexts.\n\nWarms my heart! This is why I write!\n\nResharing now in 2022 in case relevant to others!\n\nhttps://t.co/zF3Y4Mz80Y",
+      "url": "https://x.com/alexandr_wang/status/1522023148958322688"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1523805004385058816",
+    "next_token": "b26v89c19zqg8o3fpywlmpjgquq919lhgm84kehu6556l",
+    "oldest_id": "1522023148958322688",
+    "result_count": 2
+  },
+  "errors": []
+}

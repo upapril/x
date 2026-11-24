@@ -17,8 +17,16 @@ from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-HANDLES = ("alexandr_wang", "iiiinvest", "silverfang88")
-EXPECTED_POSTS = {"alexandr_wang": 788, "iiiinvest": 736, "silverfang88": 6576}
+HANDLES = ("alexandr_wang", "iiiinvest", "silverfang88", "taresky", "thankUcrypto")
+EXPECTED_POSTS = {
+    "alexandr_wang": 1873,
+    "iiiinvest": 3856,
+    "silverfang88": 9239,
+    "taresky": 224,
+    "thankUcrypto": 178,
+}
+URL_LINE_RE = re.compile(r"^- URL: https://x\.com/\S+/status/(\d+)\s*$", re.M)
+INDEX_LINE_RE = re.compile(r"^- `(\d+)` \|", re.M)
 SHANGHAI = ZoneInfo("Asia/Shanghai")
 STATUS_RE = re.compile(r"https://x\.com/(?:[A-Za-z0-9_]+/status|i/status)/(\d+)")
 YEAR_ROW_RE = re.compile(r"^\|\s*(\d{4})\s*\|\s*(\d+)\s*\|")
@@ -42,6 +50,9 @@ REQUIRED_TEXT = (
     ("silverfang88", "1609058637267492865", "提笔想写一个一年的总结"),
     ("silverfang88", "2109440726865985560", "这场AI游戏至少还要持续一年以上"),
     ("silverfang88", "1740688880007831938", "永远只玩下一个新的故事"),
+    ("taresky", "1608095146834563072", "只套利，不承担风险敞口"),
+    ("thankUcrypto", "2125155429512855651", "什么条件开"),
+    ("thankUcrypto", "2125183975757119963", "马丁一直加仓"),
 )
 
 # First-pass ids that the expanded store must still contain.
@@ -223,9 +234,9 @@ def validate(root: Path | None = None) -> dict:
         seen_years: set[str] = set()
         for path in sorted((hdir / "archives").glob("*.md")):
             year = path.stem
-            file_ids = status_ids(path.read_text(encoding="utf-8"))
+            file_ids = URL_LINE_RE.findall(path.read_text(encoding="utf-8"))
             if len(file_ids) != len(set(file_ids)):
-                errors.append(f"{handle}: duplicate ids in archives/{year}.md")
+                errors.append(f"{handle}: duplicate URL entries in archives/{year}.md")
             times = []
             for pid in file_ids:
                 post = by_id.get(pid)
@@ -249,7 +260,7 @@ def validate(root: Path | None = None) -> dict:
         if marker not in chrono:
             errors.append(f"{handle}: chronological archive has no compact index")
         else:
-            index_ids = status_ids(chrono.split(marker, 1)[1])
+            index_ids = INDEX_LINE_RE.findall(chrono.split(marker, 1)[1])
             if index_ids != list(dict.fromkeys(index_ids)):
                 errors.append(f"{handle}: compact index repeats an id")
             if set(index_ids) != id_set:
@@ -273,13 +284,14 @@ def validate(root: Path | None = None) -> dict:
             if request:
                 request_pages += 1
                 query = request.get("query") or ""
-                if not str(query).startswith(f"from:{handle}"):
-                    errors.append(f"{handle}: {path.name} query is not from:{handle}")
+                if str(query).startswith("from:"):
+                    if not str(query).startswith(f"from:{handle}"):
+                        errors.append(f"{handle}: {path.name} query is not from:{handle}")
+                    for key in ("start_time", "end_time", "window_label"):
+                        if not request.get(key):
+                            errors.append(f"{handle}: {path.name} request missing {key}")
                 if request.get("input_token") not in (None, "") and not isinstance(request.get("input_token"), str):
                     errors.append(f"{handle}: {path.name} input_token is not a string")
-                for key in ("start_time", "end_time", "window_label"):
-                    if not request.get(key):
-                        errors.append(f"{handle}: {path.name} request missing {key}")
         if id_set - raw_ids - pinned_ids:
             errors.append(f"{handle}: posts missing from raw pages and pinned file")
         if request_pages == 0:
@@ -315,7 +327,7 @@ def validate(root: Path | None = None) -> dict:
     if "809675263590961152" in wang_analysis and "absent" not in wang_analysis:
         errors.append("analysis mentions the absent Slack id without saying it is absent")
     sources = (root / "public_sources_wang.md").read_text(encoding="utf-8")
-    if "does **not** contain" not in sources or "June 2025" not in sources:
+    if "HTML captured here" not in sources or "June 2025" not in sources:
         errors.append("public_sources_wang.md does not record the Meta HTML limit")
     insights = (root / "INSIGHTS.md").read_text(encoding="utf-8")
     if "first CAIO" in insights:
@@ -327,15 +339,17 @@ def validate(root: Path | None = None) -> dict:
         text = comparison.read_text(encoding="utf-8")
         if "Never average down" not in text or "越跌越买" not in text:
             errors.append("comparison does not keep the average-down conflict explicit")
-        if "8,100" not in text:
-            errors.append("comparison does not state the expanded total")
+        if "15,370" not in text:
+            errors.append("comparison does not state the day-1 total")
+        if "只套利" not in text or "什么条件开" not in text:
+            errors.append("comparison does not ground taresky and thankUcrypto in their stated lines")
     for name in ("INSIGHTS.md", "METHODOLOGY.md", "public_sources_wang.md", "FINANCE_SKILLS_COMPARISON.md", "README.md"):
         missing = [i for i in status_ids((root / name).read_text(encoding="utf-8")) if i not in by_all]
         if missing:
             errors.append(f"{name} cites missing ids {missing[:8]}")
 
-    if summary["total_posts"] != 8100:
-        errors.append(f"total posts {summary['total_posts']} != 8100")
+    if summary["total_posts"] != 15370:
+        errors.append(f"total posts {summary['total_posts']} != 15370")
     return {"ok": not errors, "error_count": len(errors), "errors": errors, "summary": summary}
 
 

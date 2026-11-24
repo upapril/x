@@ -9,11 +9,13 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-HANDLES = ["alexandr_wang", "iiiinvest", "silverfang88"]
+HANDLES = ["alexandr_wang", "iiiinvest", "silverfang88", "taresky", "thankUcrypto"]
 PROFILE_COUNTS = {
     "alexandr_wang": {"user_id": "615818451", "post_count_at_lookup": 3762, "display": "Alexandr Wang"},
     "iiiinvest": {"user_id": "1589763597705437184", "post_count_at_lookup": 4858, "display": "电鱼哥"},
     "silverfang88": {"user_id": "1435990322702520320", "post_count_at_lookup": 19982, "display": "子时"},
+    "taresky": {"user_id": "368245720", "post_count_at_lookup": 34003, "display": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆"},
+    "thankUcrypto": {"user_id": "705564530936418304", "post_count_at_lookup": 8097, "display": "allincrypto 熬鹰资本"},
 }
 SH = timezone(timedelta(hours=8))
 
@@ -177,19 +179,31 @@ def write_manifest(handle, posts, stats, jobdoc, packed_at):
     notes = {
         "alexandr_wang": [
             "2012–2014 is `not_proven_exhausted`: a first-pass search from account creation through 2015-01-01 returned one post, and a later empty page was treated as exhausted, but the input token for that empty page was not saved. Do not treat this as proven silence or proven complete retrieval.",
-            "2015-01 through 2016-11 and 2017-01 monthly windows were exhausted in the expand pass (many early-2015 months were empty or first-pass duplicates, with stored input tokens on later pages). 2016-12 and 2017-02/03/04 remain open with next_tokens.",
-            "Most of 2017-05 through late 2026 monthly windows were never opened in the expand pass. Posts in those years often come from first-pass recency-biased year/quarter windows (typically ~25 posts near a year-end) plus recent timeline pages. Year counts that sit near 25 are a sampling artifact, not proof of low activity.",
+            "2015-01 through 2016-11 and 2017-01 monthly windows were exhausted in earlier passes. 2016-12 and 2017-02/03/04 remain open with next_tokens.",
+            "2021-03 through 2021-01 and 2020-12 through 2020-01 are now exhausted (empty later pages or completed first+later pages). Most 2019 months are exhausted; 2019-08 remains open. 2018-11 and 2018-12 are exhausted (later empty pages after first-page mixes). 2018-01 through 2018-10 remain open after first pages.",
+            "2024–2026 monthly windows were still mostly never opened as expand jobs; posts in those years often come from first-pass recency-biased samples plus recent timeline pages. Year counts near 25 can be a sampling artifact.",
         ],
         "iiiinvest": [
-            "2022-11 was walked deeply (many pages) and is exhausted with stored later-page provenance. 2022-12 and 2023-01 through 2024-02 plus 2024-05 were exhausted; many of those later months added 0–few new posts because first-pass year-end samples already contained the only hits those first pages returned.",
-            "2024-03 and 2024-04 are open: first pages were first-pass duplicates (`posts_added=0`) but still returned a next_token.",
-            "2024-06 onward (including most of 2025–2026) remains pending. 2025–2026 posts in the store are mostly first-pass / recent-timeline samples, not monthly-exhausted coverage.",
+            "2022-11 was walked deeply and is exhausted. Several 2023–2025 months (including 2025-09 through 2025-12, and 2025-08 whose first page was empty) are exhausted or empty; 2025-01 through 2025-07 remain pending.",
+            "2026-11, 2026-10, 2026-06, 2026-05, 2026-04, 2026-03, 2026-02, and 2026-01 are exhausted. 2026-07 and 2026-09 remain open with next_tokens. Parent `2026-08` is pagination_stalled; continue only via subwindow `2026-08-01to27`, which is still open.",
+            "2024-03 and 2024-04 remain open (first pages were largely first-pass duplicates but still returned a next_token). 2026 is now the deepest year in the store; earlier years are not comparably deep.",
         ],
         "silverfang88": [
-            "2021-09 through 2023-12 is largely exhausted at monthly granularity, with one exception: original 2023-09 `pagination_stalled` (output token identical to input `b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp` on a duplicate page spanning 2023-09-14T03:35:08Z–2023-09-15T05:50:57Z). The token was not reused. The earlier remainder was opened as `2023-09-01to14` (`end_time=2023-09-14T03:35:08Z`) and exhausted with stored provenance. Combined September 2023 coverage is therefore: stalled later segment plus exhausted earlier subwindow — not a clean monthly exhaustion.",
-            "Some early 2021-09/10/11 exhaustions occurred before input-token provenance was added to the ingest path, so those exhaustions are weaker than later ones.",
-            "2024-01, 2024-02, and 2024-04 are exhausted. 2024-03 and 2024-05 through 2024-09 remain open with next_tokens (2024-03 is the deepest open window, 10 pages / +248).",
-            "2024-10 through most of 2025 and 2026 monthly windows were never opened, except an open slice `2026-11-01to08`. The stored 2025 count is only a thin first-pass year-end sample; do not interpret 2025 as a quiet year.",
+            "2021-09 through 2023-12 is largely exhausted at monthly granularity, with one exception: original 2023-09 `pagination_stalled` (token `b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp`). Do not reuse that token. Earlier subwindow `2023-09-01to14` is exhausted.",
+            "Some early 2021-09/10/11 exhaustions occurred before input-token provenance was added, so those exhaustions are weaker than later ones.",
+            "2024-01, 2024-02, and 2024-04 are exhausted. 2024-03 and 2024-05 through 2024-09 remain open with next_tokens. 2024-10 through 2024-12 may still be pending.",
+            "2025-12, 2025-11, 2025-10, 2025-09, and 2025-08 are exhausted. 2025-07, 2025-06, and 2025-05 remain open. 2025-01 through 2025-04 are pending. 2026-11-08to25, 2026-11-01to08, 2026-10, 2026-09, 2026-08, 2026-06, and subwindow 2026-07-01to26 are exhausted. Parent `2026-07` is pagination_stalled (do not reuse). Do not open pending label 2026-11 (overlaps exhausted subwindows).",
+            "Stored 2025/2026 counts are much larger than the first-pass year-end samples, but the history is still not complete versus profile post_count.",
+        ],
+        "taresky": [
+            "Day-1 collection is an initial sample only: public profile, one recent get_users_posts page, first pages of representative dated windows (2026-11, 2026-10, 2026-06, 2025-12, 2025-06, 2024-12, 2022-12, 2021-01, 2016-12), and the pinned post via get_posts_by_ids after an expansion 404. 224 unique posts stored versus profile post_count 34,003 at lookup. This is not a complete history and is recency/year-end biased in unpaged months.",
+            "Every dated window opened on day 1 still has a next_token (status=open) except the single-id pinned fetch (exhausted). 2018-12 was not searched. Unstarted years include 2011-09 (account creation) through 2015, most of 2016–2020, and most months of 2021–2026 not listed above.",
+            "Do not treat year counts of 25 as low activity. Do not infer a legal name. Bio text '套利 1~100x | 2021~2025.6' is profile wording, not a verified track record.",
+        ],
+        "thankUcrypto": [
+            "Day-1 collection is an initial sample only: public profile, one recent get_users_posts page, first pages of representative dated windows (2026-11, 2026-10, 2026-06, 2025-12, 2025-06, 2024-12, 2023-12, 2022-12, 2018-12), and the pinned post via get_posts_by_ids after an expansion 404. 178 unique posts stored versus profile post_count 8,097 at lookup. Explicitly partial.",
+            "2018-12 first page was empty with no next_token (exhausted for that month only — not proof the account was inactive in 2018). 2022-12 returned 2 posts but still has a next_token (open). A 2025-06 post says the author shared on Weibo from 2022-24 and '25年才转的推'; that is self-description, not a coverage proof. Pre-2025 X months remain mostly unsampled.",
+            "Self-reported P&L, livestream-challenge totals, and copy-trading figures in posts are unverified. Do not infer a legal name from the display name 'allincrypto 熬鹰资本'.",
         ],
     }
 
@@ -239,7 +253,7 @@ def write_manifest(handle, posts, stats, jobdoc, packed_at):
         "pending_window_labels": [j["label"] for j in pending],
         "exhausted_window_labels": [j["label"] for j in exhausted],
         "coverage_notes": notes[handle],
-        "stopping_reason": "Collection paused to prioritize evidence-grounded analysis and packaging. Daily X-read budget was not exhausted. Open and pending windows remain. This package is not a complete tweet archive.",
+        "stopping_reason": "Day-1 close 2026-11-24 (Asia/Shanghai). After continuing the original three handles, 22 public reads were allocated to newly added @taresky and @thankUcrypto. Authoritative footer after the last ingested X call: 'X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).' Daily reset 2026-11-25T00:00:00.000Z = 2026-11-25 08:00 Asia/Shanghai. 61 remaining was left above a ~40 floor for other tasks. Coverage is explicitly partial. Resume from logs/remaining_jobs_day1.json. Do not reopen exhausted or stalled-parent windows. This package is not a complete tweet archive.",
         "claim_all_tweets": False,
     }
     (ROOT / handle / "coverage_manifest.json").write_text(
@@ -374,7 +388,7 @@ def main():
             h: [j["label"] for j in jobdoc["jobs"] if j["handle"] == h and j["status"] == "pending"]
             for h in HANDLES
         },
-        "stall_note": "silverfang88 2023-09 pagination_stalled on token b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp; do not reuse that token. Earlier subwindow 2023-09-01to14 is exhausted.",
+        "stall_note": "Never reuse stalled tokens: silverfang88 2023-09 b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp (earlier 2023-09-01to14 exhausted); silverfang88 2026-07 b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp (continue only via exhausted 2026-07-01to26 — remaining 2026-07-26to31 not separately opened); iiiinvest 2026-08 tokens including b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp (continue only via open 2026-08-01to27). alexandr_wang 2012-2014 is not_proven_exhausted (empty-page input token not saved).",
     }
     (ROOT / "logs" / "RESUME_OPEN_JOBS.json").write_text(
         json.dumps(resume, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
@@ -382,9 +396,11 @@ def main():
 
     summary = {
         "packaged_at_shanghai": packed_at,
-        "pass": "expanded-plus-insights",
+        "pass": "day1-final-five-handles",
         "claim_complete_retrieval": False,
-        "stopping_reason": "Parent/user instruction to prioritize rigorous insight and packaging over further crawl while time was tight. Daily X-read budget was not exhausted; open and pending windows remain in logs/RESUME_OPEN_JOBS.json and each coverage_manifest.",
+        "day1_authoritative_footer": "X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).",
+        "day1_daily_remaining": 61,
+        "stopping_reason": "Day-1 close 2026-11-24. 22 public reads allocated to newly added @taresky and @thankUcrypto after the original three were checkpointed at 83 remaining. Footer after last ingested call: 61 of 1000 today, reset 2026-11-25T00:00:00.000Z = 2026-11-25 08:00 Asia/Shanghai. Coverage explicitly partial. Resume from logs/remaining_jobs_day1.json. Prior zips were not modified.",
         "tools": "Built-in x MCP public reads only (get_users_by_usernames, get_users_posts, search_posts_all, get_posts_by_ids).",
         "firstpass_zip": {
             "path": "/workspace/x-research-firstpass.zip",
@@ -406,7 +422,7 @@ def main():
 
 ## Stopping reason
 
-Collection was **paused**, not completed. The user follow-up asked for operating/decision frameworks and useful trader insight, and the parent instruction was: if budget/time is tight, prioritize rigorous insight and packaging over endless crawl. Daily X-read budget was **not** exhausted. A later pass can resume from `logs/RESUME_OPEN_JOBS.json` and `logs/expand_jobs.json`.
+Day-1 collection was **stopped with remaining budget**, not completed. Authoritative footer after the last ingested X call: **61 of 1000 today**, reset `2026-11-25T00:00:00.000Z` = **2026-11-25 08:00:00 GMT+8**. Two accounts (@taresky, @thankUcrypto) were added late on day 1 and have only an initial public sample. Resume from `logs/remaining_jobs_day1.json`, `logs/RESUME_OPEN_JOBS.json`, and `logs/expand_jobs.json`. Do not reopen exhausted or stalled-parent windows.
 
 Do **not** claim all tweets were retrieved. Profile `post_count` is not a missing-count proof.
 
@@ -431,11 +447,15 @@ Year breakdowns and open tokens are in each account's `coverage_manifest.md` / `
 - Daily remaining at the expand probe (early in the pass): {jobdoc.get('daily_reads_remaining_at_probe')} of 1000
 - Daily reset: `2026-11-25T00:00:00.000Z` = **2026-11-25 08:00:00 GMT+8** (Asia/Shanghai)
 - Intended reserve: 75 reads
-- Exact remaining at packaging time was **not** re-probed; use the next live tool footer.
+- Authoritative day-1 footer (last ingested X call): 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), **61 of 1000 today** (resets at 2026-11-25T00:00:00.000Z).
+- Remaining 61 was left above a ~40 floor for other tasks after 22 reads for the two new handles.
 
-## Immutable first-pass zip
+## Immutable prior zips (do not modify)
 
-`/workspace/x-research-firstpass.zip` SHA256 `455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976` — do not modify.
+- `/workspace/x-research-firstpass.zip` SHA256 `455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976`
+- `/workspace/x-research-expanded.zip` SHA256 `d601957063b3610067d2dafd6cab0a6effb63e771bd642df57233b5e44fee6c7`
+- `/workspace/x-research-latest.zip` SHA256 `1ab3fc4aaee8667c42d833543a85f86f54ff9dabe165f6305d56769aed4d8e58` (8.75 MB, 9,435 posts, packaged 2026-11-24 20:01 GMT+8)
+
 """
     (ROOT / "logs" / "EXPAND_STATUS.md").write_text(status, encoding="utf-8")
     print("packaged_at", packed_at)

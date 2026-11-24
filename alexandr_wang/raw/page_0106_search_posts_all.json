@@ -1,0 +1,71 @@
+{
+  "collected_at_utc": "2026-11-24T12:05:04Z",
+  "collected_at_shanghai": "2026-11-24T20:05:04+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86Q33B9CY9XFCP34TBABXGA.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2023-03-01T00:00:00Z",
+    "end_time": "2023-04-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqk9zbh04yh25d6f5l03ds9wvggx31",
+    "window_label": "2023-03"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2023-03-02T04:32:28.000Z",
+      "edit_history_tweet_ids": [
+        "1631150455438073857"
+      ],
+      "id": "1631150455438073857",
+      "public_metrics": {
+        "bookmark_count": 114,
+        "impression_count": 36780,
+        "like_count": 438,
+        "quote_count": 5,
+        "reply_count": 7,
+        "retweet_count": 59
+      },
+      "text": "ask yourself every day:\n\nwhat was the most impressive thing I saw someone do today?\n\nwhat can I learn from that?\n\nyou level up pretty quickly",
+      "url": "https://x.com/alexandr_wang/status/1631150455438073857"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2023-03-01T01:58:46.000Z",
+      "edit_history_tweet_ids": [
+        "1630749385800704000"
+      ],
+      "id": "1630749385800704000",
+      "public_metrics": {
+        "bookmark_count": 86,
+        "impression_count": 77068,
+        "like_count": 506,
+        "quote_count": 4,
+        "reply_count": 20,
+        "retweet_count": 38
+      },
+      "text": "the top thing I look for in people:\n\nare you a fighter?\n\ndo you keep fighting even the most daunting circumstances?\n\nthose who have given up in the past are likely to give up again\n\nfigures are rare &amp; disproportionately winners—maybe not every fight, but in the long run",
+      "url": "https://x.com/alexandr_wang/status/1630749385800704000"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1631150455438073857",
+    "next_token": "b26v89c19zqg8o3fqk9ywhsolynum44f1b1pn8cpaihz1",
+    "oldest_id": "1630749385800704000",
+    "result_count": 2
+  },
+  "errors": []
+}

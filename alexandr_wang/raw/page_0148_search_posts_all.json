@@ -1,0 +1,1429 @@
+{
+  "collected_at_utc": "2026-11-24T12:21:56Z",
+  "collected_at_shanghai": "2026-11-24T20:21:56+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R26AFR13NGNS7MRCVA0VP.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2021-07-01T00:00:00Z",
+    "end_time": "2021-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2021-07"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1417972676329578497",
+      "created_at": "2021-07-21T22:20:05.000Z",
+      "display_text_range": [
+        0,
+        53
+      ],
+      "edit_history_tweet_ids": [
+        "1417972676329578497"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 28,
+            "id": "93957809",
+            "start": 16,
+            "username": "ericschmidt"
+          },
+          {
+            "end": 41,
+            "id": "752712449321644032",
+            "start": 32,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/scale_AI/statu…",
+            "end": 77,
+            "expanded_url": "https://twitter.com/scale_AI/status/1417972004179767296",
+            "start": 54,
+            "url": "https://t.co/tPQW7IDfHh"
+          }
+        ]
+      },
+      "id": "1417972676329578497",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1417972004179767296",
+          "type": "quoted"
+        }
+      ],
+      "text": "Psyched to have @ericschmidt at @scale_AI TransformX! https://t.co/tPQW7IDfHh",
+      "url": "https://x.com/alexandr_wang/status/1417972676329578497"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1417932963270905858",
+      "created_at": "2021-07-21T19:42:17.000Z",
+      "display_text_range": [
+        0,
+        57
+      ],
+      "edit_history_tweet_ids": [
+        "1417932965829517313"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/blog/introduci…",
+            "end": 57,
+            "expanded_url": "https://scale.com/blog/introducing-rapid",
+            "start": 34,
+            "status": 404,
+            "unwound_url": "https://scale.com/blog/introducing-rapid",
+            "url": "https://t.co/YHdUPujx3E"
+          }
+        ]
+      },
+      "id": "1417932965829517313",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1417932963270905858",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Read more on our blog post here:\n\nhttps://t.co/YHdUPujx3E",
+      "url": "https://x.com/alexandr_wang/status/1417932965829517313"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1417932722467577859"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1417932963270905858",
+      "created_at": "2021-07-21T19:42:17.000Z",
+      "display_text_range": [
+        0,
+        266
+      ],
+      "edit_history_tweet_ids": [
+        "1417932963270905858"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/AMqVZNiS6d",
+            "end": 290,
+            "expanded_url": "https://x.com/alexandr_wang/status/1417932963270905858/video/1",
+            "media_key": "7_1417932722467577859",
+            "start": 267,
+            "url": "https://t.co/AMqVZNiS6d"
+          }
+        ]
+      },
+      "id": "1417932963270905858",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 0,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "text": "⚡️Announcing Scale Rapid—never wait for labels again⚡️\n\nWe've launched the fastest way to get labels for your ML project. The best teams know that the faster they can iterate on the data, the better their models.\n\nWe believe this will change data-centric ML forever. https://t.co/AMqVZNiS6d",
+      "url": "https://x.com/alexandr_wang/status/1417932963270905858"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1415429043608965122",
+      "created_at": "2021-07-14T21:52:36.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1415429043608965122"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 106,
+            "id": "33612317",
+            "start": 95,
+            "username": "salesforce"
+          }
+        ]
+      },
+      "id": "1415429043608965122",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1415428507383996419",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: ⭐️ TransformX Conference Speaker Highlight ⭐️\n\nBret Taylor, President and COO at @salesforce will speak at TransformX on Oct.…",
+      "url": "https://x.com/alexandr_wang/status/1415429043608965122"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1415100989846147074",
+      "created_at": "2021-07-14T00:09:01.000Z",
+      "display_text_range": [
+        0,
+        250
+      ],
+      "edit_history_tweet_ids": [
+        "1415100989846147074"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 141,
+            "id": "93957809",
+            "start": 129,
+            "username": "EricSchmidt"
+          },
+          {
+            "end": 159,
+            "id": "1174014213309837312",
+            "start": 146,
+            "username": "AICommission"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/AiCommission/s…",
+            "end": 274,
+            "expanded_url": "https://twitter.com/AiCommission/status/1415069399661285377",
+            "start": 251,
+            "url": "https://t.co/W6FgYEGSnw"
+          }
+        ]
+      },
+      "id": "1415100989846147074",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1415069399661285377",
+          "type": "quoted"
+        }
+      ],
+      "text": "It's critical for tech companies to partner with the U.S. government to ensure AI readiness across agencies. Enjoyed hearing how @EricSchmidt and @AICommission are working to advance the future of federal technology and win the global AI competition. https://t.co/W6FgYEGSnw",
+      "url": "https://x.com/alexandr_wang/status/1415100989846147074"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1414592609935249413",
+      "created_at": "2021-07-12T14:28:54.000Z",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "edit_history_tweet_ids": [
+        "1414592609935249413"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 24,
+            "id": "752712449321644032",
+            "start": 15,
+            "username": "scale_AI"
+          },
+          {
+            "end": 36,
+            "id": "3108351",
+            "start": 32,
+            "username": "WSJ"
+          },
+          {
+            "end": 177,
+            "id": "752712449321644032",
+            "start": 168,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "wsj.com/articles/scale…",
+            "end": 277,
+            "expanded_url": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+            "start": 254,
+            "status": 200,
+            "unwound_url": "https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201",
+            "url": "https://t.co/VnSgbM8oQ9"
+          }
+        ]
+      },
+      "id": "1414592609935249413",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 0,
+        "like_count": 381,
+        "quote_count": 2,
+        "reply_count": 26,
+        "retweet_count": 37
+      },
+      "text": "Great story on @scale_AI in the @WSJ.\n\n“Business data has been around for decades, but AI goes one step beyond showing you a chart, it offers an answer.”\n\nProud of the @scale_AI team in building the foundation for our AI future, starting with the data.\n\nhttps://t.co/VnSgbM8oQ9",
+      "url": "https://x.com/alexandr_wang/status/1414592609935249413"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1414577621934002178",
+      "created_at": "2021-07-12T13:29:21.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1414577621934002178"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 70,
+            "id": "130745589",
+            "start": 61,
+            "username": "drfeifei"
+          }
+        ]
+      },
+      "id": "1414577621934002178",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1412807371609579528",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: ⭐️ TransformX Conference Speaker Highlight ⭐️\n\n@drfeifei Sequoia Professor of Computer Science at Stanford University will sp…",
+      "url": "https://x.com/alexandr_wang/status/1414577621934002178"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1414321706991177731",
+      "created_at": "2021-07-11T20:32:26.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1414321706991177731"
+      ],
+      "id": "1414321706991177731",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 44,
+        "impression_count": 0,
+        "like_count": 591,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 24
+      },
+      "text": "Unexpectedly good interaction:\n\nAirTag on checked luggage\n\n- can track to make sure it made it through each connection to destination\n- at baggage claim, can track to know when it’s on/near carousel\n- get led directly to your baggage once it’s close enough\n\n10/10 would recommend",
+      "url": "https://x.com/alexandr_wang/status/1414321706991177731"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:09.000Z",
+      "display_text_range": [
+        0,
+        120
+      ],
+      "edit_history_tweet_ids": [
+        "1413519351039160323"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "How to not suck when you get big",
+            "display_url": "alexw.substack.com/p/active-vs-la…",
+            "end": 120,
+            "expanded_url": "https://alexw.substack.com/p/active-vs-lazy-thinking",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2104313182282207232/upeTTZ5v?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2104313182282207232/upeTTZ5v?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 97,
+            "status": 200,
+            "title": "Active vs. Lazy Thinking",
+            "unwound_url": "https://alexw.substack.com/p/active-vs-lazy-thinking",
+            "url": "https://t.co/tHkgrKD1sm"
+          }
+        ]
+      },
+      "id": "1413519351039160323",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1413519349160189955",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Check out the article for more context as to how this manifests—the Archetypes of Lazy Thinking\n\nhttps://t.co/tHkgrKD1sm",
+      "url": "https://x.com/alexandr_wang/status/1413519351039160323"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:09.000Z",
+      "display_text_range": [
+        0,
+        268
+      ],
+      "edit_history_tweet_ids": [
+        "1413519349160189955"
+      ],
+      "id": "1413519349160189955",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1413519347306299392",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Science is active thinking. There is a reason why most human progress and quality of life improvement is derived through the scientific method.\n\nIn the fullness of time, lazy thinking will always lead you to be wrong, whereas active thinking will lead you to be right.",
+      "url": "https://x.com/alexandr_wang/status/1413519349160189955"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:08.000Z",
+      "display_text_range": [
+        0,
+        161
+      ],
+      "edit_history_tweet_ids": [
+        "1413519347306299392"
+      ],
+      "id": "1413519347306299392",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1413519345427173377",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The antidote to failure is active thinking.\n\nForce yourself to think in clear, verifiable hypotheses, and obtain data that validates or refutes those hypotheses.",
+      "url": "https://x.com/alexandr_wang/status/1413519347306299392"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:08.000Z",
+      "display_text_range": [
+        0,
+        123
+      ],
+      "edit_history_tweet_ids": [
+        "1413519345427173377"
+      ],
+      "id": "1413519345427173377",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1413519343447539713",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The symptom of lazy thinking is repeated, chronic failure. In the laziest of thinking, you do not even realize the failure.",
+      "url": "https://x.com/alexandr_wang/status/1413519345427173377"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:08.000Z",
+      "display_text_range": [
+        0,
+        258
+      ],
+      "edit_history_tweet_ids": [
+        "1413519343447539713"
+      ],
+      "id": "1413519343447539713",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1413519341509742593",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Lazy thinking is making decisions through broad, imprecise beliefs which are either impossible to test, or one is too lazy to adjudicate.\n\nLazy thinking is assuming statements that are intuitive are true without properly assessing if data backs up the claim.",
+      "url": "https://x.com/alexandr_wang/status/1413519343447539713"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:07.000Z",
+      "display_text_range": [
+        0,
+        237
+      ],
+      "edit_history_tweet_ids": [
+        "1413519341509742593"
+      ],
+      "id": "1413519341509742593",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1413519339441967108",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Large organizations don’t start losing because they don’t want to win—they lose because they forget how to win.\n\nThey fail to translate their early success (which allows them to get big) to continued success due to rampant lazy thinking.",
+      "url": "https://x.com/alexandr_wang/status/1413519341509742593"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1413519339441967108",
+      "created_at": "2021-07-09T15:24:07.000Z",
+      "display_text_range": [
+        0,
+        201
+      ],
+      "edit_history_tweet_ids": [
+        "1413519339441967108"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 52,
+            "id": "752712449321644032",
+            "start": 43,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "How to not suck when you get big",
+            "display_url": "alexw.substack.com/p/active-vs-la…",
+            "end": 201,
+            "expanded_url": "https://alexw.substack.com/p/active-vs-lazy-thinking",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2104313182282207232/upeTTZ5v?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2104313182282207232/upeTTZ5v?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 178,
+            "status": 200,
+            "title": "Active vs. Lazy Thinking",
+            "unwound_url": "https://alexw.substack.com/p/active-vs-lazy-thinking",
+            "url": "https://t.co/tHkgrKD1sm"
+          }
+        ]
+      },
+      "id": "1413519339441967108",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 107,
+        "impression_count": 0,
+        "like_count": 184,
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 23
+      },
+      "text": "Today, I’m publishing a memo I sent to the @scale_AI team earlier this year:\n\nActive vs. Lazy Thinking, or How to not suck when you get big.\n\nThread below for a few key ideas 👇\n\nhttps://t.co/tHkgrKD1sm",
+      "url": "https://x.com/alexandr_wang/status/1413519339441967108"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1410622583041531911",
+      "created_at": "2021-07-01T15:33:26.000Z",
+      "display_text_range": [
+        0,
+        38
+      ],
+      "edit_history_tweet_ids": [
+        "1410622584475979786"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/events/transfo…",
+            "end": 38,
+            "expanded_url": "https://scale.com/events/transformx",
+            "start": 15,
+            "url": "https://t.co/pjVhTUlduK"
+          }
+        ]
+      },
+      "id": "1410622584475979786",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1410622583041531911",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Register here:\nhttps://t.co/pjVhTUlduK",
+      "url": "https://x.com/alexandr_wang/status/1410622584475979786"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1410620848587755521"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1410622583041531911",
+      "created_at": "2021-07-01T15:33:26.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1410622583041531911"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 20,
+            "id": "752712449321644032",
+            "start": 11,
+            "username": "scale_AI"
+          },
+          {
+            "end": 121,
+            "id": "93957809",
+            "start": 109,
+            "username": "ericschmidt"
+          },
+          {
+            "end": 149,
+            "id": "74916424",
+            "start": 138,
+            "username": "jeffweiner"
+          },
+          {
+            "end": 177,
+            "id": "130745589",
+            "start": 168,
+            "username": "drfeifei"
+          },
+          {
+            "end": 267,
+            "id": "1442906958",
+            "start": 253,
+            "username": "RichardSocher"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/ruGRkg0vJs",
+            "end": 303,
+            "expanded_url": "https://x.com/alexandr_wang/status/1410622583041531911/video/1",
+            "media_key": "7_1410620848587755521",
+            "start": 280,
+            "url": "https://t.co/ruGRkg0vJs"
+          }
+        ]
+      },
+      "id": "1410622583041531911",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 52,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 6
+      },
+      "text": "Announcing @scale_AI TransformX: our AI virtual conference on 10/6-7.\n\nWe have some great speakers lined up:\n@ericschmidt, fmr Google CEO\n@jeffweiner, fmr LinkedIn CEO\n@drfeifei, Prof @ Stanford\nJiajun Zhu, CEO of @nurobots\nJerry Yang, Yahoo co-founder\n@RichardSocher, CEO of You https://t.co/ruGRkg0vJs",
+      "url": "https://x.com/alexandr_wang/status/1410622583041531911"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "7_1417932722467577859",
+        "type": "video"
+      },
+      {
+        "media_key": "7_1410620848587755521",
+        "type": "video"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1417970457299460097"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1417972004179767296",
+        "created_at": "2021-07-21T22:17:25.000Z",
+        "display_text_range": [
+          0,
+          222
+        ],
+        "edit_history_tweet_ids": [
+          "1417972004179767296"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 222,
+              "start": 209,
+              "tag": "transformX21"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "93957809",
+              "start": 46,
+              "username": "ericschmidt"
+            },
+            {
+              "end": 89,
+              "id": "935152012576067585",
+              "start": 74,
+              "username": "SchmidtFutures"
+            },
+            {
+              "end": 115,
+              "id": "20536157",
+              "start": 108,
+              "username": "Google"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scl.ai/36VBE3r",
+              "end": 207,
+              "expanded_url": "https://scl.ai/36VBE3r",
+              "start": 184,
+              "url": "https://t.co/AuRJLVJpbC"
+            },
+            {
+              "display_url": "pic.x.com/qtOAlzzgMH",
+              "end": 246,
+              "expanded_url": "https://x.com/scale_AI/status/1417972004179767296/video/1",
+              "media_key": "7_1417970457299460097",
+              "start": 223,
+              "url": "https://t.co/qtOAlzzgMH"
+            }
+          ]
+        },
+        "id": "1417972004179767296",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "⭐️TransformX Conference Speaker Highlight ⭐️\n\n@ericschmidt, Co-Founder at @SchmidtFutures and Former CEO at @Google, will speak at TransformX on Oct. 6-7th.\n\nRegistration is now open. https://t.co/AuRJLVJpbC\n\n#transformX21 https://t.co/qtOAlzzgMH"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1417932722467577859"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1417932963270905858",
+        "created_at": "2021-07-21T19:42:17.000Z",
+        "display_text_range": [
+          0,
+          266
+        ],
+        "edit_history_tweet_ids": [
+          "1417932963270905858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMqVZNiS6d",
+              "end": 290,
+              "expanded_url": "https://x.com/alexandr_wang/status/1417932963270905858/video/1",
+              "media_key": "7_1417932722467577859",
+              "start": 267,
+              "url": "https://t.co/AMqVZNiS6d"
+            }
+          ]
+        },
+        "id": "1417932963270905858",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 0,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "text": "⚡️Announcing Scale Rapid—never wait for labels again⚡️\n\nWe've launched the fastest way to get labels for your ML project. The best teams know that the faster they can iterate on the data, the better their models.\n\nWe believe this will change data-centric ML forever. https://t.co/AMqVZNiS6d"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1415428146338299906"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1415428507383996419",
+        "created_at": "2021-07-14T21:50:28.000Z",
+        "display_text_range": [
+          0,
+          226
+        ],
+        "edit_history_tweet_ids": [
+          "1415428507383996419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 198,
+              "start": 185,
+              "tag": "transformX21"
+            },
+            {
+              "end": 222,
+              "start": 199,
+              "tag": "artificialintelligence"
+            },
+            {
+              "end": 226,
+              "start": 223,
+              "tag": "ai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 92,
+              "id": "33612317",
+              "start": 81,
+              "username": "salesforce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scl.ai/2UOMG7z",
+              "end": 183,
+              "expanded_url": "https://scl.ai/2UOMG7z",
+              "start": 160,
+              "url": "https://t.co/cNNmxWeZkk"
+            },
+            {
+              "display_url": "pic.x.com/jfEOolPaWd",
+              "end": 250,
+              "expanded_url": "https://x.com/scale_AI/status/1415428507383996419/video/1",
+              "media_key": "7_1415428146338299906",
+              "start": 227,
+              "url": "https://t.co/jfEOolPaWd"
+            }
+          ]
+        },
+        "id": "1415428507383996419",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "⭐️ TransformX Conference Speaker Highlight ⭐️\n\nBret Taylor, President and COO at @salesforce will speak at TransformX on Oct. 6-7th.\n\nRegistration is now open. https://t.co/cNNmxWeZkk\n\n#transformX21 #artificialintelligence #ai https://t.co/jfEOolPaWd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1415069346628612104"
+          ]
+        },
+        "author_id": "1174014213309837312",
+        "conversation_id": "1415069399661285377",
+        "created_at": "2021-07-13T22:03:30.000Z",
+        "display_text_range": [
+          0,
+          257
+        ],
+        "edit_history_tweet_ids": [
+          "1415069399661285377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "AI"
+            },
+            {
+              "end": 235,
+              "start": 229,
+              "tag": "NSCAI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 257,
+              "id": "93957809",
+              "start": 245,
+              "username": "EricSchmidt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KexZnokHm",
+              "end": 281,
+              "expanded_url": "https://x.com/AiCommission/status/1415069399661285377/photo/1",
+              "media_key": "3_1415069346628612104",
+              "start": 258,
+              "url": "https://t.co/6KexZnokHm"
+            }
+          ]
+        },
+        "id": "1415069399661285377",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "“We now know that the uses of #AI in all aspects of life will grow &amp; the pace of innovation will continue to accelerate… We need to do whatever it takes to maintain our leadership in the critical industries of the future.” - #NSCAI Chairman @EricSchmidt https://t.co/6KexZnokHm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1412807369936015362"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1412807371609579528",
+        "created_at": "2021-07-07T16:15:00.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_history_tweet_ids": [
+          "1412807371609579528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 225,
+              "start": 210,
+              "tag": "transformx2021"
+            },
+            {
+              "end": 249,
+              "start": 226,
+              "tag": "artificialintelligence"
+            },
+            {
+              "end": 253,
+              "start": 250,
+              "tag": "ai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 56,
+              "id": "130745589",
+              "start": 47,
+              "username": "drfeifei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scl.ai/3dUNs9V",
+              "end": 208,
+              "expanded_url": "https://scl.ai/3dUNs9V",
+              "start": 185,
+              "url": "https://t.co/LVbcjV1lCi"
+            },
+            {
+              "display_url": "pic.x.com/4sOddOSW7C",
+              "end": 277,
+              "expanded_url": "https://x.com/scale_AI/status/1412807371609579528/photo/1",
+              "media_key": "3_1412807369936015362",
+              "start": 254,
+              "url": "https://t.co/4sOddOSW7C"
+            }
+          ]
+        },
+        "id": "1412807371609579528",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "⭐️ TransformX Conference Speaker Highlight ⭐️\n\n@drfeifei Sequoia Professor of Computer Science at Stanford University will speak at TransformX on Oct. 6-7th.\n\nRegistration is now open. https://t.co/LVbcjV1lCi\n\n#transformx2021 #artificialintelligence #ai https://t.co/4sOddOSW7C"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1413519339441967108",
+        "created_at": "2021-07-09T15:24:09.000Z",
+        "display_text_range": [
+          0,
+          268
+        ],
+        "edit_history_tweet_ids": [
+          "1413519349160189955"
+        ],
+        "id": "1413519349160189955",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1413519347306299392",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Science is active thinking. There is a reason why most human progress and quality of life improvement is derived through the scientific method.\n\nIn the fullness of time, lazy thinking will always lead you to be wrong, whereas active thinking will lead you to be right."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1413519339441967108",
+        "created_at": "2021-07-09T15:24:08.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_history_tweet_ids": [
+          "1413519347306299392"
+        ],
+        "id": "1413519347306299392",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1413519345427173377",
+            "type": "replied_to"
+          }
+        ],
+        "text": "The antidote to failure is active thinking.\n\nForce yourself to think in clear, verifiable hypotheses, and obtain data that validates or refutes those hypotheses."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1413519339441967108",
+        "created_at": "2021-07-09T15:24:08.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_history_tweet_ids": [
+          "1413519345427173377"
+        ],
+        "id": "1413519345427173377",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1413519343447539713",
+            "type": "replied_to"
+          }
+        ],
+        "text": "The symptom of lazy thinking is repeated, chronic failure. In the laziest of thinking, you do not even realize the failure."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1413519339441967108",
+        "created_at": "2021-07-09T15:24:08.000Z",
+        "display_text_range": [
+          0,
+          258
+        ],
+        "edit_history_tweet_ids": [
+          "1413519343447539713"
+        ],
+        "id": "1413519343447539713",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1413519341509742593",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Lazy thinking is making decisions through broad, imprecise beliefs which are either impossible to test, or one is too lazy to adjudicate.\n\nLazy thinking is assuming statements that are intuitive are true without properly assessing if data backs up the claim."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1413519339441967108",
+        "created_at": "2021-07-09T15:24:07.000Z",
+        "display_text_range": [
+          0,
+          237
+        ],
+        "edit_history_tweet_ids": [
+          "1413519341509742593"
+        ],
+        "id": "1413519341509742593",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1413519339441967108",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Large organizations don’t start losing because they don’t want to win—they lose because they forget how to win.\n\nThey fail to translate their early success (which allows them to get big) to continued success due to rampant lazy thinking."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1413519339441967108",
+        "created_at": "2021-07-09T15:24:07.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "edit_history_tweet_ids": [
+          "1413519339441967108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "752712449321644032",
+              "start": 43,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "How to not suck when you get big",
+              "display_url": "alexw.substack.com/p/active-vs-la…",
+              "end": 201,
+              "expanded_url": "https://alexw.substack.com/p/active-vs-lazy-thinking",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2104313182282207232/upeTTZ5v?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2104313182282207232/upeTTZ5v?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 178,
+              "status": 200,
+              "title": "Active vs. Lazy Thinking",
+              "unwound_url": "https://alexw.substack.com/p/active-vs-lazy-thinking",
+              "url": "https://t.co/tHkgrKD1sm"
+            }
+          ]
+        },
+        "id": "1413519339441967108",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 0,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 23
+        },
+        "text": "Today, I’m publishing a memo I sent to the @scale_AI team earlier this year:\n\nActive vs. Lazy Thinking, or How to not suck when you get big.\n\nThread below for a few key ideas 👇\n\nhttps://t.co/tHkgrKD1sm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1410620848587755521"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1410622583041531911",
+        "created_at": "2021-07-01T15:33:26.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "1410622583041531911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "752712449321644032",
+              "start": 11,
+              "username": "scale_AI"
+            },
+            {
+              "end": 121,
+              "id": "93957809",
+              "start": 109,
+              "username": "ericschmidt"
+            },
+            {
+              "end": 149,
+              "id": "74916424",
+              "start": 138,
+              "username": "jeffweiner"
+            },
+            {
+              "end": 177,
+              "id": "130745589",
+              "start": 168,
+              "username": "drfeifei"
+            },
+            {
+              "end": 267,
+              "id": "1442906958",
+              "start": 253,
+              "username": "RichardSocher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruGRkg0vJs",
+              "end": 303,
+              "expanded_url": "https://x.com/alexandr_wang/status/1410622583041531911/video/1",
+              "media_key": "7_1410620848587755521",
+              "start": 280,
+              "url": "https://t.co/ruGRkg0vJs"
+            }
+          ]
+        },
+        "id": "1410622583041531911",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "text": "Announcing @scale_AI TransformX: our AI virtual conference on 10/6-7.\n\nWe have some great speakers lined up:\n@ericschmidt, fmr Google CEO\n@jeffweiner, fmr LinkedIn CEO\n@drfeifei, Prof @ Stanford\nJiajun Zhu, CEO of @nurobots\nJerry Yang, Yahoo co-founder\n@RichardSocher, CEO of You https://t.co/ruGRkg0vJs"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1417972676329578497",
+    "next_token": "b26v89c19zqg8o3fpdj6p2kixbfu79bcybhmyp0yo2we5",
+    "oldest_id": "1410622583041531911",
+    "result_count": 17
+  },
+  "errors": []
+}

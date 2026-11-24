@@ -1,0 +1,2840 @@
+{
+  "collected_at_utc": "2026-11-24T12:03:39Z",
+  "collected_at_shanghai": "2026-11-24T20:03:39+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86Q0HVK1CADPCC7D4RQ6Y29.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2023-01-01T00:00:00Z",
+    "end_time": "2023-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2023-01"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1620197157767884802",
+      "created_at": "2023-01-30T23:09:32.000Z",
+      "display_text_range": [
+        0,
+        99
+      ],
+      "edit_history_tweet_ids": [
+        "1620197552506408960"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "634708561",
+            "start": 5,
+            "username": "GuptaRK22"
+          }
+        ]
+      },
+      "id": "1620197552506408960",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10370,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1620197157767884802",
+          "type": "replied_to"
+        }
+      ],
+      "text": "(h/t @GuptaRK22, who I was chatting with as I had this realization, while HE was on Sand Hill Rd 😉)",
+      "url": "https://x.com/alexandr_wang/status/1620197552506408960"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1620197157767884802",
+      "created_at": "2023-01-30T23:07:58.000Z",
+      "display_text_range": [
+        0,
+        273
+      ],
+      "edit_history_tweet_ids": [
+        "1620197157767884802"
+      ],
+      "id": "1620197157767884802",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 62347,
+        "like_count": 166,
+        "quote_count": 2,
+        "reply_count": 15,
+        "retweet_count": 13
+      },
+      "text": "I just realized that it's been years since I've been to Sand Hill Road.\n\nMy last meeting there was in 2019.\n\nIt's an amusing duality:\n- SF is back\n- Sand Hill Rd is dead\n\nOverall representative of the gravity of builders—most VCs I know are launching primary offices in SF.",
+      "url": "https://x.com/alexandr_wang/status/1620197157767884802"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619902312436371456",
+      "created_at": "2023-01-30T03:36:22.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1619902312436371456"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Oppenheimer - Only In Theaters 7 21 23Written and directed by Chr...",
+            "display_url": "youtube.com/watch?v=bK6ldn…",
+            "end": 280,
+            "expanded_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2117924322543042560/ciOyTHlg?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2117924322543042560/ciOyTHlg?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 257,
+            "status": 200,
+            "title": "Oppenheimer | Official Trailer",
+            "unwound_url": "https://www.youtube.com/watch?v=bK6ldnjE3Y0",
+            "url": "https://t.co/APBQmOgk94"
+          }
+        ]
+      },
+      "id": "1619902312436371456",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 33989,
+        "like_count": 163,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 8
+      },
+      "text": "Christopher Nolan's new movie Oppenheimer is a biopic about the Manhattan Project, set in Los Alamos, New Mexico—where I grew up.\n\nIt is surreal how critical my small town of 13,000 was to the fate of the world.\n\nHard to not feel the same about AI today...\nhttps://t.co/APBQmOgk94",
+      "url": "https://x.com/alexandr_wang/status/1619902312436371456"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:59.000Z",
+      "display_text_range": [
+        0,
+        166
+      ],
+      "edit_history_tweet_ids": [
+        "1619893409342459904"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 72,
+            "id": "752712449321644032",
+            "start": 63,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1619893409342459904",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 13345,
+        "like_count": 50,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1619893406771339266",
+          "type": "replied_to"
+        }
+      ],
+      "text": "At any rate—this is the first of many things we'll be doing at @scale_AI to empower great products using Generative AI\n\nStay tuned, more to come... and keep building!",
+      "url": "https://x.com/alexandr_wang/status/1619893409342459904"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:58.000Z",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "1619893406771339266"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/0xtigs/status/…",
+            "end": 23,
+            "expanded_url": "https://x.com/0xtigs/status/1617048038316597249",
+            "start": 0,
+            "url": "https://t.co/7MTVWJlRvS"
+          }
+        ]
+      },
+      "id": "1619893406771339266",
+      "in_reply_to_user_id": "615818451",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 20122,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617048038316597249",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893405018112000",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/7MTVWJlRvS",
+      "url": "https://x.com/alexandr_wang/status/1619893406771339266"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:58.000Z",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "1619893405018112000"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/html5cat/statu…",
+            "end": 23,
+            "expanded_url": "https://x.com/html5cat/status/1616960329967374336",
+            "start": 0,
+            "url": "https://t.co/f2onduOC3x"
+          }
+        ]
+      },
+      "id": "1619893405018112000",
+      "in_reply_to_user_id": "615818451",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14137,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1616960329967374336",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893403550097411",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/f2onduOC3x",
+      "url": "https://x.com/alexandr_wang/status/1619893405018112000"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:58.000Z",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "1619893403550097411"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/shyamalanadkat…",
+            "end": 23,
+            "expanded_url": "https://x.com/shyamalanadkat/status/1616973447690874880",
+            "start": 0,
+            "url": "https://t.co/fG1kNFrPjo"
+          }
+        ]
+      },
+      "id": "1619893403550097411",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14998,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "https://t.co/fG1kNFrPjo",
+      "url": "https://x.com/alexandr_wang/status/1619893403550097411"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:57.000Z",
+      "display_text_range": [
+        0,
+        23
+      ],
+      "edit_history_tweet_ids": [
+        "1619893402342150145"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/vjkaruna/statu…",
+            "end": 23,
+            "expanded_url": "https://x.com/vjkaruna/status/1616975987937542144",
+            "start": 0,
+            "url": "https://t.co/zFWaLC5m0O"
+          }
+        ]
+      },
+      "id": "1619893402342150145",
+      "in_reply_to_user_id": "615818451",
+      "lang": "zxx",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 13630,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1616975987937542144",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893400496640005",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/zFWaLC5m0O",
+      "url": "https://x.com/alexandr_wang/status/1619893402342150145"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:57.000Z",
+      "display_text_range": [
+        0,
+        109
+      ],
+      "edit_history_tweet_ids": [
+        "1619893400496640005"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "752712449321644032",
+            "start": 37,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/DeveloperHarri…",
+            "end": 109,
+            "expanded_url": "https://x.com/DeveloperHarris/status/1616868673779826689",
+            "start": 86,
+            "url": "https://t.co/BgjsgGaJfZ"
+          }
+        ]
+      },
+      "id": "1619893400496640005",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 14674,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1616868673779826689",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893399120908288",
+          "type": "replied_to"
+        }
+      ],
+      "text": "And tons of fun photos of the humble @scale_AI offices packed with lovely hackers :)\n\nhttps://t.co/BgjsgGaJfZ",
+      "url": "https://x.com/alexandr_wang/status/1619893400496640005"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:57.000Z",
+      "display_text_range": [
+        0,
+        73
+      ],
+      "edit_history_tweet_ids": [
+        "1619893399120908288"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 48,
+            "id": "16535432",
+            "start": 39,
+            "username": "goodside"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 73,
+            "expanded_url": "https://x.com/russelljkaplan/status/1616908181124579328",
+            "start": 50,
+            "url": "https://t.co/9gXGy9yRKs"
+          }
+        ]
+      },
+      "id": "1619893399120908288",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 15429,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1616908181124579328",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893397837459456",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Also, Advanced Prompt Engineering with @goodside \nhttps://t.co/9gXGy9yRKs",
+      "url": "https://x.com/alexandr_wang/status/1619893399120908288"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:56.000Z",
+      "display_text_range": [
+        0,
+        96
+      ],
+      "edit_history_tweet_ids": [
+        "1619893397837459456"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 36,
+            "id": "1075605139",
+            "start": 21,
+            "username": "russelljkaplan"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 96,
+            "expanded_url": "https://x.com/russelljkaplan/status/1616955355220803584",
+            "start": 73,
+            "url": "https://t.co/VL4lja8zAJ"
+          }
+        ]
+      },
+      "id": "1619893397837459456",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 15709,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1616955355220803584",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893396126208000",
+          "type": "replied_to"
+        }
+      ],
+      "text": "(btw, meta thread by @russelljkaplan that I referenced quite frequently)\nhttps://t.co/VL4lja8zAJ",
+      "url": "https://x.com/alexandr_wang/status/1619893397837459456"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:56.000Z",
+      "display_text_range": [
+        0,
+        38
+      ],
+      "edit_history_tweet_ids": [
+        "1619893396126208000"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 38,
+            "expanded_url": "https://x.com/russelljkaplan/status/1616957750940176384",
+            "start": 15,
+            "url": "https://t.co/xHOm2QYFWE"
+          }
+        ]
+      },
+      "id": "1619893396126208000",
+      "lang": "es",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 18574,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "text": "Climate hacks—\nhttps://t.co/xHOm2QYFWE",
+      "url": "https://x.com/alexandr_wang/status/1619893396126208000"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:56.000Z",
+      "display_text_range": [
+        0,
+        81
+      ],
+      "edit_history_tweet_ids": [
+        "1619893394725302275"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 42,
+            "id": "1322297149887979520",
+            "start": 27,
+            "username": "0interestrates"
+          },
+          {
+            "end": 56,
+            "id": "16535432",
+            "start": 47,
+            "username": "goodside"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/nayakkayak/sta…",
+            "end": 81,
+            "expanded_url": "https://x.com/nayakkayak/status/1617009654466482177",
+            "start": 58,
+            "url": "https://t.co/ZSXhuDf0TY"
+          }
+        ]
+      },
+      "id": "1619893394725302275",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 18422,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617009654466482177",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893393475371010",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Local celebrity spottings, @0interestrates and @goodside \nhttps://t.co/ZSXhuDf0TY",
+      "url": "https://x.com/alexandr_wang/status/1619893394725302275"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:55.000Z",
+      "display_text_range": [
+        0,
+        44
+      ],
+      "edit_history_tweet_ids": [
+        "1619893393475371010"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 44,
+            "expanded_url": "https://x.com/russelljkaplan/status/1616965373118787587",
+            "start": 21,
+            "url": "https://t.co/8jjzYDJjbS"
+          }
+        ]
+      },
+      "id": "1619893393475371010",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16847,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1616965373118787587",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893391847981057",
+          "type": "replied_to"
+        }
+      ],
+      "text": "SMITTEN ICE CREAM 🍦🍨\nhttps://t.co/8jjzYDJjbS",
+      "url": "https://x.com/alexandr_wang/status/1619893393475371010"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:55.000Z",
+      "display_text_range": [
+        0,
+        133
+      ],
+      "edit_history_tweet_ids": [
+        "1619893391847981057"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/dmvaldman/stat…",
+            "end": 133,
+            "expanded_url": "https://x.com/dmvaldman/status/1617060459462656000",
+            "start": 110,
+            "url": "https://t.co/L6KHTeBvD3"
+          }
+        ]
+      },
+      "id": "1619893391847981057",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 17965,
+        "like_count": 33,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617060459462656000",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893390094782466",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Pierre Bhat, a prolific AI coder who roams GitHub resolving issues with PRs, starting with karpathy's nanoGPT\nhttps://t.co/L6KHTeBvD3",
+      "url": "https://x.com/alexandr_wang/status/1619893391847981057"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:55.000Z",
+      "display_text_range": [
+        0,
+        82
+      ],
+      "edit_history_tweet_ids": [
+        "1619893390094782466"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 82,
+            "expanded_url": "https://x.com/russelljkaplan/status/1617095578902724608",
+            "start": 59,
+            "url": "https://t.co/PrR9lL9wpR"
+          }
+        ]
+      },
+      "id": "1619893390094782466",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 18606,
+        "like_count": 54,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617095578902724608",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893388756791301",
+          "type": "replied_to"
+        }
+      ],
+      "text": "GPT-3 Auditor—scanning for code vulnerabilities using LLMs\nhttps://t.co/PrR9lL9wpR",
+      "url": "https://x.com/alexandr_wang/status/1619893390094782466"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:54.000Z",
+      "display_text_range": [
+        0,
+        62
+      ],
+      "edit_history_tweet_ids": [
+        "1619893388756791301"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 62,
+            "expanded_url": "https://x.com/russelljkaplan/status/1616955356189687810",
+            "start": 39,
+            "url": "https://t.co/pTH8eBokRN"
+          }
+        ]
+      },
+      "id": "1619893388756791301",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 20981,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "text": "Stable Diffusion enhanced Game of Life\nhttps://t.co/pTH8eBokRN",
+      "url": "https://x.com/alexandr_wang/status/1619893388756791301"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:54.000Z",
+      "display_text_range": [
+        0,
+        64
+      ],
+      "edit_history_tweet_ids": [
+        "1619893387360104451"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/mov_axbx/statu…",
+            "end": 64,
+            "expanded_url": "https://x.com/mov_axbx/status/1617079897696141312",
+            "start": 41,
+            "url": "https://t.co/2EWTRszzz9"
+          }
+        ]
+      },
+      "id": "1619893387360104451",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 23611,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617079897696141312",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893386059862016",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Voice assistant with knowledge retrieval\nhttps://t.co/2EWTRszzz9",
+      "url": "https://x.com/alexandr_wang/status/1619893387360104451"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:54.000Z",
+      "display_text_range": [
+        0,
+        56
+      ],
+      "edit_history_tweet_ids": [
+        "1619893386059862016"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/sjwhitmore/sta…",
+            "end": 56,
+            "expanded_url": "https://x.com/sjwhitmore/status/1617318050306588674",
+            "start": 33,
+            "url": "https://t.co/H2wLpQm7Gf"
+          }
+        ]
+      },
+      "id": "1619893386059862016",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 32380,
+        "like_count": 66,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617318050306588674",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893384776400896",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Long-term memory for AI chatbots\nhttps://t.co/H2wLpQm7Gf",
+      "url": "https://x.com/alexandr_wang/status/1619893386059862016"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:53.000Z",
+      "display_text_range": [
+        0,
+        117
+      ],
+      "edit_history_tweet_ids": [
+        "1619893384776400896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 66,
+            "id": "13235832",
+            "start": 54,
+            "username": "natfriedman"
+          },
+          {
+            "end": 91,
+            "id": "2042915350941949954",
+            "start": 79,
+            "username": "AdeptAILabs"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/he_yi_hui/stat…",
+            "end": 117,
+            "expanded_url": "https://x.com/he_yi_hui/status/1617328366876786688",
+            "start": 94,
+            "url": "https://t.co/WCmuFKB55f"
+          }
+        ]
+      },
+      "id": "1619893384776400896",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 30,
+        "impression_count": 34203,
+        "like_count": 75,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617328366876786688",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893382939283457",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Browser controller that generates Selenium—similar to @natfriedman's natbot or @AdeptAILabs \n\nhttps://t.co/WCmuFKB55f",
+      "url": "https://x.com/alexandr_wang/status/1619893384776400896"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:53.000Z",
+      "display_text_range": [
+        0,
+        121
+      ],
+      "edit_history_tweet_ids": [
+        "1619893382939283457"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 68,
+            "id": "33836629",
+            "start": 59,
+            "username": "karpathy"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/goldenkatepark…",
+            "end": 121,
+            "expanded_url": "https://x.com/goldenkatepark/status/1617060553318608896",
+            "start": 98,
+            "url": "https://t.co/dbTzEwVJKM"
+          }
+        ]
+      },
+      "id": "1619893382939283457",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 35944,
+        "like_count": 40,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1619893381613912066",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Also, good troll-y thing for the audience presentations... @karpathy rapping vs George Washington\nhttps://t.co/dbTzEwVJKM",
+      "url": "https://x.com/alexandr_wang/status/1619893382939283457"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:52.000Z",
+      "display_text_range": [
+        0,
+        80
+      ],
+      "edit_history_tweet_ids": [
+        "1619893381613912066"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 80,
+            "expanded_url": "https://x.com/russelljkaplan/status/1617070021406265345?s=20&t=2dMYXcMdokKiVw8kRtHNFw",
+            "start": 57,
+            "url": "https://t.co/3gKcTd4U6H"
+          }
+        ]
+      },
+      "id": "1619893381613912066",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 42626,
+        "like_count": 172,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "1617070021406265345",
+          "type": "quoted"
+        },
+        {
+          "id": "1619893380200435714",
+          "type": "replied_to"
+        }
+      ],
+      "text": "🥉3rd place, and audience choice—AI rap battle generator!\nhttps://t.co/3gKcTd4U6H",
+      "url": "https://x.com/alexandr_wang/status/1619893381613912066"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:52.000Z",
+      "display_text_range": [
+        0,
+        171
+      ],
+      "edit_history_tweet_ids": [
+        "1619893380200435714"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/itsandrewgao/s…",
+            "end": 171,
+            "expanded_url": "https://x.com/itsandrewgao/status/1617294030894960640",
+            "start": 148,
+            "url": "https://t.co/lUHIXOK0Zr"
+          }
+        ]
+      },
+      "id": "1619893380200435714",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 58034,
+        "like_count": 111,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "1619893378333966345",
+          "type": "replied_to"
+        }
+      ],
+      "text": "🥈 2nd place was Chempilot—GPT-powered tool for chemists, in particular to help drug discovery scientists search over molecular structures (SMARTS)\n\nhttps://t.co/lUHIXOK0Zr",
+      "url": "https://x.com/alexandr_wang/status/1619893380200435714"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:52.000Z",
+      "display_text_range": [
+        0,
+        194
+      ],
+      "edit_history_tweet_ids": [
+        "1619893378333966345"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/karpathy/statu…",
+            "end": 194,
+            "expanded_url": "https://x.com/karpathy/status/1618311660539904002",
+            "start": 171,
+            "url": "https://t.co/NP7Aei8J4S"
+          }
+        ]
+      },
+      "id": "1619893378333966345",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 34,
+        "impression_count": 55132,
+        "like_count": 201,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 10
+      },
+      "text": "🥇Winning 1st place was a project—\"GPT is all you need for backend\" \n\nProbably the most provocative POV on the future of software—that LLMs will replace backend code too!\n\nhttps://t.co/NP7Aei8J4S",
+      "url": "https://x.com/alexandr_wang/status/1619893378333966345"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1619893376589139972",
+      "created_at": "2023-01-30T03:00:51.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1619893376589139972"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 20,
+            "id": "752712449321644032",
+            "start": 11,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1619893376589139972",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1226,
+        "impression_count": 677674,
+        "like_count": 1886,
+        "quote_count": 44,
+        "reply_count": 33,
+        "retweet_count": 212
+      },
+      "text": "Last week, @scale_AI hosted a Generative AI hackathon.\n\nIt was the purest expression of builder energy, and an omen that the dark days of tech stagnation are over.\n\nRoughly ~300 hackers converged @ our office in SF, and a day full of frenzy ensued\n\n🧵 of cool things that happened",
+      "url": "https://x.com/alexandr_wang/status/1619893376589139972"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "615818451",
+        "conversation_id": "1620197157767884802",
+        "created_at": "2023-01-30T23:07:58.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_history_tweet_ids": [
+          "1620197157767884802"
+        ],
+        "id": "1620197157767884802",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 62347,
+          "like_count": 166,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 13
+        },
+        "text": "I just realized that it's been years since I've been to Sand Hill Road.\n\nMy last meeting there was in 2019.\n\nIt's an amusing duality:\n- SF is back\n- Sand Hill Rd is dead\n\nOverall representative of the gravity of builders—most VCs I know are launching primary offices in SF."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:58.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "1619893406771339266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xtigs/status/…",
+              "end": 23,
+              "expanded_url": "https://x.com/0xtigs/status/1617048038316597249",
+              "start": 0,
+              "url": "https://t.co/7MTVWJlRvS"
+            }
+          ]
+        },
+        "id": "1619893406771339266",
+        "in_reply_to_user_id": "615818451",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20122,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617048038316597249",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893405018112000",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/7MTVWJlRvS"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:58.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "1619893405018112000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/html5cat/statu…",
+              "end": 23,
+              "expanded_url": "https://x.com/html5cat/status/1616960329967374336",
+              "start": 0,
+              "url": "https://t.co/f2onduOC3x"
+            }
+          ]
+        },
+        "id": "1619893405018112000",
+        "in_reply_to_user_id": "615818451",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14137,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616960329967374336",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893403550097411",
+            "type": "replied_to"
+          }
+        ],
+        "text": "https://t.co/f2onduOC3x"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1617048029940572160"
+          ]
+        },
+        "author_id": "1567222104",
+        "conversation_id": "1617048038316597249",
+        "created_at": "2023-01-22T06:34:30.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_history_tweet_ids": [
+          "1617048038316597249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "752712449321644032",
+              "start": 27,
+              "username": "scale_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igg96aR5Pp",
+              "end": 172,
+              "expanded_url": "https://x.com/0xtigs/status/1617048038316597249/photo/1",
+              "media_key": "3_1617048029940572160",
+              "start": 149,
+              "url": "https://t.co/igg96aR5Pp"
+            }
+          ]
+        },
+        "id": "1617048038316597249",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 41196,
+          "like_count": 137,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "text": "generative ai hackathon at @scale_ai absolutely went off today, the hacks were insanely based - SF IS BACK BABY 🔙🔛🔝❗️ shoutouts to all the hackers 🔥 https://t.co/igg96aR5Pp"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:58.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_history_tweet_ids": [
+          "1619893403550097411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shyamalanadkat…",
+              "end": 23,
+              "expanded_url": "https://x.com/shyamalanadkat/status/1616973447690874880",
+              "start": 0,
+              "url": "https://t.co/fG1kNFrPjo"
+            }
+          ]
+        },
+        "id": "1619893403550097411",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14998,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "https://t.co/fG1kNFrPjo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1616960325370413056",
+            "3_1616960325382967298"
+          ]
+        },
+        "author_id": "171355355",
+        "conversation_id": "1616960329967374336",
+        "created_at": "2023-01-22T00:45:58.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_history_tweet_ids": [
+          "1616960329967374336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "752712449321644032",
+              "start": 33,
+              "username": "scale_AI"
+            },
+            {
+              "end": 66,
+              "id": "807329370125848577",
+              "start": 56,
+              "username": "oarojas10"
+            },
+            {
+              "end": 77,
+              "id": "16620786",
+              "start": 67,
+              "username": "gregosuri"
+            },
+            {
+              "end": 99,
+              "id": "174297407",
+              "start": 89,
+              "username": "sdimantha"
+            },
+            {
+              "end": 107,
+              "id": "15679748",
+              "start": 100,
+              "username": "bozhao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/61yjjPNvIa",
+              "end": 138,
+              "expanded_url": "https://x.com/html5cat/status/1616960329967374336/photo/1",
+              "media_key": "3_1616960325370413056",
+              "start": 115,
+              "url": "https://t.co/61yjjPNvIa"
+            },
+            {
+              "display_url": "pic.x.com/61yjjPNvIa",
+              "end": 138,
+              "expanded_url": "https://x.com/html5cat/status/1616960329967374336/photo/2",
+              "media_key": "3_1616960325382967298",
+              "start": 115,
+              "url": "https://t.co/61yjjPNvIa"
+            }
+          ]
+        },
+        "id": "1616960329967374336",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18682,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "text": "“SF is dead”, colorized 2023 🌁 \n\n@scale_AI hackathon w/ @oarojas10 @gregosuri @tangjeff0 @sdimantha @bozhao and co https://t.co/61yjjPNvIa"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:57.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_history_tweet_ids": [
+          "1619893400496640005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "752712449321644032",
+              "start": 37,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/DeveloperHarri…",
+              "end": 109,
+              "expanded_url": "https://x.com/DeveloperHarris/status/1616868673779826689",
+              "start": 86,
+              "url": "https://t.co/BgjsgGaJfZ"
+            }
+          ]
+        },
+        "id": "1619893400496640005",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14674,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616868673779826689",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893399120908288",
+            "type": "replied_to"
+          }
+        ],
+        "text": "And tons of fun photos of the humble @scale_AI offices packed with lovely hackers :)\n\nhttps://t.co/BgjsgGaJfZ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1616975268132032512"
+          ]
+        },
+        "author_id": "4413741",
+        "conversation_id": "1616975987937542144",
+        "created_at": "2023-01-22T01:48:12.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_history_tweet_ids": [
+          "1616975987937542144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "752712449321644032",
+              "start": 26,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Asw9EBgDy",
+              "end": 180,
+              "expanded_url": "https://x.com/vjkaruna/status/1616975987937542144/photo/1",
+              "media_key": "3_1616975268132032512",
+              "start": 157,
+              "url": "https://t.co/1Asw9EBgDy"
+            }
+          ]
+        },
+        "id": "1616975987937542144",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 40133,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "text": "Big things brewing at the @scale_AI Spellbook Hackathon right now - most psyched to see some of the cool UI here, conversational search interfaces incoming! https://t.co/1Asw9EBgDy"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:57.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_history_tweet_ids": [
+          "1619893399120908288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "16535432",
+              "start": 39,
+              "username": "goodside"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 73,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616908181124579328",
+              "start": 50,
+              "url": "https://t.co/9gXGy9yRKs"
+            }
+          ]
+        },
+        "id": "1619893399120908288",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15429,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616908181124579328",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893397837459456",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Also, Advanced Prompt Engineering with @goodside \nhttps://t.co/9gXGy9yRKs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1616868665403793412"
+          ]
+        },
+        "author_id": "3807646515",
+        "conversation_id": "1616868673779826689",
+        "created_at": "2023-01-21T18:41:46.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_history_tweet_ids": [
+          "1616868673779826689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "752712449321644032",
+              "start": 34,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF83PovgJr",
+              "end": 80,
+              "expanded_url": "https://x.com/DeveloperHarris/status/1616868673779826689/photo/1",
+              "media_key": "3_1616868665403793412",
+              "start": 57,
+              "url": "https://t.co/tF83PovgJr"
+            }
+          ]
+        },
+        "id": "1616868673779826689",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33919,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "text": "non-zero chance AGI gets invented @scale_AI hackathon\n\n👀 https://t.co/tF83PovgJr"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:56.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_history_tweet_ids": [
+          "1619893397837459456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1075605139",
+              "start": 21,
+              "username": "russelljkaplan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 96,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616955355220803584",
+              "start": 73,
+              "url": "https://t.co/VL4lja8zAJ"
+            }
+          ]
+        },
+        "id": "1619893397837459456",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15709,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616955355220803584",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893396126208000",
+            "type": "replied_to"
+          }
+        ],
+        "text": "(btw, meta thread by @russelljkaplan that I referenced quite frequently)\nhttps://t.co/VL4lja8zAJ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1616908170491990017"
+          ]
+        },
+        "author_id": "1075605139",
+        "conversation_id": "1616908181124579328",
+        "created_at": "2023-01-21T21:18:45.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_history_tweet_ids": [
+          "1616908181124579328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "16535432",
+              "start": 15,
+              "username": "goodside"
+            },
+            {
+              "end": 80,
+              "id": "752712449321644032",
+              "start": 71,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3JIPPUrada",
+              "end": 129,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616908181124579328/photo/1",
+              "media_key": "3_1616908170491990017",
+              "start": 106,
+              "url": "https://t.co/3JIPPUrada"
+            }
+          ]
+        },
+        "id": "1616908181124579328",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 126727,
+          "like_count": 302,
+          "quote_count": 9,
+          "reply_count": 12,
+          "retweet_count": 20
+        },
+        "text": "Full house for @goodside’s Advanced Prompt Engineering workshop at the @scale_AI generative AI hackathon! https://t.co/3JIPPUrada"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:56.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_history_tweet_ids": [
+          "1619893396126208000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 38,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616957750940176384",
+              "start": 15,
+              "url": "https://t.co/xHOm2QYFWE"
+            }
+          ]
+        },
+        "id": "1619893396126208000",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18574,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "text": "Climate hacks—\nhttps://t.co/xHOm2QYFWE"
+      },
+      {
+        "author_id": "1075605139",
+        "conversation_id": "1616955355220803584",
+        "created_at": "2023-01-22T00:26:12.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_history_tweet_ids": [
+          "1616955355220803584"
+        ],
+        "id": "1616955355220803584",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 619,
+          "impression_count": 437965,
+          "like_count": 1020,
+          "quote_count": 24,
+          "reply_count": 20,
+          "retweet_count": 128
+        },
+        "text": "🔥 Thread of cool things hackers are building at Scale’s generative AI hackathon today:"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:55.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_history_tweet_ids": [
+          "1619893393475371010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 44,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616965373118787587",
+              "start": 21,
+              "url": "https://t.co/8jjzYDJjbS"
+            }
+          ]
+        },
+        "id": "1619893393475371010",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16847,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616965373118787587",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893391847981057",
+            "type": "replied_to"
+          }
+        ],
+        "text": "SMITTEN ICE CREAM 🍦🍨\nhttps://t.co/8jjzYDJjbS"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1617009643934605313"
+          ]
+        },
+        "author_id": "628934578",
+        "conversation_id": "1617009654466482177",
+        "created_at": "2023-01-22T04:01:58.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_history_tweet_ids": [
+          "1617009654466482177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "752712449321644032",
+              "start": 26,
+              "username": "scale_AI"
+            },
+            {
+              "end": 62,
+              "id": "2289057716",
+              "start": 49,
+              "username": "kimberlywtan"
+            },
+            {
+              "end": 72,
+              "id": "16535432",
+              "start": 63,
+              "username": "goodside"
+            },
+            {
+              "end": 88,
+              "id": "1322297149887979520",
+              "start": 73,
+              "username": "0interestrates"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyuExRA64X",
+              "end": 124,
+              "expanded_url": "https://x.com/nayakkayak/status/1617009654466482177/photo/1",
+              "media_key": "3_1617009643934605313",
+              "start": 101,
+              "url": "https://t.co/nyuExRA64X"
+            }
+          ]
+        },
+        "id": "1617009654466482177",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 185131,
+          "like_count": 204,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "text": "Found a few models at the @scale_AI AI hackathon @kimberlywtan @goodside @0interestrates @bihanjiang https://t.co/nyuExRA64X"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:55.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_history_tweet_ids": [
+          "1619893391847981057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dmvaldman/stat…",
+              "end": 133,
+              "expanded_url": "https://x.com/dmvaldman/status/1617060459462656000",
+              "start": 110,
+              "url": "https://t.co/L6KHTeBvD3"
+            }
+          ]
+        },
+        "id": "1619893391847981057",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17965,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617060459462656000",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893390094782466",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Pierre Bhat, a prolific AI coder who roams GitHub resolving issues with PRs, starting with karpathy's nanoGPT\nhttps://t.co/L6KHTeBvD3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1616965357125931009"
+          ]
+        },
+        "author_id": "1075605139",
+        "conversation_id": "1616955355220803584",
+        "created_at": "2023-01-22T01:06:01.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_history_tweet_ids": [
+          "1616965373118787587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "61096665",
+              "start": 15,
+              "username": "SmittenIceCream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNCqIVVUbz",
+              "end": 79,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616965373118787587/photo/1",
+              "media_key": "3_1616965357125931009",
+              "start": 56,
+              "url": "https://t.co/nNCqIVVUbz"
+            }
+          ]
+        },
+        "id": "1616965373118787587",
+        "in_reply_to_user_id": "1075605139",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33868,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616957750940176384",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Anna is making @SmittenIceCream with liquid nitrogen 🍦😋 https://t.co/nNCqIVVUbz"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:55.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_history_tweet_ids": [
+          "1619893390094782466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 82,
+              "expanded_url": "https://x.com/russelljkaplan/status/1617095578902724608",
+              "start": 59,
+              "url": "https://t.co/PrR9lL9wpR"
+            }
+          ]
+        },
+        "id": "1619893390094782466",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 18606,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617095578902724608",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893388756791301",
+            "type": "replied_to"
+          }
+        ],
+        "text": "GPT-3 Auditor—scanning for code vulnerabilities using LLMs\nhttps://t.co/PrR9lL9wpR"
+      },
+      {
+        "author_id": "49700785",
+        "conversation_id": "1617060459462656000",
+        "created_at": "2023-01-22T07:23:51.000Z",
+        "display_text_range": [
+          0,
+          241
+        ],
+        "edit_history_tweet_ids": [
+          "1617060459462656000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "752712449321644032",
+              "start": 8,
+              "username": "scale_AI"
+            },
+            {
+              "end": 136,
+              "id": "33836629",
+              "start": 127,
+              "username": "karpathy"
+            },
+            {
+              "end": 209,
+              "id": "547060304",
+              "start": 196,
+              "username": "SamOfStenner"
+            },
+            {
+              "end": 225,
+              "id": "225054090",
+              "start": 211,
+              "username": "VictoriaLinML"
+            },
+            {
+              "end": 241,
+              "id": "2294560766",
+              "start": 226,
+              "username": "AlistairPullen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/pierrebhat",
+              "end": 172,
+              "expanded_url": "https://github.com/pierrebhat",
+              "start": 149,
+              "status": 200,
+              "unwound_url": "https://github.com/pierrebhat",
+              "url": "https://t.co/kMd5VXHp03"
+            },
+            {
+              "display_url": "x.com/AlistairPullen…",
+              "end": 265,
+              "expanded_url": "https://twitter.com/AlistairPullen/status/1617057840459575298",
+              "start": 242,
+              "url": "https://t.co/9BlPqt0Cb1"
+            }
+          ]
+        },
+        "id": "1617060459462656000",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 222386,
+          "like_count": 563,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617057840459575298",
+            "type": "quoted"
+          }
+        ],
+        "text": "For the @scale_AI hackathon we made Pierre Bhat, a prolific AI coder who roams GitHub resolving issues with PRs, starting with @karpathy's nanoGPT.\n\nhttps://t.co/kMd5VXHp03\n\nGrateful to the team! @SamOfStenner  @VictoriaLinML @AlistairPullen https://t.co/9BlPqt0Cb1"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:54.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_history_tweet_ids": [
+          "1619893388756791301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 62,
+              "expanded_url": "https://x.com/russelljkaplan/status/1616955356189687810",
+              "start": 39,
+              "url": "https://t.co/pTH8eBokRN"
+            }
+          ]
+        },
+        "id": "1619893388756791301",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20981,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "text": "Stable Diffusion enhanced Game of Life\nhttps://t.co/pTH8eBokRN"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1617094889954762752"
+          ]
+        },
+        "author_id": "1075605139",
+        "conversation_id": "1616955355220803584",
+        "created_at": "2023-01-22T09:43:24.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_history_tweet_ids": [
+          "1617095578902724608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/handrew/gpt3-a…",
+              "end": 83,
+              "expanded_url": "https://github.com/handrew/gpt3-auditor",
+              "start": 60,
+              "url": "https://t.co/87LV3mxTLm"
+            },
+            {
+              "display_url": "pic.x.com/uZV9FyRU9W",
+              "end": 107,
+              "expanded_url": "https://x.com/russelljkaplan/status/1617095578902724608/video/1",
+              "media_key": "7_1617094889954762752",
+              "start": 84,
+              "url": "https://t.co/uZV9FyRU9W"
+            }
+          ]
+        },
+        "id": "1617095578902724608",
+        "in_reply_to_user_id": "1075605139",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 35185,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617070021406265345",
+            "type": "replied_to"
+          }
+        ],
+        "text": "GPT-3 Auditor: scanning code for vulnerabilities with LLMs. https://t.co/87LV3mxTLm https://t.co/uZV9FyRU9W"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:54.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_history_tweet_ids": [
+          "1619893386059862016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sjwhitmore/sta…",
+              "end": 56,
+              "expanded_url": "https://x.com/sjwhitmore/status/1617318050306588674",
+              "start": 33,
+              "url": "https://t.co/H2wLpQm7Gf"
+            }
+          ]
+        },
+        "id": "1619893386059862016",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32380,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617318050306588674",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893384776400896",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Long-term memory for AI chatbots\nhttps://t.co/H2wLpQm7Gf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1617079890255417345"
+          ]
+        },
+        "author_id": "18156534",
+        "conversation_id": "1617079897696141312",
+        "created_at": "2023-01-22T08:41:06.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_history_tweet_ids": [
+          "1617079897696141312"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 277,
+              "start": 274,
+              "tag": "AI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "752712449321644032",
+              "start": 23,
+              "username": "scale_AI"
+            },
+            {
+              "end": 118,
+              "id": "16535432",
+              "start": 109,
+              "username": "goodside"
+            },
+            {
+              "end": 129,
+              "id": "33836629",
+              "start": 120,
+              "username": "karpathy"
+            },
+            {
+              "end": 144,
+              "id": "296566034",
+              "start": 131,
+              "username": "bradlightcap"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJVmhEvte3",
+              "end": 301,
+              "expanded_url": "https://x.com/mov_axbx/status/1617079897696141312/photo/1",
+              "media_key": "3_1617079890255417345",
+              "start": 278,
+              "url": "https://t.co/JJVmhEvte3"
+            }
+          ]
+        },
+        "id": "1617079897696141312",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 46216,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "text": "Made the finals at the @scale_AI Hackathon with my voice assistant with knowledge retrieval.\n\nMet folks like @goodside, @karpathy, @bradlightcap, etc and had fun fumbling through a challenging live audio demo.  Humbled to be there, thanks to all!  Congrats to the winners!\n\n#AI https://t.co/JJVmhEvte3"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:53.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_history_tweet_ids": [
+          "1619893384776400896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 66,
+              "id": "13235832",
+              "start": 54,
+              "username": "natfriedman"
+            },
+            {
+              "end": 91,
+              "id": "2042915350941949954",
+              "start": 79,
+              "username": "AdeptAILabs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/he_yi_hui/stat…",
+              "end": 117,
+              "expanded_url": "https://x.com/he_yi_hui/status/1617328366876786688",
+              "start": 94,
+              "url": "https://t.co/WCmuFKB55f"
+            }
+          ]
+        },
+        "id": "1619893384776400896",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 34203,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617328366876786688",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893382939283457",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Browser controller that generates Selenium—similar to @natfriedman's natbot or @AdeptAILabs \n\nhttps://t.co/WCmuFKB55f"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1617313952576475137"
+          ]
+        },
+        "author_id": "251757939",
+        "conversation_id": "1617318050306588674",
+        "created_at": "2023-01-23T00:27:26.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "1617318050306588674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 156,
+              "id": "1028799052513665025",
+              "start": 144,
+              "username": "DevenNavani"
+            },
+            {
+              "end": 188,
+              "id": "752712449321644032",
+              "start": 179,
+              "username": "scale_AI"
+            },
+            {
+              "end": 224,
+              "id": "1589007443853340672",
+              "start": 214,
+              "username": "langchain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLZnOObTh6",
+              "end": 303,
+              "expanded_url": "https://x.com/sjwhitmore/status/1617318050306588674/photo/1",
+              "media_key": "3_1617313952576475137",
+              "start": 280,
+              "url": "https://t.co/LLZnOObTh6"
+            }
+          ]
+        },
+        "id": "1617318050306588674",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 197906,
+          "like_count": 769,
+          "quote_count": 17,
+          "reply_count": 33,
+          "retweet_count": 60
+        },
+        "text": "How do you make an AI chatbot smarter and more engaging? By giving it long-term memory of the entities it discusses with the user!\n\nThat's what @devennavani &amp; I built for the @scale_AI hackathon (live today in @langchain). Honored to be one of the 8 finalists!\n\nHow it works: https://t.co/LLZnOObTh6"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:53.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_history_tweet_ids": [
+          "1619893382939283457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "33836629",
+              "start": 59,
+              "username": "karpathy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/goldenkatepark…",
+              "end": 121,
+              "expanded_url": "https://x.com/goldenkatepark/status/1617060553318608896",
+              "start": 98,
+              "url": "https://t.co/dbTzEwVJKM"
+            }
+          ]
+        },
+        "id": "1619893382939283457",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35944,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1619893381613912066",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Also, good troll-y thing for the audience presentations... @karpathy rapping vs George Washington\nhttps://t.co/dbTzEwVJKM"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1617327357597208577"
+          ]
+        },
+        "author_id": "3086182267",
+        "conversation_id": "1617328366876786688",
+        "created_at": "2023-01-23T01:08:25.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "1617328366876786688"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 77,
+              "tag": "GenerativeAI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 76,
+              "id": "752712449321644032",
+              "start": 67,
+              "username": "scale_AI"
+            },
+            {
+              "end": 120,
+              "id": "4890784396",
+              "start": 106,
+              "username": "Tiancaixinxin"
+            },
+            {
+              "end": 161,
+              "id": "16535432",
+              "start": 152,
+              "username": "goodside"
+            },
+            {
+              "end": 186,
+              "id": "33836629",
+              "start": 177,
+              "username": "karpathy"
+            },
+            {
+              "end": 216,
+              "id": "13235832",
+              "start": 204,
+              "username": "natfriedman"
+            },
+            {
+              "end": 229,
+              "id": "2042915350941949954",
+              "start": 217,
+              "username": "adeptailabs"
+            },
+            {
+              "end": 239,
+              "id": "1221950087544233985",
+              "start": 230,
+              "username": "BrowseAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "yihui.dev/actgpt",
+              "end": 279,
+              "expanded_url": "https://yihui.dev/actgpt",
+              "start": 256,
+              "status": 404,
+              "unwound_url": "https://yihui.dev/actgpt",
+              "url": "https://t.co/nBnV6oRhEj"
+            },
+            {
+              "display_url": "pic.x.com/Gg6CoTuJcq",
+              "end": 303,
+              "expanded_url": "https://x.com/he_yi_hui/status/1617328366876786688/video/1",
+              "media_key": "7_1617327357597208577",
+              "start": 280,
+              "url": "https://t.co/Gg6CoTuJcq"
+            }
+          ]
+        },
+        "id": "1617328366876786688",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 595,
+          "impression_count": 503796,
+          "like_count": 1353,
+          "quote_count": 25,
+          "reply_count": 33,
+          "retweet_count": 143
+        },
+        "text": "I made a chatbot that controls browser by writing Selenium code at @scale_AI #GenerativeAI hackathon with @Tiancaixinxin. Thanks for prompt advice from @goodside. So glad I met @karpathy. It's similar to @natfriedman @AdeptAILabs @BrowseAI. blog and code: https://t.co/nBnV6oRhEj https://t.co/Gg6CoTuJcq"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:52.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_history_tweet_ids": [
+          "1619893381613912066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/russelljkaplan…",
+              "end": 80,
+              "expanded_url": "https://x.com/russelljkaplan/status/1617070021406265345?s=20&t=2dMYXcMdokKiVw8kRtHNFw",
+              "start": 57,
+              "url": "https://t.co/3gKcTd4U6H"
+            }
+          ]
+        },
+        "id": "1619893381613912066",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 42626,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617070021406265345",
+            "type": "quoted"
+          },
+          {
+            "id": "1619893380200435714",
+            "type": "replied_to"
+          }
+        ],
+        "text": "🥉3rd place, and audience choice—AI rap battle generator!\nhttps://t.co/3gKcTd4U6H"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:52.000Z",
+        "display_text_range": [
+          0,
+          171
+        ],
+        "edit_history_tweet_ids": [
+          "1619893380200435714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsandrewgao/s…",
+              "end": 171,
+              "expanded_url": "https://x.com/itsandrewgao/status/1617294030894960640",
+              "start": 148,
+              "url": "https://t.co/lUHIXOK0Zr"
+            }
+          ]
+        },
+        "id": "1619893380200435714",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 58034,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1619893378333966345",
+            "type": "replied_to"
+          }
+        ],
+        "text": "🥈 2nd place was Chempilot—GPT-powered tool for chemists, in particular to help drug discovery scientists search over molecular structures (SMARTS)\n\nhttps://t.co/lUHIXOK0Zr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1617069868821655553"
+          ]
+        },
+        "author_id": "1075605139",
+        "conversation_id": "1616955355220803584",
+        "created_at": "2023-01-22T08:01:51.000Z",
+        "display_text_range": [
+          0,
+          214
+        ],
+        "edit_history_tweet_ids": [
+          "1617070021406265345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "airapbattle.com",
+              "end": 214,
+              "expanded_url": "https://www.airapbattle.com/",
+              "start": 191,
+              "url": "https://t.co/NxLLNmQDhb"
+            },
+            {
+              "display_url": "pic.x.com/TSngZesCky",
+              "end": 238,
+              "expanded_url": "https://x.com/russelljkaplan/status/1617070021406265345/video/1",
+              "media_key": "7_1617069868821655553",
+              "start": 215,
+              "url": "https://t.co/TSngZesCky"
+            }
+          ]
+        },
+        "id": "1617070021406265345",
+        "in_reply_to_user_id": "1075605139",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 98900,
+          "like_count": 397,
+          "quote_count": 23,
+          "reply_count": 11,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1616997544307089408",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Rap Battle - 🤯 demo. Pick any two people and it will generate a rap battle on the fly, using GPT-3 for lyrics, wavenet for vocals, and stable diffusion for the avatars. Sound on!\n\nLive demo: https://t.co/NxLLNmQDhb https://t.co/TSngZesCky"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1619893376589139972",
+        "created_at": "2023-01-30T03:00:52.000Z",
+        "display_text_range": [
+          0,
+          194
+        ],
+        "edit_history_tweet_ids": [
+          "1619893378333966345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karpathy/statu…",
+              "end": 194,
+              "expanded_url": "https://x.com/karpathy/status/1618311660539904002",
+              "start": 171,
+              "url": "https://t.co/NP7Aei8J4S"
+            }
+          ]
+        },
+        "id": "1619893378333966345",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 55132,
+          "like_count": 201,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "text": "🥇Winning 1st place was a project—\"GPT is all you need for backend\" \n\nProbably the most provocative POV on the future of software—that LLMs will replace backend code too!\n\nhttps://t.co/NP7Aei8J4S"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1620197552506408960",
+    "next_token": "b26v89c19zqg8o3fqk4356dzle3639lq1mqdf94upavzx",
+    "oldest_id": "1619893376589139972",
+    "result_count": 25
+  },
+  "errors": []
+}

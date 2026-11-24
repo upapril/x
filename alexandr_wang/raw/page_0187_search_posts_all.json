@@ -1,0 +1,633 @@
+{
+  "collected_at_utc": "2026-11-24T12:27:13Z",
+  "collected_at_shanghai": "2026-11-24T20:27:13+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RBM587CBAR8GFT2TM7E91.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2020-01-01T00:00:00Z",
+    "end_time": "2020-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2020-01"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1221566887617650688",
+      "created_at": "2020-01-26T22:53:36.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1221566887617650688"
+      ],
+      "id": "1221566887617650688",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 0,
+        "like_count": 222,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 25
+      },
+      "text": "Company-building is more about tactics than strategy.\n\nStrategy seems easier to apply because it simplifies complex dynamics.\n\nBut, tactics are more predictive for success than strategy. Being great at recruiting and building product usually overcomes even the worst strategy.",
+      "url": "https://x.com/alexandr_wang/status/1221566887617650688"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1219296073631461379",
+      "created_at": "2020-01-20T16:30:12.000Z",
+      "display_text_range": [
+        0,
+        79
+      ],
+      "edit_history_tweet_ids": [
+        "1219296073631461379"
+      ],
+      "id": "1219296073631461379",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 25,
+        "impression_count": 0,
+        "like_count": 290,
+        "quote_count": 7,
+        "reply_count": 6,
+        "retweet_count": 40
+      },
+      "text": "The secret to great writing is clear thinking. There aren't many other secrets.",
+      "url": "https://x.com/alexandr_wang/status/1219296073631461379"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1218665295524450304",
+      "created_at": "2020-01-18T22:43:42.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1218665295524450304"
+      ],
+      "id": "1218665295524450304",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 0,
+        "like_count": 538,
+        "quote_count": 18,
+        "reply_count": 6,
+        "retweet_count": 76
+      },
+      "text": "There's nothing quite like the magic of a small team, perfectly aligned in accomplishing the slightly impossible.\n\nIt is electrifying, inspiring, and surprising every time.\n\nDon't take this magic for granted if you're on such a team today. It is very rare—most never experience it",
+      "url": "https://x.com/alexandr_wang/status/1218665295524450304"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1215811429330116608",
+      "created_at": "2020-01-11T01:43:28.000Z",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "edit_history_tweet_ids": [
+        "1215811429330116608"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 272,
+            "id": "19103481",
+            "start": 267,
+            "username": "Uber"
+          }
+        ]
+      },
+      "id": "1215811429330116608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 82,
+        "quote_count": 2,
+        "reply_count": 5,
+        "retweet_count": 4
+      },
+      "text": "Uber should make a feature to allow riders to select the route.\n\nThe amount of frustration from arguing with your Uber driver on routes is the largest driver of dissatisfaction for me.\n\nAnd I already could \"implement\" this by incrementally changing the destination.\n\n@Uber pls!",
+      "url": "https://x.com/alexandr_wang/status/1215811429330116608"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1215454502981009408",
+      "created_at": "2020-01-10T03:08:50.000Z",
+      "display_text_range": [
+        8,
+        112
+      ],
+      "edit_history_tweet_ids": [
+        "1215470526526709760"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "20263710",
+            "start": 0,
+            "username": "rabois"
+          }
+        ]
+      },
+      "id": "1215470526526709760",
+      "in_reply_to_user_id": "20263710",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1215465564761575424",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rabois Describing the mechanism. Desperation breeds innovation because people become irrationally risk-seeking.",
+      "url": "https://x.com/alexandr_wang/status/1215470526526709760"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1215454502981009408",
+      "created_at": "2020-01-10T02:05:10.000Z",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "edit_history_tweet_ids": [
+        "1215454502981009408"
+      ],
+      "id": "1215454502981009408",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 59,
+        "impression_count": 0,
+        "like_count": 475,
+        "quote_count": 3,
+        "reply_count": 10,
+        "retweet_count": 76
+      },
+      "text": "Super interesting cognitive bias from Kanneman's work:\n\nWhen all the options are good, people are risk-averse.\n\nWhen all the options are bad, people are **risk-seeking**.\n\nIt's when people are backed into tough situations that so much value ends up being created (pivots, etc.)",
+      "url": "https://x.com/alexandr_wang/status/1215454502981009408"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1214020236388765696",
+      "created_at": "2020-01-06T03:31:11.000Z",
+      "display_text_range": [
+        10,
+        102
+      ],
+      "edit_history_tweet_ids": [
+        "1214026599596728321"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "805861741926092801",
+            "start": 0,
+            "username": "tanthaip"
+          }
+        ]
+      },
+      "id": "1214026599596728321",
+      "in_reply_to_user_id": "805861741926092801",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1214025082068094976",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@tanthaip imagine if the overheads were empty and you didn't have to put your backpack in front of you",
+      "url": "https://x.com/alexandr_wang/status/1214026599596728321"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1214020236388765696",
+      "created_at": "2020-01-06T03:05:54.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1214020236388765696"
+      ],
+      "id": "1214020236388765696",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 52,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "Annoying local maximum of planes:\n\nBecause airlines charge for checked baggage, the \"human\" cabin of airplanes is always crammed, while the cargo cabin likely has lots of space.\n\nThe crammed-ness drives more checked baggage, a meaningful revenue src.\n\nNot globally optimal at all!",
+      "url": "https://x.com/alexandr_wang/status/1214020236388765696"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1212928043343179776",
+      "created_at": "2020-01-03T02:45:55.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1212928043343179776"
+      ],
+      "id": "1212928043343179776",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 0,
+        "like_count": 59,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "I saw many modern art experiences this holiday:\n\nNM: Meow Wolf\nNYC: ARTECHOUSE, SuperReal, ZeroSpace\nParis: Atelier des Lumières\n\nVery excited about the future of art via calibrated projections, processing.js, GANs, and mirrors, built by  artist collectives. Better than museums!",
+      "url": "https://x.com/alexandr_wang/status/1212928043343179776"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1212891539375964161",
+      "created_at": "2020-01-03T01:08:58.000Z",
+      "display_text_range": [
+        16,
+        68
+      ],
+      "edit_history_tweet_ids": [
+        "1212903644053377024"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1075605139",
+            "start": 0,
+            "username": "russelljkaplan"
+          }
+        ]
+      },
+      "id": "1212903644053377024",
+      "in_reply_to_user_id": "1075605139",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1212891539375964161",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@russelljkaplan Very ambitious on screen tech, unambitious elsewhere",
+      "url": "https://x.com/alexandr_wang/status/1212903644053377024"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1212755628902383616",
+      "created_at": "2020-01-02T15:20:48.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1212755628902383616"
+      ],
+      "id": "1212755628902383616",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 0,
+        "like_count": 159,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 8
+      },
+      "text": "It took 22yrs for RenTech (best hedge fund ever) to go from founding to massive success\n\nIn those 22yrs, many left, thinking it was \"one of many\"\n\nThere always will be ppl who don't believe it is special\n\nThe only way to disprove them is long time horizons and dogged persistence",
+      "url": "https://x.com/alexandr_wang/status/1212755628902383616"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1212492785095303168",
+      "created_at": "2020-01-01T22:49:48.000Z",
+      "display_text_range": [
+        14,
+        53
+      ],
+      "edit_history_tweet_ids": [
+        "1212506233866870784"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "18654548",
+            "start": 0,
+            "username": "JonDishotsky"
+          }
+        ]
+      },
+      "id": "1212506233866870784",
+      "in_reply_to_user_id": "18654548",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1212505947983106048",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JonDishotsky Waterproof iPhone already is a killer 🤷",
+      "url": "https://x.com/alexandr_wang/status/1212506233866870784"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "20263710",
+        "conversation_id": "1215454502981009408",
+        "created_at": "2020-01-10T02:49:07.000Z",
+        "display_text_range": [
+          15,
+          65
+        ],
+        "edit_history_tweet_ids": [
+          "1215465564761575424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1215465564761575424",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1215454502981009408",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang fancy writing for desperation breeding innovation."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1214025077915697152"
+          ]
+        },
+        "author_id": "805861741926092801",
+        "conversation_id": "1214020236388765696",
+        "created_at": "2020-01-06T03:25:09.000Z",
+        "display_text_range": [
+          15,
+          247
+        ],
+        "edit_history_tweet_ids": [
+          "1214025082068094976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gv73OZwjD",
+              "end": 271,
+              "expanded_url": "https://x.com/tanthaip/status/1214025082068094976/photo/1",
+              "media_key": "3_1214025077915697152",
+              "start": 248,
+              "url": "https://t.co/5gv73OZwjD"
+            }
+          ]
+        },
+        "id": "1214025082068094976",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1214020236388765696",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang The volume of the cargo bay is a secondary result of the passenger area needing to be tall enough for people to stand upright comfortably. It’s not as if engineers are purposefully designing planes to fit fewer humans and more bags. https://t.co/5gv73OZwjD"
+      },
+      {
+        "author_id": "1075605139",
+        "conversation_id": "1212891539375964161",
+        "created_at": "2020-01-03T00:20:52.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_history_tweet_ids": [
+          "1212891539375964161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtu.be/ozLaklIFWUI",
+              "end": 88,
+              "expanded_url": "https://youtu.be/ozLaklIFWUI",
+              "start": 65,
+              "status": 429,
+              "unwound_url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DozLaklIFWUI%26feature%3Dyoutu.be&q=EgTHEJ23GPn5tdcGIjAuJYhXb807JaeObTrwTTkQcYM9TEUZX3MjpSI7d1VnypzEbd3oePduHIrDyq-mMqEyAnJSWgFDYMPwteq_meCHuQE",
+              "url": "https://t.co/M0WgnxXg2s"
+            }
+          ]
+        },
+        "id": "1212891539375964161",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "text": "Here’s what Microsoft thought 2020 would look like back in 2013: https://t.co/M0WgnxXg2s"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1212505942945759232"
+          ]
+        },
+        "author_id": "18654548",
+        "conversation_id": "1212492785095303168",
+        "created_at": "2020-01-01T22:48:39.000Z",
+        "display_text_range": [
+          15,
+          148
+        ],
+        "edit_history_tweet_ids": [
+          "1212505947983106048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2OxOPSWs0T",
+              "end": 172,
+              "expanded_url": "https://x.com/JonDishotsky/status/1212505947983106048/photo/1",
+              "media_key": "16_1212505942945759232",
+              "start": 149,
+              "url": "https://t.co/2OxOPSWs0T"
+            }
+          ]
+        },
+        "id": "1212505947983106048",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1212492785095303168",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Shower genius: a waterproof pen that allows you to write aforementioned novel ideas in the shower before you get out and forget them. https://t.co/2OxOPSWs0T"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "20263710",
+        "name": "Keith Rabois",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036932720710848513/4mYQtemA_normal.jpg",
+        "username": "rabois",
+        "verified": false
+      },
+      {
+        "id": "805861741926092801",
+        "name": "tanthai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911117245650018304/Zzu18bjK_normal.jpg",
+        "username": "tanthaip",
+        "verified": false
+      },
+      {
+        "id": "1075605139",
+        "name": "Russell Kaplan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1336827597276102656/lU5rWQim_normal.jpg",
+        "username": "russelljkaplan",
+        "verified": false
+      },
+      {
+        "id": "18654548",
+        "name": "Jon Dishotsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988291340099022849/2dy3Wejv_normal.jpg",
+        "username": "JonDishotsky",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1221566887617650688",
+    "next_token": "b26v89c19zqg8o3fo6yevqmnnvnsijilzxnrx9yf128al",
+    "oldest_id": "1212506233866870784",
+    "result_count": 12
+  },
+  "errors": []
+}

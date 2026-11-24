@@ -1,0 +1,365 @@
+{
+  "collected_at_utc": "2026-11-24T12:27:14Z",
+  "collected_at_shanghai": "2026-11-24T20:27:14+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RBWTD28JKKFJ8CX51R5KY.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2019-05-01T00:00:00Z",
+    "end_time": "2019-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2019-05"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1130509601915326464",
+      "created_at": "2019-05-20T16:24:27.000Z",
+      "display_text_range": [
+        0,
+        235
+      ],
+      "edit_history_tweet_ids": [
+        "1130509601915326464"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 30,
+            "id": "33696409",
+            "start": 24,
+            "username": "Quora"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "quora.com/session/Alexan…",
+            "end": 235,
+            "expanded_url": "https://www.quora.com/session/Alexandr-Wang/1?ch=2&share=f9c136ed&srid=OPwq",
+            "start": 212,
+            "status": 200,
+            "unwound_url": "https://quorasessionwithalexandrwang.quora.com/",
+            "url": "https://t.co/XgBYQqMeYn"
+          }
+        ]
+      },
+      "id": "1130509601915326464",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "I'm taking questions on @Quora Sessions today! Ask me any burning questions you have!\n\nFun fact: I built the first version of @QuoraSessions 4 years ago at a company hackathon. At first we called it Quora Live.\n\nhttps://t.co/XgBYQqMeYn",
+      "url": "https://x.com/alexandr_wang/status/1130509601915326464"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1129814608594722816",
+      "created_at": "2019-05-18T18:32:52.000Z",
+      "display_text_range": [
+        0,
+        97
+      ],
+      "edit_history_tweet_ids": [
+        "1129817144030519297"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 67,
+            "id": "4939401",
+            "start": 58,
+            "username": "patrickc"
+          },
+          {
+            "end": 77,
+            "id": "68746721",
+            "start": 68,
+            "username": "fchollet"
+          },
+          {
+            "end": 84,
+            "id": "183749519",
+            "start": 78,
+            "username": "paulg"
+          },
+          {
+            "end": 97,
+            "id": "13235832",
+            "start": 85,
+            "username": "natfriedman"
+          }
+        ]
+      },
+      "id": "1129817144030519297",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1129814608594722816",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Why aren't more tech optimists talking about this? Paging @patrickc @fchollet @paulg @natfriedman",
+      "url": "https://x.com/alexandr_wang/status/1129817144030519297"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1129814608594722816",
+      "created_at": "2019-05-18T18:22:48.000Z",
+      "display_text_range": [
+        0,
+        93
+      ],
+      "edit_history_tweet_ids": [
+        "1129814608594722816"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "We are going to the Moon, to stay, by 2024. And this is how. Sp...",
+            "display_url": "youtu.be/vl6jn-DdafM",
+            "end": 93,
+            "expanded_url": "https://youtu.be/vl6jn-DdafM",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2063006272987803648/CyIZk4AZ?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2063006272987803648/CyIZk4AZ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 70,
+            "status": 200,
+            "title": "We Are Going",
+            "unwound_url": "https://www.youtube.com/watch?v=vl6jn-DdafM&feature=youtu.be",
+            "url": "https://t.co/ux481DLJoF"
+          }
+        ]
+      },
+      "id": "1129814608594722816",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 16,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "text": "Most exciting thing I've seen in a very long time. NASA goal-setting.\nhttps://t.co/ux481DLJoF",
+      "url": "https://x.com/alexandr_wang/status/1129814608594722816"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1125175024489357312",
+      "created_at": "2019-05-05T23:06:45.000Z",
+      "display_text_range": [
+        0,
+        79
+      ],
+      "edit_history_tweet_ids": [
+        "1125175024489357312"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 20,
+            "start": 11,
+            "tag": "ICLR2019"
+          }
+        ]
+      },
+      "id": "1125175024489357312",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Heading to #ICLR2019 this week! Ping me if you're going, would love to meet up!",
+      "url": "https://x.com/alexandr_wang/status/1125175024489357312"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1123637654531133441",
+      "created_at": "2019-05-01T17:17:47.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1123637654531133441"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scl.ai/2IR7G6F",
+            "end": 85,
+            "expanded_url": "https://scl.ai/2IR7G6F",
+            "start": 62,
+            "url": "https://t.co/bvkjXQsgyM"
+          }
+        ]
+      },
+      "id": "1123637654531133441",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1123634496237187072",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: New blog post courtesy of our lead ML engineer: https://t.co/bvkjXQsgyM \nFind out why with training data, quantity is no pana…",
+      "url": "https://x.com/alexandr_wang/status/1123637654531133441"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "615818451",
+        "conversation_id": "1129814608594722816",
+        "created_at": "2019-05-18T18:22:48.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_history_tweet_ids": [
+          "1129814608594722816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We are going to the Moon, to stay, by 2024. And this is how. Sp...",
+              "display_url": "youtu.be/vl6jn-DdafM",
+              "end": 93,
+              "expanded_url": "https://youtu.be/vl6jn-DdafM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2063006272987803648/CyIZk4AZ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063006272987803648/CyIZk4AZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "We Are Going",
+              "unwound_url": "https://www.youtube.com/watch?v=vl6jn-DdafM&feature=youtu.be",
+              "url": "https://t.co/ux481DLJoF"
+            }
+          ]
+        },
+        "id": "1129814608594722816",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "text": "Most exciting thing I've seen in a very long time. NASA goal-setting.\nhttps://t.co/ux481DLJoF"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1123634496237187072",
+        "created_at": "2019-05-01T17:05:14.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_history_tweet_ids": [
+          "1123634496237187072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scl.ai/2IR7G6F",
+              "end": 71,
+              "expanded_url": "https://scl.ai/2IR7G6F",
+              "start": 48,
+              "url": "https://t.co/bvkjXQsgyM"
+            }
+          ]
+        },
+        "id": "1123634496237187072",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "New blog post courtesy of our lead ML engineer: https://t.co/bvkjXQsgyM \nFind out why with training data, quantity is no panacea."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1130509601915326464",
+    "next_token": "b26v89c19zqg8o3fnlr0r1x7fllmhlca4qxico7savn25",
+    "oldest_id": "1123637654531133441",
+    "result_count": 5
+  },
+  "errors": []
+}

@@ -1,0 +1,680 @@
+{
+  "collected_at_utc": "2026-11-24T12:28:18Z",
+  "collected_at_shanghai": "2026-11-24T20:28:18+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RE1WWE0P3GP4ZH2QH2EA7.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2018-11-01T00:00:00Z",
+    "end_time": "2018-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2018-11"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1067983453591748608",
+      "created_at": "2018-11-29T03:27:52.000Z",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "edit_history_tweet_ids": [
+        "1067983453591748608"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 61,
+            "id": "2915810118",
+            "start": 48,
+            "username": "BreakoutList"
+          }
+        ]
+      },
+      "id": "1067983453591748608",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1067983265519230977",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: Scale was included in this year's @BreakoutList—an annual list of the best startups to work at 🚀\n\nIf you're interested, take…",
+      "url": "https://x.com/alexandr_wang/status/1067983453591748608"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1065319800098840576",
+      "created_at": "2018-11-21T19:03:27.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1065319800098840576"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "68746721",
+            "start": 3,
+            "username": "fchollet"
+          }
+        ]
+      },
+      "id": "1065319800098840576",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 65
+      },
+      "referenced_tweets": [
+        {
+          "id": "1064704808416759809",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @fchollet: Reality is more creative and surprising than fiction, but fiction has structure, meaning, and an aesthetic sense that reality…",
+      "url": "https://x.com/alexandr_wang/status/1065319800098840576"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1064942013047402496",
+      "created_at": "2018-11-20T18:02:16.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1064942013047402496"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "615818451",
+            "start": 3,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 82,
+            "id": "2338473972",
+            "start": 73,
+            "username": "nuTonomy"
+          },
+          {
+            "end": 103,
+            "id": "752712449321644032",
+            "start": 94,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1064942013047402496",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "1064363736008318977",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @alexandr_wang: The world through the eyes of an autonomous vehicle.\n\n@nuTonomy collected, @scale_AI annotated.\n\nExplore the data yourse…",
+      "url": "https://x.com/alexandr_wang/status/1064942013047402496"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_1064363603891957762"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1064363736008318977",
+      "created_at": "2018-11-19T03:44:24.000Z",
+      "display_text_range": [
+        0,
+        29
+      ],
+      "edit_history_tweet_ids": [
+        "1064363738440982528"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/umSVscnYXN",
+            "end": 53,
+            "expanded_url": "https://x.com/alexandr_wang/status/1064363738440982528/photo/1",
+            "media_key": "16_1064363603891957762",
+            "start": 30,
+            "url": "https://t.co/umSVscnYXN"
+          }
+        ]
+      },
+      "id": "1064363738440982528",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1064363736008318977",
+          "type": "replied_to"
+        }
+      ],
+      "text": "(and this is what the 📷 sees) https://t.co/umSVscnYXN",
+      "url": "https://x.com/alexandr_wang/status/1064363738440982528"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_1064363297758044160"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1064363736008318977",
+      "created_at": "2018-11-19T03:44:24.000Z",
+      "display_text_range": [
+        0,
+        147
+      ],
+      "edit_history_tweet_ids": [
+        "1064363736008318977"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 63,
+            "id": "2338473972",
+            "start": 54,
+            "username": "nuTonomy"
+          },
+          {
+            "end": 84,
+            "id": "752712449321644032",
+            "start": 75,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "nuscenes.org/explore/scene-…",
+            "end": 147,
+            "expanded_url": "https://www.nuscenes.org/explore/scene-0018/0",
+            "start": 124,
+            "url": "https://t.co/AO2bCVooxy"
+          },
+          {
+            "display_url": "pic.x.com/qWbCMeVOk4",
+            "end": 171,
+            "expanded_url": "https://x.com/alexandr_wang/status/1064363736008318977/photo/1",
+            "media_key": "16_1064363297758044160",
+            "start": 148,
+            "url": "https://t.co/qWbCMeVOk4"
+          }
+        ]
+      },
+      "id": "1064363736008318977",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 14
+      },
+      "text": "The world through the eyes of an autonomous vehicle.\n\n@nuTonomy collected, @scale_AI annotated.\n\nExplore the data yourself:\nhttps://t.co/AO2bCVooxy https://t.co/qWbCMeVOk4",
+      "url": "https://x.com/alexandr_wang/status/1064363736008318977"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1061798692993159169",
+      "created_at": "2018-11-12T01:51:50.000Z",
+      "display_text_range": [
+        0,
+        197
+      ],
+      "edit_history_tweet_ids": [
+        "1061798692993159169"
+      ],
+      "id": "1061798692993159169",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Did some math competition problems over the weekend. Boy, was it fun 🙃\n\nNothing like solving bite-sized problems where the solutions are known and provably correct. Real world isn't as forgiving...",
+      "url": "https://x.com/alexandr_wang/status/1061798692993159169"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1058402043352645632"
+        ],
+        "media_source_tweet_id": [
+          "1058402228694728705"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1058402342058356736",
+      "created_at": "2018-11-02T16:55:57.000Z",
+      "display_text_range": [
+        0,
+        108
+      ],
+      "edit_history_tweet_ids": [
+        "1058402342058356736"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.AI",
+            "end": 84,
+            "expanded_url": "http://scale.AI",
+            "start": 61,
+            "url": "https://t.co/3Up3PLM1OH"
+          },
+          {
+            "display_url": "pic.x.com/pneOn2haqr",
+            "end": 108,
+            "expanded_url": "https://x.com/scaleAPI/status/1058402228694728705/photo/1",
+            "media_key": "3_1058402043352645632",
+            "start": 85,
+            "url": "https://t.co/pneOn2haqr"
+          }
+        ]
+      },
+      "id": "1058402342058356736",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1058402228694728705",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaleAPI: Our domain has changed! You can now find us at https://t.co/3Up3PLM1OH https://t.co/pneOn2haqr",
+      "url": "https://x.com/alexandr_wang/status/1058402342058356736"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1057836787542835201"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1057813560200314880",
+      "created_at": "2018-11-01T03:28:39.000Z",
+      "display_text_range": [
+        9,
+        110
+      ],
+      "edit_history_tweet_ids": [
+        "1057836791800057856"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "14297283",
+            "start": 0,
+            "username": "mvernal"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/l3UiNVMcPO",
+            "end": 134,
+            "expanded_url": "https://x.com/alexandr_wang/status/1057836791800057856/photo/1",
+            "media_key": "3_1057836787542835201",
+            "start": 111,
+            "url": "https://t.co/l3UiNVMcPO"
+          }
+        ]
+      },
+      "id": "1057836791800057856",
+      "in_reply_to_user_id": "14297283",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1057813560200314880",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mvernal Slides from a talk I gave today, titled \"How much data is required to Autonomous Vehicles a reality?\" https://t.co/l3UiNVMcPO",
+      "url": "https://x.com/alexandr_wang/status/1057836791800057856"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "16_1064363603891957762",
+        "type": "animated_gif"
+      },
+      {
+        "media_key": "16_1064363297758044160",
+        "type": "animated_gif"
+      },
+      {
+        "media_key": "3_1058402043352645632",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1057836787542835201",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1067983265519230977",
+        "created_at": "2018-11-29T03:27:07.000Z",
+        "display_text_range": [
+          0,
+          199
+        ],
+        "edit_history_tweet_ids": [
+          "1067983265519230977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "2915810118",
+              "start": 34,
+              "username": "BreakoutList"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.ai/about#jobs",
+              "end": 174,
+              "expanded_url": "https://scale.ai/about#jobs",
+              "start": 151,
+              "url": "https://t.co/6WXQCDNIrA"
+            },
+            {
+              "display_url": "breakoutlist.com/scale-api/",
+              "end": 199,
+              "expanded_url": "https://breakoutlist.com/scale-api/",
+              "start": 176,
+              "url": "https://t.co/09Nx56F3l8"
+            }
+          ]
+        },
+        "id": "1067983265519230977",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "Scale was included in this year's @BreakoutList—an annual list of the best startups to work at 🚀\n\nIf you're interested, take a look at our open roles: https://t.co/6WXQCDNIrA\n\nhttps://t.co/09Nx56F3l8"
+      },
+      {
+        "author_id": "68746721",
+        "conversation_id": "1064704808416759809",
+        "created_at": "2018-11-20T02:19:42.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_history_tweet_ids": [
+          "1064704808416759809"
+        ],
+        "id": "1064704808416759809",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 0,
+          "like_count": 329,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 65
+        },
+        "text": "Reality is more creative and surprising than fiction, but fiction has structure, meaning, and an aesthetic sense that reality usually lacks"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1064363297758044160"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1064363736008318977",
+        "created_at": "2018-11-19T03:44:24.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_history_tweet_ids": [
+          "1064363736008318977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "2338473972",
+              "start": 54,
+              "username": "nuTonomy"
+            },
+            {
+              "end": 84,
+              "id": "752712449321644032",
+              "start": 75,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "nuscenes.org/explore/scene-…",
+              "end": 147,
+              "expanded_url": "https://www.nuscenes.org/explore/scene-0018/0",
+              "start": 124,
+              "url": "https://t.co/AO2bCVooxy"
+            },
+            {
+              "display_url": "pic.x.com/qWbCMeVOk4",
+              "end": 171,
+              "expanded_url": "https://x.com/alexandr_wang/status/1064363736008318977/photo/1",
+              "media_key": "16_1064363297758044160",
+              "start": 148,
+              "url": "https://t.co/qWbCMeVOk4"
+            }
+          ]
+        },
+        "id": "1064363736008318977",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "text": "The world through the eyes of an autonomous vehicle.\n\n@nuTonomy collected, @scale_AI annotated.\n\nExplore the data yourself:\nhttps://t.co/AO2bCVooxy https://t.co/qWbCMeVOk4"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1058402043352645632"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1058402228694728705",
+        "created_at": "2018-11-02T16:55:30.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_history_tweet_ids": [
+          "1058402228694728705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.AI",
+              "end": 70,
+              "expanded_url": "http://scale.AI",
+              "start": 47,
+              "url": "https://t.co/3Up3PLM1OH"
+            },
+            {
+              "display_url": "pic.x.com/pneOn2haqr",
+              "end": 94,
+              "expanded_url": "https://x.com/scaleAPI/status/1058402228694728705/photo/1",
+              "media_key": "3_1058402043352645632",
+              "start": 71,
+              "url": "https://t.co/pneOn2haqr"
+            }
+          ]
+        },
+        "id": "1058402228694728705",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "text": "Our domain has changed! You can now find us at https://t.co/3Up3PLM1OH https://t.co/pneOn2haqr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1057813420123160576"
+          ]
+        },
+        "author_id": "14297283",
+        "conversation_id": "1057813560200314880",
+        "created_at": "2018-11-01T01:56:20.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_history_tweet_ids": [
+          "1057813560200314880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2HjiYyfbKv",
+              "end": 57,
+              "expanded_url": "https://x.com/mvernal/status/1057813560200314880/photo/1",
+              "media_key": "3_1057813420123160576",
+              "start": 34,
+              "url": "https://t.co/2HjiYyfbKv"
+            }
+          ]
+        },
+        "id": "1057813560200314880",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "text": "Why autonomous vehicles are hard. https://t.co/2HjiYyfbKv"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "14297283",
+        "name": "Mike Vernal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876725988853501952/12vP8jdr_normal.jpg",
+        "username": "mvernal",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1067983453591748608",
+    "next_token": "b26v89c19zqg8o3fn0pnfo7srx5q1l86ot2exjtyi264d",
+    "oldest_id": "1057836791800057856",
+    "result_count": 8
+  },
+  "errors": []
+}

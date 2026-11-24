@@ -1,0 +1,1341 @@
+{
+  "collected_at_utc": "2026-11-24T12:03:39Z",
+  "collected_at_shanghai": "2026-11-24T20:03:39+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86Q0GH4WS3C8YAN5JAAD8Z9.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2023-02-01T00:00:00Z",
+    "end_time": "2023-03-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqk71naxqbtypo6uz70boch12xm931",
+    "window_label": "2023-02"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1626092309426339841",
+      "created_at": "2023-02-16T05:33:12.000Z",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "edit_history_tweet_ids": [
+        "1626092309426339841"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "cnbc.com/amp/2023/02/15…",
+            "end": 139,
+            "expanded_url": "https://www.cnbc.com/amp/2023/02/15/google-asks-employees-to-rewrite-bards-incorrect-responses-to-queries.html",
+            "start": 116,
+            "unwound_url": "https://amp.cnbc.com/amp/2023/02/15/google-asks-employees-to-rewrite-bards-incorrect-responses-to-queries.html?&hostDomain=www.cnbc.com",
+            "url": "https://t.co/YmlmiqnSMr"
+          }
+        ]
+      },
+      "id": "1626092309426339841",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 79619,
+        "like_count": 202,
+        "quote_count": 3,
+        "reply_count": 16,
+        "retweet_count": 23
+      },
+      "text": "Google is offering an internal badge to their employees who help RLHF Bard.\n\nAnd slowly, RLHF will eat the world 😋\n\nhttps://t.co/YmlmiqnSMr",
+      "url": "https://x.com/alexandr_wang/status/1626092309426339841"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1625554107518881796",
+      "created_at": "2023-02-14T18:17:37.000Z",
+      "display_text_range": [
+        21,
+        56
+      ],
+      "edit_history_tweet_ids": [
+        "1625559904986533897"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "298133547",
+            "start": 0,
+            "username": "b01100010"
+          },
+          {
+            "end": 20,
+            "id": "752712449321644032",
+            "start": 11,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1625559904986533897",
+      "in_reply_to_user_id": "298133547",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2875,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1625559483052335104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@b01100010 @scale_AI we have a DC office we're hiring in",
+      "url": "https://x.com/alexandr_wang/status/1625559904986533897"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1625554107518881796",
+      "created_at": "2023-02-14T17:54:35.000Z",
+      "display_text_range": [
+        0,
+        73
+      ],
+      "edit_history_tweet_ids": [
+        "1625554109020442628"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "alexw.substack.com/p/war",
+            "end": 73,
+            "expanded_url": "https://alexw.substack.com/p/war",
+            "start": 50,
+            "unwound_url": "https://alexw.substack.com/p/war",
+            "url": "https://t.co/TawcO6cp2N"
+          }
+        ]
+      },
+      "id": "1625554109020442628",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 10185,
+        "like_count": 35,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1625554107518881796",
+          "type": "replied_to"
+        }
+      ],
+      "text": "I've written before on my thoughts on the AI War:\nhttps://t.co/TawcO6cp2N",
+      "url": "https://x.com/alexandr_wang/status/1625554109020442628"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1625553952065392655"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1625554107518881796",
+      "created_at": "2023-02-14T17:54:35.000Z",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "edit_history_tweet_ids": [
+        "1625554107518881796"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 175,
+            "id": "752712449321644032",
+            "start": 166,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.com/federal-llm",
+            "end": 278,
+            "expanded_url": "https://scale.com/federal-llm",
+            "start": 255,
+            "url": "https://t.co/dRkutgsaL4"
+          },
+          {
+            "display_url": "pic.x.com/54vhVkmmfz",
+            "end": 302,
+            "expanded_url": "https://x.com/alexandr_wang/status/1625554107518881796/photo/1",
+            "media_key": "3_1625553952065392655",
+            "start": 279,
+            "url": "https://t.co/54vhVkmmfz"
+          }
+        ]
+      },
+      "id": "1625554107518881796",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 61,
+        "impression_count": 169807,
+        "like_count": 259,
+        "quote_count": 12,
+        "reply_count": 18,
+        "retweet_count": 20
+      },
+      "text": "AI is America's greatest national security risk in the coming decades\n\nLLMs are critical national security assets, as important as the atomic bomb in prior times\n\nAt @scale_AI, we are dedicated to protecting the USA in the era of great power competition\n\nhttps://t.co/dRkutgsaL4 https://t.co/54vhVkmmfz",
+      "url": "https://x.com/alexandr_wang/status/1625554107518881796"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1624912899650068480",
+      "created_at": "2023-02-12T23:26:39.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1624912899650068480"
+      ],
+      "id": "1624912899650068480",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 185610,
+        "like_count": 671,
+        "quote_count": 9,
+        "reply_count": 51,
+        "retweet_count": 21
+      },
+      "text": "two close friends of mine told me they’re moving back to the Bay Area after moving out in the pandemic\n\nthey used to say they’d never move back to SF\n\nthe gravitational pull of SF will attract all available mass until it ultimately becomes a black hole and even light won’t escape",
+      "url": "https://x.com/alexandr_wang/status/1624912899650068480"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1624483553068064773",
+      "created_at": "2023-02-11T19:00:35.000Z",
+      "display_text_range": [
+        0,
+        269
+      ],
+      "edit_history_tweet_ids": [
+        "1624483553068064773"
+      ],
+      "id": "1624483553068064773",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 490,
+        "impression_count": 744570,
+        "like_count": 2751,
+        "quote_count": 61,
+        "reply_count": 148,
+        "retweet_count": 169
+      },
+      "text": "biggest red flag on a résumé is a spotless track record of high brand companies\n\nit indicates:\n- not sticking thru adversity\n- risk adverseness\n\nthese people are generally actors—they “play the part” of a builder without actually being one\n\nwarts are a sign of realness",
+      "url": "https://x.com/alexandr_wang/status/1624483553068064773"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1624058128558874625",
+      "created_at": "2023-02-10T14:50:06.000Z",
+      "display_text_range": [
+        0,
+        165
+      ],
+      "edit_history_tweet_ids": [
+        "1624058128558874625"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 56,
+            "id": "752712449321644032",
+            "start": 47,
+            "username": "scale_AI"
+          },
+          {
+            "end": 88,
+            "id": "16535432",
+            "start": 79,
+            "username": "goodside"
+          },
+          {
+            "end": 108,
+            "id": "1075605139",
+            "start": 93,
+            "username": "russelljkaplan"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/russelljkaplan…",
+            "end": 189,
+            "expanded_url": "https://twitter.com/russelljkaplan/status/1624054079495237643",
+            "start": 166,
+            "url": "https://t.co/Iuvsqsm2MP"
+          }
+        ]
+      },
+      "id": "1624058128558874625",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 25721,
+        "like_count": 63,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1624054079495237643",
+          "type": "quoted"
+        }
+      ],
+      "text": "if you’re interested in hacking LLMs, join the @scale_AI 🚨 LLM Red Team 🚨 with @goodside and @russelljkaplan!\n\nlet’s hack the crap out of LLMs so the bad guys don’t! https://t.co/Iuvsqsm2MP",
+      "url": "https://x.com/alexandr_wang/status/1624058128558874625"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1624050180721975299",
+      "created_at": "2023-02-10T14:18:31.000Z",
+      "display_text_range": [
+        0,
+        231
+      ],
+      "edit_history_tweet_ids": [
+        "1624050180721975299"
+      ],
+      "id": "1624050180721975299",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 54,
+        "impression_count": 305921,
+        "like_count": 627,
+        "quote_count": 10,
+        "reply_count": 70,
+        "retweet_count": 17
+      },
+      "text": "the fact that there exist people on this world who say with a straight face that “Miami is the most productive city” is so crazy\n\nit literally is a glitzy-but-sketchy party personified as a city\n\ngaslighters are everywhere. beware!",
+      "url": "https://x.com/alexandr_wang/status/1624050180721975299"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623678094354657281",
+      "created_at": "2023-02-09T19:29:06.000Z",
+      "display_text_range": [
+        0,
+        117
+      ],
+      "edit_history_tweet_ids": [
+        "1623765953719726080"
+      ],
+      "id": "1623765953719726080",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 30003,
+        "like_count": 199,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623678094354657281",
+          "type": "replied_to"
+        }
+      ],
+      "text": "ok I will now admit that coders are using it everyday as 10x stackoverflow\n\ngood thing they did all that coding RLHF!",
+      "url": "https://x.com/alexandr_wang/status/1623765953719726080"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623678094354657281",
+      "created_at": "2023-02-09T13:39:58.000Z",
+      "display_text_range": [
+        0,
+        170
+      ],
+      "edit_history_tweet_ids": [
+        "1623678094354657281"
+      ],
+      "id": "1623678094354657281",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 111,
+        "impression_count": 317055,
+        "like_count": 908,
+        "quote_count": 27,
+        "reply_count": 190,
+        "retweet_count": 36
+      },
+      "text": "the first—and still only—killer use case of ChatGPT is doing homework\n\nnearly every student is using it everyday\n\nbut I haven’t heard of anyone else using it consistently",
+      "url": "https://x.com/alexandr_wang/status/1623678094354657281"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623456635619520512",
+      "created_at": "2023-02-08T22:59:58.000Z",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "edit_history_tweet_ids": [
+        "1623456635619520512"
+      ],
+      "id": "1623456635619520512",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 103,
+        "impression_count": 194235,
+        "like_count": 1322,
+        "quote_count": 14,
+        "reply_count": 72,
+        "retweet_count": 113
+      },
+      "text": "the fact that Google market cap fell $100B in a day after being *slightly* late to RLHF-enhanced LLMs (ChatGPT-like models)—after inventing the Transformer—is a great lesson that you cannot take your eye off the ball.\n\nyou must have stellar execution at all times—or it’ll hurt",
+      "url": "https://x.com/alexandr_wang/status/1623456635619520512"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623434120222359552",
+      "created_at": "2023-02-08T21:30:31.000Z",
+      "display_text_range": [
+        0,
+        39
+      ],
+      "edit_history_tweet_ids": [
+        "1623434124827688962"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Alphabet Inc lost $100 billion in market value on Wednesday after its new chatbot shared inaccurate information in a promotional video and a company event failed to dazzle, feeding worries that the Google parent is losing ground to rival Microsoft Corp .",
+            "display_url": "reuters.com/technology/goo…",
+            "end": 39,
+            "expanded_url": "https://www.reuters.com/technology/google-ai-chatbot-bard-offers-inaccurate-information-company-ad-2023-02-08/",
+            "images": [
+              {
+                "height": 1005,
+                "url": "https://pbs.twimg.com/news_img/2121912187824320512/FBlnev6I?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2121912187824320512/FBlnev6I?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 16,
+            "status": 200,
+            "title": "Alphabet shares dive after Google AI chatbot Bard flubs answer in ad",
+            "unwound_url": "https://www.reuters.com/technology/google-ai-chatbot-bard-offers-inaccurate-information-company-ad-2023-02-08/",
+            "url": "https://t.co/QDhY0fxcpN"
+          }
+        ]
+      },
+      "id": "1623434124827688962",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 8701,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623434120222359552",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Source on Bard:\nhttps://t.co/QDhY0fxcpN",
+      "url": "https://x.com/alexandr_wang/status/1623434124827688962"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623434120222359552",
+      "created_at": "2023-02-08T21:30:30.000Z",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "edit_history_tweet_ids": [
+        "1623434120222359552"
+      ],
+      "id": "1623434120222359552",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 34692,
+        "like_count": 129,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 15
+      },
+      "text": "The recent news around Google Bard's incorrect fact in the ad points to 2 increasingly critical parts of the nascent LLM stack:\n\n- LLM Expert Verification—experts in the loop constantly fact-checking LLMs\n- RLHF—encourage the model to bullshit less, and rely more on exact facts",
+      "url": "https://x.com/alexandr_wang/status/1623434120222359552"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623411871192842241",
+      "created_at": "2023-02-08T20:38:51.000Z",
+      "display_text_range": [
+        0,
+        8
+      ],
+      "edit_history_tweet_ids": [
+        "1623421120958574592"
+      ],
+      "id": "1623421120958574592",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7398,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623411871192842241",
+          "type": "replied_to"
+        }
+      ],
+      "text": "*pat ugh",
+      "url": "https://x.com/alexandr_wang/status/1623421120958574592"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623411871192842241",
+      "created_at": "2023-02-08T20:02:06.000Z",
+      "display_text_range": [
+        0,
+        190
+      ],
+      "edit_history_tweet_ids": [
+        "1623411871192842241"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "19908394",
+            "start": 1,
+            "username": "mavolpi"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/mavolpi/status…",
+            "end": 214,
+            "expanded_url": "https://twitter.com/mavolpi/status/1623378931129933825",
+            "start": 191,
+            "url": "https://t.co/fIzUebOcEQ"
+          }
+        ]
+      },
+      "id": "1623411871192842241",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 19077,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623378931129933825",
+          "type": "quoted"
+        }
+      ],
+      "text": ".@mavolpi is too kind, but I’m so lucky to have him as a mentor, partner, and friend.\n\nthat being said, the AI era is just getting started, so let’s not pay ourselves on the back just yet ;) https://t.co/fIzUebOcEQ",
+      "url": "https://x.com/alexandr_wang/status/1623411871192842241"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623378931129933825",
+      "created_at": "2023-02-08T18:02:13.000Z",
+      "display_text_range": [
+        19,
+        176
+      ],
+      "edit_history_tweet_ids": [
+        "1623381702163955712"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "19908394",
+            "start": 0,
+            "username": "mavolpi"
+          },
+          {
+            "end": 18,
+            "id": "752712449321644032",
+            "start": 9,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1623381702163955712",
+      "in_reply_to_user_id": "19908394",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4377,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623378931129933825",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mavolpi @scale_AI Mike, working with you has been a highlight of my (albeit short) career as well :)\n\nBut actually, it’s been an absolute ride, and we’re just getting started!",
+      "url": "https://x.com/alexandr_wang/status/1623381702163955712"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623078358497230848",
+      "created_at": "2023-02-07T21:56:51.000Z",
+      "display_text_range": [
+        0,
+        56
+      ],
+      "edit_history_tweet_ids": [
+        "1623078363828224001"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "9to5mac.com/2021/08/25/ana…",
+            "end": 56,
+            "expanded_url": "https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/amp/",
+            "start": 33,
+            "status": 200,
+            "unwound_url": "https://9to5mac.com/2021/08/25/analysts-google-to-pay-apple-15-billion-to-remain-default-safari-search-engine-in-2021/",
+            "url": "https://t.co/qBdJlvfypu"
+          }
+        ]
+      },
+      "id": "1623078363828224001",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 60580,
+        "like_count": 187,
+        "quote_count": 3,
+        "reply_count": 1,
+        "retweet_count": 15
+      },
+      "text": "Source on the current $15B deal: https://t.co/qBdJlvfypu",
+      "url": "https://x.com/alexandr_wang/status/1623078363828224001"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623078358497230848",
+      "created_at": "2023-02-07T21:56:50.000Z",
+      "display_text_range": [
+        0,
+        268
+      ],
+      "edit_history_tweet_ids": [
+        "1623078358497230848"
+      ],
+      "id": "1623078358497230848",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 308,
+        "impression_count": 967940,
+        "like_count": 4235,
+        "quote_count": 110,
+        "reply_count": 172,
+        "retweet_count": 302
+      },
+      "text": "PREDICTION: Google’s $15B deal with Apple to be the default search on iPhone will be re-negotiated and be a bidding war between MSFT/Bing and Google.\n\nIt will become at least $25B, if not more.\n\nIf MSFT is willing to spend $10B on OpenAI, they’ll spend even more here.",
+      "url": "https://x.com/alexandr_wang/status/1623078358497230848"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623039053884162048",
+      "created_at": "2023-02-07T19:35:25.000Z",
+      "display_text_range": [
+        17,
+        65
+      ],
+      "edit_history_tweet_ids": [
+        "1623042767239942145"
+      ],
+      "id": "1623042767239942145",
+      "in_reply_to_user_id": "1344421144422723584",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 782,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623041422617153569",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@varepsilondelta clearly the best option is come work at Scale AI",
+      "url": "https://x.com/alexandr_wang/status/1623042767239942145"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623039053884162048",
+      "created_at": "2023-02-07T19:28:12.000Z",
+      "display_text_range": [
+        12,
+        43
+      ],
+      "edit_history_tweet_ids": [
+        "1623040951815143424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1686246370850594816",
+            "start": 0,
+            "username": "SpiceBaked"
+          }
+        ]
+      },
+      "id": "1623040951815143424",
+      "in_reply_to_user_id": "1552266058001780736",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 683,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1623040190091784193",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SpiceBaked all me, for better or for worse",
+      "url": "https://x.com/alexandr_wang/status/1623040951815143424"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1623039053884162048",
+      "created_at": "2023-02-07T19:20:39.000Z",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "edit_history_tweet_ids": [
+        "1623039053884162048"
+      ],
+      "id": "1623039053884162048",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 44456,
+        "like_count": 310,
+        "quote_count": 4,
+        "reply_count": 23,
+        "retweet_count": 32
+      },
+      "text": "The degree of future acceleration in AI right now is bonkers\n\nOne day in AI feels like a week in “normal business time”\n\nThese relativistic effects mean that some companies will accomplish what would normally take 3 yrs in 1 yr\n\nAnd unfortunately, many others will be left behind",
+      "url": "https://x.com/alexandr_wang/status/1623039053884162048"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1622760302516355072",
+      "created_at": "2023-02-07T00:53:00.000Z",
+      "display_text_range": [
+        0,
+        288
+      ],
+      "edit_history_tweet_ids": [
+        "1622760302516355072"
+      ],
+      "id": "1622760302516355072",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 56,
+        "impression_count": 37544,
+        "like_count": 207,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 29
+      },
+      "text": "RLHF is the \"UI/interface design\" of LLMs &amp; genAI.\n\nIt is how we will _design_ the interactions between users &amp; the model, and program it to mirror the desired behavior—helpful, playful, creative, factual\n\nLike design, it will be a fundamental way to differentiate in the next era",
+      "url": "https://x.com/alexandr_wang/status/1622760302516355072"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1622336208138571776",
+      "created_at": "2023-02-05T20:47:48.000Z",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "edit_history_tweet_ids": [
+        "1622336208138571776"
+      ],
+      "id": "1622336208138571776",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 121,
+        "impression_count": 82407,
+        "like_count": 475,
+        "quote_count": 3,
+        "reply_count": 23,
+        "retweet_count": 56
+      },
+      "text": "toughest questions right now in AI are\n\n- is it a feature or a product?\n- is it a fad/novelty or a repeat use case?\n\nhint: if your retention sucks, it might just be a fad or novelty\n\nhint: if an incumbent can easily integrate it, &amp; the best most is “model quality”, it’s a feature",
+      "url": "https://x.com/alexandr_wang/status/1622336208138571776"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1621935999373938689",
+      "created_at": "2023-02-04T18:17:31.000Z",
+      "display_text_range": [
+        0,
+        239
+      ],
+      "edit_history_tweet_ids": [
+        "1621935999373938689"
+      ],
+      "id": "1621935999373938689",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 208,
+        "impression_count": 353825,
+        "like_count": 1219,
+        "quote_count": 29,
+        "reply_count": 77,
+        "retweet_count": 64
+      },
+      "text": "the #1 reason to go to college is to find a significant other before the Real World corrupts you and all your suitors\n\nthe #2 reason is to make friends with whom you can share your whole life arc\n\nthen it’s a distant 3rd to… great parties?",
+      "url": "https://x.com/alexandr_wang/status/1621935999373938689"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1621309293655097344",
+      "created_at": "2023-02-03T01:16:38.000Z",
+      "display_text_range": [
+        25,
+        230
+      ],
+      "edit_history_tweet_ids": [
+        "1621316698598166528"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "819371788958244865",
+            "start": 0,
+            "username": "OldestThingEver"
+          },
+          {
+            "end": 24,
+            "id": "20263710",
+            "start": 17,
+            "username": "rabois"
+          },
+          {
+            "end": 60,
+            "id": "1471328340",
+            "start": 51,
+            "username": "MeowWolf"
+          }
+        ]
+      },
+      "id": "1621316698598166528",
+      "in_reply_to_user_id": "819371788958244865",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 989,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1621311806021984257",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OldestThingEver @rabois omg dude i am the biggest @MeowWolf fan, and love immersive tech/art so much...\n\nwe should do something together\n\n(also yeah NM sunsets are just way better... you kind of forget about it until you go back)",
+      "url": "https://x.com/alexandr_wang/status/1621316698598166528"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1625553952065392655",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1625553952065392655"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1625554107518881796",
+        "created_at": "2023-02-14T17:54:35.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_history_tweet_ids": [
+          "1625554107518881796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 175,
+              "id": "752712449321644032",
+              "start": 166,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.com/federal-llm",
+              "end": 278,
+              "expanded_url": "https://scale.com/federal-llm",
+              "start": 255,
+              "url": "https://t.co/dRkutgsaL4"
+            },
+            {
+              "display_url": "pic.x.com/54vhVkmmfz",
+              "end": 302,
+              "expanded_url": "https://x.com/alexandr_wang/status/1625554107518881796/photo/1",
+              "media_key": "3_1625553952065392655",
+              "start": 279,
+              "url": "https://t.co/54vhVkmmfz"
+            }
+          ]
+        },
+        "id": "1625554107518881796",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 169807,
+          "like_count": 259,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 20
+        },
+        "text": "AI is America's greatest national security risk in the coming decades\n\nLLMs are critical national security assets, as important as the atomic bomb in prior times\n\nAt @scale_AI, we are dedicated to protecting the USA in the era of great power competition\n\nhttps://t.co/dRkutgsaL4 https://t.co/54vhVkmmfz"
+      },
+      {
+        "author_id": "1075605139",
+        "conversation_id": "1624054079495237643",
+        "created_at": "2023-02-10T14:34:00.000Z",
+        "display_text_range": [
+          0,
+          198
+        ],
+        "edit_history_tweet_ids": [
+          "1624054079495237643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "752712449321644032",
+              "start": 38,
+              "username": "scale_AI"
+            },
+            {
+              "end": 113,
+              "id": "16535432",
+              "start": 104,
+              "username": "goodside"
+            }
+          ]
+        },
+        "id": "1624054079495237643",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 168339,
+          "like_count": 447,
+          "quote_count": 15,
+          "reply_count": 22,
+          "retweet_count": 36
+        },
+        "text": "We're assembling an 🚨LLM Red Team🚨 at @scale_AI. Come get paid to jailbreak language models with me and @goodside. If interested, email language-models@scale.com with your favorite jailbreak prompt."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1623678094354657281",
+        "created_at": "2023-02-09T13:39:58.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_history_tweet_ids": [
+          "1623678094354657281"
+        ],
+        "id": "1623678094354657281",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 317055,
+          "like_count": 908,
+          "quote_count": 27,
+          "reply_count": 190,
+          "retweet_count": 36
+        },
+        "text": "the first—and still only—killer use case of ChatGPT is doing homework\n\nnearly every student is using it everyday\n\nbut I haven’t heard of anyone else using it consistently"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1623434120222359552",
+        "created_at": "2023-02-08T21:30:30.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_history_tweet_ids": [
+          "1623434120222359552"
+        ],
+        "id": "1623434120222359552",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 34692,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "text": "The recent news around Google Bard's incorrect fact in the ad points to 2 increasingly critical parts of the nascent LLM stack:\n\n- LLM Expert Verification—experts in the loop constantly fact-checking LLMs\n- RLHF—encourage the model to bullshit less, and rely more on exact facts"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1623411871192842241",
+        "created_at": "2023-02-08T20:02:06.000Z",
+        "display_text_range": [
+          0,
+          190
+        ],
+        "edit_history_tweet_ids": [
+          "1623411871192842241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "19908394",
+              "start": 1,
+              "username": "mavolpi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mavolpi/status…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/mavolpi/status/1623378931129933825",
+              "start": 191,
+              "url": "https://t.co/fIzUebOcEQ"
+            }
+          ]
+        },
+        "id": "1623411871192842241",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19077,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1623378931129933825",
+            "type": "quoted"
+          }
+        ],
+        "text": ".@mavolpi is too kind, but I’m so lucky to have him as a mentor, partner, and friend.\n\nthat being said, the AI era is just getting started, so let’s not pay ourselves on the back just yet ;) https://t.co/fIzUebOcEQ"
+      },
+      {
+        "author_id": "19908394",
+        "conversation_id": "1623378931129933825",
+        "created_at": "2023-02-08T17:51:12.000Z",
+        "display_text_range": [
+          0,
+          284
+        ],
+        "edit_history_tweet_ids": [
+          "1623378931129933825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "615818451",
+              "start": 9,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 70,
+              "id": "752712449321644032",
+              "start": 61,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "indexventures.com/perspectives/s…",
+              "end": 284,
+              "expanded_url": "https://www.indexventures.com/perspectives/scale-ai-why-data-will-power-the-ai-revolution/",
+              "start": 261,
+              "status": 200,
+              "unwound_url": "https://www.indexventures.com/perspectives/scale-ai-why-data-will-power-the-ai-revolution/",
+              "url": "https://t.co/KQFULvOxiW"
+            }
+          ]
+        },
+        "id": "1623378931129933825",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 81434,
+          "like_count": 139,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "text": "Watching @alexandr_wang grow as a leader right alongside the @scale_AI business has been one of the highlights of my career. What started as making labeled data for AV has grown into so much more. Spectacular journey &amp; example for entrepreneurs everywhere. https://t.co/KQFULvOxiW"
+      },
+      {
+        "author_id": "1344421144422723584",
+        "conversation_id": "1623039053884162048",
+        "created_at": "2023-02-07T19:30:04.000Z",
+        "display_text_range": [
+          15,
+          113
+        ],
+        "edit_history_tweet_ids": [
+          "1623041422617153569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1623041422617153569",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 865,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1623039053884162048",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang should a new grad go work in big tech or join a startup? or is there some third even better option"
+      },
+      {
+        "author_id": "819371788958244865",
+        "conversation_id": "1621309293655097344",
+        "created_at": "2023-02-03T00:57:11.000Z",
+        "display_text_range": [
+          23,
+          265
+        ],
+        "edit_history_tweet_ids": [
+          "1621311806021984257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 22,
+              "id": "20263710",
+              "start": 15,
+              "username": "rabois"
+            }
+          ]
+        },
+        "id": "1621311806021984257",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1621309293655097344",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @rabois Born there all your life, too? \n\nGreen Chili for 30 years here. Now that I’m in NY, all I can get is 505 Bottled chili (which I’m cool with because that was my families biz!) ;) \n\nI miss zozobra, breakfast burritos, and those amazing sunsets."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "298133547",
+        "name": "fae",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708582404225634304/jnNVFBAz_normal.jpg",
+        "username": "b01100010",
+        "verified": false
+      },
+      {
+        "id": "19908394",
+        "name": "Mike Volpi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121903990581473280/eXGBKdBp_normal.jpg",
+        "username": "mavolpi",
+        "verified": false
+      },
+      {
+        "id": "1344421144422723584",
+        "name": "varepsilon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753913053672857600/JSKl-7sD_normal.jpg",
+        "username": "var_epsilon",
+        "verified": false
+      },
+      {
+        "id": "1552266058001780736",
+        "name": "auty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837901252480679936/00CHXTq0_normal.jpg",
+        "username": "auticey",
+        "verified": false
+      },
+      {
+        "id": "819371788958244865",
+        "name": "Brian Solomon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728865117616402432/x0O5UIXR_normal.jpg",
+        "username": "OldestThingEver",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1626092309426339841",
+    "next_token": "b26v89c19zqg8o3fqk6zjitmdnmsf88azbqv6fya4zpfh",
+    "oldest_id": "1621316698598166528",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1625559483052335104].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1625559483052335104",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1625559483052335104"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1623040190091784193].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1623040190091784193",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1623040190091784193"
+    }
+  ]
+}

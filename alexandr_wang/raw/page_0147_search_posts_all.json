@@ -1,0 +1,510 @@
+{
+  "collected_at_utc": "2026-11-24T12:21:56Z",
+  "collected_at_shanghai": "2026-11-24T20:21:56+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R255163VWA22R9ASFH1M3.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2021-08-01T00:00:00Z",
+    "end_time": "2021-09-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2021-08"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1432124203025633282",
+      "created_at": "2021-08-29T23:33:12.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1432124203025633282"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 94,
+            "id": "752712449321644032",
+            "start": 85,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1432124203025633282",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 0,
+        "like_count": 138,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 3
+      },
+      "text": "The talent density in technology right now is absolutely insane.\n\nIn addition to the @scale_AI team (which I’m constantly impressed by!), most of the new people I meet are all convicted, smart, and thoughtful.\n\nThe old days of “one tech community” are so over—talent is everywhere",
+      "url": "https://x.com/alexandr_wang/status/1432124203025633282"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1428099640570822660",
+      "created_at": "2021-08-18T21:01:01.000Z",
+      "display_text_range": [
+        0,
+        143
+      ],
+      "edit_history_tweet_ids": [
+        "1428099640570822660"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 53,
+            "id": "216939636",
+            "start": 43,
+            "username": "AndrewYNg"
+          },
+          {
+            "end": 125,
+            "id": "940323623398551552",
+            "start": 115,
+            "username": "landingAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "DeepLearning.AI",
+            "end": 89,
+            "expanded_url": "http://DeepLearning.AI",
+            "start": 66,
+            "url": "https://t.co/rULFYixN62"
+          }
+        ]
+      },
+      "id": "1428099640570822660",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 16
+      },
+      "referenced_tweets": [
+        {
+          "id": "1428095186379280387",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: We're thrilled to share that @AndrewYNg, Founder of https://t.co/rULFYixN62 and Founder &amp; CEO of @landingAI, will be joining…",
+      "url": "https://x.com/alexandr_wang/status/1428099640570822660"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1425296832851320832",
+      "created_at": "2021-08-11T03:24:14.000Z",
+      "display_text_range": [
+        0,
+        91
+      ],
+      "edit_history_tweet_ids": [
+        "1425296974086033410"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 26,
+            "id": "752712449321644032",
+            "start": 17,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1425296974086033410",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1425296832851320832",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Thank you to our @scale_AI team for your continued commitment to building the future of AI.",
+      "url": "https://x.com/alexandr_wang/status/1425296974086033410"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1425296832851320832",
+      "created_at": "2021-08-11T03:23:40.000Z",
+      "display_text_range": [
+        0,
+        239
+      ],
+      "edit_history_tweet_ids": [
+        "1425296832851320832"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 43,
+            "id": "91478624",
+            "start": 36,
+            "username": "Forbes"
+          },
+          {
+            "end": 53,
+            "id": "730888480025284608",
+            "start": 44,
+            "username": "cloud100"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "forbes.com/cloud100/",
+            "end": 239,
+            "expanded_url": "https://www.forbes.com/cloud100/",
+            "start": 216,
+            "url": "https://t.co/mD94SSgkX1"
+          }
+        ]
+      },
+      "id": "1425296832851320832",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "text": "Amazing to see Scale on this year’s @Forbes @cloud100 🎊\n\nThis recognition of our momentum over the past year shows that enterprises are recognizing the power of AI. We’re grateful to be part of this transformation.\n\nhttps://t.co/mD94SSgkX1",
+      "url": "https://x.com/alexandr_wang/status/1425296832851320832"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1424864118356406283",
+      "created_at": "2021-08-09T22:44:13.000Z",
+      "display_text_range": [
+        0,
+        185
+      ],
+      "edit_history_tweet_ids": [
+        "1424864118356406283"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/axios/status/1…",
+            "end": 209,
+            "expanded_url": "https://twitter.com/axios/status/1424755173398831113",
+            "start": 186,
+            "url": "https://t.co/99Dk8iUYhU"
+          }
+        ]
+      },
+      "id": "1424864118356406283",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1424755173398831113",
+          "type": "quoted"
+        }
+      ],
+      "text": "Whether you’re an AI believer or not, the AI revolution is inevitable and it's more important than ever for businesses across all industries to embrace AI adoption before it's too late. https://t.co/99Dk8iUYhU",
+      "url": "https://x.com/alexandr_wang/status/1424864118356406283"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1422364316527828993",
+      "created_at": "2021-08-03T01:10:53.000Z",
+      "display_text_range": [
+        0,
+        185
+      ],
+      "edit_history_tweet_ids": [
+        "1422364316527828993"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/techreview/sta…",
+            "end": 209,
+            "expanded_url": "https://twitter.com/techreview/status/1421444407967068160",
+            "start": 186,
+            "url": "https://t.co/WYbBLN9p64"
+          }
+        ]
+      },
+      "id": "1422364316527828993",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 105,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "1421444407967068160",
+          "type": "quoted"
+        }
+      ],
+      "text": "Bad data = bad results. AI has the potential to save lives, but without quality data, we’re left disappointed, or worse. It’s imperative that we make data the core of every AI strategy. https://t.co/WYbBLN9p64",
+      "url": "https://x.com/alexandr_wang/status/1422364316527828993"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1428092307673280512"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1428095186379280387",
+        "created_at": "2021-08-18T20:43:19.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_history_tweet_ids": [
+          "1428095186379280387"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 268,
+              "start": 255,
+              "tag": "transformX21"
+            },
+            {
+              "end": 272,
+              "start": 269,
+              "tag": "ai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "216939636",
+              "start": 29,
+              "username": "AndrewYNg"
+            },
+            {
+              "end": 111,
+              "id": "940323623398551552",
+              "start": 101,
+              "username": "landingAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "DeepLearning.AI",
+              "end": 75,
+              "expanded_url": "http://DeepLearning.AI",
+              "start": 52,
+              "url": "https://t.co/rULFYixN62"
+            },
+            {
+              "display_url": "scl.ai/3iTRsud",
+              "end": 253,
+              "expanded_url": "https://scl.ai/3iTRsud",
+              "start": 230,
+              "url": "https://t.co/4RnSXxcNt9"
+            },
+            {
+              "display_url": "pic.x.com/VuCmURtdiS",
+              "end": 296,
+              "expanded_url": "https://x.com/scale_AI/status/1428095186379280387/video/1",
+              "media_key": "7_1428092307673280512",
+              "start": 273,
+              "url": "https://t.co/VuCmURtdiS"
+            }
+          ]
+        },
+        "id": "1428095186379280387",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 0,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 16
+        },
+        "text": "We're thrilled to share that @AndrewYNg, Founder of https://t.co/rULFYixN62 and Founder &amp; CEO of @landingAI, will be joining TransformX as a keynote speaker.\n\n🎟 Registration is free and will give you access to all recordings: https://t.co/4RnSXxcNt9\n\n#transformX21 #ai https://t.co/VuCmURtdiS"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1425296832851320832",
+        "created_at": "2021-08-11T03:23:40.000Z",
+        "display_text_range": [
+          0,
+          239
+        ],
+        "edit_history_tweet_ids": [
+          "1425296832851320832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "91478624",
+              "start": 36,
+              "username": "Forbes"
+            },
+            {
+              "end": 53,
+              "id": "730888480025284608",
+              "start": 44,
+              "username": "cloud100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "forbes.com/cloud100/",
+              "end": 239,
+              "expanded_url": "https://www.forbes.com/cloud100/",
+              "start": 216,
+              "url": "https://t.co/mD94SSgkX1"
+            }
+          ]
+        },
+        "id": "1425296832851320832",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "text": "Amazing to see Scale on this year’s @Forbes @cloud100 🎊\n\nThis recognition of our momentum over the past year shows that enterprises are recognizing the power of AI. We’re grateful to be part of this transformation.\n\nhttps://t.co/mD94SSgkX1"
+      },
+      {
+        "author_id": "800707492346925056",
+        "conversation_id": "1424755173398831113",
+        "created_at": "2021-08-09T15:31:18.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_history_tweet_ids": [
+          "1424755173398831113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "trib.al/pFy6LbJ",
+              "end": 93,
+              "expanded_url": "https://trib.al/pFy6LbJ",
+              "start": 70,
+              "url": "https://t.co/jEqumRgIXL"
+            }
+          ]
+        },
+        "id": "1424755173398831113",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "text": "Exclusive: Only 20% of U.S. companies are effectively implementing AI https://t.co/jEqumRgIXL"
+      },
+      {
+        "author_id": "15808647",
+        "conversation_id": "1421444407967068160",
+        "created_at": "2021-07-31T12:15:30.000Z",
+        "display_text_range": [
+          0,
+          241
+        ],
+        "edit_history_tweet_ids": [
+          "1421444407967068160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "trib.al/j5HoV1w",
+              "end": 241,
+              "expanded_url": "https://trib.al/j5HoV1w",
+              "start": 218,
+              "url": "https://t.co/88jdFjXUaX"
+            }
+          ]
+        },
+        "id": "1421444407967068160",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 0,
+          "like_count": 45,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "text": "The AI community rushed to develop software that many believed would allow hospitals to diagnose or triage patients faster—in theory. In the end, none of them made a real difference, and some were potentially harmful. https://t.co/88jdFjXUaX"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1432124203025633282",
+    "next_token": "b26v89c19zqg8o3fpdm7b3gmmdp9az9vqhxsxr1y8ool9",
+    "oldest_id": "1422364316527828993",
+    "result_count": 6
+  },
+  "errors": []
+}

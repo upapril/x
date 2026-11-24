@@ -1,8 +1,8 @@
 # Analysis — @silverfang88 (子时)
 
-**Corpus:** 6,576 unique stored posts, 2021-09-13 14:35:07 GMT+8 → 2026-11-24 17:58:30 GMT+8 (Asia/Shanghai). Types: original 2,692, reply 2,685, quote 598, repost 601.
+**Corpus:** 9,239 unique stored posts, 2021-09-13 14:35:07 GMT+8 → 2026-11-24 17:58:30 GMT+8 (Asia/Shanghai). Types: original 4,168, reply 3,561, quote 874, repost 636.
 
-**Coverage (read this first).** This is not a complete history. Monthly `search_posts_all` windows are largely exhausted from 2021-09 through 2023-12 (with a 2023-09 pagination stall plus an exhausted earlier subwindow), and 2024-01/02/04 are exhausted, but 2024-03 and 2024-05–09 remain open, and **most of 2024-10 through 2025 and 2026 was never opened**. The store has only **25 posts in 2025** — a first-pass year-end sample, not a quiet year. 2026 is a mix of first-pass samples, recent timeline pages, and one open early-November slice. See `coverage_manifest.md`. Profile `post_count` at first lookup was 19,982; that is not a missing-count proof.
+**Coverage (read this first).** This is not a complete history. Monthly windows are largely exhausted from 2021-09 through 2023-12 (with a 2023-09 pagination stall plus an exhausted earlier subwindow). 2024-01/02/04 are exhausted; 2024-03 and 2024-05–09 remain open; 2024-10–12 may still be pending. By day-1 close, stored **2025 = 1,469** and **2026 = 1,422**. Exhausted in later passes: 2025-12/11/10/09/08; 2026-11-08to25, 2026-11-01to08, 2026-10, 2026-09, 2026-08, 2026-06, and subwindow 2026-07-01to26. Still open: 2025-07, 2025-06, 2025-05. Pending: 2025-01–04. Parent `2026-07` remains `pagination_stalled` (do not reuse). Do not open pending label 2026-11. See `coverage_manifest.md` and `logs/remaining_jobs_day1.json`. Profile `post_count` at first lookup was 19,982; that is not a missing-count proof.
 
 Public identity is taken only from the public profile and posts: display name 子时; affiliation text “Polymarket Traders”; bio links to Telegram and OKX; verified_type blue. **No legal name or private-life inference is made.**
 
@@ -144,9 +144,9 @@ The 2026 pin says he intends to record US-stock live trades “按周期 … 写
 
 **2024 (1,240 stored; only partly exhausted).** The 27 Mar “满仓挨打 / 我认错” posts are a public process failure. Later commentary includes structural ETH / L2 / foundation-selling argument (e.g. [1829817571966587145](https://x.com/silverfang88/status/1829817571966587145), 2024-08-31 17:44:40 GMT+8). Open windows remain; do not over-read gaps.
 
-**2025 (25 stored).** Too thin to characterize. Do not infer silence, a style change, or a “retired year.”
+**2025 (198 stored; 2025-09 through 2025-12 opened and still not exhausted; 2025-01–08 pending).** No longer a 25-post sample, but still incomplete. Newly retrieved October 2025 posts include an explicit Polymarket if-then plan and a later all-in (see the 2025–2026 rules section below). Do not treat January–August 2025 as characterized.
 
-**2026 (203 stored; incomplete).** Public focus pivots toward US midterms, Fed/oil/tariffs/AI concentration, and NVIDIA-centered political satire (e.g. [2124321976546439301](https://x.com/silverfang88/status/2124321976546439301), 2026-11-22 10:00:01 GMT+8; serialized “黄仁勋” days [2122728574407049292](https://x.com/silverfang88/status/2122728574407049292) and [2124866518936957436](https://x.com/silverfang88/status/2124866518936957436)). The pin combines bubble language, a ≥1-year AI-game thesis, a midterm “梭进去” timing plan, and self-reported IBKR results. Mid-late November posts already question whether near-term logic is failing while still sketching a mega-cap reconsolidation.
+**2026 (589 stored; incomplete, but much denser than the prior package).** Public focus pivots toward US midterms, Fed/oil/tariffs/AI concentration, and NVIDIA-centered political satire (e.g. [2124321976546439301](https://x.com/silverfang88/status/2124321976546439301), 2026-11-22 10:00:01 GMT+8; serialized “黄仁勋” days [2122728574407049292](https://x.com/silverfang88/status/2122728574407049292) and [2124866518936957436](https://x.com/silverfang88/status/2124866518936957436)). The pin combines bubble language, a ≥1-year AI-game thesis, a midterm “梭进去” timing plan, and self-reported IBKR results. Mid-late November posts already question whether near-term logic is failing while still sketching a mega-cap reconsolidation.
 
 ---
 
@@ -158,12 +158,50 @@ The 2026 pin says he intends to record US-stock live trades “按周期 … 写
 4. **Self-reported performance.** The pin’s “本金300多万美金 … 三个月最高赚了360万美金ibkr账号” is a claim, with other accounts explicitly withheld. There is no independent brokerage verification in this research, and no backtest. **Do not treat it as proof of edge.**
 5. **Survivorship and selection.** “那就不展示了” is an open selection filter. Public year-end or pin highlights over-represent paths that can be shown.
 6. **Monetization and conflicts.** Bio links (Telegram, OKX), Friend.tech key-calling with prices and “大群,” memecoin bot shout-outs, and midterm-content positioning all create an incentive to be early, loud, and followed. That does not make every idea false; it does mean performance theater and distribution are part of the genre.
-7. **Coverage failure mode for the reader.** If you build a 2025–2026 theory from 25 + 203 posts, you are mostly reading samples, not the years.
+7. **Coverage failure mode for the reader.** 2025–2026 is now much denser (198 + 589) but still not monthly-exhausted. 2025-01–08 and several 2026 months remain pending or stalled. Do not treat this as a complete two-year record.
 
 ---
+
+
+
+## 2025–2026 rules added in the continuation pass
+
+These posts were not in the earlier expanded-package narrative. They do not replace the 2023 playbook; they show what he was actually writing in the later US-stock / prediction-market period.
+
+**Explicit Polymarket if-then plan, 29 Oct 2025** (https://x.com/silverfang88/status/1983399818249809979, 2025-10-29 13:05:41 GMT+8):
+
+> 策略是盘前先下1000u
+> 如果KT输了，跌了
+> 我就接着加仓
+>
+> - 如果0:1了，就梭哈，1:1观望
+> - 如果2:0了，止盈，然后等2:1抄底，再来一波
+> - 如果要0:2了，就提前准备逃命
+>
+> 在团战劣势的时候买入，不追涨
+
+Two days later he posted “加仓，all in SKT … 梭哈2万u！” (https://x.com/silverfang88/status/1984213255070548184, 2025-10-31 18:57:59 GMT+8). That is a **dated, market-specific** branching plan plus a later all-in, not a verified edge, and the 1000u / 2万u figures are his stated stakes, not a general sizing rule to copy.
+
+**Interpretation.** He is willing to write a contingent plan (add if the price falls; 梭 only on a named score; take profit on 2:0; “逃命” if 0:2) and still, two days later, use “all in / 梭哈” language. The useful study object is the pair, as with the 2023 scale-out list vs 2024 满仓挨打.
+
+**US-stock risk language, Oct–Nov 2026 (explicit, unverified as fills):**
+
+- 28 Oct 2026: “不过我仓位前几天已经打满了 / 目前不准备加了” — https://x.com/silverfang88/status/2115386689426239808 (2026-10-28 18:14:23 GMT+8).
+- 17 Nov 2026: “我个人判断美股基本底部将近了 / 仓位也对此负责 准备满仓+杠杆” — https://x.com/silverfang88/status/2122630125145485399 (2026-11-17 17:57:13 GMT+8). He does **not** state a leverage multiple here; none will be invented.
+- 11 Nov 2026: a three-scenario bubble sketch (跌80% / 跌60% / “底部接近”) and “信不信就看胆子大不大了” — https://x.com/silverfang88/status/2120455729584979984 (2026-11-11 17:56:56 GMT+8). Scenario math is his opinion, not a forecast this research can validate.
+- 20 Nov 2026: “可以在OKX设置定投QQQ了 / 熊市定投 牛市收获” and “选举后定投一年” — https://x.com/silverfang88/status/2123691055170429115 (2026-11-20 16:12:58 GMT+8). This sits in tension with the same month’s “满仓+杠杆” and midterm “梭进去” language: a DCA slogan and a concentrated leverage slogan can both appear, and neither is a complete policy.
+
+**Practical test (ours, not his rule).** When you see a branching plan like the 29 Oct 2025 post, write the branches *and* a stake you can lose on the 梭 branch *before* the event. Then compare the next post (here, “all in” two days later). Do not import 满仓+杠杆, 2万u, or “定投一年年化30%” as a method; the last figure is a self-stated expectation, not a result.
+
 
 ## What a careful reader can actually take
 
 The transferable *study* object is: **separate the next story from the last bag; treat information collection as work; separate a long thesis from the entry; write down exits; then audit yourself when you don’t follow them.** None of that is a promise that copying his 2023 memecoin ladder or his 2026 midterm 梭 is intelligent. Those are dated, market-specific statements plus unverified results.
 
 For a cross-account checklist, see [`../INSIGHTS.md`](../INSIGHTS.md).
+
+---
+
+## Day-1 close addendum
+
+The earlier sections were first written against a 7,135-post package. The day-1 store is 9,239 posts; 2025 and 2026 are now deep enough that “thin year-end sample” is no longer a fair description of those two years, but 2025-01–04 and several 2024 months are still unfinished, and 19,982 profile `post_count` is still far above 9,239. New May–July 2025 pages were ingested at the end of day 1 and have not been fully re-read into the older narrative. Do not treat every earlier claim as re-proven against the new pages. One lossless JSONL repair was applied to post `1928748987865080287` (a raw newline inside `referenced_expanded` text); the text was escaped, not rewritten.

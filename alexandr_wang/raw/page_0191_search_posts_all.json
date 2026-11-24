@@ -1,0 +1,455 @@
+{
+  "collected_at_utc": "2026-11-24T12:27:14Z",
+  "collected_at_shanghai": "2026-11-24T20:27:14+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RBRB0C1E9AMXY0BCYNQMQ.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2019-09-01T00:00:00Z",
+    "end_time": "2019-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2019-09"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-25T20:16:13.000Z",
+      "edit_history_tweet_ids": [
+        "1176953574380593152"
+      ],
+      "id": "1176953574380593152",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 114,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 17
+      },
+      "text": "It’s disappointing when people in tech engage in zero sum or negative sum games (mudslinging, sh*t talking, obsession w/competition, etc.)\n\nWe live in the world’s nexus of positive sum.\n\nDon’t get sucked into negative sum games simply because they’re emotionally gratifying.",
+      "url": "https://x.com/alexandr_wang/status/1176953574380593152"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-23T00:25:01.000Z",
+      "edit_history_tweet_ids": [
+        "1175929024431849472"
+      ],
+      "id": "1175929024431849472",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 0,
+        "like_count": 44,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "1175119095043223552",
+          "type": "quoted"
+        }
+      ],
+      "text": "Using RL in the “real world” is dependent on this research direction.\n\nReward functions are very challenging in any real world task. Reward shaping is the dark underbelly of impressive results, which scales very poorly with developer time. https://t.co/DdJOwUgbyN",
+      "url": "https://x.com/alexandr_wang/status/1175929024431849472"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-22T19:28:39.000Z",
+      "edit_history_tweet_ids": [
+        "1175854438029742080"
+      ],
+      "id": "1175854438029742080",
+      "in_reply_to_user_id": "1406388451",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1175844816766169089",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@acganesh @Stanford_OHS School learning is not being well rounded. Learning a variety of things on your own is being well rounded.",
+      "url": "https://x.com/alexandr_wang/status/1175854438029742080"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-22T17:37:33.000Z",
+      "edit_history_tweet_ids": [
+        "1175826479982100480"
+      ],
+      "id": "1175826479982100480",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 68,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "text": "The dominant reason to be \"well-rounded\" in the college application sense is to practice learning things from scratch.\n\nDuring my school years, I learned math, programming, violin, physics, debate, etc.\n\nIn adulthood, I learned how to build products, judge people, fundraise, etc.",
+      "url": "https://x.com/alexandr_wang/status/1175826479982100480"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-22T00:55:14.000Z",
+      "edit_history_tweet_ids": [
+        "1175574238641606657"
+      ],
+      "id": "1175574238641606657",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 339
+      },
+      "referenced_tweets": [
+        {
+          "id": "1175138379198914560",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @karpathy: We see more significant improvements from training data distribution search (data splits + oversampling factor ratios) than n…",
+      "url": "https://x.com/alexandr_wang/status/1175574238641606657"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-22T00:55:11.000Z",
+      "edit_history_tweet_ids": [
+        "1175574225345638400"
+      ],
+      "id": "1175574225345638400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 31
+      },
+      "referenced_tweets": [
+        {
+          "id": "1175316371229609984",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @NandoDF: I think this is an important observation by @karpathy. Somehow the areas of active learning class imbalance in ML and experime…",
+      "url": "https://x.com/alexandr_wang/status/1175574225345638400"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-20T18:46:39.000Z",
+      "edit_history_tweet_ids": [
+        "1175119095043223552"
+      ],
+      "id": "1175119095043223552",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 0,
+        "like_count": 39,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 8
+      },
+      "text": "We @scale_AI worked with @OpenAI on fine-tuning GPT-2 with human preferences. The results are extremely exciting, and enable a frontier of using human judgments to influence large unsupervised models for safety purposes.\n\nhttps://t.co/OfHUfKA4aP",
+      "url": "https://x.com/alexandr_wang/status/1175119095043223552"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-20T18:44:11.000Z",
+      "edit_history_tweet_ids": [
+        "1175118473938132992"
+      ],
+      "id": "1175118473938132992",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 247
+      },
+      "referenced_tweets": [
+        {
+          "id": "1174713233606754304",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @OpenAI: We've fine-tuned GPT-2 using human feedback for tasks such as summarizing articles, matching the preferences of human labelers…",
+      "url": "https://x.com/alexandr_wang/status/1175118473938132992"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-17T18:41:41.000Z",
+      "edit_history_tweet_ids": [
+        "1174030682009432064"
+      ],
+      "id": "1174030682009432064",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 44,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 7
+      },
+      "text": ".@scale_AI was recognized today in the #ForbesAI50 of the most promising AI companies in the America.\n\nWe are big believers in the transformative impact of AI, and we are grateful to be recognized for our humble work in solving the data problem.\n\nhttps://t.co/IX7GN2U2Wi",
+      "url": "https://x.com/alexandr_wang/status/1174030682009432064"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-06T17:38:41.000Z",
+      "edit_history_tweet_ids": [
+        "1170028558548291584"
+      ],
+      "id": "1170028558548291584",
+      "in_reply_to_user_id": "19908394",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1170016182679851010",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mavolpi @twentyminutevc Thank you Mike :) great questions from one of the great VCs of our time!",
+      "url": "https://x.com/alexandr_wang/status/1170028558548291584"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-06T15:34:16.000Z",
+      "edit_history_tweet_ids": [
+        "1169997250199609344"
+      ],
+      "id": "1169997250199609344",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "text": "I had an incredible time with @HarryStebbings on @twentyminutevc.\n\nWe discussed AI optimism, hiring incredible people, and building great companies.\n\nCheck it out 👇\n\nhttps://t.co/rOSS6e5d5w",
+      "url": "https://x.com/alexandr_wang/status/1169997250199609344"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-04T17:25:27.000Z",
+      "edit_history_tweet_ids": [
+        "1169300455219970048"
+      ],
+      "id": "1169300455219970048",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 6
+      },
+      "text": "I am very grateful for @scale_AI to be named one of LinkedIn's Top Startups of 2019.\n\nWe are early in our mission to accelerate the development of AI. While we are appreciative of the recognition, we have a lot more work to do.\n\n#LinkedInTopStartups\n\nhttps://t.co/sSLEZ0nezT",
+      "url": "https://x.com/alexandr_wang/status/1169300455219970048"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2019-09-01T04:30:38.000Z",
+      "edit_history_tweet_ids": [
+        "1168018301752135680"
+      ],
+      "id": "1168018301752135680",
+      "in_reply_to_user_id": "68746721",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1167824218261606402",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fchollet If everyone believed this, then billboards would be really cheap and they'd be great ROI. Now billboards are vogue so not a great investment.\n\nIn general, marketing is about finding clever sources of arbitrage. PayPal's referral acquisition strategy wouldn't work as well today.",
+      "url": "https://x.com/alexandr_wang/status/1168018301752135680"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "615818451",
+        "created_at": "2019-09-20T18:46:39.000Z",
+        "edit_history_tweet_ids": [
+          "1175119095043223552"
+        ],
+        "id": "1175119095043223552",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 0,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "text": "We @scale_AI worked with @OpenAI on fine-tuning GPT-2 with human preferences. The results are extremely exciting, and enable a frontier of using human judgments to influence large unsupervised models for safety purposes.\n\nhttps://t.co/OfHUfKA4aP"
+      },
+      {
+        "author_id": "33836629",
+        "created_at": "2019-09-20T20:03:17.000Z",
+        "edit_history_tweet_ids": [
+          "1175138379198914560"
+        ],
+        "id": "1175138379198914560",
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 0,
+          "like_count": 1768,
+          "quote_count": 41,
+          "reply_count": 41,
+          "retweet_count": 339
+        },
+        "text": "We see more significant improvements from training data distribution search (data splits + oversampling factor ratios) than neural architecture search. The latter is so overrated :)"
+      },
+      {
+        "author_id": "29843511",
+        "created_at": "2019-09-21T07:50:33.000Z",
+        "edit_history_tweet_ids": [
+          "1175316371229609984"
+        ],
+        "id": "1175316371229609984",
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 0,
+          "like_count": 178,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1175138379198914560",
+            "type": "quoted"
+          }
+        ],
+        "text": "I think this is an important observation by @karpathy. Somehow the areas of active learning class imbalance in ML and experimental design in stats haven’t quite addressed this (please correct me if I’m wrong). We focus too much on standard datasets and iidiness. https://t.co/ktajEKTZjp"
+      },
+      {
+        "author_id": "4398626122",
+        "created_at": "2019-09-19T15:53:54.000Z",
+        "edit_history_tweet_ids": [
+          "1174713233606754304"
+        ],
+        "id": "1174713233606754304",
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 0,
+          "like_count": 772,
+          "quote_count": 22,
+          "reply_count": 22,
+          "retweet_count": 247
+        },
+        "text": "We've fine-tuned GPT-2 using human feedback for tasks such as summarizing articles, matching the preferences of human labelers (if not always our own). We're hoping this brings safety methods closer to machines learning values by talking with humans. https://t.co/ok9jeMP5zj"
+      },
+      {
+        "author_id": "19908394",
+        "created_at": "2019-09-06T16:49:30.000Z",
+        "edit_history_tweet_ids": [
+          "1170016182679851010"
+        ],
+        "id": "1170016182679851010",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 18,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "text": "Great interview of @alexandr_wang on @twentyminutevc.  He's one of the great AI entrepreneurs, as always, enjoyed his insights. https://t.co/TB55DRN1pq"
+      },
+      {
+        "author_id": "68746721",
+        "created_at": "2019-08-31T15:39:25.000Z",
+        "edit_history_tweet_ids": [
+          "1167824218261606402"
+        ],
+        "id": "1167824218261606402",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "text": "I feel like taking a billboard on the 101 to advertise your B2B company is negative signaling. Solid companies with the budget for a billboard on the 101 don't need a billboard and have better ways to build brand awareness"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1406388451",
+        "name": "Adi Ganesh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1174381628304568320/EuVxBmVQ_normal.jpg",
+        "username": "acganesh",
+        "verified": false
+      },
+      {
+        "id": "19908394",
+        "name": "Mike Volpi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121903990581473280/eXGBKdBp_normal.jpg",
+        "username": "mavolpi",
+        "verified": false
+      },
+      {
+        "id": "68746721",
+        "name": "François Chollet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+        "username": "fchollet",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1176953574380593152",
+    "next_token": "b26v89c19zqg8o3fnm31y1aquee8s87srzz5d5eojul4t",
+    "oldest_id": "1168018301752135680",
+    "result_count": 13
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1175844816766169089].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1175844816766169089",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1175844816766169089"
+    }
+  ]
+}

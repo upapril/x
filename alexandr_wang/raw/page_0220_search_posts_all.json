@@ -1,0 +1,565 @@
+{
+  "collected_at_utc": "2026-11-24T12:29:15Z",
+  "collected_at_shanghai": "2026-11-24T20:29:15+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RFE40NDQS07DMSTKQQHJ6.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2018-10-01T00:00:00Z",
+    "end_time": "2018-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2018-10"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1057769864620761089"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1057769870119460864",
+      "created_at": "2018-10-31T23:02:44.000Z",
+      "display_text_range": [
+        0,
+        156
+      ],
+      "edit_history_tweet_ids": [
+        "1057769870119460864"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 20,
+            "start": 11,
+            "tag": "ODSCWest"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/oBARsxiH6t",
+            "end": 180,
+            "expanded_url": "https://x.com/alexandr_wang/status/1057769870119460864/photo/1",
+            "media_key": "3_1057769864620761089",
+            "start": 157,
+            "url": "https://t.co/oBARsxiH6t"
+          }
+        ]
+      },
+      "id": "1057769870119460864",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "text": "My talk at #ODSCWest today, where I walked through Fermi estimates of how much data is needed to achieve 1 accident every 100,000 miles.\n\nHint: it's a lot 😅 https://t.co/oBARsxiH6t",
+      "url": "https://x.com/alexandr_wang/status/1057769870119460864"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1054434440737284096",
+      "created_at": "2018-10-22T18:08:55.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1054434440737284096"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 114,
+            "start": 109,
+            "tag": "ODSC"
+          },
+          {
+            "end": 124,
+            "start": 115,
+            "tag": "ODSCWest"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 108,
+            "id": "615818451",
+            "start": 94,
+            "username": "alexandr_wang"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Peace on earth",
+            "display_url": "x.com/iok",
+            "end": 139,
+            "expanded_url": "https://x.com/iok",
+            "images": [
+              {
+                "height": 499,
+                "url": "https://pbs.twimg.com/news_img/2118768054318620672/rTrXO742?format=jpg&name=orig",
+                "width": 1500
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2118768054318620672/rTrXO742?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 125,
+            "status": 200,
+            "title": "io (@iok) on X",
+            "unwound_url": "https://x.com/iok",
+            "url": "https://t.co/0"
+          }
+        ]
+      },
+      "id": "1054434440737284096",
+      "lang": "ro",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1054417141976481794",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @odsc: Join Alexandr Wang, CEO at Scale at Accelerate AI in San Francisco, Oct 31 - Nov 1.\n@alexandr_wang #ODSC #ODSCWest\nhttps://t.co/0…",
+      "url": "https://x.com/alexandr_wang/status/1054434440737284096"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1053423342340820992",
+      "created_at": "2018-10-19T23:11:11.000Z",
+      "display_text_range": [
+        0,
+        61
+      ],
+      "edit_history_tweet_ids": [
+        "1053423342340820992"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 21,
+            "start": 16,
+            "tag": "NIPS"
+          }
+        ]
+      },
+      "id": "1053423342340820992",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Made it off the #NIPS wait-list! That was a happy surprise! 😊",
+      "url": "https://x.com/alexandr_wang/status/1053423342340820992"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1052664338178224128",
+      "created_at": "2018-10-17T20:55:10.000Z",
+      "display_text_range": [
+        0,
+        50
+      ],
+      "edit_history_tweet_ids": [
+        "1052664338178224128"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/ycombinator/st…",
+            "end": 74,
+            "expanded_url": "https://twitter.com/ycombinator/status/1052578786661810176",
+            "start": 51,
+            "url": "https://t.co/q1Xhz2Kqtz"
+          }
+        ]
+      },
+      "id": "1052664338178224128",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1052578786661810176",
+          "type": "quoted"
+        }
+      ],
+      "text": "Proud that @scaleAPI is one of YCs top companies 🚀 https://t.co/q1Xhz2Kqtz",
+      "url": "https://x.com/alexandr_wang/status/1052664338178224128"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1051871990020108289",
+      "created_at": "2018-10-15T16:26:39.000Z",
+      "display_text_range": [
+        0,
+        89
+      ],
+      "edit_history_tweet_ids": [
+        "1051871990020108289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "15460048",
+            "start": 12,
+            "username": "MIT"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/TechCrunch/sta…",
+            "end": 113,
+            "expanded_url": "https://twitter.com/TechCrunch/status/1051848776791547909",
+            "start": 90,
+            "url": "https://t.co/89jUq155mA"
+          }
+        ]
+      },
+      "id": "1051871990020108289",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1051848776791547909",
+          "type": "quoted"
+        }
+      ],
+      "text": "Good stuff, @MIT. Application of ML/AI to every field will power next decade of research. https://t.co/89jUq155mA",
+      "url": "https://x.com/alexandr_wang/status/1051871990020108289"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1049721235234406400",
+      "created_at": "2018-10-09T18:00:20.000Z",
+      "display_text_range": [
+        0,
+        136
+      ],
+      "edit_history_tweet_ids": [
+        "1049721235234406400"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 45,
+            "id": "20402945",
+            "start": 40,
+            "username": "CNBC"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "cnbc.com/2018/10/09/cnb…",
+            "end": 136,
+            "expanded_url": "https://www.cnbc.com/2018/10/09/cnbc-unveils-its-list-of-100-promising-startups-to-watch-in-2018.html",
+            "start": 113,
+            "url": "https://t.co/OatKQ4WskF"
+          }
+        ]
+      },
+      "id": "1049721235234406400",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1049721186815340544",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaleAPI: Scale was featured in the @CNBC Upstart 100, a list of the 100 most promising startups to watch 🎉\n\nhttps://t.co/OatKQ4WskF",
+      "url": "https://x.com/alexandr_wang/status/1049721235234406400"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1049360724005273600",
+      "created_at": "2018-10-08T18:07:47.000Z",
+      "display_text_range": [
+        0,
+        77
+      ],
+      "edit_history_tweet_ids": [
+        "1049360724005273600"
+      ],
+      "id": "1049360724005273600",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Headed to Munich, Germany later this week\n\nAnyone else there / wanna meet up?",
+      "url": "https://x.com/alexandr_wang/status/1049360724005273600"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1057769864620761089",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1054417139921285121"
+          ]
+        },
+        "author_id": "3018841323",
+        "conversation_id": "1054417141976481794",
+        "created_at": "2018-10-22T17:00:11.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_history_tweet_ids": [
+          "1054417141976481794"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "ODSC"
+            },
+            {
+              "end": 114,
+              "start": 105,
+              "tag": "ODSCWest"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 98,
+              "id": "615818451",
+              "start": 84,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hubs.ly/H0fcCLg0",
+              "end": 138,
+              "expanded_url": "https://hubs.ly/H0fcCLg0",
+              "start": 115,
+              "url": "https://t.co/0111If0PQl"
+            },
+            {
+              "display_url": "pic.x.com/ugC7IoFcFf",
+              "end": 162,
+              "expanded_url": "https://x.com/odsc/status/1054417141976481794/photo/1",
+              "media_key": "3_1054417139921285121",
+              "start": 139,
+              "url": "https://t.co/ugC7IoFcFf"
+            }
+          ]
+        },
+        "id": "1054417141976481794",
+        "lang": "ro",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "Join Alexandr Wang, CEO at Scale at Accelerate AI in San Francisco, Oct 31 - Nov 1.\n@alexandr_wang #ODSC #ODSCWest\nhttps://t.co/0111If0PQl https://t.co/ugC7IoFcFf"
+      },
+      {
+        "author_id": "113130846",
+        "conversation_id": "1052578786661810176",
+        "created_at": "2018-10-17T15:15:13.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_history_tweet_ids": [
+          "1052578786661810176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ycombinator.com/topcompanies/",
+              "end": 63,
+              "expanded_url": "http://www.ycombinator.com/topcompanies/",
+              "start": 40,
+              "url": "https://t.co/wVGeG1F6t0"
+            }
+          ]
+        },
+        "id": "1052578786661810176",
+        "lang": "es",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 0,
+          "like_count": 112,
+          "quote_count": 20,
+          "reply_count": 3,
+          "retweet_count": 33
+        },
+        "text": "Y Combinator Top Companies List - 2018: https://t.co/wVGeG1F6t0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1051848775059136513"
+          ]
+        },
+        "author_id": "816653",
+        "conversation_id": "1051848776791547909",
+        "created_at": "2018-10-15T14:54:25.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_history_tweet_ids": [
+          "1051848776791547909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tcrn.ch/2pUw6AP",
+              "end": 89,
+              "expanded_url": "https://tcrn.ch/2pUw6AP",
+              "start": 66,
+              "url": "https://t.co/4ou0nqUvMA"
+            },
+            {
+              "display_url": "pic.x.com/NTfNFOaUL4",
+              "end": 113,
+              "expanded_url": "https://x.com/TechCrunch/status/1051848776791547909/photo/1",
+              "media_key": "3_1051848775059136513",
+              "start": 90,
+              "url": "https://t.co/NTfNFOaUL4"
+            }
+          ]
+        },
+        "id": "1051848776791547909",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 159,
+          "quote_count": 9,
+          "reply_count": 6,
+          "retweet_count": 58
+        },
+        "text": "MIT announces new college of computing with $1 billion commitment https://t.co/4ou0nqUvMA https://t.co/NTfNFOaUL4"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1049721186815340544",
+        "created_at": "2018-10-09T18:00:08.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_history_tweet_ids": [
+          "1049721186815340544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "20402945",
+              "start": 26,
+              "username": "CNBC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "cnbc.com/2018/10/09/cnb…",
+              "end": 122,
+              "expanded_url": "https://www.cnbc.com/2018/10/09/cnbc-unveils-its-list-of-100-promising-startups-to-watch-in-2018.html",
+              "start": 99,
+              "url": "https://t.co/OatKQ4WskF"
+            }
+          ]
+        },
+        "id": "1049721186815340544",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "text": "Scale was featured in the @CNBC Upstart 100, a list of the 100 most promising startups to watch 🎉\n\nhttps://t.co/OatKQ4WskF"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1057769870119460864",
+    "next_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
+    "oldest_id": "1049360724005273600",
+    "result_count": 7
+  },
+  "errors": []
+}

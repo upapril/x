@@ -1,0 +1,360 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "file": "page_0001_get_users_posts.json",
+      "tool": "get_users_posts",
+      "result_count": 24,
+      "returned": 24,
+      "added": 24,
+      "duplicates_in_page": 0,
+      "newest_id": "2125183975757119963",
+      "oldest_id": "2123990275580391784",
+      "newest_created_at": "2026-11-24T11:05:18.000Z",
+      "oldest_created_at": "2026-11-21T04:01:58.000Z",
+      "next_token": "7140dibdnow9c7btwp0gm9i8sjoq8m9keuzhjjx1ftyr8",
+      "input_token": null,
+      "query": null,
+      "start_time": null,
+      "end_time": null,
+      "window_label": "timeline-recent",
+      "type_counts": {
+        "original": 19,
+        "reply": 5
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T12:33:57Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2124744109441335714].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2124744109441335714",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2124744109441335714"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "file": "page_0002_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 1,
+      "duplicates_in_page": 24,
+      "newest_id": "2125183975757119963",
+      "oldest_id": "2123990275580391784",
+      "newest_created_at": "2026-11-24T11:05:18.000Z",
+      "oldest_created_at": "2026-11-21T04:01:58.000Z",
+      "next_token": "b26v89c19zqg8o3juzowlxwfcjef8gbd5vc978vr2uhrx",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2026-11-01T00:00:00Z",
+      "end_time": "2026-11-25T00:00:00Z",
+      "window_label": "2026-11",
+      "type_counts": {
+        "original": 20,
+        "reply": 5
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T12:33:57Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2124744109441335714].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2124744109441335714",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2124744109441335714"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "file": "page_0003_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2116536096943435834",
+      "oldest_id": "2115925932682977369",
+      "newest_created_at": "2026-10-31T14:21:43.000Z",
+      "oldest_created_at": "2026-10-29T21:57:09.000Z",
+      "next_token": "b26v89c19zqg8o3juzlxod10t2jlubd1szxp6x1j4v7nh",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2026-10-01T00:00:00Z",
+      "end_time": "2026-11-01T00:00:00Z",
+      "window_label": "2026-10",
+      "type_counts": {
+        "reply": 11,
+        "original": 12,
+        "quote": 2
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T12:33:57Z"
+    },
+    {
+      "page": 4,
+      "file": "page_0004_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2071641959765307866",
+      "oldest_id": "2066054890221367776",
+      "newest_created_at": "2026-06-29T17:08:27.000Z",
+      "oldest_created_at": "2026-06-14T07:07:25.000Z",
+      "next_token": "b26v89c19zqg8o3jueqimn5399wglj1wvbhph7sa5jvy5",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2026-06-01T00:00:00Z",
+      "end_time": "2026-07-01T00:00:00Z",
+      "window_label": "2026-06",
+      "type_counts": {
+        "reply": 5,
+        "original": 15,
+        "quote": 5
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T12:33:57Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [2066547756525892055].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "2066547756525892055",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "2066547756525892055"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "file": "page_0005_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "2005443162744193100",
+      "oldest_id": "2001653021269488085",
+      "newest_created_at": "2025-12-29T00:58:03.000Z",
+      "oldest_created_at": "2025-12-18T13:57:23.000Z",
+      "next_token": "b26v89c19zqg8o3jue8hvvok54byopd5y3jn9t8jlcqyl",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2025-12-01T00:00:00Z",
+      "end_time": "2026-01-01T00:00:00Z",
+      "window_label": "2025-12",
+      "type_counts": {
+        "original": 11,
+        "reply": 10,
+        "quote": 3,
+        "repost": 1
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T12:33:57Z"
+    },
+    {
+      "page": 6,
+      "file": "page_0006_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1939650730874609865",
+      "oldest_id": "1938174466665967769",
+      "newest_created_at": "2025-06-30T11:42:25.000Z",
+      "oldest_created_at": "2025-06-26T09:56:17.000Z",
+      "next_token": "b26v89c19zqg8o3fsc598rfej8hgc3qq162stvnzamxdp",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2025-06-01T00:00:00Z",
+      "end_time": "2025-07-01T00:00:00Z",
+      "window_label": "2025-06",
+      "type_counts": {
+        "reply": 14,
+        "original": 9,
+        "quote": 2
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T12:33:57Z",
+      "errors": [
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939521746056733088].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1939521746056733088",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "1939521746056733088"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "file": "page_0007_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1874157176220246207",
+      "oldest_id": "1873708175352045569",
+      "newest_created_at": "2024-12-31T18:14:25.000Z",
+      "oldest_created_at": "2024-12-30T12:30:15.000Z",
+      "next_token": "b26v89c19zqg8o3frr6rx3qiy6cxsmrxr487bij5l1ksd",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2024-12-01T00:00:00Z",
+      "end_time": "2025-01-01T00:00:00Z",
+      "window_label": "2024-12",
+      "type_counts": {
+        "quote": 2,
+        "reply": 17,
+        "original": 6
+      },
+      "errors_count": 2,
+      "collected_at_utc": "2026-11-24T12:33:57Z",
+      "errors": [
+        {
+          "detail": "User has been suspended: [1449645284850487299].",
+          "parameter": "in_reply_to_user_id",
+          "resource_id": "1449645284850487299",
+          "resource_type": "user",
+          "title": "Forbidden",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1449645284850487299"
+        },
+        {
+          "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1874099765333680226].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1874099765333680226",
+          "resource_type": "tweet",
+          "section": "includes",
+          "title": "Authorization Error",
+          "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+          "value": "1874099765333680226"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "file": "page_0008_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 25,
+      "returned": 25,
+      "added": 25,
+      "duplicates_in_page": 0,
+      "newest_id": "1741337897964646901",
+      "oldest_id": "1739881864259858531",
+      "newest_created_at": "2023-12-31T05:58:02.000Z",
+      "oldest_created_at": "2023-12-27T05:32:16.000Z",
+      "next_token": "b26v89c19zqg8o3fr5kh0qyam3np3rae1pvqp2qhzxxtp",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2023-12-01T00:00:00Z",
+      "end_time": "2024-01-01T00:00:00Z",
+      "window_label": "2023-12",
+      "type_counts": {
+        "reply": 10,
+        "original": 8,
+        "quote": 7
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T12:33:57Z"
+    },
+    {
+      "page": 9,
+      "file": "page_0009_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 2,
+      "returned": 2,
+      "added": 2,
+      "duplicates_in_page": 0,
+      "newest_id": "1608771876050055168",
+      "oldest_id": "1608763604010176512",
+      "newest_created_at": "2022-12-30T10:27:59.000Z",
+      "oldest_created_at": "2022-12-30T09:55:07.000Z",
+      "next_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2022-12-01T00:00:00Z",
+      "end_time": "2023-01-01T00:00:00Z",
+      "window_label": "2022-12",
+      "type_counts": {
+        "reply": 2
+      },
+      "errors_count": 1,
+      "collected_at_utc": "2026-11-24T12:33:57Z",
+      "errors": [
+        {
+          "detail": "Could not find tweet with referenced_tweets.id: [1608769880396005377].",
+          "parameter": "referenced_tweets.id",
+          "resource_id": "1608769880396005377",
+          "resource_type": "tweet",
+          "title": "Not Found Error",
+          "type": "https://api.x.com/2/problems/resource-not-found",
+          "value": "1608769880396005377"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "file": "page_0010_search_posts_all.json",
+      "tool": "search_posts_all",
+      "result_count": 0,
+      "returned": 0,
+      "added": 0,
+      "duplicates_in_page": 0,
+      "newest_id": null,
+      "oldest_id": null,
+      "newest_created_at": null,
+      "oldest_created_at": null,
+      "next_token": null,
+      "input_token": null,
+      "query": "from:thankUcrypto",
+      "start_time": "2018-12-01T00:00:00Z",
+      "end_time": "2019-01-01T00:00:00Z",
+      "window_label": "2018-12",
+      "type_counts": {},
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T12:33:57Z"
+    },
+    {
+      "page": 11,
+      "file": "page_0011_get_posts_by_ids.json",
+      "tool": "get_posts_by_ids",
+      "result_count": 1,
+      "returned": 1,
+      "added": 1,
+      "duplicates_in_page": 0,
+      "newest_id": null,
+      "oldest_id": null,
+      "newest_created_at": "2026-08-24T06:45:32.000Z",
+      "oldest_created_at": "2026-08-24T06:45:32.000Z",
+      "next_token": null,
+      "input_token": null,
+      "query": "pinned_post_ids",
+      "start_time": null,
+      "end_time": null,
+      "window_label": "pinned",
+      "type_counts": {
+        "original": 1
+      },
+      "errors_count": 0,
+      "collected_at_utc": "2026-11-24T12:33:57Z"
+    }
+  ],
+  "latest_next_token": null,
+  "updated_at_utc": "2026-11-24T12:33:57Z"
+}

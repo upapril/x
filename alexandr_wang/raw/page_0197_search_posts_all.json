@@ -1,0 +1,115 @@
+{
+  "collected_at_utc": "2026-11-24T12:27:14Z",
+  "collected_at_shanghai": "2026-11-24T20:27:14+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RBZ5W2DJTQ4E57HGC0YE3.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2019-03-01T00:00:00Z",
+    "end_time": "2019-04-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2019-03"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2019-03-21T22:38:43.000Z",
+      "edit_history_tweet_ids": [
+        "1108860518125596672"
+      ],
+      "id": "1108860518125596672",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 64,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "text": "Strange (and flattering) to see so many @scale_AI for X companies out of this batch of @ycombinator \n\nScale for OCR\nScale for medical images\nScale for 스캐일\n\nIn 2.5 years, we've gone from \"unsexy API company\" (words heard at demo day) to bona fide startup template.",
+      "url": "https://x.com/alexandr_wang/status/1108860518125596672"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1101636056384851968"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2019-03-02T00:11:19.000Z",
+      "edit_history_tweet_ids": [
+        "1101636061040525312"
+      ],
+      "id": "1101636061040525312",
+      "in_reply_to_user_id": "977687191202693125",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1101618008055721984",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@woj_zaremba Very related: internal vs external locus of control.\n\nHaving an internal locus of control is a value for @scale_AI https://t.co/VAEEmYksHo",
+      "url": "https://x.com/alexandr_wang/status/1101636061040525312"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1101636056384851968",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "977687191202693125",
+        "created_at": "2019-03-01T22:59:34.000Z",
+        "edit_history_tweet_ids": [
+          "1101618008055721984"
+        ],
+        "id": "1101618008055721984",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "text": "There are two different mindsets - one limits you the other one allows you to grow. One is “I am one who I am”, and the other is “I can become whoever I want to be”."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "977687191202693125",
+        "name": "Wojciech Zaremba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458585929455525890/vVovOt1S_normal.jpg",
+        "username": "woj_zaremba",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1108860518125596672",
+    "next_token": "b26v89c19zqg8o3fnll0cymxfi15zujdgq1zc11xb3ypp",
+    "oldest_id": "1101636061040525312",
+    "result_count": 2
+  },
+  "errors": []
+}

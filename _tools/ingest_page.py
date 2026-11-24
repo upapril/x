@@ -12,6 +12,8 @@ HANDLES = {
     "615818451": "alexandr_wang",
     "1589763597705437184": "iiiinvest",
     "1435990322702520320": "silverfang88",
+    "368245720": "taresky",
+    "705564530936418304": "thankUcrypto",
 }
 
 def now_utc():
@@ -40,7 +42,42 @@ def extract_json(text: str, path: Path | None = None):
     if i < 0 or j <= i:
         raise ValueError("no JSON object found")
     blob = body[i:j+1]
-    return json.loads(blob, strict=False)
+    try:
+        return json.loads(blob, strict=False)
+    except json.JSONDecodeError:
+        return json.loads(_repair_json_strings(blob), strict=False)
+
+def _repair_json_strings(s: str) -> str:
+    """Escape raw newlines/control chars that sometimes appear inside JSON strings."""
+    out = []
+    in_str = False
+    esc = False
+    for c in s:
+        if in_str:
+            if esc:
+                out.append(c)
+                esc = False
+            elif c == "\\":
+                out.append(c)
+                esc = True
+            elif c == '"':
+                out.append(c)
+                in_str = False
+            elif c == "\n":
+                out.append("\\n")
+            elif c == "\r":
+                out.append("\\r")
+            elif c == "\t":
+                out.append("\\t")
+            elif ord(c) < 32:
+                out.append("\\u%04x" % ord(c))
+            else:
+                out.append(c)
+        else:
+            if c == '"':
+                in_str = True
+            out.append(c)
+    return "".join(out)
 
 def classify_post(post, author_id):
     refs = post.get("referenced_tweets") or post.get("referenced_posts") or []
@@ -142,12 +179,35 @@ def normalize_post(post, includes, source_meta):
     return rec
 
 def load_jsonl(path: Path):
+    """Load JSONL. If a record was split by a raw newline, join and escape losslessly."""
     rows = []
-    if path.exists():
-        for line in path.read_text(encoding="utf-8").splitlines():
-            line=line.strip()
-            if line:
-                rows.append(json.loads(line))
+    if not path.exists():
+        return rows
+    lines = path.read_text(encoding="utf-8").splitlines()
+    i = 0
+    n = len(lines)
+    while i < n:
+        buf = lines[i]
+        i += 1
+        if not buf.strip():
+            continue
+        while True:
+            try:
+                rows.append(json.loads(buf))
+                break
+            except json.JSONDecodeError:
+                if i >= n:
+                    rows.append(json.loads(_repair_json_strings(buf)))
+                    break
+                # Join at most one continuation line, then escape raw breaks.
+                buf = buf + "\n" + lines[i]
+                i += 1
+                try:
+                    rows.append(json.loads(_repair_json_strings(buf)))
+                    break
+                except json.JSONDecodeError:
+                    # rare: more than one split; keep joining one more
+                    continue
     return rows
 
 def write_jsonl(path: Path, rows):

@@ -1,0 +1,1560 @@
+{
+  "collected_at_utc": "2026-11-24T12:26:12Z",
+  "collected_at_shanghai": "2026-11-24T20:26:12+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R9DF2ANDX0ZJ0RXN8VTFX.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2026-04-01T00:00:00Z",
+    "end_time": "2026-05-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juekgzfu8vv5qcre01dq3fg4ehr4ot",
+    "window_label": "2026-04"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041677024692146656",
+      "created_at": "2026-04-08T00:38:29.000Z",
+      "display_text_range": [
+        0,
+        20
+      ],
+      "edit_history_tweet_ids": [
+        "2041677024692146656"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 44,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2041649773929976259",
+            "start": 21,
+            "url": "https://t.co/PDIItkZTaQ"
+          }
+        ]
+      },
+      "id": "2041677024692146656",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 951,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041649773929976259",
+          "type": "quoted"
+        }
+      ],
+      "text": "多单已经全平，小仓位做多原油，逻辑日报说 https://t.co/PDIItkZTaQ",
+      "url": "https://x.com/iiiinvest/status/2041677024692146656"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041655855842783336",
+      "created_at": "2026-04-08T00:10:06.000Z",
+      "display_text_range": [
+        10,
+        18
+      ],
+      "edit_history_tweet_ids": [
+        "2041669879951155700"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "567192854",
+            "start": 0,
+            "username": "LeeFisun"
+          }
+        ]
+      },
+      "id": "2041669879951155700",
+      "in_reply_to_user_id": "567192854",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 73,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041660594030522506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LeeFisun 谢谢，会不断分享",
+      "url": "https://x.com/iiiinvest/status/2041669879951155700"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041655855842783336",
+      "created_at": "2026-04-07T23:14:22.000Z",
+      "display_text_range": [
+        0,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2041655855842783336"
+      ],
+      "id": "2041655855842783336",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 616,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "大涨的时候，反而是我们打扫战场，准备下一场战斗的时候",
+      "url": "https://x.com/iiiinvest/status/2041655855842783336"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041649773929976259",
+      "created_at": "2026-04-07T22:50:12.000Z",
+      "display_text_range": [
+        0,
+        6
+      ],
+      "edit_history_tweet_ids": [
+        "2041649773929976259"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 30,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2041539784611688587",
+            "start": 7,
+            "url": "https://t.co/88vr29pOwk"
+          }
+        ]
+      },
+      "id": "2041649773929976259",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1619,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041539784611688587",
+          "type": "quoted"
+        }
+      ],
+      "text": "开始逐步卖出 https://t.co/88vr29pOwk",
+      "url": "https://x.com/iiiinvest/status/2041649773929976259"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041643527906730055",
+      "created_at": "2026-04-07T22:25:23.000Z",
+      "display_text_range": [
+        0,
+        29
+      ],
+      "edit_history_tweet_ids": [
+        "2041643527906730055"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 53,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2041540148073287877",
+            "start": 30,
+            "url": "https://t.co/kDcMib4zjn"
+          }
+        ]
+      },
+      "id": "2041643527906730055",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 662,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041540148073287877",
+          "type": "quoted"
+        }
+      ],
+      "text": "跟上的吃肉，没跟上的也别冲动了，现在没有性价比了，等结果吧 https://t.co/kDcMib4zjn",
+      "url": "https://x.com/iiiinvest/status/2041643527906730055"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041540148073287877",
+      "created_at": "2026-04-07T22:24:42.000Z",
+      "display_text_range": [
+        11,
+        17
+      ],
+      "edit_history_tweet_ids": [
+        "2041643356351279171"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1220227886252089344",
+            "start": 0,
+            "username": "xcq618168"
+          }
+        ]
+      },
+      "id": "2041643356351279171",
+      "in_reply_to_user_id": "1220227886252089344",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041547371038101539",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xcq618168 是的，吃肉了",
+      "url": "https://x.com/iiiinvest/status/2041643356351279171"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041541840596512924",
+      "created_at": "2026-04-07T15:42:11.000Z",
+      "display_text_range": [
+        10,
+        13
+      ],
+      "edit_history_tweet_ids": [
+        "2041542057232392338"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1830160047437201408",
+            "start": 0,
+            "username": "Bingoqbb"
+          }
+        ]
+      },
+      "id": "2041542057232392338",
+      "in_reply_to_user_id": "1830160047437201408",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 113,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041541899761459306",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Bingoqbb 一起冲",
+      "url": "https://x.com/iiiinvest/status/2041542057232392338"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041541840596512924",
+      "created_at": "2026-04-07T15:41:19.000Z",
+      "display_text_range": [
+        0,
+        44
+      ],
+      "edit_history_tweet_ids": [
+        "2041541840596512924"
+      ],
+      "id": "2041541840596512924",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 598,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "恐惧主要源于想象，就像打针💉，难受在撩衣服，擦酒精，拔针头，最后那一下反而是解脱和放松😌",
+      "url": "https://x.com/iiiinvest/status/2041541840596512924"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041540148073287877",
+      "created_at": "2026-04-07T15:34:35.000Z",
+      "display_text_range": [
+        0,
+        18
+      ],
+      "edit_history_tweet_ids": [
+        "2041540148073287877"
+      ],
+      "id": "2041540148073287877",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1169,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "现在如果你还没有仓位，那真的要买点了",
+      "url": "https://x.com/iiiinvest/status/2041540148073287877"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041435082230280556",
+      "created_at": "2026-04-07T15:33:19.000Z",
+      "display_text_range": [
+        12,
+        16
+      ],
+      "edit_history_tweet_ids": [
+        "2041539826571473120"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1987517916481482752",
+            "start": 0,
+            "username": "lostsollar"
+          }
+        ]
+      },
+      "id": "2041539826571473120",
+      "in_reply_to_user_id": "1987517916481482752",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041526270459301943",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lostsollar 嗯，加了",
+      "url": "https://x.com/iiiinvest/status/2041539826571473120"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041539784611688587",
+      "created_at": "2026-04-07T15:33:09.000Z",
+      "display_text_range": [
+        0,
+        12
+      ],
+      "edit_history_tweet_ids": [
+        "2041539784611688587"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 36,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2041435082230280556",
+            "start": 13,
+            "url": "https://t.co/CLfZL4KGeA"
+          }
+        ]
+      },
+      "id": "2041539784611688587",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1380,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041435082230280556",
+          "type": "quoted"
+        }
+      ],
+      "text": "已经加了TQQQ和特斯拉 https://t.co/CLfZL4KGeA",
+      "url": "https://x.com/iiiinvest/status/2041539784611688587"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041502516181877140",
+      "created_at": "2026-04-07T13:14:50.000Z",
+      "display_text_range": [
+        9,
+        17
+      ],
+      "edit_history_tweet_ids": [
+        "2041504976237949407"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1402819429289758720",
+            "start": 0,
+            "username": "oxpsats"
+          }
+        ]
+      },
+      "id": "2041504976237949407",
+      "in_reply_to_user_id": "1402819429289758720",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 170,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041502516181877140",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oxpsats 且看且珍惜，哈哈",
+      "url": "https://x.com/iiiinvest/status/2041504976237949407"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041343357319082368",
+      "created_at": "2026-04-07T08:37:34.000Z",
+      "display_text_range": [
+        26,
+        39
+      ],
+      "edit_history_tweet_ids": [
+        "2041435202392936782"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1652338997790916608",
+            "start": 0,
+            "username": "MarinaroNi42044"
+          },
+          {
+            "end": 25,
+            "id": "1402819429289758720",
+            "start": 17,
+            "username": "oxpsats"
+          }
+        ]
+      },
+      "id": "2041435202392936782",
+      "in_reply_to_user_id": "1652338997790916608",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 533,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041351894292152422",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MarinaroNi42044 @oxpsats 互相学习交流而已，没有对错",
+      "url": "https://x.com/iiiinvest/status/2041435202392936782"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041435082230280556",
+      "created_at": "2026-04-07T08:37:06.000Z",
+      "display_text_range": [
+        0,
+        101
+      ],
+      "edit_history_tweet_ids": [
+        "2041435082230280556"
+      ],
+      "id": "2041435082230280556",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1298,
+        "like_count": 7,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "今天发日报的时候纳指-0.7%，几乎是日内最低点。目前盘前已经拉红+0.1%了，行情正在按照日报逻辑发展，现在请扣掉你的做空键，少看战争新闻，如果还能下跌都是加仓机会。\n\n不要做空！不要做空！不要做空！",
+      "url": "https://x.com/iiiinvest/status/2041435082230280556"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041380212865413451",
+      "created_at": "2026-04-07T04:59:04.000Z",
+      "display_text_range": [
+        0,
+        55
+      ],
+      "edit_history_tweet_ids": [
+        "2041380091218006430",
+        "2041380212865413451"
+      ],
+      "id": "2041380212865413451",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 796,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "知行合一，夜盘已买TQQQ，并开比特币多平，会择机再加。\n目前持有：零跑 TSLA CONL TQQQ BTC",
+      "url": "https://x.com/iiiinvest/status/2041380212865413451"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041380091218006430",
+      "created_at": "2026-04-07T04:58:35.000Z",
+      "display_text_range": [
+        0,
+        51
+      ],
+      "edit_history_tweet_ids": [
+        "2041380091218006430",
+        "2041380212865413451"
+      ],
+      "id": "2041380091218006430",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "知行合一，夜盘已买TQQQ，并开比特币多平，会择机再加。\n目前持有TSLA CONL TQQQ BTC",
+      "url": "https://x.com/iiiinvest/status/2041380091218006430"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041343357319082368",
+      "created_at": "2026-04-07T02:36:23.000Z",
+      "display_text_range": [
+        0,
+        19
+      ],
+      "edit_history_tweet_ids": [
+        "2041344305055576502"
+      ],
+      "id": "2041344305055576502",
+      "in_reply_to_user_id": "1589763597705437184",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 408,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041343357319082368",
+          "type": "replied_to"
+        }
+      ],
+      "text": "今天的判断很重要，你可以分享下你的观点",
+      "url": "https://x.com/iiiinvest/status/2041344305055576502"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041343357319082368",
+      "created_at": "2026-04-07T02:32:37.000Z",
+      "display_text_range": [
+        0,
+        80
+      ],
+      "edit_history_tweet_ids": [
+        "2041343357319082368"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 104,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2039898567113158781",
+            "start": 81,
+            "url": "https://t.co/3S0Ou9juS0"
+          }
+        ]
+      },
+      "id": "2041343357319082368",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "4.7 抓主线任务 忽略市场噪音\n\n假期这几天挺精彩，又是击落又是营救又是最后期限。如果跟着新闻和川普讲话走，会被绕晕，昨晚美股在各种轰炸新闻下依旧在涨是事实。\n\n市场到底在相信什么在交易什么？大家可以看下上周一是行情低点，那天发生了什么？是川普说即便不达成协议也会停火。从此行情即便在战火不断，但行情依旧是走高的。\n\n这时候你相信新闻还是相信行情趋势？我认为跟着行情走才对。\n\n操作上，在停火前不再做空！对，就是不再做空！我相信真停火那刻就是暴涨结束，根本来不及上车，目前就是布局拿住的时候！\n\n操作是，昨晚已经上了特斯拉和coin，今天夜盘准备再加一些TQQQ，剩下就是回调再买点。记住，停火前布局，停火就是卖出时刻别追涨！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 4783,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2039898567113158781",
+          "type": "quoted"
+        }
+      ],
+      "text": "4.7 抓主线任务 忽略市场噪音\n\n假期这几天挺精彩，又是击落又是营救又是最后期限。如果跟着新闻和川普讲话走，会被绕晕，昨晚美股在各种轰炸新闻下依旧在涨是事实。 https://t.co/3S0Ou9juS0",
+      "url": "https://x.com/iiiinvest/status/2041343357319082368"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2040817767281315919",
+      "created_at": "2026-04-06T14:20:33.000Z",
+      "display_text_range": [
+        15,
+        22
+      ],
+      "edit_history_tweet_ids": [
+        "2041159127175757897"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1445736128552734720",
+            "start": 0,
+            "username": "CryptoRounder"
+          }
+        ]
+      },
+      "id": "2041159127175757897",
+      "in_reply_to_user_id": "1445736128552734720",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2040817767281315919",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CryptoRounder 都是肉体凡胎啊",
+      "url": "https://x.com/iiiinvest/status/2041159127175757897"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041153604682461495",
+      "created_at": "2026-04-06T13:58:36.000Z",
+      "display_text_range": [
+        0,
+        33
+      ],
+      "edit_history_tweet_ids": [
+        "2041153604682461495"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 57,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2041117369859477876",
+            "start": 34,
+            "url": "https://t.co/v2R7PH3QIf"
+          }
+        ]
+      },
+      "id": "2041153604682461495",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 834,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041117369859477876",
+          "type": "quoted"
+        }
+      ],
+      "text": "363买了tsla，7买了conl，跟着行情走，近期地点破位止损。 https://t.co/v2R7PH3QIf",
+      "url": "https://x.com/iiiinvest/status/2041153604682461495"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2041117369859477876",
+      "created_at": "2026-04-06T11:34:37.000Z",
+      "display_text_range": [
+        0,
+        111
+      ],
+      "edit_history_tweet_ids": [
+        "2041117369859477876"
+      ],
+      "id": "2041117369859477876",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3285,
+        "like_count": 8,
+        "quote_count": 2,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "自上周四开始，市场就不按原预期在走了，今天夜盘更甚，有时在想市场到底在交易什么？停战？和谈？缓和？通胀？\n\n后来想了想，交易什么不重要，完全不重要。重要的是要跟着市场走，而不是固守己见。最终你只需要看K线，跟着趋势走就行。",
+      "url": "https://x.com/iiiinvest/status/2041117369859477876"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2040737293875679655",
+      "created_at": "2026-04-05T10:24:20.000Z",
+      "display_text_range": [
+        0,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2040737293875679655"
+      ],
+      "id": "2040737293875679655",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 587,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "明天假期最后一天了，如果你还在刷推，那该陪陪家人了。",
+      "url": "https://x.com/iiiinvest/status/2040737293875679655"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2039898567113158781",
+      "created_at": "2026-04-03T02:51:32.000Z",
+      "display_text_range": [
+        0,
+        134
+      ],
+      "edit_history_tweet_ids": [
+        "2039898567113158781"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 158,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2039522649236492309",
+            "start": 135,
+            "url": "https://t.co/7sq1chZkr6"
+          }
+        ]
+      },
+      "id": "2039898567113158781",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "4.3日 平静表面 暗藏大行情大波动\n\n昨天川普边讲话美股边拉，夜盘直接-2%，开盘反而很猛直接拉红了，然后平着收盘。\n\n从事件和发展看本应的利空，在盘面上没有最终呈现，一定有一些暗线没有发现，之前我不知道。特别是美油直接拉飞10%，按照以往美股怎么也得去-3%起步。\n\n这时候从交易上去应对就好。盘中做了个超短，目前持有部分SQQQ做空纳指，如果涨过讲话前高点就止损。这时候一定不能有执念，止损点一定要严格执行，行情波动起来会让损失加速加大。\n\n最后提醒自己一句，今年想有趋势性上涨很难，不格局就不被割。接下来几天都是假期，大家假期愉快，市场放假自己也放松放松，投资赚钱本就是让生活更美好。😁"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2345,
+        "like_count": 4,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2039522649236492309",
+          "type": "quoted"
+        }
+      ],
+      "text": "4.3日 平静表面 暗藏大行情大波动\n\n昨天川普边讲话美股边拉，夜盘直接-2%，开盘反而很猛直接拉红了，然后平着收盘。\n\n从事件和发展看本应的利空，在盘面上没有最终呈现，一定有一些暗线没有发现，之前我不知道。特别是美油直接拉飞10%，按照以往美股怎么也得去-3%起步。 https://t.co/7sq1chZkr6",
+      "url": "https://x.com/iiiinvest/status/2039898567113158781"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2039717079751041269",
+      "created_at": "2026-04-02T14:50:22.000Z",
+      "display_text_range": [
+        0,
+        29
+      ],
+      "edit_history_tweet_ids": [
+        "2039717079751041269"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 53,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2039690307785445502",
+            "start": 30,
+            "url": "https://t.co/z2nWzbvDiQ"
+          }
+        ]
+      },
+      "id": "2039717079751041269",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 902,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2039690307785445502",
+          "type": "quoted"
+        }
+      ],
+      "text": "没想到反弹这么猛，直接从-2%拉红了，现在这位置小空一下。 https://t.co/z2nWzbvDiQ",
+      "url": "https://x.com/iiiinvest/status/2039717079751041269"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2039690307785445502",
+      "created_at": "2026-04-02T13:03:59.000Z",
+      "display_text_range": [
+        0,
+        59
+      ],
+      "edit_history_tweet_ids": [
+        "2039690307785445502"
+      ],
+      "id": "2039690307785445502",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1307,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "其实现在的行情，波动大，比较适合交易的，定好计划干就行，别怂。\n\nPS. 预感今晚行情有可能拉个大的。能做个反弹短线。",
+      "url": "https://x.com/iiiinvest/status/2039690307785445502"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2041649773929976259",
+        "created_at": "2026-04-07T22:50:12.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_history_tweet_ids": [
+          "2041649773929976259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2041539784611688587",
+              "start": 7,
+              "url": "https://t.co/88vr29pOwk"
+            }
+          ]
+        },
+        "id": "2041649773929976259",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1619,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041539784611688587",
+            "type": "quoted"
+          }
+        ],
+        "text": "开始逐步卖出 https://t.co/88vr29pOwk"
+      },
+      {
+        "author_id": "567192854",
+        "conversation_id": "2041655855842783336",
+        "created_at": "2026-04-07T23:33:12.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_history_tweet_ids": [
+          "2041660594030522506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2041660594030522506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@iiiinvest 爱听，细说"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2041539784611688587",
+        "created_at": "2026-04-07T15:33:09.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_history_tweet_ids": [
+          "2041539784611688587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2041435082230280556",
+              "start": 13,
+              "url": "https://t.co/CLfZL4KGeA"
+            }
+          ]
+        },
+        "id": "2041539784611688587",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1380,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041435082230280556",
+            "type": "quoted"
+          }
+        ],
+        "text": "已经加了TQQQ和特斯拉 https://t.co/CLfZL4KGeA"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2041540148073287877",
+        "created_at": "2026-04-07T15:34:35.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_history_tweet_ids": [
+          "2041540148073287877"
+        ],
+        "id": "2041540148073287877",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1169,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "现在如果你还没有仓位，那真的要买点了"
+      },
+      {
+        "author_id": "1220227886252089344",
+        "conversation_id": "2041540148073287877",
+        "created_at": "2026-04-07T16:03:18.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_history_tweet_ids": [
+          "2041547371038101539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2041547371038101539",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@iiiinvest V起来了"
+      },
+      {
+        "author_id": "1830160047437201408",
+        "conversation_id": "2041541840596512924",
+        "created_at": "2026-04-07T15:41:33.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_history_tweet_ids": [
+          "2041541899761459306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2041541899761459306",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@iiiinvest 冲"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2041435082230280556",
+        "created_at": "2026-04-07T08:37:06.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_history_tweet_ids": [
+          "2041435082230280556"
+        ],
+        "id": "2041435082230280556",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1298,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "今天发日报的时候纳指-0.7%，几乎是日内最低点。目前盘前已经拉红+0.1%了，行情正在按照日报逻辑发展，现在请扣掉你的做空键，少看战争新闻，如果还能下跌都是加仓机会。\n\n不要做空！不要做空！不要做空！"
+      },
+      {
+        "author_id": "1402819429289758720",
+        "conversation_id": "2041502516181877140",
+        "created_at": "2026-04-07T13:05:03.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_history_tweet_ids": [
+          "2041502516181877140"
+        ],
+        "id": "2041502516181877140",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "最近几个帖子炸了粪坑，持有不同意见的人不来讨论专业，直接上人身攻击。\n\n但是如果按他们那套标准，不应该是来教我怎么当财经博主，应该先去教彭博社、华尔街日报、路透社、金融时报、CNBC、巴伦周刊怎么写市场报道。\n\n因为我的信息全部来自这里，我做的只是以交易者的身份去把我认为重要的筛选出来而已。\n\n我每天有不下10份文档资料来做我一条视频的信息支撑，或者说信息源。\n\n所以非专业讨论的评论，我也懒得拿数据去糊你脸上。直接拉黑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1810,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "text": "最近几个帖子炸了粪坑，持有不同意见的人不来讨论专业，直接上人身攻击。\n\n但是如果按他们那套标准，不应该是来教我怎么当财经博主，应该先去教彭博社、华尔街日报、路透社、金融时报、CNBC、巴伦周刊怎么写市场报道。"
+      },
+      {
+        "author_id": "1652338997790916608",
+        "conversation_id": "2041343357319082368",
+        "created_at": "2026-04-07T03:06:32.000Z",
+        "display_text_range": [
+          11,
+          50
+        ],
+        "edit_history_tweet_ids": [
+          "2041351894292152422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            },
+            {
+              "end": 19,
+              "id": "1402819429289758720",
+              "start": 11,
+              "username": "oxpsats"
+            }
+          ]
+        },
+        "id": "2041351894292152422",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@iiiinvest @oxpsats 老师，又有作业可以抄啦。师公在提醒你不要再搞什么特朗普共舞啦"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2041343357319082368",
+        "created_at": "2026-04-07T02:32:37.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_history_tweet_ids": [
+          "2041343357319082368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2039898567113158781",
+              "start": 81,
+              "url": "https://t.co/3S0Ou9juS0"
+            }
+          ]
+        },
+        "id": "2041343357319082368",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "4.7 抓主线任务 忽略市场噪音\n\n假期这几天挺精彩，又是击落又是营救又是最后期限。如果跟着新闻和川普讲话走，会被绕晕，昨晚美股在各种轰炸新闻下依旧在涨是事实。\n\n市场到底在相信什么在交易什么？大家可以看下上周一是行情低点，那天发生了什么？是川普说即便不达成协议也会停火。从此行情即便在战火不断，但行情依旧是走高的。\n\n这时候你相信新闻还是相信行情趋势？我认为跟着行情走才对。\n\n操作上，在停火前不再做空！对，就是不再做空！我相信真停火那刻就是暴涨结束，根本来不及上车，目前就是布局拿住的时候！\n\n操作是，昨晚已经上了特斯拉和coin，今天夜盘准备再加一些TQQQ，剩下就是回调再买点。记住，停火前布局，停火就是卖出时刻别追涨！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4783,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039898567113158781",
+            "type": "quoted"
+          }
+        ],
+        "text": "4.7 抓主线任务 忽略市场噪音\n\n假期这几天挺精彩，又是击落又是营救又是最后期限。如果跟着新闻和川普讲话走，会被绕晕，昨晚美股在各种轰炸新闻下依旧在涨是事实。 https://t.co/3S0Ou9juS0"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2039898567113158781",
+        "created_at": "2026-04-03T02:51:32.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_history_tweet_ids": [
+          "2039898567113158781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2039522649236492309",
+              "start": 135,
+              "url": "https://t.co/7sq1chZkr6"
+            }
+          ]
+        },
+        "id": "2039898567113158781",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "4.3日 平静表面 暗藏大行情大波动\n\n昨天川普边讲话美股边拉，夜盘直接-2%，开盘反而很猛直接拉红了，然后平着收盘。\n\n从事件和发展看本应的利空，在盘面上没有最终呈现，一定有一些暗线没有发现，之前我不知道。特别是美油直接拉飞10%，按照以往美股怎么也得去-3%起步。\n\n这时候从交易上去应对就好。盘中做了个超短，目前持有部分SQQQ做空纳指，如果涨过讲话前高点就止损。这时候一定不能有执念，止损点一定要严格执行，行情波动起来会让损失加速加大。\n\n最后提醒自己一句，今年想有趋势性上涨很难，不格局就不被割。接下来几天都是假期，大家假期愉快，市场放假自己也放松放松，投资赚钱本就是让生活更美好。😁"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2345,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039522649236492309",
+            "type": "quoted"
+          }
+        ],
+        "text": "4.3日 平静表面 暗藏大行情大波动\n\n昨天川普边讲话美股边拉，夜盘直接-2%，开盘反而很猛直接拉红了，然后平着收盘。\n\n从事件和发展看本应的利空，在盘面上没有最终呈现，一定有一些暗线没有发现，之前我不知道。特别是美油直接拉飞10%，按照以往美股怎么也得去-3%起步。 https://t.co/7sq1chZkr6"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2040817076676550657"
+          ]
+        },
+        "author_id": "1445736128552734720",
+        "conversation_id": "2040817767281315919",
+        "created_at": "2026-04-05T15:44:06.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_history_tweet_ids": [
+          "2040817767281315919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6rdM5N8RW",
+              "end": 96,
+              "expanded_url": "https://x.com/CryptoRounder/status/2040817767281315919/photo/1",
+              "media_key": "3_2040817076676550657",
+              "start": 73,
+              "url": "https://t.co/F6rdM5N8RW"
+            }
+          ]
+        },
+        "id": "2040817767281315919",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "近期看到对于周杰伦新专辑退步和演唱会划水的讨论，也谈谈这些年我对周董看法的一些变化。从近一些的“赌场传闻”说起，因为朋友确曾在澳门赌场的 VIP 室见到过周董，所以相信他至少应该有过“小赌怡情”。我个人有一点偏见，对于赌有喜好的人，往往内心仍有较强的跨到更高阶层的欲望。或许他看过更大的资本，有更极速的赚钱能力。\n\n年少时曾被他的《以父之名》彻底击倒，花 6、7 倍溢价买过他的演唱会门票。刘畊宏以周董名义发过 NFT，我买过 10 多个，当时曾提到持有 NFT，可以参与元宇宙演唱会，后来不了了之，再后来我的 NFT 钱包因为疏于管理也被盗了。\n\n王菲有一首歌叫《开到荼靡》，林夕作词，一个一个偶像都不外如此，沉迷过的偶像一个个消失。我们看过周董的极致盛放，我相信才华横溢的他说过的那句“华流才是最屌的”。\n\n但如今，我担心他因为财富极致膨胀而看到了本应与他无关的另一种“美梦”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4724,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "近期看到对于周杰伦新专辑退步和演唱会划水的讨论，也谈谈这些年我对周董看法的一些变化。从近一些的“赌场传闻”说起，因为朋友确曾在澳门赌场的 VIP https://t.co/F6rdM5N8RW"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2041117369859477876",
+        "created_at": "2026-04-06T11:34:37.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_history_tweet_ids": [
+          "2041117369859477876"
+        ],
+        "id": "2041117369859477876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3285,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "自上周四开始，市场就不按原预期在走了，今天夜盘更甚，有时在想市场到底在交易什么？停战？和谈？缓和？通胀？\n\n后来想了想，交易什么不重要，完全不重要。重要的是要跟着市场走，而不是固守己见。最终你只需要看K线，跟着趋势走就行。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2039522639346274304",
+            "3_2039522639270842368"
+          ]
+        },
+        "author_id": "1589763597705437184",
+        "conversation_id": "2039522649236492309",
+        "created_at": "2026-04-02T01:57:46.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_history_tweet_ids": [
+          "2039522649236492309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 70,
+              "expanded_url": "https://x.com/iiiinvest/status/2039367570705535223?s=46",
+              "start": 47,
+              "url": "https://t.co/j6kfYzsilX"
+            },
+            {
+              "display_url": "pic.x.com/YlpCWvUjdH",
+              "end": 120,
+              "expanded_url": "https://x.com/iiiinvest/status/2039522649236492309/photo/1",
+              "media_key": "3_2039522639346274304",
+              "start": 97,
+              "url": "https://t.co/YlpCWvUjdH"
+            },
+            {
+              "display_url": "pic.x.com/YlpCWvUjdH",
+              "end": 120,
+              "expanded_url": "https://x.com/iiiinvest/status/2039522649236492309/photo/2",
+              "media_key": "3_2039522639270842368",
+              "start": 97,
+              "url": "https://t.co/YlpCWvUjdH"
+            },
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2039170830048051535",
+              "start": 121,
+              "url": "https://t.co/VGLjBpg3tj"
+            }
+          ]
+        },
+        "id": "2039522649236492309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/iiiinvest/stat…",
+                "end": 70,
+                "expanded_url": "https://x.com/iiiinvest/status/2039367570705535223?s=46",
+                "start": 47,
+                "url": "https://t.co/JUYC6iefMU"
+              }
+            ]
+          },
+          "text": "4.2 川普又拉了 接下来如何应对\n\n根据昨天及近期预测，昨天在盘中高位做空了一些纳指和黄金：https://t.co/JUYC6iefMU，逻辑均被验证，今早夜盘已经全部止盈了，小赚2万U。\n\n接下来行情如何走？前两天市场炒作的是停战预期，今早的演讲川普说还得2-3周才能结束。一方面还要打，另一方面会停，那么前期的低点预期短期能撑住，但会在低点和昨天高点之间震荡的概率很大。\n\n接下来一周其实就好操作了，按照前期低点和昨日高点之间低买高卖就行。第二周之后又得炒作停战和胜利预期，到时再看。\n\n操作上，目前只持有零跑今天又是赚钱，在53卖了部分仓位，剩下的再拿拿。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2237,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170830048051535",
+            "type": "quoted"
+          }
+        ],
+        "text": "4.2 川普又拉了 接下来如何应对\n\n根据昨天及近期预测，昨天在盘中高位做空了一些纳指和黄金：https://t.co/j6kfYzsilX，逻辑均被验证，今早夜盘已经全部止盈了，小赚2万U。 https://t.co/YlpCWvUjdH https://t.co/VGLjBpg3tj"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2039690307785445502",
+        "created_at": "2026-04-02T13:03:59.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_history_tweet_ids": [
+          "2039690307785445502"
+        ],
+        "id": "2039690307785445502",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1307,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "text": "其实现在的行情，波动大，比较适合交易的，定好计划干就行，别怂。\n\nPS. 预感今晚行情有可能拉个大的。能做个反弹短线。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070418253353250816/A7ob_mkY_normal.jpg",
+        "username": "iiiinvest",
+        "verified": false
+      },
+      {
+        "id": "567192854",
+        "name": "Xil L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628670339936030727/IQm8P_eF_normal.jpg",
+        "username": "LeeFisun",
+        "verified": false
+      },
+      {
+        "id": "1220227886252089344",
+        "name": "妈回家了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051282036959424512/M6q1JUiZ_normal.jpg",
+        "username": "xcq618168",
+        "verified": false
+      },
+      {
+        "id": "1830160047437201408",
+        "name": "卡卡卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005190741795241989/soqRI-tK_normal.jpg",
+        "username": "Bingoqbb",
+        "verified": false
+      },
+      {
+        "id": "1987517916481482752",
+        "name": "远安一路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987518471908085761/oKxCpku0_normal.jpg",
+        "username": "lostsollar",
+        "verified": false
+      },
+      {
+        "id": "1402819429289758720",
+        "name": "偶像派作手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643063311632838656/Wi8QzYR3_normal.jpg",
+        "username": "oxpsats",
+        "verified": false
+      },
+      {
+        "id": "1652338997790916608",
+        "name": "有为青年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699865683734196224/p-Sp9I9e_normal.jpg",
+        "username": "MarinaroNi42044",
+        "verified": false
+      },
+      {
+        "id": "1445736128552734720",
+        "name": "Rounder",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074447119268929536/zFF7L16e_normal.jpg",
+        "username": "CryptoRounder",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2041677024692146656",
+    "next_token": "b26v89c19zqg8o3juehkksovpe3jz4j0vxdmyjihvz0ql",
+    "oldest_id": "2039690307785445502",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2041526270459301943].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041526270459301943",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2041526270459301943"
+    }
+  ]
+}

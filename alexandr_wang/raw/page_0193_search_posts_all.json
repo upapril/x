@@ -1,0 +1,172 @@
+{
+  "collected_at_utc": "2026-11-24T12:27:14Z",
+  "collected_at_shanghai": "2026-11-24T20:27:14+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RBV1061WVP8HJVPVB58HW.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2019-07-01T00:00:00Z",
+    "end_time": "2019-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2019-07"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1150212157507637249",
+      "created_at": "2019-07-14T01:15:22.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1150212157507637249"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 173,
+            "id": "1463861939034017794",
+            "start": 167,
+            "username": "scale"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "link.medium.com/d7AWG5PSiY",
+            "end": 276,
+            "expanded_url": "https://link.medium.com/d7AWG5PSiY",
+            "start": 253,
+            "status": 200,
+            "unwound_url": "https://link.medium.com/d7AWG5PSiY",
+            "url": "https://t.co/YSCCsGiSwB"
+          }
+        ]
+      },
+      "id": "1150212157507637249",
+      "lang": "en",
+      "possibly_sensitive": true,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "text": "\"Without training data, there was no ML model. There was no AI. Without the model, there was no solution. Without the solution, no company.\"\n\nIn line with our mission @scale to accelerate development of AI applications, we are solving the data problem. https://t.co/YSCCsGiSwB",
+      "url": "https://x.com/alexandr_wang/status/1150212157507637249"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1145778770881605633",
+      "created_at": "2019-07-02T14:49:21.000Z",
+      "display_text_range": [
+        21,
+        274
+      ],
+      "edit_history_tweet_ids": [
+        "1146068346263097346"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "403300382",
+            "start": 0,
+            "username": "nomadicnerd"
+          },
+          {
+            "end": 20,
+            "id": "1008927348807225346",
+            "start": 13,
+            "username": "brexHQ"
+          }
+        ]
+      },
+      "id": "1146068346263097346",
+      "in_reply_to_user_id": "403300382",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1145778770881605633",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nomadicnerd @brexHQ Been using Brex since before they were called Brex and it's been waaay better than any other credit card. They're a startup so there will be small blips, but in exchange you get a product that's actually sophisticated and improving. Slope over intercept",
+      "url": "https://x.com/alexandr_wang/status/1146068346263097346"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "403300382",
+        "conversation_id": "1145778770881605633",
+        "created_at": "2019-07-01T19:38:41.000Z",
+        "display_text_range": [
+          0,
+          202
+        ],
+        "edit_history_tweet_ids": [
+          "1145778770881605633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1008927348807225346",
+              "start": 64,
+              "username": "brexHQ"
+            }
+          ]
+        },
+        "id": "1145778770881605633",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "text": "Putting $5,000 on my personal card [not the first time] because @brexHQ is broken again. Wish I could go back and tell my past self to never sign up. What other credit cards for startups do people like?"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "403300382",
+        "name": "Jeremy Conrad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260462915771121664/yupWoASl_normal.jpg",
+        "username": "nomadicnerd",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1150212157507637249",
+    "next_token": "b26v89c19zqg8o3fnlx1jy1ytzlukldgdqm23ro4p55rx",
+    "oldest_id": "1146068346263097346",
+    "result_count": 2
+  },
+  "errors": []
+}

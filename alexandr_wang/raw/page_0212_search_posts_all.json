@@ -1,0 +1,1022 @@
+{
+  "collected_at_utc": "2026-11-24T12:28:18Z",
+  "collected_at_shanghai": "2026-11-24T20:28:18+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RE0TENTYB2NVS38YCJPRE.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2018-12-01T00:00:00Z",
+    "end_time": "2019-01-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2018-12"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1078916776073687040",
+      "created_at": "2018-12-29T07:32:59.000Z",
+      "display_text_range": [
+        0,
+        159
+      ],
+      "edit_history_tweet_ids": [
+        "1078916776073687040"
+      ],
+      "id": "1078916776073687040",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "Your existence is an active learning loop.\n\nYour rate of growth is proportional to the goodness of your algorithm, and proportional to the amount you struggle.",
+      "url": "https://x.com/alexandr_wang/status/1078916776073687040"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1078833622780588032",
+      "created_at": "2018-12-29T04:06:35.000Z",
+      "display_text_range": [
+        13,
+        24
+      ],
+      "edit_history_tweet_ids": [
+        "1078864833037008896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "422401447",
+            "start": 0,
+            "username": "SmithaMilli"
+          }
+        ]
+      },
+      "id": "1078864833037008896",
+      "in_reply_to_user_id": "422401447",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1078833622780588032",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SmithaMilli great tweet",
+      "url": "https://x.com/alexandr_wang/status/1078864833037008896"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1077795094080573441",
+      "created_at": "2018-12-26T05:15:49.000Z",
+      "display_text_range": [
+        0,
+        267
+      ],
+      "edit_history_tweet_ids": [
+        "1077795094080573441"
+      ],
+      "id": "1077795094080573441",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "Marketplaces are great.\n\nThere are Ubers/Lyfts on Christmas (vs other businesses which are basically all closed) because there’s a more liquid and flexible market for labor. Drivers can choose to work if it makes sense for them.\n\nMore value unlocked for the customer.",
+      "url": "https://x.com/alexandr_wang/status/1077795094080573441"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1076641618348761088",
+      "created_at": "2018-12-23T18:29:52.000Z",
+      "display_text_range": [
+        13,
+        143
+      ],
+      "edit_history_tweet_ids": [
+        "1076907760602628096"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "35647451",
+            "start": 0,
+            "username": "TurnerNovak"
+          }
+        ]
+      },
+      "id": "1076907760602628096",
+      "in_reply_to_user_id": "35647451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1076853819714297856",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TurnerNovak If you're a social network, it basically never makes sense to acquire users via ads. Your ARPU will never be greater than your CAC",
+      "url": "https://x.com/alexandr_wang/status/1076907760602628096"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1076641618348761088",
+      "created_at": "2018-12-23T18:29:08.000Z",
+      "display_text_range": [
+        30,
+        80
+      ],
+      "edit_history_tweet_ids": [
+        "1076907574627188737"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "7314302",
+            "start": 0,
+            "username": "ParthaSundaram"
+          },
+          {
+            "end": 29,
+            "id": "1229274350",
+            "start": 16,
+            "username": "imjgoldsmith"
+          }
+        ]
+      },
+      "id": "1076907574627188737",
+      "in_reply_to_user_id": "7314302",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1076846039666028545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ParthaSundaram @imjgoldsmith ... Snapchat must be very desperate for ad revenue",
+      "url": "https://x.com/alexandr_wang/status/1076907574627188737"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1076657188003704832"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1076657867850080256",
+      "created_at": "2018-12-23T01:56:53.000Z",
+      "display_text_range": [
+        0,
+        165
+      ],
+      "edit_history_tweet_ids": [
+        "1076657867850080256"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "en.wikipedia.org/wiki/Kessler_s…",
+            "end": 165,
+            "expanded_url": "https://en.wikipedia.org/wiki/Kessler_syndrome",
+            "start": 142,
+            "url": "https://t.co/hDucMakQQL"
+          },
+          {
+            "display_url": "pic.x.com/h1uTRKYKU5",
+            "end": 189,
+            "expanded_url": "https://x.com/alexandr_wang/status/1076657867850080256/photo/1",
+            "media_key": "3_1076657188003704832",
+            "start": 166,
+            "url": "https://t.co/h1uTRKYKU5"
+          }
+        ]
+      },
+      "id": "1076657867850080256",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "Just learned about Kessler syndrome and am now reasonably concerned about it.\n\nWhy don't I see doomsday news articles about stuff like this?\n\nhttps://t.co/hDucMakQQL https://t.co/h1uTRKYKU5",
+      "url": "https://x.com/alexandr_wang/status/1076657867850080256"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1076641618348761088",
+      "created_at": "2018-12-23T00:52:19.000Z",
+      "display_text_range": [
+        0,
+        165
+      ],
+      "edit_history_tweet_ids": [
+        "1076641618348761088"
+      ],
+      "id": "1076641618348761088",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "I just got a tiktok ad on Snapchat. That can't be a profitable user acquisition strategy. Also surprised Snapchat is allowing a direct competitor to advertise on it.",
+      "url": "https://x.com/alexandr_wang/status/1076641618348761088"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1074699324699934722"
+        ],
+        "media_source_tweet_id": [
+          "1074699327510114306"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1074703379979415552",
+      "created_at": "2018-12-17T16:30:27.000Z",
+      "display_text_range": [
+        0,
+        92
+      ],
+      "edit_history_tweet_ids": [
+        "1074703379979415552"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scl.ai/2rAkyn1",
+            "end": 68,
+            "expanded_url": "https://scl.ai/2rAkyn1",
+            "start": 45,
+            "url": "https://t.co/tUtkfh2y9l"
+          },
+          {
+            "display_url": "pic.x.com/JLWggSLfUv",
+            "end": 92,
+            "expanded_url": "https://x.com/scale_AI/status/1074699327510114306/photo/1",
+            "media_key": "3_1074699324699934722",
+            "start": 69,
+            "url": "https://t.co/JLWggSLfUv"
+          }
+        ]
+      },
+      "id": "1074703379979415552",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1074699327510114306",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: Introducing: Video Annotation \nhttps://t.co/tUtkfh2y9l https://t.co/JLWggSLfUv",
+      "url": "https://x.com/alexandr_wang/status/1074703379979415552"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1074470964031680512",
+      "created_at": "2018-12-17T08:10:08.000Z",
+      "display_text_range": [
+        37,
+        56
+      ],
+      "edit_history_tweet_ids": [
+        "1074577473336033280"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1618957741870948354",
+            "start": 0,
+            "username": "iamNives"
+          },
+          {
+            "end": 26,
+            "id": "1190966953",
+            "start": 10,
+            "username": "michael_at_work"
+          },
+          {
+            "end": 36,
+            "id": "68746721",
+            "start": 27,
+            "username": "fchollet"
+          },
+          {
+            "end": 56,
+            "id": "752712449321644032",
+            "start": 47,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1074577473336033280",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@iamNives @michael_at_work @fchollet Check out @scale_AI",
+      "url": "https://x.com/alexandr_wang/status/1074577473336033280"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1074470964031680512",
+      "created_at": "2018-12-17T01:47:21.000Z",
+      "display_text_range": [
+        10,
+        131
+      ],
+      "edit_history_tweet_ids": [
+        "1074481138897276929"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "68746721",
+            "start": 0,
+            "username": "fchollet"
+          },
+          {
+            "end": 32,
+            "id": "752712449321644032",
+            "start": 23,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.ai",
+            "end": 131,
+            "expanded_url": "https://scale.ai",
+            "start": 108,
+            "url": "https://t.co/z1taLLg796"
+          }
+        ]
+      },
+      "id": "1074481138897276929",
+      "in_reply_to_user_id": "68746721",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1074470964031680512",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fchollet Yep, what we @scale_AI have believed for years now. A good opportunity to create a lot of value.\n\nhttps://t.co/z1taLLg796",
+      "url": "https://x.com/alexandr_wang/status/1074481138897276929"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1074365753053200384",
+      "created_at": "2018-12-16T22:02:33.000Z",
+      "display_text_range": [
+        10,
+        106
+      ],
+      "edit_history_tweet_ids": [
+        "1074424567270060032"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "68746721",
+            "start": 0,
+            "username": "fchollet"
+          },
+          {
+            "end": 82,
+            "id": "752712449321644032",
+            "start": 73,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.ai",
+            "end": 106,
+            "expanded_url": "https://scale.ai",
+            "start": 83,
+            "url": "https://t.co/z1taLLg796"
+          }
+        ]
+      },
+      "id": "1074424567270060032",
+      "in_reply_to_user_id": "68746721",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1074365753053200384",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fchollet For those saying data collection and labeling, we make it easy @scale_AI https://t.co/z1taLLg796",
+      "url": "https://x.com/alexandr_wang/status/1074424567270060032"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1074016620396179456",
+      "created_at": "2018-12-15T19:01:31.000Z",
+      "display_text_range": [
+        0,
+        195
+      ],
+      "edit_history_tweet_ids": [
+        "1074016620396179456"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 59,
+            "id": "15460048",
+            "start": 55,
+            "username": "MIT"
+          }
+        ]
+      },
+      "id": "1074016620396179456",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "text": "The cohort of ~1000 students that just got accepted to @MIT are going to build incredible things and produce 10s of billions of dollars in value.\n\nBasically guaranteed. And it happens every year.",
+      "url": "https://x.com/alexandr_wang/status/1074016620396179456"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1073470437139439617",
+      "created_at": "2018-12-14T06:51:10.000Z",
+      "display_text_range": [
+        0,
+        202
+      ],
+      "edit_history_tweet_ids": [
+        "1073470437139439617"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "752712449321644032",
+            "start": 1,
+            "username": "scale_AI"
+          },
+          {
+            "end": 28,
+            "id": "14872511",
+            "start": 16,
+            "username": "Wealthfront"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "blog.wealthfront.com/career-launchi…",
+            "end": 202,
+            "expanded_url": "https://blog.wealthfront.com/career-launching-companies-list/",
+            "start": 179,
+            "url": "https://t.co/dlKoGZ5V4X"
+          }
+        ]
+      },
+      "id": "1073470437139439617",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": ".@scale_AI made @Wealthfront's list of Career-Launching Companies 🚀\n\n2 notable things\n- at 2 yrs old, we're one of the youngest companies\n- we're the only .ai domain on the list\n\nhttps://t.co/dlKoGZ5V4X",
+      "url": "https://x.com/alexandr_wang/status/1073470437139439617"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1073311285855436800",
+      "created_at": "2018-12-13T20:18:46.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1073311285855436800"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 71,
+            "id": "14872511",
+            "start": 59,
+            "username": "Wealthfront"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "t.co/6WXQCDNIr",
+            "end": 139,
+            "start": 117,
+            "url": "https://t.co/6WXQCDNIr"
+          }
+        ]
+      },
+      "id": "1073311285855436800",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1073311096532922368",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: We're honored and exciting to be included on @Wealthfront's Career-Launching Companies List!\n\nJoin us: https://t.co/6WXQCDNIr…",
+      "url": "https://x.com/alexandr_wang/status/1073311285855436800"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1072228602442211328",
+      "created_at": "2018-12-10T20:36:34.000Z",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "edit_history_tweet_ids": [
+        "1072228602442211328"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 24,
+            "id": "22537992",
+            "start": 18,
+            "username": "qasar"
+          },
+          {
+            "end": 43,
+            "id": "1475495658",
+            "start": 29,
+            "username": "eriktorenberg"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "breaker.audio/venture-storie…",
+            "end": 141,
+            "expanded_url": "https://www.breaker.audio/venture-stories/e/41238414",
+            "start": 118,
+            "url": "https://t.co/8gsMK5QqGK"
+          }
+        ]
+      },
+      "id": "1072228602442211328",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "A great chat with @qasar and @eriktorenberg about autonomous vehicles.\n\nIt's an exciting time to be building things.\n\nhttps://t.co/8gsMK5QqGK",
+      "url": "https://x.com/alexandr_wang/status/1072228602442211328"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1069344082638454789",
+      "created_at": "2018-12-02T21:34:31.000Z",
+      "display_text_range": [
+        0,
+        101
+      ],
+      "edit_history_tweet_ids": [
+        "1069344082638454789"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 19,
+            "start": 11,
+            "tag": "NeurIPS"
+          },
+          {
+            "end": 101,
+            "start": 91,
+            "tag": "NeurIPS18"
+          }
+        ]
+      },
+      "id": "1069344082638454789",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Heading to #NeurIPS this week. Hit me up if you'd like to meet up!\n\nWould love to catch up #NeurIPS18",
+      "url": "https://x.com/alexandr_wang/status/1069344082638454789"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1076657188003704832",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1074699324699934722",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "35647451",
+        "conversation_id": "1076641618348761088",
+        "created_at": "2018-12-23T14:55:32.000Z",
+        "display_text_range": [
+          15,
+          122
+        ],
+        "edit_history_tweet_ids": [
+          "1076853819714297856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1076853819714297856",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1076641618348761088",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Surprising, but based on what I’ve read, Snapchat’s one of the best/cheapest ways to acquire younger users."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1074699324699934722"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1074699327510114306",
+        "created_at": "2018-12-17T16:14:21.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_history_tweet_ids": [
+          "1074699327510114306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scl.ai/2rAkyn1",
+              "end": 54,
+              "expanded_url": "https://scl.ai/2rAkyn1",
+              "start": 31,
+              "url": "https://t.co/tUtkfh2y9l"
+            },
+            {
+              "display_url": "pic.x.com/JLWggSLfUv",
+              "end": 78,
+              "expanded_url": "https://x.com/scale_AI/status/1074699327510114306/photo/1",
+              "media_key": "3_1074699324699934722",
+              "start": 55,
+              "url": "https://t.co/JLWggSLfUv"
+            }
+          ]
+        },
+        "id": "1074699327510114306",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "text": "Introducing: Video Annotation \nhttps://t.co/tUtkfh2y9l https://t.co/JLWggSLfUv"
+      },
+      {
+        "author_id": "68746721",
+        "conversation_id": "1074470964031680512",
+        "created_at": "2018-12-17T01:06:55.000Z",
+        "display_text_range": [
+          0,
+          177
+        ],
+        "edit_history_tweet_ids": [
+          "1074470964031680512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fchollet/statu…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/fchollet/status/1074365753053200384",
+              "start": 178,
+              "url": "https://t.co/xywuBgl2sd"
+            }
+          ]
+        },
+        "id": "1074470964031680512",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 0,
+          "like_count": 810,
+          "quote_count": 26,
+          "reply_count": 27,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "1074365753053200384",
+            "type": "quoted"
+          }
+        ],
+        "text": "From the replies: if you're going to start a ML services startup, make it about data collection and labelling. This is main pain point, and where the most value can be unlocked. https://t.co/xywuBgl2sd"
+      },
+      {
+        "author_id": "68746721",
+        "conversation_id": "1074365753053200384",
+        "created_at": "2018-12-16T18:08:50.000Z",
+        "display_text_range": [
+          0,
+          239
+        ],
+        "edit_history_tweet_ids": [
+          "1074365753053200384"
+        ],
+        "id": "1074365753053200384",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 0,
+          "like_count": 851,
+          "quote_count": 39,
+          "reply_count": 190,
+          "retweet_count": 199
+        },
+        "text": "What's the hardest part of ML? The most expensive? The most time-consuming? Choosing from:\n\n- data collection &amp; labelling\n- data cleaning\n- modelling / science\n- implementation\n- infrastructure / cloud SysOps\n- deployment\n- maintenance"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1073311096532922368",
+        "created_at": "2018-12-13T20:18:01.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_history_tweet_ids": [
+          "1073311096532922368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "14872511",
+              "start": 45,
+              "username": "Wealthfront"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.ai/about#jobs",
+              "end": 126,
+              "expanded_url": "https://scale.ai/about#jobs",
+              "start": 103,
+              "url": "https://t.co/6WXQCDNIrA"
+            },
+            {
+              "display_url": "x.com/Wealthfront/st…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Wealthfront/status/1073304221947052032",
+              "start": 127,
+              "url": "https://t.co/bu1SKeQa51"
+            }
+          ]
+        },
+        "id": "1073311096532922368",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1073304221947052032",
+            "type": "quoted"
+          }
+        ],
+        "text": "We're honored and exciting to be included on @Wealthfront's Career-Launching Companies List!\n\nJoin us: https://t.co/6WXQCDNIrA https://t.co/bu1SKeQa51"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "422401447",
+        "name": "smitha milli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882498881939750912/XKlIUUos_normal.jpg",
+        "username": "SmithaMilli",
+        "verified": false
+      },
+      {
+        "id": "35647451",
+        "name": "Turner Novak 🍌🧢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1484379336857640960/Sis6_GKv_normal.png",
+        "username": "TurnerNovak",
+        "verified": false
+      },
+      {
+        "id": "7314302",
+        "name": "Partha Sundaram",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597864620/nationalgeomoment_normal.JPG",
+        "username": "ParthaSundaram",
+        "verified": false
+      },
+      {
+        "id": "68746721",
+        "name": "François Chollet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+        "username": "fchollet",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1078916776073687040",
+    "next_token": "b26v89c19zqg8o3fn0so1ktjmxtlhuiv0kysa8l63qxrx",
+    "oldest_id": "1069344082638454789",
+    "result_count": 16
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1078833622780588032].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1078833622780588032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1078833622780588032"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1076846039666028545].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1076846039666028545",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1076846039666028545"
+    }
+  ]
+}

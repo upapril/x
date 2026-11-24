@@ -1,8 +1,8 @@
 # Analysis — @iiiinvest (电鱼哥)
 
-**Corpus:** 736 unique stored posts, 2022-11-22 16:48:28 GMT+8 → 2026-11-24 17:24:45 GMT+8 (Asia/Shanghai). Types: original 172, reply 480, quote 48, repost 36.
+**Corpus:** 3,856 unique stored posts, 2022-11-22 16:48:28 GMT+8 → 2026-11-24 17:50:06 GMT+8 (Asia/Shanghai). Types: original 1,272, reply 2,027, quote 517, repost 40.
 
-**Coverage (read this first).** This is not a complete history. 2022-11 was walked deeply and exhausted; 2022-12 and 2023-01 through 2024-02 plus 2024-05 were exhausted, but many of those later months added little that the first pass had not already sampled. 2024-03 and 2024-04 are **open** after first-page duplicates still returned `next_token`. **2024-06 onward, including most of 2025–2026, was not monthly-exhausted**; 2025 (69) and 2026 (201) counts are still largely first-pass and recent-timeline samples. Year counts of 21–37 in 2023–2024 are not proof the account was quiet. Profile `post_count` at first lookup was 4,858. See `coverage_manifest.md`.
+**Coverage (read this first).** This is not a complete history. 2022-11 was walked deeply and exhausted; 2022-12 and 2023-01 through 2024-02 plus 2024-05 were exhausted; 2024-03 and 2024-04 remain open. By day-1 close, stored **2026 = 3,321** (the deep year) and **2025 = 69** (still mostly unopened except late-2025 empty/exhausted months). Exhausted 2026 months now include 2026-11, 10, 06, 05, 04, 03, 02, and 01. Still open: 2026-07, 2026-09, and subwindow 2026-08-01to27. Parent `2026-08` is `pagination_stalled` (do not reuse). 2025-09 through 2025-12 and 2025-08 (empty first page) are exhausted; 2025-01–07 remain pending. Year counts of 21–37 in 2023–2024 are not proof the account was quiet. Profile `post_count` at first lookup was 4,858. See `coverage_manifest.md` and `logs/remaining_jobs_day1.json`.
 
 Public identity is taken only from the public profile and posts: display name 电鱼哥; Binance referral in the bio; verified_type blue. **No legal name or private-life inference is made.**
 
@@ -118,7 +118,7 @@ The public form of discipline is the **dated plan post** and the daily motto rem
 
 **2025 (69 stored, not monthly-exhausted).** Performance and rank claims begin to show up more in keyword hits, but coverage is still sampled. Treat 2025 conclusions as provisional.
 
-**2026 (201 stored, not monthly-exhausted, but several important long posts are in the store).** Mottos and dated US-stock plans (Mar); community pin (13 Oct); rank/P&L posts (13 Nov); accompaniment during a scary week (22 Nov); SOXL/TQQQ plan-and-add (24 Nov). This is the period from which the core model above is drawn — and it may still be missing many posts.
+**2026 (762 stored, still not monthly-exhausted, but now the main evidence year in this package).** Mottos and dated US-stock plans (Mar); community pin (13 Oct); rank/P&L posts (13 Nov); accompaniment during a scary week (22 Nov); SOXL/TQQQ plan-and-add (24 Nov). This is the period from which the core model above is drawn — and it may still be missing many posts.
 
 ---
 
@@ -137,8 +137,53 @@ The public form of discipline is the **dated plan post** and the daily motto rem
 
 ---
 
+
+
+## 2026 rules added in the continuation pass
+
+**Explicit invalidation on a named level, 31 Jul 2026** (https://x.com/iiiinvest/status/2083081126315532770, 2026-07-31 14:43:36 GMT+8):
+
+> 美光到底是反弹，还是反转？
+>
+> 很简单，等这次次高点1000，如果冲过去就是反转，不然依旧是反弹。闪迪 海力士同理！
+>
+> 至于操作机会，也是同样逻辑，前次高点做空，突破止损，不然就就拿着。
+>
+> 交易很简单，几把摆正，然后执行！
+
+| Layer | Content |
+|---|---|
+| **Explicit** | A prior-high short with a **breakout as the stop** (“突破止损”), else hold; the 1000 level is his named test for Micron “反转 vs 反弹.” |
+| **Interpretation** | This is one of the clearest invalidation sentences in the retrieved corpus. It is still a single-name, single-day tactic, not a standing percent stop for every trade. The “交易很简单…执行” line is exhortation, not evidence of follow-through. |
+| **Practical test (ours)** | If you study this post, write the level *and* “if it breaks, I exit” *before* entry. Do not generalize “1000” or “50% size” (below) into a system. |
+
+**Explicit sizing suggestion, 31 Jul 2026** (https://x.com/iiiinvest/status/2083201188384919863, 2026-07-31 22:40:41 GMT+8). The stored text is only point “1、” and then stops; later numbered points were **not** in this store:
+
+> 如何做仓位管理
+>
+> 不少人问过这个问题，我没正面回复，因为确实因人而异。但想想还是说下我的建议！
+>
+> 1、如果你资金量不大，比如不足100万，我建议每次开仓仓位不低于50%，也就是50万。不然即便翻倍你也赚不了多少！
+
+This is **his posted suggestion to followers on that date**, including the 100万 / 50% / 50万 figures. It is not a verified personal rule, not a risk cap, and **not recommended here**. The same sentence admits the answer is “因人而异.” A 50% opening size is aggressive; this research will not turn it into a “his system” or add numbers he did not post.
+
+**Tension with an earlier 2026 thread point, 31 Jan 2026** (https://x.com/iiiinvest/status/2017456699272269832, 2026-01-31 12:35:34 GMT+8), a reply that is point “9、” of a longer list:
+
+> 9、26年大概率是震荡的一年，跌了要敢买，如果下跌10%到20%之间，涨了要会卖。技术上不要梭哈，不要死拿，做好止盈止损。做好仓位管理，分批建仓减仓。
+
+“不要梭哈…分批建仓减仓” and “每次开仓仓位不低于50%” are both his words, six months apart. Neither is a complete method, and they pull in different directions. The 10%–20% dip band is also his dated wording, not a validated rule.
+
+**Other dated 2026 plans now in the store** (still self-reports, not a journal we can audit): 24 Mar 2026 five-stage war/oil/gold-pit sketch, including “不要抄底” repeated and a later “打满” buy point (https://x.com/iiiinvest/status/2036371238927606119); 24 Apr 2026 “持仓计划上，加仓了点纳指空单…多单全清了” (https://x.com/iiiinvest/status/2047488757516083607).
+
+
 ## What a careful reader can actually take
 
 The transferable *study* object is: **write a plan, wait when you do not have one, do not need the market to crown a big persona, check the tape only at decision points — and then add the invalidation line he often skips.** Do not take “免费,” self-reported ranks, or a 10万到5000多万 story as evidence. Do not copy share counts or average-down recipes as if they were a tested system.
 
 For a cross-account checklist, see [`../INSIGHTS.md`](../INSIGHTS.md).
+
+---
+
+## Day-1 close addendum
+
+The earlier sections were first written against a 1,297-post package (2026 then 762). The day-1 store is 3,856 posts, almost all of the new volume in 2026. That makes the “plan-first / 不格局” reading *better sampled* for 2026, but it does not automatically re-prove every citation, and 2023–2025 remain thin. Mid-2026 pages include more session-plan and risk comments that have not all been folded into the older narrative. Do not treat self-reported fills as a verified edge.

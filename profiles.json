@@ -99,6 +99,98 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2111376053289594881/HJoHb6MH_normal.jpg",
       "profile_banner_url": "https://pbs.twimg.com/profile_banners/1435990322702520320/1741165391",
       "canonical_url": "https://x.com/silverfang88"
+    },
+    "taresky": {
+      "id": "368245720",
+      "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+      "username": "taresky",
+      "created_at": "2011-09-05T09:55:55.000Z",
+      "description": "💰 套利 1~100x | 2021~2025.6\n\n📨 频道 https://t.co/lfDM0SWzw7\n\n🔗 推荐 https://t.co/wd52lPtl1T\n\n🌽 出售 https://t.co/OGndi1dRKb",
+      "location": null,
+      "protected": false,
+      "verified": true,
+      "verified_type": "blue",
+      "is_identity_verified": false,
+      "url_tco": "https://t.co/V6pzEt8zrU",
+      "url_expanded": "https://taresky.com",
+      "url_display": "taresky.com",
+      "bio_urls": [
+        {
+          "url": "https://t.co/lfDM0SWzw7",
+          "expanded_url": "https://t.me/wxjdqtg",
+          "display_url": "t.me/wxjdqtg"
+        },
+        {
+          "url": "https://t.co/wd52lPtl1T",
+          "expanded_url": "https://aff.taresky.me",
+          "display_url": "aff.taresky.me"
+        },
+        {
+          "url": "https://t.co/OGndi1dRKb",
+          "expanded_url": "http://sol.bot",
+          "display_url": "sol.bot"
+        }
+      ],
+      "affiliation": null,
+      "public_metrics": {
+        "followers_count": 55145,
+        "following_count": 389,
+        "like_count": 33261,
+        "listed_count": 884,
+        "media_count": 3175,
+        "post_count": 34003
+      },
+      "pinned_post_id": "1700606366606565686",
+      "pinned_post_retrieval": "expansion 404; retrieved via x.get_posts_by_ids from 01M86RNS24JM0DDWZ54K2R3P7F.txt; stored in raw and posts.jsonl",
+      "most_recent_post_id": "2125155090130731098",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/368245720/1701600715",
+      "canonical_url": "https://x.com/taresky",
+      "profile_collected_at_utc": "2026-11-24T12:33:54Z",
+      "profile_collected_at_shanghai": "2026-11-24T20:33:54+08:00",
+      "profile_source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RKE0B41ZRA89NJ8Y0562J.txt",
+      "profile_source_tool": "x.get_users_by_usernames"
+    },
+    "thankUcrypto": {
+      "id": "705564530936418304",
+      "name": "allincrypto 熬鹰资本 🇨🇳",
+      "username": "thankUcrypto",
+      "created_at": "2016-03-04T01:24:27.000Z",
+      "description": "多次创业成功并归零，今年1万美金再次重返1000万美金。\n粉丝群请联系助理:@xiaoweio9983\n币安：https://t.co/bVA0PgUbjA",
+      "location": "你就是你自己的交易之神。",
+      "protected": false,
+      "verified": true,
+      "verified_type": "blue",
+      "is_identity_verified": false,
+      "url_tco": "https://t.co/5EKsx9U5n1",
+      "url_expanded": "https://vlink.cc/aoyingzhuli",
+      "url_display": "vlink.cc/aoyingzhuli",
+      "bio_urls": [
+        {
+          "url": "https://t.co/bVA0PgUbjA",
+          "expanded_url": "https://www.mp3web.cloud/jsredirect/zh-CN/join?ref=aoying666",
+          "display_url": "mp3web.cloud/jsredirect/zh-…"
+        }
+      ],
+      "affiliation": null,
+      "public_metrics": {
+        "followers_count": 229472,
+        "following_count": 620,
+        "like_count": 5366,
+        "listed_count": 2602,
+        "media_count": 2356,
+        "post_count": 8097
+      },
+      "pinned_post_id": "2091778918810612183",
+      "pinned_post_retrieval": "expansion 404; retrieved via x.get_posts_by_ids from 01M86RNS24JM0DDWZ54K2R3P7F.txt; stored in raw and posts.jsonl",
+      "most_recent_post_id": "2125183975757119963",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+      "profile_banner_url": "",
+      "canonical_url": "https://x.com/thankUcrypto",
+      "profile_collected_at_utc": "2026-11-24T12:33:54Z",
+      "profile_collected_at_shanghai": "2026-11-24T20:33:54+08:00",
+      "profile_source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RKE0B41ZRA89NJ8Y0562J.txt",
+      "profile_source_tool": "x.get_users_by_usernames"
     }
   },
   "field_errors": [
@@ -109,7 +201,8 @@
     "All three accounts are public (protected=false) and verified_type=blue.",
     "is_identity_verified was false for all three at collection time; this is a platform field, not a biographical conclusion.",
     "Pinned posts could not be retrieved via pinned_post_id expansion (resource-not-found).",
-    "public_metrics.post_count is a platform-reported lifetime count and is not proof that all of those posts are retrievable via API."
+    "public_metrics.post_count is a platform-reported lifetime count and is not proof that all of those posts are retrievable via API.",
+    "2026-11-24 20:31 GMT+8 day-1 addition: @taresky and @thankUcrypto profiles via x.get_users_by_usernames (same field set; pinned posts 404'd in expansion and were later retrieved with get_posts_by_ids). The original three profile records are the earlier same-day first lookup, not re-fetched at day-1 close."
   ],
   "pinned_post_followup": {
     "note": "pinned_post_id expansion on get_users_by_usernames returned resource-not-found for all three; x.get_posts_by_ids on the same ids succeeded. Raw: _raw/pinned_posts_get_posts_by_ids.json",

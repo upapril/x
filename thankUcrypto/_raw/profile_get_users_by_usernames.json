@@ -1,0 +1,73 @@
+{
+  "collected_at_utc": "2026-11-24T12:33:54Z",
+  "collected_at_shanghai": "2026-11-24T20:33:54+08:00",
+  "tool": "x.get_users_by_usernames",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RKE0B41ZRA89NJ8Y0562J.txt",
+  "user": {
+    "created_at": "2016-03-04T01:24:27.000Z",
+    "description": "多次创业成功并归零，今年1万美金再次重返1000万美金。\n粉丝群请联系助理:@xiaoweio9983\n币安：https://t.co/bVA0PgUbjA",
+    "entities": {
+      "description": {
+        "mentions": [
+          {
+            "end": 51,
+            "start": 38,
+            "username": "xiaoweio9983"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "mp3web.cloud/jsredirect/zh-…",
+            "end": 78,
+            "expanded_url": "https://www.mp3web.cloud/jsredirect/zh-CN/join?ref=aoying666",
+            "start": 55,
+            "url": "https://t.co/bVA0PgUbjA"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "vlink.cc/aoyingzhuli",
+            "end": 23,
+            "expanded_url": "https://vlink.cc/aoyingzhuli",
+            "start": 0,
+            "url": "https://t.co/5EKsx9U5n1"
+          }
+        ]
+      }
+    },
+    "id": "705564530936418304",
+    "is_identity_verified": false,
+    "location": "你就是你自己的交易之神。",
+    "most_recent_post_id": "2125183975757119963",
+    "name": "allincrypto 熬鹰资本 🇨🇳",
+    "pinned_post_id": "2091778918810612183",
+    "profile_banner_url": "",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+    "protected": false,
+    "public_metrics": {
+      "followers_count": 229472,
+      "following_count": 620,
+      "like_count": 5366,
+      "listed_count": 2602,
+      "media_count": 2356,
+      "post_count": 8097
+    },
+    "url": "https://t.co/5EKsx9U5n1",
+    "username": "thankUcrypto",
+    "verified": true,
+    "verified_type": "blue"
+  },
+  "errors": [
+    {
+      "detail": "Could not find post with pinned_tweet_id: [2091778918810612183].",
+      "parameter": "pinned_tweet_id",
+      "resource_id": "2091778918810612183",
+      "resource_type": "post",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2091778918810612183"
+    }
+  ]
+}

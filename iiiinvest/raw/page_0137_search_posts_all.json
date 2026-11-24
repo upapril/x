@@ -1,0 +1,1281 @@
+{
+  "collected_at_utc": "2026-11-24T12:11:18Z",
+  "collected_at_shanghai": "2026-11-24T20:11:18+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86QE5DETQDJBXMZ8HY3C37W.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2026-05-01T00:00:00Z",
+    "end_time": "2026-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juenh6jkww9ffuar8c349dvqgqh6kd",
+    "window_label": "2026-05"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052745365003403531",
+      "created_at": "2026-05-08T13:40:07.000Z",
+      "display_text_range": [
+        0,
+        11
+      ],
+      "edit_history_tweet_ids": [
+        "2052745365003403531"
+      ],
+      "id": "2052745365003403531",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 580,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "加空了点闪迪，涨不动了",
+      "url": "https://x.com/iiiinvest/status/2052745365003403531"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2052680631210127361"
+        ]
+      },
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052680640785784849",
+      "created_at": "2026-05-08T09:22:56.000Z",
+      "display_text_range": [
+        0,
+        16
+      ],
+      "edit_history_tweet_ids": [
+        "2052680640785784849"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/9iFLSjzSRf",
+            "end": 40,
+            "expanded_url": "https://x.com/iiiinvest/status/2052680640785784849/photo/1",
+            "media_key": "3_2052680631210127361",
+            "start": 17,
+            "url": "https://t.co/9iFLSjzSRf"
+          }
+        ]
+      },
+      "id": "2052680640785784849",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 808,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "比特币的空单止盈了，美股太强了。 https://t.co/9iFLSjzSRf",
+      "url": "https://x.com/iiiinvest/status/2052680640785784849"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052578654979547353",
+      "created_at": "2026-05-08T02:37:41.000Z",
+      "display_text_range": [
+        0,
+        93
+      ],
+      "edit_history_tweet_ids": [
+        "2052578654979547353"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 117,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2052218553231974795",
+            "start": 94,
+            "url": "https://t.co/G2Xu7dlniu"
+          }
+        ]
+      },
+      "id": "2052578654979547353",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "5.8  纳指微调，策略有效\n\n昨天美股微调，整个半导体板块也随之调整，但幅度不大，资金还在博弈。\n\n从持仓上看，目前纳指多单微赚，比特币空单赚，闪迪空单赚，特斯拉持平，AMD和白银亏。\n\n之前建多空单的逻辑一个是轮动，一个是对冲，目前看对冲是对冲了，但选择还有问题没有赚钱，那么就要筛选下了。接下来策略留强去弱。\n\n先看纳指，昨天放了小量，观察一两天看能不能继续向上，不然就要走了。\n\n特斯拉，昨天突破的，目前看依旧较强，继续拿着等破位。\n\nAMD，昨天大涨后今天小回调，还算健康，和纳指逻辑一样，观察一两天。\n\n闪迪和比特币的空单都是赚钱的，说明逻辑没问题继续拿着。\n\n白银有点尴尬，昨天跟着纳指一直突突，差点打到我止损，目前又回到我开仓位置\n附近微亏，说明相较纳指白银更强，做空风险比较大，但大趋势还是向下且被吸血，今天会再观察下。\n\n最后也就是多纳指 特斯拉 AMD，空闪迪 比比特币。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2839,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052218553231974795",
+          "type": "quoted"
+        }
+      ],
+      "text": "5.8  纳指微调，策略有效\n\n昨天美股微调，整个半导体板块也随之调整，但幅度不大，资金还在博弈。\n\n从持仓上看，目前纳指多单微赚，比特币空单赚，闪迪空单赚，特斯拉持平，AMD和白银亏。 https://t.co/G2Xu7dlniu",
+      "url": "https://x.com/iiiinvest/status/2052578654979547353"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052398822828167228",
+      "created_at": "2026-05-07T14:43:05.000Z",
+      "display_text_range": [
+        0,
+        25
+      ],
+      "edit_history_tweet_ids": [
+        "2052398822828167228"
+      ],
+      "id": "2052398822828167228",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 712,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "纳指不断新高，比特币开启了8万保护战，真讽刺。。。",
+      "url": "https://x.com/iiiinvest/status/2052398822828167228"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052397264577122661",
+      "created_at": "2026-05-07T14:36:54.000Z",
+      "display_text_range": [
+        0,
+        47
+      ],
+      "edit_history_tweet_ids": [
+        "2052397264577122661"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 71,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2052232481857065313",
+            "start": 48,
+            "url": "https://t.co/zZXVvlarUW"
+          }
+        ]
+      },
+      "id": "2052397264577122661",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1219,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052232481857065313",
+          "type": "quoted"
+        }
+      ],
+      "text": "去弱留强，将半导体多单平移到特斯拉了。目前：\n多：纳指、特斯拉、AMD\n空：闪迪、比特币、白银 https://t.co/zZXVvlarUW",
+      "url": "https://x.com/iiiinvest/status/2052397264577122661"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052218553231974795",
+      "created_at": "2026-05-07T09:50:21.000Z",
+      "display_text_range": [
+        14,
+        20
+      ],
+      "edit_history_tweet_ids": [
+        "2052325153640706251"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2464233275",
+            "start": 0,
+            "username": "deathfly1980"
+          }
+        ]
+      },
+      "id": "2052325153640706251",
+      "in_reply_to_user_id": "2464233275",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 79,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052258003945210342",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@deathfly1980 所以多半导体",
+      "url": "https://x.com/iiiinvest/status/2052325153640706251"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052250024806158784",
+      "created_at": "2026-05-07T04:51:49.000Z",
+      "display_text_range": [
+        0,
+        63
+      ],
+      "edit_history_tweet_ids": [
+        "2052250024806158784"
+      ],
+      "id": "2052250024806158784",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1138,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "目前仓位打的很满了，不管逻辑正确与否，账户波动将创历史新高！！\n\n单日20万，30万甚至更多的日子来了。是赚还是亏？拭目以待！",
+      "url": "https://x.com/iiiinvest/status/2052250024806158784"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052232481857065313",
+      "created_at": "2026-05-07T03:42:06.000Z",
+      "display_text_range": [
+        0,
+        49
+      ],
+      "edit_history_tweet_ids": [
+        "2052232481857065313"
+      ],
+      "id": "2052232481857065313",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1987,
+        "like_count": 9,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "按照日报已经建仓，另外做空了比特币和白银。目前\n\n多：纳指，半导体，AMD\n空：闪迪，比特币，白银",
+      "url": "https://x.com/iiiinvest/status/2052232481857065313"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052218553231974795",
+      "created_at": "2026-05-07T02:51:44.000Z",
+      "display_text_range": [
+        0,
+        10
+      ],
+      "edit_history_tweet_ids": [
+        "2052219803650367751"
+      ],
+      "id": "2052219803650367751",
+      "in_reply_to_user_id": "1589763597705437184",
+      "lang": "ja",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 492,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052218553231974795",
+          "type": "replied_to"
+        }
+      ],
+      "text": "文中AMD不是ARM",
+      "url": "https://x.com/iiiinvest/status/2052219803650367751"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052218553231974795",
+      "created_at": "2026-05-07T02:46:46.000Z",
+      "display_text_range": [
+        0,
+        83
+      ],
+      "edit_history_tweet_ids": [
+        "2052218553231974795"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 107,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2051852422193271126",
+            "start": 84,
+            "url": "https://t.co/J71Pd8rc8v"
+          }
+        ]
+      },
+      "id": "2052218553231974795",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "5.7 不废话说点发现的\n\n昨天盘面强，很强，依旧是半导体带领收涨2%，我盘中按照计划追了纳指TQQQ，目前持有纳指多单和闪迪空单，接下来怎么操作，我说点自己发现的：\n\n投机资金疯狂涌入半导体，年初金银疯狂时我看了下大概投机资金5000亿左右，目前半导体差不多达到2000亿的水平，泡沫肯定的了，就看要不要参与了。\n\n我认为半导体这轮已经成为资金共识了，短时间看资金还有空间，波动震荡大，肯定要参与！\n\n接着是怎么买的问题，我这波半导体没赚到钱，但波动这么大，我肯定要参与，昨天做空闪迪其实也不是头铁而是做T所以把前天亏得又赚回来了，目前还是净空状态。\n\n我是这么想的，半导体这波还没结束，但资金不像金银，流动性更强。所以轮动感更强，比如昨天资金其实从存储出来去了CPU板块，但都在半导体转。\n\n对于整体大盘，目前看多，资金很热踏空资金很多，短时间不放量都说明还没到头。\n\n我首先还会继续加仓纳指多单TQQQ，仓位会大一些做整体仓位β\n\n然后闪迪的空单继续拿，并且会做T，赌的是回调，但不是崩盘。\n\n然后准备再建仓半导体和ARM的多单赌半导体继续的红利。\n\n也就是多纳指，多半导体和ARM，空闪迪。整体仓位应该是422的组合，留2成资金做机动做T。\n\n这个思路是建立在对大盘和投机资金的判断基础上的，供你参考。\n\n干！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 3365,
+        "like_count": 11,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2051852422193271126",
+          "type": "quoted"
+        }
+      ],
+      "text": "5.7 不废话说点发现的\n\n昨天盘面强，很强，依旧是半导体带领收涨2%，我盘中按照计划追了纳指TQQQ，目前持有纳指多单和闪迪空单，接下来怎么操作，我说点自己发现的： https://t.co/J71Pd8rc8v",
+      "url": "https://x.com/iiiinvest/status/2052218553231974795"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2052026796103930090",
+      "created_at": "2026-05-06T14:04:47.000Z",
+      "display_text_range": [
+        0,
+        15
+      ],
+      "edit_history_tweet_ids": [
+        "2052026796103930090"
+      ],
+      "id": "2052026796103930090",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 756,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "刺激啊，闪迪变闪崩吧，别演了。",
+      "url": "https://x.com/iiiinvest/status/2052026796103930090"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051859796564017486",
+      "created_at": "2026-05-06T03:01:11.000Z",
+      "display_text_range": [
+        0,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2051859796564017486"
+      ],
+      "id": "2051859796564017486",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 693,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "我又把零跑加到特别关注里了，跌出性价比了，观察观察。",
+      "url": "https://x.com/iiiinvest/status/2051859796564017486"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051859045930373544",
+      "created_at": "2026-05-06T02:58:12.000Z",
+      "display_text_range": [
+        0,
+        12
+      ],
+      "edit_history_tweet_ids": [
+        "2051859045930373544"
+      ],
+      "id": "2051859045930373544",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 683,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "涨起来，自然有大儒辨经。",
+      "url": "https://x.com/iiiinvest/status/2051859045930373544"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051852422193271126",
+      "created_at": "2026-05-06T02:31:53.000Z",
+      "display_text_range": [
+        0,
+        65
+      ],
+      "edit_history_tweet_ids": [
+        "2051852422193271126"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 89,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2051488945796706447",
+            "start": 66,
+            "url": "https://t.co/3m6clHaqwV"
+          }
+        ]
+      },
+      "id": "2051852422193271126",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "5.6  彻底疯了，亏了波大的\n\n昨天美股在半导体带领下，来了个大冲锋，美光 闪迪 3倍半导体都是10%起步。最后美股收涨1.3%\n\n按照昨天对冲策略，比特币的涨幅并没有抵消半导体做空的亏损，整体还亏不少。另外MSTR财报盘后也拉了，说是要卖币，消息面利空。叠加涨幅不及美股，就在刚刚8.12我止盈了比特币仓位。\n\n那么接下来怎么操作呢，对冲企微应该没错，选对标的和时间很重要，我准备将比特币的多仓换到纳指指数，也就是持有纳指多单和半导体（闪迪）空单。\n\n操作上，目前已经止盈比特币，两个账户赚了3万美金，等开盘会再平掉MSTR（MD这波还是亏的），然后建仓纳指多单。继续持有闪迪空单（仓位控制在30%内，目前20%仓位，如果继续涨就再加！）\n\n这波半导体能涨到什么时候，我预计也就还剩几天，但市场不一定按照我的预计来，那么控制好仓位，剩下交给时间！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3933,
+        "like_count": 5,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2051488945796706447",
+          "type": "quoted"
+        }
+      ],
+      "text": "5.6  彻底疯了，亏了波大的\n\n昨天美股在半导体带领下，来了个大冲锋，美光 闪迪 3倍半导体都是10%起步。最后美股收涨1.3% https://t.co/3m6clHaqwV",
+      "url": "https://x.com/iiiinvest/status/2051852422193271126"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051488945796706447",
+      "created_at": "2026-05-05T02:27:34.000Z",
+      "display_text_range": [
+        0,
+        145
+      ],
+      "edit_history_tweet_ids": [
+        "2051488945796706447"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 169,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2051118305977704518",
+            "start": 146,
+            "url": "https://t.co/iGLcbsDM0u"
+          }
+        ]
+      },
+      "id": "2051488945796706447",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "5.5  机会来了就不怂，干就完了\n\n昨天美股在战争扰动下，微跌-0.1%收盘。有几个需要关注的：\n\n1. 半导体虽然突破了，但没站稳，三倍收跌了-2%，说明不够强势，如果持续阴跌我会继续空它。\n\n2. 昨天盘中做空了闪迪，此轮Ai板块龙头，还是从交易角度出发好定止损，不然就拿着。\n\n3. 比特币有点强，在8万上下穿梭，说明这轮不是散户情绪主导，昨晚已经打了仓位，目前微赚拿着就行。\n\n整个纳指年内已经上涨10%，这时候肯定不能勇敢牛牛使劲追涨，我目前的策略是突破的追多的同时，做空弱势的对冲。供你参考。\n\n知行合一，不下牌桌！干！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3480,
+        "like_count": 10,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2051118305977704518",
+          "type": "quoted"
+        }
+      ],
+      "text": "5.5  机会来了就不怂，干就完了\n\n昨天美股在战争扰动下，微跌-0.1%收盘。有几个需要关注的：\n\n1. 半导体虽然突破了，但没站稳，三倍收跌了-2%，说明不够强势，如果持续阴跌我会继续空它。\n\n2. 昨天盘中做空了闪迪，此轮Ai板块龙头，还是从交易角度出发好定止损，不然就拿着。\n\n3. https://t.co/iGLcbsDM0u",
+      "url": "https://x.com/iiiinvest/status/2051488945796706447"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051308547376558180",
+      "created_at": "2026-05-04T14:30:43.000Z",
+      "display_text_range": [
+        0,
+        12
+      ],
+      "edit_history_tweet_ids": [
+        "2051308547376558180"
+      ],
+      "id": "2051308547376558180",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 750,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "做空了闪迪，今日高点止损",
+      "url": "https://x.com/iiiinvest/status/2051308547376558180"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051289184233717862",
+      "created_at": "2026-05-04T13:13:47.000Z",
+      "display_text_range": [
+        0,
+        7
+      ],
+      "edit_history_tweet_ids": [
+        "2051289184233717862"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 31,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2051257519465799866",
+            "start": 8,
+            "url": "https://t.co/wSQU2IRchP"
+          }
+        ]
+      },
+      "id": "2051289184233717862",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 956,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2051257519465799866",
+          "type": "quoted"
+        }
+      ],
+      "text": "卖了，73.8 https://t.co/wSQU2IRchP",
+      "url": "https://x.com/iiiinvest/status/2051289184233717862"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051257519465799866",
+      "created_at": "2026-05-04T11:07:57.000Z",
+      "display_text_range": [
+        0,
+        30
+      ],
+      "edit_history_tweet_ids": [
+        "2051257519465799866"
+      ],
+      "id": "2051257519465799866",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1508,
+        "like_count": 4,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "73.3短线多了点白银，美股开盘应该还会拉升一波，拉升就扔。",
+      "url": "https://x.com/iiiinvest/status/2051257519465799866"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051157143592792420",
+      "created_at": "2026-05-04T04:29:06.000Z",
+      "display_text_range": [
+        0,
+        9
+      ],
+      "edit_history_tweet_ids": [
+        "2051157143592792420"
+      ],
+      "id": "2051157143592792420",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 771,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "追多了比特币和币股",
+      "url": "https://x.com/iiiinvest/status/2051157143592792420"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2051118305977704518",
+      "created_at": "2026-05-04T01:54:46.000Z",
+      "display_text_range": [
+        0,
+        133
+      ],
+      "edit_history_tweet_ids": [
+        "2051118305977704518"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 157,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2050047595825987892",
+            "start": 134,
+            "url": "https://t.co/9jrqOyg1MD"
+          }
+        ]
+      },
+      "id": "2051118305977704518",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2501,
+        "like_count": 9,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2050047595825987892",
+          "type": "quoted"
+        }
+      ],
+      "text": "5.4 半导体突破了，关注比特币机会\n\n半导体上周五收盘站上新高了，按照计划应该止损空单，今天开盘后会择机处理掉。\n\n比特币又摸到7.9万了，并且有突破迹象，关注能否站稳8万，能站上8万就追比特币和币股。\n\n这波做空叠加之前止盈的，基本上没赚，做空美股还是风险大啊。 https://t.co/9jrqOyg1MD",
+      "url": "https://x.com/iiiinvest/status/2051118305977704518"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2050242371561169279",
+      "created_at": "2026-05-01T15:54:07.000Z",
+      "display_text_range": [
+        0,
+        70
+      ],
+      "edit_history_tweet_ids": [
+        "2050242371561169279"
+      ],
+      "id": "2050242371561169279",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 980,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "现在做空半导体真的挺好！\n\n距离前高很近。交易上很好定止损位置。\n\n同时半导体相对纳指没有前段时间那么强了。\n\n综合来看是个很好的交易标的！",
+      "url": "https://x.com/iiiinvest/status/2050242371561169279"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2050047595825987892",
+      "created_at": "2026-05-01T15:01:42.000Z",
+      "display_text_range": [
+        9,
+        18
+      ],
+      "edit_history_tweet_ids": [
+        "2050229177803329949"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1402819429289758720",
+            "start": 0,
+            "username": "oxpsats"
+          }
+        ]
+      },
+      "id": "2050229177803329949",
+      "in_reply_to_user_id": "1402819429289758720",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 92,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2050052253516706216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oxpsats 是的，单边不回调。",
+      "url": "https://x.com/iiiinvest/status/2050229177803329949"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2050228817999106442",
+      "created_at": "2026-05-01T15:00:16.000Z",
+      "display_text_range": [
+        0,
+        26
+      ],
+      "edit_history_tweet_ids": [
+        "2050228817999106442"
+      ],
+      "id": "2050228817999106442",
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 790,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "把纳指空单去掉了，加到了半导体空单上。止损就是前高。",
+      "url": "https://x.com/iiiinvest/status/2050228817999106442"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2050047595825987892",
+      "created_at": "2026-05-01T03:00:09.000Z",
+      "display_text_range": [
+        0,
+        97
+      ],
+      "edit_history_tweet_ids": [
+        "2050047595825987892"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 121,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2049659467634278572",
+            "start": 98,
+            "url": "https://t.co/QlXCUf0Ckk"
+          }
+        ]
+      },
+      "id": "2050047595825987892",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "5.1  纳指和半导体空单还在\n\n昨晚开盘纳指向下以为反转了，没想到凌晨又拉回来了，最后收涨+1.6%，真强。\n\n我盘中加了半导体的空单，前高止损。纳指新高半导体没有，也说明动力不足，拿着看看。\n\n其他持仓上纳指已经产生较大的亏损，其他的空单都平完了，这波纳指很强，依旧在新高。准备今天开盘看下就平掉止损了。\n\n假期了，兄弟们美股继续干！"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2800,
+        "like_count": 10,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2049659467634278572",
+          "type": "quoted"
+        }
+      ],
+      "text": "5.1  纳指和半导体空单还在\n\n昨晚开盘纳指向下以为反转了，没想到凌晨又拉回来了，最后收涨+1.6%，真强。\n\n我盘中加了半导体的空单，前高止损。纳指新高半导体没有，也说明动力不足，拿着看看。 https://t.co/QlXCUf0Ckk",
+      "url": "https://x.com/iiiinvest/status/2050047595825987892"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_2052680631210127361",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2052218553231974795",
+        "created_at": "2026-05-07T02:46:46.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_history_tweet_ids": [
+          "2052218553231974795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2051852422193271126",
+              "start": 84,
+              "url": "https://t.co/J71Pd8rc8v"
+            }
+          ]
+        },
+        "id": "2052218553231974795",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "5.7 不废话说点发现的\n\n昨天盘面强，很强，依旧是半导体带领收涨2%，我盘中按照计划追了纳指TQQQ，目前持有纳指多单和闪迪空单，接下来怎么操作，我说点自己发现的：\n\n投机资金疯狂涌入半导体，年初金银疯狂时我看了下大概投机资金5000亿左右，目前半导体差不多达到2000亿的水平，泡沫肯定的了，就看要不要参与了。\n\n我认为半导体这轮已经成为资金共识了，短时间看资金还有空间，波动震荡大，肯定要参与！\n\n接着是怎么买的问题，我这波半导体没赚到钱，但波动这么大，我肯定要参与，昨天做空闪迪其实也不是头铁而是做T所以把前天亏得又赚回来了，目前还是净空状态。\n\n我是这么想的，半导体这波还没结束，但资金不像金银，流动性更强。所以轮动感更强，比如昨天资金其实从存储出来去了CPU板块，但都在半导体转。\n\n对于整体大盘，目前看多，资金很热踏空资金很多，短时间不放量都说明还没到头。\n\n我首先还会继续加仓纳指多单TQQQ，仓位会大一些做整体仓位β\n\n然后闪迪的空单继续拿，并且会做T，赌的是回调，但不是崩盘。\n\n然后准备再建仓半导体和ARM的多单赌半导体继续的红利。\n\n也就是多纳指，多半导体和ARM，空闪迪。整体仓位应该是422的组合，留2成资金做机动做T。\n\n这个思路是建立在对大盘和投机资金的判断基础上的，供你参考。\n\n干！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3365,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051852422193271126",
+            "type": "quoted"
+          }
+        ],
+        "text": "5.7 不废话说点发现的\n\n昨天盘面强，很强，依旧是半导体带领收涨2%，我盘中按照计划追了纳指TQQQ，目前持有纳指多单和闪迪空单，接下来怎么操作，我说点自己发现的： https://t.co/J71Pd8rc8v"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2052232481857065313",
+        "created_at": "2026-05-07T03:42:06.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_history_tweet_ids": [
+          "2052232481857065313"
+        ],
+        "id": "2052232481857065313",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1987,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "按照日报已经建仓，另外做空了比特币和白银。目前\n\n多：纳指，半导体，AMD\n空：闪迪，比特币，白银"
+      },
+      {
+        "author_id": "2464233275",
+        "conversation_id": "2052218553231974795",
+        "created_at": "2026-05-07T05:23:31.000Z",
+        "display_text_range": [
+          11,
+          42
+        ],
+        "edit_history_tweet_ids": [
+          "2052258003945210342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2052258003945210342",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@iiiinvest CPU、存储和光，很难讲资金怎么流转，timing的难度相当大"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2051852422193271126",
+        "created_at": "2026-05-06T02:31:53.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_history_tweet_ids": [
+          "2051852422193271126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2051488945796706447",
+              "start": 66,
+              "url": "https://t.co/3m6clHaqwV"
+            }
+          ]
+        },
+        "id": "2051852422193271126",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "5.6  彻底疯了，亏了波大的\n\n昨天美股在半导体带领下，来了个大冲锋，美光 闪迪 3倍半导体都是10%起步。最后美股收涨1.3%\n\n按照昨天对冲策略，比特币的涨幅并没有抵消半导体做空的亏损，整体还亏不少。另外MSTR财报盘后也拉了，说是要卖币，消息面利空。叠加涨幅不及美股，就在刚刚8.12我止盈了比特币仓位。\n\n那么接下来怎么操作呢，对冲企微应该没错，选对标的和时间很重要，我准备将比特币的多仓换到纳指指数，也就是持有纳指多单和半导体（闪迪）空单。\n\n操作上，目前已经止盈比特币，两个账户赚了3万美金，等开盘会再平掉MSTR（MD这波还是亏的），然后建仓纳指多单。继续持有闪迪空单（仓位控制在30%内，目前20%仓位，如果继续涨就再加！）\n\n这波半导体能涨到什么时候，我预计也就还剩几天，但市场不一定按照我的预计来，那么控制好仓位，剩下交给时间！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3933,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051488945796706447",
+            "type": "quoted"
+          }
+        ],
+        "text": "5.6  彻底疯了，亏了波大的\n\n昨天美股在半导体带领下，来了个大冲锋，美光 闪迪 3倍半导体都是10%起步。最后美股收涨1.3% https://t.co/3m6clHaqwV"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2051488945796706447",
+        "created_at": "2026-05-05T02:27:34.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_history_tweet_ids": [
+          "2051488945796706447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2051118305977704518",
+              "start": 146,
+              "url": "https://t.co/iGLcbsDM0u"
+            }
+          ]
+        },
+        "id": "2051488945796706447",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "5.5  机会来了就不怂，干就完了\n\n昨天美股在战争扰动下，微跌-0.1%收盘。有几个需要关注的：\n\n1. 半导体虽然突破了，但没站稳，三倍收跌了-2%，说明不够强势，如果持续阴跌我会继续空它。\n\n2. 昨天盘中做空了闪迪，此轮Ai板块龙头，还是从交易角度出发好定止损，不然就拿着。\n\n3. 比特币有点强，在8万上下穿梭，说明这轮不是散户情绪主导，昨晚已经打了仓位，目前微赚拿着就行。\n\n整个纳指年内已经上涨10%，这时候肯定不能勇敢牛牛使劲追涨，我目前的策略是突破的追多的同时，做空弱势的对冲。供你参考。\n\n知行合一，不下牌桌！干！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3480,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051118305977704518",
+            "type": "quoted"
+          }
+        ],
+        "text": "5.5  机会来了就不怂，干就完了\n\n昨天美股在战争扰动下，微跌-0.1%收盘。有几个需要关注的：\n\n1. 半导体虽然突破了，但没站稳，三倍收跌了-2%，说明不够强势，如果持续阴跌我会继续空它。\n\n2. 昨天盘中做空了闪迪，此轮Ai板块龙头，还是从交易角度出发好定止损，不然就拿着。\n\n3. https://t.co/iGLcbsDM0u"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2051118305977704518",
+        "created_at": "2026-05-04T01:54:46.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_history_tweet_ids": [
+          "2051118305977704518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2050047595825987892",
+              "start": 134,
+              "url": "https://t.co/9jrqOyg1MD"
+            }
+          ]
+        },
+        "id": "2051118305977704518",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2501,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050047595825987892",
+            "type": "quoted"
+          }
+        ],
+        "text": "5.4 半导体突破了，关注比特币机会\n\n半导体上周五收盘站上新高了，按照计划应该止损空单，今天开盘后会择机处理掉。\n\n比特币又摸到7.9万了，并且有突破迹象，关注能否站稳8万，能站上8万就追比特币和币股。\n\n这波做空叠加之前止盈的，基本上没赚，做空美股还是风险大啊。 https://t.co/9jrqOyg1MD"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2051257519465799866",
+        "created_at": "2026-05-04T11:07:57.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_history_tweet_ids": [
+          "2051257519465799866"
+        ],
+        "id": "2051257519465799866",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1508,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "text": "73.3短线多了点白银，美股开盘应该还会拉升一波，拉升就扔。"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2050047595825987892",
+        "created_at": "2026-05-01T03:00:09.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_history_tweet_ids": [
+          "2050047595825987892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2049659467634278572",
+              "start": 98,
+              "url": "https://t.co/QlXCUf0Ckk"
+            }
+          ]
+        },
+        "id": "2050047595825987892",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "5.1  纳指和半导体空单还在\n\n昨晚开盘纳指向下以为反转了，没想到凌晨又拉回来了，最后收涨+1.6%，真强。\n\n我盘中加了半导体的空单，前高止损。纳指新高半导体没有，也说明动力不足，拿着看看。\n\n其他持仓上纳指已经产生较大的亏损，其他的空单都平完了，这波纳指很强，依旧在新高。准备今天开盘看下就平掉止损了。\n\n假期了，兄弟们美股继续干！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2800,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049659467634278572",
+            "type": "quoted"
+          }
+        ],
+        "text": "5.1  纳指和半导体空单还在\n\n昨晚开盘纳指向下以为反转了，没想到凌晨又拉回来了，最后收涨+1.6%，真强。\n\n我盘中加了半导体的空单，前高止损。纳指新高半导体没有，也说明动力不足，拿着看看。 https://t.co/QlXCUf0Ckk"
+      },
+      {
+        "author_id": "1402819429289758720",
+        "conversation_id": "2050047595825987892",
+        "created_at": "2026-05-01T03:18:40.000Z",
+        "display_text_range": [
+          11,
+          54
+        ],
+        "edit_history_tweet_ids": [
+          "2050052253516706216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2050052253516706216",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050047595825987892",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest 美股太他娘的强了 这过程尽管有在股指期货低开的时候参与一下，但是也完全无法上较大仓位。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2049659454317273088",
+            "3_2049659454325682176",
+            "3_2049659454321516544"
+          ]
+        },
+        "author_id": "1589763597705437184",
+        "conversation_id": "2049659467634278572",
+        "created_at": "2026-04-30T01:17:52.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_history_tweet_ids": [
+          "2049659467634278572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1y95qrmJz",
+              "end": 127,
+              "expanded_url": "https://x.com/iiiinvest/status/2049659467634278572/photo/1",
+              "media_key": "3_2049659454317273088",
+              "start": 104,
+              "url": "https://t.co/W1y95qrmJz"
+            },
+            {
+              "display_url": "pic.x.com/W1y95qrmJz",
+              "end": 127,
+              "expanded_url": "https://x.com/iiiinvest/status/2049659467634278572/photo/2",
+              "media_key": "3_2049659454325682176",
+              "start": 104,
+              "url": "https://t.co/W1y95qrmJz"
+            },
+            {
+              "display_url": "pic.x.com/W1y95qrmJz",
+              "end": 127,
+              "expanded_url": "https://x.com/iiiinvest/status/2049659467634278572/photo/3",
+              "media_key": "3_2049659454321516544",
+              "start": 104,
+              "url": "https://t.co/W1y95qrmJz"
+            },
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2049308039375950034",
+              "start": 128,
+              "url": "https://t.co/M8qGlEJGbe"
+            }
+          ]
+        },
+        "id": "2049659467634278572",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "4.30  行情相反而行，注意止盈止损\n\n昨晚今晨在美联储会议及四大财报的外力冲击下，行情并没有向下，而是夜盘选择向上，目前夜盘涨+1%，叠加昨晚的观望情绪，我认为很多踏空的还没上车，这波向上力量还没结束。\n\n既然行情与我们选择的方向相反，那么逻辑就站不住了，夜盘已经1%，开盘即便反复也很难反转了。基于逻辑判断和不可一蹴而就理论，我决定进行部分止盈止损。\n\n打扫下战场，本轮做空，MSTR空单赚6.7万美金，白银赚4.5万美金，比特币赚1.1万美金，半导体持平，纳指亏3万美金。\n\n我决定纳指空单和半导体空单拿到今晚开盘，其他夜盘止盈。看今晚美股怎么发展，行情很强，要选选个股了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4243,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049308039375950034",
+            "type": "quoted"
+          }
+        ],
+        "text": "4.30  行情相反而行，注意止盈止损\n\n昨晚今晨在美联储会议及四大财报的外力冲击下，行情并没有向下，而是夜盘选择向上，目前夜盘涨+1%，叠加昨晚的观望情绪，我认为很多踏空的还没上车，这波向上力量还没结束。 https://t.co/W1y95qrmJz https://t.co/M8qGlEJGbe"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070418253353250816/A7ob_mkY_normal.jpg",
+        "username": "iiiinvest",
+        "verified": false
+      },
+      {
+        "id": "2464233275",
+        "name": "致命fly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907559267626110976/uG2SmvQn_normal.jpg",
+        "username": "deathfly1980",
+        "verified": false
+      },
+      {
+        "id": "1402819429289758720",
+        "name": "偶像派作手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643063311632838656/Wi8QzYR3_normal.jpg",
+        "username": "oxpsats",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2052745365003403531",
+    "next_token": "b26v89c19zqg8o3juengbtfy0txa5zqruekn1oyed5if1",
+    "oldest_id": "2050047595825987892",
+    "result_count": 24
+  },
+  "errors": []
+}

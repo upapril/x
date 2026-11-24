@@ -1,0 +1,2209 @@
+{
+  "collected_at_utc": "2026-11-24T12:21:56Z",
+  "collected_at_shanghai": "2026-11-24T20:21:56+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R233DX4P6RB4K6CDJA328.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2021-10-01T00:00:00Z",
+    "end_time": "2021-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2021-10"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1451232250347982849",
+      "created_at": "2021-10-21T17:01:45.000Z",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "edit_history_tweet_ids": [
+        "1451232250347982849"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1605",
+            "start": 3,
+            "username": "sama"
+          }
+        ]
+      },
+      "id": "1451232250347982849",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 748
+      },
+      "referenced_tweets": [
+        {
+          "id": "1451203161029427208",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @sama: Introducing Worldcoin, a new cryptocurrency that will be distributed fairly to as many people as possible.\n\nDetails about how it…",
+      "url": "https://x.com/alexandr_wang/status/1451232250347982849"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1450875379929927683",
+      "created_at": "2021-10-20T17:23:41.000Z",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "edit_history_tweet_ids": [
+        "1450875379929927683"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/blog/nucleus-3d",
+            "end": 280,
+            "expanded_url": "https://scale.com/blog/nucleus-3d",
+            "start": 257,
+            "status": 200,
+            "unwound_url": "https://scale.com/blog",
+            "url": "https://t.co/5FR3OjscgU"
+          }
+        ]
+      },
+      "id": "1450875379929927683",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "Super excited to share that Nucleus now supports 3D Sensor Fusion! Customers can analyze, curate, and annotate 3D point clouds in Nucleus with Scenes. This data is critical for teams to develop accurate models for use cases such as AV, robotics, and AR/VR. https://t.co/5FR3OjscgU",
+      "url": "https://x.com/alexandr_wang/status/1450875379929927683"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1450533557898600458",
+      "created_at": "2021-10-19T18:45:24.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1450533557898600458"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "9445792",
+            "start": 3,
+            "username": "zoink"
+          },
+          {
+            "end": 63,
+            "id": "52708408",
+            "start": 51,
+            "username": "figmadesign"
+          }
+        ]
+      },
+      "id": "1450533557898600458",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 41
+      },
+      "referenced_tweets": [
+        {
+          "id": "1450522306862739459",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @zoink: Today is one of the biggest launches in @figmadesign history. SO PROUD OF THIS TEAM!\n\nICYMI, we announced widgets / plugins in F…",
+      "url": "https://x.com/alexandr_wang/status/1450533557898600458"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1450533298984288259",
+      "created_at": "2021-10-19T18:44:22.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1450533298984288259"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "825797497658281985",
+            "start": 3,
+            "username": "dmitri_dolgov"
+          },
+          {
+            "end": 68,
+            "id": "615818451",
+            "start": 54,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 89,
+            "id": "796092645193846784",
+            "start": 83,
+            "username": "Waymo"
+          }
+        ]
+      },
+      "id": "1450533298984288259",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1450503123181576194",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @dmitri_dolgov: It was fantastic sitting down with @alexandr_wang to talk about @Waymo’s tech that enabled the world’s first fully auton…",
+      "url": "https://x.com/alexandr_wang/status/1450533298984288259"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1447734107140550661",
+      "created_at": "2021-10-12T01:21:23.000Z",
+      "display_text_range": [
+        0,
+        271
+      ],
+      "edit_history_tweet_ids": [
+        "1447734107140550661"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 73,
+            "id": "752712449321644032",
+            "start": 64,
+            "username": "Scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "wired.com/story/opinion-…",
+            "end": 271,
+            "expanded_url": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/",
+            "start": 248,
+            "url": "https://t.co/M9ABOcoLWb"
+          }
+        ]
+      },
+      "id": "1447734107140550661",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 40,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "text": "Great to see this thoughtful approach to the govt embracing AI. @Scale_AI believes it’s important to collaborate with the govt—our goal is to empower them to set the right democratic standards with the best quality data and AI technology available https://t.co/M9ABOcoLWb",
+      "url": "https://x.com/alexandr_wang/status/1447734107140550661"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1447684456685395974",
+      "created_at": "2021-10-11T22:04:05.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1447684456685395974"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2897178924",
+            "start": 3,
+            "username": "aerinykim"
+          },
+          {
+            "end": 129,
+            "id": "138840988",
+            "start": 117,
+            "username": "NeurIPSConf"
+          }
+        ]
+      },
+      "id": "1447684456685395974",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "1447662071231877120",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @aerinykim: Our Reddit 43K: A comment-reply dataset for dis/agreement detection paper just got accepted inaugural @NeurIPSConf dataset t…",
+      "url": "https://x.com/alexandr_wang/status/1447684456685395974"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1447681102307418112",
+      "created_at": "2021-10-11T21:50:46.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1447681102307418112"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1447681102307418112",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1447680775369871362",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: 💻 Recently, our team of researchers conducted an in-depth analysis of the state of data in computer vision.\n\n✅ The research p…",
+      "url": "https://x.com/alexandr_wang/status/1447681102307418112"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446517237968355332",
+      "created_at": "2021-10-08T16:45:59.000Z",
+      "display_text_range": [
+        0,
+        100
+      ],
+      "edit_history_tweet_ids": [
+        "1446517237968355332"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "60642052",
+            "start": 3,
+            "username": "VentureBeat"
+          },
+          {
+            "end": 100,
+            "id": "4828761",
+            "start": 90,
+            "username": "mmarshall"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "wp.me/p8wLEc-brom",
+            "end": 86,
+            "expanded_url": "https://wp.me/p8wLEc-brom",
+            "start": 63,
+            "status": 404,
+            "unwound_url": "https://venturebeat-com.go-vip.co/?p=2726906",
+            "url": "https://t.co/7bINeWQsCc"
+          }
+        ]
+      },
+      "id": "1446517237968355332",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446173635249680388",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @VentureBeat: Scale AI launches rapid data-labeling service https://t.co/7bINeWQsCc by @mmarshall",
+      "url": "https://x.com/alexandr_wang/status/1446517237968355332"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446501565821374473",
+      "created_at": "2021-10-08T15:43:42.000Z",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "edit_history_tweet_ids": [
+        "1446501565821374473"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1163142901846593536",
+            "start": 3,
+            "username": "SaaSletter"
+          },
+          {
+            "end": 96,
+            "id": "752712449321644032",
+            "start": 87,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1446501565821374473",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446482617491021828",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @SaaSletter: I’ve heard positive buzz from multiple public market investors on this @scale_AI virtual conference. Best talks curated by…",
+      "url": "https://x.com/alexandr_wang/status/1446501565821374473"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446501126812012546",
+      "created_at": "2021-10-08T15:41:57.000Z",
+      "display_text_range": [
+        0,
+        36
+      ],
+      "edit_history_tweet_ids": [
+        "1446501126812012546"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 34,
+            "id": "752712449321644032",
+            "start": 25,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/xamat/status/1…",
+            "end": 60,
+            "expanded_url": "https://twitter.com/xamat/status/1446351201046433794",
+            "start": 37,
+            "url": "https://t.co/D12bF0iCqf"
+          }
+        ]
+      },
+      "id": "1446501126812012546",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446351201046433794",
+          "type": "quoted"
+        }
+      ],
+      "text": "The pleasure is all ours @scale_AI ! https://t.co/D12bF0iCqf",
+      "url": "https://x.com/alexandr_wang/status/1446501126812012546"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446466321126866945",
+      "created_at": "2021-10-08T13:23:39.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1446466321126866945"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 124,
+            "start": 113,
+            "tag": "transformX"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 18,
+            "id": "942971354839527424",
+            "start": 3,
+            "username": "HoseinHashemi9"
+          },
+          {
+            "end": 66,
+            "id": "615818451",
+            "start": 52,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 77,
+            "id": "752712449321644032",
+            "start": 68,
+            "username": "scale_AI"
+          },
+          {
+            "end": 94,
+            "id": "74916424",
+            "start": 83,
+            "username": "jeffweiner"
+          },
+          {
+            "end": 105,
+            "id": "13058772",
+            "start": 96,
+            "username": "LinkedIn"
+          }
+        ]
+      },
+      "id": "1446466321126866945",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446281056450080768",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @HoseinHashemi9: Very insightful conversation of @alexandr_wang, @scale_AI with @jeffweiner, @LinkedIn at the #transformX conference. Th…",
+      "url": "https://x.com/alexandr_wang/status/1446466321126866945"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446466192382705665",
+      "created_at": "2021-10-08T13:23:08.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1446466192382705665"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "752712449321644032",
+            "start": 12,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1446466192382705665",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446384121979285505",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @0bimri: @scale_AI the last 2 days have been so surreal... brought back those nostalgic feelings of a good event ending; gratitude to ea…",
+      "url": "https://x.com/alexandr_wang/status/1446466192382705665"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446259632389771266",
+      "created_at": "2021-10-07T23:42:21.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1446259632389771266"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "t.co/bVlG",
+            "end": 139,
+            "start": 122,
+            "url": "https://t.co/bVlG"
+          }
+        ]
+      },
+      "id": "1446259632389771266",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446258980058140673",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: The Future of AV Sensors - Enabling the Autonomous Vehicles of Tomorrow With Austin Russell, CEO of Luminar https://t.co/bVlG…",
+      "url": "https://x.com/alexandr_wang/status/1446259632389771266"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446218945933951004",
+      "created_at": "2021-10-07T21:00:40.000Z",
+      "display_text_range": [
+        0,
+        180
+      ],
+      "edit_history_tweet_ids": [
+        "1446218945933951004"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "752712449321644032",
+            "start": 5,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scl.ai/rapid-ga",
+            "end": 180,
+            "expanded_url": "https://scl.ai/rapid-ga",
+            "start": 157,
+            "status": 404,
+            "unwound_url": "https://scale.com/blog/rapid-ga",
+            "url": "https://t.co/3T2iBy972v"
+          }
+        ]
+      },
+      "id": "1446218945933951004",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 47,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "text": "Huge @scale_AI launch today: Scale Rapid\n\nWe’re democratizing the ability to get labels to every engineer. Fast.\n\nTry it out and get labels in a few hours.\n\nhttps://t.co/3T2iBy972v",
+      "url": "https://x.com/alexandr_wang/status/1446218945933951004"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1446129563147243527",
+      "created_at": "2021-10-07T15:05:30.000Z",
+      "display_text_range": [
+        0,
+        50
+      ],
+      "edit_history_tweet_ids": [
+        "1446129563147243527"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/scale_AI/statu…",
+            "end": 74,
+            "expanded_url": "https://twitter.com/scale_AI/status/1446128677658382351",
+            "start": 51,
+            "url": "https://t.co/k3oKhh3HRn"
+          }
+        ]
+      },
+      "id": "1446129563147243527",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1446128677658382351",
+          "type": "quoted"
+        }
+      ],
+      "text": "Don’t miss out on the best conference of the year! https://t.co/k3oKhh3HRn",
+      "url": "https://x.com/alexandr_wang/status/1446129563147243527"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1445920181763465218",
+      "created_at": "2021-10-07T01:13:29.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1445920181763465218"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 43,
+            "id": "7456262",
+            "start": 35,
+            "username": "btaylor"
+          },
+          {
+            "end": 77,
+            "id": "33612317",
+            "start": 66,
+            "username": "salesforce"
+          },
+          {
+            "end": 111,
+            "id": "615818451",
+            "start": 97,
+            "username": "alexandr_wang"
+          }
+        ]
+      },
+      "id": "1445920181763465218",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1445902229324673024",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: 🎬 Fireside Chat with @btaylor, President and COO of @salesforce, and Scale AI CEO, @alexandr_wang! \n\n📸 Inside look into Trans…",
+      "url": "https://x.com/alexandr_wang/status/1445920181763465218"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1445863889694978052",
+      "created_at": "2021-10-06T21:29:48.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1445863889694978052"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          },
+          {
+            "end": 37,
+            "id": "991451",
+            "start": 25,
+            "username": "kevin_scott"
+          },
+          {
+            "end": 56,
+            "id": "74286565",
+            "start": 46,
+            "username": "Microsoft"
+          },
+          {
+            "end": 107,
+            "id": "615818451",
+            "start": 93,
+            "username": "alexandr_wang"
+          }
+        ]
+      },
+      "id": "1445863889694978052",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1445858943121641474",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: 🔥 Up Next: @kevin_scott, CTO of @Microsoft \n\n🎥 Watch live as Kevin Scott joins @alexandr_wang to discuss how AI can be democr…",
+      "url": "https://x.com/alexandr_wang/status/1445863889694978052"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1445817576936771587"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1445818109839884293",
+      "created_at": "2021-10-06T18:27:54.000Z",
+      "display_text_range": [
+        0,
+        67
+      ],
+      "edit_history_tweet_ids": [
+        "1445818109839884293"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 41,
+            "start": 30,
+            "tag": "TransformX"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 26,
+            "id": "216939636",
+            "start": 16,
+            "username": "AndrewYNg"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "exchange.scale.com/public/events/…",
+            "end": 67,
+            "expanded_url": "https://exchange.scale.com/public/events/scale-transformx",
+            "start": 44,
+            "url": "https://t.co/UoxXT90vq4"
+          },
+          {
+            "display_url": "pic.x.com/PBAu419bkc",
+            "end": 91,
+            "expanded_url": "https://x.com/alexandr_wang/status/1445818109839884293/video/1",
+            "media_key": "7_1445817576936771587",
+            "start": 68,
+            "url": "https://t.co/PBAu419bkc"
+          }
+        ]
+      },
+      "id": "1445818109839884293",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 18,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "text": "We're live with @AndrewYNg at #TransformX!  https://t.co/UoxXT90vq4 https://t.co/PBAu419bkc",
+      "url": "https://x.com/alexandr_wang/status/1445818109839884293"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1445783411788967944"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1445783691775524866",
+      "created_at": "2021-10-06T16:11:08.000Z",
+      "display_text_range": [
+        0,
+        127
+      ],
+      "edit_history_tweet_ids": [
+        "1445783691775524866"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 45,
+            "start": 34,
+            "tag": "transformX"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 10,
+            "id": "44196397",
+            "start": 1,
+            "username": "elonmusk"
+          },
+          {
+            "end": 33,
+            "id": "752712449321644032",
+            "start": 24,
+            "username": "scale_ai"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "exchange.scale.com/public/events/…",
+            "end": 127,
+            "expanded_url": "https://exchange.scale.com/public/events/scale-transformx",
+            "start": 104,
+            "url": "https://t.co/UoxXT90vq4"
+          },
+          {
+            "display_url": "pic.x.com/EKkjSJvlZb",
+            "end": 151,
+            "expanded_url": "https://x.com/alexandr_wang/status/1445783691775524866/photo/1",
+            "media_key": "3_1445783411788967944",
+            "start": 128,
+            "url": "https://t.co/EKkjSJvlZb"
+          }
+        ]
+      },
+      "id": "1445783691775524866",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 0,
+        "like_count": 273,
+        "quote_count": 4,
+        "reply_count": 12,
+        "retweet_count": 38
+      },
+      "text": ".@elonmusk is online on @scale_ai #transformX right now!\n\nDon't miss out on the best conference in AI:\n\nhttps://t.co/UoxXT90vq4 https://t.co/EKkjSJvlZb",
+      "url": "https://x.com/alexandr_wang/status/1445783691775524866"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1445769665175703560"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1445769820499169292",
+      "created_at": "2021-10-06T15:16:00.000Z",
+      "display_text_range": [
+        0,
+        81
+      ],
+      "edit_history_tweet_ids": [
+        "1445769820499169292"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "exchange.scale.com/public/events/…",
+            "end": 81,
+            "expanded_url": "https://exchange.scale.com/public/events/scale-transformx",
+            "start": 58,
+            "url": "https://t.co/UoxXT90vq4"
+          },
+          {
+            "display_url": "pic.x.com/TX62gMBvpV",
+            "end": 105,
+            "expanded_url": "https://x.com/alexandr_wang/status/1445769820499169292/photo/1",
+            "media_key": "3_1445769665175703560",
+            "start": 82,
+            "url": "https://t.co/TX62gMBvpV"
+          }
+        ]
+      },
+      "id": "1445769820499169292",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 53,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 6
+      },
+      "text": "TransformX is officially LIVE! It's not too late to join: https://t.co/UoxXT90vq4 https://t.co/TX62gMBvpV",
+      "url": "https://x.com/alexandr_wang/status/1445769820499169292"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1445095401854418944",
+      "created_at": "2021-10-04T18:36:07.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1445095401854418944"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 97,
+            "start": 89,
+            "tag": "fintech"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 16,
+            "id": "585186481",
+            "start": 3,
+            "username": "blendlabsinc"
+          },
+          {
+            "end": 29,
+            "id": "752712449321644032",
+            "start": 20,
+            "username": "scale_AI"
+          },
+          {
+            "end": 84,
+            "id": "1144022811507171328",
+            "start": 74,
+            "username": "NGhamsari"
+          }
+        ]
+      },
+      "id": "1445095401854418944",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1445064541533057025",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @blendlabsinc: 📆 @scale_AI TransformX Conference is only 1️⃣ day away! @NGhamsari and #fintech industry experts weigh in on the value of…",
+      "url": "https://x.com/alexandr_wang/status/1445095401854418944"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1445095380442497024",
+      "created_at": "2021-10-04T18:36:01.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1445095380442497024"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "887406091457318912",
+            "start": 3,
+            "username": "zoox"
+          },
+          {
+            "end": 75,
+            "id": "752712449321644032",
+            "start": 66,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1445095380442497024",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1445088290890149888",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @zoox: CTO and Co-Founder, Jesse Levinson, will be gracing the @scale_AI virtual stage this Wednesday at 11:45 a.m. PT, to share his ins…",
+      "url": "https://x.com/alexandr_wang/status/1445095380442497024"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1445068297783758851",
+      "created_at": "2021-10-04T16:48:24.000Z",
+      "display_text_range": [
+        0,
+        149
+      ],
+      "edit_history_tweet_ids": [
+        "1445068297783758851"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "796092645193846784",
+            "start": 40,
+            "username": "Waymo"
+          },
+          {
+            "end": 68,
+            "id": "825797497658281985",
+            "start": 54,
+            "username": "dmitri_dolgov"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.com/events/transfo…",
+            "end": 149,
+            "expanded_url": "https://scale.com/events/transformx",
+            "start": 126,
+            "url": "https://t.co/pjVhTUlduK"
+          },
+          {
+            "display_url": "x.com/Waymo/status/1…",
+            "end": 173,
+            "expanded_url": "https://twitter.com/Waymo/status/1445063742421716996",
+            "start": 150,
+            "url": "https://t.co/5lVQYtjfAI"
+          }
+        ]
+      },
+      "id": "1445068297783758851",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1445063742421716996",
+          "type": "quoted"
+        }
+      ],
+      "text": "Very excited about my conversation with @Waymo co-CEO @dmitri_dolgov this week!\n\nDon't miss out on the AI event of the year!\n\nhttps://t.co/pjVhTUlduK https://t.co/5lVQYtjfAI",
+      "url": "https://x.com/alexandr_wang/status/1445068297783758851"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1444710769963143168",
+      "created_at": "2021-10-03T17:07:43.000Z",
+      "display_text_range": [
+        0,
+        210
+      ],
+      "edit_history_tweet_ids": [
+        "1444710769963143168"
+      ],
+      "id": "1444710769963143168",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 0,
+        "like_count": 100,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 7
+      },
+      "text": "The most significant thing about crypto is the incredibly swift generational wealth transfer to a newer wave of builders who are more contrarian and internet-native.\n\nThe world is only getting faster from here.",
+      "url": "https://x.com/alexandr_wang/status/1444710769963143168"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "7_1445817576936771587",
+        "type": "video"
+      },
+      {
+        "media_key": "3_1445783411788967944",
+        "type": "photo"
+      },
+      {
+        "media_key": "3_1445769665175703560",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1451201664698896384"
+          ]
+        },
+        "author_id": "1605",
+        "conversation_id": "1451203161029427208",
+        "created_at": "2021-10-21T15:06:10.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_history_tweet_ids": [
+          "1451203161029427208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "worldcoin.org",
+              "end": 159,
+              "expanded_url": "https://worldcoin.org",
+              "start": 136,
+              "url": "https://t.co/DLcAmUA4u3"
+            },
+            {
+              "display_url": "pic.x.com/xC3W2U6Xi3",
+              "end": 183,
+              "expanded_url": "https://x.com/sama/status/1451203161029427208/photo/1",
+              "media_key": "3_1451201664698896384",
+              "start": 160,
+              "url": "https://t.co/xC3W2U6Xi3"
+            }
+          ]
+        },
+        "id": "1451203161029427208",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1221,
+          "impression_count": 0,
+          "like_count": 4542,
+          "quote_count": 1851,
+          "reply_count": 1923,
+          "retweet_count": 748
+        },
+        "text": "Introducing Worldcoin, a new cryptocurrency that will be distributed fairly to as many people as possible.\n\nDetails about how it works: https://t.co/DLcAmUA4u3 https://t.co/xC3W2U6Xi3"
+      },
+      {
+        "author_id": "9445792",
+        "conversation_id": "1450522306862739459",
+        "created_at": "2021-10-19T18:00:42.000Z",
+        "display_text_range": [
+          0,
+          261
+        ],
+        "edit_history_tweet_ids": [
+          "1450522306862739459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "52708408",
+              "start": 40,
+              "username": "figmadesign"
+            }
+          ]
+        },
+        "id": "1450522306862739459",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 0,
+          "like_count": 601,
+          "quote_count": 26,
+          "reply_count": 13,
+          "retweet_count": 41
+        },
+        "text": "Today is one of the biggest launches in @figmadesign history. SO PROUD OF THIS TEAM!\n\nICYMI, we announced widgets / plugins in FigJam, open sessions, code blocks, rich content embeds, some great new partnerships and more: https://t.co/O7Ek2DEj2y\n\nThread 👇 (1/9)"
+      },
+      {
+        "author_id": "825797497658281985",
+        "conversation_id": "1450503123181576194",
+        "created_at": "2021-10-19T16:44:28.000Z",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "edit_history_tweet_ids": [
+          "1450503123181576194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "615818451",
+              "start": 35,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 70,
+              "id": "796092645193846784",
+              "start": 64,
+              "username": "Waymo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "youtu.be/wF8m2Wt1Ij8",
+              "end": 270,
+              "expanded_url": "https://youtu.be/wF8m2Wt1Ij8",
+              "start": 247,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/watch?v=wF8m2Wt1Ij8&feature=youtu.be",
+              "url": "https://t.co/c5fv7IdeTc"
+            }
+          ]
+        },
+        "id": "1450503123181576194",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "text": "It was fantastic sitting down with @alexandr_wang to talk about @Waymo’s tech that enabled the world’s first fully autonomous ride-hailing service, informs our testing in SF, and powers trucking. Here’s the recording if you’d like to check it out https://t.co/c5fv7IdeTc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1447661380169977856",
+            "3_1447661380161523713",
+            "3_1447661380174114816",
+            "3_1447661380169920512"
+          ]
+        },
+        "author_id": "2897178924",
+        "conversation_id": "1447662071231877120",
+        "created_at": "2021-10-11T20:35:08.000Z",
+        "display_text_range": [
+          0,
+          284
+        ],
+        "edit_history_tweet_ids": [
+          "1447662071231877120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 114,
+              "id": "138840988",
+              "start": 102,
+              "username": "NeurIPSConf"
+            },
+            {
+              "end": 238,
+              "id": "632724692",
+              "start": 222,
+              "username": "RenaudLambiotte"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "openreview.net/forum?id=udVUN…",
+              "end": 284,
+              "expanded_url": "https://openreview.net/forum?id=udVUN__gFO",
+              "start": 261,
+              "url": "https://t.co/HqqSKJaLEY"
+            },
+            {
+              "display_url": "pic.x.com/eM8CiaES7m",
+              "end": 308,
+              "expanded_url": "https://x.com/aerinykim/status/1447662071231877120/photo/1",
+              "media_key": "3_1447661380169977856",
+              "start": 285,
+              "url": "https://t.co/eM8CiaES7m"
+            },
+            {
+              "display_url": "pic.x.com/eM8CiaES7m",
+              "end": 308,
+              "expanded_url": "https://x.com/aerinykim/status/1447662071231877120/photo/2",
+              "media_key": "3_1447661380161523713",
+              "start": 285,
+              "url": "https://t.co/eM8CiaES7m"
+            },
+            {
+              "display_url": "pic.x.com/eM8CiaES7m",
+              "end": 308,
+              "expanded_url": "https://x.com/aerinykim/status/1447662071231877120/photo/3",
+              "media_key": "3_1447661380174114816",
+              "start": 285,
+              "url": "https://t.co/eM8CiaES7m"
+            },
+            {
+              "display_url": "pic.x.com/eM8CiaES7m",
+              "end": 308,
+              "expanded_url": "https://x.com/aerinykim/status/1447662071231877120/photo/4",
+              "media_key": "3_1447661380169920512",
+              "start": 285,
+              "url": "https://t.co/eM8CiaES7m"
+            }
+          ]
+        },
+        "id": "1447662071231877120",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 0,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "text": "Our Reddit 43K: A comment-reply dataset for dis/agreement detection paper just got accepted inaugural @NeurIPSConf dataset track!\n\nfrom amazing &amp; dedicated @lejohnyjohn6, Valentina Semenova, @__alexmatton, Rachel Han, @RenaudLambiotte, Doyne Farmer.\n\npaper:https://t.co/HqqSKJaLEY https://t.co/eM8CiaES7m"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1447680775369871362",
+        "created_at": "2021-10-11T21:49:28.000Z",
+        "display_text_range": [
+          0,
+          250
+        ],
+        "edit_history_tweet_ids": [
+          "1447680775369871362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 198,
+              "id": "387156826",
+              "start": 189,
+              "username": "icmlconf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.com/blog/human-ann…",
+              "end": 250,
+              "expanded_url": "https://scale.com/blog/human-annotations-indispensable",
+              "start": 227,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog",
+              "url": "https://t.co/Kzd3OKA2do"
+            }
+          ]
+        },
+        "id": "1447680775369871362",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "💻 Recently, our team of researchers conducted an in-depth analysis of the state of data in computer vision.\n\n✅ The research paper was accepted to the Human-in-the-Loop Learning Workshop at @icmlconf 2021.\n\n📚 Learn more here ↓ \nhttps://t.co/Kzd3OKA2do"
+      },
+      {
+        "author_id": "60642052",
+        "conversation_id": "1446173635249680388",
+        "created_at": "2021-10-07T18:00:37.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_history_tweet_ids": [
+          "1446173635249680388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "4828761",
+              "start": 73,
+              "username": "mmarshall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "wp.me/p8wLEc-brom",
+              "end": 69,
+              "expanded_url": "https://wp.me/p8wLEc-brom",
+              "start": 46,
+              "status": 404,
+              "unwound_url": "https://venturebeat-com.go-vip.co/?p=2726906",
+              "url": "https://t.co/7bINeWQsCc"
+            }
+          ]
+        },
+        "id": "1446173635249680388",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "Scale AI launches rapid data-labeling service https://t.co/7bINeWQsCc by @mmarshall"
+      },
+      {
+        "author_id": "1163142901846593536",
+        "conversation_id": "1446482617491021828",
+        "created_at": "2021-10-08T14:28:25.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "edit_history_tweet_ids": [
+          "1446482617491021828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "AI"
+            },
+            {
+              "end": 175,
+              "start": 152,
+              "tag": "ArtificialIntelligence"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 80,
+              "id": "752712449321644032",
+              "start": 71,
+              "username": "scale_AI"
+            },
+            {
+              "end": 139,
+              "id": "740928303020802048",
+              "start": 123,
+              "username": "UnHedgedChatter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/unhedgedchatte…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/unhedgedchatter/status/1446443625630535694",
+              "start": 176,
+              "url": "https://t.co/jRbDhH1Nym"
+            }
+          ]
+        },
+        "id": "1446482617491021828",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1446443625630535694",
+            "type": "quoted"
+          }
+        ],
+        "text": "I’ve heard positive buzz from multiple public market investors on this @scale_AI virtual conference. Best talks curated by @UnHedgedChatter below.\n\n#AI #ArtificialIntelligence https://t.co/jRbDhH1Nym"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1446279546626478126"
+          ]
+        },
+        "author_id": "942971354839527424",
+        "conversation_id": "1446281056450080768",
+        "created_at": "2021-10-08T01:07:29.000Z",
+        "display_text_range": [
+          0,
+          206
+        ],
+        "edit_history_tweet_ids": [
+          "1446281056450080768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 93,
+              "tag": "transformX"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 46,
+              "id": "615818451",
+              "start": 32,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 57,
+              "id": "752712449321644032",
+              "start": 48,
+              "username": "scale_AI"
+            },
+            {
+              "end": 74,
+              "id": "74916424",
+              "start": 63,
+              "username": "jeffweiner"
+            },
+            {
+              "end": 85,
+              "id": "13058772",
+              "start": 76,
+              "username": "LinkedIn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CvRW6zmZji",
+              "end": 230,
+              "expanded_url": "https://x.com/HoseinHashemi9/status/1446281056450080768/photo/1",
+              "media_key": "3_1446279546626478126",
+              "start": 207,
+              "url": "https://t.co/CvRW6zmZji"
+            }
+          ]
+        },
+        "id": "1446281056450080768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "Very insightful conversation of @alexandr_wang, @scale_AI with @jeffweiner, @LinkedIn at the #transformX conference. The topic was Purpose-Driven Leadership in the Age of AI which I truely used and enjoyed. https://t.co/CvRW6zmZji"
+      },
+      {
+        "author_id": "303464309",
+        "conversation_id": "1446384121979285505",
+        "created_at": "2021-10-08T07:57:01.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_history_tweet_ids": [
+          "1446384121979285505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "752712449321644032",
+              "start": 0,
+              "username": "scale_AI"
+            },
+            {
+              "end": 165,
+              "id": "615818451",
+              "start": 151,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1446384121979285505",
+        "in_reply_to_user_id": "752712449321644032",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "@scale_AI the last 2 days have been so surreal... brought back those nostalgic feelings of a good event ending; gratitude to each person who organized @alexandr_wang (plus the entire team) &amp; folks who spoke at each session! Already looking forward to the next conference."
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1446258980058140673",
+        "created_at": "2021-10-07T23:39:45.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_history_tweet_ids": [
+          "1446258980058140673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 131,
+              "expanded_url": "https://x.com/i/broadcasts/1yNGaYrDErNGj",
+              "start": 108,
+              "status": 200,
+              "unwound_url": "https://x.com/i/broadcasts/1yNGaYrDErNGj",
+              "url": "https://t.co/bVlGePOW4l"
+            }
+          ]
+        },
+        "id": "1446258980058140673",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "text": "The Future of AV Sensors - Enabling the Autonomous Vehicles of Tomorrow With Austin Russell, CEO of Luminar https://t.co/bVlGePOW4l"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1446128671450824712"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1446128677658382351",
+        "created_at": "2021-10-07T15:01:59.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_history_tweet_ids": [
+          "1446128677658382351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "93957809",
+              "start": 51,
+              "username": "ericschmidt"
+            },
+            {
+              "end": 94,
+              "id": "935152012576067585",
+              "start": 79,
+              "username": "SchmidtFutures"
+            },
+            {
+              "end": 120,
+              "id": "20536157",
+              "start": 113,
+              "username": "Google"
+            },
+            {
+              "end": 145,
+              "id": "615818451",
+              "start": 131,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhzEgkumli",
+              "end": 300,
+              "expanded_url": "https://x.com/scale_AI/status/1446128677658382351/photo/1",
+              "media_key": "16_1446128671450824712",
+              "start": 277,
+              "url": "https://t.co/YhzEgkumli"
+            }
+          ]
+        },
+        "id": "1446128677658382351",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "text": "🔴 We're LIVE with TransformX Day 2 🔴\n\n🚀Up first is @ericschmidt, Co-Founder of @SchmidtFutures and Former CEO of @Google. He joins @alexandr_wang in a fireside chat to discuss the intersection of AI and how we can be better prepared to respond to the challenges of the future. https://t.co/YhzEgkumli"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1445902223544762369",
+            "3_1445902211356135427"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1445902229324673024",
+        "created_at": "2021-10-07T00:02:09.000Z",
+        "display_text_range": [
+          0,
+          178
+        ],
+        "edit_history_tweet_ids": [
+          "1445902229324673024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "7456262",
+              "start": 21,
+              "username": "btaylor"
+            },
+            {
+              "end": 63,
+              "id": "33612317",
+              "start": 52,
+              "username": "salesforce"
+            },
+            {
+              "end": 97,
+              "id": "615818451",
+              "start": 83,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scl.ai/3moFE3A",
+              "end": 178,
+              "expanded_url": "https://scl.ai/3moFE3A",
+              "start": 155,
+              "url": "https://t.co/oEtCZ3LFhR"
+            },
+            {
+              "display_url": "pic.x.com/v8Lbzauz7f",
+              "end": 202,
+              "expanded_url": "https://x.com/scale_AI/status/1445902229324673024/photo/1",
+              "media_key": "3_1445902223544762369",
+              "start": 179,
+              "url": "https://t.co/v8Lbzauz7f"
+            },
+            {
+              "display_url": "pic.x.com/v8Lbzauz7f",
+              "end": 202,
+              "expanded_url": "https://x.com/scale_AI/status/1445902229324673024/photo/2",
+              "media_key": "3_1445902211356135427",
+              "start": 179,
+              "url": "https://t.co/v8Lbzauz7f"
+            }
+          ]
+        },
+        "id": "1445902229324673024",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "🎬 Fireside Chat with @btaylor, President and COO of @salesforce, and Scale AI CEO, @alexandr_wang! \n\n📸 Inside look into TransformX BTS. \n\n🎟 Register here: https://t.co/oEtCZ3LFhR https://t.co/v8Lbzauz7f"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1445858937857667080"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "1445858943121641474",
+        "created_at": "2021-10-06T21:10:09.000Z",
+        "display_text_range": [
+          0,
+          260
+        ],
+        "edit_history_tweet_ids": [
+          "1445858943121641474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "991451",
+              "start": 11,
+              "username": "kevin_scott"
+            },
+            {
+              "end": 42,
+              "id": "74286565",
+              "start": 32,
+              "username": "Microsoft"
+            },
+            {
+              "end": 93,
+              "id": "615818451",
+              "start": 79,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scl.ai/3a2Q1ED",
+              "end": 260,
+              "expanded_url": "https://scl.ai/3a2Q1ED",
+              "start": 237,
+              "url": "https://t.co/LnVNrUdfal"
+            },
+            {
+              "display_url": "pic.x.com/gbQVAirqj9",
+              "end": 284,
+              "expanded_url": "https://x.com/scale_AI/status/1445858943121641474/photo/1",
+              "media_key": "16_1445858937857667080",
+              "start": 261,
+              "url": "https://t.co/gbQVAirqj9"
+            }
+          ]
+        },
+        "id": "1445858943121641474",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "text": "🔥 Up Next: @kevin_scott, CTO of @Microsoft \n\n🎥 Watch live as Kevin Scott joins @alexandr_wang to discuss how AI can be democratized for the benefit of everyone in society, enabling a new wave of technology innovation. \n\n🎟 Register here: https://t.co/LnVNrUdfal https://t.co/gbQVAirqj9"
+      },
+      {
+        "author_id": "585186481",
+        "conversation_id": "1445064541533057025",
+        "created_at": "2021-10-04T16:33:29.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_history_tweet_ids": [
+          "1445064541533057025"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 71,
+              "tag": "fintech"
+            },
+            {
+              "end": 138,
+              "start": 122,
+              "tag": "MachineLearning"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "752712449321644032",
+              "start": 2,
+              "username": "scale_AI"
+            },
+            {
+              "end": 66,
+              "id": "1144022811507171328",
+              "start": 56,
+              "username": "NGhamsari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ow.ly/MG0S50GlyDu",
+              "end": 278,
+              "expanded_url": "http://ow.ly/MG0S50GlyDu",
+              "start": 255,
+              "url": "https://t.co/gZ4a0TkqHa"
+            }
+          ]
+        },
+        "id": "1445064541533057025",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "📆 @scale_AI TransformX Conference is only 1️⃣ day away! @NGhamsari and #fintech industry experts weigh in on the value of #MachineLearning for a better CX.\n\nYou won't want to miss it—this Wednesday, October 6 at 1pm PT / 4pm ET. Claim your free 🎟️ today. https://t.co/gZ4a0TkqHa"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1445086842697650178"
+          ]
+        },
+        "author_id": "887406091457318912",
+        "conversation_id": "1445088290890149888",
+        "created_at": "2021-10-04T18:07:51.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_history_tweet_ids": [
+          "1445088290890149888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 276,
+              "start": 263,
+              "tag": "TransformX21"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "752712449321644032",
+              "start": 56,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.com/events/transfo…",
+              "end": 261,
+              "expanded_url": "https://scale.com/events/transformx",
+              "start": 238,
+              "url": "https://t.co/fyQrYM1VJC"
+            },
+            {
+              "display_url": "pic.x.com/uzqWVOgFd3",
+              "end": 300,
+              "expanded_url": "https://x.com/zoox/status/1445088290890149888/video/1",
+              "media_key": "13_1445086842697650178",
+              "start": 277,
+              "url": "https://t.co/uzqWVOgFd3"
+            }
+          ]
+        },
+        "id": "1445088290890149888",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "text": "CTO and Co-Founder, Jesse Levinson, will be gracing the @scale_AI virtual stage this Wednesday at 11:45 a.m. PT, to share his insights on taking an entire end-to-end technology stack from experimentation to reality. Registration is free: https://t.co/fyQrYM1VJC. #TransformX21 https://t.co/uzqWVOgFd3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1445063739666014225"
+          ]
+        },
+        "author_id": "796092645193846784",
+        "conversation_id": "1445063742421716996",
+        "created_at": "2021-10-04T16:30:18.000Z",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "edit_history_tweet_ids": [
+          "1445063742421716996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "WaymoDriver"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 106,
+              "id": "825797497658281985",
+              "start": 92,
+              "username": "dmitri_dolgov"
+            },
+            {
+              "end": 127,
+              "id": "615818451",
+              "start": 113,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.com/events/transfo…",
+              "end": 271,
+              "expanded_url": "https://scale.com/events/transformx/agenda?session=56822505",
+              "start": 248,
+              "url": "https://t.co/PQfGVUxm28"
+            },
+            {
+              "display_url": "pic.x.com/oSrargVknz",
+              "end": 295,
+              "expanded_url": "https://x.com/Waymo/status/1445063742421716996/photo/1",
+              "media_key": "3_1445063739666014225",
+              "start": 272,
+              "url": "https://t.co/oSrargVknz"
+            }
+          ]
+        },
+        "id": "1445063742421716996",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 32,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "text": "What role does AI have in the development of the #WaymoDriver? This Wednesday, Waymo co-CEO @dmitri_dolgov joins @alexandr_wang for a fireside chat on our technical approach to building an L4 system, scaling across different environments and more. https://t.co/PQfGVUxm28 https://t.co/oSrargVknz"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1451232250347982849",
+    "next_token": "b26v89c19zqg8o3fpds7pf8b22pdiwyzjckswspcqsygt",
+    "oldest_id": "1444710769963143168",
+    "result_count": 24
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1446351201046433794].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1446351201046433794",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1446351201046433794"
+    }
+  ]
+}

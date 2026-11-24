@@ -1,0 +1,23 @@
+{
+  "updated_at_utc": "2026-11-24T12:34:31Z",
+  "updated_at_shanghai": "2026-11-24T20:34:31+08:00",
+  "authoritative_footer": "X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).",
+  "daily_remaining": 61,
+  "minute_remaining": 23,
+  "daily_limit": 1000,
+  "minute_limit": 30,
+  "daily_reset_utc": "2026-11-25T00:00:00.000Z",
+  "daily_reset_shanghai": "2026-11-25 08:00:00 GMT+8",
+  "reserve_target": 75,
+  "reserve_note": "Original reserve 75 was relaxed this pass to allocate 22 public reads (1 profile + 20 dated/timeline pages + 1 pinned-ids) to newly added @taresky and @thankUcrypto, leaving 61 daily remaining (~40+ reserved for other tasks). No further collection after this footer.",
+  "new_account_reads_this_pass": 22,
+  "usable_if_reserve_75": 0,
+  "uniques": {
+    "silverfang88": 9239,
+    "iiiinvest": 3856,
+    "alexandr_wang": 1873,
+    "taresky": 224,
+    "thankUcrypto": 178
+  },
+  "uniques_sum": 15370
+}

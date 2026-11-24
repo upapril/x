@@ -1,0 +1,106 @@
+{
+  "collected_at_utc": "2026-11-24T12:33:57Z",
+  "collected_at_shanghai": "2026-11-24T20:33:57+08:00",
+  "tool": "x.get_posts_by_ids",
+  "source_file": "/tmp/x-research-pins/pin_thankUcrypto.txt",
+  "request": {
+    "query": "pinned_post_ids",
+    "start_time": null,
+    "end_time": null,
+    "sort_order": "recency",
+    "max_results": 2,
+    "input_token": null,
+    "window_label": "pinned"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2091778901706240000",
+          "3_2091778901697847296"
+        ]
+      },
+      "author_id": "705564530936418304",
+      "conversation_id": "2091778918810612183",
+      "created_at": "2026-08-24T06:45:32.000Z",
+      "display_text_range": [
+        0,
+        138
+      ],
+      "edit_history_post_ids": [
+        "2091778918810612183"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/XvFIDbYW5D",
+            "end": 162,
+            "expanded_url": "https://x.com/thankUcrypto/status/2091778918810612183/photo/1",
+            "media_key": "3_2091778901706240000",
+            "start": 139,
+            "url": "https://t.co/XvFIDbYW5D"
+          },
+          {
+            "display_url": "pic.x.com/XvFIDbYW5D",
+            "end": 162,
+            "expanded_url": "https://x.com/thankUcrypto/status/2091778918810612183/photo/2",
+            "media_key": "3_2091778901697847296",
+            "start": 139,
+            "url": "https://t.co/XvFIDbYW5D"
+          }
+        ]
+      },
+      "id": "2091778918810612183",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "最后一次更新实盘挑战系列数据，以后就不跟大家更新了，这个带单号会开着继续试试做下去。\n加上手里海力士没平的单子，这两周搞了2.3M。带单号赚了1.6M。\n\n合计交易总盈利5M。跟单分润10%赚0.6M\n从五月做1WU直播挑战到今天总收益5.6M。\n换汇率就是3600万R左右。\n\n以后如果能做到什么里程碑式的资金体量那就还有一次。"
+      },
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 166,
+        "impression_count": 1437296,
+        "like_count": 784,
+        "quote_count": 8,
+        "reply_count": 220,
+        "repost_count": 27
+      },
+      "text": "最后一次更新实盘挑战系列数据，以后就不跟大家更新了，这个带单号会开着继续试试做下去。\n加上手里海力士没平的单子，这两周搞了2.3M。带单号赚了1.6M。\n\n合计交易总盈利5M。跟单分润10%赚0.6M\n从五月做1WU直播挑战到今天总收益5.6M。\n换汇率就是3600万R左右。 https://t.co/XvFIDbYW5D",
+      "url": "https://x.com/thankUcrypto/status/2091778918810612183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1700578435234664448",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F5mrE6jaEAA1_Zw.jpg"
+      },
+      {
+        "media_key": "3_2091778901706240000",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQd91BDbcAA2cpO.jpg"
+      },
+      {
+        "media_key": "3_2091778901697847296",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQd91BBbYAAHiJO.jpg"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "username": "taresky"
+      },
+      {
+        "id": "705564530936418304",
+        "name": "allincrypto 熬鹰资本 🇨🇳",
+        "username": "thankUcrypto"
+      }
+    ]
+  },
+  "meta": {
+    "result_count": 1
+  },
+  "errors": []
+}

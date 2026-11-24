@@ -1,0 +1,711 @@
+{
+  "collected_at_utc": "2026-11-24T12:24:15Z",
+  "collected_at_shanghai": "2026-11-24T20:24:15+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86R610N3ZH8DXJ4WCGA3V7B.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2020-11-01T00:00:00Z",
+    "end_time": "2020-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2020-11"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332059627878400000",
+      "created_at": "2020-11-26T20:32:22.000Z",
+      "display_text_range": [
+        0,
+        220
+      ],
+      "edit_history_tweet_ids": [
+        "1332059645087674368"
+      ],
+      "id": "1332059645087674368",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 74,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1332059641442824192",
+          "type": "replied_to"
+        }
+      ],
+      "text": "6/ One of the worst trends in Silicon Valley is conflating the company’s culture with the company’s cosmetics.\n\nDon't make that mistake.\n\nFind a company where people give a shit.\nBuild a company where people give a shit.",
+      "url": "https://x.com/alexandr_wang/status/1332059645087674368"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332059627878400000",
+      "created_at": "2020-11-26T20:32:21.000Z",
+      "display_text_range": [
+        0,
+        167
+      ],
+      "edit_history_tweet_ids": [
+        "1332059641442824192"
+      ],
+      "id": "1332059641442824192",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 0,
+        "like_count": 50,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1332059638234185729",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5/ More importantly, if someone you're interviewing has never been deeply obsessed about something before, then it’s a bad bet to think your company will be the first.",
+      "url": "https://x.com/alexandr_wang/status/1332059641442824192"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332059627878400000",
+      "created_at": "2020-11-26T20:32:20.000Z",
+      "display_text_range": [
+        0,
+        230
+      ],
+      "edit_history_tweet_ids": [
+        "1332059638234185729"
+      ],
+      "id": "1332059638234185729",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 0,
+        "like_count": 36,
+        "quote_count": 1,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "4/ The danger ⚠️\n\nBefore you know it, the majority of the company begins to resemble a university: there’s a constant churn of smart but uninvolved people who stay for a few years, and never dive deep enough to do meaningful work.",
+      "url": "https://x.com/alexandr_wang/status/1332059638234185729"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332059627878400000",
+      "created_at": "2020-11-26T20:32:20.000Z",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "edit_history_tweet_ids": [
+        "1332059634606112768"
+      ],
+      "id": "1332059634606112768",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 0,
+        "like_count": 41,
+        "quote_count": 3,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1332059631338676224",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ One very scary thing to me is Scale becoming a credential rather than a cult.\n\nInstitutions like Harvard or MIT are credentials—people go there because it signals to others that the person is smart, capable, or otherwise prestigious.\n\nThe best companies maintain cult status.",
+      "url": "https://x.com/alexandr_wang/status/1332059634606112768"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332059627878400000",
+      "created_at": "2020-11-26T20:32:19.000Z",
+      "display_text_range": [
+        0,
+        203
+      ],
+      "edit_history_tweet_ids": [
+        "1332059631338676224"
+      ],
+      "id": "1332059631338676224",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 0,
+        "like_count": 51,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "text": "2/ I mainly screen for one key thing: giving a shit. To be more specific, there’s actually two things to screen for:\n\n1. they give a shit about Scale, and\n2. they give a shit about their work in general.",
+      "url": "https://x.com/alexandr_wang/status/1332059631338676224"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332059627878400000",
+      "created_at": "2020-11-26T20:32:18.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1332059627878400000"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 43,
+            "id": "752712449321644032",
+            "start": 34,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A simple formula for success",
+            "display_url": "alexw.substack.com/p/hire",
+            "end": 276,
+            "expanded_url": "https://alexw.substack.com/p/hire",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2119279061600219136/JzbhVTcK?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2119279061600219136/JzbhVTcK?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 253,
+            "status": 200,
+            "title": "Hire people who give a shit.",
+            "unwound_url": "https://alexw.substack.com/p/hire",
+            "url": "https://t.co/Da5OFUATWT"
+          }
+        ]
+      },
+      "id": "1332059627878400000",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 217,
+        "impression_count": 0,
+        "like_count": 446,
+        "quote_count": 10,
+        "reply_count": 8,
+        "retweet_count": 32
+      },
+      "text": "Breaking down my recent post:\n\n1/ @scale_AI, I interviewed everyone we gave an offer to for a long time. I wrote a memo to the company about what I look for.  I wanted to share it with the community because I don’t think people do this enough.\n\nThread👇\nhttps://t.co/Da5OFUATWT",
+      "url": "https://x.com/alexandr_wang/status/1332059627878400000"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1332043514037768193",
+      "created_at": "2020-11-26T19:28:16.000Z",
+      "display_text_range": [
+        0,
+        172
+      ],
+      "edit_history_tweet_ids": [
+        "1332043514037768193"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 45,
+            "id": "752712449321644032",
+            "start": 36,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A simple formula for success",
+            "display_url": "alexw.substack.com/p/hire",
+            "end": 172,
+            "expanded_url": "https://alexw.substack.com/p/hire",
+            "images": [
+              {
+                "height": 800,
+                "url": "https://pbs.twimg.com/news_img/2119279061600219136/JzbhVTcK?format=jpg&name=orig",
+                "width": 1600
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2119279061600219136/JzbhVTcK?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 149,
+            "status": 200,
+            "title": "Hire people who give a shit.",
+            "unwound_url": "https://alexw.substack.com/p/hire",
+            "url": "https://t.co/Da5OFUATWT"
+          }
+        ]
+      },
+      "id": "1332043514037768193",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 109,
+        "impression_count": 0,
+        "like_count": 422,
+        "quote_count": 17,
+        "reply_count": 10,
+        "retweet_count": 31
+      },
+      "text": "I'm publishing a memo I sent to the @scale_AI team more than a year ago about something critical for outlier success:\n\nHire people who give a shit.\n\nhttps://t.co/Da5OFUATWT",
+      "url": "https://x.com/alexandr_wang/status/1332043514037768193"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1328865276885045250",
+      "created_at": "2020-11-18T00:59:05.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1328865276885045250"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1328865276885045250",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1328849487356334080",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: 2 days away from our next Tech Talk! Register today to learn how we apply game rating systems🎮 to NLP and search relevance da…",
+      "url": "https://x.com/alexandr_wang/status/1328865276885045250"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1328419338865438720",
+      "created_at": "2020-11-16T19:27:05.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1328419338865438720"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1328419338865438720",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1328411149319036930",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: Many companies had to rapidly reorient their operations at the onset of Covid-19. One industry that was particularly hard hit…",
+      "url": "https://x.com/alexandr_wang/status/1328419338865438720"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1324638282966355968",
+      "created_at": "2020-11-12T14:39:31.000Z",
+      "display_text_range": [
+        11,
+        85
+      ],
+      "edit_history_tweet_ids": [
+        "1326897417883578368"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "161316577",
+            "start": 0,
+            "username": "CheopsLaw"
+          }
+        ]
+      },
+      "id": "1326897417883578368",
+      "in_reply_to_user_id": "161316577",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1326895294534086658",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CheopsLaw I believe I see it now. We will respond today. Thank you for reaching out.",
+      "url": "https://x.com/alexandr_wang/status/1326897417883578368"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1324638282966355968",
+      "created_at": "2020-11-06T13:12:12.000Z",
+      "display_text_range": [
+        11,
+        88
+      ],
+      "edit_history_tweet_ids": [
+        "1324701117448638464"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "161316577",
+            "start": 0,
+            "username": "CheopsLaw"
+          }
+        ]
+      },
+      "id": "1324701117448638464",
+      "in_reply_to_user_id": "161316577",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1324638282966355968",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CheopsLaw Hi! Can you try sending it along to sales@scale.com and I’ll take a look too?",
+      "url": "https://x.com/alexandr_wang/status/1324701117448638464"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1323398810320601088",
+      "created_at": "2020-11-02T22:57:18.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1323398810320601088"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "752712449321644032",
+            "start": 3,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1323398810320601088",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1323354156317339648",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scale_AI: In our latest blog, we share details on the projects Scaliens 👽 tackled during a virtual Hackathon as well as ideas to make y…",
+      "url": "https://x.com/alexandr_wang/status/1323398810320601088"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "615818451",
+        "conversation_id": "1332059627878400000",
+        "created_at": "2020-11-26T20:32:21.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_history_tweet_ids": [
+          "1332059641442824192"
+        ],
+        "id": "1332059641442824192",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 0,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1332059638234185729",
+            "type": "replied_to"
+          }
+        ],
+        "text": "5/ More importantly, if someone you're interviewing has never been deeply obsessed about something before, then it’s a bad bet to think your company will be the first."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1332059627878400000",
+        "created_at": "2020-11-26T20:32:20.000Z",
+        "display_text_range": [
+          0,
+          230
+        ],
+        "edit_history_tweet_ids": [
+          "1332059638234185729"
+        ],
+        "id": "1332059638234185729",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "4/ The danger ⚠️\n\nBefore you know it, the majority of the company begins to resemble a university: there’s a constant churn of smart but uninvolved people who stay for a few years, and never dive deep enough to do meaningful work."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1332059627878400000",
+        "created_at": "2020-11-26T20:32:19.000Z",
+        "display_text_range": [
+          0,
+          203
+        ],
+        "edit_history_tweet_ids": [
+          "1332059631338676224"
+        ],
+        "id": "1332059631338676224",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "text": "2/ I mainly screen for one key thing: giving a shit. To be more specific, there’s actually two things to screen for:\n\n1. they give a shit about Scale, and\n2. they give a shit about their work in general."
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1328849487356334080",
+        "created_at": "2020-11-17T23:56:21.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_history_tweet_ids": [
+          "1328849487356334080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/events/game-ra…",
+              "end": 161,
+              "expanded_url": "https://scale.com/events/game-rating-data-labeling",
+              "start": 138,
+              "url": "https://t.co/zdzPjNRHAn"
+            }
+          ]
+        },
+        "id": "1328849487356334080",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "2 days away from our next Tech Talk! Register today to learn how we apply game rating systems🎮 to NLP and search relevance data labeling. https://t.co/zdzPjNRHAn"
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1328411149319036930",
+        "created_at": "2020-11-16T18:54:33.000Z",
+        "display_text_range": [
+          0,
+          223
+        ],
+        "edit_history_tweet_ids": [
+          "1328411149319036930"
+        ],
+        "id": "1328411149319036930",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "text": "Many companies had to rapidly reorient their operations at the onset of Covid-19. One industry that was particularly hard hit was the restaurant industry. When in-person dining was suspended, restaurants turned to delivery."
+      },
+      {
+        "author_id": "752712449321644032",
+        "conversation_id": "1323354156317339648",
+        "created_at": "2020-11-02T19:59:52.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_history_tweet_ids": [
+          "1323354156317339648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/blog/scale-hac…",
+              "end": 185,
+              "expanded_url": "https://scale.com/blog/scale-hackathon",
+              "start": 162,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog",
+              "url": "https://t.co/ZIzrB8gzkb"
+            }
+          ]
+        },
+        "id": "1323354156317339648",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "In our latest blog, we share details on the projects Scaliens 👽 tackled during a virtual Hackathon as well as ideas to make your own virtual hackathon a success. https://t.co/ZIzrB8gzkb"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "161316577",
+        "name": "Cheops Law",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565655554306998273/3Y1LQWFA_normal.jpg",
+        "username": "CheopsLaw",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1332059645087674368",
+    "next_token": "b26v89c19zqg8o3fosbtegl9b3xc4ijiv96we8de4cj25",
+    "oldest_id": "1323398810320601088",
+    "result_count": 12
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1326895294534086658].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1326895294534086658",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1326895294534086658"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1324638282966355968].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1324638282966355968",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1324638282966355968"
+    }
+  ]
+}

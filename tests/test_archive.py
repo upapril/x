@@ -12,7 +12,10 @@ sys.path.insert(0, str(ROOT / "_tools"))
 
 from validate_archive import HANDLES, validate  # noqa: E402
 
-FIRST_PASS = "7c43efc9646ebe174a1e5d43c669865d982909ba"
+PRIOR_COMMITS = (
+    "7c43efc9646ebe174a1e5d43c669865d982909ba",
+    "5e939e92cad74c649388927b7d19770641b03240",
+)
 
 
 class ArchiveValidationTest(unittest.TestCase):
@@ -25,11 +28,13 @@ class ArchiveValidationTest(unittest.TestCase):
 
     def test_counts(self):
         summary = self.report["summary"]
-        self.assertEqual(summary["total_posts"], 8100)
-        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 788)
-        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 736)
-        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 6576)
-        self.assertGreater(summary["handles"]["silverfang88"]["pending_windows"], 0)
+        self.assertEqual(summary["total_posts"], 15370)
+        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 1873)
+        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 3856)
+        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 9239)
+        self.assertEqual(summary["handles"]["taresky"]["posts"], 224)
+        self.assertEqual(summary["handles"]["thankUcrypto"]["posts"], 178)
+        self.assertGreater(summary["handles"]["taresky"]["pending_windows"], 0)
         self.assertEqual(summary["handles"]["alexandr_wang"]["profile_post_count"], 3762)
         self.assertEqual(summary["handles"]["iiiinvest"]["profile_post_count"], 4858)
         self.assertEqual(summary["handles"]["silverfang88"]["profile_post_count"], 19982)
@@ -56,25 +61,30 @@ class ArchiveValidationTest(unittest.TestCase):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         lowered = readme.lower()
         self.assertIn("incomplete", lowered)
-        self.assertIn("6576", readme)
-        self.assertIn("788", readme)
-        self.assertIn("736", readme)
+        self.assertIn("9,239", readme)
+        self.assertIn("1,873", readme)
+        self.assertIn("3,856", readme)
+        self.assertIn("taresky/", readme)
+        self.assertIn("thankUcrypto/", readme)
         self.assertIn("INSIGHTS.md", readme)
         self.assertIn("FINANCE_SKILLS_COMPARISON.md", readme)
         self.assertIn("pending", lowered)
 
     def test_expanded_store_keeps_first_pass_ids(self):
-        for handle in HANDLES:
-            old = subprocess.check_output(
-                ["git", "show", f"{FIRST_PASS}:{handle}/normalized/posts.jsonl"],
-                cwd=ROOT,
-            ).decode("utf-8")
-            old_ids = {json.loads(line)["id"] for line in old.splitlines() if line.strip()}
-            new_ids = set()
-            for line in (ROOT / handle / "normalized" / "posts.jsonl").read_text(encoding="utf-8").splitlines():
-                if line.strip():
-                    new_ids.add(json.loads(line)["id"])
-            self.assertTrue(old_ids <= new_ids, f"{handle} dropped {len(old_ids - new_ids)} first-pass ids")
+        prior_handles = ("alexandr_wang", "iiiinvest", "silverfang88")
+        for commit in PRIOR_COMMITS:
+            for handle in prior_handles:
+                old = subprocess.check_output(
+                    ["git", "show", f"{commit}:{handle}/normalized/posts.jsonl"],
+                    cwd=ROOT,
+                ).decode("utf-8")
+                old_ids = {json.loads(line)["id"] for line in old.splitlines() if line.strip()}
+                new_ids = set()
+                for line in (ROOT / handle / "normalized" / "posts.jsonl").read_text(encoding="utf-8").splitlines():
+                    if line.strip():
+                        new_ids.add(json.loads(line)["id"])
+                missing = old_ids - new_ids
+                self.assertFalse(missing, f"{handle} at {commit[:7]} dropped {len(missing)} ids")
 
 
 if __name__ == "__main__":

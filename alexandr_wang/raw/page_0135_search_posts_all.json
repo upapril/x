@@ -1,0 +1,1175 @@
+{
+  "collected_at_utc": "2026-11-24T12:19:42Z",
+  "collected_at_shanghai": "2026-11-24T20:19:42+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86QY01T47M56CMGZ8EP4YPF.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2022-01-01T00:00:00Z",
+    "end_time": "2022-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2022-01"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1488228477056610310",
+      "created_at": "2022-01-31T19:11:34.000Z",
+      "display_text_range": [
+        0,
+        254
+      ],
+      "edit_history_tweet_ids": [
+        "1488228481657835520"
+      ],
+      "id": "1488228481657835520",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 35,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1488228480168841216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "While a lot of people say the US is losing the AI race to China, I believe this is proof we can still come out on top.\n\nWhile China cuts corners and builds AI on bad data, the US has an opportunity to set the standard for how AI is used around the world.",
+      "url": "https://x.com/alexandr_wang/status/1488228481657835520"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1488228323066974210"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1488228477056610310",
+      "created_at": "2022-01-31T19:11:34.000Z",
+      "display_text_range": [
+        0,
+        272
+      ],
+      "edit_history_tweet_ids": [
+        "1488228480168841216"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5qZuCBuqRg",
+            "end": 296,
+            "expanded_url": "https://x.com/alexandr_wang/status/1488228480168841216/photo/1",
+            "media_key": "3_1488228323066974210",
+            "start": 273,
+            "url": "https://t.co/5qZuCBuqRg"
+          }
+        ]
+      },
+      "id": "1488228480168841216",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 0,
+        "like_count": 22,
+        "quote_count": 2,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1488228478101049344",
+          "type": "replied_to"
+        }
+      ],
+      "text": "AI requires continuous investment not only to successfully deploy into production, but to ensure the systems we're building are resilient, responsible, and equitable.\n\nThere is a continuous requirement to constantly refresh and evaluate AI systems with fresh and new data. https://t.co/5qZuCBuqRg",
+      "url": "https://x.com/alexandr_wang/status/1488228480168841216"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1488228477056610310",
+      "created_at": "2022-01-31T19:11:33.000Z",
+      "display_text_range": [
+        0,
+        271
+      ],
+      "edit_history_tweet_ids": [
+        "1488228478101049344"
+      ],
+      "id": "1488228478101049344",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1488228477056610310",
+          "type": "replied_to"
+        }
+      ],
+      "text": "The government’s typical approach to test &amp; evaluation is one-and-done—but that approach doesn’t work for AI. It would only result in wasted tax dollars and failed experiments.\n\nThis is the start of building systems which will modernize DoD methods for the age of AI.",
+      "url": "https://x.com/alexandr_wang/status/1488228478101049344"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1488228477056610310",
+      "created_at": "2022-01-31T19:11:33.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1488228477056610310"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 91,
+            "id": "752712449321644032",
+            "start": 82,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "fedscoop.com/scale-ai-award…",
+            "end": 276,
+            "expanded_url": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+            "start": 253,
+            "status": 200,
+            "unwound_url": "https://fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+            "url": "https://t.co/uFVut5Szff"
+          }
+        ]
+      },
+      "id": "1488228477056610310",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 45,
+        "impression_count": 0,
+        "like_count": 322,
+        "quote_count": 7,
+        "reply_count": 28,
+        "retweet_count": 33
+      },
+      "text": "This @DeptofDefense contract represents more than just a business opportunity for @Scale_AI—it shows that the government is ready to build AI systems for the long-haul.\n\nThis contract is part of a much broader effort to build an AI-ready DoD. Thread 👇\n\nhttps://t.co/uFVut5Szff",
+      "url": "https://x.com/alexandr_wang/status/1488228477056610310"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1486852568303214593",
+      "created_at": "2022-01-28T00:04:11.000Z",
+      "display_text_range": [
+        0,
+        272
+      ],
+      "edit_history_tweet_ids": [
+        "1486852568303214593"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 27,
+            "id": "752712449321644032",
+            "start": 18,
+            "username": "scale_AI"
+          },
+          {
+            "end": 60,
+            "id": "4398626122",
+            "start": 53,
+            "username": "OpenAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/OpenAI/status/…",
+            "end": 296,
+            "expanded_url": "https://twitter.com/OpenAI/status/1486740126688370712",
+            "start": 273,
+            "url": "https://t.co/muiSVcdhb0"
+          }
+        ]
+      },
+      "id": "1486852568303214593",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 0,
+        "like_count": 146,
+        "quote_count": 4,
+        "reply_count": 1,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "1486740126688370712",
+          "type": "quoted"
+        }
+      ],
+      "text": "Very proud of the @scale_AI team to have worked with @OpenAI on these new results in alignment.\n\nLong-term, human-AI alignment is one of our time's most important problems as AI becomes more powerful, and enabling alignment and is a fundamental long-term mission of Scale. https://t.co/muiSVcdhb0",
+      "url": "https://x.com/alexandr_wang/status/1486852568303214593"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1485356720721301510",
+      "created_at": "2022-01-23T21:00:13.000Z",
+      "display_text_range": [
+        0,
+        108
+      ],
+      "edit_history_tweet_ids": [
+        "1485356720721301510"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1075605139",
+            "start": 3,
+            "username": "russelljkaplan"
+          }
+        ]
+      },
+      "id": "1485356720721301510",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 522
+      },
+      "referenced_tweets": [
+        {
+          "id": "1485191271840837633",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @russelljkaplan: Today I saw the impact that AlphaFold is having on speeding up drug discovery firsthand:",
+      "url": "https://x.com/alexandr_wang/status/1485356720721301510"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1484678623583866888",
+      "created_at": "2022-01-22T00:05:42.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1484678623583866888"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "877948341719506944",
+            "start": 3,
+            "username": "BradPorter_"
+          }
+        ]
+      },
+      "id": "1484678623583866888",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1483540369866326017",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @BradPorter_: So critical to live and breathe your data with a tool like Scale Nucleus.  Great insights here and appreciative of being i…",
+      "url": "https://x.com/alexandr_wang/status/1484678623583866888"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1484220661266468866",
+      "created_at": "2022-01-20T17:45:55.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1484220661266468866"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "19720395",
+            "start": 3,
+            "username": "IndexVentures"
+          },
+          {
+            "end": 54,
+            "id": "615818451",
+            "start": 40,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 72,
+            "id": "1393424079634395139",
+            "start": 56,
+            "username": "AnimaAnandkumar"
+          },
+          {
+            "end": 88,
+            "id": "1126535819760742400",
+            "start": 74,
+            "username": "RMartinChavez"
+          },
+          {
+            "end": 108,
+            "id": "913654158",
+            "start": 94,
+            "username": "espricewright"
+          }
+        ]
+      },
+      "id": "1484220661266468866",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1484217959774134274",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @IndexVentures: Up next we hear from @alexandr_wang, @AnimaAnandkumar, @RMartinChavez, and @espricewright on Practical Applications of #…",
+      "url": "https://x.com/alexandr_wang/status/1484220661266468866"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1483970822083547137",
+      "created_at": "2022-01-20T01:13:09.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1483970822083547137"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 138,
+            "start": 135,
+            "tag": "AI"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 11,
+            "id": "21350494",
+            "start": 3,
+            "username": "ECorner"
+          },
+          {
+            "end": 79,
+            "id": "752712449321644032",
+            "start": 70,
+            "username": "scale_AI"
+          },
+          {
+            "end": 102,
+            "id": "615818451",
+            "start": 88,
+            "username": "alexandr_wang"
+          }
+        ]
+      },
+      "id": "1483970822083547137",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1483587513549791235",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ECorner: Join us 🗓️THIS WEDNESDAY🗓️ Jan. 19 @ 4pm PT to hear from @scale_AI founder @alexandr_wang! And bring your questions about #AI,…",
+      "url": "https://x.com/alexandr_wang/status/1483970822083547137"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1482002435195371526",
+      "created_at": "2022-01-14T14:51:29.000Z",
+      "display_text_range": [
+        0,
+        56
+      ],
+      "edit_history_tweet_ids": [
+        "1482002435195371526"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1075605139",
+            "start": 3,
+            "username": "russelljkaplan"
+          }
+        ]
+      },
+      "id": "1482002435195371526",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 183
+      },
+      "referenced_tweets": [
+        {
+          "id": "1481882963679670273",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @russelljkaplan: Lessons learned debugging ML models:",
+      "url": "https://x.com/alexandr_wang/status/1482002435195371526"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1480665233450545155",
+      "created_at": "2022-01-10T22:17:55.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1480665233450545155"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "20752143",
+            "start": 3,
+            "username": "Shriftman"
+          },
+          {
+            "end": 41,
+            "id": "615818451",
+            "start": 27,
+            "username": "alexandr_wang"
+          },
+          {
+            "end": 66,
+            "id": "752712449321644032",
+            "start": 57,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1480665233450545155",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1480582775325564939",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Shriftman: I love what @alexandr_wang is building w/ @scale_AI. \n\n(Alex also conducts some of the best firesides I've watched recently)…",
+      "url": "https://x.com/alexandr_wang/status/1480665233450545155"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1480404178170261508",
+      "created_at": "2022-01-10T05:00:35.000Z",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "edit_history_tweet_ids": [
+        "1480404178170261508"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "1050967100",
+            "start": 3,
+            "username": "MichaelSWishart"
+          },
+          {
+            "end": 64,
+            "id": "93957809",
+            "start": 52,
+            "username": "ericschmidt"
+          },
+          {
+            "end": 83,
+            "id": "615818451",
+            "start": 69,
+            "username": "alexandr_wang"
+          }
+        ]
+      },
+      "id": "1480404178170261508",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1480399878714900484",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @MichaelSWishart: Fascinating discussion between @ericschmidt and @alexandr_wang about AI. Great point about how industries that are ear…",
+      "url": "https://x.com/alexandr_wang/status/1480404178170261508"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1478149932821491716",
+      "created_at": "2022-01-03T23:43:01.000Z",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "edit_history_tweet_ids": [
+        "1478149932821491716"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/alexandr_wang/…",
+            "end": 276,
+            "expanded_url": "https://x.com/alexandr_wang/status/1193677093055295488",
+            "start": 253,
+            "url": "https://t.co/oeMV3x64WG"
+          }
+        ]
+      },
+      "id": "1478149932821491716",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 0,
+        "like_count": 61,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "text": "The first week of the new year is a great time—new docs and fresh projects to kick off another year of building.\n\nEach year, try to accomplish twice as much as the last. If that sounds hard, figure out what would make it easy.\n\nDo things that compound.\nhttps://t.co/oeMV3x64WG",
+      "url": "https://x.com/alexandr_wang/status/1478149932821491716"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_1488228323066974210",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1488228323066974210"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1488228477056610310",
+        "created_at": "2022-01-31T19:11:34.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_history_tweet_ids": [
+          "1488228480168841216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qZuCBuqRg",
+              "end": 296,
+              "expanded_url": "https://x.com/alexandr_wang/status/1488228480168841216/photo/1",
+              "media_key": "3_1488228323066974210",
+              "start": 273,
+              "url": "https://t.co/5qZuCBuqRg"
+            }
+          ]
+        },
+        "id": "1488228480168841216",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 0,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1488228478101049344",
+            "type": "replied_to"
+          }
+        ],
+        "text": "AI requires continuous investment not only to successfully deploy into production, but to ensure the systems we're building are resilient, responsible, and equitable.\n\nThere is a continuous requirement to constantly refresh and evaluate AI systems with fresh and new data. https://t.co/5qZuCBuqRg"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1488228477056610310",
+        "created_at": "2022-01-31T19:11:33.000Z",
+        "display_text_range": [
+          0,
+          271
+        ],
+        "edit_history_tweet_ids": [
+          "1488228478101049344"
+        ],
+        "id": "1488228478101049344",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1488228477056610310",
+            "type": "replied_to"
+          }
+        ],
+        "text": "The government’s typical approach to test &amp; evaluation is one-and-done—but that approach doesn’t work for AI. It would only result in wasted tax dollars and failed experiments.\n\nThis is the start of building systems which will modernize DoD methods for the age of AI."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1488228477056610310",
+        "created_at": "2022-01-31T19:11:33.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_history_tweet_ids": [
+          "1488228477056610310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "752712449321644032",
+              "start": 82,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "fedscoop.com/scale-ai-award…",
+              "end": 276,
+              "expanded_url": "https://www.fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+              "start": 253,
+              "status": 200,
+              "unwound_url": "https://fedscoop.com/scale-ai-awarded-250m-ai-contract-by-department-of-defense/",
+              "url": "https://t.co/uFVut5Szff"
+            }
+          ]
+        },
+        "id": "1488228477056610310",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 0,
+          "like_count": 322,
+          "quote_count": 7,
+          "reply_count": 28,
+          "retweet_count": 33
+        },
+        "text": "This @DeptofDefense contract represents more than just a business opportunity for @Scale_AI—it shows that the government is ready to build AI systems for the long-haul.\n\nThis contract is part of a much broader effort to build an AI-ready DoD. Thread 👇\n\nhttps://t.co/uFVut5Szff"
+      },
+      {
+        "author_id": "4398626122",
+        "conversation_id": "1486740126688370712",
+        "created_at": "2022-01-27T16:37:23.000Z",
+        "display_text_range": [
+          0,
+          221
+        ],
+        "edit_history_tweet_ids": [
+          "1486740126688370712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "We’ve trained language models that are much better at following user intentions than GPT-3 while also making them more truthful and less toxic, using techniques developed through our alignment research. These InstructGPT models, which are trained with humans in the loop, are now deployed as the default language models on our API.",
+              "display_url": "openai.com/blog/instructi…",
+              "end": 221,
+              "expanded_url": "https://openai.com/blog/instruction-following/",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2122242366840913920/ZXYsMX_O?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122242366840913920/ZXYsMX_O?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 198,
+              "status": 200,
+              "title": "Aligning language models to follow instructions",
+              "unwound_url": "https://openai.com/index/instruction-following/",
+              "url": "https://t.co/rKNpCDAMb2"
+            }
+          ]
+        },
+        "id": "1486740126688370712",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 0,
+          "like_count": 1144,
+          "quote_count": 58,
+          "reply_count": 39,
+          "retweet_count": 223
+        },
+        "text": "We've trained GPT-3 to be more aligned with what humans want: The new InstructGPT models are better at following human intent than a 100x larger model, while also improving safety and truthfulness. https://t.co/rKNpCDAMb2"
+      },
+      {
+        "author_id": "1075605139",
+        "conversation_id": "1485191271840837633",
+        "created_at": "2022-01-23T10:02:47.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_history_tweet_ids": [
+          "1485191271840837633"
+        ],
+        "id": "1485191271840837633",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 474,
+          "impression_count": 0,
+          "like_count": 3257,
+          "quote_count": 90,
+          "reply_count": 16,
+          "retweet_count": 522
+        },
+        "text": "Today I saw the impact that AlphaFold is having on speeding up drug discovery firsthand:"
+      },
+      {
+        "author_id": "877948341719506944",
+        "conversation_id": "1483540369866326017",
+        "created_at": "2022-01-18T20:42:41.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_history_tweet_ids": [
+          "1483540369866326017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "protocol.com/braintrust/how…",
+              "end": 156,
+              "expanded_url": "https://www.protocol.com/braintrust/how-to-differentiate-data-strategy?rebelltitem=13#rebelltitem13?rebelltitem=13",
+              "start": 133,
+              "url": "https://t.co/GHXrRwkOX8"
+            }
+          ]
+        },
+        "id": "1483540369866326017",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "text": "So critical to live and breathe your data with a tool like Scale Nucleus.  Great insights here and appreciative of being included.   https://t.co/GHXrRwkOX8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1484217956867395591"
+          ]
+        },
+        "author_id": "19720395",
+        "conversation_id": "1484217959774134274",
+        "created_at": "2022-01-20T17:35:11.000Z",
+        "display_text_range": [
+          0,
+          186
+        ],
+        "edit_history_tweet_ids": [
+          "1484217959774134274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "AI"
+            },
+            {
+              "end": 186,
+              "start": 168,
+              "tag": "IndexAISummit2022"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "615818451",
+              "start": 21,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 53,
+              "id": "1393424079634395139",
+              "start": 37,
+              "username": "AnimaAnandkumar"
+            },
+            {
+              "end": 69,
+              "id": "1126535819760742400",
+              "start": 55,
+              "username": "RMartinChavez"
+            },
+            {
+              "end": 89,
+              "id": "913654158",
+              "start": 75,
+              "username": "espricewright"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "indexventures.com/ai",
+              "end": 166,
+              "expanded_url": "https://www.indexventures.com/ai",
+              "start": 143,
+              "url": "https://t.co/whqyuaz7lF"
+            },
+            {
+              "display_url": "pic.x.com/eC1z9OZTT1",
+              "end": 210,
+              "expanded_url": "https://x.com/IndexVentures/status/1484217959774134274/photo/1",
+              "media_key": "3_1484217956867395591",
+              "start": 187,
+              "url": "https://t.co/eC1z9OZTT1"
+            }
+          ]
+        },
+        "id": "1484217959774134274",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "text": "Up next we hear from @alexandr_wang, @AnimaAnandkumar, @RMartinChavez, and @espricewright on Practical Applications of #AI in Biz. Watch here: https://t.co/whqyuaz7lF  #IndexAISummit2022 https://t.co/eC1z9OZTT1"
+      },
+      {
+        "author_id": "21350494",
+        "conversation_id": "1483587513549791235",
+        "created_at": "2022-01-18T23:50:01.000Z",
+        "display_text_range": [
+          0,
+          203
+        ],
+        "edit_history_tweet_ids": [
+          "1483587513549791235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "AI"
+            },
+            {
+              "end": 143,
+              "start": 127,
+              "tag": "machinelearning"
+            },
+            {
+              "end": 154,
+              "start": 149,
+              "tag": "data"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 66,
+              "id": "752712449321644032",
+              "start": 57,
+              "username": "scale_AI"
+            },
+            {
+              "end": 89,
+              "id": "615818451",
+              "start": 75,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "youtube.com/watch?v=LkXwY0…",
+              "end": 203,
+              "expanded_url": "https://www.youtube.com/watch?v=LkXwY02hnro",
+              "start": 180,
+              "status": 429,
+              "unwound_url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DLkXwY02hnro&q=EgTAhU0PGOGOgNYGIjAh5_gZT1uHm9VenUhX1cCyiZwPmZO8-2XSLsIwKEcg0086gSKt7Ha9ZWusLnVGN_cyAnJSWgFD",
+              "url": "https://t.co/OtJ7J2cTPf"
+            }
+          ]
+        },
+        "id": "1483587513549791235",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "text": "Join us 🗓️THIS WEDNESDAY🗓️ Jan. 19 @ 4pm PT to hear from @scale_AI founder @alexandr_wang! And bring your questions about #AI, #machinelearning, and #data labelling. Livestream ➡️ https://t.co/OtJ7J2cTPf"
+      },
+      {
+        "author_id": "1075605139",
+        "conversation_id": "1481882963679670273",
+        "created_at": "2022-01-14T06:56:45.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_history_tweet_ids": [
+          "1481882963679670273"
+        ],
+        "id": "1481882963679670273",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 0,
+          "like_count": 989,
+          "quote_count": 21,
+          "reply_count": 11,
+          "retweet_count": 183
+        },
+        "text": "Lessons learned debugging ML models:"
+      },
+      {
+        "author_id": "20752143",
+        "conversation_id": "1480582768723640320",
+        "created_at": "2022-01-10T16:50:16.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_history_tweet_ids": [
+          "1480582775325564939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "615818451",
+              "start": 12,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 51,
+              "id": "752712449321644032",
+              "start": 42,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "youtu.be/CmBpsw1ORQ0",
+              "end": 149,
+              "expanded_url": "https://youtu.be/CmBpsw1ORQ0",
+              "start": 126,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/watch?v=CmBpsw1ORQ0&feature=youtu.be",
+              "url": "https://t.co/3hCwDfbA8B"
+            }
+          ]
+        },
+        "id": "1480582775325564939",
+        "in_reply_to_user_id": "20752143",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1480582773807235081",
+            "type": "replied_to"
+          }
+        ],
+        "text": "I love what @alexandr_wang is building w/ @scale_AI. \n\n(Alex also conducts some of the best firesides I've watched recently)\n\nhttps://t.co/3hCwDfbA8B"
+      },
+      {
+        "author_id": "1050967100",
+        "conversation_id": "1480399878714900484",
+        "created_at": "2022-01-10T04:43:30.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_history_tweet_ids": [
+          "1480399878714900484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "93957809",
+              "start": 31,
+              "username": "ericschmidt"
+            },
+            {
+              "end": 62,
+              "id": "615818451",
+              "start": 48,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 255,
+              "id": "752712449321644032",
+              "start": 246,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "youtu.be/CmBpsw1ORQ0",
+              "end": 279,
+              "expanded_url": "https://youtu.be/CmBpsw1ORQ0",
+              "start": 256,
+              "status": 200,
+              "unwound_url": "https://www.youtube.com/watch?v=CmBpsw1ORQ0&feature=youtu.be",
+              "url": "https://t.co/U93U0i4wXi"
+            }
+          ]
+        },
+        "id": "1480399878714900484",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 0,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "text": "Fascinating discussion between @ericschmidt and @alexandr_wang about AI. Great point about how industries that are early adopters will be those with the right balance of commercial and regulatory pressure. This video deserves more than 1k views! @scale_AI https://t.co/U93U0i4wXi"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1488228481657835520",
+    "next_token": "b26v89c19zqg8o3fpe18pd07rwl8ia406etlmo9ij4g3h",
+    "oldest_id": "1478149932821491716",
+    "result_count": 13
+  },
+  "errors": []
+}

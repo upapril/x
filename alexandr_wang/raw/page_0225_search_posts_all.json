@@ -1,0 +1,94 @@
+{
+  "collected_at_utc": "2026-11-24T12:29:16Z",
+  "collected_at_shanghai": "2026-11-24T20:29:16+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RFKVQH7316DHSZJPC318A.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2018-05-01T00:00:00Z",
+    "end_time": "2018-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2018-05"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_992122392217464832"
+        ]
+      },
+      "author_id": "615818451",
+      "created_at": "2018-05-05T19:48:32.000Z",
+      "edit_history_tweet_ids": [
+        "992853573380665344"
+      ],
+      "id": "992853573380665344",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "992155435972026368",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @rickyrauch: New Product Icons https://t.co/bxaBUPZNzY",
+      "url": "https://x.com/alexandr_wang/status/992853573380665344"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "3_992122392217464832",
+        "type": "photo"
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_992122392217464832"
+          ]
+        },
+        "author_id": "16071952",
+        "created_at": "2018-05-03T21:34:23.000Z",
+        "edit_history_tweet_ids": [
+          "992155435972026368"
+        ],
+        "id": "992155435972026368",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "text": "New Product Icons https://t.co/bxaBUPZNzY"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "992853573380665344",
+    "next_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
+    "oldest_id": "992853573380665344",
+    "result_count": 1
+  },
+  "errors": []
+}
