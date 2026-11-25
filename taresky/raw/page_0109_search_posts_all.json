@@ -1,0 +1,1084 @@
+{
+  "collected_at_utc": "2026-11-25T00:43:38Z",
+  "collected_at_shanghai": "2026-11-25T08:43:38+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M882GP1ASZWKC5VGPASDKEZ1.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2026-07-01T00:00:00Z",
+    "end_time": "2026-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juethzfpd956pziqtvpryqr6uiddod",
+    "window_label": "2026-07"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T04:14:23.000Z",
+      "edit_history_tweet_ids": [
+        "2075071039294591359"
+      ],
+      "id": "2075071039294591359",
+      "in_reply_to_user_id": "1963434136145989634",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 341,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075069030655033768",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 对啊，你只能使用特定 VPN 客户端翻墙，又只能使用 tailscale 客户端回家，这个特定的情况下。\n\n那只能二选一，要么 VPN 支持回家，要么 tailscale 支持翻墙。",
+      "url": "https://x.com/taresky/status/2075071039294591359"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T04:03:54.000Z",
+      "edit_history_tweet_ids": [
+        "2075068401035391200"
+      ],
+      "id": "2075068401035391200",
+      "in_reply_to_user_id": "1963434136145989634",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1670,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075067826885496994",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 你感觉这是不是共同一个问题。\n\n你用了一个非标产品，导致了现在奇怪的体验。\n\n那人自己创造了一个更奇葩的非标流程，去推荐别人用。\n\n越框越死了",
+      "url": "https://x.com/taresky/status/2075068401035391200"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T04:00:22.000Z",
+      "edit_history_tweet_ids": [
+        "2075067511469695221"
+      ],
+      "id": "2075067511469695221",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 2125,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@biantaishabi5 这两个翻墙客户端都支持 tailscale\n\nhttps://t.co/bDmqm5xHu4\n\nhttps://t.co/BlCQrMgvsU",
+      "url": "https://x.com/taresky/status/2075067511469695221"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T03:52:16.000Z",
+      "edit_history_tweet_ids": [
+        "2075065472492646509"
+      ],
+      "id": "2075065472492646509",
+      "in_reply_to_user_id": "1963434136145989634",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2391,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075058430713475410",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 不用新建任何东西。\n\n你家里 Mac 能翻墙，就说明你有翻墙节点。\n\n你能 tailscale 连回家，就说明你有回家节点。\n\n能在手机完全无缝、无感、无性能损失做完的事情。为啥要先回家再翻墙，只有坏处没有任何好处。",
+      "url": "https://x.com/taresky/status/2075065472492646509"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T02:49:37.000Z",
+      "edit_history_tweet_ids": [
+        "2075049708754755647"
+      ],
+      "id": "2075049708754755647",
+      "in_reply_to_user_id": "1963434136145989634",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 10373,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075046707721871655",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 tailscale 本身就可以作为一个节点。\n\n直接用手机的翻墙工具客户端，这一层就可以做好分流。多么干净利索，体验是无缝的，而且没有任何性能损失。\n\n另一方面，回家也不一定要用 tailscale，家里起个 shadowsocks Server 也是一样的效果，性能还更好。",
+      "url": "https://x.com/taresky/status/2075049708754755647"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T02:28:02.000Z",
+      "edit_history_tweet_ids": [
+        "2075044276929691961"
+      ],
+      "id": "2075044276929691961",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 13331,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074963064231952832",
+          "type": "quoted"
+        }
+      ],
+      "text": "？？？产品经理和开发可以结对编程了 https://t.co/S7duV8Lxmy",
+      "url": "https://x.com/taresky/status/2075044276929691961"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T02:23:56.000Z",
+      "edit_history_tweet_ids": [
+        "2075043243855872418"
+      ],
+      "id": "2075043243855872418",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 7070,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075018548259541180",
+          "type": "quoted"
+        }
+      ],
+      "text": "#AI \n\n试了下确实超快。能力我测不出来，看你们了。 https://t.co/PEqNMJJu9h",
+      "url": "https://x.com/taresky/status/2075043243855872418"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T02:15:50.000Z",
+      "edit_history_tweet_ids": [
+        "2075041205352861759"
+      ],
+      "id": "2075041205352861759",
+      "public_metrics": {
+        "bookmark_count": 74,
+        "impression_count": 29765,
+        "like_count": 107,
+        "quote_count": 2,
+        "reply_count": 10,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074964542678000028",
+          "type": "quoted"
+        }
+      ],
+      "text": "不同观点：\n\n一个后端程序员去做卖 10000 美元的应用才是浪费时间。\n\n因为这件事半吊子产品经理都能做，现阶段太容易了，没门槛，也会越来越卷。\n\n要么就直接放弃后端程序员这个方向，转做产品，或 to C 的独立开发。\n\n回报更高的方向，应该是继续垂直提高自己的领域技能，让 AI https://t.co/Sbl3MgKECE",
+      "url": "https://x.com/taresky/status/2075041205352861759"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-09T00:41:32.000Z",
+      "edit_history_tweet_ids": [
+        "2075017473460748788"
+      ],
+      "id": "2075017473460748788",
+      "public_metrics": {
+        "bookmark_count": 122,
+        "impression_count": 91880,
+        "like_count": 167,
+        "quote_count": 1,
+        "reply_count": 50,
+        "retweet_count": 3
+      },
+      "text": "#翻墙 \n\n不是，给这个推文点赞收藏的都是弱智吗？ https://t.co/qk2iJE6l4t",
+      "url": "https://x.com/taresky/status/2075017473460748788"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T16:43:48.000Z",
+      "edit_history_tweet_ids": [
+        "2074897249918910933"
+      ],
+      "id": "2074897249918910933",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 15173,
+        "like_count": 29,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "text": "#Crypto \n\n不觉得这种缓慢执行的漏洞能被偷多少钱，肯定赔得起。\n\n应该担心的是集体提现爆了其他没发现的雷。\n\n所以，跑，肯定没错。",
+      "url": "https://x.com/taresky/status/2074897249918910933"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T16:16:04.000Z",
+      "edit_history_tweet_ids": [
+        "2074890268285993328"
+      ],
+      "id": "2074890268285993328",
+      "in_reply_to_user_id": "1471310582070464512",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2141,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074819312947429784",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@L_eacc 男主人格和心理问题很大，确实没必要拯救世界了。",
+      "url": "https://x.com/taresky/status/2074890268285993328"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T16:14:02.000Z",
+      "edit_history_tweet_ids": [
+        "2074889755918270685"
+      ],
+      "id": "2074889755918270685",
+      "in_reply_to_user_id": "1940941765944778752",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 562,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074731491993780675",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NataliyaRo4040 看到拖把照片了。\n\n不要回头快逃。",
+      "url": "https://x.com/taresky/status/2074889755918270685"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T15:30:44.000Z",
+      "edit_history_tweet_ids": [
+        "2074878859804348505"
+      ],
+      "id": "2074878859804348505",
+      "in_reply_to_user_id": "121908437",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 10011,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074869055429968117",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@tualatrix 观察看看个人使用多久封号",
+      "url": "https://x.com/taresky/status/2074878859804348505"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T10:55:55.000Z",
+      "edit_history_tweet_ids": [
+        "2074809701498593759"
+      ],
+      "id": "2074809701498593759",
+      "in_reply_to_user_id": "1963434136145989634",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2414,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074806981647568964",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 啊",
+      "url": "https://x.com/taresky/status/2074809701498593759"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T09:49:48.000Z",
+      "edit_history_tweet_ids": [
+        "2074793063118180643"
+      ],
+      "id": "2074793063118180643",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 13973,
+        "like_count": 35,
+        "quote_count": 2,
+        "reply_count": 12,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2061375928765391185",
+          "type": "quoted"
+        }
+      ],
+      "text": "#AI \n\n观察一些互联网群，装逼的产品经理也锐减。\n\n哈哈哈，现在他们不敢出来装逼了，这会被说菜已经没有任何借口了。\n\nAI 让世界变得更谦逊，真是好东西。 https://t.co/o6jza7HccL",
+      "url": "https://x.com/taresky/status/2074793063118180643"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T06:44:23.000Z",
+      "edit_history_tweet_ids": [
+        "2074746402073383091"
+      ],
+      "id": "2074746402073383091",
+      "in_reply_to_user_id": "1453296162128150551",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1697,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074745824123478436",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@seaify1 两个号 三个号 四个号",
+      "url": "https://x.com/taresky/status/2074746402073383091"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T05:21:52.000Z",
+      "edit_history_tweet_ids": [
+        "2074725634191102460"
+      ],
+      "id": "2074725634191102460",
+      "in_reply_to_user_id": "2658444312",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 240,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074725036150427779",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@otterpal24 不过和用什么客户端没关系哈哈",
+      "url": "https://x.com/taresky/status/2074725634191102460"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T05:21:35.000Z",
+      "edit_history_tweet_ids": [
+        "2074725562585866570"
+      ],
+      "id": "2074725562585866570",
+      "in_reply_to_user_id": "2658444312",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1203,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074725036150427779",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@otterpal24 用的 Claude macOS app",
+      "url": "https://x.com/taresky/status/2074725562585866570"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T04:37:33.000Z",
+      "edit_history_tweet_ids": [
+        "2074714484057489683"
+      ],
+      "id": "2074714484057489683",
+      "public_metrics": {
+        "bookmark_count": 244,
+        "impression_count": 52673,
+        "like_count": 171,
+        "quote_count": 3,
+        "reply_count": 25,
+        "retweet_count": 21
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073218631857754562",
+          "type": "quoted"
+        }
+      ],
+      "text": "#AI \n\n基于 mattpocock/skills 和今天 Claude 官方的 Fable token 节约文章。\n\n让 AI 把 /implement 改造成了 /implement-codex。\n\n现在完整的工作流如图。 https://t.co/SWwwfEq3QC https://t.co/8yL8Y97tWg",
+      "url": "https://x.com/taresky/status/2074714484057489683"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T02:52:26.000Z",
+      "edit_history_tweet_ids": [
+        "2074688030284403035"
+      ],
+      "id": "2074688030284403035",
+      "in_reply_to_user_id": "1296830027506388992",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 821,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074687012708446338",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@shrimpwen 让 AI 把 /implement 改造成了 /implement-codex，感觉后面一两个号就够了",
+      "url": "https://x.com/taresky/status/2074688030284403035"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T02:48:09.000Z",
+      "edit_history_tweet_ids": [
+        "2074686949915578714"
+      ],
+      "id": "2074686949915578714",
+      "in_reply_to_user_id": "368245720",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2553,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074682777044439433",
+          "type": "replied_to"
+        }
+      ],
+      "text": "#AI\n\n它这个 reset 时间到底怎么算的？\n\n我今天注册，今天付费，结果明天就会 reset。 https://t.co/EFgRur2w1y",
+      "url": "https://x.com/taresky/status/2074686949915578714"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T02:46:33.000Z",
+      "edit_history_tweet_ids": [
+        "2074686547027435889"
+      ],
+      "id": "2074686547027435889",
+      "in_reply_to_user_id": "1344259202240237569",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3175,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074683368890097869",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Hixlan1996 啥意思？典型的 AI 场景",
+      "url": "https://x.com/taresky/status/2074686547027435889"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T02:31:34.000Z",
+      "edit_history_tweet_ids": [
+        "2074682777044439433"
+      ],
+      "id": "2074682777044439433",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9997,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "#AI \n\n开了第三个 Claude 账号 🌚\n\n前两个没死，只是没有高级额度了… https://t.co/A3wZJ3cgm2",
+      "url": "https://x.com/taresky/status/2074682777044439433"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T01:23:55.000Z",
+      "edit_history_tweet_ids": [
+        "2074665751966032220"
+      ],
+      "id": "2074665751966032220",
+      "in_reply_to_user_id": "282522910",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1370,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074664148760494317",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 这狗运营是逼我再开一个号",
+      "url": "https://x.com/taresky/status/2074665751966032220"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2026-07-08T01:22:19.000Z",
+      "edit_history_tweet_ids": [
+        "2074665349811998747"
+      ],
+      "id": "2074665349811998747",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 30639,
+        "like_count": 26,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074355472447271131",
+          "type": "quoted"
+        }
+      ],
+      "text": "应该是真的，本人知乎回复👇\n\n👍👍👍👍👍 小红书活该哈哈哈哈哈哈哈哈哈\n\n小红书遭前员工举报，被指存在 VIE 信披矛盾和用工漏洞等问题，会对其 IPO 产生哪些影响？ - 跑者Hunter的回答 - 知乎\nhttps://t.co/n1Ut089kW9 https://t.co/cIFIn8XJ9Y",
+      "url": "https://x.com/taresky/status/2074665349811998747"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1963434136145989634",
+        "created_at": "2026-07-09T04:06:24.000Z",
+        "edit_history_tweet_ids": [
+          "2075069030655033768"
+        ],
+        "id": "2075069030655033768",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075068401035391200",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 没办法啊，这个机场还挺稳定的，我用了好多年了，我也不想折腾自己机场，所以在这个前提下，你说exit node是不是一个好的简单解决问题的办法呢对我来说，在对速度可以接受的情况下，我觉得还行啊"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "created_at": "2026-07-09T04:01:37.000Z",
+        "edit_history_tweet_ids": [
+          "2075067826885496994"
+        ],
+        "id": "2075067826885496994",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1725,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075067511469695221",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我现在这个还用不了，我那个机场弄了个app我还只能用他的app来连。。。。还隔三差五换app"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "created_at": "2026-07-09T03:24:17.000Z",
+        "edit_history_tweet_ids": [
+          "2075058430713475410"
+        ],
+        "id": "2075058430713475410",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2612,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 你这个肯定可以，那不是还要建吗，我这个遇到的问题是我在手机上开tailscale另外那个vpn就自动关了，这个时候如果正好有一个tailscale连内网，在想要连内网的时候同时还能翻墙，就点一下开exit node就好了，还是方便啊"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "created_at": "2026-07-09T02:37:42.000Z",
+        "edit_history_tweet_ids": [
+          "2075046707721871655"
+        ],
+        "id": "2075046707721871655",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10373,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075017473460748788",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这个感觉还是有用的呀，因为我手机去访问我内网的时候，去把这个Tailscale打开，我之前就翻不了墙了，因为同时开不了VPN。但是我现在去访问内网的时候，把这个Tailscale打开，然后如果把那个exit node打开的话，我这个手机也能同时翻墙了。"
+      },
+      {
+        "author_id": "1644186457286889472",
+        "created_at": "2026-07-08T21:05:20.000Z",
+        "edit_history_tweet_ids": [
+          "2074963064231952832"
+        ],
+        "id": "2074963064231952832",
+        "public_metrics": {
+          "bookmark_count": 3115,
+          "impression_count": 831867,
+          "like_count": 5220,
+          "quote_count": 106,
+          "reply_count": 247,
+          "retweet_count": 343
+        },
+        "text": "We made Claude Code multiplayer!  \n\nUse it with other people in the same terminal, and connect your Claudes so they can all talk to each other. https://t.co/Pc7Ytag86z"
+      },
+      {
+        "author_id": "1397978229541986304",
+        "created_at": "2026-07-09T00:45:48.000Z",
+        "edit_history_tweet_ids": [
+          "2075017632856805786",
+          "2075018159221014943",
+          "2075018548259541180"
+        ],
+        "id": "2075018548259541180",
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 182693,
+          "like_count": 1205,
+          "quote_count": 31,
+          "reply_count": 117,
+          "retweet_count": 60
+        },
+        "text": "I didn't expect to say this...\n\nBut after one day with Grok 4.5 from @spacexai, I've already started moving some of my Claude Code and Codex workflows over.\n\nIt's ridiculously fast, and the intelligence is way better than I expected.\n\nHuge props to @elonmusk and the team.\n\nIf https://t.co/HWrFESOLbX"
+      },
+      {
+        "author_id": "1443799778467344384",
+        "created_at": "2026-07-08T21:11:12.000Z",
+        "edit_history_tweet_ids": [
+          "2074964542678000028"
+        ],
+        "id": "2074964542678000028",
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 50969,
+          "like_count": 88,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074758877229523232",
+            "type": "quoted"
+          }
+        ],
+        "text": "问题是我真的认识产品经理一个人做出生产可用的应用且赚到了不少钱。\n\n作为搞云计算出生的程序员，我可以负责任的说：  \n\n一个应用赚到10000美金之前，任何考虑后端技术架构的行为都等同于浪费时间。 https://t.co/OCBjlXE0zr"
+      },
+      {
+        "author_id": "1471310582070464512",
+        "created_at": "2026-07-08T11:34:07.000Z",
+        "edit_history_tweet_ids": [
+          "2074819312947429784"
+        ],
+        "id": "2074819312947429784",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6568,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074736956647550996",
+            "type": "quoted"
+          }
+        ],
+        "text": "吃瓜结束 https://t.co/fudoWHamUC"
+      },
+      {
+        "author_id": "121908437",
+        "created_at": "2026-07-08T14:51:46.000Z",
+        "edit_history_tweet_ids": [
+          "2074869055429968117"
+        ],
+        "id": "2074869055429968117",
+        "public_metrics": {
+          "bookmark_count": 396,
+          "impression_count": 98098,
+          "like_count": 316,
+          "quote_count": 0,
+          "reply_count": 71,
+          "retweet_count": 22
+        },
+        "text": "给自己搭了一个中转站，Sub2API 这系统做的真完善啊。 https://t.co/NKCm7mUDwb"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "created_at": "2026-07-08T10:45:07.000Z",
+        "edit_history_tweet_ids": [
+          "2074806981647568964"
+        ],
+        "id": "2074806981647568964",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6013,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "text": "吃晚饭了，吃了野菌焖猪肉，干煸猪脚，青蛙，肺肠 https://t.co/62dj1IlsO6"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2026-06-01T09:14:54.000Z",
+        "edit_history_tweet_ids": [
+          "2061375928765391185"
+        ],
+        "id": "2061375928765391185",
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 31160,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061370189925822947",
+            "type": "quoted"
+          }
+        ],
+        "text": "最近两年，那种在大厂搬砖，在网上嚣张跋扈，把平台当个人能力，然后出来创业失败的案例，已经越来越少看到了。\n\n因为现在根本不用出来创业，只要周末用一用 AI 就知道自己肯定会失败了。 https://t.co/sXHqW9821u"
+      },
+      {
+        "author_id": "1453296162128150551",
+        "created_at": "2026-07-08T06:42:06.000Z",
+        "edit_history_tweet_ids": [
+          "2074745824123478436"
+        ],
+        "id": "2074745824123478436",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5044,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "希望fable出个400刀包月的吧，200刀根本不够用，extra usage又太贵"
+      },
+      {
+        "author_id": "2658444312",
+        "created_at": "2026-07-08T05:19:29.000Z",
+        "edit_history_tweet_ids": [
+          "2074725036150427779"
+        ],
+        "id": "2074725036150427779",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1470,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074714484057489683",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 应该不是用在官方的codex desktop app吧？用orca?"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2026-07-04T01:33:35.000Z",
+        "edit_history_tweet_ids": [
+          "2073218631857754562"
+        ],
+        "id": "2073218631857754562",
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 60546,
+          "like_count": 249,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 20
+        },
+        "text": "#AI \n\n今天搞个新工具，尝试用 Fable5 来梳理需求，然后让 gpt5.5 完成开发。\n\n需求用 mattpocock/skills 的 grill → PRD → issues。只花了 12M token，30 usd左右。\n\n开发用 mattpocock/skills 的 /implement。\n\n附上 mattpocock/skills 作者的推荐用法⬇️ https://t.co/DTFZkBcHic"
+      },
+      {
+        "author_id": "1296830027506388992",
+        "created_at": "2026-07-08T02:48:24.000Z",
+        "edit_history_tweet_ids": [
+          "2074687012708446338"
+        ],
+        "id": "2074687012708446338",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 817,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074682777044439433",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我也是，感觉还是要学会省着用"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2026-07-08T02:31:34.000Z",
+        "edit_history_tweet_ids": [
+          "2074682777044439433"
+        ],
+        "id": "2074682777044439433",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9997,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "#AI \n\n开了第三个 Claude 账号 🌚\n\n前两个没死，只是没有高级额度了… https://t.co/A3wZJ3cgm2"
+      },
+      {
+        "author_id": "282522910",
+        "created_at": "2026-07-08T01:17:33.000Z",
+        "edit_history_tweet_ids": [
+          "2074664148760494317"
+        ],
+        "id": "2074664148760494317",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8749,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074548242386178258",
+            "type": "quoted"
+          }
+        ],
+        "text": "我们甚至还准备了一个今天装逼整活儿的海报\n\n结果 A\\ 延期了\n\n好气好气😠 https://t.co/7cRriwnWXO https://t.co/Z4wgFis80s"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2026-07-07T04:50:58.000Z",
+        "edit_history_tweet_ids": [
+          "2074355472447271131"
+        ],
+        "id": "2074355472447271131",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 49392,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074329591880274156",
+            "type": "quoted"
+          }
+        ],
+        "text": "这个真的假的？如果是真的也太爽了 https://t.co/GcfaQEZJEC"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1963434136145989634",
+        "name": "biantaishabi5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963473697949597696/QBk7CJiv_normal.jpg",
+        "username": "biantaishabi5",
+        "verified": false
+      },
+      {
+        "id": "1471310582070464512",
+        "name": "ℓ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059122365511184384/t9t2gBS7_normal.jpg",
+        "username": "L_eacc",
+        "verified": false
+      },
+      {
+        "id": "1940941765944778752",
+        "name": "NataliyaRose",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940942201175134211/WIddXCOy_normal.jpg",
+        "username": "NataliyaRo4040",
+        "verified": false
+      },
+      {
+        "id": "121908437",
+        "name": "图拉鼎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/675270246509350912/lV9-F5ey_normal.jpg",
+        "username": "tualatrix",
+        "verified": false
+      },
+      {
+        "id": "1453296162128150551",
+        "name": "seaify",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803365565777715202/HL2p4pyC_normal.jpg",
+        "username": "seaify1",
+        "verified": false
+      },
+      {
+        "id": "2658444312",
+        "name": "Otter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755100649514270720/k9xgw58y_normal.jpg",
+        "username": "otterpal24",
+        "verified": false
+      },
+      {
+        "id": "1296830027506388992",
+        "name": "Shrimp🐶🐶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102269688290091008/aUWCqlv3_normal.jpg",
+        "username": "shrimpwen",
+        "verified": false
+      },
+      {
+        "id": "1344259202240237569",
+        "name": "析析",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880818249467867136/qZIcxKvS_normal.jpg",
+        "username": "Hixlan1996",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2075071039294591359",
+    "next_token": "b26v89c19zqg8o3juethkkr27affrxg301m256hk0i16l",
+    "oldest_id": "2074665349811998747",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2074731491993780675].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074731491993780675",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2074731491993780675"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074683368890097869].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074683368890097869",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2074683368890097869"
+    }
+  ]
+}

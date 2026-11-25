@@ -1,0 +1,168 @@
+{
+  "collected_at_utc": "2026-11-25T01:15:24Z",
+  "collected_at_shanghai": "2026-11-25T09:15:24+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M884ANF5JMMPQH3QVX233M6D.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2017-06-01T00:00:00Z",
+    "end_time": "2017-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2017-06"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2017-06-29T20:44:16.000Z",
+      "edit_history_tweet_ids": [
+        "880527359878746112"
+      ],
+      "id": "880527359878746112",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@daniel_levine @scaleAPI Thanks Dan!!",
+      "url": "https://x.com/alexandr_wang/status/880527359878746112"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2017-06-29T19:52:00.000Z",
+      "edit_history_tweet_ids": [
+        "880514207153741824"
+      ],
+      "id": "880514207153741824",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@olivercameron @scaleAPI Amazing! Would love to chat more about your requirements and how we can help! Will DM :)",
+      "url": "https://x.com/alexandr_wang/status/880514207153741824"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2017-06-29T19:36:35.000Z",
+      "edit_history_tweet_ids": [
+        "880510324855590912"
+      ],
+      "id": "880510324855590912",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "880510163307966464",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaleAPI: Scale for Autonomous Driving\n\nhttps://t.co/JxRfx55DWv https://t.co/kNSjWWBcMY",
+      "url": "https://x.com/alexandr_wang/status/880510324855590912"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2017-06-27T00:48:48.000Z",
+      "edit_history_tweet_ids": [
+        "879501732715180033"
+      ],
+      "id": "879501732715180033",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@timanglade @iandanforth @scaleAPI Very exciting! DM me anytime!",
+      "url": "https://x.com/alexandr_wang/status/879501732715180033"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2017-06-26T23:24:14.000Z",
+      "edit_history_tweet_ids": [
+        "879480452825792512"
+      ],
+      "id": "879480452825792512",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@timanglade @iandanforth @scaleAPI Feel free to reach out directly if you have any questions in the future! Would love to see how we can help out 😊",
+      "url": "https://x.com/alexandr_wang/status/879480452825792512"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2017-06-24T16:43:33.000Z",
+      "edit_history_tweet_ids": [
+        "878654842444460032"
+      ],
+      "id": "878654842444460032",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@saranormous That's me!! You didn't stop by 😕",
+      "url": "https://x.com/alexandr_wang/status/878654842444460032"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "752712449321644032",
+        "created_at": "2017-06-29T19:35:56.000Z",
+        "edit_history_tweet_ids": [
+          "880510163307966464"
+        ],
+        "id": "880510163307966464",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 39,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "text": "Scale for Autonomous Driving\n\nhttps://t.co/JxRfx55DWv https://t.co/kNSjWWBcMY"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "880527359878746112",
+    "next_token": "1jzu9lk96gu5npw3jj2c1c6g1f25mx8gkecl8jnwtpbx",
+    "oldest_id": "878654842444460032",
+    "result_count": 6
+  },
+  "errors": []
+}

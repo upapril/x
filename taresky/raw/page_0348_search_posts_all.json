@@ -1,0 +1,1732 @@
+{
+  "collected_at_utc": "2026-11-25T01:21:49Z",
+  "collected_at_shanghai": "2026-11-25T09:21:49+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M884PDJ47QR17WN9RQV1PCW8.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2025-01-01T00:00:00Z",
+    "end_time": "2025-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3frr6srh4mvru01ytb1w6yt6t7g3a7x",
+    "window_label": "2025-01"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875753061253312557",
+      "created_at": "2025-01-05T03:59:57.000Z",
+      "edit_history_tweet_ids": [
+        "1875754082578858298"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "183992653",
+            "start": 0,
+            "username": "re333na"
+          }
+        ]
+      },
+      "id": "1875754082578858298",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1569,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@re333na o1 思考太多和太慢了。可以小问题用 4o，复杂问题用 o1 Pro。",
+      "url": "https://x.com/taresky/status/1875754082578858298"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875045663538606508",
+      "created_at": "2025-01-03T10:55:47.000Z",
+      "edit_history_tweet_ids": [
+        "1875133955642634651"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1645246797831602176",
+            "start": 0,
+            "username": "0x10240"
+          }
+        ]
+      },
+      "id": "1875133955642634651",
+      "in_reply_to_user_id": "1645246797831602176",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1195,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875119937636966504",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0x10240 可能是 IP 问题",
+      "url": "https://x.com/taresky/status/1875133955642634651"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1875099772287393792"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1875099777668722902",
+      "created_at": "2025-01-03T08:39:59.000Z",
+      "edit_history_tweet_ids": [
+        "1875099777668722902"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "记账"
+          },
+          {
+            "end": 15,
+            "start": 4,
+            "tag": "ChatGPTPro"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Rv88DENYn1",
+            "end": 73,
+            "expanded_url": "https://x.com/taresky/status/1875099777668722902/photo/1",
+            "media_key": "3_1875099772287393792",
+            "start": 50,
+            "url": "https://t.co/Rv88DENYn1"
+          },
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 97,
+            "expanded_url": "https://twitter.com/taresky/status/1874765449327706382",
+            "start": 74,
+            "url": "https://t.co/TPxVw4weGO"
+          }
+        ]
+      },
+      "id": "1875099777668722902",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 13943,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874765449327706382",
+          "type": "quoted"
+        }
+      ],
+      "text": "#记账 #ChatGPTPro\n\n ChatGPTPro 确实不错，思考的结论和我计划的基本一致。 https://t.co/Rv88DENYn1 https://t.co/TPxVw4weGO",
+      "url": "https://x.com/taresky/status/1875099777668722902"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-03T08:29:48.000Z",
+      "edit_history_tweet_ids": [
+        "1875097216312131788"
+      ],
+      "id": "1875097216312131788",
+      "in_reply_to_user_id": "1075926828169064448",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 941,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875086662730203543",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Thirteen_Icicle 感觉不至于吧",
+      "url": "https://x.com/taresky/status/1875097216312131788"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875045663538606508",
+      "created_at": "2025-01-03T07:05:33.000Z",
+      "edit_history_tweet_ids": [
+        "1875076014294147306"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "166104159",
+            "start": 0,
+            "username": "wych42"
+          }
+        ]
+      },
+      "id": "1875076014294147306",
+      "in_reply_to_user_id": "166104159",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1207,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875067940456022333",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wych42 50 吧",
+      "url": "https://x.com/taresky/status/1875076014294147306"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875045663538606508",
+      "created_at": "2025-01-03T05:55:23.000Z",
+      "edit_history_tweet_ids": [
+        "1875058357536780526"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1137982688529272832",
+            "start": 0,
+            "username": "Riconomi"
+          }
+        ]
+      },
+      "id": "1875058357536780526",
+      "in_reply_to_user_id": "1137982688529272832",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875056990415896783",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Riconomi 哎呀哎呀，积少成多",
+      "url": "https://x.com/taresky/status/1875058357536780526"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875045663538606508",
+      "created_at": "2025-01-03T05:44:12.000Z",
+      "edit_history_tweet_ids": [
+        "1875055541950808416"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1566253420297588736",
+            "start": 0,
+            "username": "llxth1"
+          }
+        ]
+      },
+      "id": "1875055541950808416",
+      "in_reply_to_user_id": "1566253420297588736",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 918,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875054551193342218",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@llxth1 找家里人啊",
+      "url": "https://x.com/taresky/status/1875055541950808416"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874912472198689047",
+      "created_at": "2025-01-03T05:37:49.000Z",
+      "edit_history_tweet_ids": [
+        "1875053932797645267"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1516629293505277953",
+            "start": 0,
+            "username": "Tintinx2021"
+          }
+        ]
+      },
+      "id": "1875053932797645267",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 834,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "@Tintinx2021 瓶子没几毛钱，偷铜缆吧。",
+      "url": "https://x.com/taresky/status/1875053932797645267"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875008817240653836",
+      "created_at": "2025-01-03T05:34:29.000Z",
+      "edit_history_tweet_ids": [
+        "1875053094440243679"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "822561529623093249",
+            "start": 0,
+            "username": "MacroMate8"
+          }
+        ]
+      },
+      "id": "1875053094440243679",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 541,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@MacroMate8 一切顺利！",
+      "url": "https://x.com/taresky/status/1875053094440243679"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875045663538606508",
+      "created_at": "2025-01-03T05:17:13.000Z",
+      "edit_history_tweet_ids": [
+        "1875048750651232352"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "14111651",
+            "start": 0,
+            "username": "nigdaemon"
+          }
+        ]
+      },
+      "id": "1875048750651232352",
+      "in_reply_to_user_id": "14111651",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1962,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875048194138407401",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nigdaemon 不一样，没有要求。看看最早的申请那篇。",
+      "url": "https://x.com/taresky/status/1875048750651232352"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1875046644162744320"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1875046650378608642",
+      "created_at": "2025-01-03T05:08:52.000Z",
+      "edit_history_tweet_ids": [
+        "1875046650378608642"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/W5PLhguYV0",
+            "end": 23,
+            "expanded_url": "https://x.com/taresky/status/1875046650378608642/photo/1",
+            "media_key": "3_1875046644162744320",
+            "start": 0,
+            "url": "https://t.co/W5PLhguYV0"
+          },
+          {
+            "display_url": "",
+            "end": 47,
+            "expanded_url": "",
+            "start": 24,
+            "url": "https://t.co/yrTc4x5Juu"
+          }
+        ]
+      },
+      "id": "1875046650378608642",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11108,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1875046366860439844",
+          "type": "quoted"
+        }
+      ],
+      "text": "https://t.co/W5PLhguYV0 https://t.co/yrTc4x5Juu",
+      "url": "https://x.com/taresky/status/1875046650378608642"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1875045659008737282",
+          "3_1875045659004604416"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1875045663538606508",
+      "created_at": "2025-01-03T05:04:57.000Z",
+      "edit_history_tweet_ids": [
+        "1875045663538606508"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "U卡"
+          },
+          {
+            "end": 15,
+            "start": 4,
+            "tag": "ChatGPTPro"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "t.me/wxjdqtg/99",
+            "end": 70,
+            "expanded_url": "https://t.me/wxjdqtg/99",
+            "start": 47,
+            "url": "https://t.co/6wBbvyDjD8"
+          },
+          {
+            "display_url": "t.me/wxjdqtg/92",
+            "end": 126,
+            "expanded_url": "https://t.me/wxjdqtg/92",
+            "start": 103,
+            "status": 200,
+            "unwound_url": "https://t.me/wxjdqtg/92",
+            "url": "https://t.co/cGhNlWqreK"
+          },
+          {
+            "display_url": "t.me/wxjdqtg/98",
+            "end": 187,
+            "expanded_url": "https://t.me/wxjdqtg/98",
+            "start": 164,
+            "url": "https://t.co/etpdMqBE4F"
+          },
+          {
+            "display_url": "pic.x.com/RXbs9xl78I",
+            "end": 244,
+            "expanded_url": "https://x.com/taresky/status/1875045663538606508/photo/1",
+            "media_key": "3_1875045659008737282",
+            "start": 221,
+            "url": "https://t.co/RXbs9xl78I"
+          },
+          {
+            "display_url": "pic.x.com/RXbs9xl78I",
+            "end": 244,
+            "expanded_url": "https://x.com/taresky/status/1875045663538606508/photo/2",
+            "media_key": "3_1875045659004604416",
+            "start": 221,
+            "url": "https://t.co/RXbs9xl78I"
+          }
+        ]
+      },
+      "id": "1875045663538606508",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "U卡"
+            },
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "ChatGPTPro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/wxjdqtg/99",
+              "end": 70,
+              "expanded_url": "https://t.me/wxjdqtg/99",
+              "start": 47,
+              "url": "https://t.co/hzPaOx2eQh"
+            },
+            {
+              "display_url": "t.me/wxjdqtg/92",
+              "end": 126,
+              "expanded_url": "https://t.me/wxjdqtg/92",
+              "start": 103,
+              "url": "https://t.co/wHNSjeNmKi"
+            },
+            {
+              "display_url": "t.me/wxjdqtg/98",
+              "end": 187,
+              "expanded_url": "https://t.me/wxjdqtg/98",
+              "start": 164,
+              "url": "https://t.co/NJJ532RhSJ"
+            }
+          ]
+        },
+        "text": "#U卡 #ChatGPTPro\n\n💳 如何零元购 ChatGPT Pro 200美元/月\n🔗 https://t.co/hzPaOx2eQh\n\n前面已经写过：\n1. 中国用户如何注册 Bybit Card https://t.co/wHNSjeNmKi\n2. Bybit Card 支付 ChatGPT 等服务 100% 返现 https://t.co/NJJ532RhSJ\n\n整合起来就是有门槛的进阶版：如何零元购 ChatGPT Pro 200美元/月\n\n1. 首先你需要申请卡片，参考上文。\n2. 然后你升级到 VIP3，最简单的方法是往账户里充值 50 万美元，到账之后很快会自动升级，可以把资金撤走。\n3. 实测支付 ChatGPT Pro 套餐也可以获得 100% 返现，正好用掉 VIP3 的 200 美元返现额度。\n4. 支付细节，ChatGPT 的账单地址选日本、德国都会有消费税，可以选美国，然后选择一个免税州地址。\n5. 为了最大化收益，我会使用一个单独的小号 VIP3 来付费 ChatGPT 等 100% 报销的服务，交易主号的卡负责日常消费，VIP5 反 8%。"
+      },
+      "public_metrics": {
+        "bookmark_count": 85,
+        "impression_count": 26337,
+        "like_count": 56,
+        "quote_count": 5,
+        "reply_count": 21,
+        "retweet_count": 6
+      },
+      "text": "#U卡 #ChatGPTPro\n\n💳 如何零元购 ChatGPT Pro 200美元/月\n🔗 https://t.co/6wBbvyDjD8\n\n前面已经写过：\n1. 中国用户如何注册 Bybit Card https://t.co/cGhNlWqreK\n2. Bybit Card 支付 ChatGPT 等服务 100% 返现 https://t.co/etpdMqBE4F\n\n整合起来就是有门槛的进阶版：如何零元购 ChatGPT Pro https://t.co/RXbs9xl78I",
+      "url": "https://x.com/taresky/status/1875045663538606508"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875036743470317696",
+      "created_at": "2025-01-03T04:43:52.000Z",
+      "edit_history_tweet_ids": [
+        "1875040358096359709"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "819374881842171904",
+            "start": 0,
+            "username": "sprzhy"
+          }
+        ]
+      },
+      "id": "1875040358096359709",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1975,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@sprzhy 也有大资金求稳才去的链上，理解不同...",
+      "url": "https://x.com/taresky/status/1875040358096359709"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875036743470317696",
+      "created_at": "2025-01-03T04:29:30.000Z",
+      "edit_history_tweet_ids": [
+        "1875036743470317696"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ]
+      },
+      "id": "1875036743470317696",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Crypto"
+            }
+          ]
+        },
+        "text": "#Crypto\n\n不久前跟一位大佬聊过，为什么他们 Crypto 的一级投资做的很少。\n\n除了他们在大周期上二级赚的比一级多很多之外，还有一个原因就是 Crypto 世界不讲法律，项目方很多都会随意变卦，而且没有好的维权办法。\n\n我觉得对于个体和小型团队来说也一样，做交易、做套利能持续赚钱是立足之道，长期的诚信和口碑是立身之本。\n\n求人不如求己吧。"
+      },
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 30525,
+        "like_count": 49,
+        "quote_count": 2,
+        "reply_count": 6,
+        "retweet_count": 3
+      },
+      "text": "#Crypto\n\n不久前跟一位大佬聊过，为什么他们 Crypto 的一级投资做的很少。\n\n除了他们在大周期上二级赚的比一级多很多之外，还有一个原因就是 Crypto 世界不讲法律，项目方很多都会随意变卦，而且没有好的维权办法。",
+      "url": "https://x.com/taresky/status/1875036743470317696"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875033648904454310",
+      "created_at": "2025-01-03T04:28:42.000Z",
+      "edit_history_tweet_ids": [
+        "1875036539719438544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1379354180964343810",
+            "start": 0,
+            "username": "shenmiren8888"
+          }
+        ]
+      },
+      "id": "1875036539719438544",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 116,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@shenmiren8888 我看看，谢谢",
+      "url": "https://x.com/taresky/status/1875036539719438544"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1875033648904454310",
+      "created_at": "2025-01-03T04:20:11.000Z",
+      "edit_history_tweet_ids": [
+        "1875034399282249968"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1796941787296403456",
+            "start": 0,
+            "username": "mrbitcoinonly"
+          }
+        ]
+      },
+      "id": "1875034399282249968",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 144,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@mrbitcoinonly 那也是项目方当初求人家动嘴的🤷",
+      "url": "https://x.com/taresky/status/1875034399282249968"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-02T11:56:27.000Z",
+      "edit_history_tweet_ids": [
+        "1874786833328111955"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1388161093143461889",
+            "start": 0,
+            "username": "maiff20"
+          }
+        ]
+      },
+      "id": "1874786833328111955",
+      "in_reply_to_user_id": "1388161093143461889",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1360,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874785680527962445",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@maiff20 2个和200个区别是啥，又不会写不下…",
+      "url": "https://x.com/taresky/status/1874786833328111955"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-02T11:09:05.000Z",
+      "edit_history_tweet_ids": [
+        "1874774911333626025"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1420205241404772352",
+            "start": 0,
+            "username": "yanbo2004"
+          }
+        ]
+      },
+      "id": "1874774911333626025",
+      "in_reply_to_user_id": "1420205241404772352",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1749,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874769814381842437",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yanbo2004 我一小时刷一次就足够",
+      "url": "https://x.com/taresky/status/1874774911333626025"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-02T11:08:51.000Z",
+      "edit_history_tweet_ids": [
+        "1874774853032833240"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1181041077534347264",
+            "start": 0,
+            "username": "nosnos0408"
+          }
+        ]
+      },
+      "id": "1874774853032833240",
+      "in_reply_to_user_id": "1181041077534347264",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 146,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874773342290588085",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nosnos0408 @LyleGpt 😂不会有，除非未来某天做成产品",
+      "url": "https://x.com/taresky/status/1874774853032833240"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-02T11:08:13.000Z",
+      "edit_history_tweet_ids": [
+        "1874774693447893195"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1758919535116095488",
+            "start": 0,
+            "username": "void88888888"
+          }
+        ]
+      },
+      "id": "1874774693447893195",
+      "in_reply_to_user_id": "1770280909314674688",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1346,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874768076107034971",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@void88888888 不适合我的需求😂",
+      "url": "https://x.com/taresky/status/1874774693447893195"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-02T11:07:49.000Z",
+      "edit_history_tweet_ids": [
+        "1874774594248450345"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1079579773506994181",
+            "start": 0,
+            "username": "F0tanlaikiOo0o"
+          }
+        ]
+      },
+      "id": "1874774594248450345",
+      "in_reply_to_user_id": "1079579773506994181",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1229,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874767158120775917",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@F0tanlaikiOo0o 是",
+      "url": "https://x.com/taresky/status/1874774594248450345"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1874764534327767040"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1874765449327706382",
+      "created_at": "2025-01-02T10:31:29.000Z",
+      "edit_history_tweet_ids": [
+        "1874765449327706382"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "记账"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/L3ei3DYDv2",
+            "end": 182,
+            "expanded_url": "https://x.com/taresky/status/1874765449327706382/photo/1",
+            "media_key": "3_1874764534327767040",
+            "start": 159,
+            "url": "https://t.co/L3ei3DYDv2"
+          },
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 206,
+            "expanded_url": "https://twitter.com/taresky/status/1869623891158790506",
+            "start": 183,
+            "url": "https://t.co/ZDJRjGUyN0"
+          }
+        ]
+      },
+      "id": "1874765449327706382",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "记账"
+            }
+          ]
+        },
+        "text": "#记账 \n\n📒 基于 Google Sheet 的记账\n\n今天在折腾这个，框架定好了，账本也导入了，明细流水和累计总额搞定了。\n\n还差一个表单独维护 Token 和 外汇价格，引入外部 API，边学边做。\n\n快速录入，用语音转记账流水，之前已经写好了 prompt 一直在用 Moneywiz 格式，改成新格式就行。\n\n后面就是按需求，筛选出各个不同的看板了。\n\n感觉和做一个记账 App 工作内容是差不多的，但是 Google Sheet 实现，一不用会写代码，二可以快很多。"
+      },
+      "public_metrics": {
+        "bookmark_count": 63,
+        "impression_count": 88830,
+        "like_count": 59,
+        "quote_count": 3,
+        "reply_count": 24,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1869623891158790506",
+          "type": "quoted"
+        }
+      ],
+      "text": "#记账 \n\n📒 基于 Google Sheet 的记账\n\n今天在折腾这个，框架定好了，账本也导入了，明细流水和累计总额搞定了。\n\n还差一个表单独维护 Token 和 外汇价格，引入外部 API，边学边做。\n\n快速录入，用语音转记账流水，之前已经写好了 prompt 一直在用 Moneywiz 格式，改成新格式就行。 https://t.co/L3ei3DYDv2 https://t.co/ZDJRjGUyN0",
+      "url": "https://x.com/taresky/status/1874765449327706382"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874735199873044983",
+      "created_at": "2025-01-02T08:36:14.000Z",
+      "edit_history_tweet_ids": [
+        "1874736445401034793"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "1874736445401034793",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4142,
+        "like_count": 17,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874735199873044983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 内燃机好到极致，是无限趋近于… 无刷电机。",
+      "url": "https://x.com/taresky/status/1874736445401034793"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874632981433974881",
+      "created_at": "2025-01-02T01:45:06.000Z",
+      "edit_history_tweet_ids": [
+        "1874632981433974881"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/riverleaf88/st…",
+            "end": 83,
+            "expanded_url": "https://twitter.com/riverleaf88/status/1874607727881933133",
+            "start": 60,
+            "url": "https://t.co/RSLxjV9Q73"
+          }
+        ]
+      },
+      "id": "1874632981433974881",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 19205,
+        "like_count": 17,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1874607727881933133",
+          "type": "quoted"
+        }
+      ],
+      "text": "AI 的一大作用就是教我如何使用 Excel，这才是正确的打开方式，把 AI 的不确定性转化成 Excel 的确定性🤣 https://t.co/RSLxjV9Q73",
+      "url": "https://x.com/taresky/status/1874632981433974881"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1874475443774280187",
+      "created_at": "2025-01-01T15:21:32.000Z",
+      "edit_history_tweet_ids": [
+        "1874476054657822770"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1271777994764419077",
+            "start": 0,
+            "username": "Herikusi6"
+          }
+        ]
+      },
+      "id": "1874476054657822770",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 922,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Herikusi6 不知道出处，刷到微信群",
+      "url": "https://x.com/taresky/status/1874476054657822770"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1645246797831602176",
+        "conversation_id": "1875045663538606508",
+        "created_at": "2025-01-03T10:00:05.000Z",
+        "edit_history_tweet_ids": [
+          "1875119937636966504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1875119937636966504",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1348,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875045663538606508",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我用bybit的美元卡续费ChatGPT Plus一直提示；\n我们未能验证您的支付方式。请选择另一支付方式并重试。 \n不知道是卡的问题还是账号的问题，最后还是用ios的app store内购了, 错过羊毛了😂"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1874764534327767040"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-02T10:31:29.000Z",
+        "edit_history_tweet_ids": [
+          "1874765449327706382"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "记账"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L3ei3DYDv2",
+              "end": 182,
+              "expanded_url": "https://x.com/taresky/status/1874765449327706382/photo/1",
+              "media_key": "3_1874764534327767040",
+              "start": 159,
+              "url": "https://t.co/L3ei3DYDv2"
+            },
+            {
+              "display_url": "x.com/taresky/status…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/taresky/status/1869623891158790506",
+              "start": 183,
+              "url": "https://t.co/ZDJRjGUyN0"
+            }
+          ]
+        },
+        "id": "1874765449327706382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "记账"
+              }
+            ]
+          },
+          "text": "#记账 \n\n📒 基于 Google Sheet 的记账\n\n今天在折腾这个，框架定好了，账本也导入了，明细流水和累计总额搞定了。\n\n还差一个表单独维护 Token 和 外汇价格，引入外部 API，边学边做。\n\n快速录入，用语音转记账流水，之前已经写好了 prompt 一直在用 Moneywiz 格式，改成新格式就行。\n\n后面就是按需求，筛选出各个不同的看板了。\n\n感觉和做一个记账 App 工作内容是差不多的，但是 Google Sheet 实现，一不用会写代码，二可以快很多。"
+        },
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 88830,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869623891158790506",
+            "type": "quoted"
+          }
+        ],
+        "text": "#记账 \n\n📒 基于 Google Sheet 的记账\n\n今天在折腾这个，框架定好了，账本也导入了，明细流水和累计总额搞定了。\n\n还差一个表单独维护 Token 和 外汇价格，引入外部 API，边学边做。\n\n快速录入，用语音转记账流水，之前已经写好了 prompt 一直在用 Moneywiz 格式，改成新格式就行。 https://t.co/L3ei3DYDv2 https://t.co/ZDJRjGUyN0"
+      },
+      {
+        "author_id": "1075926828169064448",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-03T07:47:52.000Z",
+        "edit_history_tweet_ids": [
+          "1875086662730203543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1875086662730203543",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 855,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874765449327706382",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 表计太多记录会卡加载不？"
+      },
+      {
+        "author_id": "166104159",
+        "conversation_id": "1875045663538606508",
+        "created_at": "2025-01-03T06:33:28.000Z",
+        "edit_history_tweet_ids": [
+          "1875067940456022333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1875067940456022333",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1333,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875045663538606508",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 约等于需要先要有100万USDT?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1875056983486914560"
+          ]
+        },
+        "author_id": "1137982688529272832",
+        "conversation_id": "1875045663538606508",
+        "created_at": "2025-01-03T05:49:58.000Z",
+        "edit_history_tweet_ids": [
+          "1875056990415896783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wz1eqXB2kB",
+              "end": 43,
+              "expanded_url": "https://x.com/Riconomi/status/1875056990415896783/photo/1",
+              "media_key": "3_1875056983486914560",
+              "start": 20,
+              "url": "https://t.co/Wz1eqXB2kB"
+            }
+          ]
+        },
+        "id": "1875056990415896783",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3934,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875045663538606508",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 笑死，我刚分享给朋友 https://t.co/Wz1eqXB2kB"
+      },
+      {
+        "author_id": "14111651",
+        "conversation_id": "1875045663538606508",
+        "created_at": "2025-01-03T05:15:00.000Z",
+        "edit_history_tweet_ids": [
+          "1875048194138407401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1875048194138407401",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2203,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875045663538606508",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我一选日本地址就让提交正式身份证明（拘留许可那种） 你是否也是这样呀 选德国就只需要填写地址提供个简单证明就可以\n我想搞个小号用USD结算 现在欧元的好像要算两次手续费😂"
+      },
+      {
+        "author_id": "1570859054322577408",
+        "conversation_id": "1875045663538606508",
+        "created_at": "2025-01-03T05:07:45.000Z",
+        "edit_history_tweet_ids": [
+          "1875046366860439844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1875046366860439844",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12896,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875045663538606508",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 最简单的方法是往账户里充值 50 万美元!!!!!    有这么多钱好意思白嫖200美元吗？"
+      },
+      {
+        "author_id": "1388161093143461889",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-02T11:51:52.000Z",
+        "edit_history_tweet_ids": [
+          "1874785680527962445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1874785680527962445",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1449,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874765449327706382",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 那地址很多咋办，交易所账号很多怎么整"
+      },
+      {
+        "author_id": "1420205241404772352",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-02T10:48:49.000Z",
+        "edit_history_tweet_ids": [
+          "1874769814381842437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1874769814381842437",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2043,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874765449327706382",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 要是能对接交易所api实时刷新就好了"
+      },
+      {
+        "author_id": "1181041077534347264",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-02T11:02:51.000Z",
+        "edit_history_tweet_ids": [
+          "1874773342290588085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "368245720",
+              "start": 9,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1874773342290588085",
+        "in_reply_to_user_id": "1471310582070464512",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874768408119832797",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LyleGpt @taresky 蹲"
+      },
+      {
+        "author_id": "1770280909314674688",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-02T10:41:55.000Z",
+        "edit_history_tweet_ids": [
+          "1874768076107034971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1874768076107034971",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1541,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874765449327706382",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 国内有个投资记账的APP【有知有行】，我把币总当成一个股票来记账，也挺好用的"
+      },
+      {
+        "author_id": "1079579773506994181",
+        "conversation_id": "1874765449327706382",
+        "created_at": "2025-01-02T10:38:16.000Z",
+        "edit_history_tweet_ids": [
+          "1874767158120775917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1874767158120775917",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1364,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874765449327706382",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 哥你现在用的还是Alog吗？"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1869597934196769266",
+        "created_at": "2024-12-19T06:00:46.000Z",
+        "edit_history_tweet_ids": [
+          "1869623891158790506"
+        ],
+        "id": "1869623891158790506",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 49627,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869597934196769266",
+            "type": "replied_to"
+          }
+        ],
+        "text": "看了一圈都还不如 MoneyWiz... 算了转 Google Sheet 吧，一劳永逸。"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "1874735199873044983",
+        "created_at": "2025-01-02T08:31:17.000Z",
+        "edit_history_tweet_ids": [
+          "1874735199873044983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cctvbrother/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/cctvbrother/status/1874702002778992994",
+              "start": 38,
+              "url": "https://t.co/AaVSGMBD66"
+            }
+          ]
+        },
+        "id": "1874735199873044983",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16925,
+          "like_count": 45,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874702002778992994",
+            "type": "quoted"
+          }
+        ],
+        "text": "认真想了五分钟\n\n感觉所谓「好车」优秀的地方，大部分都和内燃机本身无关…… https://t.co/AaVSGMBD66"
+      },
+      {
+        "author_id": "20484009",
+        "conversation_id": "1874607727881933133",
+        "created_at": "2025-01-02T00:04:45.000Z",
+        "edit_history_tweet_ids": [
+          "1874607727881933133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/henuwangkai/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/henuwangkai/status/1874408726880555147",
+              "start": 60,
+              "url": "https://t.co/VHM2V6Y74e"
+            }
+          ]
+        },
+        "id": "1874607727881933133",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 23256,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874408726880555147",
+            "type": "quoted"
+          }
+        ],
+        "text": "飞书表单咋就不支持了？简单的用&amp;符号写个公式就支持的excel基本功能……\nAI是很好，但是下次例子别乱举了。 https://t.co/VHM2V6Y74e"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1645246797831602176",
+        "name": "x1024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048798468786016257/5B9MKnEg_normal.jpg",
+        "username": "0x10240",
+        "verified": false
+      },
+      {
+        "id": "1075926828169064448",
+        "name": "Micro Bubbles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743957909397254144/cAR5gfn9_normal.jpg",
+        "username": "Micr0_Bubbles",
+        "verified": false
+      },
+      {
+        "id": "166104159",
+        "name": "王鱼翅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1213418830132731904/fiszHuED_normal.jpg",
+        "username": "wych42",
+        "verified": false
+      },
+      {
+        "id": "1137982688529272832",
+        "name": "里里Rico",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738205090752929793/eUkSgvpu_normal.jpg",
+        "username": "Riconomi",
+        "verified": false
+      },
+      {
+        "id": "1566253420297588736",
+        "name": "triple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779097599376498688/lKl6iTyv_normal.jpg",
+        "username": "llxth1",
+        "verified": false
+      },
+      {
+        "id": "14111651",
+        "name": "xiakezhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593178268483534848/yPDOxW8m_normal.jpg",
+        "username": "nigdaemon",
+        "verified": false
+      },
+      {
+        "id": "1388161093143461889",
+        "name": "加密蟹黄堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646516028321722369/jekrsZlU_normal.jpg",
+        "username": "maiff20",
+        "verified": false
+      },
+      {
+        "id": "1420205241404772352",
+        "name": "烟波 Yanbo🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "username": "yanbo2004",
+        "verified": false
+      },
+      {
+        "id": "1181041077534347264",
+        "name": "Turing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1264135396524347392/BePZzEAd_normal.jpg",
+        "username": "nosnos0408",
+        "verified": false
+      },
+      {
+        "id": "1770280909314674688",
+        "name": "无名 Void",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770281641786957825/-2aYx4_d_normal.jpg",
+        "username": "0xxxvoid",
+        "verified": false
+      },
+      {
+        "id": "1079579773506994181",
+        "name": "Morianda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2124016744171974656/Jk2XFFLx_normal.jpg",
+        "username": "F0tanlaikiOo0o",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1875754082578858298",
+    "next_token": "b26v89c19zqg8o3frr6sc30dv6n13chezmja72ntj6oot",
+    "oldest_id": "1874476054657822770",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1875054551193342218].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1875054551193342218",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1875054551193342218"
+    }
+  ]
+}

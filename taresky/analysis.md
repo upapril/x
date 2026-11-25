@@ -1,51 +1,38 @@
-# Analysis — @taresky (𝘁𝗮𝗿𝗲𝘀𝗸𝘆)
+# @taresky — day2 analysis, explicitly partial
 
-**Corpus (day-1 initial sample only):** 224 unique stored posts, 2016-12-15 08:47:22 GMT+8 → 2026-11-24 17:10:31 GMT+8 (Asia/Shanghai). Types: original 53, reply 138, quote 22, repost 11. Profile `post_count` at 24 Nov 2026 20:31 GMT+8 lookup: **34,003**. Followers: 55,145.
+**25 Nov 2026, Asia/Shanghai (GMT+8).** 8,551 deduplicated captured posts. Start with `coverage_manifest.md`; archives are indexed by UTC year. Profile identity is public account wording only; no private legal-name inference. All performance, fills, forecasts, third-party allegations and market facts below remain the author's statements unless a separate source is expressly identified. This is an evidence-led reading guide, not an audited track record or investment advice. A post being present proves what the captured response says, not that the strategy worked or every underlying event occurred.
 
-**Coverage (read this first).** This is **not** a complete history and is not close to one. Day-1 collection was a budget-limited public sample: the profile, one recent `get_users_posts` page, first pages of nine dated windows (2026-11, 2026-10, 2026-06, 2025-12, 2025-06, 2024-12, 2022-12, 2021-01, 2016-12), and the pinned post (expansion 404, later retrieved with `get_posts_by_ids`). Every dated window still has a `next_token`. Account created 2011-09-05; most months from 2011–2026 were not opened. Year counts of 25 are first-page / year-end sampling artifacts, not proof of low activity. See `coverage_manifest.md` and `../logs/remaining_jobs_day1.json`.
+The earlier day1 narrative is retained as a **historical snapshot**, not current coverage authority, in `../logs/historical_narratives_day1/`. Source excerpts and author checks for this synthesis are in `../logs/day2_citation_ledger.json`.
 
-Public identity is taken only from the public profile and posts: display name 𝘁𝗮𝗿𝗲𝘀𝗸𝘆; bio text `套利 1~100x | 2021~2025.6`; website expanded to https://taresky.com; verified_type blue. **No legal name or private-life inference is made.** Bio wording is not a verified track record.
+## Core idea and the most important day2 correction
 
-Times below are Asia/Shanghai (GMT+8) unless labeled UTC.
+**Interpretation:** a risk-budgeted arbitrage/technical operator, not a permanently exposure-free machine. The 224-post day1 sample was too thin to infer continuity from a 2022 manifesto. Day2 expands this to 8,551 posts: 2025 and 2026 are now substantial, while much pre-2024 history remains untouched. Dates show a change already underway in **2024**, not merely after the bio's `2025.6` endpoint.
 
----
+## Chronological evidence
 
-## Core operating model (from the posts we have)
+- **2022 baseline:** “只套利，不承担风险敞口” — [2022-12-28 21:38:54 GMT+8](https://x.com/taresky/status/1608095146834563072) This is the rule then; the associated return/drawdown claims in [2022-12-28 21:38:53 GMT+8](https://x.com/taresky/status/1608095141713305600) are unverified.
+- **9 Nov 2024 — explicit broadening:** “今年不得不去研究一些风险敞口不那么确定的、周期又比较长的策略。” — [2024-11-09 15:10:45 GMT+8](https://x.com/taresky/status/1855145990510329859) The same post says “并且可以接受一些回撤了” — [2024-11-09 15:10:45 GMT+8](https://x.com/taresky/status/1855145990510329859) This directly qualifies an absolute, timeless reading of the 2022 line. It is self-described adaptation, not evidence of dishonesty or of a specific loss.
+- **9 Dec 2024 — documentation before opinion:** “懂得自己亲手去验证的新人，比什么 KOL、老 OG 都强。” — [2024-12-09 17:21:41 GMT+8](https://x.com/taresky/status/1866050575428931769) His discussion of sUSDe/AAVE risk and arbitraging fear is not an audit of those protocols. The linked April article was not fetched in this pass.
+- **15 Mar 2025 — personal risk budget:** “实际的风险杠杆，算了下是 0.25 倍。” — [2025-03-15 10:29:21 GMT+8](https://x.com/taresky/status/1900736043835683192) He says he kept 0.25x rather than doubling potential profit at 0.5x, because a misunderstood outcome could create a large actual loss. This is **his undefined risk-leverage measure**, not necessarily exchange displayed leverage or a portable cap.
+- **26 Jun 2025 — bounded exception, not zero exceptions:** “带敞口的交易次数，可能每年不会超过 3 次。” — [2025-06-26 20:32:42 GMT+8](https://x.com/taresky/status/1938213833245659239) He lists ENA/CRV shorts and BTC long; his statement that he can hardly remember losing is not a verified sample or win rate.
+- **1 Jul 2025 — execution plumbing:** “前人没有解决好的有且只有一件事：mint/redeem。” — [2025-07-01 10:17:10 GMT+8](https://x.com/taresky/status/1939870865598128476) The post breaks this into who can mint/redeem, how quickly, and spread/depth/friction. That is a concrete how-to lens: authority, latency and exit mechanics before nominal yield.
+- **21 Oct 2025 — capacity/yield assertion:** he calls an AAVE PT looping opportunity low risk and estimates capacity/APR in [2025-10-21 10:19:35 GMT+8](https://x.com/taresky/status/1980458916095095131). Those estimates are not independently checked and do not establish risk-free return.
+- **10 Nov 2025 — proposed revenue transition:** “大概率明年的主要收入就不是 DeFi / 套利了。” — [2025-11-10 09:06:12 GMT+8](https://x.com/taresky/status/1987688205093896685) This is a forecast, not confirmation of revenue mix.
+- **14 Sep 2026 — operating a token-reseller business:** “做了快一个月 token 批发生意了” — [2026-09-14 08:21:36 GMT+8](https://x.com/taresky/status/2099292446035427479) He discusses upstream data/privacy tail risk and says “我们不留数据，但也无法自证这一点。” — [2026-09-14 08:21:36 GMT+8](https://x.com/taresky/status/2099292446035427479) This supports a later public business focus, not the claim that 99% of all providers leak data; that percentage is his conjecture.
 
-The clearest **explicit** strategy statement in this sample is from a 28 Dec 2022 thread, not from the 2025–2026 pages:
+## Rules versus a researcher's how-to
 
-> 自从我了解到 Crypto 这件事物起，我的风格、策略、预期就从未改变：只套利，不承担风险敞口。
+**Stated:** focus on arb; admit only a few directional exceptions; keep personal risk leverage low enough to execute; inspect protocol documentation and redemption mechanics; abandon opportunities whose profit/risk/capacity does not fit. The low-risk pool return/drawdown summary in [2025-11-14 10:51:32 GMT+8](https://x.com/taresky/status/1989164267254464681) is an author self-report, not capital-verified P&L.
 
-Source: [1608095146834563072](https://x.com/taresky/status/1608095146834563072) (2022-12-28 21:38:54 GMT+8). In the same thread he says he prefers bear markets because others blow up, calls the game zero-sum, and (in the root post) self-reports 2021 APY “大致 200%” with max drawdown “不超过 10%,” and 2022 APY “也超过 50%” with max drawdown “不超过 5%,” plus “Fuck you money” and that most of the money was made in the half-year *not* spent at a job ([1608095141713305600](https://x.com/taresky/status/1608095141713305600)). **Those P&L figures are self-reported and unverified.**
-
-A same-day year-end post breaks 2022 income (self-reported, “脱敏”) as 73% investment, 16% from a half-year of work “包括基本工资、作为基金经理的业绩收入,” and 4% outsourcing ([1609076695885307907](https://x.com/taresky/status/1609076695885307907)). The pinned post (2023-09-09) frames a career arc in hashtags — “数字游民和自由职业,” “从产品经理到基金经理” — and says that before taking a job he had been “有点天真，认为靠自己的劳动，创造价值挣钱才是社会的主流” ([1700606366606565686](https://x.com/taresky/status/1700606366606565686)).
-
-**Interpretation (not something this sample can prove as a continuing rule):** in late 2022 he presented himself as a no-directional-exposure crypto arbitrage operator who also did a period of fund-manager / product-manager work. The current bio dates that arb window as `2021~2025.6`. The 2025-06, 2025-12, and 2026 pages in *this* sample are dominated by tooling, AI/app building, and product/affiliate notes; they do **not** repeat “只套利，不承担风险敞口.” Absence in a thin sample is not proof he stopped, and it is not proof the bio end-date marks a style change. That question is still open for later pages.
-
----
-
-## How-to / rules that actually appear
-
-- **Partnership rule (2026-06-29):** “我找人合作/合伙的标准是：愿意跟这个人平分所有收益。要不然就不要合作，走雇佣，供参考。” ([2071431063684178369](https://x.com/taresky/status/2071431063684178369)). This is a cooperation rule, not a market-entry rule.
-- **Self-employment preference (2022-12-29):** “21 年已经完成副业到全职的转换了，给自己打工的时候效率永远是最高的。” ([1608300180427644928](https://x.com/taresky/status/1608300180427644928)).
-- **Operational security (2025-12-26):** after a Trust Wallet incident, he says it is a wallet he uses for “临时 or 机器人私钥生成,” and “建议最近不要打开这个App，如果非要打开，一定不要联网…等完整事故报告出来之后再联网。” ([2004389388479091056](https://x.com/taresky/status/2004389388479091056)).
-- **“破除迷信” (2022-12-28)** in the same arb thread: institutions can miss obvious basis (he cites CEX desks missing a CRV 10% 期现价差 “两轮”); domain jumpers are beginners ([1608095148910710784](https://x.com/taresky/status/1608095148910710784)). This is an argument about *who is actually competing*, not a sizing formula.
-
-Insurance-as-leverage remarks in Jan 2021 ([1355813095877144578](https://x.com/taresky/status/1355813095877144578)) are about household cash and insurance, not trading leverage. Do not transplant them as a trading rule.
-
-This sample does **not** contain an explicit entry/exit, position-size, or invalidation playbook comparable to the 2023 rule list stored for @silverfang88.
-
----
+**Our study procedure, not his advertised system:** map every leg, collateral currency, borrow cost, funding path, redemption permission and latency; model a depeg/withdrawal freeze plus borrow-rate spike; record gross leverage separately from net delta and liquidation distance; calculate capacity after fees. Test the operational route in simulation, not by copying historical yield figures. The corpus does not supply full code, positions, hedge ratios or audited cash flows.
 
 ## Contradictions and limits
 
-- Self-reported returns and “Fuck you money” are not audited. Treat them as claims in a dated post.
-- “风格、策略、预期就从未改变：只套利” (Dec 2022) versus a bio that *ends* the stated arb period in mid-2025, versus 2025–2026 sampled posts that do not restate the arb rule: this is a **tension to check**, not a proven style change.
-- 2011–2015, most of 2016–2021, and most months of 2022–2026 are not in the store. Any “he always/never” claim is unsupported.
-- Monetization / invite / cashback posts appear in the 2026 sample; they sit beside the craft talk, as with the other trader accounts.
+1. **2022 zero exposure vs 2024 uncertain exposure vs 2025 rare discretionary trades:** a dated evolution is now supported. Day1's gap is no longer merely absence of repeated slogans.
+2. **Low-risk / zero-drawdown return claims vs admitted anxiety and tolerated mark-to-market drawdown:** dates, pools and denominators differ. Do not mechanically subtract them or allege a contradiction in the same fund without matching positions.
+3. **“无风险” marketing language vs legal, venue, oracle, liquidity and privacy risks:** his own later posts acknowledge several non-price risks. “Arbitrage” does not remove tail risk.
+4. Bio recommendations/affiliate links are a commercial context, not proof of bad faith. Public essays and t.co links are not automatically full strategy disclosure; attached media and linked articles were not all downloaded.
 
----
+## Coverage and next work
 
-## Practical test (not advice)
-
-If someone wanted to *test* the 2022 stated model rather than the author’s biography: it would be a market-neutral / basis / funding book with a tight drawdown cap, not a directional “story” book. This research has **no** fill data, no backtest, and no evidence that the self-reported APY or drawdowns are reproducible. The 2025–2026 sample is too thin to say whether that model is still what he does.
+All attempted Jan–Nov 2026 monthly searches terminated within saved bounds. All 2025 monthly jobs are terminal. Open 2024 Sep/Oct/Nov cursors remain; 2024 Jan–Aug and older pending/no-job months need work. The recent timeline cursor overlaps completed monthly searches and should not be wastefully rewalked. See exact tokens in the root continuation manifest. **No complete-history claim.**

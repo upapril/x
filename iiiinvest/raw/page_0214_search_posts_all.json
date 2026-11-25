@@ -1,0 +1,1800 @@
+{
+  "collected_at_utc": "2026-11-25T00:20:17Z",
+  "collected_at_shanghai": "2026-11-25T08:20:17+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8815EHNM3WEYSHGKD7TH96B.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2026-07-01T00:00:00Z",
+    "end_time": "2026-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juetiu3pwrn98hk6kkpu00ab83qovx",
+    "window_label": "2026-07"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077765457789198534",
+      "created_at": "2026-07-16T14:41:02.000Z",
+      "edit_history_tweet_ids": [
+        "2077765457789198534"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 65,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2077764025040150869",
+            "start": 42,
+            "url": "https://t.co/rGCSXJ8K3D"
+          }
+        ]
+      },
+      "id": "2077765457789198534",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16552,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077764025040150869",
+          "type": "quoted"
+        }
+      ],
+      "text": "22:40，SpaceX 跌破135，别挣扎了，让我们看到底能跌到哪吧！👏🏻掌声！ https://t.co/rGCSXJ8K3D",
+      "url": "https://x.com/iiiinvest/status/2077765457789198534"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077764025040150869",
+      "created_at": "2026-07-16T14:35:21.000Z",
+      "edit_history_tweet_ids": [
+        "2077764025040150869"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 93,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2077752401906565254",
+            "start": 70,
+            "url": "https://t.co/6fyEHh9FIa"
+          }
+        ]
+      },
+      "id": "2077764025040150869",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 27782,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 19,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077752401906565254",
+          "type": "quoted"
+        }
+      ],
+      "text": "22:30，SpaceX 今晚应该还是会测试135的支撑，所谓星舰发射更多是情绪面，改变不了大势。\n\n还是那句：要么爆量砸出低，要么磨底。 https://t.co/6fyEHh9FIa",
+      "url": "https://x.com/iiiinvest/status/2077764025040150869"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077752401906565254",
+      "created_at": "2026-07-16T13:49:10.000Z",
+      "edit_history_tweet_ids": [
+        "2077752401906565254"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 70,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2077749927263031677",
+            "start": 47,
+            "url": "https://t.co/vTbOYbHVcc"
+          }
+        ]
+      },
+      "id": "2077752401906565254",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 23510,
+        "like_count": 16,
+        "quote_count": 1,
+        "reply_count": 21,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077749927263031677",
+          "type": "quoted"
+        }
+      ],
+      "text": "21:50，有一说一SpaceX 大火箭今天挺硬！但硬不逢时，今天人家姑娘（大盘）不接客啊！ https://t.co/vTbOYbHVcc",
+      "url": "https://x.com/iiiinvest/status/2077752401906565254"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077749927263031677",
+      "created_at": "2026-07-16T13:41:31.000Z",
+      "edit_history_tweet_ids": [
+        "2077750477757075676"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2054568645200953344",
+            "start": 0,
+            "username": "Aaaaayuu_"
+          }
+        ]
+      },
+      "id": "2077750477757075676",
+      "in_reply_to_user_id": "2054568645200953344",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 625,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077750048696516721",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Aaaaayuu_ 不应该早设置吗",
+      "url": "https://x.com/iiiinvest/status/2077750477757075676"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077749927263031677",
+      "created_at": "2026-07-16T13:39:20.000Z",
+      "edit_history_tweet_ids": [
+        "2077749927263031677"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 56,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2077728734413729799",
+            "start": 33,
+            "url": "https://t.co/2vRp8uWA1h"
+          }
+        ]
+      },
+      "id": "2077749927263031677",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 22879,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 21,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077728734413729799",
+          "type": "quoted"
+        }
+      ],
+      "text": "21:40，开盘了，SpaceX 微硬，空单不动，等我再探再报！ https://t.co/2vRp8uWA1h",
+      "url": "https://x.com/iiiinvest/status/2077749927263031677"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077711439205396634",
+      "created_at": "2026-07-16T13:28:56.000Z",
+      "edit_history_tweet_ids": [
+        "2077747309878882514"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1663749852965240834",
+            "start": 0,
+            "username": "traders18"
+          }
+        ]
+      },
+      "id": "2077747309878882514",
+      "in_reply_to_user_id": "1663749852965240834",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1308,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077711439205396634",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@traders18 洗洗睡吧",
+      "url": "https://x.com/iiiinvest/status/2077747309878882514"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077745112172609552",
+      "created_at": "2026-07-16T13:20:12.000Z",
+      "edit_history_tweet_ids": [
+        "2077745112172609552"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 111,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2077671681179709820",
+            "start": 88,
+            "url": "https://t.co/YcZAcCi0sN"
+          }
+        ]
+      },
+      "id": "2077745112172609552",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 20345,
+        "like_count": 45,
+        "quote_count": 5,
+        "reply_count": 38,
+        "retweet_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077671681179709820",
+          "type": "quoted"
+        }
+      ],
+      "text": "马上开盘之际，我，要求你们，现在，都转发下推，以后有人搜索就知道他是骗子了，千秋万代打在耻辱柱上，利己利人，送福报给后人！\n\n现在！马上！引用下推转发！附“美股仙人是骗子！” https://t.co/YcZAcCi0sN",
+      "url": "https://x.com/iiiinvest/status/2077745112172609552"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077728734413729799",
+      "created_at": "2026-07-16T13:13:57.000Z",
+      "edit_history_tweet_ids": [
+        "2077743539405095077"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1620402665225355264",
+            "start": 0,
+            "username": "Dazed1992Y"
+          }
+        ]
+      },
+      "id": "2077743539405095077",
+      "in_reply_to_user_id": "1620402665225355264",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 872,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077741591234851186",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Dazed1992Y 闪迪看美光",
+      "url": "https://x.com/iiiinvest/status/2077743539405095077"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077728734413729799",
+      "created_at": "2026-07-16T12:15:07.000Z",
+      "edit_history_tweet_ids": [
+        "2077728734413729799"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 64,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2077685585444258164",
+            "start": 41,
+            "url": "https://t.co/bRolieNUFG"
+          }
+        ]
+      },
+      "id": "2077728734413729799",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 25490,
+        "like_count": 28,
+        "quote_count": 1,
+        "reply_count": 42,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077685585444258164",
+          "type": "quoted"
+        }
+      ],
+      "text": "20:10，盘前大盘跌，半导体存储崩的更猛，今晚又是收获的一天啊！兄弟们啊！啊！ https://t.co/bRolieNUFG",
+      "url": "https://x.com/iiiinvest/status/2077728734413729799"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077714754173636816",
+      "created_at": "2026-07-16T11:25:19.000Z",
+      "edit_history_tweet_ids": [
+        "2077716204693962823"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1437591550381330434",
+            "start": 0,
+            "username": "_TAOLIMAO"
+          }
+        ]
+      },
+      "id": "2077716204693962823",
+      "in_reply_to_user_id": "1437591550381330434",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1835,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077714754173636816",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_TAOLIMAO 猫猫也搞抽象",
+      "url": "https://x.com/iiiinvest/status/2077716204693962823"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077626867297681867",
+      "created_at": "2026-07-16T11:13:23.000Z",
+      "edit_history_tweet_ids": [
+        "2077713200024596749"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "44196397",
+            "start": 0,
+            "username": "elonmusk"
+          }
+        ]
+      },
+      "id": "2077713200024596749",
+      "in_reply_to_user_id": "44196397",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1934,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077626867297681867",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@elonmusk SPCX go to moon",
+      "url": "https://x.com/iiiinvest/status/2077713200024596749"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077709913858646269",
+      "created_at": "2026-07-16T11:06:51.000Z",
+      "edit_history_tweet_ids": [
+        "2077711554938880242"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "2060686148318769152",
+            "start": 0,
+            "username": "MilesSmilesc1"
+          }
+        ]
+      },
+      "id": "2077711554938880242",
+      "in_reply_to_user_id": "2060686148318769152",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 831,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077710081530225093",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MilesSmilesc1 才华外溢",
+      "url": "https://x.com/iiiinvest/status/2077711554938880242"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077709913858646269",
+      "created_at": "2026-07-16T11:00:20.000Z",
+      "edit_history_tweet_ids": [
+        "2077709913858646269"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/f5KGsznJIg",
+            "end": 77,
+            "expanded_url": "https://x.com/iiiinvest/status/2077709913858646269/photo/1",
+            "media_key": "3_2077709907156172800",
+            "start": 54,
+            "url": "https://t.co/f5KGsznJIg"
+          },
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 101,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2076966601170255904",
+            "start": 78,
+            "url": "https://t.co/h1akQV5TYz"
+          }
+        ]
+      },
+      "id": "2077709913858646269",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 20345,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 25,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2076966601170255904",
+          "type": "quoted"
+        }
+      ],
+      "text": "看着台积电财报后的表现，结合前几天CPI利好后的下跌，什么感受？选择错了方向一切白搭，茅坑里跳绳你过粪了！ https://t.co/f5KGsznJIg https://t.co/h1akQV5TYz",
+      "url": "https://x.com/iiiinvest/status/2077709913858646269"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077685585444258164",
+      "created_at": "2026-07-16T09:53:11.000Z",
+      "edit_history_tweet_ids": [
+        "2077693016429797578"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2063938419009724416",
+            "start": 0,
+            "username": "xinchengzhyrvf"
+          }
+        ]
+      },
+      "id": "2077693016429797578",
+      "in_reply_to_user_id": "2063938419009724416",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 719,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077690093691924661",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xinchengzhyrvf 昨天不是刚空了海力士吗",
+      "url": "https://x.com/iiiinvest/status/2077693016429797578"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077685585444258164",
+      "created_at": "2026-07-16T09:52:50.000Z",
+      "edit_history_tweet_ids": [
+        "2077692928848548319"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2047847867088297984",
+            "start": 0,
+            "username": "yuenbo97"
+          }
+        ]
+      },
+      "id": "2077692928848548319",
+      "in_reply_to_user_id": "2047847867088297984",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 789,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077688783705919792",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yuenbo97 不改大趋势",
+      "url": "https://x.com/iiiinvest/status/2077692928848548319"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077685585444258164",
+      "created_at": "2026-07-16T09:23:39.000Z",
+      "edit_history_tweet_ids": [
+        "2077685585444258164"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 20,
+            "start": 15,
+            "tag": "SPCX"
+          }
+        ]
+      },
+      "id": "2077685585444258164",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 22185,
+        "like_count": 25,
+        "quote_count": 1,
+        "reply_count": 23,
+        "retweet_count": 0
+      },
+      "text": "17:20，盘前SpaceX $SPCX 135，+0.4%，略强于大盘，但整体依旧处于下跌趋势，空单继续拿稳！再探再报！",
+      "url": "https://x.com/iiiinvest/status/2077685585444258164"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077661601302495605",
+      "created_at": "2026-07-16T09:01:52.000Z",
+      "edit_history_tweet_ids": [
+        "2077680102620717227"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1830556171150991360",
+            "start": 0,
+            "username": "Money_or_Life_X"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/wypDNzkQ4u",
+            "end": 51,
+            "expanded_url": "https://x.com/iiiinvest/status/2077680102620717227/photo/1",
+            "media_key": "3_2077680093586128896",
+            "start": 28,
+            "url": "https://t.co/wypDNzkQ4u"
+          }
+        ]
+      },
+      "id": "2077680102620717227",
+      "in_reply_to_user_id": "1830556171150991360",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4382,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077661601302495605",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Money_or_Life_X 难，那是因为没选对！ https://t.co/wypDNzkQ4u",
+      "url": "https://x.com/iiiinvest/status/2077680102620717227"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077671681179709820",
+      "created_at": "2026-07-16T08:43:55.000Z",
+      "edit_history_tweet_ids": [
+        "2077675584822575538"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2008578309492535297",
+            "start": 0,
+            "username": "YuCheng40262"
+          }
+        ]
+      },
+      "id": "2077675584822575538",
+      "in_reply_to_user_id": "2008578309492535297",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3227,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077673601051075038",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@YuCheng40262 对，长期持有≈让人慢性自杀，因为没几个人懂企业经营！",
+      "url": "https://x.com/iiiinvest/status/2077675584822575538"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077630171277115654",
+      "created_at": "2026-07-16T08:38:12.000Z",
+      "edit_history_tweet_ids": [
+        "2077674148214824993"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1437630599246712833",
+            "start": 0,
+            "username": "rickfan133"
+          }
+        ]
+      },
+      "id": "2077674148214824993",
+      "in_reply_to_user_id": "1437630599246712833",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 952,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077672718380695661",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rickfan133 企业从来不是送钱的",
+      "url": "https://x.com/iiiinvest/status/2077674148214824993"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077671681179709820",
+      "created_at": "2026-07-16T08:28:24.000Z",
+      "edit_history_tweet_ids": [
+        "2077670820915417249",
+        "2077671681179709820"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/U1i7LuNSLY",
+            "end": 150,
+            "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/1",
+            "media_key": "3_2077670803630612480",
+            "start": 127,
+            "url": "https://t.co/U1i7LuNSLY"
+          },
+          {
+            "display_url": "pic.x.com/U1i7LuNSLY",
+            "end": 150,
+            "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/2",
+            "media_key": "3_2077670803622215680",
+            "start": 127,
+            "url": "https://t.co/U1i7LuNSLY"
+          },
+          {
+            "display_url": "pic.x.com/U1i7LuNSLY",
+            "end": 150,
+            "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/3",
+            "media_key": "3_2077670803127291904",
+            "start": 127,
+            "url": "https://t.co/U1i7LuNSLY"
+          },
+          {
+            "display_url": "pic.x.com/U1i7LuNSLY",
+            "end": 150,
+            "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/4",
+            "media_key": "3_2077670803123142656",
+            "start": 127,
+            "url": "https://t.co/U1i7LuNSLY"
+          }
+        ]
+      },
+      "id": "2077671681179709820",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 72249,
+        "like_count": 129,
+        "quote_count": 4,
+        "reply_count": 51,
+        "retweet_count": 20
+      },
+      "text": "美股仙人，骗子+傻子\n\n骗，骗粉丝买在高点，高点拿住！自己仓位不敢发！\n\n傻，分不清交易和价值，长线你麻痹，就知道说大路话，怎么会有你这傻逼玩意！\n\n我现在给你排毒，等过段时间你粉丝看回本无望，有你受的！\n\n傻逼把我拉黑了，给我顶起来，曝光这傻逼骗子！ https://t.co/U1i7LuNSLY",
+      "url": "https://x.com/iiiinvest/status/2077671681179709820"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077670820915417249",
+      "created_at": "2026-07-16T08:24:59.000Z",
+      "edit_history_tweet_ids": [
+        "2077670820915417249",
+        "2077671681179709820"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/yMgk1mGRNX",
+            "end": 163,
+            "expanded_url": "https://x.com/iiiinvest/status/2077670820915417249/photo/1",
+            "media_key": "3_2077670803630612480",
+            "start": 140,
+            "url": "https://t.co/yMgk1mGRNX"
+          },
+          {
+            "display_url": "pic.x.com/yMgk1mGRNX",
+            "end": 163,
+            "expanded_url": "https://x.com/iiiinvest/status/2077670820915417249/photo/2",
+            "media_key": "3_2077670803622215680",
+            "start": 140,
+            "url": "https://t.co/yMgk1mGRNX"
+          },
+          {
+            "display_url": "pic.x.com/yMgk1mGRNX",
+            "end": 163,
+            "expanded_url": "https://x.com/iiiinvest/status/2077670820915417249/photo/3",
+            "media_key": "3_2077670803127291904",
+            "start": 140,
+            "url": "https://t.co/yMgk1mGRNX"
+          },
+          {
+            "display_url": "pic.x.com/yMgk1mGRNX",
+            "end": 163,
+            "expanded_url": "https://x.com/iiiinvest/status/2077670820915417249/photo/4",
+            "media_key": "3_2077670803123142656",
+            "start": 140,
+            "url": "https://t.co/yMgk1mGRNX"
+          }
+        ]
+      },
+      "id": "2077670820915417249",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 842,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "傻逼 美股仙人 把我拉黑了\n\n他，骗子+傻子\n\n骗，骗粉丝买在高点，高点拿住！自己仓位不敢发！“海力士绝逼高开”\n\n傻，分不清交易和价值，长线你麻痹，就知道说大路话，怎么会有你这傻逼玩意！\n\n我现在给你排毒，等过段时间你粉丝看回本无望，有你受的！\n\n给我顶起来，曝光这傻逼骗子！ https://t.co/yMgk1mGRNX",
+      "url": "https://x.com/iiiinvest/status/2077670820915417249"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077656173248213059",
+      "created_at": "2026-07-16T07:26:47.000Z",
+      "edit_history_tweet_ids": [
+        "2077656173248213059"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/iiiinvest/stat…",
+            "end": 48,
+            "expanded_url": "https://twitter.com/iiiinvest/status/2076902456127300048",
+            "start": 25,
+            "url": "https://t.co/4rHW7030aY"
+          }
+        ]
+      },
+      "id": "2077656173248213059",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 24966,
+        "like_count": 36,
+        "quote_count": 0,
+        "reply_count": 36,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2076902456127300048",
+          "type": "quoted"
+        }
+      ],
+      "text": "今天海力士又暴跌，想要抄底的，给我再看一遍！！！ https://t.co/4rHW7030aY",
+      "url": "https://x.com/iiiinvest/status/2077656173248213059"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077653260094284052",
+      "created_at": "2026-07-16T07:20:21.000Z",
+      "edit_history_tweet_ids": [
+        "2077654556817883170"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1507631541303713793",
+            "start": 0,
+            "username": "xiaomustock"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/94ofmuC0Ym",
+            "end": 52,
+            "expanded_url": "https://x.com/iiiinvest/status/2077654556817883170/photo/1",
+            "media_key": "3_2077654549486342144",
+            "start": 29,
+            "url": "https://t.co/94ofmuC0Ym"
+          }
+        ]
+      },
+      "id": "2077654556817883170",
+      "in_reply_to_user_id": "1507631541303713793",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10750,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077653260094284052",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xiaomustock 这就对了，川总加入我军，优待！ https://t.co/94ofmuC0Ym",
+      "url": "https://x.com/iiiinvest/status/2077654556817883170"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077598451098099825",
+      "created_at": "2026-07-16T07:18:56.000Z",
+      "edit_history_tweet_ids": [
+        "2077654197642932295"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1391080697037656064",
+            "start": 0,
+            "username": "Web3Feng"
+          }
+        ]
+      },
+      "id": "2077654197642932295",
+      "in_reply_to_user_id": "1391080697037656064",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1159,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2077598451098099825",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Web3Feng 短线好事？左右挨打吧",
+      "url": "https://x.com/iiiinvest/status/2077654197642932295"
+    },
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "2077651419566600372",
+      "created_at": "2026-07-16T07:07:53.000Z",
+      "edit_history_tweet_ids": [
+        "2077651419566600372"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/wittycakee/sta…",
+            "end": 68,
+            "expanded_url": "https://twitter.com/wittycakee/status/2076714191189373109",
+            "start": 45,
+            "url": "https://t.co/4RPPFxlWPp"
+          }
+        ]
+      },
+      "id": "2077651419566600372",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 13782,
+        "like_count": 45,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2076714191189373109",
+          "type": "quoted"
+        }
+      ],
+      "text": "看到这条评论，咱别这小家子气。美股市场很大，另外我不需要激励啊，粉丝涨点比我赚钱都开心！ https://t.co/4RPPFxlWPp",
+      "url": "https://x.com/iiiinvest/status/2077651419566600372"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2077764025040150869",
+        "created_at": "2026-07-16T14:35:21.000Z",
+        "edit_history_tweet_ids": [
+          "2077764025040150869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2077752401906565254",
+              "start": 70,
+              "url": "https://t.co/6fyEHh9FIa"
+            }
+          ]
+        },
+        "id": "2077764025040150869",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27782,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077752401906565254",
+            "type": "quoted"
+          }
+        ],
+        "text": "22:30，SpaceX 今晚应该还是会测试135的支撑，所谓星舰发射更多是情绪面，改变不了大势。\n\n还是那句：要么爆量砸出低，要么磨底。 https://t.co/6fyEHh9FIa"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2077752401906565254",
+        "created_at": "2026-07-16T13:49:10.000Z",
+        "edit_history_tweet_ids": [
+          "2077752401906565254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2077749927263031677",
+              "start": 47,
+              "url": "https://t.co/vTbOYbHVcc"
+            }
+          ]
+        },
+        "id": "2077752401906565254",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23510,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077749927263031677",
+            "type": "quoted"
+          }
+        ],
+        "text": "21:50，有一说一SpaceX 大火箭今天挺硬！但硬不逢时，今天人家姑娘（大盘）不接客啊！ https://t.co/vTbOYbHVcc"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2077749927263031677",
+        "created_at": "2026-07-16T13:39:20.000Z",
+        "edit_history_tweet_ids": [
+          "2077749927263031677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2077728734413729799",
+              "start": 33,
+              "url": "https://t.co/2vRp8uWA1h"
+            }
+          ]
+        },
+        "id": "2077749927263031677",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22879,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077728734413729799",
+            "type": "quoted"
+          }
+        ],
+        "text": "21:40，开盘了，SpaceX 微硬，空单不动，等我再探再报！ https://t.co/2vRp8uWA1h"
+      },
+      {
+        "author_id": "2054568645200953344",
+        "conversation_id": "2077749927263031677",
+        "created_at": "2026-07-16T13:39:48.000Z",
+        "edit_history_tweet_ids": [
+          "2077750048696516721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2077750048696516721",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 454,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077749927263031677",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest 哥我把你设成了特别提醒"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2077728734413729799",
+        "created_at": "2026-07-16T12:15:07.000Z",
+        "edit_history_tweet_ids": [
+          "2077728734413729799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iiiinvest/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/iiiinvest/status/2077685585444258164",
+              "start": 41,
+              "url": "https://t.co/bRolieNUFG"
+            }
+          ]
+        },
+        "id": "2077728734413729799",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 25490,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077685585444258164",
+            "type": "quoted"
+          }
+        ],
+        "text": "20:10，盘前大盘跌，半导体存储崩的更猛，今晚又是收获的一天啊！兄弟们啊！啊！ https://t.co/bRolieNUFG"
+      },
+      {
+        "author_id": "1663749852965240834",
+        "conversation_id": "2077711439205396634",
+        "created_at": "2026-07-16T11:06:23.000Z",
+        "edit_history_tweet_ids": [
+          "2077711439205396634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Trader_S18/sta…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Trader_S18/status/2077428481043173603",
+              "start": 153,
+              "url": "https://t.co/poXq1tiFt1"
+            }
+          ]
+        },
+        "id": "2077711439205396634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 386,
+                "id": "2031560926508494849",
+                "start": 373,
+                "username": "BITstocks_CN"
+              }
+            ]
+          },
+          "text": "昨天虽然SpaceX盘中一度破发，但好在闭盘的时候收回135以上了\n\n如果现在走最好的剧本，昨天盘面就是在放量清扫加事件前回收，属于控制性目的性都很强的动作\n\n今晚盘面大概会维持一个窄幅震荡的局面去等明天的火箭发射，如果：\n\n完全成功→周五跳空140-146\n\n助推器过关但卫星部署有瑕疵→137-140\n\n助推器再次失败→124-128\n\n上升段爆炸→118-124\n\n刮擦推迟→阴跌至133-136\n\n如果按照最佳剧本明天SPCX反弹修复至145以上，后续能在财报前修复回155的话，财报之后还有最后一次拉高的窗口。\n\n即如果8.4发布财报的话，8.6号下一批股票会解锁，而8.5号这天刚好是财报利好+新股票还没解锁的空白窗口期。如果有人想要搞事的话，这天会是最合适的时机。当然，这属于最理想情况下的剧本，具体怎么走就不知道了。\n\n此内容由 @BITstocks_CN 赞助，买美股上BIT—16000+ 只美股与 ETF，真实持仓，享股息分红。"
+        },
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 41318,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428481043173603",
+            "type": "quoted"
+          }
+        ],
+        "text": "昨天虽然SpaceX盘中一度破发，但好在闭盘的时候收回135以上了\n\n如果现在走最好的剧本，昨天盘面就是在放量清扫加事件前回收，属于控制性目的性都很强的动作\n\n今晚盘面大概会维持一个窄幅震荡的局面去等明天的火箭发射，如果：\n\n完全成功→周五跳空140-146\n\n助推器过关但卫星部署有瑕疵→137-140 https://t.co/poXq1tiFt1"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2077671681179709820",
+        "created_at": "2026-07-16T08:28:24.000Z",
+        "edit_history_tweet_ids": [
+          "2077670820915417249",
+          "2077671681179709820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1i7LuNSLY",
+              "end": 150,
+              "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/1",
+              "media_key": "3_2077670803630612480",
+              "start": 127,
+              "url": "https://t.co/U1i7LuNSLY"
+            },
+            {
+              "display_url": "pic.x.com/U1i7LuNSLY",
+              "end": 150,
+              "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/2",
+              "media_key": "3_2077670803622215680",
+              "start": 127,
+              "url": "https://t.co/U1i7LuNSLY"
+            },
+            {
+              "display_url": "pic.x.com/U1i7LuNSLY",
+              "end": 150,
+              "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/3",
+              "media_key": "3_2077670803127291904",
+              "start": 127,
+              "url": "https://t.co/U1i7LuNSLY"
+            },
+            {
+              "display_url": "pic.x.com/U1i7LuNSLY",
+              "end": 150,
+              "expanded_url": "https://x.com/iiiinvest/status/2077671681179709820/photo/4",
+              "media_key": "3_2077670803123142656",
+              "start": 127,
+              "url": "https://t.co/U1i7LuNSLY"
+            }
+          ]
+        },
+        "id": "2077671681179709820",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 72249,
+          "like_count": 129,
+          "quote_count": 4,
+          "reply_count": 51,
+          "retweet_count": 20
+        },
+        "text": "美股仙人，骗子+傻子\n\n骗，骗粉丝买在高点，高点拿住！自己仓位不敢发！\n\n傻，分不清交易和价值，长线你麻痹，就知道说大路话，怎么会有你这傻逼玩意！\n\n我现在给你排毒，等过段时间你粉丝看回本无望，有你受的！\n\n傻逼把我拉黑了，给我顶起来，曝光这傻逼骗子！ https://t.co/U1i7LuNSLY"
+      },
+      {
+        "author_id": "1620402665225355264",
+        "conversation_id": "2077728734413729799",
+        "created_at": "2026-07-16T13:06:12.000Z",
+        "edit_history_tweet_ids": [
+          "2077741591234851186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2077741591234851186",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077728734413729799",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest 鱼哥，闪迪1490空，可以看1400-1350吗…"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2077685585444258164",
+        "created_at": "2026-07-16T09:23:39.000Z",
+        "edit_history_tweet_ids": [
+          "2077685585444258164"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "SPCX"
+            }
+          ]
+        },
+        "id": "2077685585444258164",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22185,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "text": "17:20，盘前SpaceX $SPCX 135，+0.4%，略强于大盘，但整体依旧处于下跌趋势，空单继续拿稳！再探再报！"
+      },
+      {
+        "author_id": "1437591550381330434",
+        "conversation_id": "2077714754173636816",
+        "created_at": "2026-07-16T11:19:34.000Z",
+        "edit_history_tweet_ids": [
+          "2077714754173636816"
+        ],
+        "id": "2077714754173636816",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 44106,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 116,
+          "retweet_count": 4
+        },
+        "text": "今天离婚了\n下班回到家，我和老婆说抄底了一只股票，老婆问是哪个，我说海力士，老婆没说话，柜子里的人笑出了声"
+      },
+      {
+        "author_id": "44196397",
+        "conversation_id": "2077626867297681867",
+        "created_at": "2026-07-16T05:30:20.000Z",
+        "edit_history_tweet_ids": [
+          "2077626867297681867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1LR8HK9SM",
+              "end": 23,
+              "expanded_url": "https://x.com/elonmusk/status/2077626867297681867/photo/1",
+              "media_key": "3_2077626864315555840",
+              "start": 0,
+              "url": "https://t.co/P1LR8HK9SM"
+            }
+          ]
+        },
+        "id": "2077626867297681867",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 1800,
+          "impression_count": 11552418,
+          "like_count": 79739,
+          "quote_count": 839,
+          "reply_count": 7331,
+          "retweet_count": 7930
+        },
+        "text": "https://t.co/P1LR8HK9SM"
+      },
+      {
+        "author_id": "2060686148318769152",
+        "conversation_id": "2077709913858646269",
+        "created_at": "2026-07-16T11:01:00.000Z",
+        "edit_history_tweet_ids": [
+          "2077710081530225093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2077710081530225093",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077709913858646269",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest ⚡️🐟哥偶尔搞搞语言的艺术这一块"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2076966601170255904",
+        "created_at": "2026-07-14T09:46:40.000Z",
+        "edit_history_tweet_ids": [
+          "2076966188006232180",
+          "2076966601170255904"
+        ],
+        "id": "2076966601170255904",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 29857,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "text": "选择比努力更重要。这句话的意思是要把重点放在选择走那条路上。\n\n所以，今晚的CPI重要吗？利好利空重要吗？预测美联储发言重要吗？你抓住了主要矛盾，一切都会迎刃而解。\n\n记住，夜路走多了总会遇到鬼👻。坚持闯红灯一定被撞死🚥！懂了吗？"
+      },
+      {
+        "author_id": "1830556171150991360",
+        "conversation_id": "2077661601302495605",
+        "created_at": "2026-07-16T07:48:21.000Z",
+        "edit_history_tweet_ids": [
+          "2077661601302495605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nihaBArM0g",
+              "end": 32,
+              "expanded_url": "https://x.com/Money_or_Life_X/status/2077661601302495605/photo/1",
+              "media_key": "3_2077661595375968256",
+              "start": 9,
+              "url": "https://t.co/nihaBArM0g"
+            }
+          ]
+        },
+        "id": "2077661601302495605",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 34353,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "text": "本月美股地狱难度 https://t.co/nihaBArM0g"
+      },
+      {
+        "author_id": "2008578309492535297",
+        "conversation_id": "2077671681179709820",
+        "created_at": "2026-07-16T08:36:02.000Z",
+        "edit_history_tweet_ids": [
+          "2077673601051075038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2077673601051075038",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3261,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077671681179709820",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest 叫人长期拿着和谋财害命没区别，反指博主都比它好，这种神棍就是该死"
+      },
+      {
+        "author_id": "1437630599246712833",
+        "conversation_id": "2077630171277115654",
+        "created_at": "2026-07-16T08:32:32.000Z",
+        "edit_history_tweet_ids": [
+          "2077672718380695661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2077672718380695661",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077630171277115654",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest 他上市的目的就是让广大散户给他接盘，这不是目的达成了"
+      },
+      {
+        "author_id": "1589763597705437184",
+        "conversation_id": "2076902456127300048",
+        "created_at": "2026-07-14T05:31:47.000Z",
+        "edit_history_tweet_ids": [
+          "2076902456127300048"
+        ],
+        "id": "2076902456127300048",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 45016,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 2
+        },
+        "text": "海力士到底能不能抄底？\n\n旗帜鲜明，不建议。左侧抄底就是刀口舔血，常在河边走哪有不湿鞋，别以为就这次，毒品成瘾的都说就试一下，从此哭爹喊娘说后悔有用吗？\n\n有些动作，从想这个阶段就要灭杀掉，别说实操了。\n\n海力士什么时候可以买？等磨出底，右侧确认底部信号出来了再说！现在，等！"
+      },
+      {
+        "author_id": "1507631541303713793",
+        "conversation_id": "2077653260094284052",
+        "created_at": "2026-07-16T07:15:12.000Z",
+        "edit_history_tweet_ids": [
+          "2077653260094284052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomustock/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/xiaomustock/status/2077605283707462081",
+              "start": 62,
+              "url": "https://t.co/A6eUSPQukt"
+            }
+          ]
+        },
+        "id": "2077653260094284052",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 247537,
+          "like_count": 273,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077605283707462081",
+            "type": "quoted"
+          }
+        ],
+        "text": "投降了，剩下60%刚58卖了，太贪心了，\n本来买的时候就想着有个75就走，\n真到了反而贪心了，\n几把人性呐，\n太恶心丑陋。 https://t.co/A6eUSPQukt"
+      },
+      {
+        "author_id": "1391080697037656064",
+        "conversation_id": "2077598451098099825",
+        "created_at": "2026-07-16T03:37:25.000Z",
+        "edit_history_tweet_ids": [
+          "2077598451098099825"
+        ],
+        "id": "2077598451098099825",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 41033,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "text": "感觉存储不跌出性价比是真没得买了，甚至有可能，存储的行情结束了？\n\n目前不是产能的问题了，是传导到消费电子涨价，整个AI行业大头利润被三星，海力士赚走了。\n\n有人不服气了。\n\n总之，存储现在波动率太高了，KOSPI天天熔断。不是涨熔断就是跌熔断。\n\n当然，对于短线交易员是好事。"
+      },
+      {
+        "author_id": "988412578073198593",
+        "conversation_id": "2076694353591099425",
+        "created_at": "2026-07-13T17:03:41.000Z",
+        "edit_history_tweet_ids": [
+          "2076714191189373109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1589763597705437184",
+              "start": 0,
+              "username": "iiiinvest"
+            }
+          ]
+        },
+        "id": "2076714191189373109",
+        "in_reply_to_user_id": "1589763597705437184",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14406,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076694353591099425",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@iiiinvest 看着你粉丝到5000了，又不希望涨太多，以后带单影响大了就没那么好操作了"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070418253353250816/A7ob_mkY_normal.jpg",
+        "username": "iiiinvest",
+        "verified": false
+      },
+      {
+        "id": "2054568645200953344",
+        "name": "Aaayuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055272880901095426/-TUzUuiQ_normal.jpg",
+        "username": "Aaaaayuu_",
+        "verified": false
+      },
+      {
+        "id": "1663749852965240834",
+        "name": "TraderS | 缺德道人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663755176581431296/KKbxA9BI_normal.jpg",
+        "username": "TraderS18",
+        "verified": false
+      },
+      {
+        "id": "1620402665225355264",
+        "name": "Dazed.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620426285083406339/D8eiu5oQ_normal.jpg",
+        "username": "Dazed1992Y",
+        "verified": false
+      },
+      {
+        "id": "1437591550381330434",
+        "name": "0xMao 🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047234276186574850/g2m-CtLB_normal.jpg",
+        "username": "_TAOLIMAO",
+        "verified": false
+      },
+      {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122506092437504001/NSS4RHyZ_normal.jpg",
+        "username": "elonmusk",
+        "verified": false
+      },
+      {
+        "id": "2060686148318769152",
+        "name": "Starman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064642540184477696/2tV8XRJL_normal.jpg",
+        "username": "MilesSmilesc1",
+        "verified": false
+      },
+      {
+        "id": "2063938419009724416",
+        "name": "xincheng zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063938822686269440/pEIibqyb_normal.jpg",
+        "username": "xinchengzhyrvf",
+        "verified": false
+      },
+      {
+        "id": "2047847867088297984",
+        "name": "trust wallet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077690230757588992/H68XZZb-_normal.jpg",
+        "username": "yuenbo97",
+        "verified": false
+      },
+      {
+        "id": "1830556171150991360",
+        "name": "Ace from Money or Life 美股频道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863431196954492928/EvAJbAp9_normal.jpg",
+        "username": "Money_or_Life_X",
+        "verified": false
+      },
+      {
+        "id": "2008578309492535297",
+        "name": "瓜瓜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121624887433515008/HxrSLOqB_normal.jpg",
+        "username": "YuCheng40262",
+        "verified": false
+      },
+      {
+        "id": "1437630599246712833",
+        "name": "旅者リック",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025588747216224256/ckMEuh3q_normal.jpg",
+        "username": "rickfan133",
+        "verified": false
+      },
+      {
+        "id": "1507631541303713793",
+        "name": "川沐｜Trumoo🐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+        "username": "xiaomustock",
+        "verified": false
+      },
+      {
+        "id": "1391080697037656064",
+        "name": "风无向🦅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909546559332884480/u29g-t22_normal.jpg",
+        "username": "Web3Feng",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2077765457789198534",
+    "next_token": "b26v89c19zqg8o3juetiu1kkzyrte80rome5n4wiknzwd",
+    "oldest_id": "2077651419566600372",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2077690093691924661].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077690093691924661",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2077690093691924661"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2077688783705919792].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077688783705919792",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2077688783705919792"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "handle": "thankUcrypto",
+  "user_id": "705564530936418304",
+  "profile_source": "../profiles.json plus profile.json; normalized public profile snapshot from day1; not refreshed day2",
+  "profile_raw_source_asset": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M86RKE0B41ZRA89NJ8Y0562J.txt",
+  "posts_source_tools": [
+    "x.get_posts_by_ids",
+    "x.get_users_posts",
+    "x.search_posts_all"
+  ],
+  "post_provenance": "Each normalized post.collection points to captured raw response under raw/ or ../_raw/. All literal text/provenance files validated.",
+  "author_id_checked": true,
+  "canonical_account_url": "https://x.com/thankUcrypto",
+  "portable_profile_raw_response": "raw/profile_lookup_day1_response.txt"
+}

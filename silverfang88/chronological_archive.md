@@ -2,12 +2,12 @@
 
 This file is an **index**. Full original-language text for every stored post is in the yearly files under `archives/YYYY.md`.
 
-- Unique posts stored (deduped by id): **9239**
-- Span (API UTC): `2021-09-13T06:35:07.000Z` → `2026-11-24T09:58:30.000Z`
-- Span (Asia/Shanghai, GMT+8): 2021-09-13 14:35:07 GMT+8 → 2026-11-24 17:58:30 GMT+8
-- Types: original 4168, reply 3561, quote 874, repost 636
+- Unique posts stored (deduped by id): **12862**
+- Span (API UTC): `2021-09-13T06:35:07.000Z` → `2026-11-24T16:13:43.000Z`
+- Span (Asia/Shanghai, GMT+8): 2021-09-13 14:35:07 GMT+8 → 2026-11-25 00:13:43 GMT+8
+- Types: original 5656, reply 5334, quote 1127, repost 745
 - Earliest stored: [1437303812616720389](https://x.com/silverfang88/status/1437303812616720389) — 2021-09-13 14:35:07 GMT+8
-- Latest stored: [2125167165569655181](https://x.com/silverfang88/status/2125167165569655181) — 2026-11-24 17:58:30 GMT+8
+- Latest stored: [2125261591897870535](https://x.com/silverfang88/status/2125261591897870535) — 2026-11-25 00:13:43 GMT+8
 
 This is **not** a complete account history. See `coverage_manifest.md`.
 
@@ -18,9 +18,9 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 | 2021 | 137 | `archives/2021.md` |
 | 2022 | 1914 | `archives/2022.md` |
 | 2023 | 3057 | `archives/2023.md` |
-| 2024 | 1240 | `archives/2024.md` |
-| 2025 | 1469 | `archives/2025.md` |
-| 2026 | 1422 | `archives/2026.md` |
+| 2024 | 3837 | `archives/2024.md` |
+| 2025 | 2494 | `archives/2025.md` |
+| 2026 | 1423 | `archives/2026.md` |
 
 ## Compact chronological index (id, time, type, URL, first line)
 
@@ -5580,6 +5580,455 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1763178982428520821` | 2024-02-29 20:26:42 GMT+8 | reply | https://x.com/silverfang88/status/1763178982428520821 | @0x_bobo 真的假的 那我梭哈了
 - `1763187612301340798` | 2024-02-29 21:00:59 GMT+8 | original | https://x.com/silverfang88/status/1763187612301340798 | 才看到Blast上面我漏了个项目
 - `1763192492239831218` | 2024-02-29 21:20:23 GMT+8 | reply | https://x.com/silverfang88/status/1763192492239831218 | @bigbigshuaibi @Agent_Fi 去DC问问吧 我是DM拿的白
+- `1765949404794552535` | 2024-03-08 11:55:22 GMT+8 | original | https://x.com/silverfang88/status/1765949404794552535 | 你猜猜为啥很多看起来很热的，很牛逼，融资captable看着很好的各种的项目最后选择了bybit+kucoin？
+- `1765949604179136907` | 2024-03-08 11:56:10 GMT+8 | original | https://x.com/silverfang88/status/1765949604179136907 | 你猜猜为啥很多看起来很热的，很牛逼，融资captable看着很好的各种的项目最后选择了bybit+kucoin？
+- `1765959638241914911` | 2024-03-08 12:36:02 GMT+8 | original | https://x.com/silverfang88/status/1765959638241914911 | 宁可慢慢变富
+- `1765959806492324290` | 2024-03-08 12:36:42 GMT+8 | original | https://x.com/silverfang88/status/1765959806492324290 | 宁可慢慢变富
+- `1765961579390992746` | 2024-03-08 12:43:45 GMT+8 | original | https://x.com/silverfang88/status/1765961579390992746 | https://t.co/ZPquRygU8P
+- `1766134131820298243` | 2024-03-09 00:09:24 GMT+8 | original | https://x.com/silverfang88/status/1766134131820298243 | 一想到那么多人要熬夜打这样的图
+- `1766152428854862266` | 2024-03-09 01:22:07 GMT+8 | original | https://x.com/silverfang88/status/1766152428854862266 | @Dincocoin @BitmapTech 质押在我的钱包就行
+- `1766198698843718081` | 2024-03-09 04:25:58 GMT+8 | original | https://x.com/silverfang88/status/1766198698843718081 | @Mina19971224 生日快乐
+- `1766356853707976983` | 2024-03-09 14:54:25 GMT+8 | original | https://x.com/silverfang88/status/1766356853707976983 | @Aurora_Lashao @Dincocoin 我框框舔
+- `1766359430587716059` | 2024-03-09 15:04:40 GMT+8 | original | https://x.com/silverfang88/status/1766359430587716059 | 最后的最后
+- `1766359465656238358` | 2024-03-09 15:04:48 GMT+8 | original | https://x.com/silverfang88/status/1766359465656238358 | 最后的最后
+- `1766359581670740158` | 2024-03-09 15:05:16 GMT+8 | original | https://x.com/silverfang88/status/1766359581670740158 | 最后的最后
+- `1766360502454702298` | 2024-03-09 15:08:55 GMT+8 | reply | https://x.com/silverfang88/status/1766360502454702298 | @puff_drgn 跑路了吗？
+- `1766369014492573986` | 2024-03-09 15:42:45 GMT+8 | original | https://x.com/silverfang88/status/1766369014492573986 | @Aurora_Lashao 我偷偷穿给你看
+- `1766376143681163570` | 2024-03-09 16:11:04 GMT+8 | quote | https://x.com/silverfang88/status/1766376143681163570 | 上强度 冲 再上100个号 https://t.co/3hbcQLdrfK
+- `1766378579611254969` | 2024-03-09 16:20:45 GMT+8 | original | https://x.com/silverfang88/status/1766378579611254969 | @Gummybear1771 tia
+- `1766387625663795704` | 2024-03-09 16:56:42 GMT+8 | quote | https://x.com/silverfang88/status/1766387625663795704 | 启动！ https://t.co/95BbtouKYp
+- `1766387729967792485` | 2024-03-09 16:57:07 GMT+8 | quote | https://x.com/silverfang88/status/1766387729967792485 | 近期唯一折戟项目
+- `1766501591136309492` | 2024-03-10 00:29:33 GMT+8 | original | https://x.com/silverfang88/status/1766501591136309492 | @leatherhuang LTMDFG
+- `1766506426501943473` | 2024-03-10 00:48:46 GMT+8 | quote | https://x.com/silverfang88/status/1766506426501943473 | 明天聊吧 家人们
+- `1766507083564802540` | 2024-03-10 00:51:23 GMT+8 | original | https://x.com/silverfang88/status/1766507083564802540 | @Ru7Longcrypto 来啊 当嘉宾来
+- `1766549846679244873` | 2024-03-10 03:41:19 GMT+8 | original | https://x.com/silverfang88/status/1766549846679244873 | mantle链的bald
+- `1766562857993351594` | 2024-03-10 04:33:01 GMT+8 | reply | https://x.com/silverfang88/status/1766562857993351594 | 先看 200m
+- `1766578817684869224` | 2024-03-10 05:36:26 GMT+8 | quote | https://x.com/silverfang88/status/1766578817684869224 | 没想到起飞了 https://t.co/bqk1LGy1l9
+- `1766580811657056405` | 2024-03-10 05:44:21 GMT+8 | original | https://x.com/silverfang88/status/1766580811657056405 | 终于知道了
+- `1766582646413402451` | 2024-03-10 05:51:39 GMT+8 | original | https://x.com/silverfang88/status/1766582646413402451 | 为什么说 要换车 solana btc呢
+- `1766584657233969455` | 2024-03-10 05:59:38 GMT+8 | reply | https://x.com/silverfang88/status/1766584657233969455 | @youmin8341 可能是舌头痒了吧
+- `1766668570472173614` | 2024-03-10 11:33:04 GMT+8 | quote | https://x.com/silverfang88/status/1766668570472173614 | 昨天聊聊404 https://t.co/CU3E7V0pb0
+- `1766676417494864209` | 2024-03-10 12:04:15 GMT+8 | repost | https://x.com/silverfang88/status/1766676417494864209 | RT @silverfang88: https://t.co/ZPquRygU8P
+- `1766685006762529087` | 2024-03-10 12:38:23 GMT+8 | reply | https://x.com/silverfang88/status/1766685006762529087 | @RobbieLiu gg
+- `1766777079222202618` | 2024-03-10 18:44:15 GMT+8 | original | https://x.com/silverfang88/status/1766777079222202618 | https://t.co/ZPquRygU8P
+- `1766789375205990690` | 2024-03-10 19:33:07 GMT+8 | reply | https://x.com/silverfang88/status/1766789375205990690 | @Gummybear1771 @99X_FJTL Woc 白丝！
+- `1766808350170210613` | 2024-03-10 20:48:31 GMT+8 | quote | https://x.com/silverfang88/status/1766808350170210613 | 往期回顾 https://t.co/HjOq6AOFYG
+- `1766808450661568652` | 2024-03-10 20:48:55 GMT+8 | reply | https://x.com/silverfang88/status/1766808450661568652 | https://t.co/lfQHfzHPmz
+- `1767031450618974291` | 2024-03-11 11:35:02 GMT+8 | reply | https://x.com/silverfang88/status/1767031450618974291 | @Bit_LittleP 🩷
+- `1767041205215416376` | 2024-03-11 12:13:48 GMT+8 | reply | https://x.com/silverfang88/status/1767041205215416376 | @abyssofgambling ？？？狗日的 一天赚5个ETH？？
+- `1767041889318871288` | 2024-03-11 12:16:31 GMT+8 | reply | https://x.com/silverfang88/status/1767041889318871288 | @abyssofgambling 发200
+- `1767175175613583734` | 2024-03-11 21:06:09 GMT+8 | original | https://x.com/silverfang88/status/1767175175613583734 | 让她骑吧
+- `1767176024574279987` | 2024-03-11 21:09:31 GMT+8 | reply | https://x.com/silverfang88/status/1767176024574279987 | @ETAcool1 专注 努力
+- `1767176645973037096` | 2024-03-11 21:11:59 GMT+8 | original | https://x.com/silverfang88/status/1767176645973037096 | 据说这完美表达了
+- `1767178280761704669` | 2024-03-11 21:18:29 GMT+8 | original | https://x.com/silverfang88/status/1767178280761704669 | 钱其实很难赚的
+- `1767178573100486851` | 2024-03-11 21:19:39 GMT+8 | reply | https://x.com/silverfang88/status/1767178573100486851 | @Spike0826616 2-3倍好像跑了
+- `1767200118564905360` | 2024-03-11 22:45:15 GMT+8 | original | https://x.com/silverfang88/status/1767200118564905360 | 怎么说呢，btc layer2 赛道你就撸吧
+- `1767230353297510782` | 2024-03-12 00:45:24 GMT+8 | original | https://x.com/silverfang88/status/1767230353297510782 | 心中装着本三国志
+- `1767233416116699251` | 2024-03-12 00:57:34 GMT+8 | reply | https://x.com/silverfang88/status/1767233416116699251 | @xclisgood 21岁两手空空
+- `1767236985700110585` | 2024-03-12 01:11:45 GMT+8 | original | https://x.com/silverfang88/status/1767236985700110585 | FvER7SsvY5GqAMawf7Qfb5MnUUmDdbPNPg4nCa4zHoLw
+- `1767365672923722074` | 2024-03-12 09:43:07 GMT+8 | original | https://x.com/silverfang88/status/1767365672923722074 | 我感觉我最重要的几次视角改变就是
+- `1767365752334463068` | 2024-03-12 09:43:26 GMT+8 | original | https://x.com/silverfang88/status/1767365752334463068 | 我感觉我最重要的几次视角改变就是
+- `1767366205818503428` | 2024-03-12 09:45:14 GMT+8 | original | https://x.com/silverfang88/status/1767366205818503428 | 我感觉我最重要的几次视角改变就是
+- `1767367734780727549` | 2024-03-12 09:51:18 GMT+8 | original | https://x.com/silverfang88/status/1767367734780727549 | 你猜猜
+- `1767369647144222857` | 2024-03-12 09:58:54 GMT+8 | original | https://x.com/silverfang88/status/1767369647144222857 | 半夜惊醒 今夕是何年
+- `1767370762854301935` | 2024-03-12 10:03:20 GMT+8 | reply | https://x.com/silverfang88/status/1767370762854301935 | @stevechen 牛逼的哥 最近你在搞啥事业啊
+- `1767371484932997417` | 2024-03-12 10:06:12 GMT+8 | original | https://x.com/silverfang88/status/1767371484932997417 | https://t.co/f7BD4MOpmO
+- `1767392517664772188` | 2024-03-12 11:29:47 GMT+8 | original | https://x.com/silverfang88/status/1767392517664772188 | 格局又打开了 https://t.co/TAdCCAG2ip
+- `1767411979080053163` | 2024-03-12 12:47:07 GMT+8 | reply | https://x.com/silverfang88/status/1767411979080053163 | @Gummybear1771 看餓了
+- `1767414972722684336` | 2024-03-12 12:59:01 GMT+8 | repost | https://x.com/silverfang88/status/1767414972722684336 | RT @TeddyAC01: 大家好，我是ACcapital的人事专员郑皓升，应公司的要求让我做Twitter的运营，但我也不是很擅长这个，只能硬着头皮上了。因为不知道发什么，所以我先发一下这两天山寨的账户吧，从11月份的1200万坚持到现在的8500万，纯现货，不合约不杠杆。…
+- `1767425239347089511` | 2024-03-12 13:39:48 GMT+8 | original | https://x.com/silverfang88/status/1767425239347089511 | 确实差点被他妈海浪卷走了
+- `1767425407412801661` | 2024-03-12 13:40:28 GMT+8 | original | https://x.com/silverfang88/status/1767425407412801661 | 确实差点被他妈海浪卷走了
+- `1767426611635253406` | 2024-03-12 13:45:16 GMT+8 | original | https://x.com/silverfang88/status/1767426611635253406 | space开了七八场了
+- `1767426712655056939` | 2024-03-12 13:45:40 GMT+8 | original | https://x.com/silverfang88/status/1767426712655056939 | space开了七八场了
+- `1767429297566802231` | 2024-03-12 13:55:56 GMT+8 | reply | https://x.com/silverfang88/status/1767429297566802231 | 目前每期基本都在
+- `1767429577045885260` | 2024-03-12 13:57:03 GMT+8 | reply | https://x.com/silverfang88/status/1767429577045885260 | @abyssofgambling @SatoshiNobility @0xAmazingChar @0xggy @cryptoxiao @dov_wo @whereismyeth @topsignal 漏了肛门哥 @Dincocoin
+- `1767434757082587442` | 2024-03-12 14:17:38 GMT+8 | reply | https://x.com/silverfang88/status/1767434757082587442 | @abyssofgambling @SatoshiNobility @0xAmazingChar @0xggy @cryptoxiao @dov_wo @whereismyeth @topsignal 好的
+- `1767536022768767485` | 2024-03-12 21:00:01 GMT+8 | repost | https://x.com/silverfang88/status/1767536022768767485 | RT @CXO_no: 昨天VEDA协议更新了文档和路线图
+- `1767560207519863107` | 2024-03-12 22:36:07 GMT+8 | original | https://x.com/silverfang88/status/1767560207519863107 | @Artiswinter 我就喜欢反差
+- `1767628196101472312` | 2024-03-13 03:06:17 GMT+8 | quote | https://x.com/silverfang88/status/1767628196101472312 | Tensor来了
+- `1767693466182500857` | 2024-03-13 07:25:39 GMT+8 | original | https://x.com/silverfang88/status/1767693466182500857 | 明天坎昆升级就是真的要来了
+- `1767732268695478534` | 2024-03-13 09:59:50 GMT+8 | original | https://x.com/silverfang88/status/1767732268695478534 | 去年8月开始
+- `1767738035108462798` | 2024-03-13 10:22:45 GMT+8 | reply | https://x.com/silverfang88/status/1767738035108462798 | @PepeBoost888 @gmgnai 黄老爷又高又硬
+- `1767745030167380209` | 2024-03-13 10:50:32 GMT+8 | quote | https://x.com/silverfang88/status/1767745030167380209 | 拉我一下
+- `1767751762595758383` | 2024-03-13 11:17:18 GMT+8 | reply | https://x.com/silverfang88/status/1767751762595758383 | @xueqiu88 解锁条件好，确实牛逼，那一起吧，把拿你名字去BD去
+- `1767754023795409006` | 2024-03-13 11:26:17 GMT+8 | quote | https://x.com/silverfang88/status/1767754023795409006 | 起飞？ https://t.co/QSL80k0S8r
+- `1767760045532414224` | 2024-03-13 11:50:12 GMT+8 | reply | https://x.com/silverfang88/status/1767760045532414224 | @0xsexybanana @xueqiu88 1
+- `1767765304866652176` | 2024-03-13 12:11:06 GMT+8 | quote | https://x.com/silverfang88/status/1767765304866652176 | 6666
+- `1767765592189084103` | 2024-03-13 12:12:15 GMT+8 | quote | https://x.com/silverfang88/status/1767765592189084103 | 6666
+- `1767767966525825177` | 2024-03-13 12:21:41 GMT+8 | reply | https://x.com/silverfang88/status/1767767966525825177 | 其实故事是这样的
+- `1767771627796787227` | 2024-03-13 12:36:14 GMT+8 | reply | https://x.com/silverfang88/status/1767771627796787227 | @0x8i11i0n @stevechen 666
+- `1767785997847150686` | 2024-03-13 13:33:20 GMT+8 | reply | https://x.com/silverfang88/status/1767785997847150686 | @Bit_LittleP 你好
+- `1767881102553694277` | 2024-03-13 19:51:15 GMT+8 | repost | https://x.com/silverfang88/status/1767881102553694277 | RT @abyssofgambling: 怎么不笑了？
+- `1767885690635772265` | 2024-03-13 20:09:29 GMT+8 | reply | https://x.com/silverfang88/status/1767885690635772265 | @abyssofgambling @Entanglefi 我是说我怎么突然噩梦惊醒
+- `1767915943080996866` | 2024-03-13 22:09:41 GMT+8 | original | https://x.com/silverfang88/status/1767915943080996866 | https://t.co/ZuWYExlVg4
+- `1767934837590020241` | 2024-03-13 23:24:46 GMT+8 | quote | https://x.com/silverfang88/status/1767934837590020241 | SOLANA 启动！！！！！ https://t.co/2NW5IiGUJ2
+- `1767935034722295912` | 2024-03-13 23:25:33 GMT+8 | quote | https://x.com/silverfang88/status/1767935034722295912 | SOLANA 启动！！！！！！！！ https://t.co/mgRXosVoU0
+- `1767940649448337500` | 2024-03-13 23:47:52 GMT+8 | repost | https://x.com/silverfang88/status/1767940649448337500 | RT @TeddyAC01: 发个自拍省着别人不知道我是谁 https://t.co/c2OKbO8DVT
+- `1767950709494800570` | 2024-03-14 00:27:50 GMT+8 | original | https://x.com/silverfang88/status/1767950709494800570 | LBP的价值发现过程
+- `1767968140699263174` | 2024-03-14 01:37:06 GMT+8 | quote | https://x.com/silverfang88/status/1767968140699263174 | 本期感谢 @ACCapital1 的郑浩升老板来space分享怎么从百万做到亿 @TeddyAC01  
+- `1767969770345840954` | 2024-03-14 01:43:35 GMT+8 | reply | https://x.com/silverfang88/status/1767969770345840954 | 如果让我总结 
+- `1767970818145862002` | 2024-03-14 01:47:45 GMT+8 | reply | https://x.com/silverfang88/status/1767970818145862002 | @TeddyAC01 @ACCapital1 谢谢老板
+- `1768022141696401588` | 2024-03-14 05:11:41 GMT+8 | quote | https://x.com/silverfang88/status/1768022141696401588 | 其实密码都在这里 https://t.co/8Y9qSvqgzF
+- `1768022211808428502` | 2024-03-14 05:11:58 GMT+8 | original | https://x.com/silverfang88/status/1768022211808428502 | https://t.co/H91ukMFag0
+- `1768043183957483587` | 2024-03-14 06:35:18 GMT+8 | original | https://x.com/silverfang88/status/1768043183957483587 | 穷人 总在怀疑中失去
+- `1768121880651694185` | 2024-03-14 11:48:01 GMT+8 | repost | https://x.com/silverfang88/status/1768121880651694185 | RT @silverfang88: https://t.co/ZuWYExlVg4
+- `1768140450529988974` | 2024-03-14 13:01:48 GMT+8 | original | https://x.com/silverfang88/status/1768140450529988974 | 我能给大家的一个忠告就是：在这一轮远离所有没机会上币安的gamefi项目，这样可以排除99%的陷阱 https://t.co/Hy6h37n613
+- `1768140786267308057` | 2024-03-14 13:03:08 GMT+8 | original | https://x.com/silverfang88/status/1768140786267308057 | 我能给大家的一个忠告就是：在这一轮远离所有没机会上币安的gamefi项目，这样可以排除98%的陷阱 https://t.co/2tgaA9eRAA
+- `1768145753505923324` | 2024-03-14 13:22:52 GMT+8 | original | https://x.com/silverfang88/status/1768145753505923324 | 牛市三防：防盗 防爆 防嫖
+- `1768154269063029192` | 2024-03-14 13:56:43 GMT+8 | quote | https://x.com/silverfang88/status/1768154269063029192 | 让我更仔细说说这个项目的话
+- `1768161754863775922` | 2024-03-14 14:26:27 GMT+8 | reply | https://x.com/silverfang88/status/1768161754863775922 | @abyssofgambling 怎么我一醒又看到牛英俊在咬来福？？
+- `1768162051745014126` | 2024-03-14 14:27:38 GMT+8 | quote | https://x.com/silverfang88/status/1768162051745014126 | 马上截止，没mint的销毁，然后起飞 https://t.co/TNVJmC5LgT
+- `1768163620452438397` | 2024-03-14 14:33:52 GMT+8 | quote | https://x.com/silverfang88/status/1768163620452438397 | 怎么说呢，我觉得公道自在民心？
+- `1768163764757491986` | 2024-03-14 14:34:27 GMT+8 | quote | https://x.com/silverfang88/status/1768163764757491986 | 怎么说呢，我觉得公道自在民心？
+- `1768206754138009955` | 2024-03-14 17:25:16 GMT+8 | quote | https://x.com/silverfang88/status/1768206754138009955 | 目前个人推荐的精彩最高的是 第九期（郑老板教你A9） + 第四期 （牛姐教你恋爱）+ 第七期 （肛门哥的西班牙小秘密）
+- `1768207678021702027` | 2024-03-14 17:28:56 GMT+8 | reply | https://x.com/silverfang88/status/1768207678021702027 | @Ucc18797111cc 那改天吧 改天那个KTV吧 我想听刘丰硕喊麦 牛姐唱歌
+- `1768218556674585048` | 2024-03-14 18:12:10 GMT+8 | repost | https://x.com/silverfang88/status/1768218556674585048 | RT @TeddyAC01: 现在我来正式讲一下区块链行业从头（资本）开始参与，应该如何从0赚到A9（站稳），主要是方法论，分为以下几个阶段（以下单位均为RMB）：
+- `1768218584759615808` | 2024-03-14 18:12:17 GMT+8 | reply | https://x.com/silverfang88/status/1768218584759615808 | @TeddyAC01 牛逼
+- `1768220755072889201` | 2024-03-14 18:20:54 GMT+8 | original | https://x.com/silverfang88/status/1768220755072889201 | 我被高尚干沉默了 https://t.co/IeoRENgJNk
+- `1768228542242857358` | 2024-03-14 18:51:51 GMT+8 | original | https://x.com/silverfang88/status/1768228542242857358 | 汗流浃背了 https://t.co/ba4uwNzDjo
+- `1768233904429769153` | 2024-03-14 19:13:09 GMT+8 | reply | https://x.com/silverfang88/status/1768233904429769153 | @6551Community 我准备去开他的阿斯顿
+- `1768236843789627711` | 2024-03-14 19:24:50 GMT+8 | reply | https://x.com/silverfang88/status/1768236843789627711 | @SatoshiNobility 傻逼 速度给我发200sol
+- `1768292528892043421` | 2024-03-14 23:06:06 GMT+8 | original | https://x.com/silverfang88/status/1768292528892043421 | 又到了大家喜闻乐见的猜一猜环节了
+- `1768471669536850199` | 2024-03-15 10:57:57 GMT+8 | reply | https://x.com/silverfang88/status/1768471669536850199 | @Dincocoin 你不是在群里吗
+- `1768477717391900769` | 2024-03-15 11:21:59 GMT+8 | reply | https://x.com/silverfang88/status/1768477717391900769 | @Aurora_Lashao 你加我微信啊
+- `1768482070081282180` | 2024-03-15 11:39:16 GMT+8 | reply | https://x.com/silverfang88/status/1768482070081282180 | @RobbieLiu 你这个美国时差真的难顶
+- `1768484324536451162` | 2024-03-15 11:48:14 GMT+8 | repost | https://x.com/silverfang88/status/1768484324536451162 | RT @inceptiongame: The countdown has begun! 
+- `1768484412008595787` | 2024-03-15 11:48:35 GMT+8 | reply | https://x.com/silverfang88/status/1768484412008595787 | @inceptiongame BWDQU7gojqeYjbnVgbqcAdjsAMY5jVx4kyV8xVcdhR6s
+- `1768490743843188868` | 2024-03-15 12:13:44 GMT+8 | quote | https://x.com/silverfang88/status/1768490743843188868 | 吓我一跳 我还以为pogai凉了 原来是另一个 https://t.co/jghU3Up2VU
+- `1768493134135144640` | 2024-03-15 12:23:14 GMT+8 | reply | https://x.com/silverfang88/status/1768493134135144640 | @Gummybear1771 白眼好看
+- `1768494106316063123` | 2024-03-15 12:27:06 GMT+8 | quote | https://x.com/silverfang88/status/1768494106316063123 | gm https://t.co/SaoN5iIU2j
+- `1768512967832711614` | 2024-03-15 13:42:03 GMT+8 | original | https://x.com/silverfang88/status/1768512967832711614 | 超出认知了
+- `1768514500460793896` | 2024-03-15 13:48:08 GMT+8 | reply | https://x.com/silverfang88/status/1768514500460793896 | @RobbieLiu 没办法 我拿不住了 对我来说够了
+- `1768514579393396809` | 2024-03-15 13:48:27 GMT+8 | reply | https://x.com/silverfang88/status/1768514579393396809 | @gameboss_eth 那还有机会再买回来 我不急
+- `1768533774038339968` | 2024-03-15 15:04:44 GMT+8 | quote | https://x.com/silverfang88/status/1768533774038339968 | 和小群的朋友们盯了shuffle几天
+- `1768533838462865508` | 2024-03-15 15:04:59 GMT+8 | quote | https://x.com/silverfang88/status/1768533838462865508 | 和小群的朋友们盯了shuffle几天
+- `1768534064712007975` | 2024-03-15 15:05:53 GMT+8 | quote | https://x.com/silverfang88/status/1768534064712007975 | 和小群的朋友们盯了shuffle几天
+- `1768534549749698573` | 2024-03-15 15:07:49 GMT+8 | quote | https://x.com/silverfang88/status/1768534549749698573 | 和小群的朋友们盯了shuffle几天
+- `1768534633270915085` | 2024-03-15 15:08:09 GMT+8 | quote | https://x.com/silverfang88/status/1768534633270915085 | 和小群的朋友们盯了shuffle几天
+- `1768542157873262985` | 2024-03-15 15:38:03 GMT+8 | original | https://x.com/silverfang88/status/1768542157873262985 | 打狗专用bot 没啥好说的  从熊市一路走来 @PepeBoost888 
+- `1768545715498754178` | 2024-03-15 15:52:11 GMT+8 | original | https://x.com/silverfang88/status/1768545715498754178 | @HasakiDoge @PepeBoost888 一定
+- `1768559844481536316` | 2024-03-15 16:48:19 GMT+8 | original | https://x.com/silverfang88/status/1768559844481536316 | https://t.co/YmbRGRPWjD
+- `1768560255871435014` | 2024-03-15 16:49:57 GMT+8 | reply | https://x.com/silverfang88/status/1768560255871435014 | @PepeBoost888 斩龙！
+- `1768590853168075010` | 2024-03-15 18:51:32 GMT+8 | repost | https://x.com/silverfang88/status/1768590853168075010 | RT @HtrZac: 我坚信 我身边的最好的朋友 我的公司 一定是核心圈... sol这一波真的太牛了
+- `1768656795344498695` | 2024-03-15 23:13:34 GMT+8 | original | https://x.com/silverfang88/status/1768656795344498695 | 有人上车 $pogai 吗
+- `1768713015757517072` | 2024-03-16 02:56:58 GMT+8 | original | https://x.com/silverfang88/status/1768713015757517072 | 我也想当艺术家
+- `1768717571501539780` | 2024-03-16 03:15:04 GMT+8 | original | https://x.com/silverfang88/status/1768717571501539780 | @Lucas00_007 没办法
+- `1768780760150839458` | 2024-03-16 07:26:10 GMT+8 | original | https://x.com/silverfang88/status/1768780760150839458 | pauly的项目 怎么说？？
+- `1768788709405843529` | 2024-03-16 07:57:45 GMT+8 | quote | https://x.com/silverfang88/status/1768788709405843529 | 对不起 是我太年轻 https://t.co/A9509kKvT0 https://t.co/w7vbySIUrm
+- `1768789397204291703` | 2024-03-16 08:00:29 GMT+8 | original | https://x.com/silverfang88/status/1768789397204291703 | @youmin8341 梭哈就要承受这种痛苦 
+- `1768796998369476893` | 2024-03-16 08:30:41 GMT+8 | quote | https://x.com/silverfang88/status/1768796998369476893 | 草泥马！
+- `1768797348484788334` | 2024-03-16 08:32:05 GMT+8 | original | https://x.com/silverfang88/status/1768797348484788334 | 昨天在反思为什么没有1000个sol梭进 $BOME
+- `1768834914084954376` | 2024-03-16 11:01:21 GMT+8 | quote | https://x.com/silverfang88/status/1768834914084954376 | 那就是defina今天结束+开盘了
+- `1768835007810855051` | 2024-03-16 11:01:43 GMT+8 | quote | https://x.com/silverfang88/status/1768835007810855051 | 那就是defina今天结束+开盘了
+- `1768835461789696355` | 2024-03-16 11:03:32 GMT+8 | original | https://x.com/silverfang88/status/1768835461789696355 | @Defina_Official 几把的 别发合约出来啊 搞一堆人狙击他妈了B的
+- `1768836155158434141` | 2024-03-16 11:06:17 GMT+8 | original | https://x.com/silverfang88/status/1768836155158434141 | @ao168_bnb @pokeepandaa 操 不至于 人家为这点钱惹一身骚  
+- `1768838357369356376` | 2024-03-16 11:15:02 GMT+8 | quote | https://x.com/silverfang88/status/1768838357369356376 | 黑子说话！！！！！！！！！！！！！！！！！！！！！
+- `1768855684857102427` | 2024-03-16 12:23:53 GMT+8 | quote | https://x.com/silverfang88/status/1768855684857102427 | 无敌了 https://t.co/clrnBAOPOS
+- `1768883079819468833` | 2024-03-16 14:12:45 GMT+8 | original | https://x.com/silverfang88/status/1768883079819468833 | 今天就搞这几个 一定赢
+- `1768883201877934411` | 2024-03-16 14:13:14 GMT+8 | original | https://x.com/silverfang88/status/1768883201877934411 | 还有mama 的预售 
+- `1768956969820246203` | 2024-03-16 19:06:21 GMT+8 | quote | https://x.com/silverfang88/status/1768956969820246203 | 这不是几把没跑路吗 天天叫叫叫的 https://t.co/C455vQF71P
+- `1769020665342927052` | 2024-03-16 23:19:28 GMT+8 | reply | https://x.com/silverfang88/status/1769020665342927052 | @wang85450777 我他妈也没收到币
+- `1769078670105182412` | 2024-03-17 03:09:57 GMT+8 | reply | https://x.com/silverfang88/status/1769078670105182412 | 如履薄冰！！ https://t.co/rBMDxxrrW1
+- `1769237574814478439` | 2024-03-17 13:41:23 GMT+8 | original | https://x.com/silverfang88/status/1769237574814478439 | 梭了 不带脑子 
+- `1769238686112088272` | 2024-03-17 13:45:48 GMT+8 | quote | https://x.com/silverfang88/status/1769238686112088272 | 我几把bome踏空4倍的  我也是空狗好吧 https://t.co/o5ZmbHjXxF
+- `1769241480940409242` | 2024-03-17 13:56:54 GMT+8 | original | https://x.com/silverfang88/status/1769241480940409242 | 24gG4br5xFBRmxdqpgirtxgcr7BaWoErQfc2uyDp2Qhh
+- `1769249499455603000` | 2024-03-17 14:28:46 GMT+8 | reply | https://x.com/silverfang88/status/1769249499455603000 | @JiaQianClub 就是因为没到账 我才梭哈
+- `1769251040820412486` | 2024-03-17 14:34:53 GMT+8 | original | https://x.com/silverfang88/status/1769251040820412486 | 这么砸大池子？
+- `1769263767479586879` | 2024-03-17 15:25:28 GMT+8 | reply | https://x.com/silverfang88/status/1769263767479586879 | @RobbieLiu 哈哈哈 没事了
+- `1769271935186108861` | 2024-03-17 15:57:55 GMT+8 | original | https://x.com/silverfang88/status/1769271935186108861 | 还没收到 
+- `1769285476098183365` | 2024-03-17 16:51:43 GMT+8 | quote | https://x.com/silverfang88/status/1769285476098183365 | 牛逼 https://t.co/iIgyDXvDPU
+- `1769312772548960691` | 2024-03-17 18:40:11 GMT+8 | quote | https://x.com/silverfang88/status/1769312772548960691 | MAD 亏 140sol
+- `1769312876219470226` | 2024-03-17 18:40:36 GMT+8 | quote | https://x.com/silverfang88/status/1769312876219470226 | MAD 亏 140sol
+- `1769313549321437637` | 2024-03-17 18:43:17 GMT+8 | reply | https://x.com/silverfang88/status/1769313549321437637 | 5万sol预售被退款了  记不清了 好像就是那个勾八 $NAP
+- `1769314799236665437` | 2024-03-17 18:48:15 GMT+8 | reply | https://x.com/silverfang88/status/1769314799236665437 | @NANA91550275 那我废物啊 有啥办法啊 
+- `1769315456807035090` | 2024-03-17 18:50:51 GMT+8 | reply | https://x.com/silverfang88/status/1769315456807035090 | @tngjngs37980339 我追高都翻倍了
+- `1769317368914735453` | 2024-03-17 18:58:27 GMT+8 | reply | https://x.com/silverfang88/status/1769317368914735453 | @nft_divolv_eth 笑死我了
+- `1769317391488491868` | 2024-03-17 18:58:33 GMT+8 | reply | https://x.com/silverfang88/status/1769317391488491868 | @0xNeoCrypto 那确实啊
+- `1769318498210046085` | 2024-03-17 19:02:56 GMT+8 | reply | https://x.com/silverfang88/status/1769318498210046085 | @RuiRuiMeta 本来就是啊
+- `1769319343018442912` | 2024-03-17 19:06:18 GMT+8 | quote | https://x.com/silverfang88/status/1769319343018442912 | 其实逻辑很简单啊 defina项目方比起什么跑路的 沙雕 撤池子的 还有什么KOL预售 那至少有游戏啥的吧  
+- `1769319509549007063` | 2024-03-17 19:06:58 GMT+8 | quote | https://x.com/silverfang88/status/1769319509549007063 | 其实逻辑很简单啊 defina项目方比起什么跑路的 沙雕 撤池子的 还有什么KOL预售 那至少有游戏啥的吧  
+- `1769319907324256505` | 2024-03-17 19:08:32 GMT+8 | quote | https://x.com/silverfang88/status/1769319907324256505 | 其实逻辑很简单啊 defina项目方比起什么跑路的 沙雕 撤池子的 还有什么KOL预售 那至少有游戏啥的吧  
+- `1769323035645841887` | 2024-03-17 19:20:58 GMT+8 | original | https://x.com/silverfang88/status/1769323035645841887 | 其实预售盘的逻辑就是
+- `1769323143326294507` | 2024-03-17 19:21:24 GMT+8 | original | https://x.com/silverfang88/status/1769323143326294507 | 其实预售盘的逻辑就是
+- `1769327440545849787` | 2024-03-17 19:38:28 GMT+8 | reply | https://x.com/silverfang88/status/1769327440545849787 | @mr61781317 大池子都不可能一波流的 
+- `1769340608227799059` | 2024-03-17 20:30:48 GMT+8 | original | https://x.com/silverfang88/status/1769340608227799059 | 是说怎么整理钱包 
+- `1769341052207481175` | 2024-03-17 20:32:34 GMT+8 | original | https://x.com/silverfang88/status/1769341052207481175 | 是说怎么整理钱包 
+- `1769342138708283739` | 2024-03-17 20:36:53 GMT+8 | reply | https://x.com/silverfang88/status/1769342138708283739 | @shanhuDD 我到货就出货
+- `1769342161181376533` | 2024-03-17 20:36:58 GMT+8 | reply | https://x.com/silverfang88/status/1769342161181376533 | @xueqiu88 操
+- `1769342375283794419` | 2024-03-17 20:37:49 GMT+8 | reply | https://x.com/silverfang88/status/1769342375283794419 | @Defina_Official 大格局
+- `1769342502690000983` | 2024-03-17 20:38:20 GMT+8 | reply | https://x.com/silverfang88/status/1769342502690000983 | @ttaochain 那没办法了 去中心化不相信眼泪
+- `1769344089701412975` | 2024-03-17 20:44:38 GMT+8 | reply | https://x.com/silverfang88/status/1769344089701412975 | @JiuYanqiao66 很正常 预售习惯就好了 solana转账很卡
+- `1769345165427167477` | 2024-03-17 20:48:54 GMT+8 | reply | https://x.com/silverfang88/status/1769345165427167477 | @HasakiDoge 现在知道了咋回事不
+- `1769345242241601897` | 2024-03-17 20:49:13 GMT+8 | reply | https://x.com/silverfang88/status/1769345242241601897 | @ETAcool1 我已经梭了400sol了 看看吧
+- `1769350120821190750` | 2024-03-17 21:08:36 GMT+8 | reply | https://x.com/silverfang88/status/1769350120821190750 | @DChua1992 我帮你卖了不好吗？？？
+- `1769353570451603522` | 2024-03-17 21:22:18 GMT+8 | reply | https://x.com/silverfang88/status/1769353570451603522 | @Sansuimi88 那没办法 这种预售盘很容易转错账归零的
+- `1769353629247451559` | 2024-03-17 21:22:32 GMT+8 | reply | https://x.com/silverfang88/status/1769353629247451559 | @Jungle_7777 肯定价值啊 这路线图
+- `1769354879858852169` | 2024-03-17 21:27:31 GMT+8 | reply | https://x.com/silverfang88/status/1769354879858852169 | @dreamislandlol solana转账出问题很正常
+- `1769384909678792901` | 2024-03-17 23:26:50 GMT+8 | reply | https://x.com/silverfang88/status/1769384909678792901 | @xinyi_eth 你不是都70万u了吗 日你妈的
+- `1769384982009589965` | 2024-03-17 23:27:07 GMT+8 | reply | https://x.com/silverfang88/status/1769384982009589965 | @xinyi_eth 日入七十万U
+- `1769402313334988810` | 2024-03-18 00:36:00 GMT+8 | original | https://x.com/silverfang88/status/1769402313334988810 | 这个开盘要蹲吗？
+- `1769459870896419058` | 2024-03-18 04:24:42 GMT+8 | original | https://x.com/silverfang88/status/1769459870896419058 | 没有邀请嘉宾的一期
+- `1769468670646890691` | 2024-03-18 04:59:40 GMT+8 | reply | https://x.com/silverfang88/status/1769468670646890691 | @ETAcool1 没有
+- `1769468683665965364` | 2024-03-18 04:59:43 GMT+8 | reply | https://x.com/silverfang88/status/1769468683665965364 | @Edison19960630 有
+- `1769468700082516154` | 2024-03-18 04:59:47 GMT+8 | reply | https://x.com/silverfang88/status/1769468700082516154 | @Eth_biii 啥
+- `1769472369796481121` | 2024-03-18 05:14:22 GMT+8 | reply | https://x.com/silverfang88/status/1769472369796481121 | @0xPatrickstarr 偷偷赚了30万U？？
+- `1769474093642924515` | 2024-03-18 05:21:13 GMT+8 | original | https://x.com/silverfang88/status/1769474093642924515 | 盘面又跌了80% 
+- `1769485648157626707` | 2024-03-18 06:07:08 GMT+8 | original | https://x.com/silverfang88/status/1769485648157626707 | 都给 bome 送钱 https://t.co/a3FWpQCJcF
+- `1769487189145002169` | 2024-03-18 06:13:16 GMT+8 | reply | https://x.com/silverfang88/status/1769487189145002169 | 听众群+v  Edon_Mask
+- `1769532356858101773` | 2024-03-18 09:12:44 GMT+8 | quote | https://x.com/silverfang88/status/1769532356858101773 | 哈哈哈 https://t.co/UbU3ovMSSe
+- `1769537949912219996` | 2024-03-18 09:34:58 GMT+8 | reply | https://x.com/silverfang88/status/1769537949912219996 | @neso 哥 还得是你
+- `1769544869922451580` | 2024-03-18 10:02:28 GMT+8 | original | https://x.com/silverfang88/status/1769544869922451580 | 在老项目上亏的钱
+- `1769568849282666647` | 2024-03-18 11:37:45 GMT+8 | original | https://x.com/silverfang88/status/1769568849282666647 | etherfi怎么看？兄弟们
+- `1769593672926986722` | 2024-03-18 13:16:23 GMT+8 | reply | https://x.com/silverfang88/status/1769593672926986722 | @cishanjia 😭😭😭
+- `1769604587713867811` | 2024-03-18 13:59:46 GMT+8 | quote | https://x.com/silverfang88/status/1769604587713867811 | 期待ryan神来space分享denver见闻 https://t.co/nZwLcSHO67
+- `1769614829684232493` | 2024-03-18 14:40:27 GMT+8 | original | https://x.com/silverfang88/status/1769614829684232493 | @john01458848 我割了一半给他们啊  他妈的 我也知道我拿多了
+- `1769614887326449920` | 2024-03-18 14:40:41 GMT+8 | original | https://x.com/silverfang88/status/1769614887326449920 | @SPerkins83220 为啥
+- `1769615514366521749` | 2024-03-18 14:43:11 GMT+8 | original | https://x.com/silverfang88/status/1769615514366521749 | @john01458848 我这不是在CX吗 为了自己的钱
+- `1769618513486823674` | 2024-03-18 14:55:06 GMT+8 | original | https://x.com/silverfang88/status/1769618513486823674 | 学习 https://t.co/uIMflOwRNH
+- `1769618609616159025` | 2024-03-18 14:55:29 GMT+8 | original | https://x.com/silverfang88/status/1769618609616159025 | @Tooonixx @john01458848 挖槽 我不卖 我格局
+- `1769622144894337384` | 2024-03-18 15:09:31 GMT+8 | original | https://x.com/silverfang88/status/1769622144894337384 | 不相信奇迹的人们 
+- `1769622287395778700` | 2024-03-18 15:10:05 GMT+8 | repost | https://x.com/silverfang88/status/1769622287395778700 | RT @silverfang88: 没有邀请嘉宾的一期
+- `1769633042346172727` | 2024-03-18 15:52:50 GMT+8 | original | https://x.com/silverfang88/status/1769633042346172727 | 7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3
+- `1769633716454789124` | 2024-03-18 15:55:30 GMT+8 | quote | https://x.com/silverfang88/status/1769633716454789124 | 大池子 没预售了 没抛压  绝对出圈 绝对要飞 https://t.co/puBvnvSbJ5
+- `1769635199543828790` | 2024-03-18 16:01:24 GMT+8 | original | https://x.com/silverfang88/status/1769635199543828790 | https://t.co/dY3RkptPe1
+- `1769636897238724975` | 2024-03-18 16:08:09 GMT+8 | original | https://x.com/silverfang88/status/1769636897238724975 | 7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3
+- `1769651350369980807` | 2024-03-18 17:05:35 GMT+8 | original | https://x.com/silverfang88/status/1769651350369980807 | https://t.co/5cNjp4AC03
+- `1769654353881600276` | 2024-03-18 17:17:31 GMT+8 | original | https://x.com/silverfang88/status/1769654353881600276 | 打开自己的币安
+- `1769662804590518703` | 2024-03-18 17:51:06 GMT+8 | original | https://x.com/silverfang88/status/1769662804590518703 | 一姐，我一直是币安的支持者
+- `1769662860630622593` | 2024-03-18 17:51:19 GMT+8 | original | https://x.com/silverfang88/status/1769662860630622593 | 一姐，我一直是币安的支持者
+- `1769672160837017761` | 2024-03-18 18:28:16 GMT+8 | original | https://x.com/silverfang88/status/1769672160837017761 | 确定看过了 不可能升级了 
+- `1769688550503481431` | 2024-03-18 19:33:24 GMT+8 | original | https://x.com/silverfang88/status/1769688550503481431 | Space卡掉了 进去一直闪退
+- `1769804192963498463` | 2024-03-19 03:12:55 GMT+8 | repost | https://x.com/silverfang88/status/1769804192963498463 | RT @SatoshiNobility: $SLERF 今天见证了历史！🤣
+- `1769804291114410249` | 2024-03-19 03:13:19 GMT+8 | original | https://x.com/silverfang88/status/1769804291114410249 | 醒了
+- `1769809443447804259` | 2024-03-19 03:33:47 GMT+8 | original | https://x.com/silverfang88/status/1769809443447804259 | 买入 持有 cx 等待 自由
+- `1769810570306326847` | 2024-03-19 03:38:16 GMT+8 | original | https://x.com/silverfang88/status/1769810570306326847 | @AnranGuys 梭了
+- `1769812943611248735` | 2024-03-19 03:47:41 GMT+8 | repost | https://x.com/silverfang88/status/1769812943611248735 | RT @Ryanqyz_hodl: 如果你现在不购买并行EVM的神奇绿色价值硬币 $Canto ，我认为你可能不喜欢赚钱，讨厌发财。🟢
+- `1769813121810481449` | 2024-03-19 03:48:24 GMT+8 | original | https://x.com/silverfang88/status/1769813121810481449 | 梭哈slerf
+- `1769815220879310897` | 2024-03-19 03:56:44 GMT+8 | original | https://x.com/silverfang88/status/1769815220879310897 | @7488eth 冲
+- `1769842156607266923` | 2024-03-19 05:43:46 GMT+8 | quote | https://x.com/silverfang88/status/1769842156607266923 | 捐款 帮助社区 然后赔偿一部分presale的参与者
+- `1769843124308734061` | 2024-03-19 05:47:37 GMT+8 | original | https://x.com/silverfang88/status/1769843124308734061 | @Slerfsol Ask holders to donate some portions of token ASAP
+- `1769844196658036935` | 2024-03-19 05:51:53 GMT+8 | original | https://x.com/silverfang88/status/1769844196658036935 | @Slerfsol @weremeow @weremeow HALP
+- `1769846936633294920` | 2024-03-19 06:02:46 GMT+8 | original | https://x.com/silverfang88/status/1769846936633294920 | slerf如果想要上大所 肯定是要解决创始人本身被起诉 或者各种法务问题
+- `1769847608376217838` | 2024-03-19 06:05:26 GMT+8 | original | https://x.com/silverfang88/status/1769847608376217838 | slerf如果想要上大所 肯定是要解决创始人本身被起诉 或者各种法务问题
+- `1769851430817476638` | 2024-03-19 06:20:38 GMT+8 | original | https://x.com/silverfang88/status/1769851430817476638 | 一人一sol  拯救树懒 @Slerfsol
+- `1769856147018633598` | 2024-03-19 06:39:22 GMT+8 | repost | https://x.com/silverfang88/status/1769856147018633598 | RT @Rewkang: It actually has it all and some serious potential to be blue chip memecoin for this cycle 
+- `1769856167423905972` | 2024-03-19 06:39:27 GMT+8 | repost | https://x.com/silverfang88/status/1769856167423905972 | RT @Rewkang: The Slerf saga is one of the most retarded and beautiful things I’ve ever witnessed in crypto
+- `1769869620045820362` | 2024-03-19 07:32:54 GMT+8 | quote | https://x.com/silverfang88/status/1769869620045820362 | SOON https://t.co/zDZ3mrLkHm
+- `1769870425461252228` | 2024-03-19 07:36:06 GMT+8 | original | https://x.com/silverfang88/status/1769870425461252228 | WSB https://t.co/yfoyZecpwJ
+- `1769871363437641948` | 2024-03-19 07:39:50 GMT+8 | original | https://x.com/silverfang88/status/1769871363437641948 | 相信奇迹这件事 本身就是奇迹
+- `1769871492412506186` | 2024-03-19 07:40:21 GMT+8 | original | https://x.com/silverfang88/status/1769871492412506186 | @KekeiiLabs @Slerfsol 不行的 你细想
+- `1769882535989776637` | 2024-03-19 08:24:14 GMT+8 | repost | https://x.com/silverfang88/status/1769882535989776637 | RT @neso: $Slerf 的退款补偿方案如果是发起捐款退 sol，以其目前超过7万的holder数来说，达成5万sol目标并不算难。Presale的参与者应该也能接受这个结果，拿到钱之后没准还会继续买入 $Slerf 。这是目前比较可行的方案，也是最能维持和继续捕获市场…
+- `1769888106130325626` | 2024-03-19 08:46:22 GMT+8 | repost | https://x.com/silverfang88/status/1769888106130325626 | RT @xinyi_eth: 这一次我拿住了
+- `1769888112241480153` | 2024-03-19 08:46:23 GMT+8 | repost | https://x.com/silverfang88/status/1769888112241480153 | RT @_0xKenny: $slerf 的精彩刚刚开始，meme让人热血沸腾，哈哈
+- `1769888134827737135` | 2024-03-19 08:46:28 GMT+8 | repost | https://x.com/silverfang88/status/1769888134827737135 | RT @JamesChu809: $SLERF
+- `1769888157984510312` | 2024-03-19 08:46:34 GMT+8 | repost | https://x.com/silverfang88/status/1769888157984510312 | RT @loveenadia__x: $SLERF will surpass $BOME
+- `1769888441745973424` | 2024-03-19 08:47:42 GMT+8 | repost | https://x.com/silverfang88/status/1769888441745973424 | RT @topsignal: 现在是 $slerf 复活赛时刻 🛎️
+- `1769888654627918109` | 2024-03-19 08:48:32 GMT+8 | repost | https://x.com/silverfang88/status/1769888654627918109 | RT @Mirro7777: 已经四倍了
+- `1769888766888386889` | 2024-03-19 08:48:59 GMT+8 | repost | https://x.com/silverfang88/status/1769888766888386889 | RT @topsignal: PUMp iT 🛎️
+- `1769888917833019472` | 2024-03-19 08:49:35 GMT+8 | repost | https://x.com/silverfang88/status/1769888917833019472 | RT @silverfang88: slerf如果想要上大所 肯定是要解决创始人本身被起诉 或者各种法务问题
+- `1769890102212186502` | 2024-03-19 08:54:17 GMT+8 | repost | https://x.com/silverfang88/status/1769890102212186502 | RT @Dincocoin: Oh fuck
+- `1769890123485749421` | 2024-03-19 08:54:23 GMT+8 | repost | https://x.com/silverfang88/status/1769890123485749421 | RT @Tintinx2021: @Slerfsol 之前想不出有比bome还牛的叙事，结果又出来个这个烧掉1000万美元池子的叙事
+- `1769891493819355428` | 2024-03-19 08:59:49 GMT+8 | original | https://x.com/silverfang88/status/1769891493819355428 | @thecryptoskanda 7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3
+- `1769893426718257346` | 2024-03-19 09:07:30 GMT+8 | repost | https://x.com/silverfang88/status/1769893426718257346 | RT @1573___: 我告诉你为什么TMD要拿住的 $SLERF ，项目方，VC，Ex，庄，都没有筹码。
+- `1769894191033647391` | 2024-03-19 09:10:32 GMT+8 | repost | https://x.com/silverfang88/status/1769894191033647391 | RT @xinyi_eth: @silverfang88 @Slerfsol 我们会创造历史
+- `1769894258910085356` | 2024-03-19 09:10:49 GMT+8 | repost | https://x.com/silverfang88/status/1769894258910085356 | RT @topsignal: 机构万 $sol 跑步进场，你还在等低价🛎️
+- `1769900190272512181` | 2024-03-19 09:34:23 GMT+8 | repost | https://x.com/silverfang88/status/1769900190272512181 | RT @scottmelker: INSANITY in The Meme Coin Market!! \| The Alpha Show https://t.co/9lglR13wdC
+- `1769901113635950770` | 2024-03-19 09:38:03 GMT+8 | original | https://x.com/silverfang88/status/1769901113635950770 | SLERF吸血所有的币
+- `1769902740187054277` | 2024-03-19 09:44:31 GMT+8 | repost | https://x.com/silverfang88/status/1769902740187054277 | RT @SatoshiNobility: 图中的memecoin有哪些？
+- `1769902753894031610` | 2024-03-19 09:44:34 GMT+8 | repost | https://x.com/silverfang88/status/1769902753894031610 | RT @topsignal: WE THE $slerf
+- `1769903325523145129` | 2024-03-19 09:46:50 GMT+8 | original | https://x.com/silverfang88/status/1769903325523145129 | @0xzhangsan91 所有的六个链上钱包 交易所里的钱 全部的其他币我全部卖出了 梭哈slerf
+- `1769903342262591520` | 2024-03-19 09:46:54 GMT+8 | repost | https://x.com/silverfang88/status/1769903342262591520 | RT @xinyi_eth: @silverfang88 属于我们的时代终于到来
+- `1769916776265945091` | 2024-03-19 10:40:17 GMT+8 | quote | https://x.com/silverfang88/status/1769916776265945091 | 一人一sol  拯救树懒 上线币安 https://t.co/sxdd7yirpq
+- `1769917363200098399` | 2024-03-19 10:42:37 GMT+8 | original | https://x.com/silverfang88/status/1769917363200098399 | 我已经联系到了 @Slerfsol 
+- `1769929171147382878` | 2024-03-19 11:29:32 GMT+8 | repost | https://x.com/silverfang88/status/1769929171147382878 | RT @0xcryptowizard: 我为什么愿意发声？
+- `1769929195776340063` | 2024-03-19 11:29:38 GMT+8 | repost | https://x.com/silverfang88/status/1769929195776340063 | RT @0xcryptowizard: Lbank 挺聪明的，第一个站出来接这波流量，捐款给预售者。
+- `1769939404246622580` | 2024-03-19 12:10:12 GMT+8 | original | https://x.com/silverfang88/status/1769939404246622580 | 谁速度发个slerf的NFT
+- `1769941138415173833` | 2024-03-19 12:17:05 GMT+8 | original | https://x.com/silverfang88/status/1769941138415173833 | @shujunlili @Slerfsol 你不懂
+- `1769943055564488998` | 2024-03-19 12:24:43 GMT+8 | original | https://x.com/silverfang88/status/1769943055564488998 | 伟大的叙事！！！！！！！！！！！！！！！！！！！！！！！！ https://t.co/TqtjwJPlE7
+- `1769945123654173057` | 2024-03-19 12:32:56 GMT+8 | original | https://x.com/silverfang88/status/1769945123654173057 | @hantao456789 你可能没看仔细
+- `1769953095729996156` | 2024-03-19 13:04:36 GMT+8 | repost | https://x.com/silverfang88/status/1769953095729996156 | RT @silverfang88: 相信奇迹这件事 本身就是奇迹
+- `1769977322847777083` | 2024-03-19 14:40:53 GMT+8 | original | https://x.com/silverfang88/status/1769977322847777083 | @abyssofgambling 你是小医仙吗？
+- `1770042070419247291` | 2024-03-19 18:58:10 GMT+8 | original | https://x.com/silverfang88/status/1770042070419247291 | 预售还是玩正经做事情的项目吧
+- `1770053094543372767` | 2024-03-19 19:41:58 GMT+8 | original | https://x.com/silverfang88/status/1770053094543372767 | @xinyi_eth @dexter_cap 哈哈哈哈哈  
+- `1770056265017770421` | 2024-03-19 19:54:34 GMT+8 | repost | https://x.com/silverfang88/status/1770056265017770421 | RT @HuobiGlobal: ❤️加密货币社区的公平与透明❤️
+- `1770159349228323034` | 2024-03-20 02:44:11 GMT+8 | quote | https://x.com/silverfang88/status/1770159349228323034 | 牛逼！捐赠了500sol给 @Slerfsol https://t.co/Q4ZWN5th0t
+- `1770165055457243407` | 2024-03-20 03:06:51 GMT+8 | original | https://x.com/silverfang88/status/1770165055457243407 | @keyahayek @aevoxyz @Aevo_CN @juliankoh @obadje_ @chudnovglavniy @kenchangh @babbala k神刷了多少被反撸的…
+- `1770165819747553604` | 2024-03-20 03:09:54 GMT+8 | quote | https://x.com/silverfang88/status/1770165819747553604 | 😂 那还是高尚牛逼点
+- `1770168125515862058` | 2024-03-20 03:19:03 GMT+8 | original | https://x.com/silverfang88/status/1770168125515862058 | @billywen_ @Slerfsol 真牛逼
+- `1770185480417505499` | 2024-03-20 04:28:01 GMT+8 | original | https://x.com/silverfang88/status/1770185480417505499 | @EkberMemet @SatoshiNobility 拉人好累 我懒得拉人了
+- `1770192931120411047` | 2024-03-20 04:57:38 GMT+8 | original | https://x.com/silverfang88/status/1770192931120411047 | @chesterttt2 @SatoshiNobility 学吧练吧
+- `1770285036048179453` | 2024-03-20 11:03:37 GMT+8 | original | https://x.com/silverfang88/status/1770285036048179453 | 本期必听，邀请了神秘嘉宾
+- `1770286775908405620` | 2024-03-20 11:10:32 GMT+8 | original | https://x.com/silverfang88/status/1770286775908405620 | @xueqiu88 嘘
+- `1770286896519819345` | 2024-03-20 11:11:01 GMT+8 | original | https://x.com/silverfang88/status/1770286896519819345 | @Wb6Iq 我不牛逼 我小卡拉咪
+- `1770288486437838919` | 2024-03-20 11:17:20 GMT+8 | original | https://x.com/silverfang88/status/1770288486437838919 | @0xUnicorn @Slerfsol 这是车队地址 哈哈哈
+- `1770288538879148066` | 2024-03-20 11:17:32 GMT+8 | original | https://x.com/silverfang88/status/1770288538879148066 | @DragonKillerBTC @SatoshiNobility 6
+- `1770288614775181447` | 2024-03-20 11:17:50 GMT+8 | original | https://x.com/silverfang88/status/1770288614775181447 | @hnbng552386 6
+- `1770288632365994384` | 2024-03-20 11:17:54 GMT+8 | original | https://x.com/silverfang88/status/1770288632365994384 | @CryptoCarol_ 6
+- `1770289387659575648` | 2024-03-20 11:20:55 GMT+8 | original | https://x.com/silverfang88/status/1770289387659575648 | @Tommy2593466159 6
+- `1770291030560002427` | 2024-03-20 11:27:26 GMT+8 | reply | https://x.com/silverfang88/status/1770291030560002427 | 我们到时候也不会让嘉宾做自我介绍
+- `1770297451850666249` | 2024-03-20 11:52:57 GMT+8 | original | https://x.com/silverfang88/status/1770297451850666249 | @Ainide_Dengdeng 牛逼
+- `1770307687600803966` | 2024-03-20 12:33:38 GMT+8 | original | https://x.com/silverfang88/status/1770307687600803966 | @luckybb88 最近
+- `1770352736384520325` | 2024-03-20 15:32:38 GMT+8 | original | https://x.com/silverfang88/status/1770352736384520325 | base链 我还在学
+- `1770358638781006060` | 2024-03-20 15:56:05 GMT+8 | original | https://x.com/silverfang88/status/1770358638781006060 | @Raxy2001 也在学了
+- `1770358750500606361` | 2024-03-20 15:56:32 GMT+8 | original | https://x.com/silverfang88/status/1770358750500606361 | @jackyyyso 被操了好几次 什么是草了
+- `1770359091417751719` | 2024-03-20 15:57:53 GMT+8 | original | https://x.com/silverfang88/status/1770359091417751719 | @AngelaTurn91713 那建议你们直接报警
+- `1770359673033503160` | 2024-03-20 16:00:12 GMT+8 | original | https://x.com/silverfang88/status/1770359673033503160 | @tngjngs37980339 她不会又卖飞了吧
+- `1770359839333441944` | 2024-03-20 16:00:52 GMT+8 | original | https://x.com/silverfang88/status/1770359839333441944 | @4135bit nb
+- `1770360152375300192` | 2024-03-20 16:02:06 GMT+8 | original | https://x.com/silverfang88/status/1770360152375300192 | @mx24343 交的够多了
+- `1770366841065496704` | 2024-03-20 16:28:41 GMT+8 | original | https://x.com/silverfang88/status/1770366841065496704 | @XuSir_BEBE 也不是 就是kol喊单无所谓
+- `1770374696514535635` | 2024-03-20 16:59:54 GMT+8 | original | https://x.com/silverfang88/status/1770374696514535635 | @Ainide_Dengdeng 已经准备梭哈了 https://t.co/L4eRLhUFLP
+- `1770424656874315975` | 2024-03-20 20:18:25 GMT+8 | original | https://x.com/silverfang88/status/1770424656874315975 | @AngelaTurn91713 删推特咋了 
+- `1770424811858087989` | 2024-03-20 20:19:02 GMT+8 | original | https://x.com/silverfang88/status/1770424811858087989 | @AngelaTurn91713 关我屁事儿
+- `1770424935275499713` | 2024-03-20 20:19:32 GMT+8 | reply | https://x.com/silverfang88/status/1770424935275499713 | @LvSamaOnFire 不是 我没资格
+- `1770425112434794848` | 2024-03-20 20:20:14 GMT+8 | reply | https://x.com/silverfang88/status/1770425112434794848 | @TutuCrypto 还好犹豫了，起床发现都归零了
+- `1770425271004385675` | 2024-03-20 20:20:52 GMT+8 | reply | https://x.com/silverfang88/status/1770425271004385675 | @NANA91550275 看起来救了我一条狗命
+- `1770425368526065803` | 2024-03-20 20:21:15 GMT+8 | quote | https://x.com/silverfang88/status/1770425368526065803 | 醒来后都归零了？？ https://t.co/VzhLjg6DHq
+- `1770431934637961463` | 2024-03-20 20:47:20 GMT+8 | quote | https://x.com/silverfang88/status/1770431934637961463 | 有点
+- `1770434786613465512` | 2024-03-20 20:58:40 GMT+8 | repost | https://x.com/silverfang88/status/1770434786613465512 | RT @TeddyAC01: 今天更新一下区块链入坑指南《从0开始到A9》I人版
+- `1770436754987733366` | 2024-03-20 21:06:30 GMT+8 | reply | https://x.com/silverfang88/status/1770436754987733366 | @AngelaTurn91713 我就是个勾八
+- `1770438004097572883` | 2024-03-20 21:11:27 GMT+8 | reply | https://x.com/silverfang88/status/1770438004097572883 | @AngelaTurn91713 赶紧的吧 
+- `1770438349381046610` | 2024-03-20 21:12:50 GMT+8 | original | https://x.com/silverfang88/status/1770438349381046610 | $frog 是什么项目？什么故事
+- `1770438420025721121` | 2024-03-20 21:13:07 GMT+8 | reply | https://x.com/silverfang88/status/1770438420025721121 | @tngjngs37980339 我等等
+- `1770438452103774529` | 2024-03-20 21:13:14 GMT+8 | reply | https://x.com/silverfang88/status/1770438452103774529 | @hnbng552386 over
+- `1770438501407805756` | 2024-03-20 21:13:26 GMT+8 | reply | https://x.com/silverfang88/status/1770438501407805756 | @bebe518512 你是说其他链吗
+- `1770438529799061819` | 2024-03-20 21:13:33 GMT+8 | reply | https://x.com/silverfang88/status/1770438529799061819 | @guolong14038004 gg
+- `1770438823316533462` | 2024-03-20 21:14:43 GMT+8 | original | https://x.com/silverfang88/status/1770438823316533462 | @GGBOND268884 空投很丝滑吗 这么牛逼
+- `1770438859744063637` | 2024-03-20 21:14:51 GMT+8 | reply | https://x.com/silverfang88/status/1770438859744063637 | @Fie115 真牛逼
+- `1770439861071188375` | 2024-03-20 21:18:50 GMT+8 | original | https://x.com/silverfang88/status/1770439861071188375 | 奉劝有些粉丝
+- `1770439930927304836` | 2024-03-20 21:19:07 GMT+8 | original | https://x.com/silverfang88/status/1770439930927304836 | 奉劝有些粉丝
+- `1770440618608595076` | 2024-03-20 21:21:51 GMT+8 | reply | https://x.com/silverfang88/status/1770440618608595076 | @banana_iced 打太多了 已经打不动了
+- `1770440690100539453` | 2024-03-20 21:22:08 GMT+8 | reply | https://x.com/silverfang88/status/1770440690100539453 | @Bitsalem_Crypto 那我可能是G7
+- `1770440744723001648` | 2024-03-20 21:22:21 GMT+8 | reply | https://x.com/silverfang88/status/1770440744723001648 | @hnbng552386 没生气 我只是提醒大家我只是个勾八
+- `1770441003062690045` | 2024-03-20 21:23:22 GMT+8 | reply | https://x.com/silverfang88/status/1770441003062690045 | @DragonKillerBTC 啥通透啊 只是觉得无所谓了
+- `1770441200199217546` | 2024-03-20 21:24:09 GMT+8 | reply | https://x.com/silverfang88/status/1770441200199217546 | @Ren38c 无所谓 
+- `1770441477081981178` | 2024-03-20 21:25:16 GMT+8 | reply | https://x.com/silverfang88/status/1770441477081981178 | @meta4universe k9不是什么母狗吗
+- `1770441660263989634` | 2024-03-20 21:25:59 GMT+8 | reply | https://x.com/silverfang88/status/1770441660263989634 | @Jf5858777 6 恭喜发财
+- `1770442525758673250` | 2024-03-20 21:29:26 GMT+8 | reply | https://x.com/silverfang88/status/1770442525758673250 | @Jf5858777 感觉刚才那根阴线就是你砸的
+- `1770442727089492201` | 2024-03-20 21:30:14 GMT+8 | original | https://x.com/silverfang88/status/1770442727089492201 | @5edcth0x @banana_iced 那他妈 我是真的怕
+- `1770442799923483022` | 2024-03-20 21:30:31 GMT+8 | original | https://x.com/silverfang88/status/1770442799923483022 | @banana_iced 那会越来越畸形的
+- `1770442885457932567` | 2024-03-20 21:30:51 GMT+8 | original | https://x.com/silverfang88/status/1770442885457932567 | @ztb89000 下次就割你
+- `1770443060700180717` | 2024-03-20 21:31:33 GMT+8 | original | https://x.com/silverfang88/status/1770443060700180717 | @bangok16379677 666
+- `1770443087979892929` | 2024-03-20 21:31:40 GMT+8 | original | https://x.com/silverfang88/status/1770443087979892929 | @31415926eth gg
+- `1770443134947807293` | 2024-03-20 21:31:51 GMT+8 | original | https://x.com/silverfang88/status/1770443134947807293 | @yuhunji 别砸了
+- `1770455210948808720` | 2024-03-20 22:19:50 GMT+8 | original | https://x.com/silverfang88/status/1770455210948808720 | @abyssofgambling @akou_7 我没上车啊？？？？ 
+- `1770457224525038026` | 2024-03-20 22:27:50 GMT+8 | original | https://x.com/silverfang88/status/1770457224525038026 | @SatoshiNobility @RaydiumProtocol 666
+- `1770458189479268653` | 2024-03-20 22:31:40 GMT+8 | original | https://x.com/silverfang88/status/1770458189479268653 | @mingxie99761209 不是 哥们 你这名字 真牛逼
+- `1770460460967473340` | 2024-03-20 22:40:42 GMT+8 | quote | https://x.com/silverfang88/status/1770460460967473340 | 早点脱离任何这个世俗对个人的价值体系绑架
+- `1770461037067661376` | 2024-03-20 22:42:59 GMT+8 | original | https://x.com/silverfang88/status/1770461037067661376 | @abyssofgambling 那我背后骂你脚臭 你不会恨我吧
+- `1770461445655789955` | 2024-03-20 22:44:36 GMT+8 | original | https://x.com/silverfang88/status/1770461445655789955 | @abyssofgambling 那你下次能不能带我上车  
+- `1770462408915436025` | 2024-03-20 22:48:26 GMT+8 | quote | https://x.com/silverfang88/status/1770462408915436025 | 其实这个事情 我的理解是 
+- `1770462758099640484` | 2024-03-20 22:49:49 GMT+8 | quote | https://x.com/silverfang88/status/1770462758099640484 | 这个事情  已经超出了CEX的限制
+- `1770465849167483248` | 2024-03-20 23:02:06 GMT+8 | reply | https://x.com/silverfang88/status/1770465849167483248 | @chinababa88 因为池子太大了
+- `1770473402966389051` | 2024-03-20 23:32:07 GMT+8 | original | https://x.com/silverfang88/status/1770473402966389051 | @Dancer368997449 你猜猜为什么捐款没有加速
+- `1770477158701445424` | 2024-03-20 23:47:03 GMT+8 | quote | https://x.com/silverfang88/status/1770477158701445424 | 投票给slerf   !!!!!!!!!!! https://t.co/Gz3yntZV4L
+- `1770483235530662121` | 2024-03-21 00:11:11 GMT+8 | original | https://x.com/silverfang88/status/1770483235530662121 | 为什么321 DAO拉不回来了呢？
+- `1770483358402781561` | 2024-03-21 00:11:41 GMT+8 | original | https://x.com/silverfang88/status/1770483358402781561 | 为什么321 DAO拉不回来了呢？
+- `1770484631441142201` | 2024-03-21 00:16:44 GMT+8 | reply | https://x.com/silverfang88/status/1770484631441142201 | @dov_wo @321DAO_ 搞不来
+- `1770484733954097656` | 2024-03-21 00:17:09 GMT+8 | original | https://x.com/silverfang88/status/1770484733954097656 | @Insider_Venture @321DAO_ 没用 跟着你亏钱了 就真实上嘴脸
+- `1770484770503282938` | 2024-03-21 00:17:17 GMT+8 | original | https://x.com/silverfang88/status/1770484770503282938 | @TheWayvy @321DAO_ 是中堂大人
+- `1770484936597762309` | 2024-03-21 00:17:57 GMT+8 | original | https://x.com/silverfang88/status/1770484936597762309 | @0xsexybanana @321DAO_ 其实是羁绊太深了。如果大家只把彼此当肉便器，可能也不会有这么多的牵扯
+- `1770484962568921402` | 2024-03-21 00:18:03 GMT+8 | original | https://x.com/silverfang88/status/1770484962568921402 | @0x_toybear @321DAO_ 哦
+- `1770486186391351437` | 2024-03-21 00:22:55 GMT+8 | original | https://x.com/silverfang88/status/1770486186391351437 | @_ChengYao @321DAO_ 像极了各种利益集团的拉扯
+- `1770519550754181541` | 2024-03-21 02:35:30 GMT+8 | quote | https://x.com/silverfang88/status/1770519550754181541 | 会有的 白名单都在 https://t.co/FR7JfOJLpU
+- `1770519671067824177` | 2024-03-21 02:35:58 GMT+8 | reply | https://x.com/silverfang88/status/1770519671067824177 | @yuyue_chris @321DAO_ 脱离世俗评价体系
+- `1770519727858713009` | 2024-03-21 02:36:12 GMT+8 | reply | https://x.com/silverfang88/status/1770519727858713009 | @Ryanqyz_hodl @321DAO_ 冲啊
+- `1770520684277407971` | 2024-03-21 02:40:00 GMT+8 | reply | https://x.com/silverfang88/status/1770520684277407971 | @yydzeth @321DAO_ 神经病人思维广
+- `1770520773888721314` | 2024-03-21 02:40:21 GMT+8 | reply | https://x.com/silverfang88/status/1770520773888721314 | @hyperlazycot @321DAO_ 容易拉肚子
+- `1770520802745569334` | 2024-03-21 02:40:28 GMT+8 | reply | https://x.com/silverfang88/status/1770520802745569334 | @lin_yiliu @321DAO_ 加油加油
+- `1770520831442948538` | 2024-03-21 02:40:35 GMT+8 | reply | https://x.com/silverfang88/status/1770520831442948538 | @minimisue2022 @321DAO_ 哈哈哈哈
+- `1770520872534622434` | 2024-03-21 02:40:45 GMT+8 | reply | https://x.com/silverfang88/status/1770520872534622434 | @timtimtim_eth @321DAO_ 向前看吧
+- `1770520912191730046` | 2024-03-21 02:40:54 GMT+8 | reply | https://x.com/silverfang88/status/1770520912191730046 | @chesterttt2 @321DAO_ 学吧练吧
+- `1770520955216925060` | 2024-03-21 02:41:05 GMT+8 | reply | https://x.com/silverfang88/status/1770520955216925060 | @tuotuotuoyu @321DAO_ 应该会有 我让人画吧
+- `1770520997990457720` | 2024-03-21 02:41:15 GMT+8 | reply | https://x.com/silverfang88/status/1770520997990457720 | @JenniferAn54849 @321DAO_ 也未必不是好事
+- `1770521126323499167` | 2024-03-21 02:41:45 GMT+8 | reply | https://x.com/silverfang88/status/1770521126323499167 | @alpacacheeze @321DAO_ 纪念日快乐
+- `1770522628425490694` | 2024-03-21 02:47:43 GMT+8 | reply | https://x.com/silverfang88/status/1770522628425490694 | @ETAcool1 @321DAO_ 就这样吧
+- `1770522685459542093` | 2024-03-21 02:47:57 GMT+8 | reply | https://x.com/silverfang88/status/1770522685459542093 | @TutuCrypto @321DAO_ 还是有很多的
+- `1770523763181777371` | 2024-03-21 02:52:14 GMT+8 | quote | https://x.com/silverfang88/status/1770523763181777371 | 起飞。okx当年最早支持了shib
+- `1770552667779006526` | 2024-03-21 04:47:05 GMT+8 | reply | https://x.com/silverfang88/status/1770552667779006526 | @TutuCrypto 那可能水平还是比枪老师高很多的
+- `1770569653934297419` | 2024-03-21 05:54:35 GMT+8 | reply | https://x.com/silverfang88/status/1770569653934297419 | @___chanoto___ 🔥どうしてあなたはこんなに素晴らしい気質を持っているのですか？
+- `1770583876538184100` | 2024-03-21 06:51:06 GMT+8 | original | https://x.com/silverfang88/status/1770583876538184100 | https://t.co/Ys0jkpt6hh
+- `1770588587106464148` | 2024-03-21 07:09:49 GMT+8 | quote | https://x.com/silverfang88/status/1770588587106464148 | 666666666666 https://t.co/o2rYJkY04g
+- `1770595233891234252` | 2024-03-21 07:36:14 GMT+8 | repost | https://x.com/silverfang88/status/1770595233891234252 | RT @cryptoMMobserve: 万万没想到
+- `1770597700448174571` | 2024-03-21 07:46:02 GMT+8 | original | https://x.com/silverfang88/status/1770597700448174571 | 告知所有的K线技术流交易员
+- `1770598801847316761` | 2024-03-21 07:50:25 GMT+8 | reply | https://x.com/silverfang88/status/1770598801847316761 | @mablejiang @Immutable 老板 你为啥看起来只有16
+- `1770618875840696419` | 2024-03-21 09:10:11 GMT+8 | quote | https://x.com/silverfang88/status/1770618875840696419 | 我 
+- `1770620312800907469` | 2024-03-21 09:15:53 GMT+8 | quote | https://x.com/silverfang88/status/1770620312800907469 | 还得是 @cryptoxiao 
+- `1770708579676266925` | 2024-03-21 15:06:38 GMT+8 | original | https://x.com/silverfang88/status/1770708579676266925 | 随便侃侃听众群48小时内解散
+- `1770708591890010367` | 2024-03-21 15:06:41 GMT+8 | reply | https://x.com/silverfang88/status/1770708591890010367 | 可以以后在我的 highlight界面看到往期的随便侃侃
+- `1770709194972217384` | 2024-03-21 15:09:04 GMT+8 | quote | https://x.com/silverfang88/status/1770709194972217384 | 听本期space之前，
+- `1770721510811955447` | 2024-03-21 15:58:01 GMT+8 | reply | https://x.com/silverfang88/status/1770721510811955447 | @Zixi41620514 @321DAO_ 回不去了
+- `1770724991618654234` | 2024-03-21 16:11:51 GMT+8 | reply | https://x.com/silverfang88/status/1770724991618654234 | @Ryanqyz_hodl @Zixi41620514 @321DAO_ 东北玩泥巴
+- `1770725173953503441` | 2024-03-21 16:12:34 GMT+8 | quote | https://x.com/silverfang88/status/1770725173953503441 | 说实话 有的时候会很好
+- `1770728920620388578` | 2024-03-21 16:27:27 GMT+8 | reply | https://x.com/silverfang88/status/1770728920620388578 | @0xCVGod 推荐什么
+- `1770729018842664979` | 2024-03-21 16:27:51 GMT+8 | reply | https://x.com/silverfang88/status/1770729018842664979 | @meta4universe 呃
+- `1770734404312211677` | 2024-03-21 16:49:15 GMT+8 | reply | https://x.com/silverfang88/status/1770734404312211677 | @Dincocoin https://t.co/Orp6CqauW3
+- `1770734563184050452` | 2024-03-21 16:49:53 GMT+8 | reply | https://x.com/silverfang88/status/1770734563184050452 | @cryptowilliamm 呜呼呜呼
+- `1770734749201408359` | 2024-03-21 16:50:37 GMT+8 | reply | https://x.com/silverfang88/status/1770734749201408359 | @cishanjia 哥 还是得少打
+- `1770745736436531704` | 2024-03-21 17:34:17 GMT+8 | quote | https://x.com/silverfang88/status/1770745736436531704 | 太抽象了 
+- `1770746315661619277` | 2024-03-21 17:36:35 GMT+8 | quote | https://x.com/silverfang88/status/1770746315661619277 | 那个时候太熊了
+- `1770749762028941440` | 2024-03-21 17:50:16 GMT+8 | reply | https://x.com/silverfang88/status/1770749762028941440 | @banana_iced 是啊
+- `1770755569294405669` | 2024-03-21 18:13:21 GMT+8 | reply | https://x.com/silverfang88/status/1770755569294405669 | @cutepanda 真牛逼
+- `1770757580240867759` | 2024-03-21 18:21:20 GMT+8 | reply | https://x.com/silverfang88/status/1770757580240867759 | @jaysonhu2018 @SatoshiNobility 解散了哥
+- `1770861773823820106` | 2024-03-22 01:15:22 GMT+8 | original | https://x.com/silverfang88/status/1770861773823820106 | 月初分享的blendr
+- `1770861812558229915` | 2024-03-22 01:15:31 GMT+8 | original | https://x.com/silverfang88/status/1770861812558229915 | 月初分享的 $blendr
+- `1770945730447843809` | 2024-03-22 06:48:59 GMT+8 | original | https://x.com/silverfang88/status/1770945730447843809 | 有没有一种可能
+- `1770946035298275506` | 2024-03-22 06:50:12 GMT+8 | original | https://x.com/silverfang88/status/1770946035298275506 | 有没有一种可能
+- `1770988915702259944` | 2024-03-22 09:40:35 GMT+8 | quote | https://x.com/silverfang88/status/1770988915702259944 | 已解散
+- `1770995731861578070` | 2024-03-22 10:07:40 GMT+8 | reply | https://x.com/silverfang88/status/1770995731861578070 | @bobo10000x 聚是一坨屎
+- `1770995809032491252` | 2024-03-22 10:07:59 GMT+8 | reply | https://x.com/silverfang88/status/1770995809032491252 | @ccgg52001 space还是会开的
+- `1770995896957678010` | 2024-03-22 10:08:20 GMT+8 | reply | https://x.com/silverfang88/status/1770995896957678010 | @viclee1209 space再见
+- `1770995929912422457` | 2024-03-22 10:08:27 GMT+8 | reply | https://x.com/silverfang88/status/1770995929912422457 | @DonsonZeng 看推特一样的
+- `1770995970135732367` | 2024-03-22 10:08:37 GMT+8 | reply | https://x.com/silverfang88/status/1770995970135732367 | @HanJinWg666 其实越来越近了
+- `1770998760836858032` | 2024-03-22 10:19:42 GMT+8 | reply | https://x.com/silverfang88/status/1770998760836858032 | @xclisgood 填补自己一段周期的内心虚无
+- `1771001118677459201` | 2024-03-22 10:29:04 GMT+8 | reply | https://x.com/silverfang88/status/1771001118677459201 | @xclisgood https://t.co/9mzEN869IR
+- `1771011317102481591` | 2024-03-22 11:09:36 GMT+8 | repost | https://x.com/silverfang88/status/1771011317102481591 | RT @neso: 不少人将 $Slerf 和 $shib 做对比，其实是是来源于三点：
+- `1771012357684117927` | 2024-03-22 11:13:44 GMT+8 | original | https://x.com/silverfang88/status/1771012357684117927 | 还好吧 先看1000 https://t.co/WPcrowZgg4
+- `1771016788014219376` | 2024-03-22 11:31:20 GMT+8 | original | https://x.com/silverfang88/status/1771016788014219376 | 很多刚入圈或者粉丝朋友问我为什么解散
+- `1771019802691211692` | 2024-03-22 11:43:19 GMT+8 | reply | https://x.com/silverfang88/status/1771019802691211692 | @Wang_john 也是 女同学指不定听话点
+- `1771019839475261774` | 2024-03-22 11:43:28 GMT+8 | original | https://x.com/silverfang88/status/1771019839475261774 | @jackyyyso 尊重他人命运
+- `1771019931410104488` | 2024-03-22 11:43:50 GMT+8 | reply | https://x.com/silverfang88/status/1771019931410104488 | @5edcth0x 那个时候我记得真的蛮低的
+- `1771019994672836940` | 2024-03-22 11:44:05 GMT+8 | reply | https://x.com/silverfang88/status/1771019994672836940 | @JunXu04535241 放弃改变他人
+- `1771020188969738342` | 2024-03-22 11:44:51 GMT+8 | reply | https://x.com/silverfang88/status/1771020188969738342 | @KK827827 所以我觉得以后
+- `1771020841918079292` | 2024-03-22 11:47:27 GMT+8 | reply | https://x.com/silverfang88/status/1771020841918079292 | @fanzi61282436 还行 https://t.co/PaZJUNDOY4
+- `1771021002836787629` | 2024-03-22 11:48:05 GMT+8 | reply | https://x.com/silverfang88/status/1771021002836787629 | @RichhH079888 @Wang_john 草 义父过奖了
+- `1771021120025637224` | 2024-03-22 11:48:33 GMT+8 | reply | https://x.com/silverfang88/status/1771021120025637224 | @0x_aisaka 感觉没什么逻辑漏洞啊
+- `1771021153307357683` | 2024-03-22 11:48:41 GMT+8 | reply | https://x.com/silverfang88/status/1771021153307357683 | @cryptoarong 也有可能吧
+- `1771021306772766876` | 2024-03-22 11:49:18 GMT+8 | reply | https://x.com/silverfang88/status/1771021306772766876 | @wmngyng47063686 @xclisgood 我一直都是黄推啊
+- `1771022908128706715` | 2024-03-22 11:55:39 GMT+8 | reply | https://x.com/silverfang88/status/1771022908128706715 | @cryptooupaijun 抬走下一个
+- `1771024042570453365` | 2024-03-22 12:00:10 GMT+8 | reply | https://x.com/silverfang88/status/1771024042570453365 | @monsterleo_ 恭喜老哥
+- `1771025377881673736` | 2024-03-22 12:05:28 GMT+8 | reply | https://x.com/silverfang88/status/1771025377881673736 | @TeddyAC01 哈哈哈哈 原来还有这么多人没对上号 哎
+- `1771025386094174302` | 2024-03-22 12:05:30 GMT+8 | repost | https://x.com/silverfang88/status/1771025386094174302 | RT @TeddyAC01: 挂一下之前的采访视频，算是一个自我介绍
+- `1771025486979719471` | 2024-03-22 12:05:54 GMT+8 | reply | https://x.com/silverfang88/status/1771025486979719471 | @0xNeoCrypto 其实都不是  他们都很聪明 大家关系也都很好
+- `1771025572480622671` | 2024-03-22 12:06:15 GMT+8 | reply | https://x.com/silverfang88/status/1771025572480622671 | @0xyi_jiu 也许下次听就挨打了 谁知道呢
+- `1771027561364980011` | 2024-03-22 12:14:09 GMT+8 | reply | https://x.com/silverfang88/status/1771027561364980011 | @TutuCrypto 万一就，对吧，也不是所有人都能赚钱
+- `1771027594323906768` | 2024-03-22 12:14:17 GMT+8 | reply | https://x.com/silverfang88/status/1771027594323906768 | @Aurora_Lashao 那你发张黑丝
+- `1771027629258293387` | 2024-03-22 12:14:25 GMT+8 | reply | https://x.com/silverfang88/status/1771027629258293387 | @Jason34999927 😅
+- `1771027694697738607` | 2024-03-22 12:14:41 GMT+8 | reply | https://x.com/silverfang88/status/1771027694697738607 | @Tommy2593466159 想看什么狠活
+- `1771030428440236121` | 2024-03-22 12:25:32 GMT+8 | reply | https://x.com/silverfang88/status/1771030428440236121 | @Godv_open 通透的 哥
+- `1771031918919733560` | 2024-03-22 12:31:28 GMT+8 | reply | https://x.com/silverfang88/status/1771031918919733560 | @holegots 因为精神上非常富足
+- `1771037771861250500` | 2024-03-22 12:54:43 GMT+8 | original | https://x.com/silverfang88/status/1771037771861250500 | 地址再DM我一下
+- `1771054898747949072` | 2024-03-22 14:02:47 GMT+8 | reply | https://x.com/silverfang88/status/1771054898747949072 | @crypto_sphinx 富婆带带吧
+- `1771062462059610359` | 2024-03-22 14:32:50 GMT+8 | reply | https://x.com/silverfang88/status/1771062462059610359 | @RobbieLiu 哥 你这个美国时间难顶的很啊
+- `1771065607145853420` | 2024-03-22 14:45:20 GMT+8 | reply | https://x.com/silverfang88/status/1771065607145853420 | @CryptoE49941581 额 我不干这事儿
+- `1771066032444092888` | 2024-03-22 14:47:01 GMT+8 | reply | https://x.com/silverfang88/status/1771066032444092888 | @mingxie99761209 @_GurATama_ @88168888O @hycC9YMz8s18Oy0 我一直有啊 长期支持 slerf
+- `1771066375106085318` | 2024-03-22 14:48:23 GMT+8 | repost | https://x.com/silverfang88/status/1771066375106085318 | RT @inceptiongame: Mark your calendars! @InceptionGame is set to officially launch on the @solana  on April.
+- `1771066445188747443` | 2024-03-22 14:48:40 GMT+8 | reply | https://x.com/silverfang88/status/1771066445188747443 | @inceptiongame @solana 7d6gH16HmwFzzRmzcRNcQ317R9SatCa4CeRYdKibfAJL
+- `1771066857417560570` | 2024-03-22 14:50:18 GMT+8 | repost | https://x.com/silverfang88/status/1771066857417560570 | RT @PikeFinance: it's us against the world pike fam🫡
+- `1771066891366240632` | 2024-03-22 14:50:26 GMT+8 | original | https://x.com/silverfang88/status/1771066891366240632 | @PikeFinance 你也presale？
+- `1771067499779371161` | 2024-03-22 14:52:51 GMT+8 | original | https://x.com/silverfang88/status/1771067499779371161 | @PikeFinance 好的哥 那你速度发钱包地址  记得先给我打币 么么
+- `1771067772736319699` | 2024-03-22 14:53:56 GMT+8 | quote | https://x.com/silverfang88/status/1771067772736319699 | 太抽象了  这小池子PVP看的我笑死了 https://t.co/CUZLg1NjxV
+- `1771069217623749036` | 2024-03-22 14:59:41 GMT+8 | original | https://x.com/silverfang88/status/1771069217623749036 | ladys这个小池子开盘 
+- `1771070320151040198` | 2024-03-22 15:04:03 GMT+8 | original | https://x.com/silverfang88/status/1771070320151040198 | @caocgx 我不知道 这哥们反正太骚了
+- `1771070400883020050` | 2024-03-22 15:04:23 GMT+8 | reply | https://x.com/silverfang88/status/1771070400883020050 | @0xKevin00 哈哈哈哈哈哈
+- `1771070456755314834` | 2024-03-22 15:04:36 GMT+8 | original | https://x.com/silverfang88/status/1771070456755314834 | @Insider_Venture 怎么说 这波给大家打的头皮都烂了
+- `1771070490540474865` | 2024-03-22 15:04:44 GMT+8 | original | https://x.com/silverfang88/status/1771070490540474865 | @LTrbin38986 真牛逼。。
+- `1771070528343752758` | 2024-03-22 15:04:53 GMT+8 | original | https://x.com/silverfang88/status/1771070528343752758 | @IIeisu 一枪打死皇军
+- `1771070705120989638` | 2024-03-22 15:05:35 GMT+8 | original | https://x.com/silverfang88/status/1771070705120989638 | @MeIgardes 我感觉应该不是 哈哈哈哈 我看链上行为好像确实不是DWF他们的
+- `1771072029904568390` | 2024-03-22 15:10:51 GMT+8 | reply | https://x.com/silverfang88/status/1771072029904568390 | @michael266888 好像是个专业狙子
+- `1771079258829464040` | 2024-03-22 15:39:35 GMT+8 | original | https://x.com/silverfang88/status/1771079258829464040 | @AnranGuys 他现在是不是浮盈900万U啊 笑死我了
+- `1771081245285323085` | 2024-03-22 15:47:28 GMT+8 | original | https://x.com/silverfang88/status/1771081245285323085 | @JunXu04535241 这他妈不是我
+- `1771082506109919349` | 2024-03-22 15:52:29 GMT+8 | reply | https://x.com/silverfang88/status/1771082506109919349 | @abyssofgambling 真明白
+- `1771142462855061550` | 2024-03-22 19:50:44 GMT+8 | original | https://x.com/silverfang88/status/1771142462855061550 | https://t.co/9h2Xu6FaTG
 - `1771312098032693596` | 2024-03-23 07:04:48 GMT+8 | quote | https://x.com/silverfang88/status/1771312098032693596 | 第十期，bome复盘 https://t.co/CFOYwVmYTS
 - `1771312234066584053` | 2024-03-23 07:05:20 GMT+8 | quote | https://x.com/silverfang88/status/1771312234066584053 | 第十一期 slerf 0.1梭哈 https://t.co/rwCMnw3ZMZ
 - `1771312365176279492` | 2024-03-23 07:05:51 GMT+8 | quote | https://x.com/silverfang88/status/1771312365176279492 | 第十二期 solana是怎么起来的 https://t.co/E2d9iHLLfT
@@ -5947,6 +6396,264 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1785187491818992063` | 2024-04-30 14:00:39 GMT+8 | original | https://x.com/silverfang88/status/1785187491818992063 | @thecryptoskanda 😂也很好了
 - `1785257446488911995` | 2024-04-30 18:38:38 GMT+8 | original | https://x.com/silverfang88/status/1785257446488911995 | 不忍受70%的回撤，怎么等到30%的补跌？ https://t.co/2KSpykTtdQ
 - `1785401755452293432` | 2024-05-01 04:12:04 GMT+8 | original | https://x.com/silverfang88/status/1785401755452293432 | 买回一切
+- `1785565526569238833` | 2024-05-01 15:02:50 GMT+8 | original | https://x.com/silverfang88/status/1785565526569238833 | 5月2号鲍威尔讲话
+- `1785731970284065024` | 2024-05-02 02:04:13 GMT+8 | original | https://x.com/silverfang88/status/1785731970284065024 | @xueqiu88 。。。
+- `1785946491850260888` | 2024-05-02 16:16:39 GMT+8 | original | https://x.com/silverfang88/status/1785946491850260888 | 早安
+- `1785958592140415338` | 2024-05-02 17:04:44 GMT+8 | original | https://x.com/silverfang88/status/1785958592140415338 | 走势像是跑路了一样
+- `1785961335798292565` | 2024-05-02 17:15:38 GMT+8 | quote | https://x.com/silverfang88/status/1785961335798292565 | 怎么上的全是这种soft rug的盘子？
+- `1785965384937467977` | 2024-05-02 17:31:44 GMT+8 | original | https://x.com/silverfang88/status/1785965384937467977 | @roger9949 @ZeusNetworkHQ 看了看基本都是跌了2-3倍
+- `1785965436401516606` | 2024-05-02 17:31:56 GMT+8 | original | https://x.com/silverfang88/status/1785965436401516606 | @dov_wo @ZeusNetworkHQ 真的垃圾
+- `1785967639849832505` | 2024-05-02 17:40:41 GMT+8 | quote | https://x.com/silverfang88/status/1785967639849832505 | 能不能换了你们discord频道的mod？
+- `1785967925339226518` | 2024-05-02 17:41:49 GMT+8 | quote | https://x.com/silverfang88/status/1785967925339226518 | 能不能换了你们discord频道的mod？
+- `1786084458317115517` | 2024-05-03 01:24:53 GMT+8 | reply | https://x.com/silverfang88/status/1786084458317115517 | @roger9949 6
+- `1786130441675657252` | 2024-05-03 04:27:36 GMT+8 | original | https://x.com/silverfang88/status/1786130441675657252 | 舔到最后应有尽有
+- `1786163696898613367` | 2024-05-03 06:39:45 GMT+8 | original | https://x.com/silverfang88/status/1786163696898613367 | 50万找不到女朋友和爱情
+- `1786164330284659103` | 2024-05-03 06:42:16 GMT+8 | original | https://x.com/silverfang88/status/1786164330284659103 | 50万找不到女朋友和爱情
+- `1786164363872645307` | 2024-05-03 06:42:24 GMT+8 | original | https://x.com/silverfang88/status/1786164363872645307 | 50万买不到女朋友和爱情
+- `1786164488888049670` | 2024-05-03 06:42:54 GMT+8 | original | https://x.com/silverfang88/status/1786164488888049670 | 50万买不到女朋友和爱情
+- `1786164583876456542` | 2024-05-03 06:43:16 GMT+8 | original | https://x.com/silverfang88/status/1786164583876456542 | 50万买不到女朋友和爱情
+- `1786184769899778370` | 2024-05-03 08:03:29 GMT+8 | reply | https://x.com/silverfang88/status/1786184769899778370 | @abyssofgambling 好的
+- `1786244676468568337` | 2024-05-03 12:01:32 GMT+8 | reply | https://x.com/silverfang88/status/1786244676468568337 | @AnranGuys 看哭了
+- `1786380281944969696` | 2024-05-03 21:00:23 GMT+8 | quote | https://x.com/silverfang88/status/1786380281944969696 | 一天到晚画故事
+- `1786380361301180574` | 2024-05-03 21:00:42 GMT+8 | quote | https://x.com/silverfang88/status/1786380361301180574 | 一天到晚画故事
+- `1786408821780316395` | 2024-05-03 22:53:47 GMT+8 | original | https://x.com/silverfang88/status/1786408821780316395 | 我们总是以为自己是威士忌
+- `1786409302892147048` | 2024-05-03 22:55:42 GMT+8 | reply | https://x.com/silverfang88/status/1786409302892147048 | @TutuCrypto @ZeusNetworkHQ 买了100万U  我这能不骂吗？
+- `1786409448962965692` | 2024-05-03 22:56:17 GMT+8 | reply | https://x.com/silverfang88/status/1786409448962965692 | @dov_wo 那我还是差得远了
+- `1786580792925163614` | 2024-05-04 10:17:08 GMT+8 | original | https://x.com/silverfang88/status/1786580792925163614 | 我建议把你认知内的所有的地址
+- `1786580886130958770` | 2024-05-04 10:17:30 GMT+8 | original | https://x.com/silverfang88/status/1786580886130958770 | 我建议把所有人认知内的所有的地址
+- `1786605204802089455` | 2024-05-04 11:54:09 GMT+8 | reply | https://x.com/silverfang88/status/1786605204802089455 | @abyssofgambling 好的
+- `1786607402357313676` | 2024-05-04 12:02:52 GMT+8 | original | https://x.com/silverfang88/status/1786607402357313676 | 看到推特都在讨论friend tech的&lt;失败&gt;
+- `1786645002887516370` | 2024-05-04 14:32:17 GMT+8 | original | https://x.com/silverfang88/status/1786645002887516370 | 以后每天更新一个学习阳明心学的笔记
+- `1786737172776710627` | 2024-05-04 20:38:32 GMT+8 | original | https://x.com/silverfang88/status/1786737172776710627 | 这世间很多事情都是无可奈何的
+- `1786737831995470034` | 2024-05-04 20:41:09 GMT+8 | reply | https://x.com/silverfang88/status/1786737831995470034 | 我会发着呆
+- `1786755745377059270` | 2024-05-04 21:52:20 GMT+8 | reply | https://x.com/silverfang88/status/1786755745377059270 | @abyssofgambling 我怕艾滋病
+- `1786854992088883507` | 2024-05-05 04:26:42 GMT+8 | reply | https://x.com/silverfang88/status/1786854992088883507 | @abyssofgambling 想舔你的黑丝
+- `1786933552912761220` | 2024-05-05 09:38:53 GMT+8 | original | https://x.com/silverfang88/status/1786933552912761220 | 笔记· 二  
+- `1787006664048050513` | 2024-05-05 14:29:24 GMT+8 | reply | https://x.com/silverfang88/status/1787006664048050513 | @abyssofgambling 我能舔你的白丝袜吗？
+- `1787008021727518739` | 2024-05-05 14:34:48 GMT+8 | original | https://x.com/silverfang88/status/1787008021727518739 | $Friend 领完了 又多了一笔收入
+- `1787017184100724969` | 2024-05-05 15:11:12 GMT+8 | original | https://x.com/silverfang88/status/1787017184100724969 | 我的怪癖：
+- `1787114824368828880` | 2024-05-05 21:39:11 GMT+8 | reply | https://x.com/silverfang88/status/1787114824368828880 | @0xggy 在哪里申请
+- `1787119369568313639` | 2024-05-05 21:57:15 GMT+8 | reply | https://x.com/silverfang88/status/1787119369568313639 | @0xggy 感觉很简单啊
+- `1787124069256642596` | 2024-05-05 22:15:55 GMT+8 | original | https://x.com/silverfang88/status/1787124069256642596 | 其实很多人都有自毁倾向
+- `1787126776759570789` | 2024-05-05 22:26:41 GMT+8 | original | https://x.com/silverfang88/status/1787126776759570789 | 对职业决策、男女关系，投资
+- `1787127310283337999` | 2024-05-05 22:28:48 GMT+8 | reply | https://x.com/silverfang88/status/1787127310283337999 | @maomaoQAQyyy 不难受 也无所谓吧
+- `1787127513946153307` | 2024-05-05 22:29:37 GMT+8 | reply | https://x.com/silverfang88/status/1787127513946153307 | @Irisbaby168 这也是一种矛盾
+- `1787127575627633149` | 2024-05-05 22:29:51 GMT+8 | reply | https://x.com/silverfang88/status/1787127575627633149 | @wiiete 别碰合约 是智慧之门打开的钥匙
+- `1787127679067574544` | 2024-05-05 22:30:16 GMT+8 | reply | https://x.com/silverfang88/status/1787127679067574544 | @FatancyCody 哈哈哈哈 我可能比你想的还要大起大落一些
+- `1787128204831993879` | 2024-05-05 22:32:21 GMT+8 | reply | https://x.com/silverfang88/status/1787128204831993879 | @SuRen_lab 我现在比想象中要坚强
+- `1787128439704555628` | 2024-05-05 22:33:17 GMT+8 | reply | https://x.com/silverfang88/status/1787128439704555628 | @leewaytor6 最好别和女的纠缠
+- `1787130939845251357` | 2024-05-05 22:43:14 GMT+8 | original | https://x.com/silverfang88/status/1787130939845251357 | 很多人问，怎么赚钱，能不能带带
+- `1787131085693796382` | 2024-05-05 22:43:48 GMT+8 | reply | https://x.com/silverfang88/status/1787131085693796382 | @zisuzz 恭喜
+- `1787131126315708714` | 2024-05-05 22:43:58 GMT+8 | reply | https://x.com/silverfang88/status/1787131126315708714 | @LongzuAlpha 他们帮谁谁赢
+- `1787131293639074261` | 2024-05-05 22:44:38 GMT+8 | reply | https://x.com/silverfang88/status/1787131293639074261 | @bitcoinisbnb 好的
+- `1787131358277435694` | 2024-05-05 22:44:53 GMT+8 | reply | https://x.com/silverfang88/status/1787131358277435694 | @chennin03864060 事实证明阳痿也能打
+- `1787131799530819601` | 2024-05-05 22:46:38 GMT+8 | reply | https://x.com/silverfang88/status/1787131799530819601 | @roger9949 我不残酷
+- `1787132240758968513` | 2024-05-05 22:48:24 GMT+8 | reply | https://x.com/silverfang88/status/1787132240758968513 | @cwyxhqz 没办法 她的位置比较刁钻
+- `1787132684180816374` | 2024-05-05 22:50:09 GMT+8 | reply | https://x.com/silverfang88/status/1787132684180816374 | @jdy888 也没有很糟
+- `1787132861067231379` | 2024-05-05 22:50:52 GMT+8 | reply | https://x.com/silverfang88/status/1787132861067231379 | @nofud0x 也未必
+- `1787132929933463571` | 2024-05-05 22:51:08 GMT+8 | reply | https://x.com/silverfang88/status/1787132929933463571 | @Trader_liang 是 守静克己
+- `1787132972505681933` | 2024-05-05 22:51:18 GMT+8 | reply | https://x.com/silverfang88/status/1787132972505681933 | @tyh668 祝顺利 共勉
+- `1787134997544976775` | 2024-05-05 22:59:21 GMT+8 | reply | https://x.com/silverfang88/status/1787134997544976775 | @bai1bai123 要在撸完后
+- `1787135601151541487` | 2024-05-05 23:01:45 GMT+8 | original | https://x.com/silverfang88/status/1787135601151541487 | @roger9949 每个人都是一个洞
+- `1787136994323186155` | 2024-05-05 23:07:17 GMT+8 | original | https://x.com/silverfang88/status/1787136994323186155 | @7488eth 很对 很对
+- `1787139504932782146` | 2024-05-05 23:17:16 GMT+8 | original | https://x.com/silverfang88/status/1787139504932782146 | @maomaoQAQyyy 好
+- `1787140728306500023` | 2024-05-05 23:22:07 GMT+8 | original | https://x.com/silverfang88/status/1787140728306500023 | @maomaoQAQyyy 缺 爸爸操我
+- `1787154792428564513` | 2024-05-06 00:18:00 GMT+8 | original | https://x.com/silverfang88/status/1787154792428564513 | @thecryptoskanda 我比较强迫症 而且不喜欢标点
+- `1787281428578799645` | 2024-05-06 08:41:13 GMT+8 | reply | https://x.com/silverfang88/status/1787281428578799645 | @dov_wo 也没有 还得努力
+- `1787345238014488765` | 2024-05-06 12:54:46 GMT+8 | original | https://x.com/silverfang88/status/1787345238014488765 | 心学笔记 - 3
+- `1787347734363590871` | 2024-05-06 13:04:41 GMT+8 | original | https://x.com/silverfang88/status/1787347734363590871 | @biquanfamugong 前两天发的 每天发一个
+- `1787400464176226394` | 2024-05-06 16:34:13 GMT+8 | original | https://x.com/silverfang88/status/1787400464176226394 | 我们要做的事情很简单
+- `1787403410548945254` | 2024-05-06 16:45:56 GMT+8 | original | https://x.com/silverfang88/status/1787403410548945254 | @Insider_Venture 要知道 他们刚开始前戏的时候
+- `1787403539162988675` | 2024-05-06 16:46:26 GMT+8 | reply | https://x.com/silverfang88/status/1787403539162988675 | @Aurora_Lashao 那就比他们更硬 射的更远
+- `1787403691684671521` | 2024-05-06 16:47:03 GMT+8 | reply | https://x.com/silverfang88/status/1787403691684671521 | @jerkinsfan 上一轮专门坑家里有矿的
+- `1787403716301148526` | 2024-05-06 16:47:08 GMT+8 | reply | https://x.com/silverfang88/status/1787403716301148526 | @SuRen_lab 好的
+- `1787407187033141404` | 2024-05-06 17:00:56 GMT+8 | original | https://x.com/silverfang88/status/1787407187033141404 | @roger9949 诈骗
+- `1787409134087811198` | 2024-05-06 17:08:40 GMT+8 | reply | https://x.com/silverfang88/status/1787409134087811198 | @guangJ3 可能是他们开法拉利从日本空运带过来的
+- `1787409178912293233` | 2024-05-06 17:08:51 GMT+8 | original | https://x.com/silverfang88/status/1787409178912293233 | @0xyyyyyyy 好的
+- `1787661170620457107` | 2024-05-07 09:50:10 GMT+8 | reply | https://x.com/silverfang88/status/1787661170620457107 | @mablejiang @MagicEden wen
+- `1787667040326570044` | 2024-05-07 10:13:30 GMT+8 | original | https://x.com/silverfang88/status/1787667040326570044 | 心学笔记 - 4
+- `1787680564415271145` | 2024-05-07 11:07:14 GMT+8 | quote | https://x.com/silverfang88/status/1787680564415271145 | 天天花钱搞钱包 @okx 
+- `1787680739472875838` | 2024-05-07 11:07:56 GMT+8 | quote | https://x.com/silverfang88/status/1787680739472875838 | 天天花钱搞钱包 @okx 
+- `1787680954208669978` | 2024-05-07 11:08:47 GMT+8 | quote | https://x.com/silverfang88/status/1787680954208669978 | 天天花钱搞钱包 @okx 
+- `1787681354475278459` | 2024-05-07 11:10:23 GMT+8 | reply | https://x.com/silverfang88/status/1787681354475278459 | @xiaolaw01 @okx @star_okx 已经完全不如bybit了 
+- `1787683547060318526` | 2024-05-07 11:19:05 GMT+8 | original | https://x.com/silverfang88/status/1787683547060318526 | 盘点只上了OKX没上币安的项目
+- `1787683596687331390` | 2024-05-07 11:19:17 GMT+8 | reply | https://x.com/silverfang88/status/1787683596687331390 | https://t.co/7aXnRUCIcB
+- `1787684143922364789` | 2024-05-07 11:21:28 GMT+8 | reply | https://x.com/silverfang88/status/1787684143922364789 | @ZeusNetworkHQ @dappiokeeper 
+- `1787684319886004402` | 2024-05-07 11:22:10 GMT+8 | reply | https://x.com/silverfang88/status/1787684319886004402 | @SonyCat99 只看今年的
+- `1787685772298010824` | 2024-05-07 11:27:56 GMT+8 | reply | https://x.com/silverfang88/status/1787685772298010824 | @aCon71JnvynYnyX 隔离了
+- `1787688104322900296` | 2024-05-07 11:37:12 GMT+8 | reply | https://x.com/silverfang88/status/1787688104322900296 | @yangyeBTG 不可笑 我只想赚钱 但是一直割我 这项目都不要脸了
+- `1787706654030496208` | 2024-05-07 12:50:54 GMT+8 | reply | https://x.com/silverfang88/status/1787706654030496208 | @hesheng1232 @0xAmazingChar 隔离了
+- `1787706716924018697` | 2024-05-07 12:51:09 GMT+8 | reply | https://x.com/silverfang88/status/1787706716924018697 | @SonyCat99 OK 被隔离了
+- `1787754743772725374` | 2024-05-07 16:02:00 GMT+8 | original | https://x.com/silverfang88/status/1787754743772725374 | 币安的新币也理了一下
+- `1787755172267000138` | 2024-05-07 16:03:42 GMT+8 | reply | https://x.com/silverfang88/status/1787755172267000138 | 币安的
+- `1787755487842177101` | 2024-05-07 16:04:57 GMT+8 | reply | https://x.com/silverfang88/status/1787755487842177101 | https://t.co/pwYiayTIud
+- `1787764747774935142` | 2024-05-07 16:41:45 GMT+8 | reply | https://x.com/silverfang88/status/1787764747774935142 | @Dincocoin @abyssofgambling ？ 她妈的 是我我的鸡鸡短18cm
+- `1787766173263675621` | 2024-05-07 16:47:25 GMT+8 | reply | https://x.com/silverfang88/status/1787766173263675621 | @Dincocoin 好吧 其实就是我
+- `1787766709996109925` | 2024-05-07 16:49:33 GMT+8 | reply | https://x.com/silverfang88/status/1787766709996109925 | @abyssofgambling 好的 排除了三个正确答案，那么正确答案就是XX
+- `1787780502901903517` | 2024-05-07 17:44:21 GMT+8 | original | https://x.com/silverfang88/status/1787780502901903517 | 在离这很远的地方
+- `1787781195939397896` | 2024-05-07 17:47:07 GMT+8 | reply | https://x.com/silverfang88/status/1787781195939397896 | @tngjngs37980339 6
+- `1787804896256749836` | 2024-05-07 19:21:17 GMT+8 | original | https://x.com/silverfang88/status/1787804896256749836 | 一个结论
+- `1787805142009487769` | 2024-05-07 19:22:16 GMT+8 | original | https://x.com/silverfang88/status/1787805142009487769 | 一个结论
+- `1787810044270039192` | 2024-05-07 19:41:45 GMT+8 | original | https://x.com/silverfang88/status/1787810044270039192 | https://t.co/6uXjD4JGCf
+- `1787830321636872565` | 2024-05-07 21:02:19 GMT+8 | reply | https://x.com/silverfang88/status/1787830321636872565 | @abyssofgambling 人家都是皇上了
+- `1787830359859622228` | 2024-05-07 21:02:28 GMT+8 | reply | https://x.com/silverfang88/status/1787830359859622228 | @roger9949 多好 多刺激
+- `1787830410606461069` | 2024-05-07 21:02:40 GMT+8 | reply | https://x.com/silverfang88/status/1787830410606461069 | @Dincocoin 赚麻了
+- `1787834459510735201` | 2024-05-07 21:18:46 GMT+8 | repost | https://x.com/silverfang88/status/1787834459510735201 | RT @roger9949: 机构币跌其实很能理解，这轮周期里大部分vc也很难，好不容易有个上所了，得先回回血。但okx新币真的是叹为观止了
+- `1787834826172604671` | 2024-05-07 21:20:13 GMT+8 | reply | https://x.com/silverfang88/status/1787834826172604671 | @roger9949 募资那么多 @dappiokeeper 别浪费了OKX
+- `1787836856056377543` | 2024-05-07 21:28:17 GMT+8 | reply | https://x.com/silverfang88/status/1787836856056377543 | @Dincocoin 我就没这么觉得过
+- `1787884581875601761` | 2024-05-08 00:37:56 GMT+8 | reply | https://x.com/silverfang88/status/1787884581875601761 | @abyssofgambling @chongyan888 @vvickym2 我跟她已经分手了宝宝 我现在给你买来冰岛的机票 别和我分开 我爱的是你
+- `1787885383222436227` | 2024-05-08 00:41:07 GMT+8 | reply | https://x.com/silverfang88/status/1787885383222436227 | @abyssofgambling @chongyan888 @vvickym2 星座书上 说我们不和 金牛座的我配不上你的好 难过后想想也许只是碰巧 我们的故事写书人怎明了
+- `1787891349389209901` | 2024-05-08 01:04:49 GMT+8 | reply | https://x.com/silverfang88/status/1787891349389209901 | @abyssofgambling 不是，抛开事实不谈，你就没有错吗？
+- `1787893653437927707` | 2024-05-08 01:13:59 GMT+8 | reply | https://x.com/silverfang88/status/1787893653437927707 | @abyssofgambling 迷路的鸽子啊
+- `1787894268855546079` | 2024-05-08 01:16:25 GMT+8 | reply | https://x.com/silverfang88/status/1787894268855546079 | @cryptoxiao @abyssofgambling 三月的煙雨 飄搖的南方
+- `1787895152452755527` | 2024-05-08 01:19:56 GMT+8 | reply | https://x.com/silverfang88/status/1787895152452755527 | @cryptoxiao @abyssofgambling 悲傷是奢侈品我消受不起，快樂像噩夢總讓人驚醒 
+- `1787895712778178670` | 2024-05-08 01:22:10 GMT+8 | reply | https://x.com/silverfang88/status/1787895712778178670 | @abyssofgambling @cryptoxiao 我一路向北 离开有你的季节
+- `1787995969214111959` | 2024-05-08 08:00:33 GMT+8 | reply | https://x.com/silverfang88/status/1787995969214111959 | @SatoshiNobility 来了
+- `1788036471594615197` | 2024-05-08 10:41:29 GMT+8 | original | https://x.com/silverfang88/status/1788036471594615197 | 心学笔记 - 五
+- `1788116626761515415` | 2024-05-08 16:00:00 GMT+8 | original | https://x.com/silverfang88/status/1788116626761515415 | 资本市场的定律
+- `1788193374383624288` | 2024-05-08 21:04:58 GMT+8 | quote | https://x.com/silverfang88/status/1788193374383624288 | 今天又都跌了10%+
+- `1788193732103221710` | 2024-05-08 21:06:23 GMT+8 | reply | https://x.com/silverfang88/status/1788193732103221710 | @Gummybear1771 @SatoshiNobility @nili84688 因为我们天天看着你的白丝才能睡得着
+- `1788210603422535872` | 2024-05-08 22:13:25 GMT+8 | original | https://x.com/silverfang88/status/1788210603422535872 | 我虽然五音不全
+- `1788217041398243773` | 2024-05-08 22:39:00 GMT+8 | reply | https://x.com/silverfang88/status/1788217041398243773 | @SatoshiNobility 无所谓吧
+- `1788226181277364251` | 2024-05-08 23:15:19 GMT+8 | reply | https://x.com/silverfang88/status/1788226181277364251 | @ApolloByZeus @ZeusNetworkHQ 又新低了 哥们
+- `1788227085661540731` | 2024-05-08 23:18:55 GMT+8 | original | https://x.com/silverfang88/status/1788227085661540731 | 又新低了 哥们
+- `1788227296957960415` | 2024-05-08 23:19:45 GMT+8 | original | https://x.com/silverfang88/status/1788227296957960415 | 又新低了 哥们
+- `1788229323939262952` | 2024-05-08 23:27:49 GMT+8 | reply | https://x.com/silverfang88/status/1788229323939262952 | @roger9949 @dappiokeeper @weremeow 成功了就赶紧拉盘
+- `1788373016126144874` | 2024-05-09 08:58:48 GMT+8 | reply | https://x.com/silverfang88/status/1788373016126144874 | @maomaoQAQyyy 我这辈子就没找到过这种地方 你们都在哪里找到的渠道
+- `1788374627858669871` | 2024-05-09 09:05:12 GMT+8 | quote | https://x.com/silverfang88/status/1788374627858669871 | 是谁偷偷偷走我的心 https://t.co/IrdTdyEQlz
+- `1788404670957752525` | 2024-05-09 11:04:35 GMT+8 | original | https://x.com/silverfang88/status/1788404670957752525 | 心学笔记 - 六
+- `1788405741587497311` | 2024-05-09 11:08:50 GMT+8 | reply | https://x.com/silverfang88/status/1788405741587497311 | @Moon1ightSt 想舔 咋办
+- `1788498217924989416` | 2024-05-09 17:16:18 GMT+8 | original | https://x.com/silverfang88/status/1788498217924989416 | Pumpfun模式的成功 也带动了整个赛道 @base 上的UGA平台https://t.co/ELjcBOkj6g @WeRich_ 最近也很火
+- `1788500232046534910` | 2024-05-09 17:24:18 GMT+8 | reply | https://x.com/silverfang88/status/1788500232046534910 | https://t.co/FTVirigzex
+- `1788535729695428798` | 2024-05-09 19:45:22 GMT+8 | original | https://x.com/silverfang88/status/1788535729695428798 | 为什么我们赚不到大钱？
+- `1788540574678581509` | 2024-05-09 20:04:37 GMT+8 | reply | https://x.com/silverfang88/status/1788540574678581509 | @thecryptoskanda 赚爽了
+- `1788540644727673243` | 2024-05-09 20:04:53 GMT+8 | reply | https://x.com/silverfang88/status/1788540644727673243 | @sirius_zzzz 多撸管
+- `1788540706450969041` | 2024-05-09 20:05:08 GMT+8 | reply | https://x.com/silverfang88/status/1788540706450969041 | @Penicillin_org 打工才是吾辈常态
+- `1788540787245957449` | 2024-05-09 20:05:27 GMT+8 | reply | https://x.com/silverfang88/status/1788540787245957449 | @sol_matrixrevo 钱和艾滋病一样
+- `1788540852840636613` | 2024-05-09 20:05:43 GMT+8 | reply | https://x.com/silverfang88/status/1788540852840636613 | @ranlinx10 还真不是这么简单的意思
+- `1788564769516994898` | 2024-05-09 21:40:45 GMT+8 | reply | https://x.com/silverfang88/status/1788564769516994898 | @Bugcatcapo33337 好好好
+- `1788572017735717354` | 2024-05-09 22:09:33 GMT+8 | reply | https://x.com/silverfang88/status/1788572017735717354 | @ZeusNetworkHQ @ApolloByZeus @solana 我教你们一招
+- `1788572872417427647` | 2024-05-09 22:12:57 GMT+8 | reply | https://x.com/silverfang88/status/1788572872417427647 | @ZeusNetworkHQ @ApolloByZeus @solana 第二招
+- `1788573337381163355` | 2024-05-09 22:14:48 GMT+8 | reply | https://x.com/silverfang88/status/1788573337381163355 | @lin_yiliu 抓住流量密码了
+- `1788745893576860072` | 2024-05-10 09:40:28 GMT+8 | original | https://x.com/silverfang88/status/1788745893576860072 | 1. 为什么要学会空仓？
+- `1788746542532223014` | 2024-05-10 09:43:03 GMT+8 | original | https://x.com/silverfang88/status/1788746542532223014 | 1. 为什么要学会空仓？
+- `1788747085648416829` | 2024-05-10 09:45:13 GMT+8 | reply | https://x.com/silverfang88/status/1788747085648416829 | @LeibnizSS 躲爆头
+- `1788871248790929764` | 2024-05-10 17:58:35 GMT+8 | original | https://x.com/silverfang88/status/1788871248790929764 | 心学笔记-七
+- `1788887139788235006` | 2024-05-10 19:01:44 GMT+8 | original | https://x.com/silverfang88/status/1788887139788235006 | 很难过的一件
+- `1788887300807500215` | 2024-05-10 19:02:23 GMT+8 | original | https://x.com/silverfang88/status/1788887300807500215 | 很难过的一件事
+- `1788888009904881747` | 2024-05-10 19:05:12 GMT+8 | reply | https://x.com/silverfang88/status/1788888009904881747 | @tngjngs37980339 反思吧
+- `1788888205032366306` | 2024-05-10 19:05:58 GMT+8 | reply | https://x.com/silverfang88/status/1788888205032366306 | @kylopeung 我以前觉得嫪毐能鸡吧抬车挺离谱的
+- `1788900125307265329` | 2024-05-10 19:53:20 GMT+8 | original | https://x.com/silverfang88/status/1788900125307265329 | 最近准备花点钱买个率土之滨的号
+- `1788900403490300088` | 2024-05-10 19:54:27 GMT+8 | original | https://x.com/silverfang88/status/1788900403490300088 | 最近准备花点钱买个率土之滨的号
+- `1788900521497006197` | 2024-05-10 19:54:55 GMT+8 | original | https://x.com/silverfang88/status/1788900521497006197 | 最近准备花点钱买个率土之滨的号
+- `1788901438711603331` | 2024-05-10 19:58:33 GMT+8 | reply | https://x.com/silverfang88/status/1788901438711603331 | @Westbro04829652 率土也挺保值的  甚至涨价
+- `1788902300645314713` | 2024-05-10 20:01:59 GMT+8 | reply | https://x.com/silverfang88/status/1788902300645314713 | @tngjngs37980339 去他妈的吧.... 游卡策划只配给我舔腋毛
+- `1788902580002705681` | 2024-05-10 20:03:05 GMT+8 | original | https://x.com/silverfang88/status/1788902580002705681 | @Aesop11011 。。。。哥 你为啥不送我呢
+- `1789165257807519866` | 2024-05-11 13:26:53 GMT+8 | original | https://x.com/silverfang88/status/1789165257807519866 | 一姐格局大  @heyibinance 
+- `1789165951625142765` | 2024-05-11 13:29:38 GMT+8 | reply | https://x.com/silverfang88/status/1789165951625142765 | @CryptoKobe92 @heyibinance 别叭叭了 强多了 https://t.co/Ea42oAGzmg
+- `1789166942885957718` | 2024-05-11 13:33:34 GMT+8 | reply | https://x.com/silverfang88/status/1789166942885957718 | @CryptoKobe92 @heyibinance 那你根本看不明白
+- `1789172532538487186` | 2024-05-11 13:55:47 GMT+8 | reply | https://x.com/silverfang88/status/1789172532538487186 | @Bit_LittleP 你好
+- `1789175850140651887` | 2024-05-11 14:08:58 GMT+8 | original | https://x.com/silverfang88/status/1789175850140651887 | 每个群的活跃度都-90%了
+- `1789187736512930008` | 2024-05-11 14:56:12 GMT+8 | original | https://x.com/silverfang88/status/1789187736512930008 | 牛市结束了吗？
+- `1789297314328178728` | 2024-05-11 22:11:37 GMT+8 | original | https://x.com/silverfang88/status/1789297314328178728 | 努力 💪
+- `1789297849680720330` | 2024-05-11 22:13:45 GMT+8 | reply | https://x.com/silverfang88/status/1789297849680720330 | @Ed_x0101 好的哥
+- `1789505811535769675` | 2024-05-12 12:00:07 GMT+8 | original | https://x.com/silverfang88/status/1789505811535769675 | 昨天睡前有个前辈打电话 
+- `1789510954385829941` | 2024-05-12 12:20:33 GMT+8 | reply | https://x.com/silverfang88/status/1789510954385829941 | @txu3102min 当鸭子
+- `1789520434645327959` | 2024-05-12 12:58:13 GMT+8 | reply | https://x.com/silverfang88/status/1789520434645327959 | @cryptoxiao 庄子也理解到了这一层
+- `1789526063007015277` | 2024-05-12 13:20:35 GMT+8 | original | https://x.com/silverfang88/status/1789526063007015277 | 很多人不理解什么是抽象文化？
+- `1789526487495746038` | 2024-05-12 13:22:17 GMT+8 | reply | https://x.com/silverfang88/status/1789526487495746038 | @txu3102min 你离开了南京，从此没有人和我说话
+- `1789530059889406104` | 2024-05-12 13:36:28 GMT+8 | reply | https://x.com/silverfang88/status/1789530059889406104 | @FlagofMuskox 对 目的只有自己知道
+- `1789530146891813026` | 2024-05-12 13:36:49 GMT+8 | reply | https://x.com/silverfang88/status/1789530146891813026 | @poyincom 没文化 在努力的学 然后装作有文化的样子骗新粉丝
+- `1789530244413534304` | 2024-05-12 13:37:12 GMT+8 | reply | https://x.com/silverfang88/status/1789530244413534304 | @0x8887 菩提树下都是宝 大伙学习要趁早
+- `1789530311065260102` | 2024-05-12 13:37:28 GMT+8 | reply | https://x.com/silverfang88/status/1789530311065260102 | @tngjngs37980339 https://t.co/3HZ3AZPx3m
+- `1789646224825393421` | 2024-05-12 21:18:04 GMT+8 | original | https://x.com/silverfang88/status/1789646224825393421 | 彻底放弃做杠杆和合约之后
+- `1789646731124109663` | 2024-05-12 21:20:05 GMT+8 | original | https://x.com/silverfang88/status/1789646731124109663 | 彻底放弃做杠杆和合约之后
+- `1789716442692178356` | 2024-05-13 01:57:05 GMT+8 | reply | https://x.com/silverfang88/status/1789716442692178356 | @Mathilda_Sun_ 好
+- `1790254497857454337` | 2024-05-14 13:35:08 GMT+8 | original | https://x.com/silverfang88/status/1790254497857454337 | 休息一周 https://t.co/agHjkotmaQ
+- `1790277817902481858` | 2024-05-14 15:07:48 GMT+8 | original | https://x.com/silverfang88/status/1790277817902481858 | 最近身边很多朋友都富起来了
+- `1790278084467282066` | 2024-05-14 15:08:51 GMT+8 | original | https://x.com/silverfang88/status/1790278084467282066 | 最近身边很多朋友都富起来了
+- `1790278174678344189` | 2024-05-14 15:09:13 GMT+8 | original | https://x.com/silverfang88/status/1790278174678344189 | 最近身边很多朋友都富起来了
+- `1790284019692617748` | 2024-05-14 15:32:26 GMT+8 | reply | https://x.com/silverfang88/status/1790284019692617748 | @BTCdayu 其实马斯克也没有家庭
+- `1791397581966250278` | 2024-05-17 17:17:20 GMT+8 | reply | https://x.com/silverfang88/status/1791397581966250278 | @xueqiu88 https://t.co/OTAzBczKDB
+- `1791820453020856534` | 2024-05-18 21:17:41 GMT+8 | original | https://x.com/silverfang88/status/1791820453020856534 | 我回来了
+- `1791821806891880777` | 2024-05-18 21:23:03 GMT+8 | original | https://x.com/silverfang88/status/1791821806891880777 | https://t.co/QepJs1oYzd
+- `1791821886327795894` | 2024-05-18 21:23:22 GMT+8 | reply | https://x.com/silverfang88/status/1791821886327795894 | @abyssofgambling 你好 看看你的山寨罗泽萝拉丝袜
+- `1791859206607511910` | 2024-05-18 23:51:40 GMT+8 | reply | https://x.com/silverfang88/status/1791859206607511910 | @NickyM555 卡掉了 下次再聊吧
+- `1791859424912371768` | 2024-05-18 23:52:32 GMT+8 | quote | https://x.com/silverfang88/status/1791859424912371768 | 这期聊的比以往都深刻一些
+- `1791870190830924177` | 2024-05-19 00:35:19 GMT+8 | original | https://x.com/silverfang88/status/1791870190830924177 | 新交易bot使用 
+- `1791870222762123570` | 2024-05-19 00:35:27 GMT+8 | original | https://x.com/silverfang88/status/1791870222762123570 | 新交易bot使用推荐
+- `1791870591785447797` | 2024-05-19 00:36:55 GMT+8 | original | https://x.com/silverfang88/status/1791870591785447797 | 新交易bot使用推荐
+- `1791870736803549236` | 2024-05-19 00:37:29 GMT+8 | original | https://x.com/silverfang88/status/1791870736803549236 | 新交易bot使用推荐
+- `1792019702958407817` | 2024-05-19 10:29:25 GMT+8 | original | https://x.com/silverfang88/status/1792019702958407817 | 一项全球调查结果显示：世界上99%的女性希望在520收到化妆品或者珠宝，而不是泰迪熊、巧克力玫瑰花之类的😃😃😃
+- `1792091820668678572` | 2024-05-19 15:16:00 GMT+8 | reply | https://x.com/silverfang88/status/1792091820668678572 | 怎么现在玩梗都不懂了 
+- `1792092028891009493` | 2024-05-19 15:16:49 GMT+8 | reply | https://x.com/silverfang88/status/1792092028891009493 | @Aurora_Lashao 你也被钓鱼？ https://t.co/1NnKhMEOAl
+- `1792092051783164281` | 2024-05-19 15:16:55 GMT+8 | reply | https://x.com/silverfang88/status/1792092051783164281 | @Jf5858777 https://t.co/WTUj1lHbZL
+- `1792094019469688884` | 2024-05-19 15:24:44 GMT+8 | original | https://x.com/silverfang88/status/1792094019469688884 | “来币圈吧 这是一个大赌场 有的00后就随便赚几千万 贼牛逼 我有个朋友xxxx”
+- `1792094302144712725` | 2024-05-19 15:25:51 GMT+8 | original | https://x.com/silverfang88/status/1792094302144712725 | “来币圈吧 这是一个大赌场 有的00后就随便赚几千万 贼牛逼 我有个朋友xxxx”
+- `1792198669959123327` | 2024-05-19 22:20:35 GMT+8 | original | https://x.com/silverfang88/status/1792198669959123327 | 我观察到很多朋友
+- `1792201411125792912` | 2024-05-19 22:31:28 GMT+8 | reply | https://x.com/silverfang88/status/1792201411125792912 | @Moon1ightSt 我一勺三花淡奶
+- `1792234517748494582` | 2024-05-20 00:43:01 GMT+8 | reply | https://x.com/silverfang88/status/1792234517748494582 | @jordanwangbtc 可以
+- `1792315804744130804` | 2024-05-20 06:06:02 GMT+8 | original | https://x.com/silverfang88/status/1792315804744130804 | 没有任何一个游戏比交易更好玩
+- `1792315832174813637` | 2024-05-20 06:06:08 GMT+8 | original | https://x.com/silverfang88/status/1792315832174813637 | 没有任何一个游戏比赚钱更好玩
+- `1792443583276163193` | 2024-05-20 14:33:46 GMT+8 | reply | https://x.com/silverfang88/status/1792443583276163193 | @cardking888 再想想 多动脑
+- `1792443652276359210` | 2024-05-20 14:34:03 GMT+8 | reply | https://x.com/silverfang88/status/1792443652276359210 | @shiki214214214 是的
+- `1792443696253706462` | 2024-05-20 14:34:13 GMT+8 | reply | https://x.com/silverfang88/status/1792443696253706462 | @maomaoQAQyyy 多撸管吧
+- `1792511783975911737` | 2024-05-20 19:04:47 GMT+8 | original | https://x.com/silverfang88/status/1792511783975911737 | 这个世界太糟糕了
+- `1792681214543102217` | 2024-05-21 06:18:02 GMT+8 | original | https://x.com/silverfang88/status/1792681214543102217 | 感觉突然泄气了一样
+- `1792694132944810095` | 2024-05-21 07:09:22 GMT+8 | original | https://x.com/silverfang88/status/1792694132944810095 | 大家好，我是子时的女朋友
+- `1792857641321996649` | 2024-05-21 17:59:06 GMT+8 | original | https://x.com/silverfang88/status/1792857641321996649 | 一年以后
+- `1792867702761038264` | 2024-05-21 18:39:04 GMT+8 | original | https://x.com/silverfang88/status/1792867702761038264 | 你好 我们再招区块链运营 请问你的学历是什么？
+- `1792870836770131982` | 2024-05-21 18:51:32 GMT+8 | reply | https://x.com/silverfang88/status/1792870836770131982 | @roger9949 这不是我吗
+- `1792912009903722806` | 2024-05-21 21:35:08 GMT+8 | original | https://x.com/silverfang88/status/1792912009903722806 | 教你情人节一句话迷倒web3男
+- `1792919736516317380` | 2024-05-21 22:05:50 GMT+8 | reply | https://x.com/silverfang88/status/1792919736516317380 | @kylopeung 舒服了
+- `1792919802744361124` | 2024-05-21 22:06:06 GMT+8 | reply | https://x.com/silverfang88/status/1792919802744361124 | @sal_hotpot666 主要是萨粒老师教的好
+- `1792922721183023173` | 2024-05-21 22:17:42 GMT+8 | original | https://x.com/silverfang88/status/1792922721183023173 | 高尚老师4月寄的书6月终于快到了
+- `1792925251652743205` | 2024-05-21 22:27:45 GMT+8 | reply | https://x.com/silverfang88/status/1792925251652743205 | @JYdmnLFG 这么吊
+- `1792930776960372930` | 2024-05-21 22:49:42 GMT+8 | reply | https://x.com/silverfang88/status/1792930776960372930 | @xueqiu88 好
+- `1792941004858749115` | 2024-05-21 23:30:21 GMT+8 | reply | https://x.com/silverfang88/status/1792941004858749115 | @Moon1ightSt 说明要多恋爱 多做爱
+- `1793004109760549287` | 2024-05-22 03:41:06 GMT+8 | reply | https://x.com/silverfang88/status/1793004109760549287 | @xclisgood sell call和 sell put这个策略实战到底怎么样 裸sell call 和 sell put
+- `1793230932872151324` | 2024-05-22 18:42:25 GMT+8 | original | https://x.com/silverfang88/status/1793230932872151324 | 虚假的mass adoption：
+- `1793231137281654834` | 2024-05-22 18:43:14 GMT+8 | original | https://x.com/silverfang88/status/1793231137281654834 | 虚假的mass adoption：
+- `1793232945013997583` | 2024-05-22 18:50:25 GMT+8 | reply | https://x.com/silverfang88/status/1793232945013997583 | @JYdmnLFG 你好
+- `1793264597647966421` | 2024-05-22 20:56:11 GMT+8 | original | https://x.com/silverfang88/status/1793264597647966421 | 持有的山寨币：ETH涨20个点，它涨2个点；ETH跌1个点，它跌10个点
+- `1793335034255978692` | 2024-05-23 01:36:05 GMT+8 | reply | https://x.com/silverfang88/status/1793335034255978692 | @SatoshiNobility gg
+- `1793356271766118847` | 2024-05-23 03:00:28 GMT+8 | quote | https://x.com/silverfang88/status/1793356271766118847 | 有人想听一个大专、00后、高中辍学、白袜体育生
+- `1793356377206690235` | 2024-05-23 03:00:53 GMT+8 | quote | https://x.com/silverfang88/status/1793356377206690235 | 有人想听一个 #大专 #00后 #高中辍学 #白袜体育生
+- `1793358152148058415` | 2024-05-23 03:07:57 GMT+8 | reply | https://x.com/silverfang88/status/1793358152148058415 | 在这之后的岁月里
+- `1793359725775774020` | 2024-05-23 03:14:12 GMT+8 | reply | https://x.com/silverfang88/status/1793359725775774020 | @SatoshiNobility 好好好
+- `1793408382747156493` | 2024-05-23 06:27:33 GMT+8 | original | https://x.com/silverfang88/status/1793408382747156493 | 5月23日
+- `1793423308475834454` | 2024-05-23 07:26:51 GMT+8 | original | https://x.com/silverfang88/status/1793423308475834454 | 打飞机打了半个月
+- `1793587377333785015` | 2024-05-23 18:18:48 GMT+8 | original | https://x.com/silverfang88/status/1793587377333785015 | 好笑的事情是
+- `1793587499375423876` | 2024-05-23 18:19:17 GMT+8 | original | https://x.com/silverfang88/status/1793587499375423876 | 好笑的事情是
+- `1793588604423590138` | 2024-05-23 18:23:41 GMT+8 | reply | https://x.com/silverfang88/status/1793588604423590138 | @BTCdayu 哈哈哈哈
+- `1793588624413601846` | 2024-05-23 18:23:45 GMT+8 | original | https://x.com/silverfang88/status/1793588624413601846 | @0xAmazingChar 割以永治
+- `1793588691849626040` | 2024-05-23 18:24:02 GMT+8 | reply | https://x.com/silverfang88/status/1793588691849626040 | @mingxie99761209 我就喜欢黑丝 确实没啥品味
+- `1793588721528553794` | 2024-05-23 18:24:09 GMT+8 | reply | https://x.com/silverfang88/status/1793588721528553794 | @pp_mh5 已经成功！
+- `1793588766923485465` | 2024-05-23 18:24:19 GMT+8 | reply | https://x.com/silverfang88/status/1793588766923485465 | @Aurora_Lashao 没有用的 我现在心如止水
+- `1793588792852418927` | 2024-05-23 18:24:26 GMT+8 | reply | https://x.com/silverfang88/status/1793588792852418927 | @banana_iced 无用的  徒劳的
+- `1793588815824863574` | 2024-05-23 18:24:31 GMT+8 | reply | https://x.com/silverfang88/status/1793588815824863574 | @edison_near 无用
+- `1793592811628978353` | 2024-05-23 18:40:24 GMT+8 | original | https://x.com/silverfang88/status/1793592811628978353 | 币圈很多公司
+- `1793615202854076457` | 2024-05-23 20:09:22 GMT+8 | original | https://x.com/silverfang88/status/1793615202854076457 | 一直不停的买w 买zeus
+- `1793638912394727798` | 2024-05-23 21:43:35 GMT+8 | reply | https://x.com/silverfang88/status/1793638912394727798 | @thecryptoskanda 所以他们一开始就想好了我们就是来骗一把结束了
+- `1793640726712172649` | 2024-05-23 21:50:48 GMT+8 | reply | https://x.com/silverfang88/status/1793640726712172649 | @thecryptoskanda 可以
+- `1793640790553718952` | 2024-05-23 21:51:03 GMT+8 | reply | https://x.com/silverfang88/status/1793640790553718952 | @roger9949 不是 我是流动性的信徒
+- `1793640920501334258` | 2024-05-23 21:51:34 GMT+8 | reply | https://x.com/silverfang88/status/1793640920501334258 | @mianbizhe1hao 都是全链，把一个链流动性带给另一个的叙事
+- `1793642814112518215` | 2024-05-23 21:59:05 GMT+8 | original | https://x.com/silverfang88/status/1793642814112518215 | “如果你发现一个人很有能力，但是一直在币圈没赚到大钱，说明这个人人品很不错。” https://t.co/hbwo5tXsdF
+- `1793654689776468164` | 2024-05-23 22:46:17 GMT+8 | reply | https://x.com/silverfang88/status/1793654689776468164 | @Moon1ightSt rug一把项目方？
+- `1793654720030286209` | 2024-05-23 22:46:24 GMT+8 | reply | https://x.com/silverfang88/status/1793654720030286209 | @flyfishbtc 不止如此
+- `1793654770093510850` | 2024-05-23 22:46:36 GMT+8 | reply | https://x.com/silverfang88/status/1793654770093510850 | @Tobisoye 那不是还有死路一条吗
+- `1793666279574004145` | 2024-05-23 23:32:20 GMT+8 | reply | https://x.com/silverfang88/status/1793666279574004145 | @Dorothy_defi 哈哈哈哈
+- `1793666331155583172` | 2024-05-23 23:32:32 GMT+8 | reply | https://x.com/silverfang88/status/1793666331155583172 | @Lucas00_007 怎么了又 宝
+- `1793669016806215699` | 2024-05-23 23:43:13 GMT+8 | reply | https://x.com/silverfang88/status/1793669016806215699 | @Lucas00_007 rug一把自由
+- `1793684094796042622` | 2024-05-24 00:43:07 GMT+8 | original | https://x.com/silverfang88/status/1793684094796042622 | 玩了俩小时鸣潮
+- `1793687550441521539` | 2024-05-24 00:56:51 GMT+8 | repost | https://x.com/silverfang88/status/1793687550441521539 | RT @getmoni_io: As I promised last week, a fresh list of Alpha Report readers' wins won't be long in coming. 🌭
+- `1793687999349473435` | 2024-05-24 00:58:38 GMT+8 | reply | https://x.com/silverfang88/status/1793687999349473435 | @Wzh66667 我买了个5万的号，贼屌，砍瓜切菜
+- `1793691427571925001` | 2024-05-24 01:12:16 GMT+8 | reply | https://x.com/silverfang88/status/1793691427571925001 | @JYdmnLFG switch 
+- `1793698142678065534` | 2024-05-24 01:38:57 GMT+8 | reply | https://x.com/silverfang88/status/1793698142678065534 | @crypto_sphinx 懂了 男友是狗
+- `1793704105845964904` | 2024-05-24 02:02:38 GMT+8 | original | https://x.com/silverfang88/status/1793704105845964904 | 让子弹飞台词背诵大会
+- `1793750884465418575` | 2024-05-24 05:08:31 GMT+8 | reply | https://x.com/silverfang88/status/1793750884465418575 | @shiki214214214 很难了
+- `1793751155677520063` | 2024-05-24 05:09:36 GMT+8 | original | https://x.com/silverfang88/status/1793751155677520063 | 抄底everything baby
+- `1793759261161619800` | 2024-05-24 05:41:48 GMT+8 | reply | https://x.com/silverfang88/status/1793759261161619800 | @edison_near 来荷兰
 - `1793791331656958251` | 2024-05-24 07:49:15 GMT+8 | original | https://x.com/silverfang88/status/1793791331656958251 | 十四岁那年看明朝那些事儿
 - `1793924852824625479` | 2024-05-24 16:39:49 GMT+8 | original | https://x.com/silverfang88/status/1793924852824625479 | @abyssofgambling 我的神通就是打飞机
 - `1793935684882829359` | 2024-05-24 17:22:51 GMT+8 | original | https://x.com/silverfang88/status/1793935684882829359 | @SatoshiNobility 那些泛绿光的统统买进
@@ -6097,6 +6804,473 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1796602739235205235` | 2024-06-01 02:00:46 GMT+8 | reply | https://x.com/silverfang88/status/1796602739235205235 | @awkwardalz 你好
 - `1796608853670265255` | 2024-06-01 02:25:04 GMT+8 | reply | https://x.com/silverfang88/status/1796608853670265255 | @la_nieve1 你好
 - `1796627051182473549` | 2024-06-01 03:37:23 GMT+8 | reply | https://x.com/silverfang88/status/1796627051182473549 | @Ru7Longcrypto 同求
+- `1796731370372219120` | 2024-06-01 10:31:55 GMT+8 | original | https://x.com/silverfang88/status/1796731370372219120 | 祝大家儿童节快乐
+- `1796741559288820050` | 2024-06-01 11:12:24 GMT+8 | original | https://x.com/silverfang88/status/1796741559288820050 | 男人至死是少年
+- `1796741686564925540` | 2024-06-01 11:12:54 GMT+8 | original | https://x.com/silverfang88/status/1796741686564925540 | 男人至死是少年
+- `1796799349793452090` | 2024-06-01 15:02:02 GMT+8 | reply | https://x.com/silverfang88/status/1796799349793452090 | @sukicao2 你好
+- `1796864700300345789` | 2024-06-01 19:21:43 GMT+8 | original | https://x.com/silverfang88/status/1796864700300345789 | 我建议polyhedra不要再抢ZK这个ticker了
+- `1796864837756019043` | 2024-06-01 19:22:16 GMT+8 | original | https://x.com/silverfang88/status/1796864837756019043 | 我建议polyhedra不要再抢ZK这个ticker了
+- `1796869344388862003` | 2024-06-01 19:40:10 GMT+8 | original | https://x.com/silverfang88/status/1796869344388862003 | 打开推特
+- `1796871285433078259` | 2024-06-01 19:47:53 GMT+8 | original | https://x.com/silverfang88/status/1796871285433078259 | 哦  还有一个
+- `1796871774140809224` | 2024-06-01 19:49:49 GMT+8 | reply | https://x.com/silverfang88/status/1796871774140809224 | @thecryptoskanda 我也觉得会赢 但是他们自己就是想不明白
+- `1796871883054326171` | 2024-06-01 19:50:15 GMT+8 | original | https://x.com/silverfang88/status/1796871883054326171 | 哦  还有一个
+- `1796872280686961122` | 2024-06-01 19:51:50 GMT+8 | reply | https://x.com/silverfang88/status/1796872280686961122 | @Cartix0220 @VitalikButerin @blknoiz06 @PolyhedraZK @zksync @doudou22207128 @NFVentures @TeddyAC01 @0xjuu_17 互相监督 从我们做起 严厉谴责这种不法行为！
+- `1796877704454660211` | 2024-06-01 20:13:23 GMT+8 | original | https://x.com/silverfang88/status/1796877704454660211 | 我买了很多 $w 和 $zeus 然后希望能一剑开天门 
+- `1796877901293388158` | 2024-06-01 20:14:10 GMT+8 | original | https://x.com/silverfang88/status/1796877901293388158 | 我买了很多 $w 和 $zeus 然后希望能一剑开天门 
+- `1796880474419216672` | 2024-06-01 20:24:24 GMT+8 | reply | https://x.com/silverfang88/status/1796880474419216672 | @mianbizhe1hao 那你还是极端了一些….
+- `1796880528357966319` | 2024-06-01 20:24:37 GMT+8 | reply | https://x.com/silverfang88/status/1796880528357966319 | @yizigaoxingxing 好的，拿不住就算了吧
+- `1796883164238864419` | 2024-06-01 20:35:05 GMT+8 | reply | https://x.com/silverfang88/status/1796883164238864419 | @la_nieve1 你好
+- `1796888601709486556` | 2024-06-01 20:56:41 GMT+8 | reply | https://x.com/silverfang88/status/1796888601709486556 | @Moon1ightSt 张姐 我想请你吃饭
+- `1796888643002343700` | 2024-06-01 20:56:51 GMT+8 | original | https://x.com/silverfang88/status/1796888643002343700 | @abyssofgambling 你好
+- `1796889743948726417` | 2024-06-01 21:01:14 GMT+8 | original | https://x.com/silverfang88/status/1796889743948726417 | @Oldoggie88 你好
+- `1796889799590039645` | 2024-06-01 21:01:27 GMT+8 | original | https://x.com/silverfang88/status/1796889799590039645 | @yeepink21 你好
+- `1796901675157881301` | 2024-06-01 21:48:38 GMT+8 | original | https://x.com/silverfang88/status/1796901675157881301 | @saosaoliu 哈哈哈哈 只能自救！
+- `1796901912341537119` | 2024-06-01 21:49:35 GMT+8 | original | https://x.com/silverfang88/status/1796901912341537119 | @roger9949 好像是真的 再看看吧
+- `1796902077920063791` | 2024-06-01 21:50:14 GMT+8 | original | https://x.com/silverfang88/status/1796902077920063791 | @cryptooupaijun https://t.co/NxmjBukqCv
+- `1796902081900515436` | 2024-06-01 21:50:15 GMT+8 | original | https://x.com/silverfang88/status/1796902081900515436 | @YristFigo 再说吧 谁知道呢
+- `1796904498109047175` | 2024-06-01 21:59:51 GMT+8 | original | https://x.com/silverfang88/status/1796904498109047175 | @jiamimaodashu 就是绝命毒师里面我记得有过描述，就是纯度高了之后，是戒不掉的
+- `1796904758881718352` | 2024-06-01 22:00:54 GMT+8 | reply | https://x.com/silverfang88/status/1796904758881718352 | @tngjngs37980339 好的
+- `1796905720241176936` | 2024-06-01 22:04:43 GMT+8 | original | https://x.com/silverfang88/status/1796905720241176936 | @Quin99n 无所谓啊 接着相信 我觉得他实力很强
+- `1796906949067334014` | 2024-06-01 22:09:36 GMT+8 | reply | https://x.com/silverfang88/status/1796906949067334014 | @tobeleoo 看描述是挺吓人的 https://t.co/6OfnkvjOLM
+- `1796911438298071162` | 2024-06-01 22:27:26 GMT+8 | original | https://x.com/silverfang88/status/1796911438298071162 | @chesterttt2 要到2了我直接黑丝女装
+- `1796914508411089219` | 2024-06-01 22:39:38 GMT+8 | original | https://x.com/silverfang88/status/1796914508411089219 | @Shirleyalah 你好
+- `1796914878000533573` | 2024-06-01 22:41:06 GMT+8 | original | https://x.com/silverfang88/status/1796914878000533573 | @robertdai11 是是是，肯定能戒掉，未来项目都会起飞
+- `1796915901335208185` | 2024-06-01 22:45:10 GMT+8 | original | https://x.com/silverfang88/status/1796915901335208185 | @jennnniepink 你好
+- `1796941968443908278` | 2024-06-02 00:28:45 GMT+8 | reply | https://x.com/silverfang88/status/1796941968443908278 | @zuoerlundao1 是是是 你说的对 随便戒掉
+- `1797054459157033057` | 2024-06-02 07:55:45 GMT+8 | original | https://x.com/silverfang88/status/1797054459157033057 | 铁头在靖国神社撒尿涂鸦
+- `1797054493902717045` | 2024-06-02 07:55:53 GMT+8 | original | https://x.com/silverfang88/status/1797054493902717045 | 铁头在靖国神社撒尿涂鸦
+- `1797076096451514458` | 2024-06-02 09:21:44 GMT+8 | original | https://x.com/silverfang88/status/1797076096451514458 | 从我决定活下来的那一天开始 
+- `1797082664433791029` | 2024-06-02 09:47:50 GMT+8 | original | https://x.com/silverfang88/status/1797082664433791029 | 币圈生存法则之三
+- `1797086777049506050` | 2024-06-02 10:04:10 GMT+8 | original | https://x.com/silverfang88/status/1797086777049506050 | @JunXu04535241 sbtqyqx
+- `1797112094107619644` | 2024-06-02 11:44:46 GMT+8 | reply | https://x.com/silverfang88/status/1797112094107619644 | @0xggy 还是原味丝袜吧 这个重口了点
+- `1797162750558314875` | 2024-06-02 15:06:04 GMT+8 | original | https://x.com/silverfang88/status/1797162750558314875 | 最近多了很多圈外的朋友关注我
+- `1797167501647749305` | 2024-06-02 15:24:56 GMT+8 | reply | https://x.com/silverfang88/status/1797167501647749305 | @DegenJzm53274 什么探花
+- `1797167624775745901` | 2024-06-02 15:25:26 GMT+8 | reply | https://x.com/silverfang88/status/1797167624775745901 | @Anitazzx 好的 懂了
+- `1797174150974345429` | 2024-06-02 15:51:22 GMT+8 | reply | https://x.com/silverfang88/status/1797174150974345429 | @Mon3yMak1r 我一直都是流量博主
+- `1797193484702560499` | 2024-06-02 17:08:11 GMT+8 | original | https://x.com/silverfang88/status/1797193484702560499 | https://t.co/XL68ciQk2e
+- `1797206484545126456` | 2024-06-02 17:59:51 GMT+8 | reply | https://x.com/silverfang88/status/1797206484545126456 | https://t.co/4YR0BrccK6
+- `1797212003490029633` | 2024-06-02 18:21:46 GMT+8 | reply | https://x.com/silverfang88/status/1797212003490029633 | https://t.co/SzfeN8ee4o
+- `1797215131136307349` | 2024-06-02 18:34:12 GMT+8 | original | https://x.com/silverfang88/status/1797215131136307349 | 测试一下
+- `1797217768816693727` | 2024-06-02 18:44:41 GMT+8 | reply | https://x.com/silverfang88/status/1797217768816693727 | @yydzeth 操
+- `1797217788127285428` | 2024-06-02 18:44:46 GMT+8 | reply | https://x.com/silverfang88/status/1797217788127285428 | @Siulungbaobb ？
+- `1797217843915760069` | 2024-06-02 18:44:59 GMT+8 | reply | https://x.com/silverfang88/status/1797217843915760069 | @web3jackiechan 好
+- `1797218549385011602` | 2024-06-02 18:47:47 GMT+8 | quote | https://x.com/silverfang88/status/1797218549385011602 | 第十九期 聊聊游戏行业的瓜 https://t.co/01bEglGiUz
+- `1797221521204678792` | 2024-06-02 18:59:36 GMT+8 | reply | https://x.com/silverfang88/status/1797221521204678792 | @ekko__99 ？
+- `1797225260632170900` | 2024-06-02 19:14:27 GMT+8 | reply | https://x.com/silverfang88/status/1797225260632170900 | @abyssofgambling 好的
+- `1797301093338055047` | 2024-06-03 00:15:47 GMT+8 | reply | https://x.com/silverfang88/status/1797301093338055047 | @thecryptoskanda 我看打劫的不是我的钱
+- `1797301151265607972` | 2024-06-03 00:16:01 GMT+8 | reply | https://x.com/silverfang88/status/1797301151265607972 | @edison_near 停止交易
+- `1797327406513992008` | 2024-06-03 02:00:21 GMT+8 | reply | https://x.com/silverfang88/status/1797327406513992008 | @abyssofgambling 你好
+- `1797501255759061396` | 2024-06-03 13:31:09 GMT+8 | original | https://x.com/silverfang88/status/1797501255759061396 | 自从上条2天300万浏览之后，我又花了两天时间咨询了一下成都的不良会所，希望你们不要去游逛，一起抵制，健康成长！
+- `1797501493127344451` | 2024-06-03 13:32:06 GMT+8 | original | https://x.com/silverfang88/status/1797501493127344451 | 自从上条2天300万浏览之后，我又花了两天时间咨询了一下成都的不良会所，希望你们不要去游逛，一起抵制，健康成长！
+- `1797501744567464397` | 2024-06-03 13:33:06 GMT+8 | original | https://x.com/silverfang88/status/1797501744567464397 | 自从上条2天300万浏览之后，我又花了两天时间咨询了一下成都的不良会所，希望你们不要去游逛，一起抵制，健康成长！
+- `1797502969447170401` | 2024-06-03 13:37:58 GMT+8 | original | https://x.com/silverfang88/status/1797502969447170401 | 别人都在拉盘了 
+- `1797507570212700611` | 2024-06-03 13:56:15 GMT+8 | reply | https://x.com/silverfang88/status/1797507570212700611 | @no1harm @ZeusNetworkHQ @dappiokeeper 哥们的W已经赚10万u了
+- `1797507971460792702` | 2024-06-03 13:57:51 GMT+8 | reply | https://x.com/silverfang88/status/1797507971460792702 | @kylopeung 发发发 现充真他妈该死啊
+- `1797518616444936335` | 2024-06-03 14:40:09 GMT+8 | reply | https://x.com/silverfang88/status/1797518616444936335 | @la_nieve1 你好
+- `1797518673776967858` | 2024-06-03 14:40:22 GMT+8 | reply | https://x.com/silverfang88/status/1797518673776967858 | @Irenezhao_ 你好
+- `1797519778435006654` | 2024-06-03 14:44:46 GMT+8 | reply | https://x.com/silverfang88/status/1797519778435006654 | @sukicao2 你好
+- `1797519850669285468` | 2024-06-03 14:45:03 GMT+8 | reply | https://x.com/silverfang88/status/1797519850669285468 | @tinaaaaalee 你好
+- `1797519921192251553` | 2024-06-03 14:45:20 GMT+8 | reply | https://x.com/silverfang88/status/1797519921192251553 | @0xstellacyl @pacmoon_ 你好
+- `1797522708261163512` | 2024-06-03 14:56:24 GMT+8 | reply | https://x.com/silverfang88/status/1797522708261163512 | @tiffanyli1010 你好
+- `1797526573450662154` | 2024-06-03 15:11:46 GMT+8 | reply | https://x.com/silverfang88/status/1797526573450662154 | @VoidAsuka 你好
+- `1797529524168777881` | 2024-06-03 15:23:29 GMT+8 | quote | https://x.com/silverfang88/status/1797529524168777881 | 你们懂了吗? https://t.co/xQycoDdg3T
+- `1797529652225102222` | 2024-06-03 15:24:00 GMT+8 | quote | https://x.com/silverfang88/status/1797529652225102222 | 你们懂了吗?
+- `1797540028534739237` | 2024-06-03 16:05:14 GMT+8 | quote | https://x.com/silverfang88/status/1797540028534739237 | 麻了 赢麻了 https://t.co/xQycoDdg3T
+- `1797541069049245865` | 2024-06-03 16:09:22 GMT+8 | original | https://x.com/silverfang88/status/1797541069049245865 | @cryptoxiao 爸爸 操我 我下面好痒 啊啊啊啊
+- `1797556652885114947` | 2024-06-03 17:11:17 GMT+8 | original | https://x.com/silverfang88/status/1797556652885114947 | 冷知识 okx之前上的新币sln
+- `1797557389748818383` | 2024-06-03 17:14:13 GMT+8 | original | https://x.com/silverfang88/status/1797557389748818383 | 投资重要的是什么？
+- `1797557415212449971` | 2024-06-03 17:14:19 GMT+8 | original | https://x.com/silverfang88/status/1797557415212449971 | 投资重要的是什么？
+- `1797558615588401650` | 2024-06-03 17:19:05 GMT+8 | original | https://x.com/silverfang88/status/1797558615588401650 | @roger9949 16万美金怎么反弹
+- `1797560042893586641` | 2024-06-03 17:24:45 GMT+8 | original | https://x.com/silverfang88/status/1797560042893586641 | @yeepink21 你好
+- `1797560106457923684` | 2024-06-03 17:25:01 GMT+8 | original | https://x.com/silverfang88/status/1797560106457923684 | @vvickym2 老鼠屎
+- `1797563366237737397` | 2024-06-03 17:37:58 GMT+8 | quote | https://x.com/silverfang88/status/1797563366237737397 | 成功的关键就是不败
+- `1797574213487743415` | 2024-06-03 18:21:04 GMT+8 | original | https://x.com/silverfang88/status/1797574213487743415 | 1200万应届生今年进入就业市场
+- `1797635383863427278` | 2024-06-03 22:24:08 GMT+8 | original | https://x.com/silverfang88/status/1797635383863427278 | 不错
+- `1797658501680185546` | 2024-06-03 23:56:00 GMT+8 | reply | https://x.com/silverfang88/status/1797658501680185546 | @xclisgood @abyssofgambling 你好会写。  
+- `1797727667271413791` | 2024-06-04 04:30:50 GMT+8 | quote | https://x.com/silverfang88/status/1797727667271413791 | 每个月400多亿美金资产
+- `1797732270431973604` | 2024-06-04 04:49:08 GMT+8 | quote | https://x.com/silverfang88/status/1797732270431973604 | 每个月400多亿美金资产
+- `1797768507826074089` | 2024-06-04 07:13:07 GMT+8 | original | https://x.com/silverfang88/status/1797768507826074089 | 最低点和涨之前喊的你们 $zeus 和 $w
+- `1797769699608219658` | 2024-06-04 07:17:51 GMT+8 | reply | https://x.com/silverfang88/status/1797769699608219658 | @StaccNotGuilty 目前在读书 什么境界都没有
+- `1797773273201324417` | 2024-06-04 07:32:04 GMT+8 | reply | https://x.com/silverfang88/status/1797773273201324417 | @NWAHf6kUGMYzEmN 赶紧卖了 都赚钱了还拿着干嘛
+- `1797780227848053196` | 2024-06-04 07:59:42 GMT+8 | original | https://x.com/silverfang88/status/1797780227848053196 | 下一期想看哪个城市？
+- `1797919614208200732` | 2024-06-04 17:13:34 GMT+8 | original | https://x.com/silverfang88/status/1797919614208200732 | 再讲个冷知识
+- `1797919689990914357` | 2024-06-04 17:13:52 GMT+8 | original | https://x.com/silverfang88/status/1797919689990914357 | 看到今天某kol被锤
+- `1797919893091750140` | 2024-06-04 17:14:40 GMT+8 | original | https://x.com/silverfang88/status/1797919893091750140 | 看到今天某kol被锤
+- `1797922039862595859` | 2024-06-04 17:23:12 GMT+8 | reply | https://x.com/silverfang88/status/1797922039862595859 | @ETHyiran 你好
+- `1797922054370742646` | 2024-06-04 17:23:16 GMT+8 | reply | https://x.com/silverfang88/status/1797922054370742646 | @DegenJzm53274 你好
+- `1797922149010972924` | 2024-06-04 17:23:38 GMT+8 | reply | https://x.com/silverfang88/status/1797922149010972924 | @HUd7iC57fj04GLi 其实每个人都是这样
+- `1797922336785797195` | 2024-06-04 17:24:23 GMT+8 | reply | https://x.com/silverfang88/status/1797922336785797195 | @dov_wo 明宣宗怎么了？
+- `1797924707083468924` | 2024-06-04 17:33:48 GMT+8 | reply | https://x.com/silverfang88/status/1797924707083468924 | @Jf5858777 当年忠贞为国酬，何曾怕断头。而今天下红遍，江山靠谁守？
+- `1797933300742537344` | 2024-06-04 18:07:57 GMT+8 | original | https://x.com/silverfang88/status/1797933300742537344 | @0xAmazingChar @thecryptoskanda 富田事变
+- `1797935804087685394` | 2024-06-04 18:17:54 GMT+8 | original | https://x.com/silverfang88/status/1797935804087685394 | 你们简介都挂着什么 sm dom 女s 都是什么意思？
+- `1797961461614178715` | 2024-06-04 19:59:51 GMT+8 | reply | https://x.com/silverfang88/status/1797961461614178715 | @yeepink21 你好
+- `1798019760501977437` | 2024-06-04 23:51:31 GMT+8 | original | https://x.com/silverfang88/status/1798019760501977437 | 刚睡醒
+- `1798028960753926210` | 2024-06-05 00:28:04 GMT+8 | reply | https://x.com/silverfang88/status/1798028960753926210 | @jdy888 💓
+- `1798029878597652497` | 2024-06-05 00:31:43 GMT+8 | original | https://x.com/silverfang88/status/1798029878597652497 | 老师 还看BTC 5万吗？
+- `1798065455229530167` | 2024-06-05 02:53:05 GMT+8 | quote | https://x.com/silverfang88/status/1798065455229530167 | renzo推特被盗了 别交互 https://t.co/q302E53aDV
+- `1798200826168787344` | 2024-06-05 11:51:00 GMT+8 | repost | https://x.com/silverfang88/status/1798200826168787344 | RT @blocklordscn: BLOCKLORDS 全新游戏机制即将上线🔥
+- `1798215001611870325` | 2024-06-05 12:47:20 GMT+8 | reply | https://x.com/silverfang88/status/1798215001611870325 | @xingpt 让枪17带你，它有97%胜率呢，你俩刚好一百 lol
+- `1798224637589131397` | 2024-06-05 13:25:37 GMT+8 | original | https://x.com/silverfang88/status/1798224637589131397 | 戒色第一天
+- `1798237160350650635` | 2024-06-05 14:15:23 GMT+8 | reply | https://x.com/silverfang88/status/1798237160350650635 | @momochenming 你好
+- `1798237919561539891` | 2024-06-05 14:18:24 GMT+8 | reply | https://x.com/silverfang88/status/1798237919561539891 | @JYdmnLFG 你好 十天没发黑丝了
+- `1798258823851057311` | 2024-06-05 15:41:28 GMT+8 | reply | https://x.com/silverfang88/status/1798258823851057311 | @la_nieve1 你好
+- `1798317778610667558` | 2024-06-05 19:35:44 GMT+8 | reply | https://x.com/silverfang88/status/1798317778610667558 | @Gummybear1771 你好
+- `1798319964837023838` | 2024-06-05 19:44:25 GMT+8 | reply | https://x.com/silverfang88/status/1798319964837023838 | @ynonestop 你好
+- `1798320904772132978` | 2024-06-05 19:48:09 GMT+8 | reply | https://x.com/silverfang88/status/1798320904772132978 | @yeepink21 好你
+- `1798321013371105312` | 2024-06-05 19:48:35 GMT+8 | reply | https://x.com/silverfang88/status/1798321013371105312 | @yeepink21 我想吃肯德德
+- `1798327281414234175` | 2024-06-05 20:13:29 GMT+8 | original | https://x.com/silverfang88/status/1798327281414234175 | “吗的，冲了500sol 自己也亏了200sol 下一个吧，都是哥们，一起亏点钱怎么了”（自己发的盘子）
+- `1798327828984852975` | 2024-06-05 20:15:40 GMT+8 | original | https://x.com/silverfang88/status/1798327828984852975 | “吗的，冲了500sol 自己也亏了200sol 下一个吧，都是哥们，一起亏点钱怎么了”（自己发的盘子）
+- `1798328089954464002` | 2024-06-05 20:16:42 GMT+8 | original | https://x.com/silverfang88/status/1798328089954464002 | “吗的，冲了500sol 自己也亏了200sol 下一个吧，都是哥们，一起亏点钱怎么了”（自己发的盘子）
+- `1798340766944694772` | 2024-06-05 21:07:05 GMT+8 | original | https://x.com/silverfang88/status/1798340766944694772 | 看了听了很多人在合约交易、土狗、量化高频等等上的策略和经验复盘
+- `1798340886218014957` | 2024-06-05 21:07:33 GMT+8 | original | https://x.com/silverfang88/status/1798340886218014957 | 看了听了很多人在合约交易、土狗、量化高频等等上的策略和经验复盘
+- `1798343131987083301` | 2024-06-05 21:16:28 GMT+8 | original | https://x.com/silverfang88/status/1798343131987083301 | 很多朋友做crypto赚不到大钱的一个原因，很讽刺的就是，懂得太多，智商太高了 https://t.co/BNtNCsvoeK
+- `1798343770783756782` | 2024-06-05 21:19:01 GMT+8 | original | https://x.com/silverfang88/status/1798343770783756782 | https://t.co/RQb66c00To
+- `1798349815996453161` | 2024-06-05 21:43:02 GMT+8 | original | https://x.com/silverfang88/status/1798349815996453161 | @yeepink21 抖音
+- `1798364510723690858` | 2024-06-05 22:41:26 GMT+8 | original | https://x.com/silverfang88/status/1798364510723690858 | 币圈改革开放开始了
+- `1798375370997252581` | 2024-06-05 23:24:35 GMT+8 | original | https://x.com/silverfang88/status/1798375370997252581 | @Ling_R_C 目前只关注漂亮妹子
+- `1798382661150671121` | 2024-06-05 23:53:33 GMT+8 | original | https://x.com/silverfang88/status/1798382661150671121 | 不是哥们，真能赚钱的群能拉你吗？ https://t.co/4toF5I9ZAX
+- `1798383660670071065` | 2024-06-05 23:57:31 GMT+8 | original | https://x.com/silverfang88/status/1798383660670071065 | @brashZhang 别急 等我攒攒 https://t.co/ZbTLmtkWt3
+- `1798388160717791431` | 2024-06-06 00:15:24 GMT+8 | original | https://x.com/silverfang88/status/1798388160717791431 | @roger9949 @kylopeung 哈哈哈哈哈
+- `1798389329125126182` | 2024-06-06 00:20:03 GMT+8 | original | https://x.com/silverfang88/status/1798389329125126182 | @roger9949 @kylopeung 不回去了 定居海外了
+- `1798389504711278693` | 2024-06-06 00:20:45 GMT+8 | original | https://x.com/silverfang88/status/1798389504711278693 | @Mina19971224 @The_Beacon_GG @arbitrum 你好 能不能踩我脸上
+- `1798397549084344423` | 2024-06-06 00:52:42 GMT+8 | original | https://x.com/silverfang88/status/1798397549084344423 | @Ru7Longcrypto @BlueberryRing 你好
+- `1798413709431472442` | 2024-06-06 01:56:55 GMT+8 | original | https://x.com/silverfang88/status/1798413709431472442 | moni的研究报告写的越来越好了 
+- `1798415035884360110` | 2024-06-06 02:02:12 GMT+8 | original | https://x.com/silverfang88/status/1798415035884360110 | @getmoni_io ✈️
+- `1798434289220198708` | 2024-06-06 03:18:42 GMT+8 | original | https://x.com/silverfang88/status/1798434289220198708 | @0xLoe 好的
+- `1798491822815322484` | 2024-06-06 07:07:19 GMT+8 | original | https://x.com/silverfang88/status/1798491822815322484 | 好久没打狗了
+- `1798491937110176212` | 2024-06-06 07:07:46 GMT+8 | original | https://x.com/silverfang88/status/1798491937110176212 | 好久没打狗了
+- `1798491989333434660` | 2024-06-06 07:07:59 GMT+8 | reply | https://x.com/silverfang88/status/1798491989333434660 | 打狗机器人
+- `1798536329208160419` | 2024-06-06 10:04:10 GMT+8 | original | https://x.com/silverfang88/status/1798536329208160419 | @la_nieve1 你好
+- `1798551582239293846` | 2024-06-06 11:04:47 GMT+8 | original | https://x.com/silverfang88/status/1798551582239293846 | 我有个朋友
+- `1798555540999876960` | 2024-06-06 11:20:31 GMT+8 | reply | https://x.com/silverfang88/status/1798555540999876960 | @abyssofgambling @bigbottle44 骂我 快
+- `1798560368404648280` | 2024-06-06 11:39:42 GMT+8 | quote | https://x.com/silverfang88/status/1798560368404648280 | wormhole快开质押了
+- `1798561478041350451` | 2024-06-06 11:44:06 GMT+8 | original | https://x.com/silverfang88/status/1798561478041350451 | @abyssofgambling @bigbottle44 你好
+- `1798567187378274751` | 2024-06-06 12:06:47 GMT+8 | reply | https://x.com/silverfang88/status/1798567187378274751 | https://t.co/9BdrIUJyL2
+- `1798575759352852670` | 2024-06-06 12:40:51 GMT+8 | quote | https://x.com/silverfang88/status/1798575759352852670 | 恭喜ionet上币安了 https://t.co/mKBT705GlJ
+- `1798576743089057807` | 2024-06-06 12:44:46 GMT+8 | reply | https://x.com/silverfang88/status/1798576743089057807 | @qiqileyuan 币安上完这项目直接实现mass adoption
+- `1798582726217572557` | 2024-06-06 13:08:32 GMT+8 | reply | https://x.com/silverfang88/status/1798582726217572557 | @topsignal @BitCloutCat @xuemanzi8848 @ChandlerGuo 我又咋了
+- `1798587039790866442` | 2024-06-06 13:25:41 GMT+8 | quote | https://x.com/silverfang88/status/1798587039790866442 | 宙宙会大获全胜的 
+- `1798682321467445440` | 2024-06-06 19:44:17 GMT+8 | reply | https://x.com/silverfang88/status/1798682321467445440 | @EudemoniaCC 你好
+- `1798682400181883302` | 2024-06-06 19:44:36 GMT+8 | reply | https://x.com/silverfang88/status/1798682400181883302 | @leibydl 你好
+- `1798682514300588204` | 2024-06-06 19:45:03 GMT+8 | reply | https://x.com/silverfang88/status/1798682514300588204 | @hahazwei @theNextDAO 你好
+- `1798686925001203743` | 2024-06-06 20:02:35 GMT+8 | reply | https://x.com/silverfang88/status/1798686925001203743 | @99HTX_ 你好
+- `1798687597004296369` | 2024-06-06 20:05:15 GMT+8 | reply | https://x.com/silverfang88/status/1798687597004296369 | @Moon1ightSt 你好 我没机会了吗
+- `1798707644212953482` | 2024-06-06 21:24:55 GMT+8 | original | https://x.com/silverfang88/status/1798707644212953482 | https://t.co/RQb66bZt3Q
+- `1798711779725652205` | 2024-06-06 21:41:21 GMT+8 | quote | https://x.com/silverfang88/status/1798711779725652205 | $w 的故事 很少有人明白
+- `1798713817737924817` | 2024-06-06 21:49:27 GMT+8 | reply | https://x.com/silverfang88/status/1798713817737924817 | @kylopeung $m
+- `1798725103192244523` | 2024-06-06 22:34:17 GMT+8 | quote | https://x.com/silverfang88/status/1798725103192244523 | 第二十期 随便聊
+- `1798726457361043664` | 2024-06-06 22:39:40 GMT+8 | quote | https://x.com/silverfang88/status/1798726457361043664 | 提问一： 为什么wormhole这个时候开质押？
+- `1798727632835784812` | 2024-06-06 22:44:21 GMT+8 | reply | https://x.com/silverfang88/status/1798727632835784812 | @zkgwgxSbRs88418 买了1m 等待剑开天门
+- `1798727997023019034` | 2024-06-06 22:45:47 GMT+8 | reply | https://x.com/silverfang88/status/1798727997023019034 | @dov_wo 爬升后自有韭菜喊单
+- `1798729774002815463` | 2024-06-06 22:52:51 GMT+8 | original | https://x.com/silverfang88/status/1798729774002815463 | Anything is impossible until it’s possible 
+- `1798730181433258495` | 2024-06-06 22:54:28 GMT+8 | reply | https://x.com/silverfang88/status/1798730181433258495 | @ganlin6668 肯定是他们 不用想
+- `1798731007191142556` | 2024-06-06 22:57:45 GMT+8 | reply | https://x.com/silverfang88/status/1798731007191142556 | @yeepink21 你好
+- `1798733061615456261` | 2024-06-06 23:05:55 GMT+8 | reply | https://x.com/silverfang88/status/1798733061615456261 | @yeepink21 被蚂蚁爬了
+- `1798735020703776855` | 2024-06-06 23:13:42 GMT+8 | original | https://x.com/silverfang88/status/1798735020703776855 | 不要问我从哪里来
+- `1798745046076068130` | 2024-06-06 23:53:32 GMT+8 | reply | https://x.com/silverfang88/status/1798745046076068130 | @Irenezhao_ 你好
+- `1798745613435392292` | 2024-06-06 23:55:47 GMT+8 | reply | https://x.com/silverfang88/status/1798745613435392292 | @GamefiAgent 你说的对
+- `1798745722218791288` | 2024-06-06 23:56:13 GMT+8 | reply | https://x.com/silverfang88/status/1798745722218791288 | @Lucas00_007 https://t.co/Nf1cCvORkj
+- `1798745725691707767` | 2024-06-06 23:56:14 GMT+8 | reply | https://x.com/silverfang88/status/1798745725691707767 | @nofud0x 你好
+- `1798745728543830281` | 2024-06-06 23:56:15 GMT+8 | original | https://x.com/silverfang88/status/1798745728543830281 | @cryptooupaijun 6
+- `1798745779798245667` | 2024-06-06 23:56:27 GMT+8 | reply | https://x.com/silverfang88/status/1798745779798245667 | @linck230038 无所谓 老有人私信问这些没意义的
+- `1798746257311363362` | 2024-06-06 23:58:21 GMT+8 | original | https://x.com/silverfang88/status/1798746257311363362 | @edison_near 你好
+- `1798746273450963304` | 2024-06-06 23:58:25 GMT+8 | original | https://x.com/silverfang88/status/1798746273450963304 | @tngjngs37980339 你好
+- `1798748396083445914` | 2024-06-07 00:06:51 GMT+8 | reply | https://x.com/silverfang88/status/1798748396083445914 | @yeepink21 快骂我
+- `1798753160665665832` | 2024-06-07 00:25:47 GMT+8 | reply | https://x.com/silverfang88/status/1798753160665665832 | @Mina19971224 你好
+- `1798769861558177846` | 2024-06-07 01:32:09 GMT+8 | original | https://x.com/silverfang88/status/1798769861558177846 | @ynonestop 你好
+- `1798771501895913730` | 2024-06-07 01:38:40 GMT+8 | original | https://x.com/silverfang88/status/1798771501895913730 | @0x_Maomaoer 你好
+- `1798778098474947006` | 2024-06-07 02:04:53 GMT+8 | repost | https://x.com/silverfang88/status/1798778098474947006 | RT @getmoni_io: In addition to Moni Discover Extension being your analytical AI assistant in CT, it is also a SECURITY TOOL 👮‍♂️
+- `1798790531885019168` | 2024-06-07 02:54:17 GMT+8 | original | https://x.com/silverfang88/status/1798790531885019168 | @tiffanyli1010 @superai_conf 你好
+- `1798831398415217145` | 2024-06-07 05:36:40 GMT+8 | quote | https://x.com/silverfang88/status/1798831398415217145 | 你们还是不明白
+- `1798832442339733788` | 2024-06-07 05:40:49 GMT+8 | original | https://x.com/silverfang88/status/1798832442339733788 | 本金888
+- `1798832445921579119` | 2024-06-07 05:40:50 GMT+8 | original | https://x.com/silverfang88/status/1798832445921579119 | https://t.co/ftDh9Vqffz
+- `1798833091412160707` | 2024-06-07 05:43:24 GMT+8 | original | https://x.com/silverfang88/status/1798833091412160707 | @OWpohKpfPqysSt3 无所谓啊…
+- `1798876758655311950` | 2024-06-07 08:36:55 GMT+8 | reply | https://x.com/silverfang88/status/1798876758655311950 | @Moon1ightSt 你好
+- `1798879552946446740` | 2024-06-07 08:48:01 GMT+8 | original | https://x.com/silverfang88/status/1798879552946446740 | 积少成多 积小胜为大胜
+- `1798925006627651770` | 2024-06-07 11:48:38 GMT+8 | original | https://x.com/silverfang88/status/1798925006627651770 | @hahazwei 你好
+- `1798932411507712069` | 2024-06-07 12:18:04 GMT+8 | original | https://x.com/silverfang88/status/1798932411507712069 | @sukicao2 你好
+- `1798965356712861750` | 2024-06-07 14:28:58 GMT+8 | original | https://x.com/silverfang88/status/1798965356712861750 | @alpacacheeze 你好
+- `1798976899030602038` | 2024-06-07 15:14:50 GMT+8 | original | https://x.com/silverfang88/status/1798976899030602038 | @Ru7Longcrypto @BlueberryRing 你好
+- `1798981365704315095` | 2024-06-07 15:32:35 GMT+8 | original | https://x.com/silverfang88/status/1798981365704315095 | 戒色第一天
+- `1798989131734991313` | 2024-06-07 16:03:27 GMT+8 | original | https://x.com/silverfang88/status/1798989131734991313 | 我现在睡觉之前都是数项目
+- `1799064679584768375` | 2024-06-07 21:03:39 GMT+8 | original | https://x.com/silverfang88/status/1799064679584768375 | @yeepink21 你好 好 好
+- `1799064828386111555` | 2024-06-07 21:04:14 GMT+8 | original | https://x.com/silverfang88/status/1799064828386111555 | @Gummybear1771 你好 爱过
+- `1799064894215786821` | 2024-06-07 21:04:30 GMT+8 | original | https://x.com/silverfang88/status/1799064894215786821 | @Moon1ightSt @habibixyz_sol 你好 爱过
+- `1799066633098645792` | 2024-06-07 21:11:25 GMT+8 | original | https://x.com/silverfang88/status/1799066633098645792 | @yeepink21 黑丝好啊 好
+- `1799066655076790373` | 2024-06-07 21:11:30 GMT+8 | original | https://x.com/silverfang88/status/1799066655076790373 | @sukicao2 结束了
+- `1799081551822721261` | 2024-06-07 22:10:41 GMT+8 | original | https://x.com/silverfang88/status/1799081551822721261 | @yeepink21 这怎么戒
+- `1799081606411653232` | 2024-06-07 22:10:54 GMT+8 | original | https://x.com/silverfang88/status/1799081606411653232 | @Moon1ightSt @habibixyz_sol 阿吧啊吧
+- `1799082101595324473` | 2024-06-07 22:12:53 GMT+8 | original | https://x.com/silverfang88/status/1799082101595324473 | 这不冲？
+- `1799083687612723262` | 2024-06-07 22:19:11 GMT+8 | quote | https://x.com/silverfang88/status/1799083687612723262 | 你们明白了吗？
+- `1799083889287430156` | 2024-06-07 22:19:59 GMT+8 | quote | https://x.com/silverfang88/status/1799083889287430156 | 你们猜到了吗？
+- `1799088038795956715` | 2024-06-07 22:36:28 GMT+8 | original | https://x.com/silverfang88/status/1799088038795956715 | @awkwardalz 你好
+- `1799090769363411021` | 2024-06-07 22:47:19 GMT+8 | original | https://x.com/silverfang88/status/1799090769363411021 | @Aurora_Lashao 其实我什么都知道 但我什么都懒得说
+- `1799107490690523216` | 2024-06-07 23:53:46 GMT+8 | original | https://x.com/silverfang88/status/1799107490690523216 | 不知道发什么了
+- `1799108288573042901` | 2024-06-07 23:56:56 GMT+8 | original | https://x.com/silverfang88/status/1799108288573042901 | @momochenming 阿巴阿巴
+- `1799108626709360671` | 2024-06-07 23:58:17 GMT+8 | original | https://x.com/silverfang88/status/1799108626709360671 | @0x_eunice @MOYAKI_XYZ @chog_xyz @molandak @Purpman123 你好
+- `1799110769134776691` | 2024-06-08 00:06:47 GMT+8 | original | https://x.com/silverfang88/status/1799110769134776691 | @pennylu_0018 你好
+- `1799138680541683920` | 2024-06-08 01:57:42 GMT+8 | original | https://x.com/silverfang88/status/1799138680541683920 | @0xAmazingChar 喊都喊不动 能不能争点气  别人都在拉盘  就你们在拉屎
+- `1799144870596018665` | 2024-06-08 02:22:18 GMT+8 | original | https://x.com/silverfang88/status/1799144870596018665 | 再次抄底GME  七进七出了！
+- `1799228338550280574` | 2024-06-08 07:53:58 GMT+8 | original | https://x.com/silverfang88/status/1799228338550280574 | @ynonestop 你好
+- `1799254021879828525` | 2024-06-08 09:36:01 GMT+8 | original | https://x.com/silverfang88/status/1799254021879828525 | 生如牛马，死如勾八
+- `1799254579172737081` | 2024-06-08 09:38:14 GMT+8 | original | https://x.com/silverfang88/status/1799254579172737081 | @bigbottle44 你好
+- `1799255093860049032` | 2024-06-08 09:40:17 GMT+8 | original | https://x.com/silverfang88/status/1799255093860049032 | @FanTuanGo 我是木牛流马
+- `1799256065785147648` | 2024-06-08 09:44:09 GMT+8 | original | https://x.com/silverfang88/status/1799256065785147648 | https://t.co/Ohg4IPpupH
+- `1799257466464620716` | 2024-06-08 09:49:43 GMT+8 | original | https://x.com/silverfang88/status/1799257466464620716 | 随意上麦 无聊了开个聊天的space
+- `1799261257151009073` | 2024-06-08 10:04:47 GMT+8 | original | https://x.com/silverfang88/status/1799261257151009073 | @KateDiary1 你好
+- `1799262949196157022` | 2024-06-08 10:11:30 GMT+8 | original | https://x.com/silverfang88/status/1799262949196157022 | @OverworldPlay 妈的 赶紧发啊
+- `1799264171772756433` | 2024-06-08 10:16:21 GMT+8 | original | https://x.com/silverfang88/status/1799264171772756433 | @kylopeung 答应我 别碰合约
+- `1799268632473592168` | 2024-06-08 10:34:05 GMT+8 | reply | https://x.com/silverfang88/status/1799268632473592168 | @leibydl 你好
+- `1799269619783356722` | 2024-06-08 10:38:00 GMT+8 | original | https://x.com/silverfang88/status/1799269619783356722 | @leibydl 你好
+- `1799294328193638844` | 2024-06-08 12:16:11 GMT+8 | original | https://x.com/silverfang88/status/1799294328193638844 | @CryptoAmandaL 你好
+- `1799300942929523149` | 2024-06-08 12:42:28 GMT+8 | original | https://x.com/silverfang88/status/1799300942929523149 | 有随便侃侃的长期听众觉得我的口条好…
+- `1799300974973980880` | 2024-06-08 12:42:36 GMT+8 | original | https://x.com/silverfang88/status/1799300974973980880 | 有随便侃侃的长期听众觉得我的口条好…
+- `1799306095787438269` | 2024-06-08 13:02:57 GMT+8 | original | https://x.com/silverfang88/status/1799306095787438269 | @Irenezhao_ 你好
+- `1799308728388419804` | 2024-06-08 13:13:25 GMT+8 | original | https://x.com/silverfang88/status/1799308728388419804 | https://t.co/KnZ7k6lUnf
+- `1799310814588932392` | 2024-06-08 13:21:42 GMT+8 | original | https://x.com/silverfang88/status/1799310814588932392 | @littlelanbo 你好
+- `1799327835242516838` | 2024-06-08 14:29:20 GMT+8 | original | https://x.com/silverfang88/status/1799327835242516838 | @yeepink21 你坏坏
+- `1799331124075712951` | 2024-06-08 14:42:24 GMT+8 | original | https://x.com/silverfang88/status/1799331124075712951 | @AMAN_TANG_ 你好
+- `1799331421447770560` | 2024-06-08 14:43:35 GMT+8 | original | https://x.com/silverfang88/status/1799331421447770560 | 你好
+- `1799334652169298276` | 2024-06-08 14:56:25 GMT+8 | original | https://x.com/silverfang88/status/1799334652169298276 | @LeotheHorseman 那个人好像一条狗
+- `1799420086467309569` | 2024-06-08 20:35:54 GMT+8 | original | https://x.com/silverfang88/status/1799420086467309569 | 财不入急门
+- `1799485743116476610` | 2024-06-09 00:56:48 GMT+8 | original | https://x.com/silverfang88/status/1799485743116476610 | 学习了几个链上聪明钱地址 
+- `1799485783767728416` | 2024-06-09 00:56:58 GMT+8 | original | https://x.com/silverfang88/status/1799485783767728416 | 学习了几个链上聪明钱地址 
+- `1799486497088840024` | 2024-06-09 00:59:48 GMT+8 | original | https://x.com/silverfang88/status/1799486497088840024 | @linck230038 这也能学？
+- `1799503813503582394` | 2024-06-09 02:08:36 GMT+8 | original | https://x.com/silverfang88/status/1799503813503582394 | @kylopeung 可以查一下jump当时给wormhole补了多少钱
+- `1799505296101961993` | 2024-06-09 02:14:30 GMT+8 | original | https://x.com/silverfang88/status/1799505296101961993 | 链上 $gme 的估值可以摸一下 1b
+- `1799591094885466250` | 2024-06-09 07:55:26 GMT+8 | reply | https://x.com/silverfang88/status/1799591094885466250 | @Lesliex886 我猜6月21结算 他是想当top 4大户 gme彻底成为meme
+- `1799591139923943720` | 2024-06-09 07:55:37 GMT+8 | original | https://x.com/silverfang88/status/1799591139923943720 | @PepeBoost888 嗯 等待爆发 情绪酝酿
+- `1799625350575784124` | 2024-06-09 10:11:33 GMT+8 | repost | https://x.com/silverfang88/status/1799625350575784124 | RT @silverfang88: 学习了几个链上聪明钱地址 
+- `1799626468252852471` | 2024-06-09 10:16:00 GMT+8 | original | https://x.com/silverfang88/status/1799626468252852471 | @SatoshiNobility 没有
+- `1799626581050007723` | 2024-06-09 10:16:27 GMT+8 | original | https://x.com/silverfang88/status/1799626581050007723 | @drhimaso 还叫不叫了 天天叫叫叫的
+- `1799630437473821079` | 2024-06-09 10:31:46 GMT+8 | original | https://x.com/silverfang88/status/1799630437473821079 | 两年前我参悟了注意力这个东西
+- `1799630595787727080` | 2024-06-09 10:32:24 GMT+8 | original | https://x.com/silverfang88/status/1799630595787727080 | 两年前我参悟了注意力这个东西
+- `1799632312411234637` | 2024-06-09 10:39:13 GMT+8 | reply | https://x.com/silverfang88/status/1799632312411234637 | @momochenming 没事 我们的mask王者归来了！！ https://t.co/k10KbgXW47
+- `1799650997628735897` | 2024-06-09 11:53:28 GMT+8 | original | https://x.com/silverfang88/status/1799650997628735897 | 有的人出生就在罗马
+- `1799660128825917795` | 2024-06-09 12:29:45 GMT+8 | reply | https://x.com/silverfang88/status/1799660128825917795 | @qianqianlaw 你好
+- `1799674956990517394` | 2024-06-09 13:28:40 GMT+8 | reply | https://x.com/silverfang88/status/1799674956990517394 | @Moon1ightSt 你好
+- `1799675525213946353` | 2024-06-09 13:30:56 GMT+8 | reply | https://x.com/silverfang88/status/1799675525213946353 | @Moon1ightSt 第一天
+- `1799730488182976801` | 2024-06-09 17:09:20 GMT+8 | reply | https://x.com/silverfang88/status/1799730488182976801 | @99HTX_ 你好
+- `1799732685478469638` | 2024-06-09 17:18:04 GMT+8 | reply | https://x.com/silverfang88/status/1799732685478469638 | @Moon1ightSt @BitlayerLabs @LorenzoProtocol @okxweb3 你好！跟着月光一起撸！加油！
+- `1799732869193253205` | 2024-06-09 17:18:48 GMT+8 | quote | https://x.com/silverfang88/status/1799732869193253205 | 好像快翻倍了？ https://t.co/q76ha3CQCR
+- `1799733689192226854` | 2024-06-09 17:22:03 GMT+8 | original | https://x.com/silverfang88/status/1799733689192226854 | 解答世间万物
+- `1799733928607256955` | 2024-06-09 17:23:00 GMT+8 | reply | https://x.com/silverfang88/status/1799733928607256955 | @YukiRuan99 你好
+- `1799734064716587347` | 2024-06-09 17:23:33 GMT+8 | original | https://x.com/silverfang88/status/1799734064716587347 | @Ericchow333 是大风刮来的
+- `1799734111046873505` | 2024-06-09 17:23:44 GMT+8 | reply | https://x.com/silverfang88/status/1799734111046873505 | @user_ini777 都翻倍了 你来接盘吗
+- `1799735622728556939` | 2024-06-09 17:29:44 GMT+8 | reply | https://x.com/silverfang88/status/1799735622728556939 | @PRGYop 玩得早 拿得住
+- `1799736555827003679` | 2024-06-09 17:33:27 GMT+8 | reply | https://x.com/silverfang88/status/1799736555827003679 | @NickyM555 推特dm他们老板和小朋友们问
+- `1799740441795203442` | 2024-06-09 17:48:53 GMT+8 | reply | https://x.com/silverfang88/status/1799740441795203442 | @woshikengdiedui 看震荡 直到真实还完钱发生叙事变化
+- `1799744150633681391` | 2024-06-09 18:03:37 GMT+8 | reply | https://x.com/silverfang88/status/1799744150633681391 | @yeepink21 别玩合约
+- `1799746867070378491` | 2024-06-09 18:14:25 GMT+8 | reply | https://x.com/silverfang88/status/1799746867070378491 | @_ultramario 我就是个勾八…
+- `1799806102496068056` | 2024-06-09 22:09:48 GMT+8 | reply | https://x.com/silverfang88/status/1799806102496068056 | @AMAN_TANG_ 你好
+- `1799806175510466636` | 2024-06-09 22:10:05 GMT+8 | reply | https://x.com/silverfang88/status/1799806175510466636 | @HasakiDoge 没了
+- `1799806205290037722` | 2024-06-09 22:10:12 GMT+8 | reply | https://x.com/silverfang88/status/1799806205290037722 | @LianhuaQiao 不知道 反正我还拿着
+- `1799812698684928217` | 2024-06-09 22:36:00 GMT+8 | reply | https://x.com/silverfang88/status/1799812698684928217 | @LeotheHorseman 我这里有上剑中剑和下剑 你想学哪一个
+- `1799961905076826437` | 2024-06-10 08:28:54 GMT+8 | original | https://x.com/silverfang88/status/1799961905076826437 | $gme x DWF labs？
+- `1800005373790679215` | 2024-06-10 11:21:38 GMT+8 | original | https://x.com/silverfang88/status/1800005373790679215 | 看到很多人发了 我也看了看
+- `1800022924377604559` | 2024-06-10 12:31:22 GMT+8 | reply | https://x.com/silverfang88/status/1800022924377604559 | @sukicao2 你好
+- `1800024988818501931` | 2024-06-10 12:39:34 GMT+8 | reply | https://x.com/silverfang88/status/1800024988818501931 | @yoaka__ @monad_xyz @monadcoinbase 你好
+- `1800026221646172631` | 2024-06-10 12:44:28 GMT+8 | original | https://x.com/silverfang88/status/1800026221646172631 | 复习一下币圈生存法则之三
+- `1800029299493257641` | 2024-06-10 12:56:42 GMT+8 | original | https://x.com/silverfang88/status/1800029299493257641 | 以前我老劝人别搞合约
+- `1800029943662809226` | 2024-06-10 12:59:16 GMT+8 | reply | https://x.com/silverfang88/status/1800029943662809226 | @awkwardalz @Memeland @852Captainz 你们好
+- `1800032144288563666` | 2024-06-10 13:08:00 GMT+8 | reply | https://x.com/silverfang88/status/1800032144288563666 | @nofud0x 谁
+- `1800032181664067712` | 2024-06-10 13:08:09 GMT+8 | reply | https://x.com/silverfang88/status/1800032181664067712 | @viktor62040682 也无所谓吧
+- `1800037628181455077` | 2024-06-10 13:29:48 GMT+8 | reply | https://x.com/silverfang88/status/1800037628181455077 | @marcuslin82122 不 炒土狗确实是德州
+- `1800041736384765977` | 2024-06-10 13:46:07 GMT+8 | reply | https://x.com/silverfang88/status/1800041736384765977 | @cupcat_cc @McDonalds @Memeland @852Captainz 你好
+- `1800052740409753816` | 2024-06-10 14:29:51 GMT+8 | reply | https://x.com/silverfang88/status/1800052740409753816 | @kris05121550814 做自己懂的事情
+- `1800122913728901537` | 2024-06-10 19:08:41 GMT+8 | reply | https://x.com/silverfang88/status/1800122913728901537 | @Moon1ightSt 宝子 加油
+- `1800131300160135335` | 2024-06-10 19:42:01 GMT+8 | reply | https://x.com/silverfang88/status/1800131300160135335 | @EuniceQXZ 你好
+- `1800132440515846209` | 2024-06-10 19:46:33 GMT+8 | reply | https://x.com/silverfang88/status/1800132440515846209 | @0xjelly 你好
+- `1800132511294783762` | 2024-06-10 19:46:50 GMT+8 | reply | https://x.com/silverfang88/status/1800132511294783762 | @YonRick 能
+- `1800146220083822859` | 2024-06-10 20:41:18 GMT+8 | reply | https://x.com/silverfang88/status/1800146220083822859 | @LeotheHorseman 我就喜欢sm
+- `1800146360047730960` | 2024-06-10 20:41:51 GMT+8 | reply | https://x.com/silverfang88/status/1800146360047730960 | @zkgwgxSbRs88418 他们赚到了咋办
+- `1800152435165725083` | 2024-06-10 21:06:00 GMT+8 | reply | https://x.com/silverfang88/status/1800152435165725083 | @kylopeung 阿米诺斯 伊德格拉米
+- `1800172938420724097` | 2024-06-10 22:27:28 GMT+8 | original | https://x.com/silverfang88/status/1800172938420724097 | 如何对抗惰性？
+- `1800173146680721718` | 2024-06-10 22:28:18 GMT+8 | repost | https://x.com/silverfang88/status/1800173146680721718 | RT @Sending_Network: Introducing SendingNetwork Cipher Challenges 🕵🏻‍♀️
+- `1800173501208199311` | 2024-06-10 22:29:42 GMT+8 | original | https://x.com/silverfang88/status/1800173501208199311 | 如何对抗惰性？
+- `1800199586512028067` | 2024-06-11 00:13:22 GMT+8 | repost | https://x.com/silverfang88/status/1800199586512028067 | RT @binance: The countdown is on ⏰
+- `1800209649582645347` | 2024-06-11 00:53:21 GMT+8 | quote | https://x.com/silverfang88/status/1800209649582645347 | 让我们回顾一下.... https://t.co/OLUvS93M5h
+- `1800209716402163876` | 2024-06-11 00:53:37 GMT+8 | quote | https://x.com/silverfang88/status/1800209716402163876 | 让我们回顾一下....
+- `1800210278111711338` | 2024-06-11 00:55:51 GMT+8 | quote | https://x.com/silverfang88/status/1800210278111711338 | 懂了吗 还是不懂？
+- `1800210674754408895` | 2024-06-11 00:57:25 GMT+8 | quote | https://x.com/silverfang88/status/1800210674754408895 | 懂了吗 还是不懂？
+- `1800229708891910648` | 2024-06-11 02:13:03 GMT+8 | original | https://x.com/silverfang88/status/1800229708891910648 | 溜了溜了 换个钱包存入
+- `1800229713761505632` | 2024-06-11 02:13:05 GMT+8 | reply | https://x.com/silverfang88/status/1800229713761505632 | https://t.co/ftDh9Vqffz
+- `1800258646951014711` | 2024-06-11 04:08:03 GMT+8 | original | https://x.com/silverfang88/status/1800258646951014711 | 我们失败了
+- `1800342815064445052` | 2024-06-11 09:42:30 GMT+8 | reply | https://x.com/silverfang88/status/1800342815064445052 | @0xLoe 又投了$1m？
+- `1800342858525704462` | 2024-06-11 09:42:40 GMT+8 | reply | https://x.com/silverfang88/status/1800342858525704462 | @0x_Glaucus @SatoshiNobility 迟早的
+- `1800345877044936918` | 2024-06-11 09:54:40 GMT+8 | original | https://x.com/silverfang88/status/1800345877044936918 | 五穷六绝七翻身
+- `1800353952141337084` | 2024-06-11 10:26:45 GMT+8 | reply | https://x.com/silverfang88/status/1800353952141337084 | @xueqiu88 雪子 还能再见吗 雪子
+- `1800360461906637037` | 2024-06-11 10:52:37 GMT+8 | original | https://x.com/silverfang88/status/1800360461906637037 | 熊市了 https://t.co/KAkOkmQOxb
+- `1800378629567697200` | 2024-06-11 12:04:49 GMT+8 | original | https://x.com/silverfang88/status/1800378629567697200 | 为什么说努力没有用
+- `1800378767908524169` | 2024-06-11 12:05:22 GMT+8 | original | https://x.com/silverfang88/status/1800378767908524169 | 为什么说努力没有用
+- `1800379975906058690` | 2024-06-11 12:10:10 GMT+8 | reply | https://x.com/silverfang88/status/1800379975906058690 | @LeotheHorseman 他决定不再充值了 毕业了
+- `1800388371673710943` | 2024-06-11 12:43:32 GMT+8 | reply | https://x.com/silverfang88/status/1800388371673710943 | @ZeusNetworkHQ @HawksightCo more你麻痹 历史新低了
+- `1800391763884163462` | 2024-06-11 12:57:00 GMT+8 | reply | https://x.com/silverfang88/status/1800391763884163462 | @hahazwei 你好 多发自拍！黑丝！
+- `1800416574764908735` | 2024-06-11 14:35:36 GMT+8 | reply | https://x.com/silverfang88/status/1800416574764908735 | @mcwtiramisu 740
+- `1800416691467497749` | 2024-06-11 14:36:04 GMT+8 | reply | https://x.com/silverfang88/status/1800416691467497749 | @roger9949 发发发
+- `1800431738319241682` | 2024-06-11 15:35:51 GMT+8 | reply | https://x.com/silverfang88/status/1800431738319241682 | @iris00x 你好
+- `1800437343725523112` | 2024-06-11 15:58:07 GMT+8 | original | https://x.com/silverfang88/status/1800437343725523112 | 如果有人打着我的名义找你们要钱
+- `1800437545727082852` | 2024-06-11 15:58:56 GMT+8 | original | https://x.com/silverfang88/status/1800437545727082852 | 如果有人打着我的名义找你们要钱
+- `1800512262500970656` | 2024-06-11 20:55:49 GMT+8 | quote | https://x.com/silverfang88/status/1800512262500970656 | 好了 现在我支持熊猫王 @PolyhedraZK 
+- `1800514156300501358` | 2024-06-11 21:03:21 GMT+8 | original | https://x.com/silverfang88/status/1800514156300501358 | 兄弟们，科普一个冷知识：
+- `1800528709595652097` | 2024-06-11 22:01:11 GMT+8 | reply | https://x.com/silverfang88/status/1800528709595652097 | @Aurora_Lashao 看看肉丝 开开胃
+- `1800574363735089598` | 2024-06-12 01:02:36 GMT+8 | repost | https://x.com/silverfang88/status/1800574363735089598 | RT @silverfang88: 看到很多人发了 我也看了看
+- `1800698955874943364` | 2024-06-12 09:17:41 GMT+8 | original | https://x.com/silverfang88/status/1800698955874943364 | “黑悟空Mint完二级好像十倍了
+- `1800728808171139460` | 2024-06-12 11:16:18 GMT+8 | reply | https://x.com/silverfang88/status/1800728808171139460 | @Gummybear1771 @Hixlan1996 看看乳贴
+- `1800797186063507727` | 2024-06-12 15:48:01 GMT+8 | original | https://x.com/silverfang88/status/1800797186063507727 | 完蛋 全都完了 戒色第一天！
+- `1800807733543010770` | 2024-06-12 16:29:55 GMT+8 | reply | https://x.com/silverfang88/status/1800807733543010770 | @kylopeung 我们失败了
+- `1800810798799003745` | 2024-06-12 16:42:06 GMT+8 | reply | https://x.com/silverfang88/status/1800810798799003745 | @Dincocoin 去王城 找到下水道
+- `1800811085156786471` | 2024-06-12 16:43:14 GMT+8 | original | https://x.com/silverfang88/status/1800811085156786471 | 前两天听你们说xxx戒毒很容易 
+- `1800831046512263568` | 2024-06-12 18:02:33 GMT+8 | original | https://x.com/silverfang88/status/1800831046512263568 | @LeotheHorseman GG
+- `1800831090783133964` | 2024-06-12 18:02:44 GMT+8 | original | https://x.com/silverfang88/status/1800831090783133964 | @thecryptoskanda 起票，我要去泰国
+- `1800831117307818063` | 2024-06-12 18:02:50 GMT+8 | original | https://x.com/silverfang88/status/1800831117307818063 | @edison_near gg
+- `1800831132273090754` | 2024-06-12 18:02:54 GMT+8 | original | https://x.com/silverfang88/status/1800831132273090754 | @PonziCurator ？
+- `1800831181682049488` | 2024-06-12 18:03:06 GMT+8 | original | https://x.com/silverfang88/status/1800831181682049488 | @yx6611 我一次都累
+- `1800832392380432839` | 2024-06-12 18:07:54 GMT+8 | original | https://x.com/silverfang88/status/1800832392380432839 | 我看明白了 币圈目前的现金流方向了
+- `1800838093278253419` | 2024-06-12 18:30:34 GMT+8 | original | https://x.com/silverfang88/status/1800838093278253419 | @banana_iced 不开 没功夫对那么多人负责
+- `1800838117240213909` | 2024-06-12 18:30:39 GMT+8 | original | https://x.com/silverfang88/status/1800838117240213909 | @thecryptoskanda 😂😂😂
+- `1800838149926449634` | 2024-06-12 18:30:47 GMT+8 | original | https://x.com/silverfang88/status/1800838149926449634 | @zkgwgxSbRs88418 啊啊啊啊 操我 啊 下面好痒 啊啊啊
+- `1800839315179872522` | 2024-06-12 18:35:25 GMT+8 | original | https://x.com/silverfang88/status/1800839315179872522 | @yeepink21 你坏
+- `1800846593656238115` | 2024-06-12 19:04:20 GMT+8 | repost | https://x.com/silverfang88/status/1800846593656238115 | RT @blocklordscn: https://t.co/LUlPORyTep
+- `1800975852814979307` | 2024-06-13 03:37:58 GMT+8 | original | https://x.com/silverfang88/status/1800975852814979307 | @onyekasoro58 你好
+- `1800977798590497014` | 2024-06-13 03:45:42 GMT+8 | reply | https://x.com/silverfang88/status/1800977798590497014 | @LeotheHorseman 没有对岸了 怎么走过去
+- `1800982777179091112` | 2024-06-13 04:05:29 GMT+8 | original | https://x.com/silverfang88/status/1800982777179091112 | @bigbottle44 吱
+- `1801119194408255507` | 2024-06-13 13:07:33 GMT+8 | repost | https://x.com/silverfang88/status/1801119194408255507 | RT @silverfang88: 据说这完美表达了
+- `1801131730176242066` | 2024-06-13 13:57:22 GMT+8 | original | https://x.com/silverfang88/status/1801131730176242066 | 切忌有毕其功于一役的心态
+- `1801158683394547835` | 2024-06-13 15:44:28 GMT+8 | reply | https://x.com/silverfang88/status/1801158683394547835 | @yeepink21 你好
+- `1801224687126507877` | 2024-06-13 20:06:45 GMT+8 | reply | https://x.com/silverfang88/status/1801224687126507877 | @yeepink21 谁？？？
+- `1801227164202782801` | 2024-06-13 20:16:35 GMT+8 | original | https://x.com/silverfang88/status/1801227164202782801 | 冷知识：在你们跟风买老头环新DLC之前，请先找到蒙格银行并击杀之 https://t.co/JuuZy3RNH4
+- `1801229108623397068` | 2024-06-13 20:24:19 GMT+8 | original | https://x.com/silverfang88/status/1801229108623397068 | @chubby44291319 https://t.co/fgF8JZiNXP
+- `1801229288512876552` | 2024-06-13 20:25:02 GMT+8 | original | https://x.com/silverfang88/status/1801229288512876552 | @Dincocoin 错错错 是我的错 热恋的时候怎么不说
+- `1801229965163163945` | 2024-06-13 20:27:43 GMT+8 | original | https://x.com/silverfang88/status/1801229965163163945 | @kylopeung 你好
+- `1801230223582613687` | 2024-06-13 20:28:45 GMT+8 | original | https://x.com/silverfang88/status/1801230223582613687 | @RachelYuan18 你好
+- `1801231236058243295` | 2024-06-13 20:32:46 GMT+8 | original | https://x.com/silverfang88/status/1801231236058243295 | 用一年的角度看，什么都不敢买
+- `1801232318423613457` | 2024-06-13 20:37:04 GMT+8 | original | https://x.com/silverfang88/status/1801232318423613457 | @chubby44291319 你们为什么不发个枪十七的马克杯
+- `1801239972491452689` | 2024-06-13 21:07:29 GMT+8 | reply | https://x.com/silverfang88/status/1801239972491452689 | @liumou037 救不了了 套死了
+- `1801244100236099942` | 2024-06-13 21:23:53 GMT+8 | reply | https://x.com/silverfang88/status/1801244100236099942 | @yeepink21 W把我的几把都跌没了
+- `1801244306159616504` | 2024-06-13 21:24:42 GMT+8 | original | https://x.com/silverfang88/status/1801244306159616504 | $w 死了 但它还活着
+- `1801245114343284753` | 2024-06-13 21:27:55 GMT+8 | reply | https://x.com/silverfang88/status/1801245114343284753 | @Aurora_Lashao 割个鸡吧 赶紧给我起票 https://t.co/NQSYd4YxbW
+- `1801247593671819758` | 2024-06-13 21:37:46 GMT+8 | reply | https://x.com/silverfang88/status/1801247593671819758 | @roger9949 舒服了
+- `1801248146774806944` | 2024-06-13 21:39:58 GMT+8 | reply | https://x.com/silverfang88/status/1801248146774806944 | @roger9949 等我出关就是一发佛怒火莲 干碎空军纸手
+- `1801254703428231465` | 2024-06-13 22:06:01 GMT+8 | reply | https://x.com/silverfang88/status/1801254703428231465 | @Dincocoin 好问题
+- `1801266565230293241` | 2024-06-13 22:53:09 GMT+8 | reply | https://x.com/silverfang88/status/1801266565230293241 | @Moon1ightSt 好好活着 吃好喝好 开心每一天
+- `1801306000059728375` | 2024-06-14 01:29:51 GMT+8 | reply | https://x.com/silverfang88/status/1801306000059728375 | @April1stism 你好
+- `1801315042027098420` | 2024-06-14 02:05:47 GMT+8 | repost | https://x.com/silverfang88/status/1801315042027098420 | RT @TheRoaringKitty: https://t.co/milvQfDdVh
+- `1801398429983326465` | 2024-06-14 07:37:08 GMT+8 | original | https://x.com/silverfang88/status/1801398429983326465 | 第一次如此具象的知道了路人是怎么看待萧炎的了… https://t.co/JLBdsKJcPR
+- `1801438027421495678` | 2024-06-14 10:14:29 GMT+8 | reply | https://x.com/silverfang88/status/1801438027421495678 | @bobo10000x 最强调查员
+- `1801438062645285171` | 2024-06-14 10:14:37 GMT+8 | reply | https://x.com/silverfang88/status/1801438062645285171 | @CatCryptoMaster 好的 独断万古
+- `1801439996563402882` | 2024-06-14 10:22:18 GMT+8 | original | https://x.com/silverfang88/status/1801439996563402882 | 今天是圣诞节吗？
+- `1801441645419798816` | 2024-06-14 10:28:52 GMT+8 | reply | https://x.com/silverfang88/status/1801441645419798816 | @Dorothy_defi 币圈冰心
+- `1801446963683917872` | 2024-06-14 10:50:00 GMT+8 | reply | https://x.com/silverfang88/status/1801446963683917872 | @crazyox_eth 那打你一拳应该会哭的很厉害吧！
+- `1801455370939846810` | 2024-06-14 11:23:24 GMT+8 | reply | https://x.com/silverfang88/status/1801455370939846810 | @snow949494 你好
+- `1801511527322685606` | 2024-06-14 15:06:33 GMT+8 | original | https://x.com/silverfang88/status/1801511527322685606 | 理塘的风吹不到区块链
+- `1801512259383923039` | 2024-06-14 15:09:27 GMT+8 | reply | https://x.com/silverfang88/status/1801512259383923039 | @Aurora_Lashao 走不到了
+- `1801512288656003469` | 2024-06-14 15:09:34 GMT+8 | reply | https://x.com/silverfang88/status/1801512288656003469 | @Aurora_Lashao 没有对岸了
+- `1801513059636101589` | 2024-06-14 15:12:38 GMT+8 | reply | https://x.com/silverfang88/status/1801513059636101589 | @dogecolafans 好的
+- `1801529674968744274` | 2024-06-14 16:18:39 GMT+8 | reply | https://x.com/silverfang88/status/1801529674968744274 | @99HTX_ 你好
+- `1801531064596287580` | 2024-06-14 16:24:11 GMT+8 | reply | https://x.com/silverfang88/status/1801531064596287580 | @0xDrPR 也可以是在沙滩上做爱
+- `1801536624171315327` | 2024-06-14 16:46:16 GMT+8 | original | https://x.com/silverfang88/status/1801536624171315327 | https://t.co/WLpKhfIb6s
+- `1801538179977383939` | 2024-06-14 16:52:27 GMT+8 | reply | https://x.com/silverfang88/status/1801538179977383939 | @linck230038 $W 死了，但是他还活着 你活着，但是群友都死了
+- `1801538229503435190` | 2024-06-14 16:52:39 GMT+8 | reply | https://x.com/silverfang88/status/1801538229503435190 | @Solanagemalert_ 你不知道我是男娘吗
+- `1801538257861103817` | 2024-06-14 16:52:46 GMT+8 | reply | https://x.com/silverfang88/status/1801538257861103817 | @Aurora_Lashao 🤪
+- `1801538294456393946` | 2024-06-14 16:52:55 GMT+8 | reply | https://x.com/silverfang88/status/1801538294456393946 | @crossrode 我是时间的炮友
+- `1801538423662018928` | 2024-06-14 16:53:25 GMT+8 | reply | https://x.com/silverfang88/status/1801538423662018928 | @ZeusNetworkHQ 垃圾项目  你们出货的截图都被群友看到了
+- `1801542592988856652` | 2024-06-14 17:09:59 GMT+8 | reply | https://x.com/silverfang88/status/1801542592988856652 | @0xb6666 要结合一下
+- `1801546034864062733` | 2024-06-14 17:23:40 GMT+8 | reply | https://x.com/silverfang88/status/1801546034864062733 | @BoxMrChen 好的 哥
+- `1801586326325658087` | 2024-06-14 20:03:46 GMT+8 | reply | https://x.com/silverfang88/status/1801586326325658087 | @hahazwei 你好 好
+- `1801587282916348401` | 2024-06-14 20:07:34 GMT+8 | reply | https://x.com/silverfang88/status/1801587282916348401 | @la_nieve1 你好
+- `1801590532751135042` | 2024-06-14 20:20:29 GMT+8 | original | https://x.com/silverfang88/status/1801590532751135042 | 人家三天就赚了
+- `1801591032108167648` | 2024-06-14 20:22:28 GMT+8 | reply | https://x.com/silverfang88/status/1801591032108167648 | @Lisalisalisa71 必须的 肉丝我最爱
+- `1801591523521298558` | 2024-06-14 20:24:25 GMT+8 | reply | https://x.com/silverfang88/status/1801591523521298558 | @Lisalisalisa71 啊？还有么
+- `1801594150111887452` | 2024-06-14 20:34:52 GMT+8 | reply | https://x.com/silverfang88/status/1801594150111887452 | @Aurora_Lashao 我破产了
+- `1801597248565862659` | 2024-06-14 20:47:10 GMT+8 | reply | https://x.com/silverfang88/status/1801597248565862659 | @yeepink21 上号
+- `1801658513426411952` | 2024-06-15 00:50:37 GMT+8 | original | https://x.com/silverfang88/status/1801658513426411952 | 睡醒了，什么阶段了？
+- `1801672153428856989` | 2024-06-15 01:44:49 GMT+8 | reply | https://x.com/silverfang88/status/1801672153428856989 | @kris05121550814 没事 我早亏完了
+- `1801679725057786198` | 2024-06-15 02:14:54 GMT+8 | reply | https://x.com/silverfang88/status/1801679725057786198 | @kris05121550814 希望吧 w能回1吗？
+- `1801699679635165360` | 2024-06-15 03:34:12 GMT+8 | reply | https://x.com/silverfang88/status/1801699679635165360 | @Mysterious9527 我又不是中国人
+- `1801699879313396152` | 2024-06-15 03:34:59 GMT+8 | reply | https://x.com/silverfang88/status/1801699879313396152 | @Mysterious9527 好 听你的 爱你
+- `1801708347416318114` | 2024-06-15 04:08:38 GMT+8 | original | https://x.com/silverfang88/status/1801708347416318114 | 半梦半醒之间看了一眼交易所
+- `1801802220955951239` | 2024-06-15 10:21:39 GMT+8 | original | https://x.com/silverfang88/status/1801802220955951239 | 有人讨厌你的时候
+- `1801819079482753388` | 2024-06-15 11:28:39 GMT+8 | reply | https://x.com/silverfang88/status/1801819079482753388 | @Moon1ightSt 你好
+- `1801820232681422854` | 2024-06-15 11:33:14 GMT+8 | original | https://x.com/silverfang88/status/1801820232681422854 | 有的人擅长看一堆项目然后找到机会
+- `1801839514924593618` | 2024-06-15 12:49:51 GMT+8 | reply | https://x.com/silverfang88/status/1801839514924593618 | @AMAN_TANG_ 你好
+- `1801862447382265923` | 2024-06-15 14:20:59 GMT+8 | original | https://x.com/silverfang88/status/1801862447382265923 | 三年了
+- `1801863330925015367` | 2024-06-15 14:24:29 GMT+8 | reply | https://x.com/silverfang88/status/1801863330925015367 | @duanwangye66 挺好的 又可以让他们多骗点融资了
+- `1801863874771120434` | 2024-06-15 14:26:39 GMT+8 | reply | https://x.com/silverfang88/status/1801863874771120434 | @_CryptoRonin 谁说的 破坏团结的话不要讲 鼓励他们多投 加仓
+- `1801863919671050630` | 2024-06-15 14:26:50 GMT+8 | reply | https://x.com/silverfang88/status/1801863919671050630 | @Danielkketh 🧐
+- `1801865323211108611` | 2024-06-15 14:32:24 GMT+8 | reply | https://x.com/silverfang88/status/1801865323211108611 | @phantacix 我交了几百万学费而已 阅读理解扣分
+- `1801867628996075864` | 2024-06-15 14:41:34 GMT+8 | reply | https://x.com/silverfang88/status/1801867628996075864 | @CatCryptoMaster 最后上车的机会。
+- `1801868645263343693` | 2024-06-15 14:45:36 GMT+8 | reply | https://x.com/silverfang88/status/1801868645263343693 | @aurory_bit 瞎说啥大实话 快删了
+- `1801874734012911693` | 2024-06-15 15:09:48 GMT+8 | reply | https://x.com/silverfang88/status/1801874734012911693 | @0xlove428888 我不要看外衣 我就想看黑丝可以吗
+- `1801932527243780320` | 2024-06-15 18:59:27 GMT+8 | reply | https://x.com/silverfang88/status/1801932527243780320 | @thecryptoskanda 他们还隔那积分换代币这种慢性死亡呢
+- `1801933341366591492` | 2024-06-15 19:02:41 GMT+8 | reply | https://x.com/silverfang88/status/1801933341366591492 | @wdcby1 都对都对
+- `1801933408538399015` | 2024-06-15 19:02:57 GMT+8 | reply | https://x.com/silverfang88/status/1801933408538399015 | @Tedtheeast 是啊 我没你们这么聪明啊 我蠢
+- `1801938013183742219` | 2024-06-15 19:21:15 GMT+8 | original | https://x.com/silverfang88/status/1801938013183742219 | 休息一周
+- `1801938662399066520` | 2024-06-15 19:23:50 GMT+8 | reply | https://x.com/silverfang88/status/1801938662399066520 | @Gummybear1771 感觉没啥意思 出去玩玩
+- `1802039488400552015` | 2024-06-16 02:04:28 GMT+8 | reply | https://x.com/silverfang88/status/1802039488400552015 | @April1stism 你好
+- `1802311764215767352` | 2024-06-16 20:06:24 GMT+8 | original | https://x.com/silverfang88/status/1802311764215767352 | 这个研究研究呢？
+- `1802312837672399088` | 2024-06-16 20:10:40 GMT+8 | reply | https://x.com/silverfang88/status/1802312837672399088 | 解决没渠道和玩家少的问题
+- `1802313502205362491` | 2024-06-16 20:13:18 GMT+8 | reply | https://x.com/silverfang88/status/1802313502205362491 | remember what I said？ https://t.co/1TuP3IQu6K
+- `1802315935484633089` | 2024-06-16 20:22:59 GMT+8 | reply | https://x.com/silverfang88/status/1802315935484633089 | 继续休息了 https://t.co/9WyeHm9Cpi
+- `1802331959802138819` | 2024-06-16 21:26:39 GMT+8 | reply | https://x.com/silverfang88/status/1802331959802138819 | @kylopeung 你好
+- `1802331993499177152` | 2024-06-16 21:26:47 GMT+8 | reply | https://x.com/silverfang88/status/1802331993499177152 | @YukiRuan99 你好
+- `1802341429110362536` | 2024-06-16 22:04:17 GMT+8 | reply | https://x.com/silverfang88/status/1802341429110362536 | @lin_yiliu 你好 你已经88天没有发黑丝了
+- `1802342345070850537` | 2024-06-16 22:07:55 GMT+8 | reply | https://x.com/silverfang88/status/1802342345070850537 | @Miiiho420 你好
+- `1802344265944588358` | 2024-06-16 22:15:33 GMT+8 | reply | https://x.com/silverfang88/status/1802344265944588358 | @KuanNingTseng1 你好
+- `1802358261670138270` | 2024-06-16 23:11:10 GMT+8 | reply | https://x.com/silverfang88/status/1802358261670138270 | @lin_yiliu 说明流量大了！
+- `1803687155857862840` | 2024-06-20 15:11:43 GMT+8 | original | https://x.com/silverfang88/status/1803687155857862840 | 在意大利一个不知名的小镇子里
+- `1803687259008282750` | 2024-06-20 15:12:08 GMT+8 | original | https://x.com/silverfang88/status/1803687259008282750 | https://t.co/gEqBcJarUb
+- `1803731376950124643` | 2024-06-20 18:07:26 GMT+8 | reply | https://x.com/silverfang88/status/1803731376950124643 | @CatCryptoMaster 小骚逼？
+- `1803731511016853610` | 2024-06-20 18:07:58 GMT+8 | original | https://x.com/silverfang88/status/1803731511016853610 | @kingsstudio12 好的哥
+- `1803731836733981152` | 2024-06-20 18:09:16 GMT+8 | original | https://x.com/silverfang88/status/1803731836733981152 | 有时候很想提笔多写写我的故事
+- `1803735330752750060` | 2024-06-20 18:23:09 GMT+8 | original | https://x.com/silverfang88/status/1803735330752750060 | @Aurora_Lashao 让你发现了
+- `1803736578642092193` | 2024-06-20 18:28:06 GMT+8 | original | https://x.com/silverfang88/status/1803736578642092193 | @BreakingRed888 愿天下人人都会两袖青蛇，人人可剑开天门
+- `1803742497065083257` | 2024-06-20 18:51:37 GMT+8 | original | https://x.com/silverfang88/status/1803742497065083257 | @memecoin_lover 疯狂的嘲笑我就行
+- `1803742839693561963` | 2024-06-20 18:52:59 GMT+8 | original | https://x.com/silverfang88/status/1803742839693561963 | @yeepink21 你好
+- `1803750151468601608` | 2024-06-20 19:22:02 GMT+8 | original | https://x.com/silverfang88/status/1803750151468601608 | @chubby44291319 那你要买我马克杯 才能加入如龙组 你名字前面为什么没有加如龙？
+- `1803750238965895223` | 2024-06-20 19:22:23 GMT+8 | original | https://x.com/silverfang88/status/1803750238965895223 | @BTCdayu 好的哥
+- `1803758704778485848` | 2024-06-20 19:56:02 GMT+8 | original | https://x.com/silverfang88/status/1803758704778485848 | @Dincocoin 你好
+- `1803781032539234354` | 2024-06-20 21:24:45 GMT+8 | original | https://x.com/silverfang88/status/1803781032539234354 | zk、layer0也算吸血吗？
+- `1803781230627815493` | 2024-06-20 21:25:32 GMT+8 | original | https://x.com/silverfang88/status/1803781230627815493 | zk、layer0也算吸血吗？
+- `1803848661819945037` | 2024-06-21 01:53:29 GMT+8 | original | https://x.com/silverfang88/status/1803848661819945037 | 牛说这次再见 也许再也不会见
+- `1803950241726542129` | 2024-06-21 08:37:08 GMT+8 | original | https://x.com/silverfang88/status/1803950241726542129 | @CatCryptoMaster 烧杯
+- `1803966864638214290` | 2024-06-21 09:43:11 GMT+8 | original | https://x.com/silverfang88/status/1803966864638214290 | 帽子狗好像快上sphere了？
+- `1803968567169130863` | 2024-06-21 09:49:57 GMT+8 | original | https://x.com/silverfang88/status/1803968567169130863 | @nofud0x 再挣回来不就完了
+- `1803972803525251432` | 2024-06-21 10:06:47 GMT+8 | original | https://x.com/silverfang88/status/1803972803525251432 | @Aurora_Lashao 是的
+- `1804085280741208289` | 2024-06-21 17:33:43 GMT+8 | original | https://x.com/silverfang88/status/1804085280741208289 | 感觉可以抄底了？？？？
+- `1804090450438959186` | 2024-06-21 17:54:16 GMT+8 | original | https://x.com/silverfang88/status/1804090450438959186 | @Mirro7777 nb
+- `1804090468071809332` | 2024-06-21 17:54:20 GMT+8 | original | https://x.com/silverfang88/status/1804090468071809332 | @TutuCrypto 好的
+- `1804117289563803942` | 2024-06-21 19:40:55 GMT+8 | quote | https://x.com/silverfang88/status/1804117289563803942 | 第二十一期 随便聊
+- `1804134621388378245` | 2024-06-21 20:49:47 GMT+8 | original | https://x.com/silverfang88/status/1804134621388378245 | 后面还有几十上百个 
+- `1804143535450444126` | 2024-06-21 21:25:12 GMT+8 | original | https://x.com/silverfang88/status/1804143535450444126 | 作为在熊市差点亏到自杀的人
+- `1804144157356609575` | 2024-06-21 21:27:41 GMT+8 | original | https://x.com/silverfang88/status/1804144157356609575 | @fanzi61282436 没什么好讲的，其实就是和牛马为伴，听风雨入睡，以及对着星空撸管
+- `1804144229377024174` | 2024-06-21 21:27:58 GMT+8 | original | https://x.com/silverfang88/status/1804144229377024174 | @Ericchow333 90后已经没有价值了
+- `1804144625424232670` | 2024-06-21 21:29:32 GMT+8 | reply | https://x.com/silverfang88/status/1804144625424232670 | @fanzi61282436 我有时候会黑丝女装一下 
+- `1804146040674644389` | 2024-06-21 21:35:10 GMT+8 | original | https://x.com/silverfang88/status/1804146040674644389 | @FivDou 有认知的 哥
+- `1804147324513341660` | 2024-06-21 21:40:16 GMT+8 | original | https://x.com/silverfang88/status/1804147324513341660 | @LongzuAlpha https://t.co/Zavy36LoTS
+- `1804149208770912718` | 2024-06-21 21:47:45 GMT+8 | original | https://x.com/silverfang88/status/1804149208770912718 | @leibydl @0xAmazingChar 好 杠起来 打起来 
+- `1804367660693459083` | 2024-06-22 12:15:48 GMT+8 | original | https://x.com/silverfang88/status/1804367660693459083 | $ton $pepe 和 $pendle 
+- `1804376567113462036` | 2024-06-22 12:51:11 GMT+8 | original | https://x.com/silverfang88/status/1804376567113462036 | 以后的以后
+- `1804377171642736745` | 2024-06-22 12:53:36 GMT+8 | original | https://x.com/silverfang88/status/1804377171642736745 | @0xwindx2 $w 我觉得至少上币安了 可能还不是纯粹的国人诈骗盘
+- `1804420579463668140` | 2024-06-22 15:46:05 GMT+8 | original | https://x.com/silverfang88/status/1804420579463668140 | @0xAmazingChar 我被发现了？
+- `1804420733767983537` | 2024-06-22 15:46:42 GMT+8 | reply | https://x.com/silverfang88/status/1804420733767983537 | @Dincocoin 阳痿了
+- `1804457329057804627` | 2024-06-22 18:12:07 GMT+8 | original | https://x.com/silverfang88/status/1804457329057804627 | https://t.co/gFPsL1oe0F
+- `1804467630343921731` | 2024-06-22 18:53:03 GMT+8 | original | https://x.com/silverfang88/status/1804467630343921731 | @xclisgood 我玩不了国服
+- `1804518295153889534` | 2024-06-22 22:14:22 GMT+8 | original | https://x.com/silverfang88/status/1804518295153889534 | 老头环这个dlc实在是太折磨了
+- `1804519565684072652` | 2024-06-22 22:19:25 GMT+8 | original | https://x.com/silverfang88/status/1804519565684072652 | @jordanwangbtc 歇逼了
+- `1804728831334392259` | 2024-06-23 12:10:58 GMT+8 | original | https://x.com/silverfang88/status/1804728831334392259 | 戒色第一天
+- `1804741308843532608` | 2024-06-23 13:00:33 GMT+8 | reply | https://x.com/silverfang88/status/1804741308843532608 | @yeepink21 必须的 我意念强大
+- `1804741333506052553` | 2024-06-23 13:00:39 GMT+8 | original | https://x.com/silverfang88/status/1804741333506052553 | @Aurora_Lashao 好的
+- `1804741348962029864` | 2024-06-23 13:00:42 GMT+8 | original | https://x.com/silverfang88/status/1804741348962029864 | @zhhyyaly5211314 可以
+- `1804741369069469883` | 2024-06-23 13:00:47 GMT+8 | original | https://x.com/silverfang88/status/1804741369069469883 | @_Spicybean 什么简单
+- `1804741392503058461` | 2024-06-23 13:00:53 GMT+8 | original | https://x.com/silverfang88/status/1804741392503058461 | @cryptooupaijun ？
+- `1804750574778265662` | 2024-06-23 13:37:22 GMT+8 | original | https://x.com/silverfang88/status/1804750574778265662 | 我觉得不用过度解读一姐的文章
+- `1804750778751488088` | 2024-06-23 13:38:10 GMT+8 | original | https://x.com/silverfang88/status/1804750778751488088 | 我觉得不用过度解读一姐的文章
+- `1804865634888479101` | 2024-06-23 21:14:34 GMT+8 | original | https://x.com/silverfang88/status/1804865634888479101 | 旅居的日子里
+- `1804866039534035214` | 2024-06-23 21:16:11 GMT+8 | reply | https://x.com/silverfang88/status/1804866039534035214 | @fanzi61282436 我都在空 io zro zk
+- `1804866743350722588` | 2024-06-23 21:18:59 GMT+8 | original | https://x.com/silverfang88/status/1804866743350722588 | @cryptooupaijun 他们重生了 
+- `1804884458702528888` | 2024-06-23 22:29:22 GMT+8 | original | https://x.com/silverfang88/status/1804884458702528888 | @chubby44291319 撸啊
+- `1804884474196337032` | 2024-06-23 22:29:26 GMT+8 | original | https://x.com/silverfang88/status/1804884474196337032 | @0xsuiiii 撸
 - `1804903422249869716` | 2024-06-23 23:44:44 GMT+8 | original | https://x.com/silverfang88/status/1804903422249869716 | 在美国和人吵架 
 - `1805059141720801388` | 2024-06-24 10:03:30 GMT+8 | original | https://x.com/silverfang88/status/1805059141720801388 | 为什么会认为ETH ETF是来救我们的？
 - `1805109344083861662` | 2024-06-24 13:22:59 GMT+8 | original | https://x.com/silverfang88/status/1805109344083861662 | 看一段历史，感悟未来
@@ -6197,6 +7371,481 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1807421289314816228` | 2024-06-30 22:29:50 GMT+8 | original | https://x.com/silverfang88/status/1807421289314816228 | 冷知识：活跃度降低90%的layer0 价值30亿美金 https://t.co/EX0uqyOvRH
 - `1807421337671016744` | 2024-06-30 22:30:01 GMT+8 | original | https://x.com/silverfang88/status/1807421337671016744 | 冷知识：活跃度降低90%的layer0代币 $zro 价值30亿美金 https://t.co/eb5B5cQvAA
 - `1807437164747047079` | 2024-06-30 23:32:55 GMT+8 | reply | https://x.com/silverfang88/status/1807437164747047079 | @zxw018018 @linck230038 我不懂 不参与
+- `1808513451263713625` | 2024-07-03 22:49:41 GMT+8 | original | https://x.com/silverfang88/status/1808513451263713625 | 两周过去了 我想想后面应该是怎么样
+- `1808514719814234200` | 2024-07-03 22:54:44 GMT+8 | original | https://x.com/silverfang88/status/1808514719814234200 | 两周过去了 我想想后面应该是怎么样
+- `1808516689396367668` | 2024-07-03 23:02:34 GMT+8 | quote | https://x.com/silverfang88/status/1808516689396367668 | 加两条吧
+- `1808697984743260166` | 2024-07-04 11:02:58 GMT+8 | quote | https://x.com/silverfang88/status/1808697984743260166 | 币安真良心
+- `1808710630356000984` | 2024-07-04 11:53:13 GMT+8 | original | https://x.com/silverfang88/status/1808710630356000984 | 喜欢吃苦就会有吃不完的苦
+- `1808737982557368500` | 2024-07-04 13:41:54 GMT+8 | original | https://x.com/silverfang88/status/1808737982557368500 | 上一期让子弹飞得到了很多好评
+- `1808743577259769970` | 2024-07-04 14:04:08 GMT+8 | quote | https://x.com/silverfang88/status/1808743577259769970 | 上期 https://t.co/rXkrh5t8iA
+- `1808747281384149230` | 2024-07-04 14:18:51 GMT+8 | original | https://x.com/silverfang88/status/1808747281384149230 | solana的第一个游戏链 @SonicSV 
+- `1808749433703563373` | 2024-07-04 14:27:24 GMT+8 | original | https://x.com/silverfang88/status/1808749433703563373 | solana的第一个游戏链 @SonicSVM 
+- `1808750016271462765` | 2024-07-04 14:29:43 GMT+8 | reply | https://x.com/silverfang88/status/1808750016271462765 | @LeotheHorseman @SonicSVM 我不一样 我想买坦克
+- `1808750870261023203` | 2024-07-04 14:33:07 GMT+8 | original | https://x.com/silverfang88/status/1808750870261023203 | 感谢推特
+- `1808791355579134286` | 2024-07-04 17:13:59 GMT+8 | quote | https://x.com/silverfang88/status/1808791355579134286 | 臭企鹅画出了史上最难看的K线
+- `1808869496779620635` | 2024-07-04 22:24:29 GMT+8 | original | https://x.com/silverfang88/status/1808869496779620635 | 把三体又读了一遍
+- `1808877959018586230` | 2024-07-04 22:58:07 GMT+8 | original | https://x.com/silverfang88/status/1808877959018586230 | 2024年了
+- `1808909437412728851` | 2024-07-05 01:03:12 GMT+8 | repost | https://x.com/silverfang88/status/1808909437412728851 | RT @d0nut2x: 💀💀💀 https://t.co/pDL9vCzf7B
+- `1808998245542023529` | 2024-07-05 06:56:05 GMT+8 | repost | https://x.com/silverfang88/status/1808998245542023529 | RT @UXLINKofficial: What is the utility of $UXLINK ?
+- `1808998297903747531` | 2024-07-05 06:56:18 GMT+8 | repost | https://x.com/silverfang88/status/1808998297903747531 | RT @depinsim: Depin #sim on @ton_blockchain is going to change the Web3
+- `1809077443304550634` | 2024-07-05 12:10:48 GMT+8 | original | https://x.com/silverfang88/status/1809077443304550634 | 之前和朋友探讨过几次有意思的一个事情
+- `1809086935756873887` | 2024-07-05 12:48:31 GMT+8 | original | https://x.com/silverfang88/status/1809086935756873887 | 几周前我提示转熊了
+- `1809087690530324616` | 2024-07-05 12:51:31 GMT+8 | reply | https://x.com/silverfang88/status/1809087690530324616 | @huang3908 啊？ 什么东西？ 我不卖任何东西 不收钱
+- `1809087751008002528` | 2024-07-05 12:51:45 GMT+8 | reply | https://x.com/silverfang88/status/1809087751008002528 | @BiggestSonyDog 合约是致负之门
+- `1809170001397481842` | 2024-07-05 18:18:35 GMT+8 | original | https://x.com/silverfang88/status/1809170001397481842 | 美股开盘 
+- `1809173428059935025` | 2024-07-05 18:32:12 GMT+8 | original | https://x.com/silverfang88/status/1809173428059935025 | 知道很多看起来体面又正常的人
+- `1809173496607502607` | 2024-07-05 18:32:29 GMT+8 | original | https://x.com/silverfang88/status/1809173496607502607 | 知道很多看起来体面又正常的人
+- `1809285752850710560` | 2024-07-06 01:58:33 GMT+8 | reply | https://x.com/silverfang88/status/1809285752850710560 | @99HTX_ 亏完的那一刻就解脱了
+- `1809446736915538146` | 2024-07-06 12:38:14 GMT+8 | original | https://x.com/silverfang88/status/1809446736915538146 | 你长这么漂亮
+- `1809552806879092870` | 2024-07-06 19:39:43 GMT+8 | quote | https://x.com/silverfang88/status/1809552806879092870 | 美国人下周会真正的把中国纸手炒熟
+- `1809566473670590624` | 2024-07-06 20:34:02 GMT+8 | original | https://x.com/silverfang88/status/1809566473670590624 | 交流了几个朋友
+- `1809573123957678566` | 2024-07-06 21:00:27 GMT+8 | reply | https://x.com/silverfang88/status/1809573123957678566 | @Aurora_Lashao 因为我53850抄底了
+- `1809582028909670911` | 2024-07-06 21:35:50 GMT+8 | original | https://x.com/silverfang88/status/1809582028909670911 | https://t.co/PxqE4ORb5u
+- `1809615674316321221` | 2024-07-06 23:49:32 GMT+8 | original | https://x.com/silverfang88/status/1809615674316321221 | 我都试了
+- `1809622357209645507` | 2024-07-07 00:16:05 GMT+8 | reply | https://x.com/silverfang88/status/1809622357209645507 | @yeepink21 你好 pink老师
+- `1809629456039878931` | 2024-07-07 00:44:18 GMT+8 | quote | https://x.com/silverfang88/status/1809629456039878931 | 真正的反击就是
+- `1809645506039263635` | 2024-07-07 01:48:04 GMT+8 | reply | https://x.com/silverfang88/status/1809645506039263635 | @linck230038 爱说啥说啥 我是来赚钱的 又不是来教书的
+- `1809738832075424151` | 2024-07-07 07:58:55 GMT+8 | quote | https://x.com/silverfang88/status/1809738832075424151 | 第二十三期 聊聊101 https://t.co/fyJYoId4yR
+- `1809892992515260900` | 2024-07-07 18:11:30 GMT+8 | original | https://x.com/silverfang88/status/1809892992515260900 | 怎么度过垃圾时间？
+- `1809926085800263980` | 2024-07-07 20:23:00 GMT+8 | original | https://x.com/silverfang88/status/1809926085800263980 | 熊市是最佳的寻找伙伴的时间
+- `1809930707621286078` | 2024-07-07 20:41:22 GMT+8 | original | https://x.com/silverfang88/status/1809930707621286078 | 少学推特上什么各种人的交易策略
+- `1809998322947518845` | 2024-07-08 01:10:02 GMT+8 | reply | https://x.com/silverfang88/status/1809998322947518845 | @Bit_LittleP 生日快乐 女神🌹
+- `1810105994229248511` | 2024-07-08 08:17:53 GMT+8 | original | https://x.com/silverfang88/status/1810105994229248511 | 你打游戏的时候，别人在熬夜找项目
+- `1810106445855412414` | 2024-07-08 08:19:41 GMT+8 | original | https://x.com/silverfang88/status/1810106445855412414 | 你打游戏的时候，别人在熬夜找项目
+- `1810225560196403667` | 2024-07-08 16:13:00 GMT+8 | reply | https://x.com/silverfang88/status/1810225560196403667 | @ZeusNetworkHQ @IVS_Official 诈骗了哥们那么多钱
+- `1810236451776237892` | 2024-07-08 16:56:17 GMT+8 | original | https://x.com/silverfang88/status/1810236451776237892 | 美剧top50
+- `1810272144997146951` | 2024-07-08 19:18:07 GMT+8 | reply | https://x.com/silverfang88/status/1810272144997146951 | @liangfenxiaodao 哈哈哈哈哈哈哈哈哈哈哈哈
+- `1810282239822790799` | 2024-07-08 19:58:14 GMT+8 | reply | https://x.com/silverfang88/status/1810282239822790799 | @0xLoe @HyperliquidX 收到，买了1m
+- `1810287095254036491` | 2024-07-08 20:17:31 GMT+8 | original | https://x.com/silverfang88/status/1810287095254036491 | 男女性欲是不同的
+- `1810321244132172108` | 2024-07-08 22:33:13 GMT+8 | original | https://x.com/silverfang88/status/1810321244132172108 | 牛这几天来了七八回
+- `1810337860190437855` | 2024-07-08 23:39:14 GMT+8 | reply | https://x.com/silverfang88/status/1810337860190437855 | @ZeusNetworkHQ SOON你妈离开千里之外
+- `1810344359444812224` | 2024-07-09 00:05:04 GMT+8 | reply | https://x.com/silverfang88/status/1810344359444812224 | @alpacacheeze 我天天红烧肉 鱼 鸡 和羊
+- `1810346489358561730` | 2024-07-09 00:13:32 GMT+8 | reply | https://x.com/silverfang88/status/1810346489358561730 | @Dincocoin @FanTuanGo 台湾巴子怎么不懂我们蜀汉的浪漫
+- `1810347858224365610` | 2024-07-09 00:18:58 GMT+8 | original | https://x.com/silverfang88/status/1810347858224365610 | 当我初中的不熟悉的一个同学
+- `1810353286899249368` | 2024-07-09 00:40:32 GMT+8 | reply | https://x.com/silverfang88/status/1810353286899249368 | “2007年9月18日，美联储降息0.5%，超出市场预期的0.25%。美股以巨大的反弹反应此次降息。回头看，这是下跌之前的最后一次反弹。当时整个标普500距离历史新高仅差2%。但是次贷危机的根源没有被拔掉，大量高风险的贷款已经流入到社会中了。”  
+- `1810478044148101442` | 2024-07-09 08:56:17 GMT+8 | original | https://x.com/silverfang88/status/1810478044148101442 | 每周测试：请问我们在市场的哪个阶段了？ https://t.co/Run8CGxBWP
+- `1810482155581026372` | 2024-07-09 09:12:37 GMT+8 | original | https://x.com/silverfang88/status/1810482155581026372 | 当你义愤填膺地指责日本排放核废水的时候，有没有想过自己已经吃了一辈子的煤油，而且，还没人出来替你出头，连个撒尿的人都没。
+- `1810575504837062689` | 2024-07-09 15:23:33 GMT+8 | original | https://x.com/silverfang88/status/1810575504837062689 | @yeepink21 你好 我 180cm 72kg 20cm
+- `1810581881827533240` | 2024-07-09 15:48:54 GMT+8 | original | https://x.com/silverfang88/status/1810581881827533240 | @alpacacheeze 好的老师
+- `1810650756195713403` | 2024-07-09 20:22:35 GMT+8 | original | https://x.com/silverfang88/status/1810650756195713403 | 德国政府为什么要卖BTC？
+- `1810668550316519634` | 2024-07-09 21:33:17 GMT+8 | original | https://x.com/silverfang88/status/1810668550316519634 | 和同期从腾讯出来的一个程序员哥们交流了一下
+- `1810668653718704250` | 2024-07-09 21:33:42 GMT+8 | original | https://x.com/silverfang88/status/1810668653718704250 | 和同期从腾讯出来的一个程序员哥们交流了一下
+- `1810670033342779754` | 2024-07-09 21:39:11 GMT+8 | original | https://x.com/silverfang88/status/1810670033342779754 | @chubby44291319 华语区第一八神庵 一拳一个小黑子
+- `1810682028121063766` | 2024-07-09 22:26:51 GMT+8 | reply | https://x.com/silverfang88/status/1810682028121063766 | @qiqileyuan 这可是三七互娱十几年的发型能力沉淀和资源变现
+- `1810712659840352476` | 2024-07-10 00:28:34 GMT+8 | original | https://x.com/silverfang88/status/1810712659840352476 | @BTC521 实在看不下去了 
+- `1810714404867949065` | 2024-07-10 00:35:30 GMT+8 | original | https://x.com/silverfang88/status/1810714404867949065 | https://t.co/IknWS9itiE
+- `1810734705777557919` | 2024-07-10 01:56:10 GMT+8 | original | https://x.com/silverfang88/status/1810734705777557919 | 你们亏了多少？
+- `1810736219778605261` | 2024-07-10 02:02:11 GMT+8 | quote | https://x.com/silverfang88/status/1810736219778605261 | 第二十四期 火鸡科学家 https://t.co/V8kbrBRGsL
+- `1810885069789110766` | 2024-07-10 11:53:39 GMT+8 | original | https://x.com/silverfang88/status/1810885069789110766 | 2024 从毕业到下海
+- `1810885609365311689` | 2024-07-10 11:55:48 GMT+8 | original | https://x.com/silverfang88/status/1810885609365311689 | 建议你多吃苦
+- `1810893785926123958` | 2024-07-10 12:28:18 GMT+8 | quote | https://x.com/silverfang88/status/1810893785926123958 | 老师 为什么我没有BTC？ https://t.co/xu3lzfm8mn
+- `1810992752122790023` | 2024-07-10 19:01:33 GMT+8 | reply | https://x.com/silverfang88/status/1810992752122790023 | @alpacacheeze 那你还是去玩八荒旅人吧，这项目看着就一口气的亚子
+- `1810994295798681758` | 2024-07-10 19:07:41 GMT+8 | original | https://x.com/silverfang88/status/1810994295798681758 | xx和xxx上币组对gamefi项目方的看法⬇️ https://t.co/JnektiT7qn
+- `1811002207375954213` | 2024-07-10 19:39:07 GMT+8 | original | https://x.com/silverfang88/status/1811002207375954213 | @LeotheHorseman 这俩对国人不都是雅吗
+- `1811052767512801562` | 2024-07-10 23:00:02 GMT+8 | original | https://x.com/silverfang88/status/1811052767512801562 | @0xsexybanana 奶白的雪子
+- `1811054929244504086` | 2024-07-10 23:08:37 GMT+8 | original | https://x.com/silverfang88/status/1811054929244504086 | 53800买了 59000跑完了
+- `1811055217397452829` | 2024-07-10 23:09:46 GMT+8 | reply | https://x.com/silverfang88/status/1811055217397452829 | @nakamoto_hub @ZeusNetworkHQ @parthpathak @dappiokeeper @0xriskyvision @risk_layer @sinha_abhijat @DecimalAt @SGOliveio @stakebtc_ai 诈骗诈骗到都不敢用真人照片做头像了？
+- `1811055508050055672` | 2024-07-10 23:10:55 GMT+8 | reply | https://x.com/silverfang88/status/1811055508050055672 | 早安 玛卡巴卡 https://t.co/M9FdctKzY1
+- `1811057461433885162` | 2024-07-10 23:18:41 GMT+8 | original | https://x.com/silverfang88/status/1811057461433885162 | ton生态对我来说最割裂
+- `1811058355625996724` | 2024-07-10 23:22:14 GMT+8 | reply | https://x.com/silverfang88/status/1811058355625996724 | 总结 切忌人云亦云
+- `1811078781626634341` | 2024-07-11 00:43:24 GMT+8 | original | https://x.com/silverfang88/status/1811078781626634341 | 美股又新高了 https://t.co/n1jW1vavnC
+- `1811086968429699100` | 2024-07-11 01:15:56 GMT+8 | reply | https://x.com/silverfang88/status/1811086968429699100 | @Moon1ightSt 没 别听我的 我都瞎说的
+- `1811089337863356856` | 2024-07-11 01:25:21 GMT+8 | reply | https://x.com/silverfang88/status/1811089337863356856 | @Dincocoin 你好
+- `1811266256583966864` | 2024-07-11 13:08:21 GMT+8 | original | https://x.com/silverfang88/status/1811266256583966864 | 看了一些私信
+- `1811270749153309160` | 2024-07-11 13:26:13 GMT+8 | reply | https://x.com/silverfang88/status/1811270749153309160 | @sol_matrixrevo 小骚比
+- `1811290596457214185` | 2024-07-11 14:45:05 GMT+8 | original | https://x.com/silverfang88/status/1811290596457214185 | 中国时代红利肉眼可见的结束了
+- `1811292962732573107` | 2024-07-11 14:54:29 GMT+8 | reply | https://x.com/silverfang88/status/1811292962732573107 | @kungfu_crypto 走走走
+- `1811300170669166772` | 2024-07-11 15:23:07 GMT+8 | reply | https://x.com/silverfang88/status/1811300170669166772 | @roger9949 没关系的 马头
+- `1811301415265984878` | 2024-07-11 15:28:04 GMT+8 | original | https://x.com/silverfang88/status/1811301415265984878 | 币安支付是真好用
+- `1811301499227476206` | 2024-07-11 15:28:24 GMT+8 | original | https://x.com/silverfang88/status/1811301499227476206 | 币安支付是真好用
+- `1811304338033172498` | 2024-07-11 15:39:41 GMT+8 | original | https://x.com/silverfang88/status/1811304338033172498 | 最近在学习这个
+- `1811304347164168670` | 2024-07-11 15:39:43 GMT+8 | reply | https://x.com/silverfang88/status/1811304347164168670 | https://t.co/zgI34hF0Z2
+- `1811304357100396647` | 2024-07-11 15:39:45 GMT+8 | reply | https://x.com/silverfang88/status/1811304357100396647 | https://t.co/BKa7Qgpg3Y
+- `1811304368525762697` | 2024-07-11 15:39:48 GMT+8 | reply | https://x.com/silverfang88/status/1811304368525762697 | https://t.co/usNFFEMRYK
+- `1811348954019418513` | 2024-07-11 18:36:58 GMT+8 | reply | https://x.com/silverfang88/status/1811348954019418513 | @sal_hotpot666 @hotpot_dao gm
+- `1811349106217934907` | 2024-07-11 18:37:34 GMT+8 | reply | https://x.com/silverfang88/status/1811349106217934907 | @Zixi41620514 靠币安了
+- `1811355167104643267` | 2024-07-11 19:01:39 GMT+8 | original | https://x.com/silverfang88/status/1811355167104643267 | 喜欢各种推特
+- `1811357817942519903` | 2024-07-11 19:12:11 GMT+8 | reply | https://x.com/silverfang88/status/1811357817942519903 | @lin_yiliu 这不是好事吗 解放千万司机生产力 给社会输送人才
+- `1811358023308222685` | 2024-07-11 19:13:00 GMT+8 | reply | https://x.com/silverfang88/status/1811358023308222685 | @shirleyusy 而且努力 https://t.co/pFeHuDTgDS
+- `1811358895907950820` | 2024-07-11 19:16:28 GMT+8 | reply | https://x.com/silverfang88/status/1811358895907950820 | @sukie234 需要 revolut
+- `1811362494218129860` | 2024-07-11 19:30:46 GMT+8 | quote | https://x.com/silverfang88/status/1811362494218129860 | 众所不知
+- `1811366789793648972` | 2024-07-11 19:47:50 GMT+8 | quote | https://x.com/silverfang88/status/1811366789793648972 | 很多人对二哥的了解就是课本上的一句话
+- `1811417466322681966` | 2024-07-11 23:09:13 GMT+8 | original | https://x.com/silverfang88/status/1811417466322681966 | 我已经江郎才尽 不知道发什么了
+- `1811417550896640034` | 2024-07-11 23:09:33 GMT+8 | original | https://x.com/silverfang88/status/1811417550896640034 | 我已经江郎才尽 不知道发什么了
+- `1811418821137461436` | 2024-07-11 23:14:36 GMT+8 | original | https://x.com/silverfang88/status/1811418821137461436 | @LeotheHorseman 这是什么绑法
+- `1811420103264874863` | 2024-07-11 23:19:41 GMT+8 | original | https://x.com/silverfang88/status/1811420103264874863 | @LeotheHorseman 烧
+- `1811499697074503699` | 2024-07-12 04:35:58 GMT+8 | original | https://x.com/silverfang88/status/1811499697074503699 | @leibydl 选择比努力重要
+- `1811615823917613427` | 2024-07-12 12:17:25 GMT+8 | original | https://x.com/silverfang88/status/1811615823917613427 | @zxw018018 一切都结束了
+- `1811622304738168972` | 2024-07-12 12:43:10 GMT+8 | original | https://x.com/silverfang88/status/1811622304738168972 | web3求职攻略
+- `1811629900798804195` | 2024-07-12 13:13:21 GMT+8 | original | https://x.com/silverfang88/status/1811629900798804195 | @Aurora_Lashao 凉拌炒鸡蛋
+- `1811637646600389015` | 2024-07-12 13:44:08 GMT+8 | reply | https://x.com/silverfang88/status/1811637646600389015 | @dappiokeeper 4. 画饼，但啥也做不出来
+- `1811638609419686216` | 2024-07-12 13:47:57 GMT+8 | original | https://x.com/silverfang88/status/1811638609419686216 | @dappiokeeper @weremeow 你们上了jup第一个launchpad
+- `1811639687506780214` | 2024-07-12 13:52:14 GMT+8 | original | https://x.com/silverfang88/status/1811639687506780214 | @weremeow 建议严查 $zeus 决策流程 和 当时怎么想的
+- `1811641038794006740` | 2024-07-12 13:57:36 GMT+8 | original | https://x.com/silverfang88/status/1811641038794006740 | @weremeow 《华人骄傲》
+- `1811645530365215097` | 2024-07-12 14:15:27 GMT+8 | repost | https://x.com/silverfang88/status/1811645530365215097 | RT @silverfang88: @weremeow 《华人骄傲》
+- `1811645803754045680` | 2024-07-12 14:16:33 GMT+8 | original | https://x.com/silverfang88/status/1811645803754045680 | 取代滴滴司机，那谁去医院，谁去交房贷 https://t.co/l4c135hIXV
+- `1811658001863885236` | 2024-07-12 15:05:01 GMT+8 | original | https://x.com/silverfang88/status/1811658001863885236 | 我开始理解推特流量算法逻辑了
+- `1811660896499847370` | 2024-07-12 15:16:31 GMT+8 | original | https://x.com/silverfang88/status/1811660896499847370 | @Insider_Venture 没 那是一年前的我
+- `1811660947108372481` | 2024-07-12 15:16:43 GMT+8 | original | https://x.com/silverfang88/status/1811660947108372481 | @miracle_llm 发黑丝
+- `1811664427457884482` | 2024-07-12 15:30:33 GMT+8 | original | https://x.com/silverfang88/status/1811664427457884482 | @chubby44291319 ？ 私我你的
+- `1811666259974513050` | 2024-07-12 15:37:50 GMT+8 | original | https://x.com/silverfang88/status/1811666259974513050 | @LeotheHorseman 这还教啥
+- `1811673197290373590` | 2024-07-12 16:05:24 GMT+8 | original | https://x.com/silverfang88/status/1811673197290373590 | 悲报：同学买的纳斯达克已经开始亏钱了
+- `1811681148273062251` | 2024-07-12 16:36:59 GMT+8 | original | https://x.com/silverfang88/status/1811681148273062251 | @xueqiu88 雪总带带我吧
+- `1811688145752101110` | 2024-07-12 17:04:48 GMT+8 | original | https://x.com/silverfang88/status/1811688145752101110 | @lin_yiliu 你们说的都是中文吧
+- `1811691088245064070` | 2024-07-12 17:16:29 GMT+8 | original | https://x.com/silverfang88/status/1811691088245064070 | 不向傻逼证明自己不是傻逼
+- `1811694026891886784` | 2024-07-12 17:28:10 GMT+8 | original | https://x.com/silverfang88/status/1811694026891886784 | 全同态加密 Fully Homomorphic Encryption
+- `1811696026907979934` | 2024-07-12 17:36:07 GMT+8 | original | https://x.com/silverfang88/status/1811696026907979934 | @roger9949 谁说的。奶牛里面很热的
+- `1811697541316059140` | 2024-07-12 17:42:08 GMT+8 | original | https://x.com/silverfang88/status/1811697541316059140 | @zxw018018 我已经退圈了
+- `1811775389552800201` | 2024-07-12 22:51:28 GMT+8 | original | https://x.com/silverfang88/status/1811775389552800201 | 等了快三年
+- `1811936154024898698` | 2024-07-13 09:30:17 GMT+8 | original | https://x.com/silverfang88/status/1811936154024898698 | 00后是不是基本不知道lxb是谁？
+- `1811936250380656992` | 2024-07-13 09:30:40 GMT+8 | original | https://x.com/silverfang88/status/1811936250380656992 | 00后是不是基本不知道lxb是谁？
+- `1811952267093831898` | 2024-07-13 10:34:19 GMT+8 | reply | https://x.com/silverfang88/status/1811952267093831898 | @BTCdayu @heyibinance @Matr1xOfficial 👍👍👍
+- `1811964524137709859` | 2024-07-13 11:23:01 GMT+8 | original | https://x.com/silverfang88/status/1811964524137709859 | 看完了一姐的访谈
+- `1812061762922975602` | 2024-07-13 17:49:25 GMT+8 | reply | https://x.com/silverfang88/status/1812061762922975602 | @diamondhandjs 哈哈哈哈哈哈哈哈
+- `1812063454129164295` | 2024-07-13 17:56:08 GMT+8 | original | https://x.com/silverfang88/status/1812063454129164295 | 这里充斥着看似背景很好
+- `1812065609716224314` | 2024-07-13 18:04:42 GMT+8 | repost | https://x.com/silverfang88/status/1812065609716224314 | RT @mablejiang: @silverfang88 STEPNGO可以一战
+- `1812065686539132935` | 2024-07-13 18:05:00 GMT+8 | reply | https://x.com/silverfang88/status/1812065686539132935 | @mablejiang 好的老板 我已经梭哈开盒子了
+- `1812069498687472065` | 2024-07-13 18:20:09 GMT+8 | reply | https://x.com/silverfang88/status/1812069498687472065 | @yeepink21 给gamefi项目方出cos
+- `1812074590459338882` | 2024-07-13 18:40:23 GMT+8 | reply | https://x.com/silverfang88/status/1812074590459338882 | @yeepink21 @Matr1xOfficial 速度安排一下
+- `1812081591440507013` | 2024-07-13 19:08:12 GMT+8 | original | https://x.com/silverfang88/status/1812081591440507013 | vibe check
+- `1812091882521968998` | 2024-07-13 19:49:06 GMT+8 | original | https://x.com/silverfang88/status/1812091882521968998 | 梦幻西游前段时间因为数值膨胀问题，不得不干掉了一批工作室
+- `1812158955436613960` | 2024-07-14 00:15:37 GMT+8 | reply | https://x.com/silverfang88/status/1812158955436613960 | @hippo688 @Stepnofficial @fslweb3 @mablejiang 🐂🍺
+- `1812194191319146864` | 2024-07-14 02:35:38 GMT+8 | reply | https://x.com/silverfang88/status/1812194191319146864 | @thecryptoskanda @_FORAB 哈哈哈哈
+- `1812239885262328093` | 2024-07-14 05:37:13 GMT+8 | reply | https://x.com/silverfang88/status/1812239885262328093 | @LeotheHorseman ？ 还没睡
+- `1812289267487703455` | 2024-07-14 08:53:26 GMT+8 | quote | https://x.com/silverfang88/status/1812289267487703455 | https://t.co/BtEzlYjM8B https://t.co/kDewtXelCA
+- `1812299906977083460` | 2024-07-14 09:35:43 GMT+8 | original | https://x.com/silverfang88/status/1812299906977083460 | 冲了一堆trump相关土狗了
+- `1812392404458086681` | 2024-07-14 15:43:16 GMT+8 | reply | https://x.com/silverfang88/status/1812392404458086681 | @thecryptoskanda 懂了 暗示自导自演
+- `1812491616952742057` | 2024-07-14 22:17:30 GMT+8 | reply | https://x.com/silverfang88/status/1812491616952742057 | @suji_yan ….
+- `1812491648330305552` | 2024-07-14 22:17:38 GMT+8 | reply | https://x.com/silverfang88/status/1812491648330305552 | @TastingoV 现在一堆人盯着的
+- `1812491675236720921` | 2024-07-14 22:17:44 GMT+8 | reply | https://x.com/silverfang88/status/1812491675236720921 | @yomiXrich 修改了
+- `1812497951622611229` | 2024-07-14 22:42:40 GMT+8 | quote | https://x.com/silverfang88/status/1812497951622611229 | 基本都5-10倍了 https://t.co/64eZLV6TBf
+- `1812498068723397109` | 2024-07-14 22:43:08 GMT+8 | reply | https://x.com/silverfang88/status/1812498068723397109 | 😂😂😂
+- `1812757535109087694` | 2024-07-15 15:54:10 GMT+8 | repost | https://x.com/silverfang88/status/1812757535109087694 | RT @okx: New Spot Listing 📢 
+- `1812861727618355559` | 2024-07-15 22:48:11 GMT+8 | quote | https://x.com/silverfang88/status/1812861727618355559 | 都上了 https://t.co/CfNle3y7b0
+- `1813002808272294369` | 2024-07-16 08:08:48 GMT+8 | quote | https://x.com/silverfang88/status/1813002808272294369 | 空军死没死？？ https://t.co/xu3lzfmGbV
+- `1813006012552781879` | 2024-07-16 08:21:32 GMT+8 | reply | https://x.com/silverfang88/status/1813006012552781879 | Ansem应该是死了 https://t.co/VzzyPsusmw
+- `1813007446463463922` | 2024-07-16 08:27:13 GMT+8 | original | https://x.com/silverfang88/status/1813007446463463922 | 有刚入圈的朋友不
+- `1813008910032466168` | 2024-07-16 08:33:02 GMT+8 | quote | https://x.com/silverfang88/status/1813008910032466168 | 好舒服 芜湖 https://t.co/lTSOnZqLWT https://t.co/noQVT9UqCr
+- `1813009280922185812` | 2024-07-16 08:34:31 GMT+8 | reply | https://x.com/silverfang88/status/1813009280922185812 | BTC也很舒服 https://t.co/fgbFNexZn2
+- `1813011432021320052` | 2024-07-16 08:43:04 GMT+8 | original | https://x.com/silverfang88/status/1813011432021320052 | @Yumni1470593 你不发内容 不关注
+- `1813013982552465730` | 2024-07-16 08:53:12 GMT+8 | reply | https://x.com/silverfang88/status/1813013982552465730 | @rita88 不算
+- `1813024497001505247` | 2024-07-16 09:34:59 GMT+8 | original | https://x.com/silverfang88/status/1813024497001505247 | @xclisgood 高尔夫确实上瘾 比滑雪可能还上瘾
+- `1813035684124631239` | 2024-07-16 10:19:26 GMT+8 | reply | https://x.com/silverfang88/status/1813035684124631239 | @qin_kun94642 你不发东西啊
+- `1813035724620636494` | 2024-07-16 10:19:35 GMT+8 | reply | https://x.com/silverfang88/status/1813035724620636494 | @LeotheHorseman 肯定是sm圈啊
+- `1813035820343042318` | 2024-07-16 10:19:58 GMT+8 | reply | https://x.com/silverfang88/status/1813035820343042318 | @cg_ypl 发东西太少了 ge
+- `1813082912780349809` | 2024-07-16 13:27:06 GMT+8 | reply | https://x.com/silverfang88/status/1813082912780349809 | @Web3NVY4 少玩合约
+- `1813093935008653779` | 2024-07-16 14:10:54 GMT+8 | reply | https://x.com/silverfang88/status/1813093935008653779 | @shiki214214214 1
+- `1813093966520431032` | 2024-07-16 14:11:01 GMT+8 | reply | https://x.com/silverfang88/status/1813093966520431032 | @0x0xleft 吊
+- `1813093997289828656` | 2024-07-16 14:11:09 GMT+8 | reply | https://x.com/silverfang88/status/1813093997289828656 | @Web3_boar 1
+- `1813094133872853443` | 2024-07-16 14:11:41 GMT+8 | reply | https://x.com/silverfang88/status/1813094133872853443 | @z63614235 内容太少了哥
+- `1813099741141692893` | 2024-07-16 14:33:58 GMT+8 | reply | https://x.com/silverfang88/status/1813099741141692893 | @Cartix0220 你好
+- `1813170693468561745` | 2024-07-16 19:15:55 GMT+8 | original | https://x.com/silverfang88/status/1813170693468561745 | https://t.co/wTFNd00yk0
+- `1813170920443257245` | 2024-07-16 19:16:49 GMT+8 | original | https://x.com/silverfang88/status/1813170920443257245 | 斩断过去 https://t.co/13C53XpVgW
+- `1813178438888333418` | 2024-07-16 19:46:41 GMT+8 | original | https://x.com/silverfang88/status/1813178438888333418 | okx屏蔽了4月3号上的 $zeus
+- `1813178698775867904` | 2024-07-16 19:47:43 GMT+8 | original | https://x.com/silverfang88/status/1813178698775867904 | okx屏蔽了4月3号上的 $zeus
+- `1813180914286969201` | 2024-07-16 19:56:31 GMT+8 | original | https://x.com/silverfang88/status/1813180914286969201 | FTX其实告诉了大家 
+- `1813190765444518076` | 2024-07-16 20:35:40 GMT+8 | reply | https://x.com/silverfang88/status/1813190765444518076 | @jensen782977 你觉得那两根大阴线谁砸的
+- `1813191650648240451` | 2024-07-16 20:39:11 GMT+8 | reply | https://x.com/silverfang88/status/1813191650648240451 | @kylopeung 持久
+- `1813253877233557648` | 2024-07-17 00:46:27 GMT+8 | reply | https://x.com/silverfang88/status/1813253877233557648 | @0xsexybanana 想起来全是答案，做起来都是问题
+- `1813257277400576192` | 2024-07-17 00:59:58 GMT+8 | original | https://x.com/silverfang88/status/1813257277400576192 | 深夜鸡汤
+- `1813257352365416637` | 2024-07-17 01:00:16 GMT+8 | original | https://x.com/silverfang88/status/1813257352365416637 | 深夜鸡汤
+- `1813258336034255351` | 2024-07-17 01:04:10 GMT+8 | reply | https://x.com/silverfang88/status/1813258336034255351 | @Wzh66667 有
+- `1813259474590724537` | 2024-07-17 01:08:42 GMT+8 | reply | https://x.com/silverfang88/status/1813259474590724537 | @cryptojiuyi 共勉共勉 都熬出来了
+- `1813259507503669478` | 2024-07-17 01:08:49 GMT+8 | reply | https://x.com/silverfang88/status/1813259507503669478 | @Aurora_Lashao 有啥意思
+- `1813259546770776369` | 2024-07-17 01:08:59 GMT+8 | reply | https://x.com/silverfang88/status/1813259546770776369 | @Aurora_Lashao 好的
+- `1813261349918810311` | 2024-07-17 01:16:09 GMT+8 | reply | https://x.com/silverfang88/status/1813261349918810311 | @Aurora_Lashao 是 五年呆了七家公司
+- `1813262094940447061` | 2024-07-17 01:19:06 GMT+8 | reply | https://x.com/silverfang88/status/1813262094940447061 | @Aurora_Lashao 都不傻逼 其实各有各的好 只是人性复杂
+- `1813272438127439966` | 2024-07-17 02:00:12 GMT+8 | reply | https://x.com/silverfang88/status/1813272438127439966 | 阿牛，有时候我经常在思考，你说人这一生究竟是为什么些什么？  金钱，爱情，权利，名望，这些东西对我们本身来讲到底重不重要？ 或许我们应该把更多的时间用来探索宇宙的奥秘，地球对于人类来说有点大，但放眼于整个宇宙，它微不足道。  我们应该大力发展科技，去见一见宇宙之外的景色，探寻宇宙是否有尽头，宇宙的尽头又是什么？  阿俊，难道真像有些人说的，我们处于一个牢笼里
+- `1813312755933577459` | 2024-07-17 04:40:25 GMT+8 | quote | https://x.com/silverfang88/status/1813312755933577459 | 6 在这里著名资方也得认栽 https://t.co/PBO9rlOwPK
+- `1813313052835738072` | 2024-07-17 04:41:36 GMT+8 | quote | https://x.com/silverfang88/status/1813313052835738072 | 6 在这里著名资方也得认栽
+- `1813313281874165989` | 2024-07-17 04:42:30 GMT+8 | reply | https://x.com/silverfang88/status/1813313281874165989 | https://t.co/cnqPdUWBio
+- `1813413403819409594` | 2024-07-17 11:20:21 GMT+8 | original | https://x.com/silverfang88/status/1813413403819409594 | 是不是有时候感觉总是赚不到大的？
+- `1813511567671206208` | 2024-07-17 17:50:25 GMT+8 | reply | https://x.com/silverfang88/status/1813511567671206208 | @yeepink21 你好
+- `1813519079938117719` | 2024-07-17 18:20:16 GMT+8 | original | https://x.com/silverfang88/status/1813519079938117719 | 我已经江郎才尽
+- `1813540930126831647` | 2024-07-17 19:47:06 GMT+8 | reply | https://x.com/silverfang88/status/1813540930126831647 | @sal_hotpot666 早日康复
+- `1813549275818913907` | 2024-07-17 20:20:16 GMT+8 | reply | https://x.com/silverfang88/status/1813549275818913907 | @yeepink21 你在当女S吗
+- `1813562512757105017` | 2024-07-17 21:12:52 GMT+8 | reply | https://x.com/silverfang88/status/1813562512757105017 | @0xLoe @Ryanqyz_hodl 恭喜 FAT又赚了3m
+- `1813563031395373395` | 2024-07-17 21:14:55 GMT+8 | reply | https://x.com/silverfang88/status/1813563031395373395 | @la_nieve1 你好
+- `1813567450316972076` | 2024-07-17 21:32:29 GMT+8 | reply | https://x.com/silverfang88/status/1813567450316972076 | @ZeusNetworkHQ @toly 人家忙着推荐你们竞品呢
+- `1813600280614953218` | 2024-07-17 23:42:56 GMT+8 | reply | https://x.com/silverfang88/status/1813600280614953218 | @Crypto_Tkt @DragonKillerBTC 老师 怎么确认
+- `1813764163975737718` | 2024-07-18 10:34:09 GMT+8 | reply | https://x.com/silverfang88/status/1813764163975737718 | @defi_mochi @0xPolygon 哈哈哈哈哈哈哈哈哈哈哈哈
+- `1813790555601801367` | 2024-07-18 12:19:01 GMT+8 | repost | https://x.com/silverfang88/status/1813790555601801367 | RT @UXLINKofficial: 🫡 $UXLINK trading starts on 8:00 AM UTC today on @okx @Bybit_Official @gate_io @bitgetglobal @kucoincom @HTX_Global @Ha…
+- `1813790569338204500` | 2024-07-18 12:19:04 GMT+8 | reply | https://x.com/silverfang88/status/1813790569338204500 | @UXLINKofficial @okx @Bybit_Official @gate_io @bitgetglobal @kucoincom @HTX_Global @HashKey_Global @bitfinex 牛逼
+- `1813798554542207073` | 2024-07-18 12:50:48 GMT+8 | reply | https://x.com/silverfang88/status/1813798554542207073 | @Ryanqyz_hodl 梭哈什么
+- `1813799306144739444` | 2024-07-18 12:53:48 GMT+8 | original | https://x.com/silverfang88/status/1813799306144739444 | @sukicao2 @binancezh @sisibinance @SEFATUBA3 你好
+- `1813799521471865032` | 2024-07-18 12:54:39 GMT+8 | reply | https://x.com/silverfang88/status/1813799521471865032 | @LeotheHorseman https://t.co/9PKGOJZltg
+- `1813799665969828003` | 2024-07-18 12:55:13 GMT+8 | original | https://x.com/silverfang88/status/1813799665969828003 | @edison_near @thecryptoskanda 他们不砸 自有韭菜替他们砸 
+- `1813799830885654620` | 2024-07-18 12:55:53 GMT+8 | original | https://x.com/silverfang88/status/1813799830885654620 | @ynonestop 你好
+- `1813799909826646128` | 2024-07-18 12:56:11 GMT+8 | original | https://x.com/silverfang88/status/1813799909826646128 | @Moon1ightSt 都不去 韭菜还陪庄家开会？？
+- `1813800002050998332` | 2024-07-18 12:56:33 GMT+8 | original | https://x.com/silverfang88/status/1813800002050998332 | @xclisgood 别信这群人的嘴巴 
+- `1813804238373548414` | 2024-07-18 13:13:23 GMT+8 | original | https://x.com/silverfang88/status/1813804238373548414 | 默默开通了小红书和微博
+- `1813804910150054213` | 2024-07-18 13:16:04 GMT+8 | reply | https://x.com/silverfang88/status/1813804910150054213 | @S1bNrQc1E3jYc4i 内容一样的 没必要
+- `1813806493990547876` | 2024-07-18 13:22:21 GMT+8 | reply | https://x.com/silverfang88/status/1813806493990547876 | @LeotheHorseman 学做孙大炮，不做常凯申
+- `1813808450146824498` | 2024-07-18 13:30:08 GMT+8 | original | https://x.com/silverfang88/status/1813808450146824498 | @Dincocoin 畜生活的像牲畜
+- `1813810254477684901` | 2024-07-18 13:37:18 GMT+8 | original | https://x.com/silverfang88/status/1813810254477684901 | @PonziCurator 马上就上pornhub了
+- `1813810668241572004` | 2024-07-18 13:38:56 GMT+8 | original | https://x.com/silverfang88/status/1813810668241572004 | @Dincocoin 小骚逼
+- `1813816535074713605` | 2024-07-18 14:02:15 GMT+8 | original | https://x.com/silverfang88/status/1813816535074713605 | @chubby44291319 @PonziCurator @abyssofgambling  你看她 赶紧解决一下
+- `1813817908864356541` | 2024-07-18 14:07:43 GMT+8 | original | https://x.com/silverfang88/status/1813817908864356541 | 有人想听三哥的故事吗 https://t.co/PVmsuwDSmi
+- `1813836935778971705` | 2024-07-18 15:23:19 GMT+8 | original | https://x.com/silverfang88/status/1813836935778971705 | 聊聊三哥，保证全网最细，最真实
+- `1813860621496250761` | 2024-07-18 16:57:26 GMT+8 | original | https://x.com/silverfang88/status/1813860621496250761 | 这项目rug了？ https://t.co/DDTMLkNdNk
+- `1813860676437422513` | 2024-07-18 16:57:39 GMT+8 | original | https://x.com/silverfang88/status/1813860676437422513 | 这项目rug了？@PikeFinance https://t.co/MHrWvCKCxW
+- `1813862347326488945` | 2024-07-18 17:04:18 GMT+8 | reply | https://x.com/silverfang88/status/1813862347326488945 | @no1harm @PikeFinance 赔偿到哪里去了 😂
+- `1813862979714285966` | 2024-07-18 17:06:48 GMT+8 | original | https://x.com/silverfang88/status/1813862979714285966 | @V_Blockchain @PikeFinance 妈的 你说的对
+- `1813864756161425551` | 2024-07-18 17:13:52 GMT+8 | quote | https://x.com/silverfang88/status/1813864756161425551 | 基本确定要软跑路了
+- `1813898840560500940` | 2024-07-18 19:29:18 GMT+8 | original | https://x.com/silverfang88/status/1813898840560500940 | 好好好 @PikeFinance 
+- `1813899488794415105` | 2024-07-18 19:31:53 GMT+8 | reply | https://x.com/silverfang88/status/1813899488794415105 | @_ladder_chaos_ 你是真觉得可以跑得掉？自导自演被盗？
+- `1813900219626791396` | 2024-07-18 19:34:47 GMT+8 | reply | https://x.com/silverfang88/status/1813900219626791396 | @_ladder_chaos_ 投的多的可以报警了，然后聚齐受害者，一波给他们带走了，人在国内
+- `1813923660903923714` | 2024-07-18 21:07:56 GMT+8 | original | https://x.com/silverfang88/status/1813923660903923714 | 如何把身体调整到最佳状态？⬇️
+- `1813923669296480561` | 2024-07-18 21:07:58 GMT+8 | reply | https://x.com/silverfang88/status/1813923669296480561 | https://t.co/b8k1lMIc62
+- `1813923678310347255` | 2024-07-18 21:08:00 GMT+8 | reply | https://x.com/silverfang88/status/1813923678310347255 | https://t.co/HUCrqpMtNT
+- `1813923687889809622` | 2024-07-18 21:08:02 GMT+8 | reply | https://x.com/silverfang88/status/1813923687889809622 | https://t.co/z4bZsdzMwY
+- `1813934098333008327` | 2024-07-18 21:49:24 GMT+8 | reply | https://x.com/silverfang88/status/1813934098333008327 | @Ru7Longcrypto @BlueberryRing 买不起 我是屌丝
+- `1814291663575007509` | 2024-07-19 21:30:15 GMT+8 | original | https://x.com/silverfang88/status/1814291663575007509 | @LeotheHorseman 都不是
+- `1814309951310885275` | 2024-07-19 22:42:55 GMT+8 | quote | https://x.com/silverfang88/status/1814309951310885275 | 推迟到下周 https://t.co/NLrIdykgDM
+- `1814500920492744912` | 2024-07-20 11:21:45 GMT+8 | reply | https://x.com/silverfang88/status/1814500920492744912 | @Moon1ightSt 经典白人餐
+- `1814503841439629404` | 2024-07-20 11:33:22 GMT+8 | reply | https://x.com/silverfang88/status/1814503841439629404 | @BTCdayu 下跌，是投机主义的敌人
+- `1814503929352249824` | 2024-07-20 11:33:43 GMT+8 | reply | https://x.com/silverfang88/status/1814503929352249824 | @evilcos 6
+- `1814504063548997990` | 2024-07-20 11:34:15 GMT+8 | reply | https://x.com/silverfang88/status/1814504063548997990 | @suji_yan 牛逼
+- `1814504163503476876` | 2024-07-20 11:34:39 GMT+8 | reply | https://x.com/silverfang88/status/1814504163503476876 | @Aurora_Lashao 老师 2.1万字太多 进不去我的眼
+- `1814504273041932590` | 2024-07-20 11:35:05 GMT+8 | original | https://x.com/silverfang88/status/1814504273041932590 | @bigbottle44 不体检 我就没有毛病
+- `1814504387709972847` | 2024-07-20 11:35:32 GMT+8 | reply | https://x.com/silverfang88/status/1814504387709972847 | @xclisgood 当你相信他是反弹的时候，他就说翻转
+- `1814505090557911500` | 2024-07-20 11:38:20 GMT+8 | reply | https://x.com/silverfang88/status/1814505090557911500 | @Ryanqyz_hodl 哪有韭菜天天输！
+- `1814506115280891930` | 2024-07-20 11:42:24 GMT+8 | reply | https://x.com/silverfang88/status/1814506115280891930 | @Dincocoin 赶紧死 死了就轻松了
+- `1814508671398707367` | 2024-07-20 11:52:33 GMT+8 | reply | https://x.com/silverfang88/status/1814508671398707367 | @Ericchow333 是的
+- `1814509380982681683` | 2024-07-20 11:55:23 GMT+8 | reply | https://x.com/silverfang88/status/1814509380982681683 | @Aurora_Lashao @Dincocoin 问题是我在北爱啊
+- `1814510325816840406` | 2024-07-20 11:59:08 GMT+8 | original | https://x.com/silverfang88/status/1814510325816840406 | @littlelanbo 乌龟黑头  奶白雪子  火鸡锅巴
+- `1814510680621380087` | 2024-07-20 12:00:32 GMT+8 | repost | https://x.com/silverfang88/status/1814510680621380087 | RT @suji_yan: @silverfang88 我为人人 人人为我
+- `1814540984744587352` | 2024-07-20 14:00:57 GMT+8 | reply | https://x.com/silverfang88/status/1814540984744587352 | @lin_yiliu 汽车人，启动
+- `1814665551504879919` | 2024-07-20 22:15:56 GMT+8 | reply | https://x.com/silverfang88/status/1814665551504879919 | @0x_bobo &lt;共识太分裂了&gt; 
+- `1814665600456692108` | 2024-07-20 22:16:08 GMT+8 | reply | https://x.com/silverfang88/status/1814665600456692108 | @0xWeiCai nb
+- `1814665701807784152` | 2024-07-20 22:16:32 GMT+8 | reply | https://x.com/silverfang88/status/1814665701807784152 | @liangfenxiaodao 刀哥已经领先了市场三步
+- `1814665781994475978` | 2024-07-20 22:16:51 GMT+8 | reply | https://x.com/silverfang88/status/1814665781994475978 | @ynonestop @Solana_zh 你好
+- `1814665982519963706` | 2024-07-20 22:17:39 GMT+8 | original | https://x.com/silverfang88/status/1814665982519963706 | @wen5888888 本来土狗胜率也就 2-3成  
+- `1814666033543758213` | 2024-07-20 22:17:51 GMT+8 | reply | https://x.com/silverfang88/status/1814666033543758213 | @Tintinx2021 瘦了
+- `1814666163642679755` | 2024-07-20 22:18:22 GMT+8 | reply | https://x.com/silverfang88/status/1814666163642679755 | @abyssofgambling 什么意思老师 
+- `1814666224325853679` | 2024-07-20 22:18:37 GMT+8 | reply | https://x.com/silverfang88/status/1814666224325853679 | @Aurora_Lashao 老师 你放了一个响亮的屁
+- `1814666431826379130` | 2024-07-20 22:19:26 GMT+8 | reply | https://x.com/silverfang88/status/1814666431826379130 | @lorrainelolo @Will42W 玩的早，买的多，拿得住
+- `1814669463867773097` | 2024-07-20 22:31:29 GMT+8 | reply | https://x.com/silverfang88/status/1814669463867773097 | @jordanwangbtc 啥意思
+- `1814876213829112281` | 2024-07-21 12:13:02 GMT+8 | reply | https://x.com/silverfang88/status/1814876213829112281 | @0xcryptowizard 借钱炒币
+- `1814882820633817442` | 2024-07-21 12:39:17 GMT+8 | reply | https://x.com/silverfang88/status/1814882820633817442 | @BTCdayu https://t.co/kDh6kM4soU
+- `1814902277271925047` | 2024-07-21 13:56:36 GMT+8 | reply | https://x.com/silverfang88/status/1814902277271925047 | @roger9949 研究个几把
+- `1815031527840858595` | 2024-07-21 22:30:12 GMT+8 | reply | https://x.com/silverfang88/status/1815031527840858595 | @LeotheHorseman 《美国比俄罗斯更自由》
+- `1815034347096858809` | 2024-07-21 22:41:24 GMT+8 | original | https://x.com/silverfang88/status/1815034347096858809 | 一想到你们之前推的那些垃圾项目
+- `1815035323224830361` | 2024-07-21 22:45:17 GMT+8 | reply | https://x.com/silverfang88/status/1815035323224830361 | @thecryptoskanda 😂
+- `1815038950387392785` | 2024-07-21 22:59:42 GMT+8 | reply | https://x.com/silverfang88/status/1815038950387392785 | @edison_near https://t.co/59XmaCGlQ3
+- `1815041428969423164` | 2024-07-21 23:09:33 GMT+8 | reply | https://x.com/silverfang88/status/1815041428969423164 | @zxw018018 活着
+- `1815045389244051677` | 2024-07-21 23:25:17 GMT+8 | reply | https://x.com/silverfang88/status/1815045389244051677 | @thecryptoskanda 买在无人问津 = 买的早
+- `1815149940844466327` | 2024-07-22 06:20:44 GMT+8 | original | https://x.com/silverfang88/status/1815149940844466327 | 都醒了吗？
+- `1815257995816673396` | 2024-07-22 13:30:06 GMT+8 | reply | https://x.com/silverfang88/status/1815257995816673396 | @Ryanqyz_hodl 悟道了？？
+- `1815258289657057662` | 2024-07-22 13:31:16 GMT+8 | repost | https://x.com/silverfang88/status/1815258289657057662 | RT @Ryanqyz_hodl: 区块链行业进阶素养：
+- `1815258421299417327` | 2024-07-22 13:31:48 GMT+8 | reply | https://x.com/silverfang88/status/1815258421299417327 | @FanTuanGo 99级仿生泪滴
+- `1815259558215811286` | 2024-07-22 13:36:19 GMT+8 | reply | https://x.com/silverfang88/status/1815259558215811286 | @Ryanqyz_hodl https://t.co/cHPO4UblCh
+- `1815275296578326770` | 2024-07-22 14:38:51 GMT+8 | original | https://x.com/silverfang88/status/1815275296578326770 | 前段时间，@API3DAO 在ETHCC开会的时候宣布推出OEV 网络
+- `1815275298952224839` | 2024-07-22 14:38:52 GMT+8 | reply | https://x.com/silverfang88/status/1815275298952224839 | 原文
+- `1815279120739147779` | 2024-07-22 14:54:03 GMT+8 | reply | https://x.com/silverfang88/status/1815279120739147779 | @Aurora_Lashao @API3DAO ？
+- `1815287984347918747` | 2024-07-22 15:29:16 GMT+8 | reply | https://x.com/silverfang88/status/1815287984347918747 | @alpacacheeze 找太上老君求个符就可以
+- `1815454533339746795` | 2024-07-23 02:31:04 GMT+8 | quote | https://x.com/silverfang88/status/1815454533339746795 | 冷知识：jup的launchpad上的 zeus 和 cloud 也基本都是国人盘 + 格局极小 + 出货型的
+- `1815455327157989803` | 2024-07-23 02:34:14 GMT+8 | reply | https://x.com/silverfang88/status/1815455327157989803 | @LeotheHorseman 你也爱吃中国冰淇淋？ https://t.co/44WHQZZAMM
+- `1815584223723397271` | 2024-07-23 11:06:25 GMT+8 | quote | https://x.com/silverfang88/status/1815584223723397271 | 看了这个文章，刚好借机写一下我对AI+web3的浅薄看法
+- `1815594761656353147` | 2024-07-23 11:48:17 GMT+8 | original | https://x.com/silverfang88/status/1815594761656353147 | @Dincocoin 都跌麻了 你们真是冥灯
+- `1815595151474950430` | 2024-07-23 11:49:50 GMT+8 | repost | https://x.com/silverfang88/status/1815595151474950430 | RT @evilcos: 我们更新了加密货币被盗/被骗案件评估的提交表单，明确了一些很费力的解释...
+- `1815595249416171589` | 2024-07-23 11:50:14 GMT+8 | reply | https://x.com/silverfang88/status/1815595249416171589 | @evilcos 佩服
+- `1815595555017437544` | 2024-07-23 11:51:27 GMT+8 | original | https://x.com/silverfang88/status/1815595555017437544 | @0xscarlettw 牛逼
+- `1815595888066081067` | 2024-07-23 11:52:46 GMT+8 | original | https://x.com/silverfang88/status/1815595888066081067 | @momochenming 勤奋！
+- `1815597752664969246` | 2024-07-23 12:00:11 GMT+8 | original | https://x.com/silverfang88/status/1815597752664969246 | @thecryptoskanda 没有成为scammer的心脏和决心
+- `1815598810514538905` | 2024-07-23 12:04:23 GMT+8 | original | https://x.com/silverfang88/status/1815598810514538905 | @Aurora_Lashao 什么意思老师 能跌到6万吗
+- `1815600030541099406` | 2024-07-23 12:09:14 GMT+8 | original | https://x.com/silverfang88/status/1815600030541099406 | @rita88 好长 能不能一句话解释一下什么情况
+- `1815605123726344386` | 2024-07-23 12:29:28 GMT+8 | original | https://x.com/silverfang88/status/1815605123726344386 | @BTCdayu 拉盘就是真的
+- `1815605170073416000` | 2024-07-23 12:29:39 GMT+8 | reply | https://x.com/silverfang88/status/1815605170073416000 | @LeotheHorseman 有CA了吗
+- `1815609632787665372` | 2024-07-23 12:47:23 GMT+8 | original | https://x.com/silverfang88/status/1815609632787665372 | @0xjelly 什么大的
+- `1815617698539172095` | 2024-07-23 13:19:26 GMT+8 | original | https://x.com/silverfang88/status/1815617698539172095 | @Aibaytothemoon 那我建议你可以不吃
+- `1815617720194420762` | 2024-07-23 13:19:31 GMT+8 | reply | https://x.com/silverfang88/status/1815617720194420762 | @CharAznable_eth 好的哥
+- `1815617755262890382` | 2024-07-23 13:19:40 GMT+8 | original | https://x.com/silverfang88/status/1815617755262890382 | @Maahes723 自说自话罢了
+- `1815619860807688399` | 2024-07-23 13:28:02 GMT+8 | original | https://x.com/silverfang88/status/1815619860807688399 | @chesterttt2 好的哥
+- `1815635892473655331` | 2024-07-23 14:31:44 GMT+8 | quote | https://x.com/silverfang88/status/1815635892473655331 | yep https://t.co/p8G0yZNxcC
+- `1815636104978010487` | 2024-07-23 14:32:34 GMT+8 | original | https://x.com/silverfang88/status/1815636104978010487 | 我预判了他们预判的预判
+- `1815642292805394529` | 2024-07-23 14:57:10 GMT+8 | original | https://x.com/silverfang88/status/1815642292805394529 | @Aurora_Lashao 已自由 无所谓
+- `1815647935071244584` | 2024-07-23 15:19:35 GMT+8 | reply | https://x.com/silverfang88/status/1815647935071244584 | @momochenming 乌龟的黑头
+- `1815648706516976067` | 2024-07-23 15:22:39 GMT+8 | original | https://x.com/silverfang88/status/1815648706516976067 | @viviDaBest777 您过奖了….自说自话
+- `1815648730969743651` | 2024-07-23 15:22:45 GMT+8 | original | https://x.com/silverfang88/status/1815648730969743651 | @eth_0x_ 爱你
+- `1815650960552624357` | 2024-07-23 15:31:36 GMT+8 | original | https://x.com/silverfang88/status/1815650960552624357 | @0x0xFeng 哈哈哈哈 
+- `1815652409382752527` | 2024-07-23 15:37:22 GMT+8 | quote | https://x.com/silverfang88/status/1815652409382752527 | 😂 决策流程肯定是有问题
+- `1815652508414464450` | 2024-07-23 15:37:45 GMT+8 | quote | https://x.com/silverfang88/status/1815652508414464450 | 😂 决策流程肯定是有问题
+- `1815710066978263195` | 2024-07-23 19:26:28 GMT+8 | reply | https://x.com/silverfang88/status/1815710066978263195 | @LeotheHorseman https://t.co/P6IEYnD4yp
+- `1815716950820942042` | 2024-07-23 19:53:50 GMT+8 | reply | https://x.com/silverfang88/status/1815716950820942042 | @alpacacheeze @BlackRock 住手 我已经不认识 eth这三个字了
+- `1815802612177871219` | 2024-07-24 01:34:13 GMT+8 | reply | https://x.com/silverfang88/status/1815802612177871219 | @jordanwangbtc 牛市结束了
+- `1815818768595275913` | 2024-07-24 02:38:25 GMT+8 | original | https://x.com/silverfang88/status/1815818768595275913 | 都睡了吗
+- `1815917775241478376` | 2024-07-24 09:11:50 GMT+8 | quote | https://x.com/silverfang88/status/1815917775241478376 | 收菜 https://t.co/cHSLkkwt4o https://t.co/Vm5KsceyF6
+- `1815922084993982922` | 2024-07-24 09:28:57 GMT+8 | original | https://x.com/silverfang88/status/1815922084993982922 | 在随便侃侃听众群基本上最早梭哈 $bome $slerf 之后
+- `1815922571663270035` | 2024-07-24 09:30:53 GMT+8 | reply | https://x.com/silverfang88/status/1815922571663270035 | @Aurora_Lashao 没有这种东西
+- `1815922601354563711` | 2024-07-24 09:31:01 GMT+8 | reply | https://x.com/silverfang88/status/1815922601354563711 | @cryptofnj 晚安
+- `1815923146689593537` | 2024-07-24 09:33:11 GMT+8 | quote | https://x.com/silverfang88/status/1815923146689593537 | 重温了一下梭哈sletf那天的激情，没想到三个月后才上了okx，那是最好的牛市
+- `1815923439070322838` | 2024-07-24 09:34:20 GMT+8 | reply | https://x.com/silverfang88/status/1815923439070322838 | 恍如隔世
+- `1815923567059689979` | 2024-07-24 09:34:51 GMT+8 | reply | https://x.com/silverfang88/status/1815923567059689979 | @chennin03864060 我垃圾
+- `1815923724530450514` | 2024-07-24 09:35:28 GMT+8 | reply | https://x.com/silverfang88/status/1815923724530450514 | @BTCdayu 美国自我修复的能力真的强
+- `1815928797272674614` | 2024-07-24 09:55:38 GMT+8 | reply | https://x.com/silverfang88/status/1815928797272674614 | @KK827827 您总结的好
+- `1815964634978877752` | 2024-07-24 12:18:02 GMT+8 | reply | https://x.com/silverfang88/status/1815964634978877752 | @LeotheHorseman 我已经坏掉了
+- `1815964798758125791` | 2024-07-24 12:18:41 GMT+8 | reply | https://x.com/silverfang88/status/1815964798758125791 | @Dincocoin 下一个
+- `1815964917012349385` | 2024-07-24 12:19:09 GMT+8 | reply | https://x.com/silverfang88/status/1815964917012349385 | @zkgwgxSbRs88418 感觉上不了币安了？
+- `1815966809570353355` | 2024-07-24 12:26:41 GMT+8 | reply | https://x.com/silverfang88/status/1815966809570353355 | @abyssofgambling 已自由 无所谓
+- `1815967238706389429` | 2024-07-24 12:28:23 GMT+8 | reply | https://x.com/silverfang88/status/1815967238706389429 | @abyssofgambling 当时让你梭哈 你不干 https://t.co/04QHrDaa1W
+- `1815967962517369018` | 2024-07-24 12:31:15 GMT+8 | reply | https://x.com/silverfang88/status/1815967962517369018 | @abyssofgambling 差点让你赚到了
+- `1815968255854403889` | 2024-07-24 12:32:25 GMT+8 | reply | https://x.com/silverfang88/status/1815968255854403889 | @roger9949 真屌
+- `1815985920337641921` | 2024-07-24 13:42:37 GMT+8 | reply | https://x.com/silverfang88/status/1815985920337641921 | @alpacacheeze @velvet_lol 谢谢你 旺仔侠
+- `1815989875176304932` | 2024-07-24 13:58:20 GMT+8 | reply | https://x.com/silverfang88/status/1815989875176304932 | @abyssofgambling 草我
+- `1815990278328655910` | 2024-07-24 13:59:56 GMT+8 | reply | https://x.com/silverfang88/status/1815990278328655910 | @0xsexybanana 懂了 以后我就用这招反制懒女人
+- `1815990497422307608` | 2024-07-24 14:00:48 GMT+8 | reply | https://x.com/silverfang88/status/1815990497422307608 | @0xcryptowizard 知我罪我
+- `1815990655812002058` | 2024-07-24 14:01:26 GMT+8 | reply | https://x.com/silverfang88/status/1815990655812002058 | @bigbottle44 吃饺子 玩嫂子
+- `1815990756818981266` | 2024-07-24 14:01:50 GMT+8 | reply | https://x.com/silverfang88/status/1815990756818981266 | @AMAN_TANG_ 什么意思 老师
+- `1815990795305939037` | 2024-07-24 14:01:59 GMT+8 | reply | https://x.com/silverfang88/status/1815990795305939037 | @shirleyusy 哈哈哈哈
+- `1815990920359079960` | 2024-07-24 14:02:29 GMT+8 | reply | https://x.com/silverfang88/status/1815990920359079960 | @abyssofgambling 你好
+- `1815991109228646833` | 2024-07-24 14:03:14 GMT+8 | reply | https://x.com/silverfang88/status/1815991109228646833 | @0xSunNFT 人们只能按照自己的节奏打牌
+- `1815991242389442916` | 2024-07-24 14:03:46 GMT+8 | reply | https://x.com/silverfang88/status/1815991242389442916 | @BTCdayu 说明美国人和机构都挺明白的
+- `1815991576125931769` | 2024-07-24 14:05:05 GMT+8 | reply | https://x.com/silverfang88/status/1815991576125931769 | @abyssofgambling 啊啊啊 哇哇哇哇哇哇 啊啊啊 哇 啊啊啊啊啊啊啊啊啊啊！！！
+- `1816002358855491677` | 2024-07-24 14:47:56 GMT+8 | reply | https://x.com/silverfang88/status/1816002358855491677 | @0xcryptowizard 心有《三国志》
+- `1816012797014106198` | 2024-07-24 15:29:25 GMT+8 | reply | https://x.com/silverfang88/status/1816012797014106198 | @PepeBoost888 用pepeboost 享受成功人生
+- `1816014682538254431` | 2024-07-24 15:36:54 GMT+8 | reply | https://x.com/silverfang88/status/1816014682538254431 | @PepeBoost888 电子烟 https://t.co/AJTtr72dMg
+- `1816015907497431373` | 2024-07-24 15:41:46 GMT+8 | original | https://x.com/silverfang88/status/1816015907497431373 | 割肉了所有的nft
+- `1816017021890380266` | 2024-07-24 15:46:12 GMT+8 | reply | https://x.com/silverfang88/status/1816017021890380266 | @Aurora_Lashao @abyssofgambling 草我 啊啊啊啊啊 我下面受不了了 啊啊啊啊
+- `1816017489551081772` | 2024-07-24 15:48:04 GMT+8 | original | https://x.com/silverfang88/status/1816017489551081772 | @0xAmazingChar 李李说不撞南钱心不死
+- `1816021331973992939` | 2024-07-24 16:03:20 GMT+8 | reply | https://x.com/silverfang88/status/1816021331973992939 | @Aurora_Lashao @abyssofgambling 因为我不要脸
+- `1816044055869940146` | 2024-07-24 17:33:38 GMT+8 | reply | https://x.com/silverfang88/status/1816044055869940146 | @roger9949 我之前30多个 他妈的真晦气 割都割不完
+- `1816045340107129274` | 2024-07-24 17:38:44 GMT+8 | reply | https://x.com/silverfang88/status/1816045340107129274 | @Spike0826616 @roger9949 我感觉soft rug了
+- `1816050003309134265` | 2024-07-24 17:57:16 GMT+8 | quote | https://x.com/silverfang88/status/1816050003309134265 | 其实是我们调研的时候看到的
+- `1816050257211380214` | 2024-07-24 17:58:16 GMT+8 | quote | https://x.com/silverfang88/status/1816050257211380214 | 其实是我们调研的时候看到的
+- `1816051102069981274` | 2024-07-24 18:01:37 GMT+8 | reply | https://x.com/silverfang88/status/1816051102069981274 | 我手上的蝴蝶刀转的越来越快了
+- `1816052212885295577` | 2024-07-24 18:06:02 GMT+8 | reply | https://x.com/silverfang88/status/1816052212885295577 | @LeotheHorseman what
+- `1816052712405909603` | 2024-07-24 18:08:01 GMT+8 | reply | https://x.com/silverfang88/status/1816052712405909603 | @Dincocoin 真实 操我
+- `1816056213391462771` | 2024-07-24 18:21:56 GMT+8 | reply | https://x.com/silverfang88/status/1816056213391462771 | @NocturneFree 我觉得没问题
+- `1816056250410410002` | 2024-07-24 18:22:05 GMT+8 | reply | https://x.com/silverfang88/status/1816056250410410002 | @zxw018018 不要吓到我的蝴蝶刀
+- `1816058637166469351` | 2024-07-24 18:31:34 GMT+8 | reply | https://x.com/silverfang88/status/1816058637166469351 | feel the pop https://t.co/wl1iKLQap5
+- `1816058758025367922` | 2024-07-24 18:32:03 GMT+8 | reply | https://x.com/silverfang88/status/1816058758025367922 | @Crypto_bananana 分别是国内两大顶尖VC  
+- `1816060131060125706` | 2024-07-24 18:37:30 GMT+8 | reply | https://x.com/silverfang88/status/1816060131060125706 | @YIisvtl1IR32679 叽里咕噜说什么呢
+- `1816147844010762727` | 2024-07-25 00:26:03 GMT+8 | original | https://x.com/silverfang88/status/1816147844010762727 | @Jeffrey_bit 操
+- `1816147869809721526` | 2024-07-25 00:26:09 GMT+8 | original | https://x.com/silverfang88/status/1816147869809721526 | @zisuzz GG
+- `1816147889737064844` | 2024-07-25 00:26:13 GMT+8 | original | https://x.com/silverfang88/status/1816147889737064844 | @marshallseu 能行吗 哥
+- `1816148864837247287` | 2024-07-25 00:30:06 GMT+8 | original | https://x.com/silverfang88/status/1816148864837247287 | @lin_yiliu 你错了 JUP launchpad已经臭名昭著
+- `1816149166403244311` | 2024-07-25 00:31:18 GMT+8 | original | https://x.com/silverfang88/status/1816149166403244311 | @xclisgood 你也开
+- `1816150968972497244` | 2024-07-25 00:38:28 GMT+8 | quote | https://x.com/silverfang88/status/1816150968972497244 | 我给大家拖后腿了 🥲 https://t.co/uUqKGvAI2M https://t.co/S3jJILYLlk
+- `1816151226385588639` | 2024-07-25 00:39:29 GMT+8 | original | https://x.com/silverfang88/status/1816151226385588639 | 重生之我是三月的高尚
+- `1816153267149135995` | 2024-07-25 00:47:36 GMT+8 | original | https://x.com/silverfang88/status/1816153267149135995 | 看了看其他钱包 
+- `1816155745076781191` | 2024-07-25 00:57:26 GMT+8 | original | https://x.com/silverfang88/status/1816155745076781191 | @HasakiDoge 其实很不准
+- `1816157320990318987` | 2024-07-25 01:03:42 GMT+8 | original | https://x.com/silverfang88/status/1816157320990318987 | @dov_wo 带带
+- `1816158983482184024` | 2024-07-25 01:10:18 GMT+8 | original | https://x.com/silverfang88/status/1816158983482184024 | @0x0xFeng 没事 想想去年在群里亏麻了的情况 
+- `1816161277401784743` | 2024-07-25 01:19:25 GMT+8 | original | https://x.com/silverfang88/status/1816161277401784743 | 我悄悄帮初中同学做了个hedge
+- `1816161793129029739` | 2024-07-25 01:21:28 GMT+8 | original | https://x.com/silverfang88/status/1816161793129029739 | 你们还记得那个
+- `1816170538760290527` | 2024-07-25 01:56:13 GMT+8 | original | https://x.com/silverfang88/status/1816170538760290527 | @KoushouX8888 我是最垃圾的啊
+- `1816183659147469105` | 2024-07-25 02:48:22 GMT+8 | original | https://x.com/silverfang88/status/1816183659147469105 | @HasakiDoge 😂😂😂😂
+- `1816271888995275134` | 2024-07-25 08:38:57 GMT+8 | quote | https://x.com/silverfang88/status/1816271888995275134 | 其实顶部信号（或者说是局部的）回头看，好像是那么的明显
+- `1816281592827904472` | 2024-07-25 09:17:31 GMT+8 | original | https://x.com/silverfang88/status/1816281592827904472 | @jackz0168 没 别自己吓自己
+- `1816316377818411384` | 2024-07-25 11:35:44 GMT+8 | original | https://x.com/silverfang88/status/1816316377818411384 | @zxw018018 赶紧几把毁灭吧
+- `1816346710676852855` | 2024-07-25 13:36:16 GMT+8 | reply | https://x.com/silverfang88/status/1816346710676852855 | @diamondhandjs 进来看到了两个反向天选 谢谢js姐
+- `1816361340505841683` | 2024-07-25 14:34:24 GMT+8 | original | https://x.com/silverfang88/status/1816361340505841683 | 子时教你如何排解负面情绪
+- `1816362921724695026` | 2024-07-25 14:40:41 GMT+8 | original | https://x.com/silverfang88/status/1816362921724695026 | @wen5888888 🐍
+- `1816362953500766717` | 2024-07-25 14:40:49 GMT+8 | original | https://x.com/silverfang88/status/1816362953500766717 | @StaccNotGuilty 下次一定
+- `1816363258959261821` | 2024-07-25 14:42:01 GMT+8 | original | https://x.com/silverfang88/status/1816363258959261821 | @momochenming 你好
+- `1816479538160849051` | 2024-07-25 22:24:05 GMT+8 | original | https://x.com/silverfang88/status/1816479538160849051 | 买入 知行合一
+- `1816480415332339801` | 2024-07-25 22:27:34 GMT+8 | original | https://x.com/silverfang88/status/1816480415332339801 | @Tuchangtt 涨多了就跌
+- `1816509509512097826` | 2024-07-26 00:23:10 GMT+8 | original | https://x.com/silverfang88/status/1816509509512097826 | @Aurora_Lashao 真的吗老师
+- `1816510256970596401` | 2024-07-26 00:26:09 GMT+8 | original | https://x.com/silverfang88/status/1816510256970596401 | @Aurora_Lashao 我不信
+- `1816522550945734747` | 2024-07-26 01:15:00 GMT+8 | original | https://x.com/silverfang88/status/1816522550945734747 | @Aurora_Lashao 治标不治本
+- `1816684335740727417` | 2024-07-26 11:57:52 GMT+8 | original | https://x.com/silverfang88/status/1816684335740727417 | “crypto给你，我去华尔街。”
+- `1816690124370907609` | 2024-07-26 12:20:52 GMT+8 | original | https://x.com/silverfang88/status/1816690124370907609 | @_Allan_Wei_2022 😂
+- `1816697255023304743` | 2024-07-26 12:49:12 GMT+8 | original | https://x.com/silverfang88/status/1816697255023304743 | @lin_yiliu 女dom在币圈天然吃香啊
+- `1816704852967252133` | 2024-07-26 13:19:24 GMT+8 | reply | https://x.com/silverfang88/status/1816704852967252133 | @Oldoggie88 https://t.co/1WRaOMRzZW
+- `1816716028845412532` | 2024-07-26 14:03:48 GMT+8 | original | https://x.com/silverfang88/status/1816716028845412532 | @Ryanqyz_hodl 😂
+- `1816741006320005454` | 2024-07-26 15:43:03 GMT+8 | original | https://x.com/silverfang88/status/1816741006320005454 | Irene Zhao走的是
+- `1816741470042202616` | 2024-07-26 15:44:54 GMT+8 | reply | https://x.com/silverfang88/status/1816741470042202616 | @alpacacheeze 我还没测试过 不知道 可能是switch吧
+- `1816742295359619443` | 2024-07-26 15:48:11 GMT+8 | reply | https://x.com/silverfang88/status/1816742295359619443 | @0xzzwest 没听space，我被屏蔽了
+- `1816744015531749448` | 2024-07-26 15:55:01 GMT+8 | reply | https://x.com/silverfang88/status/1816744015531749448 | @0xzzwest 无所谓了 女dom很多还是方言版本的
+- `1816744267127071061` | 2024-07-26 15:56:01 GMT+8 | original | https://x.com/silverfang88/status/1816744267127071061 | @jordanwangbtc 被骂是利好 
+- `1816745083703570519` | 2024-07-26 15:59:16 GMT+8 | reply | https://x.com/silverfang88/status/1816745083703570519 | @LeotheHorseman @0xAmazingChar 也可以从1到100
+- `1816745136430174247` | 2024-07-26 15:59:28 GMT+8 | reply | https://x.com/silverfang88/status/1816745136430174247 | @404bitcoin 没有吧
+- `1816745410343362727` | 2024-07-26 16:00:33 GMT+8 | reply | https://x.com/silverfang88/status/1816745410343362727 | @thecryptoskanda 马斯克前段时间都给某个女DOM点赞了
+- `1816745887391011141` | 2024-07-26 16:02:27 GMT+8 | reply | https://x.com/silverfang88/status/1816745887391011141 | @roger9949 这可是区块链
+- `1816746017498214449` | 2024-07-26 16:02:58 GMT+8 | reply | https://x.com/silverfang88/status/1816746017498214449 | @banana_iced 这种东西不是学的
+- `1816746244141670809` | 2024-07-26 16:03:52 GMT+8 | reply | https://x.com/silverfang88/status/1816746244141670809 | @roger9949 你已经到了这一步了吗 兄弟
+- `1816746406998147307` | 2024-07-26 16:04:31 GMT+8 | reply | https://x.com/silverfang88/status/1816746406998147307 | @thecryptoskanda 东方男人甚至可以三十年不做爱
+- `1816747286577168824` | 2024-07-26 16:08:01 GMT+8 | original | https://x.com/silverfang88/status/1816747286577168824 | @zxw018018 哥 不用这么学术 
+- `1816751507091440102` | 2024-07-26 16:24:47 GMT+8 | original | https://x.com/silverfang88/status/1816751507091440102 | @Insider_Venture 干啥了
+- `1816754143546966095` | 2024-07-26 16:35:16 GMT+8 | reply | https://x.com/silverfang88/status/1816754143546966095 | @lin_yiliu 多好，开心就好
+- `1816761915034456160` | 2024-07-26 17:06:09 GMT+8 | original | https://x.com/silverfang88/status/1816761915034456160 | @lin_yiliu 这帮人赶紧都滚蛋吧
+- `1816763019629568119` | 2024-07-26 17:10:32 GMT+8 | original | https://x.com/silverfang88/status/1816763019629568119 | @Labrador9527 懂
+- `1816763085584998642` | 2024-07-26 17:10:48 GMT+8 | original | https://x.com/silverfang88/status/1816763085584998642 | 收网收网 下一个 https://t.co/d3v4U3IKK4
+- `1816764305406136415` | 2024-07-26 17:15:38 GMT+8 | original | https://x.com/silverfang88/status/1816764305406136415 | @Hakio1363 哈哈哈哈哈哈哈
+- `1816765777258709376` | 2024-07-26 17:21:29 GMT+8 | reply | https://x.com/silverfang88/status/1816765777258709376 | @kijpranav 庄收网了
+- `1816793007741387036` | 2024-07-26 19:09:42 GMT+8 | reply | https://x.com/silverfang88/status/1816793007741387036 | @0xWendy99 嘎嘎嘎嘎
+- `1816810536660562292` | 2024-07-26 20:19:21 GMT+8 | original | https://x.com/silverfang88/status/1816810536660562292 | 你们什么时候来抬轿？
+- `1816810632479412716` | 2024-07-26 20:19:44 GMT+8 | reply | https://x.com/silverfang88/status/1816810632479412716 | https://t.co/Ip5yMf5IGg
+- `1816836075374981192` | 2024-07-26 22:00:50 GMT+8 | original | https://x.com/silverfang88/status/1816836075374981192 | 宗教meta  $CFSM $DMD 
+- `1816921383492088073` | 2024-07-27 03:39:49 GMT+8 | quote | https://x.com/silverfang88/status/1816921383492088073 | 收菜收菜 https://t.co/Fpo0wcdpQr https://t.co/Pqg3fMu8VX
+- `1816921527323136491` | 2024-07-27 03:40:23 GMT+8 | reply | https://x.com/silverfang88/status/1816921527323136491 | https://t.co/uN3tHSW4mz
+- `1816984308613022180` | 2024-07-27 07:49:51 GMT+8 | original | https://x.com/silverfang88/status/1816984308613022180 | @LeePima 几乎是AI业绩的唯一排面..
+- `1816984642420961413` | 2024-07-27 07:51:11 GMT+8 | reply | https://x.com/silverfang88/status/1816984642420961413 | @PepeBoost888 meme就是现在，过去和未来
+- `1817050464065589437` | 2024-07-27 12:12:44 GMT+8 | original | https://x.com/silverfang88/status/1817050464065589437 | 中信建投实习生就是一个缩影
+- `1817055942204149821` | 2024-07-27 12:34:30 GMT+8 | original | https://x.com/silverfang88/status/1817055942204149821 | @BTCdayu 👍👍👍
+- `1817056198690042092` | 2024-07-27 12:35:31 GMT+8 | reply | https://x.com/silverfang88/status/1817056198690042092 | @POTUS006 @cryptotya 😂我还需要家里人给我买保时捷？？
+- `1817058627502346319` | 2024-07-27 12:45:10 GMT+8 | reply | https://x.com/silverfang88/status/1817058627502346319 | @Moon1ightSt 大字报又要上天了
+- `1817058703926804563` | 2024-07-27 12:45:28 GMT+8 | reply | https://x.com/silverfang88/status/1817058703926804563 | @bobo10000x 带带我吧 哥
+- `1817058730715873752` | 2024-07-27 12:45:35 GMT+8 | reply | https://x.com/silverfang88/status/1817058730715873752 | @JunXu04535241 今天晚上
+- `1817071854370070689` | 2024-07-27 13:37:44 GMT+8 | original | https://x.com/silverfang88/status/1817071854370070689 | @Gummybear1771 1
+- `1817090810833240449` | 2024-07-27 14:53:03 GMT+8 | original | https://x.com/silverfang88/status/1817090810833240449 | @FanTuanGo 我想要好多好多钱
+- `1817106346652709049` | 2024-07-27 15:54:47 GMT+8 | original | https://x.com/silverfang88/status/1817106346652709049 | 是不是炒土狗 炒合约成瘾了？
+- `1817110077976785315` | 2024-07-27 16:09:37 GMT+8 | quote | https://x.com/silverfang88/status/1817110077976785315 | 卖不完，根本卖不完 https://t.co/z9ZTZVYzRt https://t.co/jLlAodMiKF
+- `1817115466839568782` | 2024-07-27 16:31:02 GMT+8 | original | https://x.com/silverfang88/status/1817115466839568782 | 戒色第一天！！！！！！！
+- `1817115643801481274` | 2024-07-27 16:31:44 GMT+8 | reply | https://x.com/silverfang88/status/1817115643801481274 | @AMAN_TANG_ 你奏凯
+- `1817115865147379904` | 2024-07-27 16:32:37 GMT+8 | original | https://x.com/silverfang88/status/1817115865147379904 | @AMAN_TANG_ 你好
+- `1817116361430106222` | 2024-07-27 16:34:35 GMT+8 | original | https://x.com/silverfang88/status/1817116361430106222 | @cryptotya gg 互相监督
+- `1817118160371298320` | 2024-07-27 16:41:44 GMT+8 | reply | https://x.com/silverfang88/status/1817118160371298320 | @meta4universe 我看不懂
+- `1817118332966842739` | 2024-07-27 16:42:25 GMT+8 | reply | https://x.com/silverfang88/status/1817118332966842739 | @Dincocoin https://t.co/MYoDr7hkcA
+- `1817142127890928073` | 2024-07-27 18:16:58 GMT+8 | original | https://x.com/silverfang88/status/1817142127890928073 | 我去睡会儿
+- `1817148202245587191` | 2024-07-27 18:41:07 GMT+8 | reply | https://x.com/silverfang88/status/1817148202245587191 | @rita88 所以牛英俊道歉了吗？？？？
+- `1817198323926757621` | 2024-07-27 22:00:16 GMT+8 | original | https://x.com/silverfang88/status/1817198323926757621 | https://t.co/KWhAw98Ubh
+- `1817222767785263368` | 2024-07-27 23:37:24 GMT+8 | quote | https://x.com/silverfang88/status/1817222767785263368 | 第二十五期 上海就是浦东 https://t.co/CEkDr8bD2d
+- `1817230128822292918` | 2024-07-28 00:06:39 GMT+8 | reply | https://x.com/silverfang88/status/1817230128822292918 | @fengshoushuoguo 币圈市场不跟着我，我就上华尔街找企业家
+- `1817244229925515610` | 2024-07-28 01:02:41 GMT+8 | quote | https://x.com/silverfang88/status/1817244229925515610 | 收菜 收菜 收菜 
+- `1817258643886325937` | 2024-07-28 01:59:58 GMT+8 | reply | https://x.com/silverfang88/status/1817258643886325937 | 你们开始写研报了？
+- `1817261567110762624` | 2024-07-28 02:11:35 GMT+8 | reply | https://x.com/silverfang88/status/1817261567110762624 | @Aurora_Lashao 一点一点收
+- `1817264685038678432` | 2024-07-28 02:23:58 GMT+8 | original | https://x.com/silverfang88/status/1817264685038678432 | 笑死我了 youtube 第一个nashville大会的直播
+- `1817266828038779385` | 2024-07-28 02:32:29 GMT+8 | original | https://x.com/silverfang88/status/1817266828038779385 | @Insider_Venture mass adoption实现了
+- `1817266907944219103` | 2024-07-28 02:32:48 GMT+8 | reply | https://x.com/silverfang88/status/1817266907944219103 | @edison_near 这要是搞个盗钱包的 真的赢烂了
+- `1817266960838599043` | 2024-07-28 02:33:01 GMT+8 | reply | https://x.com/silverfang88/status/1817266960838599043 | @POTUS006 😂
+- `1817267347733819737` | 2024-07-28 02:34:33 GMT+8 | reply | https://x.com/silverfang88/status/1817267347733819737 | @Aurora_Lashao 99999
+- `1817368639193887203` | 2024-07-28 09:17:03 GMT+8 | original | https://x.com/silverfang88/status/1817368639193887203 | Solana上一定会有下一个狗币的 
+- `1817372751528702081` | 2024-07-28 09:33:23 GMT+8 | reply | https://x.com/silverfang88/status/1817372751528702081 | @FanTuanGo 只有小写 没有大写
+- `1817373457421611057` | 2024-07-28 09:36:12 GMT+8 | reply | https://x.com/silverfang88/status/1817373457421611057 | @mewdevice 小写 ！ 必须小写
+- `1817374661098799370` | 2024-07-28 09:40:59 GMT+8 | original | https://x.com/silverfang88/status/1817374661098799370 | 大写的说话
+- `1817374816761966959` | 2024-07-28 09:41:36 GMT+8 | reply | https://x.com/silverfang88/status/1817374816761966959 | ansem是solana有名的畜生
+- `1817377134312128685` | 2024-07-28 09:50:48 GMT+8 | quote | https://x.com/silverfang88/status/1817377134312128685 | 本周第五次收菜
+- `1817378037844906317` | 2024-07-28 09:54:24 GMT+8 | reply | https://x.com/silverfang88/status/1817378037844906317 | @spacexxo 低调太久了 让人觉得我没实力
+- `1817379084579557674` | 2024-07-28 09:58:33 GMT+8 | reply | https://x.com/silverfang88/status/1817379084579557674 | 收菜！ 买入 — 睡觉/洗澡/吃饭 — 醒了就卖出
+- `1817379347084321241` | 2024-07-28 09:59:36 GMT+8 | reply | https://x.com/silverfang88/status/1817379347084321241 | @rita88 永远不拉群 
+- `1817379690354528427` | 2024-07-28 10:00:58 GMT+8 | reply | https://x.com/silverfang88/status/1817379690354528427 | @Elon2_ 一直抄底 一直爽
+- `1817380695142019231` | 2024-07-28 10:04:57 GMT+8 | reply | https://x.com/silverfang88/status/1817380695142019231 | @spacexxo 那你确实老粉...
+- `1817384549577289736` | 2024-07-28 10:20:16 GMT+8 | reply | https://x.com/silverfang88/status/1817384549577289736 | @kijpranav 没有 永远不会拉群
+- `1817384725037650328` | 2024-07-28 10:20:58 GMT+8 | reply | https://x.com/silverfang88/status/1817384725037650328 | @DONGDONG_1102 盯链
+- `1817386082918367451` | 2024-07-28 10:26:22 GMT+8 | reply | https://x.com/silverfang88/status/1817386082918367451 | @PepeBoost888 亏的我没敢喊....
+- `1817430103653027885` | 2024-07-28 13:21:17 GMT+8 | reply | https://x.com/silverfang88/status/1817430103653027885 | @abyssofgambling 牛，你能开个这样的盘让我赚一点吗😭我嫉妒的在床上滚来滚去睡不着📷 😭
+- `1817430289347403944` | 2024-07-28 13:22:01 GMT+8 | reply | https://x.com/silverfang88/status/1817430289347403944 | @abyssofgambling solana和你道歉了吗
+- `1817430647784235367` | 2024-07-28 13:23:27 GMT+8 | reply | https://x.com/silverfang88/status/1817430647784235367 | @zhizhikai 这是 @PepeBoost888
+- `1817432973685182533` | 2024-07-28 13:32:41 GMT+8 | reply | https://x.com/silverfang88/status/1817432973685182533 | @SleeplessAI_Lab @gomblegames 每天上线花五分钟水一水推特
+- `1817438680706867414` | 2024-07-28 13:55:22 GMT+8 | original | https://x.com/silverfang88/status/1817438680706867414 | 给圈外的朋友科普一下 新的狗狗币 
+- `1817439239543337410` | 2024-07-28 13:57:35 GMT+8 | reply | https://x.com/silverfang88/status/1817439239543337410 | @abyssofgambling 土狗我有三不买
+- `1817439379490582894` | 2024-07-28 13:58:09 GMT+8 | reply | https://x.com/silverfang88/status/1817439379490582894 | https://t.co/IUujSuOLnO
+- `1817439493911146849` | 2024-07-28 13:58:36 GMT+8 | repost | https://x.com/silverfang88/status/1817439493911146849 | RT @silverfang88: @abyssofgambling 土狗我有三不买
+- `1817439797897523614` | 2024-07-28 13:59:48 GMT+8 | reply | https://x.com/silverfang88/status/1817439797897523614 | @Moon1ightSt 三兔傍地走，安能辨我是雄雌？
+- `1817440090026655751` | 2024-07-28 14:00:58 GMT+8 | reply | https://x.com/silverfang88/status/1817440090026655751 | @mewdevice 土狗我有三不买 
+- `1817442612598448376` | 2024-07-28 14:10:59 GMT+8 | reply | https://x.com/silverfang88/status/1817442612598448376 | @99HTX_ Hhhh
+- `1817451493722587176` | 2024-07-28 14:46:17 GMT+8 | reply | https://x.com/silverfang88/status/1817451493722587176 | @PepeBoost888 舒服了
+- `1817456143448293874` | 2024-07-28 15:04:45 GMT+8 | reply | https://x.com/silverfang88/status/1817456143448293874 | @Ryanqyz_hodl 诺 另一个台湾巴子不是做了吗
+- `1817479734546051324` | 2024-07-28 16:38:30 GMT+8 | reply | https://x.com/silverfang88/status/1817479734546051324 | @linsajiao 我选C，项目方是傻逼
+- `1817522544020246583` | 2024-07-28 19:28:37 GMT+8 | repost | https://x.com/silverfang88/status/1817522544020246583 | RT @coffee2hai: https://t.co/pxOMrZCkBP
+- `1817694804295233771` | 2024-07-29 06:53:07 GMT+8 | reply | https://x.com/silverfang88/status/1817694804295233771 | @Yihang69 蝴蝶刀
+- `1817694835379483094` | 2024-07-29 06:53:14 GMT+8 | reply | https://x.com/silverfang88/status/1817694835379483094 | @GnNightcrawler 吊
+- `1817779593278808415` | 2024-07-29 12:30:02 GMT+8 | reply | https://x.com/silverfang88/status/1817779593278808415 | @Yihang69 csob
+- `1817803665765191992` | 2024-07-29 14:05:41 GMT+8 | original | https://x.com/silverfang88/status/1817803665765191992 | 老师们
+- `1817813008220844465` | 2024-07-29 14:42:49 GMT+8 | reply | https://x.com/silverfang88/status/1817813008220844465 | @0xsexybanana 我是我
+- `1817821731664335166` | 2024-07-29 15:17:28 GMT+8 | reply | https://x.com/silverfang88/status/1817821731664335166 | @jensen782977 什么老师 让我也关注一下
 - `1817823131689447531` | 2024-07-29 15:23:02 GMT+8 | reply | https://x.com/silverfang88/status/1817823131689447531 | @xclisgood 去没去泡泡浴
 - `1817823170897813695` | 2024-07-29 15:23:12 GMT+8 | reply | https://x.com/silverfang88/status/1817823170897813695 | @0x0xFeng 其实这俩都差不多德行
 - `1817823375017775529` | 2024-07-29 15:24:00 GMT+8 | reply | https://x.com/silverfang88/status/1817823375017775529 | @abyssofgambling 你为什么不能再努力一些呢老师？为什么凌晨的时候你不努力盯盘？
@@ -6272,6 +7921,480 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1818644932606771493` | 2024-07-31 21:48:35 GMT+8 | original | https://x.com/silverfang88/status/1818644932606771493 | 刚听space VC的人说meme没有价值？
 - `1818645027003715716` | 2024-07-31 21:48:57 GMT+8 | reply | https://x.com/silverfang88/status/1818645027003715716 | @Aurora_Lashao 不到5M
 - `1818645750177268211` | 2024-07-31 21:51:50 GMT+8 | reply | https://x.com/silverfang88/status/1818645750177268211 | @MasterLong666 不到10m
+- `1820022344334626920` | 2024-08-04 17:01:55 GMT+8 | original | https://x.com/silverfang88/status/1820022344334626920 | @liangfenxiaodao 笑死 华尔街给你 我上国会山
+- `1820022782278730163` | 2024-08-04 17:03:40 GMT+8 | original | https://x.com/silverfang88/status/1820022782278730163 | @covachong @chochou33 你好
+- `1820061378717024367` | 2024-08-04 19:37:02 GMT+8 | original | https://x.com/silverfang88/status/1820061378717024367 | @xclisgood 我是准备富得流油的
+- `1820093324276953433` | 2024-08-04 21:43:58 GMT+8 | original | https://x.com/silverfang88/status/1820093324276953433 | @AMAN_TANG_ 我都一个月没咋出门了
+- `1820094484870553818` | 2024-08-04 21:48:35 GMT+8 | original | https://x.com/silverfang88/status/1820094484870553818 | 你们可真是一群畜牲
+- `1820094569725477315` | 2024-08-04 21:48:55 GMT+8 | original | https://x.com/silverfang88/status/1820094569725477315 | @AMAN_TANG_ 我是摄影师 出门拍风景的
+- `1820095335215038824` | 2024-08-04 21:51:58 GMT+8 | original | https://x.com/silverfang88/status/1820095335215038824 | @AMAN_TANG_ https://t.co/mMIrlSYxIA
+- `1820101722997469691` | 2024-08-04 22:17:21 GMT+8 | original | https://x.com/silverfang88/status/1820101722997469691 | @FanTuanGo 大写群友牛妹爱黑鬼艺术家的sol
+- `1820102774832415155` | 2024-08-04 22:21:32 GMT+8 | original | https://x.com/silverfang88/status/1820102774832415155 | @Nyenchenpepe @vvvvvvvvvok 其实我也是这个感受 重要遇到同道中人了
+- `1820104511890866508` | 2024-08-04 22:28:26 GMT+8 | original | https://x.com/silverfang88/status/1820104511890866508 | @Dincocoin 休息了一整天
+- `1820106469137654055` | 2024-08-04 22:36:12 GMT+8 | original | https://x.com/silverfang88/status/1820106469137654055 | https://t.co/jZwe1NJP4w
+- `1820130254025113617` | 2024-08-05 00:10:43 GMT+8 | original | https://x.com/silverfang88/status/1820130254025113617 | @haishengbai 哈哈哈哈
+- `1820130277068517610` | 2024-08-05 00:10:49 GMT+8 | original | https://x.com/silverfang88/status/1820130277068517610 | @dapeng56352747 我看看
+- `1820130770733953261` | 2024-08-05 00:12:46 GMT+8 | original | https://x.com/silverfang88/status/1820130770733953261 | @mewdevice 毁灭吧
+- `1820130931350421772` | 2024-08-05 00:13:25 GMT+8 | original | https://x.com/silverfang88/status/1820130931350421772 | @fanzi61282436 努力 坚持
+- `1820131233923465414` | 2024-08-05 00:14:37 GMT+8 | original | https://x.com/silverfang88/status/1820131233923465414 | @JunXu04535241 GG
+- `1820135589670519008` | 2024-08-05 00:31:55 GMT+8 | original | https://x.com/silverfang88/status/1820135589670519008 | @kris05121550814 不玩
+- `1820135612126539897` | 2024-08-05 00:32:01 GMT+8 | original | https://x.com/silverfang88/status/1820135612126539897 | @LetwUnco7116 谢谢
+- `1820138508092330059` | 2024-08-05 00:43:31 GMT+8 | original | https://x.com/silverfang88/status/1820138508092330059 | @AMAN_TANG_ 你好 想看看黑丝
+- `1820138711998464151` | 2024-08-05 00:44:20 GMT+8 | original | https://x.com/silverfang88/status/1820138711998464151 | @chigua810 哈哈哈哈哈哈
+- `1820139174676287834` | 2024-08-05 00:46:10 GMT+8 | original | https://x.com/silverfang88/status/1820139174676287834 | @jordanwangbtc 吊
+- `1820139831705628706` | 2024-08-05 00:48:47 GMT+8 | original | https://x.com/silverfang88/status/1820139831705628706 | @roger9949 你好
+- `1820145367867932681` | 2024-08-05 01:10:47 GMT+8 | original | https://x.com/silverfang88/status/1820145367867932681 | @Helaxiao0 哈哈哈 谢谢老哥的祝福 您的牛市也在路上了
+- `1820156143278129197` | 2024-08-05 01:53:36 GMT+8 | quote | https://x.com/silverfang88/status/1820156143278129197 | 第二十八期 web3劝退和病情交流
+- `1820199991417413877` | 2024-08-05 04:47:50 GMT+8 | original | https://x.com/silverfang88/status/1820199991417413877 | @Joensmoon 晚安 玛卡巴卡
+- `1820202693673226274` | 2024-08-05 04:58:34 GMT+8 | reply | https://x.com/silverfang88/status/1820202693673226274 | @Joensmoon 晚安 邓波利多
+- `1820291502200729910` | 2024-08-05 10:51:28 GMT+8 | original | https://x.com/silverfang88/status/1820291502200729910 | 这matr1x也是几年出一个的阴间项目
+- `1820291674158866721` | 2024-08-05 10:52:09 GMT+8 | original | https://x.com/silverfang88/status/1820291674158866721 | 这matr1x也是几年出一个的阴间项目
+- `1820295745481654682` | 2024-08-05 11:08:19 GMT+8 | original | https://x.com/silverfang88/status/1820295745481654682 | usde 20%的利率
+- `1820296363155882374` | 2024-08-05 11:10:47 GMT+8 | original | https://x.com/silverfang88/status/1820296363155882374 | @meta4universe 骗哥们可以 别把自己骗进去了
+- `1820296418856202704` | 2024-08-05 11:11:00 GMT+8 | reply | https://x.com/silverfang88/status/1820296418856202704 | @nihaovand 无所谓了  与我无关
+- `1820296492998955272` | 2024-08-05 11:11:18 GMT+8 | reply | https://x.com/silverfang88/status/1820296492998955272 | @0xLaughing 远离了喧嚣 真好
+- `1820296942632530391` | 2024-08-05 11:13:05 GMT+8 | reply | https://x.com/silverfang88/status/1820296942632530391 | @roger9949 女的啊
+- `1820297406098919454` | 2024-08-05 11:14:55 GMT+8 | reply | https://x.com/silverfang88/status/1820297406098919454 | @JimsYoung_ 起飞了
+- `1820300850754940948` | 2024-08-05 11:28:37 GMT+8 | quote | https://x.com/silverfang88/status/1820300850754940948 | 谁会是下一个呢？
+- `1820301079298404363` | 2024-08-05 11:29:31 GMT+8 | original | https://x.com/silverfang88/status/1820301079298404363 | @sinfullbloom 换大号来说话 傻逼运营
+- `1820302505294639381` | 2024-08-05 11:35:11 GMT+8 | reply | https://x.com/silverfang88/status/1820302505294639381 | @0xcryptowizard 不知道  人家美股基本盘应该还在吧
+- `1820303523877118392` | 2024-08-05 11:39:14 GMT+8 | original | https://x.com/silverfang88/status/1820303523877118392 | 刚睡醒，想了想，纠正一下
+- `1820307759767646347` | 2024-08-05 11:56:04 GMT+8 | original | https://x.com/silverfang88/status/1820307759767646347 | 很好 
+- `1820309598437302773` | 2024-08-05 12:03:22 GMT+8 | reply | https://x.com/silverfang88/status/1820309598437302773 | @JanKatrice 反正我跑得快 我赚钱了
+- `1820310105084092831` | 2024-08-05 12:05:23 GMT+8 | original | https://x.com/silverfang88/status/1820310105084092831 | @Ivana34604818 我好像也不需要蹭流量吧
+- `1820310260415967693` | 2024-08-05 12:06:00 GMT+8 | reply | https://x.com/silverfang88/status/1820310260415967693 | @edison_near 很舒服 但不知道哪里舒服
+- `1820310320608334066` | 2024-08-05 12:06:14 GMT+8 | reply | https://x.com/silverfang88/status/1820310320608334066 | @roger9949 慢慢买了 恐慌中贪婪
+- `1820310439193919719` | 2024-08-05 12:06:43 GMT+8 | reply | https://x.com/silverfang88/status/1820310439193919719 | @LNPANDY 没肯定，别信这项目
+- `1820310662599348586` | 2024-08-05 12:07:36 GMT+8 | original | https://x.com/silverfang88/status/1820310662599348586 | @Marinda08783376 是这项目择时刚好赶上大盘跌
+- `1820312959270174986` | 2024-08-05 12:16:43 GMT+8 | original | https://x.com/silverfang88/status/1820312959270174986 | @JanKatrice 没有做好被射杀的觉悟
+- `1820313609198608762` | 2024-08-05 12:19:18 GMT+8 | original | https://x.com/silverfang88/status/1820313609198608762 | @chainblackbox 小太监问老太监为什么比他有钱
+- `1820313859749564811` | 2024-08-05 12:20:18 GMT+8 | original | https://x.com/silverfang88/status/1820313859749564811 | @Ninja76224909 @JanKatrice 那不就是你把他们割了
+- `1820314492544102510` | 2024-08-05 12:22:49 GMT+8 | original | https://x.com/silverfang88/status/1820314492544102510 | @JanKatrice @Ninja76224909 你割了别人就割了呗
+- `1820315110214103381` | 2024-08-05 12:25:16 GMT+8 | original | https://x.com/silverfang88/status/1820315110214103381 | @JanKatrice @Ninja76224909 那总比你割了别人强吧
+- `1820316039533502709` | 2024-08-05 12:28:58 GMT+8 | reply | https://x.com/silverfang88/status/1820316039533502709 | @JanKatrice @Ninja76224909 你几百个砸死了我们啊
+- `1820316311974551940` | 2024-08-05 12:30:03 GMT+8 | reply | https://x.com/silverfang88/status/1820316311974551940 | @JanKatrice @sinfullbloom 没必要人身攻击
+- `1820318363463094327` | 2024-08-05 12:38:12 GMT+8 | reply | https://x.com/silverfang88/status/1820318363463094327 | @insaaaaaJ 这种其实无伤大雅 都得做的
+- `1820322586225512615` | 2024-08-05 12:54:59 GMT+8 | reply | https://x.com/silverfang88/status/1820322586225512615 | @bitcoinmozi 这个指标挺有意思的
+- `1820322695642226776` | 2024-08-05 12:55:25 GMT+8 | reply | https://x.com/silverfang88/status/1820322695642226776 | @kaynznet 应该希望他们看不懂 
+- `1820323465175458289` | 2024-08-05 12:58:28 GMT+8 | original | https://x.com/silverfang88/status/1820323465175458289 | 事到如今 https://t.co/gxZyamEgJM
+- `1820325840527216926` | 2024-08-05 13:07:55 GMT+8 | reply | https://x.com/silverfang88/status/1820325840527216926 | @abyssofgambling 汪汪汪
+- `1820336129247195376` | 2024-08-05 13:48:48 GMT+8 | reply | https://x.com/silverfang88/status/1820336129247195376 | @0xcherry ？
+- `1820337745450954805` | 2024-08-05 13:55:13 GMT+8 | reply | https://x.com/silverfang88/status/1820337745450954805 | @LeotheHorseman 关灯！
+- `1820338457622839736` | 2024-08-05 13:58:03 GMT+8 | reply | https://x.com/silverfang88/status/1820338457622839736 | @alpacacheeze 我就是全宇宙最厉害的区块链猞狸，我一定能和雪豹一起找到丁真
+- `1820339219849523332` | 2024-08-05 14:01:04 GMT+8 | reply | https://x.com/silverfang88/status/1820339219849523332 | @zxw018018 可惜我不要脸 
+- `1820340485594009694` | 2024-08-05 14:06:06 GMT+8 | reply | https://x.com/silverfang88/status/1820340485594009694 | @DriveNEarn 你连我都不认识
+- `1820340547107868905` | 2024-08-05 14:06:21 GMT+8 | reply | https://x.com/silverfang88/status/1820340547107868905 | @0xcherry 你好 看看黑丝
+- `1820351187058635067` | 2024-08-05 14:48:38 GMT+8 | reply | https://x.com/silverfang88/status/1820351187058635067 | @cryptotya hhhh 我是劝退 不是让你开空
+- `1820352640645030050` | 2024-08-05 14:54:24 GMT+8 | reply | https://x.com/silverfang88/status/1820352640645030050 | @mewdevice 什么瓶子
+- `1820353415467110795` | 2024-08-05 14:57:29 GMT+8 | reply | https://x.com/silverfang88/status/1820353415467110795 | @mewdevice 咖位太大 等我在混几年可能就能请她来了
+- `1820354796626350469` | 2024-08-05 15:02:58 GMT+8 | reply | https://x.com/silverfang88/status/1820354796626350469 | @Aurora_Lashao 我强个锤子 亏烂了
+- `1820354862325862496` | 2024-08-05 15:03:14 GMT+8 | reply | https://x.com/silverfang88/status/1820354862325862496 | @0xcryptowizard 真实
+- `1820355090676420764` | 2024-08-05 15:04:08 GMT+8 | reply | https://x.com/silverfang88/status/1820355090676420764 | @Aurora_Lashao 嘻嘻 不好意思 我做到了
+- `1820356234861547946` | 2024-08-05 15:08:41 GMT+8 | reply | https://x.com/silverfang88/status/1820356234861547946 | @Aurora_Lashao 没事 那我还有18cm 够用了
+- `1820357103187370066` | 2024-08-05 15:12:08 GMT+8 | reply | https://x.com/silverfang88/status/1820357103187370066 | @Aurora_Lashao 废话 出门我都盘腰上
+- `1820359165400781187` | 2024-08-05 15:20:20 GMT+8 | reply | https://x.com/silverfang88/status/1820359165400781187 | @cryptoxiao https://t.co/G08itb0Kgc
+- `1820360567413944583` | 2024-08-05 15:25:54 GMT+8 | reply | https://x.com/silverfang88/status/1820360567413944583 | @Mystic_HYN 没说一无是处
+- `1820362499302035615` | 2024-08-05 15:33:35 GMT+8 | reply | https://x.com/silverfang88/status/1820362499302035615 | @DriveNEarn 我本来就啥也不是 
+- `1820365935045230610` | 2024-08-05 15:47:14 GMT+8 | original | https://x.com/silverfang88/status/1820365935045230610 | 收留破产伪娘 破产少女 https://t.co/fbWdMhSW8P
+- `1820367827808714880` | 2024-08-05 15:54:45 GMT+8 | reply | https://x.com/silverfang88/status/1820367827808714880 | @edison_near ？ 这么牛逼
+- `1820368673086812516` | 2024-08-05 15:58:07 GMT+8 | reply | https://x.com/silverfang88/status/1820368673086812516 | @edison_near 哥 认识认识 带我见识见识这大好河山
+- `1820370019366096899` | 2024-08-05 16:03:28 GMT+8 | reply | https://x.com/silverfang88/status/1820370019366096899 | @0x_Glaucus 不就是你吗
+- `1820371012447293919` | 2024-08-05 16:07:24 GMT+8 | reply | https://x.com/silverfang88/status/1820371012447293919 | @JYdmnLFG 你好
+- `1820378635502522485` | 2024-08-05 16:37:42 GMT+8 | reply | https://x.com/silverfang88/status/1820378635502522485 | @WebXBryan 让子弹再飞一会儿
+- `1820387292122427600` | 2024-08-05 17:12:06 GMT+8 | repost | https://x.com/silverfang88/status/1820387292122427600 | RT @0xcryptowizard: 一位高人，弟子遍布全国金融系统，里面很多金牌分析师和交易员。
+- `1820388369517437291` | 2024-08-05 17:16:23 GMT+8 | reply | https://x.com/silverfang88/status/1820388369517437291 | @mmm123321 客观评价就是18年-19年产物
+- `1820390005195313580` | 2024-08-05 17:22:53 GMT+8 | original | https://x.com/silverfang88/status/1820390005195313580 | 呃，讲道理
+- `1820390613323268524` | 2024-08-05 17:25:18 GMT+8 | reply | https://x.com/silverfang88/status/1820390613323268524 | @SuRen_lab 我看看 
+- `1820412326928945196` | 2024-08-05 18:51:35 GMT+8 | reply | https://x.com/silverfang88/status/1820412326928945196 | @0xBai_ 不开 怕教给你们太多知识了 
+- `1820412405270143113` | 2024-08-05 18:51:53 GMT+8 | reply | https://x.com/silverfang88/status/1820412405270143113 | @cryptotya 不聊，让那些孝子们亏麻了算了
+- `1820412984864264311` | 2024-08-05 18:54:11 GMT+8 | reply | https://x.com/silverfang88/status/1820412984864264311 | @lin_yiliu 不说了 下次悄悄告诉你
+- `1820414745658167723` | 2024-08-05 19:01:11 GMT+8 | original | https://x.com/silverfang88/status/1820414745658167723 | 恭喜Matr1x，OKX国产区又多了一个优质新项目
+- `1820415023069483272` | 2024-08-05 19:02:17 GMT+8 | reply | https://x.com/silverfang88/status/1820415023069483272 | @roger9949 血液传播
+- `1820416653202518102` | 2024-08-05 19:08:46 GMT+8 | reply | https://x.com/silverfang88/status/1820416653202518102 | @cc30116863 @star_okx 其实和徐总没啥关系 
+- `1820416689273524435` | 2024-08-05 19:08:55 GMT+8 | reply | https://x.com/silverfang88/status/1820416689273524435 | @lumao321 不重要吧
+- `1820416737549996338` | 2024-08-05 19:09:06 GMT+8 | reply | https://x.com/silverfang88/status/1820416737549996338 | @JunXu04535241 确实，都是明星国人，天才创业者
+- `1820417152081424842` | 2024-08-05 19:10:45 GMT+8 | reply | https://x.com/silverfang88/status/1820417152081424842 | @lumao321 我心中万千话语 可惜只能和你说 《北海 要多想》
+- `1820418170869477518` | 2024-08-05 19:14:48 GMT+8 | reply | https://x.com/silverfang88/status/1820418170869477518 | @viedoogo 我买了仨，我可真是个败家子儿
+- `1820419622161584315` | 2024-08-05 19:20:34 GMT+8 | reply | https://x.com/silverfang88/status/1820419622161584315 | @viedoogo 哈哈哈哈
+- `1820420220332175833` | 2024-08-05 19:22:56 GMT+8 | reply | https://x.com/silverfang88/status/1820420220332175833 | @chubby44291319 he tui
+- `1820422451785871408` | 2024-08-05 19:31:48 GMT+8 | reply | https://x.com/silverfang88/status/1820422451785871408 | @Return0x1 挺好的 团结 
+- `1820423562462654764` | 2024-08-05 19:36:13 GMT+8 | reply | https://x.com/silverfang88/status/1820423562462654764 | @minimisue2022 老师 你一定能赢
+- `1820424209228533963` | 2024-08-05 19:38:47 GMT+8 | reply | https://x.com/silverfang88/status/1820424209228533963 | @bigbottle44 大瓶子捡瓶子赚瓶子钱来梭哈大瓶子的仓位赚到了更多瓶子的钱以防止大瓶子未来还要捡瓶子赚瓶子的钱
+- `1820426416271262060` | 2024-08-05 19:47:34 GMT+8 | reply | https://x.com/silverfang88/status/1820426416271262060 | @xueqiu88 球总 怎么办 怎么办
+- `1820427060969435422` | 2024-08-05 19:50:07 GMT+8 | reply | https://x.com/silverfang88/status/1820427060969435422 | @Crypto_Tkt @DragonKillerBTC 老师 怎么哪里都是你
+- `1820438527139627027` | 2024-08-05 20:35:41 GMT+8 | reply | https://x.com/silverfang88/status/1820438527139627027 | @minimisue2022 @Matr1x_io @Matr1xOfficial 相信 爱与和平 梭哈 $max ！
+- `1820441412258709843` | 2024-08-05 20:47:09 GMT+8 | reply | https://x.com/silverfang88/status/1820441412258709843 | @abyssofgambling 原味的吗？看看自拍脸照
+- `1820446913960743335` | 2024-08-05 21:09:01 GMT+8 | original | https://x.com/silverfang88/status/1820446913960743335 | 一个都别想跑 https://t.co/BC2f7NdQrg
+- `1820450791431262549` | 2024-08-05 21:24:25 GMT+8 | original | https://x.com/silverfang88/status/1820450791431262549 | again
+- `1820460965466374361` | 2024-08-05 22:04:51 GMT+8 | quote | https://x.com/silverfang88/status/1820460965466374361 | 你们都害怕了
+- `1820467885279723993` | 2024-08-05 22:32:21 GMT+8 | reply | https://x.com/silverfang88/status/1820467885279723993 | @mewdevice 我纸手 只短线游龙
+- `1820516741539336334` | 2024-08-06 01:46:29 GMT+8 | reply | https://x.com/silverfang88/status/1820516741539336334 | @zxw018018 👂
+- `1820520805845086210` | 2024-08-06 02:02:38 GMT+8 | reply | https://x.com/silverfang88/status/1820520805845086210 | @YristFigo 看不到了吧 都套烂了
+- `1820526800717611396` | 2024-08-06 02:26:27 GMT+8 | reply | https://x.com/silverfang88/status/1820526800717611396 | @bigbottle44 我不卡
+- `1820527153051811966` | 2024-08-06 02:27:51 GMT+8 | reply | https://x.com/silverfang88/status/1820527153051811966 | @la_nieve1 奶白的雪子
+- `1820533054626205701` | 2024-08-06 02:51:18 GMT+8 | reply | https://x.com/silverfang88/status/1820533054626205701 | @lin_yiliu 我已经不想看懂了
+- `1820646589574070565` | 2024-08-06 10:22:27 GMT+8 | reply | https://x.com/silverfang88/status/1820646589574070565 | @TutuCrypto 答：别看到，不然我赚什么
+- `1820738138752377117` | 2024-08-06 16:26:14 GMT+8 | reply | https://x.com/silverfang88/status/1820738138752377117 | @calilyliu @ZeusNetworkHQ 你们居然还敢和诈骗项目方合影😂😂
+- `1820738758339121572` | 2024-08-06 16:28:42 GMT+8 | reply | https://x.com/silverfang88/status/1820738758339121572 | @Dincocoin 笑死
+- `1820757222638432400` | 2024-08-06 17:42:04 GMT+8 | reply | https://x.com/silverfang88/status/1820757222638432400 | @edison_near 好
+- `1820760749246972397` | 2024-08-06 17:56:05 GMT+8 | reply | https://x.com/silverfang88/status/1820760749246972397 | @edison_near @SLERFfan @Slerfsol 哈哈哈哈哈  叙事结束
+- `1820768749579821126` | 2024-08-06 18:27:52 GMT+8 | quote | https://x.com/silverfang88/status/1820768749579821126 | 这也是我前几个space说的而感到绝望的点
+- `1820770249991500267` | 2024-08-06 18:33:50 GMT+8 | reply | https://x.com/silverfang88/status/1820770249991500267 | @cutepanda 我现在不喊单
+- `1820771951599558775` | 2024-08-06 18:40:36 GMT+8 | reply | https://x.com/silverfang88/status/1820771951599558775 | @LongzuAlpha 老哥 上一轮也是一样的 讨论的东西其实也差不多
+- `1820772116855197779` | 2024-08-06 18:41:15 GMT+8 | reply | https://x.com/silverfang88/status/1820772116855197779 | @CryptoNezha 有一小批人确实是的  
+- `1820772343599313159` | 2024-08-06 18:42:09 GMT+8 | reply | https://x.com/silverfang88/status/1820772343599313159 | @Dincocoin 为什么我现在能一眼看出来日本和韩国人的分别
+- `1820775545371517199` | 2024-08-06 18:54:53 GMT+8 | original | https://x.com/silverfang88/status/1820775545371517199 | 以前还没这个体会
+- `1820776929764442288` | 2024-08-06 19:00:23 GMT+8 | reply | https://x.com/silverfang88/status/1820776929764442288 | 其实我也就是个自言自语的小丑而已
+- `1820778326622863487` | 2024-08-06 19:05:56 GMT+8 | original | https://x.com/silverfang88/status/1820778326622863487 | 今天最抽象的两条推
+- `1820778653250158827` | 2024-08-06 19:07:14 GMT+8 | original | https://x.com/silverfang88/status/1820778653250158827 | @cryptotya 真亦假时？
+- `1820779501225140483` | 2024-08-06 19:10:36 GMT+8 | original | https://x.com/silverfang88/status/1820779501225140483 | @thecryptoskanda 我觉得这样才符合常理
+- `1820779574315122855` | 2024-08-06 19:10:53 GMT+8 | original | https://x.com/silverfang88/status/1820779574315122855 | @fengshoushuoguo 哈哈哈 攻击的好 赶紧让他去spaceX上火星去吧
+- `1820784232748200318` | 2024-08-06 19:29:24 GMT+8 | original | https://x.com/silverfang88/status/1820784232748200318 | @douzhengwu 一针见血
+- `1820794948519702662` | 2024-08-06 20:11:59 GMT+8 | original | https://x.com/silverfang88/status/1820794948519702662 | @m____wip 你好
+- `1820795708670165278` | 2024-08-06 20:15:00 GMT+8 | original | https://x.com/silverfang88/status/1820795708670165278 | @lin_yiliu 命中馈赠，暗中价格
+- `1820797742915985511` | 2024-08-06 20:23:05 GMT+8 | reply | https://x.com/silverfang88/status/1820797742915985511 | @5Vbyj 你好
+- `1820797780664750262` | 2024-08-06 20:23:14 GMT+8 | original | https://x.com/silverfang88/status/1820797780664750262 | @krmhvt_ 你好
+- `1820798206374003119` | 2024-08-06 20:24:55 GMT+8 | original | https://x.com/silverfang88/status/1820798206374003119 | @sou_ueno2 你好
+- `1820800073493561478` | 2024-08-06 20:32:21 GMT+8 | original | https://x.com/silverfang88/status/1820800073493561478 | @heyibinance 收到
+- `1820801659158540352` | 2024-08-06 20:38:39 GMT+8 | original | https://x.com/silverfang88/status/1820801659158540352 | @Mystic_HYN 1
+- `1820801722765193378` | 2024-08-06 20:38:54 GMT+8 | original | https://x.com/silverfang88/status/1820801722765193378 | @fortunateStar66 我也想知道
+- `1820810136123793529` | 2024-08-06 21:12:20 GMT+8 | reply | https://x.com/silverfang88/status/1820810136123793529 | @yeepink21 你好
+- `1820813371031126284` | 2024-08-06 21:25:11 GMT+8 | original | https://x.com/silverfang88/status/1820813371031126284 | @lifacai28519 亏多了 或者 为了亏钱做准备
+- `1820813569832710241` | 2024-08-06 21:25:58 GMT+8 | original | https://x.com/silverfang88/status/1820813569832710241 | @LonersLiu @0xKillTheWolf only fans?
+- `1820813700615348449` | 2024-08-06 21:26:29 GMT+8 | original | https://x.com/silverfang88/status/1820813700615348449 | @Mystic_HYN 本质上是三个时代的对抗
+- `1820813787018011067` | 2024-08-06 21:26:50 GMT+8 | original | https://x.com/silverfang88/status/1820813787018011067 | @zhang_bj_ 认同的不能再认同
+- `1820814603971952707` | 2024-08-06 21:30:05 GMT+8 | original | https://x.com/silverfang88/status/1820814603971952707 | 我看了很多段永平的东西
+- `1820817063121678513` | 2024-08-06 21:39:51 GMT+8 | original | https://x.com/silverfang88/status/1820817063121678513 | @Dorothy_defi 看来是媒体误读了 
+- `1820817141060210708` | 2024-08-06 21:40:10 GMT+8 | original | https://x.com/silverfang88/status/1820817141060210708 | @zxw018018 @LonersLiu @0xKillTheWolf 区块链又查不到
+- `1820817888564912178` | 2024-08-06 21:43:08 GMT+8 | original | https://x.com/silverfang88/status/1820817888564912178 | 时间可能会变
+- `1820818317482828040` | 2024-08-06 21:44:50 GMT+8 | original | https://x.com/silverfang88/status/1820818317482828040 | @lifacai28519 我再看看
+- `1820821985729114255` | 2024-08-06 21:59:25 GMT+8 | original | https://x.com/silverfang88/status/1820821985729114255 | @luoshiqianqiu ok
+- `1820822062392569892` | 2024-08-06 21:59:43 GMT+8 | reply | https://x.com/silverfang88/status/1820822062392569892 | @rr_iv_think 好
+- `1820822098547228805` | 2024-08-06 21:59:52 GMT+8 | original | https://x.com/silverfang88/status/1820822098547228805 | @Wzh66667 哈哈哈哈 可以
+- `1820835346617180485` | 2024-08-06 22:52:30 GMT+8 | original | https://x.com/silverfang88/status/1820835346617180485 | @jackyyyso 🤪🤪
+- `1820909796561973359` | 2024-08-07 03:48:21 GMT+8 | reply | https://x.com/silverfang88/status/1820909796561973359 | @jordanwangbtc 😂用区块链的话说 
+- `1820992026843959361` | 2024-08-07 09:15:06 GMT+8 | quote | https://x.com/silverfang88/status/1820992026843959361 | 我们就是个大赌场
+- `1820992340254715929` | 2024-08-07 09:16:20 GMT+8 | reply | https://x.com/silverfang88/status/1820992340254715929 | 酗酒的父亲 好赌的妈
+- `1821064564789702768` | 2024-08-07 14:03:20 GMT+8 | original | https://x.com/silverfang88/status/1821064564789702768 | @thecryptoskanda 相信
+- `1821068554503905735` | 2024-08-07 14:19:11 GMT+8 | original | https://x.com/silverfang88/status/1821068554503905735 | 突然想起来dota自走棋刚出的时候
+- `1821072516565053763` | 2024-08-07 14:34:56 GMT+8 | reply | https://x.com/silverfang88/status/1821072516565053763 | @SallyMasx 她爱看
+- `1821072535183642898` | 2024-08-07 14:35:00 GMT+8 | original | https://x.com/silverfang88/status/1821072535183642898 | @zkgwgxSbRs88418 好的
+- `1821072585213329521` | 2024-08-07 14:35:12 GMT+8 | original | https://x.com/silverfang88/status/1821072585213329521 | @Zixi41620514 唱出来了
+- `1821095722684416068` | 2024-08-07 16:07:09 GMT+8 | original | https://x.com/silverfang88/status/1821095722684416068 | 谢谢matr1x送的问界m9
+- `1821096040306458935` | 2024-08-07 16:08:24 GMT+8 | original | https://x.com/silverfang88/status/1821096040306458935 | 我直接出金 给爸妈换个车
+- `1821098750112092488` | 2024-08-07 16:19:11 GMT+8 | original | https://x.com/silverfang88/status/1821098750112092488 | 提完币了，出金，刚真怕被封了
+- `1821099295807799522` | 2024-08-07 16:21:21 GMT+8 | original | https://x.com/silverfang88/status/1821099295807799522 | @0xBai_ 等他们抄底 拉盘
+- `1821099455325655223` | 2024-08-07 16:21:59 GMT+8 | original | https://x.com/silverfang88/status/1821099455325655223 | @bigbottle44 还是您赚的多！
+- `1821099919702147490` | 2024-08-07 16:23:49 GMT+8 | reply | https://x.com/silverfang88/status/1821099919702147490 | @Ryanqyz_hodl 专业web3劝退师 fud圣体
+- `1821100052409991258` | 2024-08-07 16:24:21 GMT+8 | reply | https://x.com/silverfang88/status/1821100052409991258 | @jscui1 不存在的 机构都亏麻了现在
+- `1821100083846295573` | 2024-08-07 16:24:29 GMT+8 | original | https://x.com/silverfang88/status/1821100083846295573 | @cryptocharming 我垃圾 啥也不是
+- `1821100143728312394` | 2024-08-07 16:24:43 GMT+8 | original | https://x.com/silverfang88/status/1821100143728312394 | @kijpranav 那不都写着的吗 哥
+- `1821100270517981416` | 2024-08-07 16:25:13 GMT+8 | original | https://x.com/silverfang88/status/1821100270517981416 | @0xBai_ @bigbottle44 不是 是这个项目本身就没量 这能不狙击吗
+- `1821101190098174095` | 2024-08-07 16:28:52 GMT+8 | original | https://x.com/silverfang88/status/1821101190098174095 | @lin_btc 每个人都在自己的信息壁垒里不能自拔
+- `1821101707373264914` | 2024-08-07 16:30:56 GMT+8 | reply | https://x.com/silverfang88/status/1821101707373264914 | @TutuCrypto 🤪
+- `1821102816582148483` | 2024-08-07 16:35:20 GMT+8 | original | https://x.com/silverfang88/status/1821102816582148483 | @cryptotya 没啥 赚钱就行
+- `1821104056988786824` | 2024-08-07 16:40:16 GMT+8 | quote | https://x.com/silverfang88/status/1821104056988786824 | https://t.co/9cAfAXRazi https://t.co/EJz4cwfgkt
+- `1821104503325590001` | 2024-08-07 16:42:02 GMT+8 | original | https://x.com/silverfang88/status/1821104503325590001 | @hotsaucehong @jscui1 有的2-5亿美金
+- `1821104523957420115` | 2024-08-07 16:42:07 GMT+8 | reply | https://x.com/silverfang88/status/1821104523957420115 | @zkgwgxSbRs88418 嘻嘻
+- `1821105108165259362` | 2024-08-07 16:44:26 GMT+8 | reply | https://x.com/silverfang88/status/1821105108165259362 | @Wzh66667 你是真的骚
+- `1821106309619474443` | 2024-08-07 16:49:13 GMT+8 | reply | https://x.com/silverfang88/status/1821106309619474443 | @jordanwangbtc 鞭尸一下 https://t.co/meKt6LhzwS
+- `1821106548212388083` | 2024-08-07 16:50:10 GMT+8 | reply | https://x.com/silverfang88/status/1821106548212388083 | @ban_yue80555 @lin_btc 没群了 哈哈 不拉群了
+- `1821106623055569118` | 2024-08-07 16:50:28 GMT+8 | reply | https://x.com/silverfang88/status/1821106623055569118 | @0xqtc2151 最爱国人吧
+- `1821106724750680453` | 2024-08-07 16:50:52 GMT+8 | reply | https://x.com/silverfang88/status/1821106724750680453 | @jordanwangbtc 所以你说都是谁找他们融资
+- `1821107149885395313` | 2024-08-07 16:52:33 GMT+8 | reply | https://x.com/silverfang88/status/1821107149885395313 | @jordanwangbtc 总得给大家一个交代
+- `1821109223796670734` | 2024-08-07 17:00:48 GMT+8 | reply | https://x.com/silverfang88/status/1821109223796670734 | @hYW7lmjMerU6uOt 我也不理解怎么会直接低开10倍
+- `1821110399044931926` | 2024-08-07 17:05:28 GMT+8 | reply | https://x.com/silverfang88/status/1821110399044931926 | @mmm123321 @jordanwangbtc 数据不对
+- `1821112125034504360` | 2024-08-07 17:12:19 GMT+8 | reply | https://x.com/silverfang88/status/1821112125034504360 | @Lunacomiao 如果你见识过web2的游戏发行
+- `1821112699817795767` | 2024-08-07 17:14:36 GMT+8 | quote | https://x.com/silverfang88/status/1821112699817795767 | 有俩没了  我觉得支持OKX的正确决策
+- `1821114270404231482` | 2024-08-07 17:20:51 GMT+8 | reply | https://x.com/silverfang88/status/1821114270404231482 | @sinanz00 我又不要脸 哈哈哈
+- `1821115255415558286` | 2024-08-07 17:24:46 GMT+8 | reply | https://x.com/silverfang88/status/1821115255415558286 | @lin_yiliu 我有个问题 
+- `1821116427635446145` | 2024-08-07 17:29:25 GMT+8 | reply | https://x.com/silverfang88/status/1821116427635446145 | @Damocles689 在这个信息流动越来越慢，越来越集中的区块链，从财富的角度来看，做一个表里不一的人的收益会越来越高，龌龊的人会越来越幸运，不装不但不是一个道德品性优选，而且也是更垃圾的，很多狗庄都意识到了这一点
+- `1821116482140455209` | 2024-08-07 17:29:38 GMT+8 | reply | https://x.com/silverfang88/status/1821116482140455209 | @lorrainelolo 你好
+- `1821116871518585294` | 2024-08-07 17:31:11 GMT+8 | original | https://x.com/silverfang88/status/1821116871518585294 | 我真是一个和各路狗庄战斗的男娘
+- `1821117474722460046` | 2024-08-07 17:33:35 GMT+8 | reply | https://x.com/silverfang88/status/1821117474722460046 | @roger9949 多少钱
+- `1821117488530112660` | 2024-08-07 17:33:38 GMT+8 | reply | https://x.com/silverfang88/status/1821117488530112660 | @topsignal 你好
+- `1821117501562089762` | 2024-08-07 17:33:41 GMT+8 | reply | https://x.com/silverfang88/status/1821117501562089762 | @xixikawaii 666
+- `1821117561385157107` | 2024-08-07 17:33:56 GMT+8 | reply | https://x.com/silverfang88/status/1821117561385157107 | @0xWeiGe 你可真牛逼
+- `1821117694743118313` | 2024-08-07 17:34:27 GMT+8 | reply | https://x.com/silverfang88/status/1821117694743118313 | @cryptoxiao 你好
+- `1821117739731222917` | 2024-08-07 17:34:38 GMT+8 | reply | https://x.com/silverfang88/status/1821117739731222917 | @mewdevice 多少钱
+- `1821117849546469706` | 2024-08-07 17:35:04 GMT+8 | reply | https://x.com/silverfang88/status/1821117849546469706 | @Aurora_Lashao 什么东西
+- `1821121990196928533` | 2024-08-07 17:51:31 GMT+8 | reply | https://x.com/silverfang88/status/1821121990196928533 | @fengshoushuoguo https://t.co/55jZdqvptx
+- `1821122405189730696` | 2024-08-07 17:53:10 GMT+8 | reply | https://x.com/silverfang88/status/1821122405189730696 | @hahazwei 你好
+- `1821124387694694537` | 2024-08-07 18:01:03 GMT+8 | quote | https://x.com/silverfang88/status/1821124387694694537 | 有的人真当段子
+- `1821124483995828358` | 2024-08-07 18:01:26 GMT+8 | quote | https://x.com/silverfang88/status/1821124483995828358 | 有的人真当段子
+- `1821128836269912163` | 2024-08-07 18:18:44 GMT+8 | reply | https://x.com/silverfang88/status/1821128836269912163 | @sirius_zzzz 北朝
+- `1821130735169708498` | 2024-08-07 18:26:16 GMT+8 | reply | https://x.com/silverfang88/status/1821130735169708498 | @discountifu 哎
+- `1821130950870183954` | 2024-08-07 18:27:08 GMT+8 | reply | https://x.com/silverfang88/status/1821130950870183954 | @chenyunhaoo 你拿一年吧，哥们一天就提车了
+- `1821133855190868082` | 2024-08-07 18:38:40 GMT+8 | reply | https://x.com/silverfang88/status/1821133855190868082 | @Aurora_Lashao 我准备买特斯拉那个铁皮卡车
+- `1821138530766041519` | 2024-08-07 18:57:15 GMT+8 | reply | https://x.com/silverfang88/status/1821138530766041519 | @0xToddxyz 要被超死了
+- `1821140316839100564` | 2024-08-07 19:04:21 GMT+8 | reply | https://x.com/silverfang88/status/1821140316839100564 | @bigbottle44 没sol 笑死
+- `1821140394387648519` | 2024-08-07 19:04:39 GMT+8 | reply | https://x.com/silverfang88/status/1821140394387648519 | @LeotheHorseman 什么家庭啊？
+- `1821141036338393347` | 2024-08-07 19:07:12 GMT+8 | reply | https://x.com/silverfang88/status/1821141036338393347 | @bigbottle44 利好啊
+- `1821141913853943808` | 2024-08-07 19:10:42 GMT+8 | reply | https://x.com/silverfang88/status/1821141913853943808 | @Maahes723 我P的图啊 都是假的 骗你们玩的
+- `1821142754056876267` | 2024-08-07 19:14:02 GMT+8 | reply | https://x.com/silverfang88/status/1821142754056876267 | @Dincocoin 安全吗
+- `1821144004005703986` | 2024-08-07 19:19:00 GMT+8 | original | https://x.com/silverfang88/status/1821144004005703986 | https://t.co/8ETxAAofME
+- `1821153846313234665` | 2024-08-07 19:58:07 GMT+8 | reply | https://x.com/silverfang88/status/1821153846313234665 | @lin_yiliu 也算吧
+- `1821153868211777639` | 2024-08-07 19:58:12 GMT+8 | reply | https://x.com/silverfang88/status/1821153868211777639 | @Wzh66667 什么制服
+- `1821153883894247521` | 2024-08-07 19:58:15 GMT+8 | reply | https://x.com/silverfang88/status/1821153883894247521 | @cryptotya 加油
+- `1821153950105571700` | 2024-08-07 19:58:31 GMT+8 | reply | https://x.com/silverfang88/status/1821153950105571700 | @WPK_VIP 真的吗 他们总说我太纨绔了 
+- `1821154174286848051` | 2024-08-07 19:59:25 GMT+8 | quote | https://x.com/silverfang88/status/1821154174286848051 | 第二十九期  统一回答你们私信的求职问题（最后10分钟最重要）
+- `1821165236172341713` | 2024-08-07 20:43:22 GMT+8 | reply | https://x.com/silverfang88/status/1821165236172341713 | @roger9949 @nihaovand FIGHT
+- `1821168564302168539` | 2024-08-07 20:56:36 GMT+8 | reply | https://x.com/silverfang88/status/1821168564302168539 | @0xhaoxyz 格局？ 
+- `1821169384905228615` | 2024-08-07 20:59:51 GMT+8 | quote | https://x.com/silverfang88/status/1821169384905228615 | 建议你们继续抄底，拉盘，冲啊
+- `1821172294074475006` | 2024-08-07 21:11:25 GMT+8 | reply | https://x.com/silverfang88/status/1821172294074475006 | @nihaovand @chenyunhaoo 我可一句脏话没蹦
+- `1821177242044789249` | 2024-08-07 21:31:04 GMT+8 | reply | https://x.com/silverfang88/status/1821177242044789249 | @Sunzhe39589272 @0xhaoxyz 都帮你们算好了啊
+- `1821177466981118121` | 2024-08-07 21:31:58 GMT+8 | reply | https://x.com/silverfang88/status/1821177466981118121 | @YristFigo 没事 重点是一天就赚这么多
+- `1821177540678918275` | 2024-08-07 21:32:16 GMT+8 | reply | https://x.com/silverfang88/status/1821177540678918275 | @trailbl70151612 不重要，未来会更好
+- `1821180175414919642` | 2024-08-07 21:42:44 GMT+8 | original | https://x.com/silverfang88/status/1821180175414919642 | @minimisue2022 好的老师
+- `1821205979695849820` | 2024-08-07 23:25:16 GMT+8 | original | https://x.com/silverfang88/status/1821205979695849820 | @ZeusNetworkHQ 等于我是你爸爸 儿子
+- `1821209177831637455` | 2024-08-07 23:37:59 GMT+8 | original | https://x.com/silverfang88/status/1821209177831637455 | @minimisue2022 恭喜老师
+- `1821214035309724038` | 2024-08-07 23:57:17 GMT+8 | original | https://x.com/silverfang88/status/1821214035309724038 | 以后开space大概率是
+- `1821214223902368122` | 2024-08-07 23:58:02 GMT+8 | original | https://x.com/silverfang88/status/1821214223902368122 | 你长得好像一位故人 https://t.co/D11xkpgGRj
+- `1821436038360756679` | 2024-08-08 14:39:26 GMT+8 | original | https://x.com/silverfang88/status/1821436038360756679 | @xclisgood 6
+- `1821436200797831519` | 2024-08-08 14:40:05 GMT+8 | original | https://x.com/silverfang88/status/1821436200797831519 | @rita88 加油哥
+- `1821436251515346978` | 2024-08-08 14:40:17 GMT+8 | original | https://x.com/silverfang88/status/1821436251515346978 | @langfeixue 😂 我经历太复杂
+- `1821436361510973886` | 2024-08-08 14:40:43 GMT+8 | original | https://x.com/silverfang88/status/1821436361510973886 | @15940403829Mmmk 我们要考验的是这样的
+- `1821459592703861190` | 2024-08-08 16:13:02 GMT+8 | original | https://x.com/silverfang88/status/1821459592703861190 | @saku_web3 什么是吗是吗
+- `1821459629106167943` | 2024-08-08 16:13:11 GMT+8 | original | https://x.com/silverfang88/status/1821459629106167943 | @Lbc24682 不太一样
+- `1821459713290105135` | 2024-08-08 16:13:31 GMT+8 | original | https://x.com/silverfang88/status/1821459713290105135 | @CryptoXavierLee 那还真不一样 $mew
+- `1821459773927121202` | 2024-08-08 16:13:45 GMT+8 | original | https://x.com/silverfang88/status/1821459773927121202 | @xueqiu88 @okx 管我啥事 我韭菜啊 哥
+- `1821459840981451134` | 2024-08-08 16:14:01 GMT+8 | original | https://x.com/silverfang88/status/1821459840981451134 | @nihaovand @okx @wsjack_eth 割了我挺多的
+- `1821459869087502749` | 2024-08-08 16:14:08 GMT+8 | original | https://x.com/silverfang88/status/1821459869087502749 | @fuckcryptoleek @okx 😂
+- `1821459972087066992` | 2024-08-08 16:14:33 GMT+8 | original | https://x.com/silverfang88/status/1821459972087066992 | @Banbalaba 这不是那啥啊 哥
+- `1821459988021166534` | 2024-08-08 16:14:36 GMT+8 | original | https://x.com/silverfang88/status/1821459988021166534 | @haishengbai 刺激
+- `1821460032698851826` | 2024-08-08 16:14:47 GMT+8 | original | https://x.com/silverfang88/status/1821460032698851826 | @0xWeiGe 厉害
+- `1821460080505622535` | 2024-08-08 16:14:58 GMT+8 | original | https://x.com/silverfang88/status/1821460080505622535 | @HUd7iC57fj04GLi 确实… 你骂得我认可了
+- `1821460123354648915` | 2024-08-08 16:15:09 GMT+8 | original | https://x.com/silverfang88/status/1821460123354648915 | @jackyyyso 哪种
+- `1821460158041485700` | 2024-08-08 16:15:17 GMT+8 | original | https://x.com/silverfang88/status/1821460158041485700 | @ririfish_ 我又说啥了 别记住
+- `1821460210193498361` | 2024-08-08 16:15:29 GMT+8 | original | https://x.com/silverfang88/status/1821460210193498361 | @CryptoUKong 6 地址有吗 电话有吗
+- `1821460252694356336` | 2024-08-08 16:15:39 GMT+8 | original | https://x.com/silverfang88/status/1821460252694356336 | @jackhexingling 早安 阿弥诺斯
+- `1821460311456583810` | 2024-08-08 16:15:54 GMT+8 | original | https://x.com/silverfang88/status/1821460311456583810 | @0xAncientTwo 吴sei迪sei
+- `1821460355547095150` | 2024-08-08 16:16:04 GMT+8 | original | https://x.com/silverfang88/status/1821460355547095150 | @knife1314 好 唯一正反馈
+- `1821460390175281224` | 2024-08-08 16:16:12 GMT+8 | original | https://x.com/silverfang88/status/1821460390175281224 | @haishengbai 6
+- `1821460428565737831` | 2024-08-08 16:16:21 GMT+8 | reply | https://x.com/silverfang88/status/1821460428565737831 | @HzBitcoin 拍完了就可以了
+- `1821460853511610696` | 2024-08-08 16:18:03 GMT+8 | reply | https://x.com/silverfang88/status/1821460853511610696 | @0x17479 射击游戏赛道 
+- `1821460884650066322` | 2024-08-08 16:18:10 GMT+8 | reply | https://x.com/silverfang88/status/1821460884650066322 | @Lucky766650286 不重要
+- `1821460991353278564` | 2024-08-08 16:18:36 GMT+8 | reply | https://x.com/silverfang88/status/1821460991353278564 | @shechenglong2 其实对我来说是确定性收益
+- `1821461092830179617` | 2024-08-08 16:19:00 GMT+8 | reply | https://x.com/silverfang88/status/1821461092830179617 | @DONGDONG_1102 不强 我啥也不是
+- `1821461138350948706` | 2024-08-08 16:19:11 GMT+8 | reply | https://x.com/silverfang88/status/1821461138350948706 | @lifacai28519 我亏钱我都说
+- `1821463893471895895` | 2024-08-08 16:30:08 GMT+8 | quote | https://x.com/silverfang88/status/1821463893471895895 | 中肯的，希望 @okx 能早日下架 $zeus https://t.co/UgFABXxlyg
+- `1821466668897275914` | 2024-08-08 16:41:09 GMT+8 | reply | https://x.com/silverfang88/status/1821466668897275914 | @Cartix0220 我已经第三天了
+- `1821468035678364079` | 2024-08-08 16:46:35 GMT+8 | original | https://x.com/silverfang88/status/1821468035678364079 | crypto的人们可能再过几年
+- `1821468129819607267` | 2024-08-08 16:46:58 GMT+8 | original | https://x.com/silverfang88/status/1821468129819607267 | crypto的人们可能再过几年
+- `1821469210310045956` | 2024-08-08 16:51:15 GMT+8 | reply | https://x.com/silverfang88/status/1821469210310045956 | @hippo688 https://t.co/GExNneGVvQ
+- `1821472430965104688` | 2024-08-08 17:04:03 GMT+8 | original | https://x.com/silverfang88/status/1821472430965104688 | @Wzh66667 https://t.co/UuvuPuqnHs
+- `1821478831875584018` | 2024-08-08 17:29:29 GMT+8 | original | https://x.com/silverfang88/status/1821478831875584018 | @hahazwei @cq_king 你好
+- `1821481638162759824` | 2024-08-08 17:40:38 GMT+8 | reply | https://x.com/silverfang88/status/1821481638162759824 | @ZeusNetworkHQ @SolanaFloor @solana 和你有1 $zeus 的关系吗？
+- `1821483803337974160` | 2024-08-08 17:49:14 GMT+8 | original | https://x.com/silverfang88/status/1821483803337974160 | 我也觉得 他并不是完全反面的一个人物
+- `1821500822426997209` | 2024-08-08 18:56:52 GMT+8 | original | https://x.com/silverfang88/status/1821500822426997209 | 有没有会做图的 
+- `1821503394692882842` | 2024-08-08 19:07:05 GMT+8 | reply | https://x.com/silverfang88/status/1821503394692882842 | @hahazwei 你好
+- `1821503461067817358` | 2024-08-08 19:07:21 GMT+8 | reply | https://x.com/silverfang88/status/1821503461067817358 | @mewdevice 什么色？
+- `1821504750648504829` | 2024-08-08 19:12:29 GMT+8 | reply | https://x.com/silverfang88/status/1821504750648504829 | @HUd7iC57fj04GLi 真是王八办走读——鳖不住笑了
+- `1821505446756122816` | 2024-08-08 19:15:15 GMT+8 | reply | https://x.com/silverfang88/status/1821505446756122816 | @hunteronsol500 无所谓 你等 $max 涨五倍不就回本了
+- `1821505756635500793` | 2024-08-08 19:16:28 GMT+8 | original | https://x.com/silverfang88/status/1821505756635500793 | @Dincocoin 你到底要买多少只日本狗
+- `1821505858846515666` | 2024-08-08 19:16:53 GMT+8 | reply | https://x.com/silverfang88/status/1821505858846515666 | @sirius_zzzz https://t.co/rtAMLV5Z68
+- `1821506421000736950` | 2024-08-08 19:19:07 GMT+8 | reply | https://x.com/silverfang88/status/1821506421000736950 | @edison_near 哥 我要是会 我就不来问了
+- `1821506478286475758` | 2024-08-08 19:19:21 GMT+8 | reply | https://x.com/silverfang88/status/1821506478286475758 | @LeotheHorseman 你是真几把骚
+- `1821507606189379842` | 2024-08-08 19:23:49 GMT+8 | reply | https://x.com/silverfang88/status/1821507606189379842 | @sooooooola99249 我还是喜欢横版的
+- `1821542179329724653` | 2024-08-08 21:41:12 GMT+8 | original | https://x.com/silverfang88/status/1821542179329724653 | @mewdevice 我都盘腰上
+- `1821553639837565033` | 2024-08-08 22:26:45 GMT+8 | original | https://x.com/silverfang88/status/1821553639837565033 | @edison_near 哥 来个trc20地址 哈哈哈
+- `1821556141744087132` | 2024-08-08 22:36:41 GMT+8 | original | https://x.com/silverfang88/status/1821556141744087132 | @edison_near 过去了哥
+- `1821556268693082330` | 2024-08-08 22:37:11 GMT+8 | original | https://x.com/silverfang88/status/1821556268693082330 | @LeotheHorseman 遥遥领先
+- `1821557564590502235` | 2024-08-08 22:42:20 GMT+8 | original | https://x.com/silverfang88/status/1821557564590502235 | @LeotheHorseman 你要知道 我们用苹果的 只能放了删 删了放
+- `1821559145796923712` | 2024-08-08 22:48:37 GMT+8 | original | https://x.com/silverfang88/status/1821559145796923712 | @kungfu_crypto 《股票是人的游戏》
+- `1821560046041309673` | 2024-08-08 22:52:12 GMT+8 | original | https://x.com/silverfang88/status/1821560046041309673 | @DragonKillerBTC 我的第一个老板虽然是个恶臭的资本家
+- `1821561730675134849` | 2024-08-08 22:58:54 GMT+8 | original | https://x.com/silverfang88/status/1821561730675134849 | 我时刻提醒自己
+- `1821562345870504154` | 2024-08-08 23:01:20 GMT+8 | original | https://x.com/silverfang88/status/1821562345870504154 | @roger9949 有没有ahegao推荐的
+- `1821563275252830404` | 2024-08-08 23:05:02 GMT+8 | reply | https://x.com/silverfang88/status/1821563275252830404 | @JunXu04535241 https://t.co/Xqpy9fo3nG
+- `1821563391032344895` | 2024-08-08 23:05:30 GMT+8 | original | https://x.com/silverfang88/status/1821563391032344895 | @Btc_Crush 其实这是个武侠片
+- `1821565223922237852` | 2024-08-08 23:12:47 GMT+8 | original | https://x.com/silverfang88/status/1821565223922237852 | @xuliang19821 笑死我了
+- `1821586051724693734` | 2024-08-09 00:35:32 GMT+8 | original | https://x.com/silverfang88/status/1821586051724693734 | @CryptoOlddog 深以为然
+- `1821675217485492497` | 2024-08-09 06:29:51 GMT+8 | quote | https://x.com/silverfang88/status/1821675217485492497 | https://t.co/8dx7YJsmCe https://t.co/gQI6un5teh
+- `1821676128521650469` | 2024-08-09 06:33:28 GMT+8 | original | https://x.com/silverfang88/status/1821676128521650469 | @xixikawaii 别玩合约了
+- `1821695742219538550` | 2024-08-09 07:51:25 GMT+8 | original | https://x.com/silverfang88/status/1821695742219538550 | 美股的夜盘、盘前、盘后的低流动性
+- `1821823559334814004` | 2024-08-09 16:19:19 GMT+8 | reply | https://x.com/silverfang88/status/1821823559334814004 | @lin_yiliu 高盛出来的人
+- `1821836094788280397` | 2024-08-09 17:09:07 GMT+8 | original | https://x.com/silverfang88/status/1821836094788280397 | @SatoshiNobility 建设隧道
+- `1821836251336454494` | 2024-08-09 17:09:45 GMT+8 | original | https://x.com/silverfang88/status/1821836251336454494 | @meipiqi_btc 采用了上面那个老哥的
+- `1821838759089848364` | 2024-08-09 17:19:42 GMT+8 | original | https://x.com/silverfang88/status/1821838759089848364 | @edison_near @littlelanbo 你好
+- `1821844473015349676` | 2024-08-09 17:42:25 GMT+8 | original | https://x.com/silverfang88/status/1821844473015349676 | @0x0xFeng 你别鸡吧碰合约了就行
+- `1821847239490236472` | 2024-08-09 17:53:24 GMT+8 | reply | https://x.com/silverfang88/status/1821847239490236472 | @0x0xFeng 我感觉你还是戒不掉瘾，可以花点钱找个什么心理医生调教一下
+- `1821847527802434006` | 2024-08-09 17:54:33 GMT+8 | repost | https://x.com/silverfang88/status/1821847527802434006 | RT @maikichi2309: うちもみんなも大好きな太もも https://t.co/ODlsBI1ZkF
+- `1821867861750464611` | 2024-08-09 19:15:21 GMT+8 | original | https://x.com/silverfang88/status/1821867861750464611 | 老师们才开始看反转？
+- `1821900655688347985` | 2024-08-09 21:25:40 GMT+8 | original | https://x.com/silverfang88/status/1821900655688347985 | 有人能告诉我lens protocol现在咋样了吗 @LensProtocol 
+- `1821907513840709903` | 2024-08-09 21:52:55 GMT+8 | reply | https://x.com/silverfang88/status/1821907513840709903 | @btc1516 @LensProtocol hhh
+- `1821907535248683073` | 2024-08-09 21:53:00 GMT+8 | reply | https://x.com/silverfang88/status/1821907535248683073 | @LordApocrypha @LensProtocol ok
+- `1821907556396064978` | 2024-08-09 21:53:05 GMT+8 | reply | https://x.com/silverfang88/status/1821907556396064978 | @OKxiaohai @LensProtocol 。。。
+- `1821948948447146238` | 2024-08-10 00:37:34 GMT+8 | original | https://x.com/silverfang88/status/1821948948447146238 | 别人都在草逼
+- `1821966390427054568` | 2024-08-10 01:46:52 GMT+8 | original | https://x.com/silverfang88/status/1821966390427054568 | 空仓 是一种修行
+- `1821997709546455139` | 2024-08-10 03:51:19 GMT+8 | reply | https://x.com/silverfang88/status/1821997709546455139 | @jojodecayz @nhciao 你好
+- `1822185996366057863` | 2024-08-10 16:19:30 GMT+8 | reply | https://x.com/silverfang88/status/1822185996366057863 | @SatoshiNobility 究竟的烦恼多
+- `1822197745718845558` | 2024-08-10 17:06:12 GMT+8 | reply | https://x.com/silverfang88/status/1822197745718845558 | @Ryanqyz_hodl 多少钱
+- `1822207521953636623` | 2024-08-10 17:45:02 GMT+8 | reply | https://x.com/silverfang88/status/1822207521953636623 | @yayabinance 你好
+- `1822208491152433274` | 2024-08-10 17:48:53 GMT+8 | original | https://x.com/silverfang88/status/1822208491152433274 | 终于回到70公斤了
+- `1822208587986272317` | 2024-08-10 17:49:17 GMT+8 | original | https://x.com/silverfang88/status/1822208587986272317 | 终于回到70公斤了
+- `1822213072079011983` | 2024-08-10 18:07:06 GMT+8 | original | https://x.com/silverfang88/status/1822213072079011983 | 周末了 才有空把前几次space聊的一些想法总结一下
+- `1822215146531389518` | 2024-08-10 18:15:20 GMT+8 | reply | https://x.com/silverfang88/status/1822215146531389518 | @WebXBryan 真别玩合约
+- `1822215252626354259` | 2024-08-10 18:15:46 GMT+8 | reply | https://x.com/silverfang88/status/1822215252626354259 | @lifacai28519 你说得对
+- `1822252219741188593` | 2024-08-10 20:42:39 GMT+8 | reply | https://x.com/silverfang88/status/1822252219741188593 | @nftbanker 老了
+- `1822252237424365843` | 2024-08-10 20:42:43 GMT+8 | reply | https://x.com/silverfang88/status/1822252237424365843 | @mewdevice 好吃
+- `1822253184020046302` | 2024-08-10 20:46:29 GMT+8 | reply | https://x.com/silverfang88/status/1822253184020046302 | @momochenming 179.88
+- `1822253991155179814` | 2024-08-10 20:49:41 GMT+8 | original | https://x.com/silverfang88/status/1822253991155179814 | 懂得都懂，讲个笑话：⬇️ https://t.co/b8IFWoZy0u
+- `1822257503993766284` | 2024-08-10 21:03:39 GMT+8 | reply | https://x.com/silverfang88/status/1822257503993766284 | @zxw018018 笑嘻了 真无法想象
+- `1822264475321323604` | 2024-08-10 21:31:21 GMT+8 | reply | https://x.com/silverfang88/status/1822264475321323604 | @Ryanqyz_hodl 一度77公斤了
+- `1822276671707181122` | 2024-08-10 22:19:49 GMT+8 | reply | https://x.com/silverfang88/status/1822276671707181122 | @Ru7Longcrypto @Zixi41620514 @LonersLiu 七夕节你怎么还在工作
+- `1822287914652356848` | 2024-08-10 23:04:29 GMT+8 | original | https://x.com/silverfang88/status/1822287914652356848 | 今年我唯一的性生活就是在网上草别人的妈
+- `1822290186811638050` | 2024-08-10 23:13:31 GMT+8 | reply | https://x.com/silverfang88/status/1822290186811638050 | @rita88 抄袭的
+- `1822304854934421600` | 2024-08-11 00:11:48 GMT+8 | reply | https://x.com/silverfang88/status/1822304854934421600 | @cishanjia 哈哈哈 哥 不想撸管了 咋办啊
+- `1822309980352950695` | 2024-08-11 00:32:10 GMT+8 | original | https://x.com/silverfang88/status/1822309980352950695 | 开收费群的标准很简单啊 
+- `1822329188608606595` | 2024-08-11 01:48:30 GMT+8 | reply | https://x.com/silverfang88/status/1822329188608606595 | @SatoshiNobility 嫖娼
+- `1822559645275222446` | 2024-08-11 17:04:15 GMT+8 | original | https://x.com/silverfang88/status/1822559645275222446 | 这条推其实连文字都不需要有
+- `1822561250141700197` | 2024-08-11 17:10:38 GMT+8 | reply | https://x.com/silverfang88/status/1822561250141700197 | @roger9949 味大 ，无需多盐
+- `1822567323124793604` | 2024-08-11 17:34:46 GMT+8 | reply | https://x.com/silverfang88/status/1822567323124793604 | @zxw018018 😂
+- `1822567349997687204` | 2024-08-11 17:34:52 GMT+8 | reply | https://x.com/silverfang88/status/1822567349997687204 | @0xqtc2151 伟大，无须多言
+- `1822584389076738365` | 2024-08-11 18:42:34 GMT+8 | reply | https://x.com/silverfang88/status/1822584389076738365 | @LeotheHorseman @roger9949 高朋满座
+- `1822587318915444792` | 2024-08-11 18:54:13 GMT+8 | reply | https://x.com/silverfang88/status/1822587318915444792 | @fengshoushuoguo 不能
+- `1822587574130458964` | 2024-08-11 18:55:14 GMT+8 | reply | https://x.com/silverfang88/status/1822587574130458964 | @Dincocoin 抖M
+- `1822587662500274681` | 2024-08-11 18:55:35 GMT+8 | reply | https://x.com/silverfang88/status/1822587662500274681 | @minimisue2022 @notburger_ 甜甜的齁死了
+- `1822674516033835314` | 2024-08-12 00:40:42 GMT+8 | reply | https://x.com/silverfang88/status/1822674516033835314 | @crypto_sphinx 香港贵
+- `1822915605755761111` | 2024-08-12 16:38:43 GMT+8 | original | https://x.com/silverfang88/status/1822915605755761111 | 大多数人都在
+- `1822920003722559905` | 2024-08-12 16:56:11 GMT+8 | original | https://x.com/silverfang88/status/1822920003722559905 | 6月空仓到现在
+- `1822920355540811897` | 2024-08-12 16:57:35 GMT+8 | original | https://x.com/silverfang88/status/1822920355540811897 | 6月空仓到现在
+- `1822924929882362152` | 2024-08-12 17:15:46 GMT+8 | reply | https://x.com/silverfang88/status/1822924929882362152 | @btcpubg123 是 未删减版youtube可听
+- `1822927706234794046` | 2024-08-12 17:26:48 GMT+8 | reply | https://x.com/silverfang88/status/1822927706234794046 | @xclisgood 有些不说人话的我看不懂
+- `1822928158812717094` | 2024-08-12 17:28:36 GMT+8 | reply | https://x.com/silverfang88/status/1822928158812717094 | @SatoshiNobility 嫖娼
+- `1822933215683686600` | 2024-08-12 17:48:41 GMT+8 | reply | https://x.com/silverfang88/status/1822933215683686600 | @edgerhuang2021 @SatoshiNobility 因为会失败啊
+- `1822943753855799784` | 2024-08-12 18:30:34 GMT+8 | reply | https://x.com/silverfang88/status/1822943753855799784 | @zxw018018 哈哈哈 别太悲观
+- `1822947568105488852` | 2024-08-12 18:45:43 GMT+8 | original | https://x.com/silverfang88/status/1822947568105488852 | 别想payfi了
+- `1822947747416220047` | 2024-08-12 18:46:26 GMT+8 | original | https://x.com/silverfang88/status/1822947747416220047 | 别想payfi了
+- `1822961857008746947` | 2024-08-12 19:42:30 GMT+8 | reply | https://x.com/silverfang88/status/1822961857008746947 | @AllenTonSol 伟大，无须多言
+- `1822981353278677189` | 2024-08-12 20:59:58 GMT+8 | reply | https://x.com/silverfang88/status/1822981353278677189 | @semyjess 你好
+- `1823063295009628339` | 2024-08-13 02:25:35 GMT+8 | original | https://x.com/silverfang88/status/1823063295009628339 | 虽然我是渣男，但我从不内射，从不嫖娼，阿门
+- `1823262090871631902` | 2024-08-13 15:35:31 GMT+8 | reply | https://x.com/silverfang88/status/1823262090871631902 | @roger9949 英国已经崩了 
+- `1823268761601794265` | 2024-08-13 16:02:02 GMT+8 | original | https://x.com/silverfang88/status/1823268761601794265 | 我和很多项目方都交流过
+- `1823271351102107718` | 2024-08-13 16:12:19 GMT+8 | reply | https://x.com/silverfang88/status/1823271351102107718 | @syk233 投资方也喜欢这样的
+- `1823272676003066044` | 2024-08-13 16:17:35 GMT+8 | reply | https://x.com/silverfang88/status/1823272676003066044 | @roger9949 我很温和 善良 阳光
+- `1823275562971848959` | 2024-08-13 16:29:03 GMT+8 | original | https://x.com/silverfang88/status/1823275562971848959 | 你们编纂了那么多的夏天
+- `1823275928601960552` | 2024-08-13 16:30:30 GMT+8 | reply | https://x.com/silverfang88/status/1823275928601960552 | @user_ini777 因为已经秋天了
+- `1823277235882590472` | 2024-08-13 16:35:42 GMT+8 | reply | https://x.com/silverfang88/status/1823277235882590472 | @ZeusNetworkHQ @SolJakey 别让我看到你这个诈骗项目到处蹭热度了行吗
+- `1823278140132630871` | 2024-08-13 16:39:18 GMT+8 | reply | https://x.com/silverfang88/status/1823278140132630871 | @cryptotya 网易的
+- `1823278336019198220` | 2024-08-13 16:40:04 GMT+8 | reply | https://x.com/silverfang88/status/1823278336019198220 | @nftbanker 中肯的，正确的
+- `1823281099809710547` | 2024-08-13 16:51:03 GMT+8 | reply | https://x.com/silverfang88/status/1823281099809710547 | @Ed_x0101 嘻嘻
+- `1823281153794576876` | 2024-08-13 16:51:16 GMT+8 | reply | https://x.com/silverfang88/status/1823281153794576876 | @Ru7Longcrypto 这是歌词
+- `1823284152805835067` | 2024-08-13 17:03:11 GMT+8 | reply | https://x.com/silverfang88/status/1823284152805835067 | @anranfromoceans 安和桥真牛逼
+- `1823285043944452546` | 2024-08-13 17:06:44 GMT+8 | reply | https://x.com/silverfang88/status/1823285043944452546 | @thecryptoskanda https://t.co/OP1yK7pD2U
+- `1823680357146767505` | 2024-08-14 19:17:34 GMT+8 | reply | https://x.com/silverfang88/status/1823680357146767505 | @6551Community 1
+- `1823691276056662402` | 2024-08-14 20:00:57 GMT+8 | reply | https://x.com/silverfang88/status/1823691276056662402 | @6551Community 1
+- `1823716306366959777` | 2024-08-14 21:40:25 GMT+8 | quote | https://x.com/silverfang88/status/1823716306366959777 | 这应该是目前最卷的机构扎堆的AI+web3项目了😂
+- `1823717053104316518` | 2024-08-14 21:43:23 GMT+8 | reply | https://x.com/silverfang88/status/1823717053104316518 | @cryptoxiao 高尚的地址比我前女友都多
+- `1823741099053359399` | 2024-08-14 23:18:56 GMT+8 | reply | https://x.com/silverfang88/status/1823741099053359399 | @Mystic_HYN ok
+- `1824064780186837304` | 2024-08-15 20:45:07 GMT+8 | reply | https://x.com/silverfang88/status/1824064780186837304 | @hahazwei 你好
+- `1824151034639565228` | 2024-08-16 02:27:52 GMT+8 | reply | https://x.com/silverfang88/status/1824151034639565228 | @AMAN_TANG_ 你好
+- `1824333904771227911` | 2024-08-16 14:34:32 GMT+8 | reply | https://x.com/silverfang88/status/1824333904771227911 | @jordanwangbtc 😂
+- `1824844182751695093` | 2024-08-18 00:22:11 GMT+8 | original | https://x.com/silverfang88/status/1824844182751695093 | 我经历了无数次的失败
+- `1825207261578301755` | 2024-08-19 00:24:56 GMT+8 | reply | https://x.com/silverfang88/status/1825207261578301755 | @roger9949 懂得越多 人就越不快乐
+- `1825552191270367322` | 2024-08-19 23:15:34 GMT+8 | reply | https://x.com/silverfang88/status/1825552191270367322 | @AMAN_TANG_ 变成阳痿的大人
+- `1825942956148404343` | 2024-08-21 01:08:19 GMT+8 | reply | https://x.com/silverfang88/status/1825942956148404343 | @abyssofgambling 眼前人就是心上人
+- `1825943512602521789` | 2024-08-21 01:10:32 GMT+8 | reply | https://x.com/silverfang88/status/1825943512602521789 | @abyssofgambling 我这免费 考虑考虑我
+- `1825951461416775834` | 2024-08-21 01:42:07 GMT+8 | reply | https://x.com/silverfang88/status/1825951461416775834 | @LeotheHorseman @mdzzi @lvxuan147 看命的
+- `1825952006579896756` | 2024-08-21 01:44:17 GMT+8 | reply | https://x.com/silverfang88/status/1825952006579896756 | @bigbottle44 https://t.co/spF5oREvST
+- `1826058036772745464` | 2024-08-21 08:45:37 GMT+8 | reply | https://x.com/silverfang88/status/1826058036772745464 | @0x0xFeng 我觉得没必要让他们知道这些认知
+- `1826061221948232123` | 2024-08-21 08:58:16 GMT+8 | original | https://x.com/silverfang88/status/1826061221948232123 | @Fencun_nft @0x0xFeng 最好不理
+- `1826061372842717594` | 2024-08-21 08:58:52 GMT+8 | original | https://x.com/silverfang88/status/1826061372842717594 | @Dincocoin 台湾人都像你一样可爱吗
+- `1826188675857678700` | 2024-08-21 17:24:43 GMT+8 | original | https://x.com/silverfang88/status/1826188675857678700 | 区块链也好 各个项目方也罢
+- `1826190855176171810` | 2024-08-21 17:33:23 GMT+8 | reply | https://x.com/silverfang88/status/1826190855176171810 | @roger9949 《你们怎么办 管我什么事》
+- `1826265043115348157` | 2024-08-21 22:28:11 GMT+8 | reply | https://x.com/silverfang88/status/1826265043115348157 | @leibydl 只不过是午夜版的前菜罢了
+- `1826303475434627522` | 2024-08-22 01:00:54 GMT+8 | reply | https://x.com/silverfang88/status/1826303475434627522 | @lin_yiliu 想想未来你儿子也得这么说
+- `1826551355185447376` | 2024-08-22 17:25:53 GMT+8 | reply | https://x.com/silverfang88/status/1826551355185447376 | 知我罪我，其惟春秋
+- `1826593330006032648` | 2024-08-22 20:12:40 GMT+8 | original | https://x.com/silverfang88/status/1826593330006032648 | 这轮没有一个项目（特指2023.7-至今）
+- `1826598667106603459` | 2024-08-22 20:33:53 GMT+8 | reply | https://x.com/silverfang88/status/1826598667106603459 | @nftbanker 也说明没什么创新了
+- `1826919204689211546` | 2024-08-23 17:47:35 GMT+8 | original | https://x.com/silverfang88/status/1826919204689211546 | 前两天喝酒的时候 
+- `1826924516997546375` | 2024-08-23 18:08:42 GMT+8 | reply | https://x.com/silverfang88/status/1826924516997546375 | @shiki214214214 哈哈哈哈 我太菜了
+- `1826924570076430553` | 2024-08-23 18:08:54 GMT+8 | reply | https://x.com/silverfang88/status/1826924570076430553 | @lifacai28519 上了好几年了
+- `1826924603517936119` | 2024-08-23 18:09:02 GMT+8 | reply | https://x.com/silverfang88/status/1826924603517936119 | @mobo1156160073 其实大部分都死了
+- `1826924655900324184` | 2024-08-23 18:09:15 GMT+8 | reply | https://x.com/silverfang88/status/1826924655900324184 | @0X_BeBopFaye 一个月开一次吧
+- `1826924721759269255` | 2024-08-23 18:09:30 GMT+8 | reply | https://x.com/silverfang88/status/1826924721759269255 | @SwingWhales 见笑
+- `1826924865007284448` | 2024-08-23 18:10:05 GMT+8 | reply | https://x.com/silverfang88/status/1826924865007284448 | @tonysan999 很多人都是这么完蛋的，如果只盯着成功，其实就太乐观了
+- `1826929656483746053` | 2024-08-23 18:29:07 GMT+8 | reply | https://x.com/silverfang88/status/1826929656483746053 | @abyssofgambling 🤡
+- `1826952664405393737` | 2024-08-23 20:00:32 GMT+8 | reply | https://x.com/silverfang88/status/1826952664405393737 | @suji_yan tt总确实👍👍
+- `1826953062025400404` | 2024-08-23 20:02:07 GMT+8 | quote | https://x.com/silverfang88/status/1826953062025400404 | 愿革命胜利，元宇宙大家终会再见 https://t.co/TyCVKMzFBA
+- `1826975732372791807` | 2024-08-23 21:32:12 GMT+8 | reply | https://x.com/silverfang88/status/1826975732372791807 | @LeotheHorseman 妈妈 我爱上一个姑娘
+- `1827137256832029083` | 2024-08-24 08:14:03 GMT+8 | reply | https://x.com/silverfang88/status/1827137256832029083 | @bigbottle44 这是他本金还是单子的价值
+- `1827368637063176665` | 2024-08-24 23:33:28 GMT+8 | original | https://x.com/silverfang88/status/1827368637063176665 | 我感觉 没必要过分批判VC
+- `1827377427246465074` | 2024-08-25 00:08:24 GMT+8 | reply | https://x.com/silverfang88/status/1827377427246465074 | @jordanwangbtc 融资 干
+- `1827377491293442061` | 2024-08-25 00:08:39 GMT+8 | reply | https://x.com/silverfang88/status/1827377491293442061 | @0xYuxi 下次一定
+- `1827379957233787319` | 2024-08-25 00:18:27 GMT+8 | reply | https://x.com/silverfang88/status/1827379957233787319 | @abyssofgambling https://t.co/6n1AK2MKtD
+- `1827385114755489818` | 2024-08-25 00:38:57 GMT+8 | reply | https://x.com/silverfang88/status/1827385114755489818 | @xingpt 质疑 辱骂 理解 成为
+- `1827395806455845209` | 2024-08-25 01:21:26 GMT+8 | original | https://x.com/silverfang88/status/1827395806455845209 | https://t.co/EenLfUWmhy
+- `1827428633427738825` | 2024-08-25 03:31:52 GMT+8 | reply | https://x.com/silverfang88/status/1827428633427738825 | @sukie234 😂
+- `1827453438466388430` | 2024-08-25 05:10:26 GMT+8 | original | https://x.com/silverfang88/status/1827453438466388430 | 这下Telegram老板也要去被质押挖矿了
+- `1827638505494769828` | 2024-08-25 17:25:50 GMT+8 | original | https://x.com/silverfang88/status/1827638505494769828 | 这盛世如你所愿
+- `1828062973736124580` | 2024-08-26 21:32:31 GMT+8 | original | https://x.com/silverfang88/status/1828062973736124580 | 心智还不成熟的00后
+- `1828078640598548715` | 2024-08-26 22:34:46 GMT+8 | quote | https://x.com/silverfang88/status/1828078640598548715 | 念念相续 无有间断
+- `1828079300295512342` | 2024-08-26 22:37:23 GMT+8 | reply | https://x.com/silverfang88/status/1828079300295512342 | @Cookie_Can9527 所以我加了定语
+- `1828113824131747858` | 2024-08-27 00:54:35 GMT+8 | reply | https://x.com/silverfang88/status/1828113824131747858 | @ynonestop 你好
+- `1828130252956279010` | 2024-08-27 01:59:51 GMT+8 | reply | https://x.com/silverfang88/status/1828130252956279010 | @0xsexybanana 别低头 不然会看到自己的胸
+- `1828185458708550139` | 2024-08-27 05:39:14 GMT+8 | original | https://x.com/silverfang88/status/1828185458708550139 | 说句不好听的就是
+- `1828285191950885258` | 2024-08-27 12:15:32 GMT+8 | original | https://x.com/silverfang88/status/1828285191950885258 | 妈妈，我爱上一个姑娘
+- `1828393172814135639` | 2024-08-27 19:24:36 GMT+8 | original | https://x.com/silverfang88/status/1828393172814135639 | 最近夹在游戏圈和crypto两拨人中间
+- `1828393274463396322` | 2024-08-27 19:25:01 GMT+8 | original | https://x.com/silverfang88/status/1828393274463396322 | 最近夹在游戏圈和crypto两拨人中间
+- `1828418748966908073` | 2024-08-27 21:06:14 GMT+8 | reply | https://x.com/silverfang88/status/1828418748966908073 | @xueqiu88 球总一针见血
+- `1828420952666902870` | 2024-08-27 21:15:00 GMT+8 | reply | https://x.com/silverfang88/status/1828420952666902870 | @crypto_sphinx 富婆
+- `1828448409197404555` | 2024-08-27 23:04:06 GMT+8 | reply | https://x.com/silverfang88/status/1828448409197404555 | @roger9949 走不到对岸了 怎么一直再跌
+- `1828449671116701806` | 2024-08-27 23:09:07 GMT+8 | reply | https://x.com/silverfang88/status/1828449671116701806 | @roger9949 $TON vs $PDD
+- `1828450102576386540` | 2024-08-27 23:10:50 GMT+8 | reply | https://x.com/silverfang88/status/1828450102576386540 | @roger9949 真不错
+- `1828458463548063826` | 2024-08-27 23:44:03 GMT+8 | reply | https://x.com/silverfang88/status/1828458463548063826 | @Bit_LittleP 你好
+- `1828460096390635584` | 2024-08-27 23:50:32 GMT+8 | reply | https://x.com/silverfang88/status/1828460096390635584 | @Bit_LittleP 女神🌸
+- `1828479568681795701` | 2024-08-28 01:07:55 GMT+8 | reply | https://x.com/silverfang88/status/1828479568681795701 | @rita88 哈哈哈 俺也一样 屏蔽我的 我会反手屏蔽 避免偷窥
+- `1828512285163430401` | 2024-08-28 03:17:55 GMT+8 | repost | https://x.com/silverfang88/status/1828512285163430401 | RT @soon_svm: We are excited to announce the Soon Co-Builders Round.
+- `1828567015302341050` | 2024-08-28 06:55:24 GMT+8 | original | https://x.com/silverfang88/status/1828567015302341050 | @Mina19971224 你好
+- `1828585967948579282` | 2024-08-28 08:10:42 GMT+8 | original | https://x.com/silverfang88/status/1828585967948579282 | @lorrainelolo 你好
+- `1828595892741353686` | 2024-08-28 08:50:09 GMT+8 | original | https://x.com/silverfang88/status/1828595892741353686 | @lorrainelolo ？？？ 我是韭菜
+- `1828604989415080171` | 2024-08-28 09:26:17 GMT+8 | original | https://x.com/silverfang88/status/1828604989415080171 | 独立思考
+- `1828792837766603100` | 2024-08-28 21:52:44 GMT+8 | original | https://x.com/silverfang88/status/1828792837766603100 | 这是一个逻辑思维题
+- `1828794541400572320` | 2024-08-28 21:59:30 GMT+8 | original | https://x.com/silverfang88/status/1828794541400572320 | @roger9949 稳住
+- `1828795995297325194` | 2024-08-28 22:05:17 GMT+8 | original | https://x.com/silverfang88/status/1828795995297325194 | @roger9949 这不是送钱吗
+- `1828829987207852112` | 2024-08-29 00:20:21 GMT+8 | reply | https://x.com/silverfang88/status/1828829987207852112 | @abyssofgambling 你怎么这么有钱
+- `1828830840236990570` | 2024-08-29 00:23:45 GMT+8 | original | https://x.com/silverfang88/status/1828830840236990570 | 一片寂静....
+- `1828850596419387763` | 2024-08-29 01:42:15 GMT+8 | reply | https://x.com/silverfang88/status/1828850596419387763 | @ynonestop @gizmothegizzer @sanctumso @solanalabs @soleconomist 建议你们少给 zeus 和 这些项目背书
+- `1828851906527051790` | 2024-08-29 01:47:27 GMT+8 | original | https://x.com/silverfang88/status/1828851906527051790 | @yoaka__ @ynonestop @gizmothegizzer @sanctumso @solanalabs @soleconomist 很多人因为这些JUP上的项目亏了钱的 
+- `1828853941716836702` | 2024-08-29 01:55:32 GMT+8 | reply | https://x.com/silverfang88/status/1828853941716836702 | @abyssofgambling @jackyyyso 別上我牛姐
+- `1828996856585523691` | 2024-08-29 11:23:26 GMT+8 | original | https://x.com/silverfang88/status/1828996856585523691 | 这么看 币圈是提前跌的
+- `1829005939992633372` | 2024-08-29 11:59:32 GMT+8 | original | https://x.com/silverfang88/status/1829005939992633372 | @hahazwei 你好 自己
+- `1829011010985898442` | 2024-08-29 12:19:41 GMT+8 | original | https://x.com/silverfang88/status/1829011010985898442 | @Moon1ightSt 都会亏完的
+- `1829018919354486931` | 2024-08-29 12:51:06 GMT+8 | original | https://x.com/silverfang88/status/1829018919354486931 | @rita88 没黑丝不看
+- `1829037378037531124` | 2024-08-29 14:04:27 GMT+8 | quote | https://x.com/silverfang88/status/1829037378037531124 | 乐 $zeus 团队挺努力的
+- `1829037759098454063` | 2024-08-29 14:05:58 GMT+8 | quote | https://x.com/silverfang88/status/1829037759098454063 | 如果你们只了解部分信息
+- `1829037966280306762` | 2024-08-29 14:06:47 GMT+8 | reply | https://x.com/silverfang88/status/1829037966280306762 | @abyssofgambling https://t.co/c66G3jozuK
+- `1829038294195212339` | 2024-08-29 14:08:05 GMT+8 | reply | https://x.com/silverfang88/status/1829038294195212339 | @roger9949 韭菜而已 亏那么多钱呢
+- `1829039196733866082` | 2024-08-29 14:11:41 GMT+8 | original | https://x.com/silverfang88/status/1829039196733866082 | @bitcoin136 okx投资又没啥
+- `1829042632829374752` | 2024-08-29 14:25:20 GMT+8 | original | https://x.com/silverfang88/status/1829042632829374752 | @LeotheHorseman https://t.co/GS6kljsMQ2
+- `1829044099640348857` | 2024-08-29 14:31:10 GMT+8 | original | https://x.com/silverfang88/status/1829044099640348857 | 怎么在币圈割到大结果呢
+- `1829045239652254046` | 2024-08-29 14:35:41 GMT+8 | original | https://x.com/silverfang88/status/1829045239652254046 | @AKAFANGCHANG 得自己悟
+- `1829049511043297350` | 2024-08-29 14:52:40 GMT+8 | original | https://x.com/silverfang88/status/1829049511043297350 | @Insider_Venture 狗屁 这不是我说的
+- `1829049572632469946` | 2024-08-29 14:52:54 GMT+8 | original | https://x.com/silverfang88/status/1829049572632469946 | @MemeSiguoyi 梦到的
+- `1829049715159130171` | 2024-08-29 14:53:28 GMT+8 | original | https://x.com/silverfang88/status/1829049715159130171 | @cryptotya 见一次骂一次
+- `1829050531047686376` | 2024-08-29 14:56:43 GMT+8 | original | https://x.com/silverfang88/status/1829050531047686376 | @Insider_Venture 一姐黑不了 这轮牛熊扪心自问 
+- `1829060667938099704` | 2024-08-29 15:37:00 GMT+8 | original | https://x.com/silverfang88/status/1829060667938099704 | @crazyox_eth 能做什么 宅了好久了 感觉不如刷手机
+- `1829179980724768952` | 2024-08-29 23:31:06 GMT+8 | original | https://x.com/silverfang88/status/1829179980724768952 | @billywen_ 说明哥可以买1000辆
+- `1829181904727486663` | 2024-08-29 23:38:45 GMT+8 | original | https://x.com/silverfang88/status/1829181904727486663 | @abyssofgambling @AukiLabs @Posemesh 下次帮我维权一下 $zeus https://t.co/TEBpU4m6Uj
+- `1829182339320320135` | 2024-08-29 23:40:28 GMT+8 | original | https://x.com/silverfang88/status/1829182339320320135 | @abyssofgambling @AukiLabs @Posemesh 给我起票 我要回上海
+- `1829188163182768614` | 2024-08-30 00:03:37 GMT+8 | original | https://x.com/silverfang88/status/1829188163182768614 | @LeotheHorseman 他花了五年 投失败了很多次才找到滴滴
+- `1829189302993203216` | 2024-08-30 00:08:09 GMT+8 | quote | https://x.com/silverfang88/status/1829189302993203216 | 也许1年 或者2年后
+- `1829190431282004422` | 2024-08-30 00:12:38 GMT+8 | original | https://x.com/silverfang88/status/1829190431282004422 | @Spike0826616 不重要
+- `1829191862202315068` | 2024-08-30 00:18:19 GMT+8 | original | https://x.com/silverfang88/status/1829191862202315068 | @thecryptoskanda 😂
+- `1829193931088900387` | 2024-08-30 00:26:32 GMT+8 | original | https://x.com/silverfang88/status/1829193931088900387 | https://t.co/KS2uruv5zo
+- `1829197263639589127` | 2024-08-30 00:39:47 GMT+8 | original | https://x.com/silverfang88/status/1829197263639589127 | @chubby44291319 你好 chubby（枪吹版）
+- `1829303021957767590` | 2024-08-30 07:40:01 GMT+8 | quote | https://x.com/silverfang88/status/1829303021957767590 | 第三十期 https://t.co/xZ1QwHKldM
+- `1829303195908149463` | 2024-08-30 07:40:43 GMT+8 | quote | https://x.com/silverfang88/status/1829303195908149463 | 第三十一期 https://t.co/n8Z0O8g25j
+- `1829303318138548671` | 2024-08-30 07:41:12 GMT+8 | original | https://x.com/silverfang88/status/1829303318138548671 | @leibydl 边水往事
+- `1829303376720400885` | 2024-08-30 07:41:26 GMT+8 | original | https://x.com/silverfang88/status/1829303376720400885 | @sirius_zzzz ⬇️
+- `1829312359166591122` | 2024-08-30 08:17:08 GMT+8 | quote | https://x.com/silverfang88/status/1829312359166591122 | 嘉宾客串 gamefi https://t.co/jKRQsfs12f
+- `1829331424123785722` | 2024-08-30 09:32:53 GMT+8 | original | https://x.com/silverfang88/status/1829331424123785722 | @james_x 这是下一轮牛市的事情
+- `1829333130898981289` | 2024-08-30 09:39:40 GMT+8 | original | https://x.com/silverfang88/status/1829333130898981289 | 冷知识：
+- `1829333324554236298` | 2024-08-30 09:40:26 GMT+8 | original | https://x.com/silverfang88/status/1829333324554236298 | 冷知识：
+- `1829333532528808126` | 2024-08-30 09:41:16 GMT+8 | original | https://x.com/silverfang88/status/1829333532528808126 | 冷知识：
+- `1829335701990887475` | 2024-08-30 09:49:53 GMT+8 | reply | https://x.com/silverfang88/status/1829335701990887475 | @cnkefu 被你发现了
+- `1829335799663321217` | 2024-08-30 09:50:16 GMT+8 | reply | https://x.com/silverfang88/status/1829335799663321217 | @0xWendy99 https://t.co/R6KbIPie6z
 - `1829335802599424126` | 2024-08-30 09:50:17 GMT+8 | reply | https://x.com/silverfang88/status/1829335802599424126 | @IvanecJanj82047 他们说的对
 - `1829337695207698503` | 2024-08-30 09:57:48 GMT+8 | reply | https://x.com/silverfang88/status/1829337695207698503 | @0xGCB @_maditim  check this
 - `1829338264567738374` | 2024-08-30 10:00:04 GMT+8 | reply | https://x.com/silverfang88/status/1829338264567738374 | @awen2357 当然假的啊 😂
@@ -6322,6 +8445,480 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1829940327811084388` | 2024-09-01 01:52:27 GMT+8 | reply | https://x.com/silverfang88/status/1829940327811084388 | @lin_yiliu 这里面还有更深的一层，就是79年还在和华国锋/保皇派夺权，美日关系正常化，打越南，都是为了攫取更广泛的人民和内部元老/军队支持
 - `1829945397696971233` | 2024-09-01 02:12:36 GMT+8 | original | https://x.com/silverfang88/status/1829945397696971233 | $Vista 又是你们几个群的群友互割
 - `1829947365765087236` | 2024-09-01 02:20:25 GMT+8 | reply | https://x.com/silverfang88/status/1829947365765087236 | @Crypto_Tkt 你好
+- `1834394049509228922` | 2024-09-13 08:49:57 GMT+8 | reply | https://x.com/silverfang88/status/1834394049509228922 | @YeruiZhang 觉醒了 再也不能骂VC盘了
+- `1834394855033667850` | 2024-09-13 08:53:09 GMT+8 | original | https://x.com/silverfang88/status/1834394855033667850 | 怎么说呢
+- `1834399102546628696` | 2024-09-13 09:10:02 GMT+8 | reply | https://x.com/silverfang88/status/1834399102546628696 | @cryptotya さしすせそ
+- `1834400418467631307` | 2024-09-13 09:15:15 GMT+8 | reply | https://x.com/silverfang88/status/1834400418467631307 | @zxw018018 歌词儿 哥 我写不出来
+- `1834415610559615217` | 2024-09-13 10:15:38 GMT+8 | original | https://x.com/silverfang88/status/1834415610559615217 | 你的梦想都去哪了？ https://t.co/klEZAbztk0
+- `1834419387681456484` | 2024-09-13 10:30:38 GMT+8 | reply | https://x.com/silverfang88/status/1834419387681456484 | @thecryptoskanda 哈哈哈哈
+- `1834424881812734195` | 2024-09-13 10:52:28 GMT+8 | reply | https://x.com/silverfang88/status/1834424881812734195 | @Mercy_okx 你好
+- `1834507443889475981` | 2024-09-13 16:20:32 GMT+8 | original | https://x.com/silverfang88/status/1834507443889475981 | 大学刚毕业
+- `1834511718602441173` | 2024-09-13 16:37:31 GMT+8 | reply | https://x.com/silverfang88/status/1834511718602441173 | @mewdevice 那都多久之前的事情了哥
+- `1834529503130886234` | 2024-09-13 17:48:12 GMT+8 | reply | https://x.com/silverfang88/status/1834529503130886234 | @xclisgood 安倍又做对了？
+- `1834592838438223887` | 2024-09-13 21:59:52 GMT+8 | reply | https://x.com/silverfang88/status/1834592838438223887 | @Fodboy3946 不在
+- `1834592877344592035` | 2024-09-13 22:00:01 GMT+8 | reply | https://x.com/silverfang88/status/1834592877344592035 | @cryptotya 再睡会儿去了
+- `1834639698658009596` | 2024-09-14 01:06:04 GMT+8 | original | https://x.com/silverfang88/status/1834639698658009596 | 那動人時光 不用常回看
+- `1834657777513312675` | 2024-09-14 02:17:55 GMT+8 | reply | https://x.com/silverfang88/status/1834657777513312675 | @zxw018018 滨崎真绪
+- `1834712421161984412` | 2024-09-14 05:55:03 GMT+8 | original | https://x.com/silverfang88/status/1834712421161984412 | 你还在等什么？
+- `1834713786587951592` | 2024-09-14 06:00:28 GMT+8 | reply | https://x.com/silverfang88/status/1834713786587951592 | @jordanwangbtc 推特的老师们太准了
+- `1834790406975787152` | 2024-09-14 11:04:56 GMT+8 | reply | https://x.com/silverfang88/status/1834790406975787152 | @YeruiZhang mass adoption实现了
+- `1834800649008980003` | 2024-09-14 11:45:38 GMT+8 | original | https://x.com/silverfang88/status/1834800649008980003 | 一想到 Token2049结束 
+- `1834806166842449955` | 2024-09-14 12:07:33 GMT+8 | original | https://x.com/silverfang88/status/1834806166842449955 | Scroll上币后成功给币安带来1位用户 叫daxiao
+- `1834812357681258560` | 2024-09-14 12:32:09 GMT+8 | reply | https://x.com/silverfang88/status/1834812357681258560 | @xueqiu88 不烫，就是有点痒
+- `1834831743733362807` | 2024-09-14 13:49:11 GMT+8 | original | https://x.com/silverfang88/status/1834831743733362807 | 如果你恋爱谈了两年多了还没结婚
+- `1834836138684535095` | 2024-09-14 14:06:39 GMT+8 | reply | https://x.com/silverfang88/status/1834836138684535095 | 有部分老师喊10万了
+- `1834836624393359635` | 2024-09-14 14:08:35 GMT+8 | reply | https://x.com/silverfang88/status/1834836624393359635 | @roger9949 没有爆仓价是合约吗
+- `1834836943277850694` | 2024-09-14 14:09:51 GMT+8 | reply | https://x.com/silverfang88/status/1834836943277850694 | @mdzzi 努力回本的路上
+- `1834873031337931072` | 2024-09-14 16:33:15 GMT+8 | original | https://x.com/silverfang88/status/1834873031337931072 | 英伟达的这种交易量和多空博弈
+- `1834883911463129371` | 2024-09-14 17:16:29 GMT+8 | reply | https://x.com/silverfang88/status/1834883911463129371 | @hahazwei 三人车吗？
+- `1834888337468932195` | 2024-09-14 17:34:04 GMT+8 | reply | https://x.com/silverfang88/status/1834888337468932195 | @mablejiang @Jerry10240 @yawn_rong 我生20余年，耳闻的不说，所亲眼看到的，真所谓‘其兴也勃焉，其亡也忽焉’。一人、一家、一团体、一地方乃至一国，不少单位都没能跳出这周期率的支配力。大凡初时聚精会神，没有一事不用心，没有一人不卖力，也许那时艰难困苦，只有从万死中觅取一生。继而环境渐渐好转了，精神也渐渐放下了。有的因为历
+- `1834900097882009724` | 2024-09-14 18:20:48 GMT+8 | reply | https://x.com/silverfang88/status/1834900097882009724 | @mablejiang @Jerry10240 @yawn_rong 怎么跳出项目的历史周期率二造大汉？？
+- `1834900395446935636` | 2024-09-14 18:21:59 GMT+8 | original | https://x.com/silverfang88/status/1834900395446935636 | https://t.co/g8twlI7mEq
+- `1834904661611958299` | 2024-09-14 18:38:56 GMT+8 | reply | https://x.com/silverfang88/status/1834904661611958299 | @sukie234 巧了 我也是 哈哈哈哈
+- `1834919743368663047` | 2024-09-14 19:38:52 GMT+8 | reply | https://x.com/silverfang88/status/1834919743368663047 | https://t.co/0ZYMSWciMX
+- `1834924480830873938` | 2024-09-14 19:57:42 GMT+8 | reply | https://x.com/silverfang88/status/1834924480830873938 | @MichaelaHa32877 基本不看
+- `1834937461773840458` | 2024-09-14 20:49:17 GMT+8 | reply | https://x.com/silverfang88/status/1834937461773840458 | @suji_yan @mablejiang @Jerry10240 @yawn_rong 😂🤣🤣
+- `1834944535853473941` | 2024-09-14 21:17:23 GMT+8 | reply | https://x.com/silverfang88/status/1834944535853473941 | @mewdevice ？？？？ 你在说什么勾八 
+- `1834959155607814562` | 2024-09-14 22:15:29 GMT+8 | reply | https://x.com/silverfang88/status/1834959155607814562 | @lorrainelolo 你好
+- `1834968092474040672` | 2024-09-14 22:50:59 GMT+8 | reply | https://x.com/silverfang88/status/1834968092474040672 | @rita88 卡卡西
+- `1834968617303081101` | 2024-09-14 22:53:05 GMT+8 | quote | https://x.com/silverfang88/status/1834968617303081101 | 第三十二期 https://t.co/2e182E8X7R
+- `1834969132128772249` | 2024-09-14 22:55:07 GMT+8 | quote | https://x.com/silverfang88/status/1834969132128772249 | okx 客串 eth https://t.co/hl3AznR2W9
+- `1835102375754764412` | 2024-09-15 07:44:35 GMT+8 | original | https://x.com/silverfang88/status/1835102375754764412 | 我想哭 你可不可以暂时别要睡
+- `1835105468278358084` | 2024-09-15 07:56:52 GMT+8 | reply | https://x.com/silverfang88/status/1835105468278358084 | @OXNinaNina 晚安 乌C滴C
+- `1835224111011799190` | 2024-09-15 15:48:19 GMT+8 | reply | https://x.com/silverfang88/status/1835224111011799190 | @Mercy_okx 你好
+- `1835227628065677574` | 2024-09-15 16:02:18 GMT+8 | original | https://x.com/silverfang88/status/1835227628065677574 | 总有人说自己没收到交易所的月饼
+- `1835240311842345258` | 2024-09-15 16:52:42 GMT+8 | original | https://x.com/silverfang88/status/1835240311842345258 | 看了一些言论
+- `1835259665820655966` | 2024-09-15 18:09:36 GMT+8 | reply | https://x.com/silverfang88/status/1835259665820655966 | @Gummybear1771 你好 看看白丝
+- `1835285373263491426` | 2024-09-15 19:51:45 GMT+8 | reply | https://x.com/silverfang88/status/1835285373263491426 | @abyssofgambling 我只追求内心的平静
+- `1835294727437947296` | 2024-09-15 20:28:55 GMT+8 | reply | https://x.com/silverfang88/status/1835294727437947296 | @rita88 那摸我不就完了
+- `1835297207538352576` | 2024-09-15 20:38:47 GMT+8 | original | https://x.com/silverfang88/status/1835297207538352576 | 我space反复强调看人重要
+- `1835304583523901542` | 2024-09-15 21:08:05 GMT+8 | original | https://x.com/silverfang88/status/1835304583523901542 | 小赚，晚安玛卡巴卡 https://t.co/4sS5J2gxvk
+- `1835304656458707221` | 2024-09-15 21:08:23 GMT+8 | original | https://x.com/silverfang88/status/1835304656458707221 | 小赚，晚安玛卡巴卡
+- `1835307172063793454` | 2024-09-15 21:18:22 GMT+8 | original | https://x.com/silverfang88/status/1835307172063793454 | 下周老老实实看戏吧
+- `1835307203240091800` | 2024-09-15 21:18:30 GMT+8 | original | https://x.com/silverfang88/status/1835307203240091800 | 下周老老实实空仓看戏吧
+- `1835308848145465465` | 2024-09-15 21:25:02 GMT+8 | reply | https://x.com/silverfang88/status/1835308848145465465 | @keyahayek 一定要拥有吗，也许失去才更轻松呢。
+- `1835309954443428151` | 2024-09-15 21:29:26 GMT+8 | reply | https://x.com/silverfang88/status/1835309954443428151 | @minimisue2022 老师 你是女神
+- `1835309979365978321` | 2024-09-15 21:29:32 GMT+8 | reply | https://x.com/silverfang88/status/1835309979365978321 | @lizicheng1989 now or never
+- `1835310011804713392` | 2024-09-15 21:29:39 GMT+8 | reply | https://x.com/silverfang88/status/1835310011804713392 | @Lai04920732 恭喜老板
+- `1835313135730769957` | 2024-09-15 21:42:04 GMT+8 | reply | https://x.com/silverfang88/status/1835313135730769957 | @0xpeas 你好老师
+- `1835325427109294479` | 2024-09-15 22:30:55 GMT+8 | reply | https://x.com/silverfang88/status/1835325427109294479 | @AMAN_TANG_ 是谁偷偷偷走我的心
+- `1835325855783862554` | 2024-09-15 22:32:37 GMT+8 | reply | https://x.com/silverfang88/status/1835325855783862554 | @AMAN_TANG_ 而你在我心里
+- `1835342723336769785` | 2024-09-15 23:39:38 GMT+8 | reply | https://x.com/silverfang88/status/1835342723336769785 | @HUd7iC57fj04GLi 你说对了 
+- `1835348102766604515` | 2024-09-16 00:01:01 GMT+8 | original | https://x.com/silverfang88/status/1835348102766604515 | 人們說你就要離開村莊
+- `1835367934748766427` | 2024-09-16 01:19:49 GMT+8 | reply | https://x.com/silverfang88/status/1835367934748766427 | @ttt907701133 你好
+- `1835394349997117616` | 2024-09-16 03:04:47 GMT+8 | reply | https://x.com/silverfang88/status/1835394349997117616 | @MemeSiguoyi web2两次 web3一次
+- `1835539020031348957` | 2024-09-16 12:39:39 GMT+8 | original | https://x.com/silverfang88/status/1835539020031348957 | 醒了
+- `1835539273237315730` | 2024-09-16 12:40:40 GMT+8 | reply | https://x.com/silverfang88/status/1835539273237315730 | @cryptoxiao 什么牌子的？杜蕾斯？
+- `1835540570359415011` | 2024-09-16 12:45:49 GMT+8 | reply | https://x.com/silverfang88/status/1835540570359415011 | @Milady100x 日本娘们天然夹子
+- `1835554023815934019` | 2024-09-16 13:39:16 GMT+8 | reply | https://x.com/silverfang88/status/1835554023815934019 | @Veronica123bb 群友
+- `1835561397557579846` | 2024-09-16 14:08:34 GMT+8 | original | https://x.com/silverfang88/status/1835561397557579846 | 忙了半天  买了 $Neiro 现货  
+- `1835561631130042722` | 2024-09-16 14:09:30 GMT+8 | reply | https://x.com/silverfang88/status/1835561631130042722 | 裤子都没来得及穿上 
+- `1835561865528697123` | 2024-09-16 14:10:26 GMT+8 | reply | https://x.com/silverfang88/status/1835561865528697123 | @0xsexybanana 盛宴结束了
+- `1835562493625716860` | 2024-09-16 14:12:56 GMT+8 | reply | https://x.com/silverfang88/status/1835562493625716860 | 解释一下 币安上的合约是 大写 $NEIRO 的 
+- `1835565371442569373` | 2024-09-16 14:24:22 GMT+8 | original | https://x.com/silverfang88/status/1835565371442569373 | 你们去token 2049吧 
+- `1835567974146605261` | 2024-09-16 14:34:42 GMT+8 | reply | https://x.com/silverfang88/status/1835567974146605261 | @JunXu04535241 😂
+- `1835569665508048989` | 2024-09-16 14:41:26 GMT+8 | quote | https://x.com/silverfang88/status/1835569665508048989 | 估值收敛了 都在100m这个位置了
+- `1835570044190814273` | 2024-09-16 14:42:56 GMT+8 | reply | https://x.com/silverfang88/status/1835570044190814273 | @Lai04920732 恭喜老板
+- `1835572204357976096` | 2024-09-16 14:51:31 GMT+8 | original | https://x.com/silverfang88/status/1835572204357976096 | @web3foxcn hhh
+- `1835574862502310260` | 2024-09-16 15:02:05 GMT+8 | reply | https://x.com/silverfang88/status/1835574862502310260 | @kungfu_crypto 台下何人，状告本官？
+- `1835612220199248025` | 2024-09-16 17:30:31 GMT+8 | quote | https://x.com/silverfang88/status/1835612220199248025 | 交易所怎么看的上我们这群炒土狗的呢？
+- `1835613323452137875` | 2024-09-16 17:34:55 GMT+8 | reply | https://x.com/silverfang88/status/1835613323452137875 | @neso https://t.co/iTS6Ba5VZs
+- `1835614502118654352` | 2024-09-16 17:39:36 GMT+8 | reply | https://x.com/silverfang88/status/1835614502118654352 | @TutuCrypto 现在都至少H1B
+- `1835614573333815563` | 2024-09-16 17:39:53 GMT+8 | reply | https://x.com/silverfang88/status/1835614573333815563 | @xueqiu88 🤣
+- `1835614590752755889` | 2024-09-16 17:39:57 GMT+8 | reply | https://x.com/silverfang88/status/1835614590752755889 | @0xChow7777777 😂
+- `1835618030463672430` | 2024-09-16 17:53:37 GMT+8 | quote | https://x.com/silverfang88/status/1835618030463672430 | 希望大家都能遇到自己的小犹太，不要碰到命里的方展博 https://t.co/iFIL7x8JBd https://t.co/KlHNvlIrgu
+- `1835754875323646148` | 2024-09-17 02:57:23 GMT+8 | original | https://x.com/silverfang88/status/1835754875323646148 | 忘掉砌过的沙
+- `1835768375521243452` | 2024-09-17 03:51:02 GMT+8 | reply | https://x.com/silverfang88/status/1835768375521243452 | @pp_mh5 不是
+- `1835768409881235800` | 2024-09-17 03:51:10 GMT+8 | reply | https://x.com/silverfang88/status/1835768409881235800 | @edison_near 每日一粤
+- `1835878135734112609` | 2024-09-17 11:07:11 GMT+8 | reply | https://x.com/silverfang88/status/1835878135734112609 | @mablejiang 遵命
+- `1835914045137830133` | 2024-09-17 13:29:52 GMT+8 | original | https://x.com/silverfang88/status/1835914045137830133 | 休息一周
+- `1836085938214023220` | 2024-09-18 00:52:55 GMT+8 | quote | https://x.com/silverfang88/status/1836085938214023220 | 谁还不服币安的？
+- `1836088918904619299` | 2024-09-18 01:04:45 GMT+8 | reply | https://x.com/silverfang88/status/1836088918904619299 | @zxw018018 币安牛逼，吹爆币安，谁让我赚钱谁是爸爸
+- `1836095956531490956` | 2024-09-18 01:32:43 GMT+8 | original | https://x.com/silverfang88/status/1836095956531490956 | 知我罪我，其惟春秋
+- `1836247389201416530` | 2024-09-18 11:34:28 GMT+8 | reply | https://x.com/silverfang88/status/1836247389201416530 | @LeotheHorseman NVDA看到新高？
+- `1836286008523903292` | 2024-09-18 14:07:55 GMT+8 | quote | https://x.com/silverfang88/status/1836286008523903292 | 又是一个牛逼AI项目 vana
+- `1836318968413315222` | 2024-09-18 16:18:53 GMT+8 | reply | https://x.com/silverfang88/status/1836318968413315222 | @heyibinance 支持一姐，知我罪我
+- `1836318978836185107` | 2024-09-18 16:18:56 GMT+8 | repost | https://x.com/silverfang88/status/1836318978836185107 | RT @heyibinance: Providing Clarity Amid Confusion
+- `1836346434280440290` | 2024-09-18 18:08:02 GMT+8 | repost | https://x.com/silverfang88/status/1836346434280440290 | RT @0xthomaschou: Building for everyone, every day. @Aptos is here to make blockchain accessible to all. @MorphL2 Consumer Day with @moshai…
+- `1836375258418356464` | 2024-09-18 20:02:34 GMT+8 | original | https://x.com/silverfang88/status/1836375258418356464 | 你的晚安 是下意识的恻隐
+- `1836375546420154368` | 2024-09-18 20:03:43 GMT+8 | reply | https://x.com/silverfang88/status/1836375546420154368 | @abyssofgambling 好的宝贝
+- `1836375915430822397` | 2024-09-18 20:05:11 GMT+8 | reply | https://x.com/silverfang88/status/1836375915430822397 | @abyssofgambling 拉屎的时候刷到了你
+- `1836401405134815427` | 2024-09-18 21:46:28 GMT+8 | original | https://x.com/silverfang88/status/1836401405134815427 | 啊？ 什么变性人？？谁？？？？
+- `1836589140877496794` | 2024-09-19 10:12:28 GMT+8 | original | https://x.com/silverfang88/status/1836589140877496794 | 卖出小写 买入大写
+- `1836637884436078633` | 2024-09-19 13:26:09 GMT+8 | quote | https://x.com/silverfang88/status/1836637884436078633 | 懂？ https://t.co/p94NPvvOe8
+- `1836638759464415309` | 2024-09-19 13:29:38 GMT+8 | reply | https://x.com/silverfang88/status/1836638759464415309 | @shirleyusy 难道真是大庄？？
+- `1836639551437128077` | 2024-09-19 13:32:46 GMT+8 | reply | https://x.com/silverfang88/status/1836639551437128077 | @mdzzi 别 很容易亏钱的
+- `1836639963959501144` | 2024-09-19 13:34:25 GMT+8 | original | https://x.com/silverfang88/status/1836639963959501144 | 再进一步，再想想？
+- `1836640804950999052` | 2024-09-19 13:37:45 GMT+8 | reply | https://x.com/silverfang88/status/1836640804950999052 | 不得不说
+- `1836641507203240336` | 2024-09-19 13:40:33 GMT+8 | reply | https://x.com/silverfang88/status/1836641507203240336 | 很多时候
+- `1836642240577323012` | 2024-09-19 13:43:27 GMT+8 | reply | https://x.com/silverfang88/status/1836642240577323012 | 但是1920年代之后的华尔街发生了什么
+- `1836645925806076073` | 2024-09-19 13:58:06 GMT+8 | reply | https://x.com/silverfang88/status/1836645925806076073 | 再说明白点
+- `1836650537132999128` | 2024-09-19 14:16:26 GMT+8 | original | https://x.com/silverfang88/status/1836650537132999128 | 之前在日本
+- `1836665299380133910` | 2024-09-19 15:15:05 GMT+8 | reply | https://x.com/silverfang88/status/1836665299380133910 | @roger9949 ？
+- `1836669536667422970` | 2024-09-19 15:31:55 GMT+8 | original | https://x.com/silverfang88/status/1836669536667422970 | 好无聊，有什么好看的片嘛？ https://t.co/cVTNakLQRk
+- `1836669888334619080` | 2024-09-19 15:33:19 GMT+8 | reply | https://x.com/silverfang88/status/1836669888334619080 | @cryptotya 戒色 子时
+- `1836670276035137633` | 2024-09-19 15:34:52 GMT+8 | original | https://x.com/silverfang88/status/1836670276035137633 | @shitdog6969 不错
+- `1836673108876415448` | 2024-09-19 15:46:07 GMT+8 | reply | https://x.com/silverfang88/status/1836673108876415448 | @Yihang69 什么
+- `1836673160822817205` | 2024-09-19 15:46:19 GMT+8 | reply | https://x.com/silverfang88/status/1836673160822817205 | @ccgg52001 割了
+- `1836704231706792003` | 2024-09-19 17:49:47 GMT+8 | quote | https://x.com/silverfang88/status/1836704231706792003 | 我赌10u不是 https://t.co/gIxjEq80KT
+- `1836705502706745534` | 2024-09-19 17:54:50 GMT+8 | reply | https://x.com/silverfang88/status/1836705502706745534 | @zxw018018 还是感觉不太可能 
+- `1836711177419718938` | 2024-09-19 18:17:23 GMT+8 | reply | https://x.com/silverfang88/status/1836711177419718938 | @cryptotya 我觉得肯定不是
+- `1836711260278202875` | 2024-09-19 18:17:43 GMT+8 | reply | https://x.com/silverfang88/status/1836711260278202875 | @JunXu04535241 谁是大漂亮
+- `1836711431011533135` | 2024-09-19 18:18:24 GMT+8 | original | https://x.com/silverfang88/status/1836711431011533135 | 以防万一 @PinkPunkBotEN
+- `1836711433641341349` | 2024-09-19 18:18:24 GMT+8 | reply | https://x.com/silverfang88/status/1836711433641341349 | https://t.co/hzQWAcIWh8
+- `1836711561810890819` | 2024-09-19 18:18:55 GMT+8 | original | https://x.com/silverfang88/status/1836711561810890819 | 随意吧 以防bananagun用不了  @PepeBoost888 
+- `1836711564679733439` | 2024-09-19 18:18:56 GMT+8 | original | https://x.com/silverfang88/status/1836711564679733439 | https://t.co/lpJt0UOJKw
+- `1836737040626446525` | 2024-09-19 20:00:10 GMT+8 | original | https://x.com/silverfang88/status/1836737040626446525 | @0xcherry 脑补了bgm
+- `1836742914623275125` | 2024-09-19 20:23:30 GMT+8 | original | https://x.com/silverfang88/status/1836742914623275125 | 发个容易被喷的话 
+- `1836744354423087107` | 2024-09-19 20:29:13 GMT+8 | reply | https://x.com/silverfang88/status/1836744354423087107 | @cryptotya 合约不行
+- `1836744398098276506` | 2024-09-19 20:29:24 GMT+8 | reply | https://x.com/silverfang88/status/1836744398098276506 | @123123crypto 过去的事情说不好，未来的事情不好说
+- `1836744422228218199` | 2024-09-19 20:29:29 GMT+8 | reply | https://x.com/silverfang88/status/1836744422228218199 | @laotebi_bnb 收到
+- `1836746029951037951` | 2024-09-19 20:35:53 GMT+8 | reply | https://x.com/silverfang88/status/1836746029951037951 | @qinke12 @123123crypto 香吗
+- `1836748860493861110` | 2024-09-19 20:47:08 GMT+8 | reply | https://x.com/silverfang88/status/1836748860493861110 | @Damocles689 你也是女同吗
+- `1836749099787333758` | 2024-09-19 20:48:05 GMT+8 | reply | https://x.com/silverfang88/status/1836749099787333758 | @bien36301926 ai
+- `1836750618020470990` | 2024-09-19 20:54:07 GMT+8 | reply | https://x.com/silverfang88/status/1836750618020470990 | @Dincocoin 是的
+- `1836750746458464400` | 2024-09-19 20:54:37 GMT+8 | reply | https://x.com/silverfang88/status/1836750746458464400 | @minimisue2022 你好 沙发
+- `1836753856962707929` | 2024-09-19 21:06:59 GMT+8 | reply | https://x.com/silverfang88/status/1836753856962707929 | @rita88 合约不行 扛不住的
+- `1836759936534995277` | 2024-09-19 21:31:08 GMT+8 | reply | https://x.com/silverfang88/status/1836759936534995277 | @abyssofgambling 你也是小空子？
+- `1836951624985501697` | 2024-09-20 10:12:50 GMT+8 | original | https://x.com/silverfang88/status/1836951624985501697 | 我看了这么久
+- `1836956656531308723` | 2024-09-20 10:32:50 GMT+8 | reply | https://x.com/silverfang88/status/1836956656531308723 | @mdzzi @liangxihuigui 这种长作文输出实在是太牛逼了
+- `1836956725129122119` | 2024-09-20 10:33:06 GMT+8 | reply | https://x.com/silverfang88/status/1836956725129122119 | @Aurora_Lashao @liangxihuigui 人能火是有原因的 这是实力的一种体现
+- `1836959503469670742` | 2024-09-20 10:44:09 GMT+8 | reply | https://x.com/silverfang88/status/1836959503469670742 | @Aurora_Lashao @liangxihuigui 这是凉兮发的 哥
+- `1837036122041434363` | 2024-09-20 15:48:36 GMT+8 | reply | https://x.com/silverfang88/status/1837036122041434363 | @0xcherry 推特的人都知道，我一发，全都评论嘲讽我不知道
+- `1837036238685053015` | 2024-09-20 15:49:04 GMT+8 | reply | https://x.com/silverfang88/status/1837036238685053015 | @0xcherry @liangxihuigui 你也喜欢吃没拉出来的屎？
+- `1837036443195068896` | 2024-09-20 15:49:53 GMT+8 | reply | https://x.com/silverfang88/status/1837036443195068896 | @chorishuang @liangxihuigui web3王小波
+- `1837069106316538332` | 2024-09-20 17:59:40 GMT+8 | reply | https://x.com/silverfang88/status/1837069106316538332 | @TutuCrypto 很好，已经快没list 全是bid
+- `1837069130911883491` | 2024-09-20 17:59:46 GMT+8 | reply | https://x.com/silverfang88/status/1837069130911883491 | @SongYanbing ok
+- `1837070979157119284` | 2024-09-20 18:07:07 GMT+8 | reply | https://x.com/silverfang88/status/1837070979157119284 | @TutuCrypto 牛逼
+- `1837075627964272690` | 2024-09-20 18:25:35 GMT+8 | reply | https://x.com/silverfang88/status/1837075627964272690 | @AMAN_TANG_ 什么是馒头蛙
+- `1837117132867244046` | 2024-09-20 21:10:31 GMT+8 | original | https://x.com/silverfang88/status/1837117132867244046 | catizen先吸一波
+- `1837121764272279844` | 2024-09-20 21:28:55 GMT+8 | reply | https://x.com/silverfang88/status/1837121764272279844 | @roger9949 还好吧 也就每个拿走10个亿
+- `1837131969282416652` | 2024-09-20 22:09:28 GMT+8 | reply | https://x.com/silverfang88/status/1837131969282416652 | @xclisgood 提前跑路
+- `1837162350060634508` | 2024-09-21 00:10:11 GMT+8 | reply | https://x.com/silverfang88/status/1837162350060634508 | @YeruiZhang 不得不爱
+- `1837162372026245615` | 2024-09-21 00:10:16 GMT+8 | reply | https://x.com/silverfang88/status/1837162372026245615 | @0xWendy99 安排
+- `1837174421783536108` | 2024-09-21 00:58:09 GMT+8 | reply | https://x.com/silverfang88/status/1837174421783536108 | @Ru7Longcrypto @EdenWeb3_Global @berachain 这啥 音响嘛
+- `1837185556029018388` | 2024-09-21 01:42:24 GMT+8 | reply | https://x.com/silverfang88/status/1837185556029018388 | @lin_yiliu 你在emo什么
+- `1837186752328368510` | 2024-09-21 01:47:09 GMT+8 | reply | https://x.com/silverfang88/status/1837186752328368510 | @Ru7Longcrypto @EdenWeb3_Global @berachain 不要 打飞机就是为了爽的 不能牵扯到金钱
+- `1837193652386275434` | 2024-09-21 02:14:34 GMT+8 | reply | https://x.com/silverfang88/status/1837193652386275434 | @liangxihuigui 还是打个飞机舒服一下吧
+- `1837283585385976105` | 2024-09-21 08:11:56 GMT+8 | original | https://x.com/silverfang88/status/1837283585385976105 | 醒了
+- `1837284155597508933` | 2024-09-21 08:14:12 GMT+8 | reply | https://x.com/silverfang88/status/1837284155597508933 | @OXNinaNina 你好
+- `1837286476209389949` | 2024-09-21 08:23:25 GMT+8 | reply | https://x.com/silverfang88/status/1837286476209389949 | @Yangshe99818931 什么怎么说 提车去了
+- `1837286547445411854` | 2024-09-21 08:23:42 GMT+8 | original | https://x.com/silverfang88/status/1837286547445411854 | @_xiaojiucai 管他们赚不赚 我只管我赚不赚
+- `1837289796219121701` | 2024-09-21 08:36:37 GMT+8 | quote | https://x.com/silverfang88/status/1837289796219121701 | 不要私信问我为什么
+- `1837289908668432684` | 2024-09-21 08:37:04 GMT+8 | reply | https://x.com/silverfang88/status/1837289908668432684 | @0xCheshire 不是大佬 也不强
+- `1837302176294539735` | 2024-09-21 09:25:48 GMT+8 | reply | https://x.com/silverfang88/status/1837302176294539735 | @0xcryptowizard 喝完酒送她回家
+- `1837306868437254234` | 2024-09-21 09:44:27 GMT+8 | original | https://x.com/silverfang88/status/1837306868437254234 | @Yumni1470593 这个不行的 再想想
+- `1837343522946425316` | 2024-09-21 12:10:06 GMT+8 | reply | https://x.com/silverfang88/status/1837343522946425316 | @tomo_wallet @GalxeQuest 😋
+- `1837349883189092668` | 2024-09-21 12:35:23 GMT+8 | reply | https://x.com/silverfang88/status/1837349883189092668 | @dov_wo catizen能空
+- `1837357111577137387` | 2024-09-21 13:04:06 GMT+8 | quote | https://x.com/silverfang88/status/1837357111577137387 | 看给咱们小 $me 急的
+- `1837357588532416840` | 2024-09-21 13:06:00 GMT+8 | reply | https://x.com/silverfang88/status/1837357588532416840 | @kungfu_crypto 🤣🤣 至少比opensea努力
+- `1837359351578710027` | 2024-09-21 13:13:00 GMT+8 | reply | https://x.com/silverfang88/status/1837359351578710027 | @hahazwei @shep_eth 一路平安
+- `1837362506144084199` | 2024-09-21 13:25:32 GMT+8 | reply | https://x.com/silverfang88/status/1837362506144084199 | @0xBai_ 这种东西怎么能开语音呢
+- `1837378329634091131` | 2024-09-21 14:28:25 GMT+8 | reply | https://x.com/silverfang88/status/1837378329634091131 | @mdzzi 不是 哥  我昨天偷撸的 
+- `1837382710391624177` | 2024-09-21 14:45:49 GMT+8 | reply | https://x.com/silverfang88/status/1837382710391624177 | @dov_wo 哦 这个不是喊单让做空
+- `1837403920546566396` | 2024-09-21 16:10:06 GMT+8 | quote | https://x.com/silverfang88/status/1837403920546566396 | Sahara的litepaper出来了 
+- `1837403923008676148` | 2024-09-21 16:10:07 GMT+8 | reply | https://x.com/silverfang88/status/1837403923008676148 | sahara 想做一个平台项目 
+- `1837403924925493590` | 2024-09-21 16:10:07 GMT+8 | reply | https://x.com/silverfang88/status/1837403924925493590 | 总结评价： AI核心圈 + web3核心圈合体项目
+- `1837404920388980768` | 2024-09-21 16:14:05 GMT+8 | reply | https://x.com/silverfang88/status/1837404920388980768 | @dov_wo 家门口有两棵树，一棵是枣树，另一颗也是枣树
+- `1837412929932587280` | 2024-09-21 16:45:54 GMT+8 | original | https://x.com/silverfang88/status/1837412929932587280 | https://t.co/dwhFspYoOb
+- `1837423930493063204` | 2024-09-21 17:29:37 GMT+8 | original | https://x.com/silverfang88/status/1837423930493063204 | @BoomBoom_yu 比较随性
+- `1837438726567260373` | 2024-09-21 18:28:25 GMT+8 | original | https://x.com/silverfang88/status/1837438726567260373 | @BuxtonVickey 你好
+- `1837439991586201605` | 2024-09-21 18:33:26 GMT+8 | original | https://x.com/silverfang88/status/1837439991586201605 | @Gummybear1771 @justinsuntron @liangxihuigui @BTCBruce1 塔塔开
+- `1837440259925164281` | 2024-09-21 18:34:30 GMT+8 | original | https://x.com/silverfang88/status/1837440259925164281 | @ttt907701133 你好
+- `1837461334125928839` | 2024-09-21 19:58:15 GMT+8 | reply | https://x.com/silverfang88/status/1837461334125928839 | @0xpeas 你好
+- `1837471849099219402` | 2024-09-21 20:40:02 GMT+8 | original | https://x.com/silverfang88/status/1837471849099219402 | 如何做空一个crypto项目？
+- `1837472909570322535` | 2024-09-21 20:44:14 GMT+8 | original | https://x.com/silverfang88/status/1837472909570322535 | 如何做空一个crypto项目？
+- `1837473458176880830` | 2024-09-21 20:46:25 GMT+8 | original | https://x.com/silverfang88/status/1837473458176880830 | @ttt907701133 没喂饭 授人以渔
+- `1837475659750285463` | 2024-09-21 20:55:10 GMT+8 | original | https://x.com/silverfang88/status/1837475659750285463 | 真可谓英雄所见 https://t.co/0rXYlVlDiG
+- `1837478499444998559` | 2024-09-21 21:06:27 GMT+8 | original | https://x.com/silverfang88/status/1837478499444998559 | @roger9949 ？你又要发财了
+- `1837480584081248654` | 2024-09-21 21:14:44 GMT+8 | original | https://x.com/silverfang88/status/1837480584081248654 | @dov_wo 反向山寨，思路打开
+- `1837487580570320970` | 2024-09-21 21:42:32 GMT+8 | quote | https://x.com/silverfang88/status/1837487580570320970 | 天上的事情，少打听 https://t.co/9qVR40C3wT
+- `1837489733485666702` | 2024-09-21 21:51:06 GMT+8 | reply | https://x.com/silverfang88/status/1837489733485666702 | @cishanjia 我相信奶子哥，小黑子们闭嘴
+- `1837521996827037947` | 2024-09-21 23:59:18 GMT+8 | original | https://x.com/silverfang88/status/1837521996827037947 | @Damocles689 宝 你哪里来的这么多价值输出
+- `1837656014641889481` | 2024-09-22 08:51:50 GMT+8 | quote | https://x.com/silverfang88/status/1837656014641889481 | 又新高了 兄弟们
+- `1837738447324201297` | 2024-09-22 14:19:24 GMT+8 | original | https://x.com/silverfang88/status/1837738447324201297 | 醒了，收菜！
+- `1837738872014315877` | 2024-09-22 14:21:05 GMT+8 | quote | https://x.com/silverfang88/status/1837738872014315877 | 第三十三期 火星城 https://t.co/uuljsgVqg2
+- `1837739312701428178` | 2024-09-22 14:22:50 GMT+8 | original | https://x.com/silverfang88/status/1837739312701428178 | @roger9949 你也在车上？
+- `1837767262771548214` | 2024-09-22 16:13:54 GMT+8 | original | https://x.com/silverfang88/status/1837767262771548214 | 香烟请再为我点一颗
+- `1837769252570300749` | 2024-09-22 16:21:48 GMT+8 | original | https://x.com/silverfang88/status/1837769252570300749 | @susie221129 不错 行家啊
+- `1837795047883821093` | 2024-09-22 18:04:18 GMT+8 | quote | https://x.com/silverfang88/status/1837795047883821093 | 首先，你要认准哪个是layer1 
+- `1837825297887936872` | 2024-09-22 20:04:30 GMT+8 | original | https://x.com/silverfang88/status/1837825297887936872 | 永远无法策划一场伟大 —— $FB
+- `1837829074078630292` | 2024-09-22 20:19:31 GMT+8 | original | https://x.com/silverfang88/status/1837829074078630292 | 节奏越来越快了
+- `1837834445266550930` | 2024-09-22 20:40:51 GMT+8 | reply | https://x.com/silverfang88/status/1837834445266550930 | @OXNinaNina 爱宁
+- `1837850044877197824` | 2024-09-22 21:42:50 GMT+8 | reply | https://x.com/silverfang88/status/1837850044877197824 | @minimisue2022 老师  我喜欢利用你
+- `1837874833750737146` | 2024-09-22 23:21:21 GMT+8 | original | https://x.com/silverfang88/status/1837874833750737146 | 越涨散户越做空，越跌散户越不敢做空
+- `1837878015784567227` | 2024-09-22 23:33:59 GMT+8 | original | https://x.com/silverfang88/status/1837878015784567227 | catizen 也不至于这么垃吧？
+- `1837880983711826039` | 2024-09-22 23:45:47 GMT+8 | reply | https://x.com/silverfang88/status/1837880983711826039 | 难道真的被我和dov给fud死了？
+- `1837900258950381728` | 2024-09-23 01:02:22 GMT+8 | reply | https://x.com/silverfang88/status/1837900258950381728 | @dov_wo 先去2u 世界第一GAMEFI
+- `1838071423413219594` | 2024-09-23 12:22:31 GMT+8 | original | https://x.com/silverfang88/status/1838071423413219594 | 吾日三省吾身
+- `1838100675705577688` | 2024-09-23 14:18:46 GMT+8 | original | https://x.com/silverfang88/status/1838100675705577688 | 上线之前 全员喊单 分析 研报 吹捧
+- `1838119506008260816` | 2024-09-23 15:33:35 GMT+8 | quote | https://x.com/silverfang88/status/1838119506008260816 | 新高也不要叫那么大声嘛
+- `1838119895688446097` | 2024-09-23 15:35:08 GMT+8 | reply | https://x.com/silverfang88/status/1838119895688446097 | E链土狗30m是关键点位
+- `1838121715957637224` | 2024-09-23 15:42:22 GMT+8 | reply | https://x.com/silverfang88/status/1838121715957637224 | @JunXu04535241 恭喜
+- `1838138969919218123` | 2024-09-23 16:50:56 GMT+8 | reply | https://x.com/silverfang88/status/1838138969919218123 | @withvana @datapiggy 🐮
+- `1838148941704991119` | 2024-09-23 17:30:33 GMT+8 | repost | https://x.com/silverfang88/status/1838148941704991119 | RT @liping007: 这一次，我们能赢，我们不再是PVP的炮灰！#TERMINUS
+- `1838164573184229757` | 2024-09-23 18:32:40 GMT+8 | original | https://x.com/silverfang88/status/1838164573184229757 | 火星城如果这两天站稳30m 
+- `1838164908237520915` | 2024-09-23 18:34:00 GMT+8 | reply | https://x.com/silverfang88/status/1838164908237520915 | 还有人怪哥们没喊你们
+- `1838166269847040095` | 2024-09-23 18:39:24 GMT+8 | original | https://x.com/silverfang88/status/1838166269847040095 | 不懂愛恨情仇煎熬的我們 
+- `1838169919118016884` | 2024-09-23 18:53:54 GMT+8 | original | https://x.com/silverfang88/status/1838169919118016884 | Neiro只是对过去的meme的拙劣模仿
+- `1838170301340823619` | 2024-09-23 18:55:26 GMT+8 | original | https://x.com/silverfang88/status/1838170301340823619 | 要用发展的眼光看待区块链的项目
+- `1838176859508367433` | 2024-09-23 19:21:29 GMT+8 | original | https://x.com/silverfang88/status/1838176859508367433 | 集中一点，登峰造极 https://t.co/WPjbS7WdR1
+- `1838185868156104709` | 2024-09-23 19:57:17 GMT+8 | reply | https://x.com/silverfang88/status/1838185868156104709 | @LeotheHorseman 开几次了 还差这次？
+- `1838186866937311311` | 2024-09-23 20:01:15 GMT+8 | reply | https://x.com/silverfang88/status/1838186866937311311 | @Ed_x0101 必须的
+- `1838186888521257163` | 2024-09-23 20:01:20 GMT+8 | reply | https://x.com/silverfang88/status/1838186888521257163 | @haventseenyou_ 好
+- `1838218699292955001` | 2024-09-23 22:07:45 GMT+8 | quote | https://x.com/silverfang88/status/1838218699292955001 | 只有我最懂V神
+- `1838219431274566143` | 2024-09-23 22:10:39 GMT+8 | reply | https://x.com/silverfang88/status/1838219431274566143 | @Aurora_Lashao 嘘
+- `1838220205203259797` | 2024-09-23 22:13:44 GMT+8 | repost | https://x.com/silverfang88/status/1838220205203259797 | RT @chorishuang: 看见有个人写“BTC今天工作日，各家ETF开始上班了”我就笑成大粪，谁能救救我的笑点
+- `1838221101190512887` | 2024-09-23 22:17:17 GMT+8 | original | https://x.com/silverfang88/status/1838221101190512887 | 自从我的高盛好大哥space在ETH2200的时候
+- `1838222808574259316` | 2024-09-23 22:24:04 GMT+8 | reply | https://x.com/silverfang88/status/1838222808574259316 | @thecryptoskanda 没事  如果叙事确定了 后续还会爆发的
+- `1838223707816260036` | 2024-09-23 22:27:39 GMT+8 | reply | https://x.com/silverfang88/status/1838223707816260036 | @Damocles689 我就不 我就话痨 就发
+- `1838225588231848392` | 2024-09-23 22:35:07 GMT+8 | reply | https://x.com/silverfang88/status/1838225588231848392 | @xclisgood 奶完第二天暴跌50% 太典了
+- `1838251387240489280` | 2024-09-24 00:17:38 GMT+8 | original | https://x.com/silverfang88/status/1838251387240489280 | catizen不去1u
+- `1838255136541417743` | 2024-09-24 00:32:32 GMT+8 | reply | https://x.com/silverfang88/status/1838255136541417743 | @mewdevice ？ 你找到我钱包了？？
+- `1838255177704653010` | 2024-09-24 00:32:42 GMT+8 | reply | https://x.com/silverfang88/status/1838255177704653010 | @Aurora_Lashao 我现在等他拉盘呢 怎么这么拉稀啊啊啊
+- `1838255307006283916` | 2024-09-24 00:33:12 GMT+8 | reply | https://x.com/silverfang88/status/1838255307006283916 | @ttt907701133 赚钱了？？？
+- `1838267415043461322` | 2024-09-24 01:21:19 GMT+8 | original | https://x.com/silverfang88/status/1838267415043461322 | 相信是相信者的通行证
+- `1838268284816240701` | 2024-09-24 01:24:47 GMT+8 | reply | https://x.com/silverfang88/status/1838268284816240701 | @MemeSiguoyi 真想空死它
+- `1838273877647999106` | 2024-09-24 01:47:00 GMT+8 | reply | https://x.com/silverfang88/status/1838273877647999106 | @Mirro7777 必须的
+- `1838276565630881968` | 2024-09-24 01:57:41 GMT+8 | reply | https://x.com/silverfang88/status/1838276565630881968 | @Ru7Longcrypto https://t.co/5TkE8icD6d
+- `1838370474440507734` | 2024-09-24 08:10:51 GMT+8 | original | https://x.com/silverfang88/status/1838370474440507734 | 屏蔽掉了昨天、前天
+- `1838378389863821485` | 2024-09-24 08:42:18 GMT+8 | reply | https://x.com/silverfang88/status/1838378389863821485 | 20倍 又ath了
+- `1838382563317989482` | 2024-09-24 08:58:53 GMT+8 | original | https://x.com/silverfang88/status/1838382563317989482 | 风暴将近 ⬇️⚡️ https://t.co/Jz1br0bznV
+- `1838383546282418199` | 2024-09-24 09:02:47 GMT+8 | reply | https://x.com/silverfang88/status/1838383546282418199 | 向下的危险和向上的机会并存
+- `1838451666959421559` | 2024-09-24 13:33:28 GMT+8 | original | https://x.com/silverfang88/status/1838451666959421559 | 90多块钱的喊过几次拼多多
+- `1838452136276787220` | 2024-09-24 13:35:20 GMT+8 | reply | https://x.com/silverfang88/status/1838452136276787220 | 还有没有老哥说拼多多要完蛋了？
+- `1838456624156942345` | 2024-09-24 13:53:10 GMT+8 | reply | https://x.com/silverfang88/status/1838456624156942345 | @withvana @annakaz @benmweiss_ 6
+- `1838460123838042222` | 2024-09-24 14:07:05 GMT+8 | repost | https://x.com/silverfang88/status/1838460123838042222 | RT @thecryptoskanda: 年度2049小作文 - How TF Are We Not Learning?
+- `1838466080227963211` | 2024-09-24 14:30:45 GMT+8 | original | https://x.com/silverfang88/status/1838466080227963211 | 市场不理性的时间
+- `1838476547075821887` | 2024-09-24 15:12:20 GMT+8 | original | https://x.com/silverfang88/status/1838476547075821887 | 火星城要送我一辆cybertrunk上去开
+- `1838476774788809086` | 2024-09-24 15:13:15 GMT+8 | reply | https://x.com/silverfang88/status/1838476774788809086 | 标普/纳指都在大选前拉盘且接近突破新高
+- `1838478253289353219` | 2024-09-24 15:19:07 GMT+8 | reply | https://x.com/silverfang88/status/1838478253289353219 | @DONGDONG_1102 不建议买了 我底部
+- `1838496675263873176` | 2024-09-24 16:32:19 GMT+8 | reply | https://x.com/silverfang88/status/1838496675263873176 | @cryptoxiao 鸡巴痒了怎么办
+- `1838497175732388154` | 2024-09-24 16:34:18 GMT+8 | original | https://x.com/silverfang88/status/1838497175732388154 | 群友今天感慨了一下 
+- `1838497332544897460` | 2024-09-24 16:34:56 GMT+8 | original | https://x.com/silverfang88/status/1838497332544897460 | 群友今天感慨了一下 
+- `1838498580874617137` | 2024-09-24 16:39:53 GMT+8 | reply | https://x.com/silverfang88/status/1838498580874617137 | @cryptoxiao 谁是KOL？？？ 你骂谁呢
+- `1838498671517675558` | 2024-09-24 16:40:15 GMT+8 | reply | https://x.com/silverfang88/status/1838498671517675558 | @ttt907701133 你吃的都是低级的，重口的还没和你说
+- `1838498717185323181` | 2024-09-24 16:40:26 GMT+8 | reply | https://x.com/silverfang88/status/1838498717185323181 | @cryptotya @6551Community
+- `1838498756775284963` | 2024-09-24 16:40:35 GMT+8 | reply | https://x.com/silverfang88/status/1838498756775284963 | @0xCheshire NFT gamefi还好
+- `1838503799972909394` | 2024-09-24 17:00:38 GMT+8 | reply | https://x.com/silverfang88/status/1838503799972909394 | @edison_near 嘘
+- `1838506763307409590` | 2024-09-24 17:12:24 GMT+8 | original | https://x.com/silverfang88/status/1838506763307409590 | 我除了看人物传记和历史
+- `1838506974104756360` | 2024-09-24 17:13:15 GMT+8 | reply | https://x.com/silverfang88/status/1838506974104756360 | 努力就会有结果这样的奢侈品，只有打打游戏能感受到了
+- `1838512534015389909` | 2024-09-24 17:35:20 GMT+8 | original | https://x.com/silverfang88/status/1838512534015389909 | 记住，边打边撤，不要恋战
+- `1838526540448952570` | 2024-09-24 18:31:00 GMT+8 | reply | https://x.com/silverfang88/status/1838526540448952570 | @zxw018018 哈哈哈
+- `1838528428649197756` | 2024-09-24 18:38:30 GMT+8 | original | https://x.com/silverfang88/status/1838528428649197756 | 為什麼 你當時對我好 
+- `1838540124885286915` | 2024-09-24 19:24:58 GMT+8 | original | https://x.com/silverfang88/status/1838540124885286915 | 做空真适合我这种记仇的老阴逼
+- `1838547324852711845` | 2024-09-24 19:53:35 GMT+8 | reply | https://x.com/silverfang88/status/1838547324852711845 | @Yangshe99818931 我是傻逼
+- `1838547380657856764` | 2024-09-24 19:53:48 GMT+8 | reply | https://x.com/silverfang88/status/1838547380657856764 | @chenhaofriend 我性格适合狙击  性价比无所谓了
+- `1838553842918494272` | 2024-09-24 20:19:29 GMT+8 | reply | https://x.com/silverfang88/status/1838553842918494272 | @luyaoyuan 卧槽，陆老师不发我都没看到这个
+- `1838555291937296421` | 2024-09-24 20:25:14 GMT+8 | reply | https://x.com/silverfang88/status/1838555291937296421 | @cishanjia $PDD
+- `1838578561478791169` | 2024-09-24 21:57:42 GMT+8 | original | https://x.com/silverfang88/status/1838578561478791169 | 周末喊我爸妈别买房子了
+- `1838578717662101895` | 2024-09-24 21:58:20 GMT+8 | original | https://x.com/silverfang88/status/1838578717662101895 | 周末喊我爸妈别买房子了
+- `1838579761804628146` | 2024-09-24 22:02:29 GMT+8 | reply | https://x.com/silverfang88/status/1838579761804628146 | @0xzzwest 他们不炒股，我按头让他们买中概ETF和茅台
+- `1838579795686228075` | 2024-09-24 22:02:37 GMT+8 | reply | https://x.com/silverfang88/status/1838579795686228075 | @rita88 hhhh
+- `1838580098322059673` | 2024-09-24 22:03:49 GMT+8 | reply | https://x.com/silverfang88/status/1838580098322059673 | @kaka379457 哥 我是傻逼 你太过奖了
+- `1838584184073253217` | 2024-09-24 22:20:03 GMT+8 | reply | https://x.com/silverfang88/status/1838584184073253217 | @zxw018018 杠杆炒A股
+- `1838593779944616378` | 2024-09-24 22:58:11 GMT+8 | reply | https://x.com/silverfang88/status/1838593779944616378 | @cyodyssey 赢麻了
+- `1838596394736558265` | 2024-09-24 23:08:34 GMT+8 | reply | https://x.com/silverfang88/status/1838596394736558265 | @0xToddxyz 拍照 哥
+- `1838647898302460321` | 2024-09-25 02:33:14 GMT+8 | original | https://x.com/silverfang88/status/1838647898302460321 | 大家都喜欢反差的
+- `1838661520114205178` | 2024-09-25 03:27:21 GMT+8 | original | https://x.com/silverfang88/status/1838661520114205178 | 看到VC bros都在吹的 @aspecta_ai
+- `1838662057140297905` | 2024-09-25 03:29:29 GMT+8 | reply | https://x.com/silverfang88/status/1838662057140297905 | 你选择吃
+- `1838667980756193608` | 2024-09-25 03:53:02 GMT+8 | reply | https://x.com/silverfang88/status/1838667980756193608 | @Ytxhx1Y 你想吃屎味的屎是吧？
+- `1838668034581631049` | 2024-09-25 03:53:14 GMT+8 | reply | https://x.com/silverfang88/status/1838668034581631049 | @Story_Liu00 @aspecta_ai 这话说的好
+- `1838727461963792505` | 2024-09-25 07:49:23 GMT+8 | reply | https://x.com/silverfang88/status/1838727461963792505 | @Wang_john @aspecta_ai 反贼
+- `1838760397412688125` | 2024-09-25 10:00:15 GMT+8 | repost | https://x.com/silverfang88/status/1838760397412688125 | RT @silverfang88: 你选择吃
+- `1838799042807029905` | 2024-09-25 12:33:49 GMT+8 | original | https://x.com/silverfang88/status/1838799042807029905 | 知不知你在濫用我的惻隱
+- `1838829273538240738` | 2024-09-25 14:33:57 GMT+8 | original | https://x.com/silverfang88/status/1838829273538240738 | 曾经无数大V、软文、媒体、公会、各种投资机构爆吹的lumiterra
+- `1838829924754264099` | 2024-09-25 14:36:32 GMT+8 | reply | https://x.com/silverfang88/status/1838829924754264099 | 当时我说不行，一群人喷我
+- `1838830743297896925` | 2024-09-25 14:39:47 GMT+8 | reply | https://x.com/silverfang88/status/1838830743297896925 | @dov_wo 我是一个时代的掘墓人
+- `1838831211679990200` | 2024-09-25 14:41:39 GMT+8 | reply | https://x.com/silverfang88/status/1838831211679990200 | @0x_Glaucus 盒子继续质押 哥能骗你吗
+- `1838831529079800001` | 2024-09-25 14:42:55 GMT+8 | reply | https://x.com/silverfang88/status/1838831529079800001 | @dov_wo 也有可能是落后了十年
+- `1838832529681383478` | 2024-09-25 14:46:53 GMT+8 | reply | https://x.com/silverfang88/status/1838832529681383478 | @0xYuxi 啊？
+- `1838834822954836398` | 2024-09-25 14:56:00 GMT+8 | reply | https://x.com/silverfang88/status/1838834822954836398 | @Dincocoin @0x_Glaucus 翻身了
+- `1838837864529817922` | 2024-09-25 15:08:05 GMT+8 | quote | https://x.com/silverfang88/status/1838837864529817922 | ？ 啊 这么多人选吃屎味的巧克力？
+- `1838837945786081288` | 2024-09-25 15:08:24 GMT+8 | reply | https://x.com/silverfang88/status/1838837945786081288 | @MemeSiguoyi https://t.co/KhnVkGQrmH
+- `1838838883255034115` | 2024-09-25 15:12:08 GMT+8 | reply | https://x.com/silverfang88/status/1838838883255034115 | @0xYuxi 是一样的吗
+- `1838838909448380492` | 2024-09-25 15:12:14 GMT+8 | reply | https://x.com/silverfang88/status/1838838909448380492 | @baocangzhilu ok
+- `1838848751978348798` | 2024-09-25 15:51:21 GMT+8 | reply | https://x.com/silverfang88/status/1838848751978348798 | @Mercy_okx 你们老板这么压榨你们？
+- `1838849338191012338` | 2024-09-25 15:53:41 GMT+8 | reply | https://x.com/silverfang88/status/1838849338191012338 | @xueqiu88 @Mercy_okx 有趣的灵魂万里挑一
+- `1838853545006694862` | 2024-09-25 16:10:24 GMT+8 | original | https://x.com/silverfang88/status/1838853545006694862 | 我算是已经看明白了 
+- `1838855280932569348` | 2024-09-25 16:17:17 GMT+8 | reply | https://x.com/silverfang88/status/1838855280932569348 | @zzy19960514 各种渠道
+- `1838855351778582854` | 2024-09-25 16:17:34 GMT+8 | reply | https://x.com/silverfang88/status/1838855351778582854 | @dayaaccc 这是必然的
+- `1838864445180621069` | 2024-09-25 16:53:42 GMT+8 | reply | https://x.com/silverfang88/status/1838864445180621069 | @maid_crypto 还洗呢 另一个1000U https://t.co/LItgPTnsa6
+- `1838864725393785249` | 2024-09-25 16:54:49 GMT+8 | reply | https://x.com/silverfang88/status/1838864725393785249 | @DCmakabaka 你要不看看他池子具体多大呢？
+- `1838866035807510671` | 2024-09-25 17:00:02 GMT+8 | reply | https://x.com/silverfang88/status/1838866035807510671 | @maid_crypto 是是是 你继续买入 继续持有 继续CX
+- `1838867307373723852` | 2024-09-25 17:05:05 GMT+8 | reply | https://x.com/silverfang88/status/1838867307373723852 | @maid_crypto 俩池子U都没了 你摆稳定币数据出来有啥意思？
+- `1838867490861883695` | 2024-09-25 17:05:48 GMT+8 | reply | https://x.com/silverfang88/status/1838867490861883695 | @0x1069589 @maid_crypto 没啥问题 好游戏 我支持
+- `1838868169496084714` | 2024-09-25 17:08:30 GMT+8 | original | https://x.com/silverfang88/status/1838868169496084714 | @maid_crypto 这意味着没有外部流动性了
+- `1838868938400096356` | 2024-09-25 17:11:34 GMT+8 | quote | https://x.com/silverfang88/status/1838868938400096356 | 懂了 是我错了 我道歉
+- `1838869194315563338` | 2024-09-25 17:12:35 GMT+8 | original | https://x.com/silverfang88/status/1838869194315563338 | 下次我也出200万U 印钱开个盘子 
+- `1838869560591556999` | 2024-09-25 17:14:02 GMT+8 | reply | https://x.com/silverfang88/status/1838869560591556999 | @Aurora_Lashao 那看币安态度
+- `1838869680829648999` | 2024-09-25 17:14:31 GMT+8 | reply | https://x.com/silverfang88/status/1838869680829648999 | @web3niche 没有
+- `1838869957641187755` | 2024-09-25 17:15:37 GMT+8 | reply | https://x.com/silverfang88/status/1838869957641187755 | @Aurora_Lashao 等我消息，到时候记得帮我洗白
+- `1838871342818418928` | 2024-09-25 17:21:07 GMT+8 | reply | https://x.com/silverfang88/status/1838871342818418928 | @0xAlyxQ 哥们 人家是投资方
+- `1838872171369705876` | 2024-09-25 17:24:24 GMT+8 | reply | https://x.com/silverfang88/status/1838872171369705876 | @web3niche 这个真没有
+- `1838872339997667564` | 2024-09-25 17:25:05 GMT+8 | reply | https://x.com/silverfang88/status/1838872339997667564 | @cryptotya 我还在走路呢 等公测吧
+- `1838872848598774085` | 2024-09-25 17:27:06 GMT+8 | reply | https://x.com/silverfang88/status/1838872848598774085 | @0xAlyxQ 嘘 我很认真的配合演出了
+- `1838873456588243424` | 2024-09-25 17:29:31 GMT+8 | reply | https://x.com/silverfang88/status/1838873456588243424 | @0xYuxi 其实池子和流动性早没了
+- `1838877810351280552` | 2024-09-25 17:46:49 GMT+8 | reply | https://x.com/silverfang88/status/1838877810351280552 | @MemeSiguoyi 嘘 别说话 我也没流量
+- `1838879168194363715` | 2024-09-25 17:52:13 GMT+8 | reply | https://x.com/silverfang88/status/1838879168194363715 | @dov_wo @0xYuxi 念念相续 无有间断 身语意业 无有疲厌
+- `1838882110750274020` | 2024-09-25 18:03:54 GMT+8 | reply | https://x.com/silverfang88/status/1838882110750274020 | @CupKenny 笑死我了
+- `1838884703148941323` | 2024-09-25 18:14:12 GMT+8 | original | https://x.com/silverfang88/status/1838884703148941323 | 有很多朋友问我 
+- `1838886867959234641` | 2024-09-25 18:22:48 GMT+8 | reply | https://x.com/silverfang88/status/1838886867959234641 | @roger9949 还有人说我喊单割韭菜 
+- `1838886887601172739` | 2024-09-25 18:22:53 GMT+8 | reply | https://x.com/silverfang88/status/1838886887601172739 | @HasakiDoge 谁？
+- `1838897424191848693` | 2024-09-25 19:04:45 GMT+8 | repost | https://x.com/silverfang88/status/1838897424191848693 | RT @okayu_san_desu: “イスカリオテのマリア” https://t.co/RoEbDFrgDV
+- `1838901241666998319` | 2024-09-25 19:19:55 GMT+8 | repost | https://x.com/silverfang88/status/1838901241666998319 | RT @silverfang88: @roger9949 还有人说我喊单割韭菜 
+- `1838924377305354360` | 2024-09-25 20:51:51 GMT+8 | original | https://x.com/silverfang88/status/1838924377305354360 | @0xAmazingChar 什么都不会
+- `1838944458307522674` | 2024-09-25 22:11:39 GMT+8 | original | https://x.com/silverfang88/status/1838944458307522674 | 为什么行业认知差太大了？
+- `1838946019478040653` | 2024-09-25 22:17:51 GMT+8 | original | https://x.com/silverfang88/status/1838946019478040653 | https://t.co/9EiLw1SBFA
+- `1838947927152067029` | 2024-09-25 22:25:26 GMT+8 | reply | https://x.com/silverfang88/status/1838947927152067029 | @AHAODEBIJI 真是老B了
+- `1838948938201575586` | 2024-09-25 22:29:27 GMT+8 | original | https://x.com/silverfang88/status/1838948938201575586 | 当初嘲讽谩骂的人，混的风生水起，财源广进，而那些看明白的人还在原地踏步
+- `1838951498979410328` | 2024-09-25 22:39:38 GMT+8 | reply | https://x.com/silverfang88/status/1838951498979410328 | @Ryanqyz_hodl 当初嘲讽谩骂的人，混的风生水起，财源广进，而那些看明白的人还在原地踏步
+- `1838984147307553126` | 2024-09-26 00:49:22 GMT+8 | original | https://x.com/silverfang88/status/1838984147307553126 | UXLINK 教科书式的控盘
+- `1838984181713428523` | 2024-09-26 00:49:30 GMT+8 | original | https://x.com/silverfang88/status/1838984181713428523 | $UXLINK 教科书式的控盘
+- `1838986294778847638` | 2024-09-26 00:57:54 GMT+8 | reply | https://x.com/silverfang88/status/1838986294778847638 | @minimisue2022 老师 早休息 早日康复
+- `1838991341696467147` | 2024-09-26 01:17:57 GMT+8 | reply | https://x.com/silverfang88/status/1838991341696467147 | @0xToddxyz 我是傻逼
+- `1838991396008509462` | 2024-09-26 01:18:10 GMT+8 | reply | https://x.com/silverfang88/status/1838991396008509462 | @roger9949 这，读书人的事情，怎么能叫蹭呢？
+- `1838992842166780142` | 2024-09-26 01:23:55 GMT+8 | repost | https://x.com/silverfang88/status/1838992842166780142 | RT @yayabinance: 币安推出 #盘前交易 ，⚠️强调一下
+- `1838993952453927269` | 2024-09-26 01:28:19 GMT+8 | original | https://x.com/silverfang88/status/1838993952453927269 | 起初人们只是以为btc小回调.... https://t.co/WDSad7IsO0
+- `1838996260399002006` | 2024-09-26 01:37:30 GMT+8 | reply | https://x.com/silverfang88/status/1838996260399002006 | @jordanwangbtc 🤡
+- `1838997599157682230` | 2024-09-26 01:42:49 GMT+8 | reply | https://x.com/silverfang88/status/1838997599157682230 | @CryptoHao321 那你抄底
+- `1839002252947673348` | 2024-09-26 02:01:18 GMT+8 | original | https://x.com/silverfang88/status/1839002252947673348 | 當海風 吹涼霓虹
+- `1839127557448282440` | 2024-09-26 10:19:13 GMT+8 | original | https://x.com/silverfang88/status/1839127557448282440 | 早知道就坚信 $cati 
+- `1839127685743706223` | 2024-09-26 10:19:44 GMT+8 | reply | https://x.com/silverfang88/status/1839127685743706223 | 要相信自己对垃圾的判断
+- `1839129567702745365` | 2024-09-26 10:27:12 GMT+8 | reply | https://x.com/silverfang88/status/1839129567702745365 | @dov_wo 不运动
+- `1839129650523521094` | 2024-09-26 10:27:32 GMT+8 | reply | https://x.com/silverfang88/status/1839129650523521094 | @chorishuang 收到
+- `1839174817984983427` | 2024-09-26 13:27:01 GMT+8 | repost | https://x.com/silverfang88/status/1839174817984983427 | RT @LeotheHorseman: 而且我最不能理解的一点，为啥散户会把抵押贷款、债务融资、还有OTC老股出货看作是利好，没错说你呢 @CelestiaOrg
+- `1839193381764837647` | 2024-09-26 14:40:47 GMT+8 | repost | https://x.com/silverfang88/status/1839193381764837647 | RT @silverfang88: 市场不理性的时间
+- `1839195877480493096` | 2024-09-26 14:50:42 GMT+8 | quote | https://x.com/silverfang88/status/1839195877480493096 | https://t.co/mauWasNI5i https://t.co/TmRiov2ixc
+- `1839195956509606197` | 2024-09-26 14:51:01 GMT+8 | reply | https://x.com/silverfang88/status/1839195956509606197 | 炒币炒明白了 很多事情也想的更明白了
+- `1839200648715272625` | 2024-09-26 15:09:40 GMT+8 | original | https://x.com/silverfang88/status/1839200648715272625 | 还有人质疑我喊单拼多多吗？
+- `1839207059952132292` | 2024-09-26 15:35:08 GMT+8 | original | https://x.com/silverfang88/status/1839207059952132292 | 起床就看到Matr1x Fire
+- `1839207927980130806` | 2024-09-26 15:38:35 GMT+8 | reply | https://x.com/silverfang88/status/1839207927980130806 | @lumao321 闭嘴，max就是最好的gamefi
+- `1839208449252474948` | 2024-09-26 15:40:39 GMT+8 | reply | https://x.com/silverfang88/status/1839208449252474948 | @LeotheHorseman ？谁做空世界第一射击游戏
+- `1839210309896077394` | 2024-09-26 15:48:03 GMT+8 | original | https://x.com/silverfang88/status/1839210309896077394 | 在推特，搞抽象这个赛道
+- `1839211591788572720` | 2024-09-26 15:53:09 GMT+8 | original | https://x.com/silverfang88/status/1839211591788572720 | 很多人教你们怎么搞流量，做增长，太正向了
+- `1839211768544948714` | 2024-09-26 15:53:51 GMT+8 | reply | https://x.com/silverfang88/status/1839211768544948714 | @Aurora_Lashao 不是，我不抽象吗
+- `1839211820407562653` | 2024-09-26 15:54:03 GMT+8 | reply | https://x.com/silverfang88/status/1839211820407562653 | @LeotheHorseman 是忒休斯之船
+- `1839211873696174314` | 2024-09-26 15:54:16 GMT+8 | reply | https://x.com/silverfang88/status/1839211873696174314 | @0xkaka_ETH 卧槽，命中了两个
+- `1839211913399415206` | 2024-09-26 15:54:25 GMT+8 | reply | https://x.com/silverfang88/status/1839211913399415206 | @SuRen_lab https://t.co/BA4rJJXech
+- `1839211983737889183` | 2024-09-26 15:54:42 GMT+8 | reply | https://x.com/silverfang88/status/1839211983737889183 | @crazyox_eth 就是我的鸡吧真的很大，28cm
+- `1839212217184453031` | 2024-09-26 15:55:38 GMT+8 | reply | https://x.com/silverfang88/status/1839212217184453031 | @Deghnl 哪种老师
+- `1839212406486048865` | 2024-09-26 15:56:23 GMT+8 | reply | https://x.com/silverfang88/status/1839212406486048865 | @roger9949 我的出门都是盘腰上
+- `1839214261169533400` | 2024-09-26 16:03:45 GMT+8 | reply | https://x.com/silverfang88/status/1839214261169533400 | @Aurora_Lashao ？放弃吧 没有人可以比我更傻逼
+- `1839214799709761811` | 2024-09-26 16:05:53 GMT+8 | reply | https://x.com/silverfang88/status/1839214799709761811 | @sirius_zzzz 拼尽全力的抽象在天赋型选手面前不值一提
+- `1839215200307736823` | 2024-09-26 16:07:29 GMT+8 | reply | https://x.com/silverfang88/status/1839215200307736823 | @PepeBoost888 拉个 Pepe 打 Neiro的PK
+- `1839216112447205768` | 2024-09-26 16:11:06 GMT+8 | reply | https://x.com/silverfang88/status/1839216112447205768 | @edison_near 这才刚上呢 你等等
+- `1839216221792665872` | 2024-09-26 16:11:32 GMT+8 | reply | https://x.com/silverfang88/status/1839216221792665872 | @YusdikaPratama @LeotheHorseman 他妈的 这话说的笑死我了
+- `1839217028244074598` | 2024-09-26 16:14:45 GMT+8 | reply | https://x.com/silverfang88/status/1839217028244074598 | @TutuCrypto 因為愛情 不會輕易悲傷
+- `1839217664977236110` | 2024-09-26 16:17:16 GMT+8 | reply | https://x.com/silverfang88/status/1839217664977236110 | @TutuCrypto ？你不信？小黑子闭嘴
+- `1839218639708311845` | 2024-09-26 16:21:09 GMT+8 | reply | https://x.com/silverfang88/status/1839218639708311845 | @thecryptoskanda 哈哈哈哈
+- `1839218772860698704` | 2024-09-26 16:21:41 GMT+8 | reply | https://x.com/silverfang88/status/1839218772860698704 | @akiranovel9 ？
+- `1839219647582810136` | 2024-09-26 16:25:09 GMT+8 | reply | https://x.com/silverfang88/status/1839219647582810136 | @Zixi41620514 3. 搞抽象，让人传播你
+- `1839221549259173946` | 2024-09-26 16:32:43 GMT+8 | original | https://x.com/silverfang88/status/1839221549259173946 | 我怎么感觉KOL Agent比KOL还多了？？？？
+- `1839222426942496803` | 2024-09-26 16:36:12 GMT+8 | reply | https://x.com/silverfang88/status/1839222426942496803 | @0xYy_7 江湖奇才？？
+- `1839222494533665176` | 2024-09-26 16:36:28 GMT+8 | reply | https://x.com/silverfang88/status/1839222494533665176 | @zxw018018 《listing manager》
+- `1839223482858557647` | 2024-09-26 16:40:24 GMT+8 | reply | https://x.com/silverfang88/status/1839223482858557647 | @qiqileyuan 我现在回过味来了
+- `1839224108137017395` | 2024-09-26 16:42:53 GMT+8 | reply | https://x.com/silverfang88/status/1839224108137017395 | @wsjack_eth 拼多多 拼多多 拼的多 省的多
+- `1839224228865827175` | 2024-09-26 16:43:21 GMT+8 | reply | https://x.com/silverfang88/status/1839224228865827175 | @hiiang0525 我也是真傻比，只是你不知道
+- `1839224722325749927` | 2024-09-26 16:45:19 GMT+8 | original | https://x.com/silverfang88/status/1839224722325749927 | @0xYy_7 我记得 第一波GameFi 高潮就是由东南亚国家带起来了的  这波 Matr1x Fire 肯定要起飞了
+- `1839224856535003597` | 2024-09-26 16:45:51 GMT+8 | original | https://x.com/silverfang88/status/1839224856535003597 | @0xCheshire 🥳🤡
+- `1839224942518288677` | 2024-09-26 16:46:12 GMT+8 | original | https://x.com/silverfang88/status/1839224942518288677 | @wang_xiaolou xbot是什么说法 哥
+- `1839225206797131998` | 2024-09-26 16:47:15 GMT+8 | quote | https://x.com/silverfang88/status/1839225206797131998 | 天天教人教人 我直接一个转发
+- `1839226262457307218` | 2024-09-26 16:51:26 GMT+8 | reply | https://x.com/silverfang88/status/1839226262457307218 | @Zixi41620514 颜值博主滚出花果山
+- `1839229777154031744` | 2024-09-26 17:05:24 GMT+8 | original | https://x.com/silverfang88/status/1839229777154031744 | @yydzeth 包养我吧 哥
+- `1839231220237967478` | 2024-09-26 17:11:08 GMT+8 | original | https://x.com/silverfang88/status/1839231220237967478 | @Mathilda_Sun_ 你好
+- `1839231661860340090` | 2024-09-26 17:12:54 GMT+8 | original | https://x.com/silverfang88/status/1839231661860340090 | @Yangshe99818931 @qiqileyuan ？ 我是垃圾哥 真的很垃圾
+- `1839245305654686055` | 2024-09-26 18:07:07 GMT+8 | repost | https://x.com/silverfang88/status/1839245305654686055 | RT @dov_wo: @silverfang88 这个周期KOL agency比KOL多，
+- `1839245331025797280` | 2024-09-26 18:07:13 GMT+8 | original | https://x.com/silverfang88/status/1839245331025797280 | @dov_wo 我推荐dov
+- `1839248477617791484` | 2024-09-26 18:19:43 GMT+8 | original | https://x.com/silverfang88/status/1839248477617791484 | @SuFafa_ 欢迎
+- `1839248495431057587` | 2024-09-26 18:19:47 GMT+8 | original | https://x.com/silverfang88/status/1839248495431057587 | @0xLaughing 6
+- `1839248530059194768` | 2024-09-26 18:19:55 GMT+8 | original | https://x.com/silverfang88/status/1839248530059194768 | @DiYi_Community 哈哈哈
+- `1839248574275534923` | 2024-09-26 18:20:06 GMT+8 | original | https://x.com/silverfang88/status/1839248574275534923 | @cryptocharming 说明可以赚钱
+- `1839252163203154010` | 2024-09-26 18:34:22 GMT+8 | original | https://x.com/silverfang88/status/1839252163203154010 | 别他妈问我有没有角度了
+- `1839265628592427189` | 2024-09-26 19:27:52 GMT+8 | repost | https://x.com/silverfang88/status/1839265628592427189 | RT @silverfang88: 起床就看到Matr1x Fire
+- `1839268792850944164` | 2024-09-26 19:40:26 GMT+8 | original | https://x.com/silverfang88/status/1839268792850944164 | @chorishuang 立党
+- `1839270337004851276` | 2024-09-26 19:46:34 GMT+8 | original | https://x.com/silverfang88/status/1839270337004851276 | @0xToddxyz 小黑子 闭嘴
+- `1839271880630341801` | 2024-09-26 19:52:43 GMT+8 | original | https://x.com/silverfang88/status/1839271880630341801 | @yeepink21 你是S吗？
+- `1839272644530639012` | 2024-09-26 19:55:45 GMT+8 | reply | https://x.com/silverfang88/status/1839272644530639012 | @cryptoxiao @yeepink21 ？放屁  庸俗
+- `1839303474573361561` | 2024-09-26 21:58:15 GMT+8 | original | https://x.com/silverfang88/status/1839303474573361561 | 漁王還想 繼續做漁王
+- `1839310666706071597` | 2024-09-26 22:26:50 GMT+8 | reply | https://x.com/silverfang88/status/1839310666706071597 | @suji_yan 哈哈哈 可以的 你这个六月更适合
+- `1839314063693852994` | 2024-09-26 22:40:20 GMT+8 | reply | https://x.com/silverfang88/status/1839314063693852994 | @MemeSiguoyi 曾经很辉煌啊
+- `1839316499410129400` | 2024-09-26 22:50:00 GMT+8 | original | https://x.com/silverfang88/status/1839316499410129400 | 市场不理性的时间，可能超过你活着的时间
+- `1839329364145852578` | 2024-09-26 23:41:08 GMT+8 | original | https://x.com/silverfang88/status/1839329364145852578 | 你和再多人谈恋爱上床也不会显得你很厉害 
+- `1839336468264919289` | 2024-09-27 00:09:21 GMT+8 | reply | https://x.com/silverfang88/status/1839336468264919289 | @Ru7Longcrypto 啊？
+- `1839336787304763442` | 2024-09-27 00:10:37 GMT+8 | reply | https://x.com/silverfang88/status/1839336787304763442 | @AMAN_TANG_ 说点女孩子爱听的 怎么样？
+- `1839342181775249760` | 2024-09-27 00:32:04 GMT+8 | repost | https://x.com/silverfang88/status/1839342181775249760 | RT @worldlibertyfi: We are excited to welcome Ryan Fang @ryanfang95 to our advisory team!
+- `1839352540909253105` | 2024-09-27 01:13:13 GMT+8 | reply | https://x.com/silverfang88/status/1839352540909253105 | @ttt907701133 ？ 假的啊
+- `1839352599855989146` | 2024-09-27 01:13:27 GMT+8 | reply | https://x.com/silverfang88/status/1839352599855989146 | @ttt907701133 你好
+- `1839409587717595550` | 2024-09-27 04:59:54 GMT+8 | quote | https://x.com/silverfang88/status/1839409587717595550 | 早知道就坚信 $cati 
+- `1839575640737026057` | 2024-09-27 15:59:45 GMT+8 | original | https://x.com/silverfang88/status/1839575640737026057 | 节后再战！
+- `1839576251805143153` | 2024-09-27 16:02:10 GMT+8 | original | https://x.com/silverfang88/status/1839576251805143153 | 醒了，其实我对于出了ICU就蹦迪这个事情经历过两次
+- `1839578371027517547` | 2024-09-27 16:10:36 GMT+8 | reply | https://x.com/silverfang88/status/1839578371027517547 | @Ericchow333 不知道 没研究
+- `1839578832015176058` | 2024-09-27 16:12:25 GMT+8 | reply | https://x.com/silverfang88/status/1839578832015176058 | @brc20mars 你也在考研？
+- `1839602841473679472` | 2024-09-27 17:47:50 GMT+8 | original | https://x.com/silverfang88/status/1839602841473679472 | $UXLINK 的操盘观察
+- `1839605752949776669` | 2024-09-27 17:59:24 GMT+8 | reply | https://x.com/silverfang88/status/1839605752949776669 | @xxk94698605 https://t.co/bO2clYh3j0
+- `1839605791226986968` | 2024-09-27 17:59:33 GMT+8 | reply | https://x.com/silverfang88/status/1839605791226986968 | @0xToddxyz 这都是歪门邪道，别学
+- `1839607273531830414` | 2024-09-27 18:05:26 GMT+8 | reply | https://x.com/silverfang88/status/1839607273531830414 | @roger9949 你也有2000万U？
+- `1839607683327914094` | 2024-09-27 18:07:04 GMT+8 | original | https://x.com/silverfang88/status/1839607683327914094 | 这几天sol和E链切换来打土狗
+- `1839609984511885423` | 2024-09-27 18:16:13 GMT+8 | reply | https://x.com/silverfang88/status/1839609984511885423 | @TutuCrypto 不知道这是什么项目
+- `1839610292608569509` | 2024-09-27 18:17:26 GMT+8 | reply | https://x.com/silverfang88/status/1839610292608569509 | @TutuCrypto 啥项目？第一次听说
+- `1839612327726841942` | 2024-09-27 18:25:31 GMT+8 | original | https://x.com/silverfang88/status/1839612327726841942 | 当年应用层靠骗VC钱发财的gamefi和socialfi的残党们
+- `1839630426559705366` | 2024-09-27 19:37:27 GMT+8 | reply | https://x.com/silverfang88/status/1839630426559705366 | @LeotheHorseman 退你也得退我本金
+- `1839631083765125327` | 2024-09-27 19:40:03 GMT+8 | reply | https://x.com/silverfang88/status/1839631083765125327 | @LeotheHorseman 不保本我投你干嘛？？？
+- `1839631749115994514` | 2024-09-27 19:42:42 GMT+8 | repost | https://x.com/silverfang88/status/1839631749115994514 | RT @fujisakinagi: ON/OFF https://t.co/gdoKQSCxqy
+- `1839632597590093993` | 2024-09-27 19:46:04 GMT+8 | original | https://x.com/silverfang88/status/1839632597590093993 | 却在某萧瑟晚秋深夜
+- `1839635217398551022` | 2024-09-27 19:56:29 GMT+8 | repost | https://x.com/silverfang88/status/1839635217398551022 | RT @LeotheHorseman: 《论投资和纯爱的三种相似之处》 https://t.co/qyabsfbGGV
+- `1839645211460337838` | 2024-09-27 20:36:12 GMT+8 | reply | https://x.com/silverfang88/status/1839645211460337838 | @nihaovand 👍
+- `1839651673557405771` | 2024-09-27 21:01:52 GMT+8 | original | https://x.com/silverfang88/status/1839651673557405771 | 币圈和A股赚到的钱
+- `1839652475005010411` | 2024-09-27 21:05:03 GMT+8 | original | https://x.com/silverfang88/status/1839652475005010411 | @xueqiu88 我俯冲70公斤
+- `1839652901884489980` | 2024-09-27 21:06:45 GMT+8 | original | https://x.com/silverfang88/status/1839652901884489980 | @FocusAlpha 毒瘾和赌瘾一样
+- `1839653211390493158` | 2024-09-27 21:07:59 GMT+8 | original | https://x.com/silverfang88/status/1839653211390493158 | @web3foxcn 怎么一直都在吃亏
+- `1839653981246615653` | 2024-09-27 21:11:02 GMT+8 | original | https://x.com/silverfang88/status/1839653981246615653 | @guoguommmmmmm 我也做不到绝对，努力在做
+- `1839661328828387481` | 2024-09-27 21:40:14 GMT+8 | original | https://x.com/silverfang88/status/1839661328828387481 | @0xsexybanana ？
+- `1839663368438710563` | 2024-09-27 21:48:20 GMT+8 | original | https://x.com/silverfang88/status/1839663368438710563 | @Mirro7777 没有舌头没有白眼也算吗
+- `1839685202135629824` | 2024-09-27 23:15:06 GMT+8 | original | https://x.com/silverfang88/status/1839685202135629824 | 迎接CZ出狱的
+- `1839685242153476555` | 2024-09-27 23:15:16 GMT+8 | original | https://x.com/silverfang88/status/1839685242153476555 | 迎接CZ出狱的
+- `1839695976371761608` | 2024-09-27 23:57:55 GMT+8 | original | https://x.com/silverfang88/status/1839695976371761608 | 虽然我很毒舌 
+- `1839696280957669432` | 2024-09-27 23:59:07 GMT+8 | original | https://x.com/silverfang88/status/1839696280957669432 | @0xToddxyz 好人卡现在是不是挺骂人的
+- `1839895656468492292` | 2024-09-28 13:11:22 GMT+8 | repost | https://x.com/silverfang88/status/1839895656468492292 | RT @heyibinance: GM
+- `1839901745444524230` | 2024-09-28 13:35:34 GMT+8 | original | https://x.com/silverfang88/status/1839901745444524230 | @abyssofgambling 我的天，这辈子我都没亏过这么多钱
+- `1839901981738992066` | 2024-09-28 13:36:30 GMT+8 | original | https://x.com/silverfang88/status/1839901981738992066 | @abyssofgambling @bigbottle44 自从互动了瓶子几次，币安一个礼盒都不给我了
+- `1839902517297058084` | 2024-09-28 13:38:38 GMT+8 | original | https://x.com/silverfang88/status/1839902517297058084 | @abyssofgambling 牛姐继续骂 别停
+- `1839903025344786857` | 2024-09-28 13:40:39 GMT+8 | original | https://x.com/silverfang88/status/1839903025344786857 | @Insider_Venture @abyssofgambling @bigbottle44 你也是，滚啊
+- `1839911201150575074` | 2024-09-28 14:13:08 GMT+8 | original | https://x.com/silverfang88/status/1839911201150575074 | 等待机会 等待版本机会 https://t.co/Qk7zbzNmmo
+- `1839911314614821026` | 2024-09-28 14:13:35 GMT+8 | original | https://x.com/silverfang88/status/1839911314614821026 | 等待机会 等待版本机会
+- `1839920786645111147` | 2024-09-28 14:51:14 GMT+8 | original | https://x.com/silverfang88/status/1839920786645111147 | 《虽然，但是》
+- `1839924541700571397` | 2024-09-28 15:06:09 GMT+8 | original | https://x.com/silverfang88/status/1839924541700571397 | @0x_Glaucus 我信
+- `1839924636449915120` | 2024-09-28 15:06:32 GMT+8 | original | https://x.com/silverfang88/status/1839924636449915120 | @syk233 不服不行啊
+- `1839924735678767124` | 2024-09-28 15:06:55 GMT+8 | original | https://x.com/silverfang88/status/1839924735678767124 | @Spike0826616 国庆了 私聊里一个女的都没有
+- `1840010954731397160` | 2024-09-28 20:49:32 GMT+8 | original | https://x.com/silverfang88/status/1840010954731397160 | 🫵🤡
+- `1840012443717677552` | 2024-09-28 20:55:27 GMT+8 | original | https://x.com/silverfang88/status/1840012443717677552 | @xueqiu88 不买 我只是觉得寓意很好 🤡们
+- `1840024163961954449` | 2024-09-28 21:42:01 GMT+8 | original | https://x.com/silverfang88/status/1840024163961954449 | https://t.co/MesHPE0ve1
+- `1840034742143496353` | 2024-09-28 22:24:03 GMT+8 | original | https://x.com/silverfang88/status/1840034742143496353 | 胜负欲太强 就不是玩游戏了 是被游戏玩
+- `1840035534741074043` | 2024-09-28 22:27:12 GMT+8 | original | https://x.com/silverfang88/status/1840035534741074043 | 你不必在crypto打工，也可以赚到大钱的
+- `1840068812915318972` | 2024-09-29 00:39:26 GMT+8 | reply | https://x.com/silverfang88/status/1840068812915318972 | @withvana @snow949494 🛫
+- `1840068900152607211` | 2024-09-29 00:39:47 GMT+8 | repost | https://x.com/silverfang88/status/1840068900152607211 | RT @withvana: a change is coming https://t.co/SIJuENOJN5
+- `1840121183024648345` | 2024-09-29 04:07:32 GMT+8 | original | https://x.com/silverfang88/status/1840121183024648345 | 時日會蔓延再蔓延 某些不可改變的改變
+- `1840123284311904725` | 2024-09-29 04:15:53 GMT+8 | reply | https://x.com/silverfang88/status/1840123284311904725 | @chorishuang 周杰伦等粤语emo期结束
+- `1840235830461215073` | 2024-09-29 11:43:06 GMT+8 | original | https://x.com/silverfang88/status/1840235830461215073 | 在全推特吹 $cati 发表获奖感言的时候
+- `1840236650766430627` | 2024-09-29 11:46:22 GMT+8 | original | https://x.com/silverfang88/status/1840236650766430627 | 王の拉盘
+- `1840236713186058692` | 2024-09-29 11:46:37 GMT+8 | original | https://x.com/silverfang88/status/1840236713186058692 | 王の拉盘 $fire
+- `1840240105530818795` | 2024-09-29 12:00:05 GMT+8 | original | https://x.com/silverfang88/status/1840240105530818795 | $ggt 已经跌没 亏麻
+- `1840252230173126833` | 2024-09-29 12:48:16 GMT+8 | original | https://x.com/silverfang88/status/1840252230173126833 | 终于把fud，狗叫和分流的人洗完了？
+- `1840253460538650949` | 2024-09-29 12:53:09 GMT+8 | original | https://x.com/silverfang88/status/1840253460538650949 | 睡了 把昨晚上买的 $pod 全卖了
+- `1840253596274688340` | 2024-09-29 12:53:42 GMT+8 | reply | https://x.com/silverfang88/status/1840253596274688340 | 这是个好meme
+- `1840254086878228831` | 2024-09-29 12:55:39 GMT+8 | reply | https://x.com/silverfang88/status/1840254086878228831 | @Fencun_nft 没 微麻 最近买的少了
+- `1840256288573227328` | 2024-09-29 13:04:24 GMT+8 | original | https://x.com/silverfang88/status/1840256288573227328 | 私信最近好几个人
+- `1840256595940262360` | 2024-09-29 13:05:37 GMT+8 | reply | https://x.com/silverfang88/status/1840256595940262360 | 回笼觉启动
+- `1840258678093394206` | 2024-09-29 13:13:53 GMT+8 | original | https://x.com/silverfang88/status/1840258678093394206 | 刚才打开opensea看了五分钟
+- `1840324704952856902` | 2024-09-29 17:36:15 GMT+8 | original | https://x.com/silverfang88/status/1840324704952856902 | Niko一拳头砸烂桌子完成最后五杀 https://t.co/O9mqUfwX2z
+- `1840325273671135452` | 2024-09-29 17:38:31 GMT+8 | quote | https://x.com/silverfang88/status/1840325273671135452 | 到现在都没什么人出来闹事儿
+- `1840325395561783670` | 2024-09-29 17:39:00 GMT+8 | reply | https://x.com/silverfang88/status/1840325395561783670 | @arrdy123 单杀桌子也是实力
+- `1840334540520251441` | 2024-09-29 18:15:20 GMT+8 | reply | https://x.com/silverfang88/status/1840334540520251441 | @withvana 怎么说
+- `1840335605772771774` | 2024-09-29 18:19:34 GMT+8 | reply | https://x.com/silverfang88/status/1840335605772771774 | @Bit_LittleP 你好！！！
+- `1840354851944796658` | 2024-09-29 19:36:03 GMT+8 | original | https://x.com/silverfang88/status/1840354851944796658 | 有人打王者荣耀吗？QQ区的
+- `1840355055930646658` | 2024-09-29 19:36:52 GMT+8 | original | https://x.com/silverfang88/status/1840355055930646658 | 为什么吹，因为在车上
+- `1840355560111124570` | 2024-09-29 19:38:52 GMT+8 | reply | https://x.com/silverfang88/status/1840355560111124570 | @mewdevice ？
 - `1840355675597095035` | 2024-09-29 19:39:19 GMT+8 | reply | https://x.com/silverfang88/status/1840355675597095035 | @ttt907701133 我的资产和青春都在QQ区了
 - `1840360443736441127` | 2024-09-29 19:58:16 GMT+8 | reply | https://x.com/silverfang88/status/1840360443736441127 | @0x_bobo @ttt907701133 啊？
 - `1840362395182436795` | 2024-09-29 20:06:01 GMT+8 | original | https://x.com/silverfang88/status/1840362395182436795 | @chorishuang 我研究研究怎么转
@@ -6372,6 +8969,468 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1874060690694299963` | 2024-12-31 19:51:01 GMT+8 | reply | https://x.com/silverfang88/status/1874060690694299963 | @Tintinx2021 新年大吉 🫡
 - `1874167340834996497` | 2025-01-01 02:54:49 GMT+8 | reply | https://x.com/silverfang88/status/1874167340834996497 | @mablejiang @cyrilxuq 新年快乐！！
 - `1874203848946139150` | 2025-01-01 05:19:53 GMT+8 | original | https://x.com/silverfang88/status/1874203848946139150 | 新年快乐
+- `1917816434438332797` | 2025-05-01 13:40:43 GMT+8 | original | https://x.com/silverfang88/status/1917816434438332797 | &lt;说点大家不想说的行业真相&gt;
+- `1917818954741080345` | 2025-05-01 13:50:44 GMT+8 | original | https://x.com/silverfang88/status/1917818954741080345 | 金钱不会改变初衷
+- `1917819029034787312` | 2025-05-01 13:51:02 GMT+8 | original | https://x.com/silverfang88/status/1917819029034787312 | @youzi_chigua 很明显rushi不具备这样的能力
+- `1917819194210672979` | 2025-05-01 13:51:41 GMT+8 | reply | https://x.com/silverfang88/status/1917819194210672979 | @hazenlee @heyibinance 光，是光！
+- `1917820169390547286` | 2025-05-01 13:55:34 GMT+8 | reply | https://x.com/silverfang88/status/1917820169390547286 | @thecryptoskanda 老外这也没搞明白，我一会儿写个分析
+- `1917820420709048440` | 2025-05-01 13:56:34 GMT+8 | reply | https://x.com/silverfang88/status/1917820420709048440 | @shaneqiu @heyibinance ✅
+- `1917820467932717133` | 2025-05-01 13:56:45 GMT+8 | reply | https://x.com/silverfang88/status/1917820467932717133 | @AMAN_TANG_ @heyibinance gm EANG
+- `1917820579526369560` | 2025-05-01 13:57:12 GMT+8 | reply | https://x.com/silverfang88/status/1917820579526369560 | @kkrriittoo @heyibinance 应该是超雄吗？ 🤣
+- `1917825565475885521` | 2025-05-01 14:17:00 GMT+8 | reply | https://x.com/silverfang88/status/1917825565475885521 | @metaio102 @heyibinance 好久不见 哥
+- `1917826634671124729` | 2025-05-01 14:21:15 GMT+8 | reply | https://x.com/silverfang88/status/1917826634671124729 | @joakja @heyibinance 6
+- `1917827430540272025` | 2025-05-01 14:24:25 GMT+8 | reply | https://x.com/silverfang88/status/1917827430540272025 | @cyodyssey @heyibinance 🐂 我多吃两盘菜都写不出来
+- `1917827536878461394` | 2025-05-01 14:24:50 GMT+8 | original | https://x.com/silverfang88/status/1917827536878461394 | @brc20niubi 牛逼
+- `1917828470291456229` | 2025-05-01 14:28:33 GMT+8 | quote | https://x.com/silverfang88/status/1917828470291456229 | 讲真，梳理币圈每日热点
+- `1917831742724993500` | 2025-05-01 14:41:33 GMT+8 | reply | https://x.com/silverfang88/status/1917831742724993500 | @rita88 @heyibinance 因为我的i是internet的i，互联网已经没有我在乎的人了
+- `1917831853970509997` | 2025-05-01 14:42:00 GMT+8 | reply | https://x.com/silverfang88/status/1917831853970509997 | @xxxApril_D13 @rita88 @heyibinance 🤪
+- `1917832332540588098` | 2025-05-01 14:43:54 GMT+8 | original | https://x.com/silverfang88/status/1917832332540588098 | @metaio102 学习
+- `1917841056990691807` | 2025-05-01 15:18:34 GMT+8 | reply | https://x.com/silverfang88/status/1917841056990691807 | @Airdrop_Lin @heyibinance 我线下不行….
+- `1917844827527602544` | 2025-05-01 15:33:33 GMT+8 | original | https://x.com/silverfang88/status/1917844827527602544 | @xueqiu88 @gork 你真的要笑死我了
+- `1917844878823940282` | 2025-05-01 15:33:45 GMT+8 | original | https://x.com/silverfang88/status/1917844878823940282 | @youzi_chigua 大浪淘沙
+- `1917845139520905397` | 2025-05-01 15:34:47 GMT+8 | original | https://x.com/silverfang88/status/1917845139520905397 | @joakja 凶手找到了？？
+- `1917846473578012934` | 2025-05-01 15:40:05 GMT+8 | reply | https://x.com/silverfang88/status/1917846473578012934 | @ec_unoxx @heyibinance 场景老师打光打得好
+- `1917847500792422541` | 2025-05-01 15:44:10 GMT+8 | reply | https://x.com/silverfang88/status/1917847500792422541 | @Ed_x0101 牛逼..
+- `1917849341076857080` | 2025-05-01 15:51:29 GMT+8 | reply | https://x.com/silverfang88/status/1917849341076857080 | @Eric_XBT 有钱啊
+- `1917856141222240743` | 2025-05-01 16:18:30 GMT+8 | reply | https://x.com/silverfang88/status/1917856141222240743 | @suwanyu7777 @heyibinance 🫡
+- `1917857102808375706` | 2025-05-01 16:22:20 GMT+8 | reply | https://x.com/silverfang88/status/1917857102808375706 | @anon_tako 👂
+- `1917858565706121653` | 2025-05-01 16:28:08 GMT+8 | reply | https://x.com/silverfang88/status/1917858565706121653 | @roger9949 @heyibinance 不愧是你
+- `1917859192309964993` | 2025-05-01 16:30:38 GMT+8 | reply | https://x.com/silverfang88/status/1917859192309964993 | @roger9949 是光！
+- `1917859694481408341` | 2025-05-01 16:32:37 GMT+8 | reply | https://x.com/silverfang88/status/1917859694481408341 | @mablejiang @roger9949 这是什么90后歌词吗
+- `1917861978284130506` | 2025-05-01 16:41:42 GMT+8 | quote | https://x.com/silverfang88/status/1917861978284130506 | https://t.co/ZDCFNMo7bq https://t.co/mFgkrp8p22
+- `1917865273459355845` | 2025-05-01 16:54:48 GMT+8 | reply | https://x.com/silverfang88/status/1917865273459355845 | @LeotheHorseman 无敌 结局最绝望但是反转最无敌的一部
+- `1917887363977716169` | 2025-05-01 18:22:34 GMT+8 | reply | https://x.com/silverfang88/status/1917887363977716169 | @LeotheHorseman @zepump 我还真不知道这么多…
+- `1917888896014434423` | 2025-05-01 18:28:40 GMT+8 | reply | https://x.com/silverfang88/status/1917888896014434423 | @zepump @LeotheHorseman 他们朝我扔泥巴 哦哦哦哦哦
+- `1917894874759848003` | 2025-05-01 18:52:25 GMT+8 | reply | https://x.com/silverfang88/status/1917894874759848003 | @Kax000 有点厉害
+- `1917896685667422410` | 2025-05-01 18:59:37 GMT+8 | reply | https://x.com/silverfang88/status/1917896685667422410 | @Crypto_Yang8888 @Yukirabbit_brc @Neon2079 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 @0x_Glaucus @SatoshiNobility @0xAmazingChar 砍死狮子杨
+- `1917896824696029461` | 2025-05-01 19:00:10 GMT+8 | reply | https://x.com/silverfang88/status/1917896824696029461 | @one_snowball @gork @movementlabsxyz 狠起来连自己都骂
+- `1917931927379780090` | 2025-05-01 21:19:39 GMT+8 | original | https://x.com/silverfang88/status/1917931927379780090 | <今日热点回顾5.1>
+- `1917934937870852403` | 2025-05-01 21:31:37 GMT+8 | reply | https://x.com/silverfang88/status/1917934937870852403 | @hotpot_dao 学习
+- `1917949721890689391` | 2025-05-01 22:30:22 GMT+8 | reply | https://x.com/silverfang88/status/1917949721890689391 | @0xbfun 害怕
+- `1917949732921704545` | 2025-05-01 22:30:24 GMT+8 | reply | https://x.com/silverfang88/status/1917949732921704545 | @bitcoin10wu 6
+- `1917979334083830144` | 2025-05-02 00:28:02 GMT+8 | reply | https://x.com/silverfang88/status/1917979334083830144 | @xiaoman1188 努力
+- `1917984851556483265` | 2025-05-02 00:49:57 GMT+8 | quote | https://x.com/silverfang88/status/1917984851556483265 | 恐惧敬畏尊重 https://t.co/4ST3nw9Lrp https://t.co/mFgkrp8p22
+- `1918044200056307784` | 2025-05-02 04:45:47 GMT+8 | reply | https://x.com/silverfang88/status/1918044200056307784 | @heyibinance 🫡 正心正念
+- `1918176894438260788` | 2025-05-02 13:33:04 GMT+8 | reply | https://x.com/silverfang88/status/1918176894438260788 | @mablejiang @Sidekick_Labs @HeyfishYC @wildwoodmoo 行
+- `1918188361354793080` | 2025-05-02 14:18:38 GMT+8 | original | https://x.com/silverfang88/status/1918188361354793080 | &lt;说点大家不想说的行业真相&gt;
+- `1918188507874419163` | 2025-05-02 14:19:13 GMT+8 | reply | https://x.com/silverfang88/status/1918188507874419163 | @hazenlee @Sidekick_Labs @Crypto_Yang8888 @Yukirabbit_brc @Neon2079 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 下次来啊
+- `1918189628135268804` | 2025-05-02 14:23:40 GMT+8 | reply | https://x.com/silverfang88/status/1918189628135268804 | @rtk17025 @Sidekick_Labs @Crypto_Yang8888 @Yukirabbit_brc @Neon2079 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 过两天就开干
+- `1918189660976689411` | 2025-05-02 14:23:48 GMT+8 | original | https://x.com/silverfang88/status/1918189660976689411 | @0xAmazingChar @Sidekick_Labs @Crypto_Yang8888 @Yukirabbit_brc @Neon2079 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 手起刀落人抬走
+- `1918189702110380128` | 2025-05-02 14:23:57 GMT+8 | reply | https://x.com/silverfang88/status/1918189702110380128 | @Crypto_Yang8888 @Sidekick_Labs @Yukirabbit_brc @Neon2079 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 收到 今晚就杀狮子羊
+- `1918195185072390446` | 2025-05-02 14:45:45 GMT+8 | reply | https://x.com/silverfang88/status/1918195185072390446 | @guhype 嗯
+- `1918195239182905451` | 2025-05-02 14:45:58 GMT+8 | original | https://x.com/silverfang88/status/1918195239182905451 | @metaio102 这得问问微策略
+- `1918199621819433151` | 2025-05-02 15:03:22 GMT+8 | reply | https://x.com/silverfang88/status/1918199621819433151 | @daoist_404 专业
+- `1918201093886005434` | 2025-05-02 15:09:13 GMT+8 | original | https://x.com/silverfang88/status/1918201093886005434 | @thecryptoskanda 想明白了
+- `1918202644809531830` | 2025-05-02 15:15:23 GMT+8 | original | https://x.com/silverfang88/status/1918202644809531830 | @OpenledgerHQ 🫡
+- `1918209442346057791` | 2025-05-02 15:42:24 GMT+8 | original | https://x.com/silverfang88/status/1918209442346057791 | @Neon2079 @Sidekick_Labs @Crypto_Yang8888 @Yukirabbit_brc @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 无敌
+- `1918209478186680489` | 2025-05-02 15:42:32 GMT+8 | original | https://x.com/silverfang88/status/1918209478186680489 | @rita88 @Sidekick_Labs @Crypto_Yang8888 @Yukirabbit_brc @Neon2079 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 那我必须赢
+- `1918280301085700341` | 2025-05-02 20:23:58 GMT+8 | original | https://x.com/silverfang88/status/1918280301085700341 | &lt;每日热点回顾5.2&gt;
+- `1918280749872017611` | 2025-05-02 20:25:45 GMT+8 | repost | https://x.com/silverfang88/status/1918280749872017611 | RT @Sidekick_Labs: 猎杀时刻到，北京时间今晚7点，来 @sidekick_labs 直播间，围观终极杀人夜，究竟谁能Carry全场？现场还有千元支付宝红包口令红包领取。#Sidekick鹅鸭杀
+- `1918285613100396816` | 2025-05-02 20:45:04 GMT+8 | original | https://x.com/silverfang88/status/1918285613100396816 | @kaylyn_0x https://t.co/TAlOddfQyj
+- `1918292981624312184` | 2025-05-02 21:14:21 GMT+8 | original | https://x.com/silverfang88/status/1918292981624312184 | @momochenming 笑死
+- `1918301565452206160` | 2025-05-02 21:48:28 GMT+8 | original | https://x.com/silverfang88/status/1918301565452206160 | 最近链上AI盘子冒出来的很多
+- `1918321969382244823` | 2025-05-02 23:09:32 GMT+8 | original | https://x.com/silverfang88/status/1918321969382244823 | @Sidekick_Intern @Sidekick_Labs @Yukirabbit_brc @Neon2079 @Crypto_Yang8888 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 @0x_Glaucus @SatoshiNobility @0xAmazingChar 高
+- `1918373866264772810` | 2025-05-03 02:35:46 GMT+8 | original | https://x.com/silverfang88/status/1918373866264772810 | @Mirro7777 @dov_wo 迈凯伦容易坏吗?
+- `1918374000146956326` | 2025-05-03 02:36:17 GMT+8 | original | https://x.com/silverfang88/status/1918374000146956326 | @hotpot_dao 为什么不能站在桌上呢
+- `1918562199213047997` | 2025-05-03 15:04:08 GMT+8 | original | https://x.com/silverfang88/status/1918562199213047997 | &lt;说点大家不想说的行业真相&gt;
+- `1918562857332969981` | 2025-05-03 15:06:45 GMT+8 | original | https://x.com/silverfang88/status/1918562857332969981 | @Web3zy8 米卡马卡瓜
+- `1918562905995309279` | 2025-05-03 15:06:56 GMT+8 | original | https://x.com/silverfang88/status/1918562905995309279 | @youzi_chigua 我尼玛我还叽里呱啦呢
+- `1918563579068072174` | 2025-05-03 15:09:37 GMT+8 | reply | https://x.com/silverfang88/status/1918563579068072174 | @roger9949 午安骚逼骚逼
+- `1918565911939752135` | 2025-05-03 15:18:53 GMT+8 | reply | https://x.com/silverfang88/status/1918565911939752135 | @xingpt 是它，是它就是它
+- `1918566908946989180` | 2025-05-03 15:22:50 GMT+8 | reply | https://x.com/silverfang88/status/1918566908946989180 | @LeotheHorseman ？
+- `1918574729427898497` | 2025-05-03 15:53:55 GMT+8 | reply | https://x.com/silverfang88/status/1918574729427898497 | @Sidekick_Intern @MatrixFreedom_ @Sidekick_Labs @Yukirabbit_brc @Neon2079 @Crypto_Yang8888 @cdb57676522 @hzs2036566 @ScarlettWeb3 @VickyQi17 @xueqiu88 @0x_Glaucus @SatoshiNobility 
+- `1918590023953530902` | 2025-05-03 16:54:42 GMT+8 | original | https://x.com/silverfang88/status/1918590023953530902 | 熟悉我的朋友都知道
+- `1918640773127434623` | 2025-05-03 20:16:21 GMT+8 | original | https://x.com/silverfang88/status/1918640773127434623 | &lt;每日热点回顾5.3&gt;
+- `1918642328383770814` | 2025-05-03 20:22:32 GMT+8 | reply | https://x.com/silverfang88/status/1918642328383770814 | @StewartEdward07 累
+- `1918642663168884892` | 2025-05-03 20:23:52 GMT+8 | reply | https://x.com/silverfang88/status/1918642663168884892 | @Real_RZ_ 冻不了的
+- `1918642684194873555` | 2025-05-03 20:23:57 GMT+8 | reply | https://x.com/silverfang88/status/1918642684194873555 | @anymose 行
+- `1918642706643075191` | 2025-05-03 20:24:02 GMT+8 | reply | https://x.com/silverfang88/status/1918642706643075191 | @edceeddcc 疲惫了
+- `1918643483495084126` | 2025-05-03 20:27:07 GMT+8 | reply | https://x.com/silverfang88/status/1918643483495084126 | @kxtw1949 无
+- `1918728506998952007` | 2025-05-04 02:04:58 GMT+8 | reply | https://x.com/silverfang88/status/1918728506998952007 | @vvxiaoyu8888 你可别整出什么幺蛾子
+- `1918747934062952569` | 2025-05-04 03:22:10 GMT+8 | reply | https://x.com/silverfang88/status/1918747934062952569 | @RR_hodl 又是你砸的盘是吧
+- `1918914552315674694` | 2025-05-04 14:24:15 GMT+8 | original | https://x.com/silverfang88/status/1918914552315674694 | <说点大家不想说的行业真相>
+- `1918917379603509521` | 2025-05-04 14:35:29 GMT+8 | reply | https://x.com/silverfang88/status/1918917379603509521 | @edceeddcc 咱也没啥智慧，实在不行被智慧的人的精子填满也不是不可以
+- `1918930211602616478` | 2025-05-04 15:26:29 GMT+8 | reply | https://x.com/silverfang88/status/1918930211602616478 | @thecryptoskanda 男人过了25就60了
+- `1918965651617517574` | 2025-05-04 17:47:18 GMT+8 | reply | https://x.com/silverfang88/status/1918965651617517574 | @jaysonhu2018 好问题 哥
+- `1918991977460502676` | 2025-05-04 19:31:55 GMT+8 | original | https://x.com/silverfang88/status/1918991977460502676 | <今日热点回顾5.4>
+- `1918993792671080525` | 2025-05-04 19:39:08 GMT+8 | original | https://x.com/silverfang88/status/1918993792671080525 | @0xAmazingChar 🐭
+- `1918993829908140505` | 2025-05-04 19:39:16 GMT+8 | reply | https://x.com/silverfang88/status/1918993829908140505 | @joakja 👍
+- `1919047037112189122` | 2025-05-04 23:10:42 GMT+8 | reply | https://x.com/silverfang88/status/1919047037112189122 | @victorone111 @joakja 牛
+- `1919103442091495556` | 2025-05-05 02:54:50 GMT+8 | reply | https://x.com/silverfang88/status/1919103442091495556 | @Momoxu7 @cryptosmerkis @zeroxcholy @GOTPAWSED @realDogsHouse @TacBuild @rrrusxx @Gink5814 @BNBCHAINZH @CryptoNataNata 🫡
+- `1919110859923607851` | 2025-05-05 03:24:19 GMT+8 | reply | https://x.com/silverfang88/status/1919110859923607851 | @cyrilxuq 钮钴禄冲浪
+- `1919273123234349380` | 2025-05-05 14:09:05 GMT+8 | original | https://x.com/silverfang88/status/1919273123234349380 | &lt;说点大家不想说的行业真相&gt;
+- `1919274034534989830` | 2025-05-05 14:12:42 GMT+8 | reply | https://x.com/silverfang88/status/1919274034534989830 | @Anna_nanachan gm
+- `1919274528951136581` | 2025-05-05 14:14:40 GMT+8 | original | https://x.com/silverfang88/status/1919274528951136581 | ？？？？一大早的
+- `1919296777984921973` | 2025-05-05 15:43:05 GMT+8 | reply | https://x.com/silverfang88/status/1919296777984921973 | @CatCryptoMaster 行
+- `1919311191580778776` | 2025-05-05 16:40:21 GMT+8 | original | https://x.com/silverfang88/status/1919311191580778776 | 离开迪拜了 回欧洲了
+- `1919312373409620399` | 2025-05-05 16:45:03 GMT+8 | reply | https://x.com/silverfang88/status/1919312373409620399 | @one_snowball @snow949494 是我
+- `1919319411724316733` | 2025-05-05 17:13:01 GMT+8 | reply | https://x.com/silverfang88/status/1919319411724316733 | @HeyfishYC @rita88 @snow949494 ？
+- `1919340025709232288` | 2025-05-05 18:34:56 GMT+8 | original | https://x.com/silverfang88/status/1919340025709232288 | <今日热点回顾 5.5>
+- `1919341225242656885` | 2025-05-05 18:39:42 GMT+8 | reply | https://x.com/silverfang88/status/1919341225242656885 | @CryptoSociety42 牛逼几把
+- `1919342851143667832` | 2025-05-05 18:46:10 GMT+8 | reply | https://x.com/silverfang88/status/1919342851143667832 | @HasakiDoge ？
+- `1919342926788005957` | 2025-05-05 18:46:28 GMT+8 | reply | https://x.com/silverfang88/status/1919342926788005957 | @zkgoudan 草 许愿世界和平
+- `1919342969699652055` | 2025-05-05 18:46:38 GMT+8 | reply | https://x.com/silverfang88/status/1919342969699652055 | @MetaHunter168 合理
+- `1919442155078132088` | 2025-05-06 01:20:45 GMT+8 | reply | https://x.com/silverfang88/status/1919442155078132088 | @Obol_Collective @binance 6
+- `1919598972668113384` | 2025-05-06 11:43:54 GMT+8 | original | https://x.com/silverfang88/status/1919598972668113384 | &lt;说点大家不想说的行业真相&gt;
+- `1919673018864807950` | 2025-05-06 16:38:08 GMT+8 | reply | https://x.com/silverfang88/status/1919673018864807950 | @mia_okx gm
+- `1919673130571706675` | 2025-05-06 16:38:34 GMT+8 | reply | https://x.com/silverfang88/status/1919673130571706675 | @wenser2010 6
+- `1919697847038968163` | 2025-05-06 18:16:47 GMT+8 | original | https://x.com/silverfang88/status/1919697847038968163 | &lt;币安wallet 5.6复盘&gt;
+- `1919708506669597034` | 2025-05-06 18:59:09 GMT+8 | repost | https://x.com/silverfang88/status/1919708506669597034 | RT @StakeStone_CN: 🪨 STONE Session 🪨
+- `1919713778712584269` | 2025-05-06 19:20:06 GMT+8 | original | https://x.com/silverfang88/status/1919713778712584269 | &lt;今日热点回顾5.6&gt;
+- `1919714585747104032` | 2025-05-06 19:23:18 GMT+8 | reply | https://x.com/silverfang88/status/1919714585747104032 | @GuoGuo6888 人家可能不是这么思考的
+- `1919718805606949354` | 2025-05-06 19:40:04 GMT+8 | reply | https://x.com/silverfang88/status/1919718805606949354 | @Hotpot01 ok
+- `1919719479132483760` | 2025-05-06 19:42:45 GMT+8 | reply | https://x.com/silverfang88/status/1919719479132483760 | @eddieInCodding 忘了
+- `1919735821449445644` | 2025-05-06 20:47:41 GMT+8 | reply | https://x.com/silverfang88/status/1919735821449445644 | @guhype 怎么说
+- `1919735869797290082` | 2025-05-06 20:47:52 GMT+8 | reply | https://x.com/silverfang88/status/1919735869797290082 | @leijemmy 只是感觉
+- `1919739722810769909` | 2025-05-06 21:03:11 GMT+8 | reply | https://x.com/silverfang88/status/1919739722810769909 | @ocherryaweb3 感觉罢了。。。
+- `1919745951763255588` | 2025-05-06 21:27:56 GMT+8 | reply | https://x.com/silverfang88/status/1919745951763255588 | @Sidekick_Intern @Sidekick_Labs 一路上没有朋友 只有敌人
+- `1919774005587804607` | 2025-05-06 23:19:25 GMT+8 | quote | https://x.com/silverfang88/status/1919774005587804607 | 我看好 @Sidekick_Labs 的一个点就是
+- `1919774266158981128` | 2025-05-06 23:20:27 GMT+8 | quote | https://x.com/silverfang88/status/1919774266158981128 | 我看好 @Sidekick_Labs 的一个点就是
+- `1919782812531511748` | 2025-05-06 23:54:25 GMT+8 | reply | https://x.com/silverfang88/status/1919782812531511748 | @MaraCakeHotSale @Sidekick_Labs 你们怎么这么多E人
+- `1919791326238855561` | 2025-05-07 00:28:14 GMT+8 | reply | https://x.com/silverfang88/status/1919791326238855561 | @MaraCakeHotSale @Sidekick_Labs 吐了
+- `1919819421591261556` | 2025-05-07 02:19:53 GMT+8 | reply | https://x.com/silverfang88/status/1919819421591261556 | @cyodyssey 牛逼
+- `1919997234831134764` | 2025-05-07 14:06:27 GMT+8 | original | https://x.com/silverfang88/status/1919997234831134764 | &lt;说点大家不想说的行业真相&gt;
+- `1919998480472273341` | 2025-05-07 14:11:24 GMT+8 | quote | https://x.com/silverfang88/status/1919998480472273341 | 另一个大瓜 想知道吗？
+- `1919998639092478365` | 2025-05-07 14:12:02 GMT+8 | original | https://x.com/silverfang88/status/1919998639092478365 | @momochenming 好的
+- `1920000120193536019` | 2025-05-07 14:17:55 GMT+8 | original | https://x.com/silverfang88/status/1920000120193536019 | @joakja ？？？
+- `1920073093118083504` | 2025-05-07 19:07:53 GMT+8 | quote | https://x.com/silverfang88/status/1920073093118083504 | 前两天刚提过的Obol要TGE了
+- `1920100627629166947` | 2025-05-07 20:57:18 GMT+8 | original | https://x.com/silverfang88/status/1920100627629166947 | <今日热点回顾5.7>
+- `1920106143621226776` | 2025-05-07 21:19:13 GMT+8 | reply | https://x.com/silverfang88/status/1920106143621226776 | @thecryptoskanda nb
+- `1920134984607596974` | 2025-05-07 23:13:49 GMT+8 | reply | https://x.com/silverfang88/status/1920134984607596974 | @bubblemaps @FT nb
+- `1920178351404163277` | 2025-05-08 02:06:08 GMT+8 | original | https://x.com/silverfang88/status/1920178351404163277 | @0xclover233 你说的对
+- `1920178372312789060` | 2025-05-08 02:06:13 GMT+8 | original | https://x.com/silverfang88/status/1920178372312789060 | @ttt907701133 好的
+- `1920201649554894953` | 2025-05-08 03:38:43 GMT+8 | original | https://x.com/silverfang88/status/1920201649554894953 | @0x_kuma 其实是文科生 但是我历史尤其好
+- `1920357664497770969` | 2025-05-08 13:58:40 GMT+8 | original | https://x.com/silverfang88/status/1920357664497770969 | @traderjoe725 不是元首会面
+- `1920406840220811534` | 2025-05-08 17:14:04 GMT+8 | original | https://x.com/silverfang88/status/1920406840220811534 | &lt;说点大家不想说的行业真相&gt; 
+- `1920407515906412553` | 2025-05-08 17:16:45 GMT+8 | original | https://x.com/silverfang88/status/1920407515906412553 | @abyssofgambling 你回来了
+- `1920407574072934585` | 2025-05-08 17:16:59 GMT+8 | original | https://x.com/silverfang88/status/1920407574072934585 | @nanshenwudao …
+- `1920407643828469937` | 2025-05-08 17:17:16 GMT+8 | reply | https://x.com/silverfang88/status/1920407643828469937 | @Simonkff 因为北京没人说了算了
+- `1920414435933327519` | 2025-05-08 17:44:15 GMT+8 | original | https://x.com/silverfang88/status/1920414435933327519 | @YeruiZhang 太卷了
+- `1920423422430961916` | 2025-05-08 18:19:58 GMT+8 | repost | https://x.com/silverfang88/status/1920423422430961916 | RT @ChainCatcher_: 🎙️#OKX DEX 升级回归，推进了哪些关键事项？版本在战略和产品上有什么核心变化？还会有新的 #meme 热潮吗🧐
+- `1920427747664343166` | 2025-05-08 18:37:09 GMT+8 | original | https://x.com/silverfang88/status/1920427747664343166 | @xingpt gg
+- `1920471885080334437` | 2025-05-08 21:32:32 GMT+8 | original | https://x.com/silverfang88/status/1920471885080334437 | <山寨币新打法>
+- `1920479287582343581` | 2025-05-08 22:01:57 GMT+8 | original | https://x.com/silverfang88/status/1920479287582343581 | <今日热点回顾5.8>
+- `1920480123637096855` | 2025-05-08 22:05:16 GMT+8 | original | https://x.com/silverfang88/status/1920480123637096855 | @abyssofgambling 不想看了，我累了，最近打飞机打多了
+- `1920480978461475102` | 2025-05-08 22:08:40 GMT+8 | reply | https://x.com/silverfang88/status/1920480978461475102 | 漏了这个，开源脚本偷了500万U了 https://t.co/NBGDytnatw
+- `1920755452884738493` | 2025-05-09 16:19:20 GMT+8 | original | https://x.com/silverfang88/status/1920755452884738493 | &lt;说点大家不想说的行业真相&gt;
+- `1920756708248367431` | 2025-05-09 16:24:19 GMT+8 | original | https://x.com/silverfang88/status/1920756708248367431 | @Anna_nanachan gm
+- `1920760124005556315` | 2025-05-09 16:37:54 GMT+8 | original | https://x.com/silverfang88/status/1920760124005556315 | @blockjengirl gm
+- `1920760198899069197` | 2025-05-09 16:38:12 GMT+8 | reply | https://x.com/silverfang88/status/1920760198899069197 | @Van1saXXM gg
+- `1920771060871336334` | 2025-05-09 17:21:21 GMT+8 | quote | https://x.com/silverfang88/status/1920771060871336334 | Polyhedra (ZKJ) 上币安Alpha了
+- `1920781590663151998` | 2025-05-09 18:03:12 GMT+8 | reply | https://x.com/silverfang88/status/1920781590663151998 | @AMAN_TANG_ 恭喜Eang！
+- `1920811657170682145` | 2025-05-09 20:02:40 GMT+8 | original | https://x.com/silverfang88/status/1920811657170682145 | &lt;涨幅榜项目&gt;
+- `1920823574442459431` | 2025-05-09 20:50:01 GMT+8 | original | https://x.com/silverfang88/status/1920823574442459431 | <每日热点回顾5.9>
+- `1920828589693383018` | 2025-05-09 21:09:57 GMT+8 | repost | https://x.com/silverfang88/status/1920828589693383018 | RT @falconfinance: 📢 Falcon TVL突破2.5亿，为何赢得市场青睐？
+- `1920912633848336885` | 2025-05-10 02:43:55 GMT+8 | reply | https://x.com/silverfang88/status/1920912633848336885 | @RaccoonHKG @CryptoMeina 哈哈哈哈哈
+- `1920987264982700137` | 2025-05-10 07:40:28 GMT+8 | original | https://x.com/silverfang88/status/1920987264982700137 | BNB这么涨
+- `1920990052865192021` | 2025-05-10 07:51:33 GMT+8 | reply | https://x.com/silverfang88/status/1920990052865192021 | @foxkevin7 现在呢
+- `1920996519563428249` | 2025-05-10 08:17:15 GMT+8 | quote | https://x.com/silverfang88/status/1920996519563428249 | …. 半小时速通一辆小米su7
+- `1920998199130566717` | 2025-05-10 08:23:55 GMT+8 | reply | https://x.com/silverfang88/status/1920998199130566717 | @chaozuoye 睡觉了 哥 明天起来再看看
+- `1920998534783922475` | 2025-05-10 08:25:15 GMT+8 | reply | https://x.com/silverfang88/status/1920998534783922475 | @CatCryptoMaster 醒了抽金条
+- `1920999241708605929` | 2025-05-10 08:28:04 GMT+8 | reply | https://x.com/silverfang88/status/1920999241708605929 | @zkgoudan 你猜猜谁砸的
+- `1921007985523871837` | 2025-05-10 09:02:49 GMT+8 | quote | https://x.com/silverfang88/status/1921007985523871837 | 恭喜这个B 晚安 https://t.co/v29yzCWck2 https://t.co/IK4zBBL8RQ
+- `1921088877160247645` | 2025-05-10 14:24:15 GMT+8 | original | https://x.com/silverfang88/status/1921088877160247645 | &lt;说点大家不想说的行业真相&gt;
+- `1921092265927119006` | 2025-05-10 14:37:43 GMT+8 | reply | https://x.com/silverfang88/status/1921092265927119006 | @zkgoudan 那我还有38cm
+- `1921092313293480365` | 2025-05-10 14:37:54 GMT+8 | reply | https://x.com/silverfang88/status/1921092313293480365 | @Stra1ght_Flush 😂
+- `1921097474510381362` | 2025-05-10 14:58:24 GMT+8 | quote | https://x.com/silverfang88/status/1921097474510381362 | 星球的林明老师在大熊市的最底部
+- `1921098740300984354` | 2025-05-10 15:03:26 GMT+8 | original | https://x.com/silverfang88/status/1921098740300984354 | BSC现在猪脚饭的分数
+- `1921099185547309283` | 2025-05-10 15:05:12 GMT+8 | reply | https://x.com/silverfang88/status/1921099185547309283 | @ocherryaweb3 眯会儿
+- `1921109323171696996` | 2025-05-10 15:45:29 GMT+8 | reply | https://x.com/silverfang88/status/1921109323171696996 | @keyahayek 我们00后的童年
+- `1921110532037153166` | 2025-05-10 15:50:18 GMT+8 | reply | https://x.com/silverfang88/status/1921110532037153166 | @thecryptoskanda @keyahayek 哈哈哈哈
+- `1921130406549598274` | 2025-05-10 17:09:16 GMT+8 | reply | https://x.com/silverfang88/status/1921130406549598274 | @notburger_ 恭喜
+- `1921138258613846215` | 2025-05-10 17:40:28 GMT+8 | reply | https://x.com/silverfang88/status/1921138258613846215 | @btcohmann @Sidekick_Labs @xueqiu88 @StewartEdward07 @Mirro7777 @0xAmazingChar 没事 游戏而已
+- `1921138318428782911` | 2025-05-10 17:40:42 GMT+8 | reply | https://x.com/silverfang88/status/1921138318428782911 | @StewartEdward07 @Sidekick_Labs @btcohmann @xueqiu88 @Mirro7777 @0xAmazingChar 行 摸黑杀人
+- `1921156803829571836` | 2025-05-10 18:54:10 GMT+8 | reply | https://x.com/silverfang88/status/1921156803829571836 | @xueqiu88 牛逼
+- `1921158970745528472` | 2025-05-10 19:02:46 GMT+8 | original | https://x.com/silverfang88/status/1921158970745528472 | 看到了一个古老但恐惧的名字
+- `1921159563996221871` | 2025-05-10 19:05:08 GMT+8 | original | https://x.com/silverfang88/status/1921159563996221871 | 看到了一个古老但恐惧的名字
+- `1921160879036416221` | 2025-05-10 19:10:21 GMT+8 | reply | https://x.com/silverfang88/status/1921160879036416221 | @0Xnujabes 应该不至于
+- `1921160959348879538` | 2025-05-10 19:10:40 GMT+8 | reply | https://x.com/silverfang88/status/1921160959348879538 | @CatCryptoMaster kongjingzun
+- `1921163632034844690` | 2025-05-10 19:21:18 GMT+8 | reply | https://x.com/silverfang88/status/1921163632034844690 | @QinBtc 全民公敌
+- `1921192061119689094` | 2025-05-10 21:14:16 GMT+8 | reply | https://x.com/silverfang88/status/1921192061119689094 | @keyahayek 哈哈哈哈
+- `1921224385815310374` | 2025-05-10 23:22:42 GMT+8 | repost | https://x.com/silverfang88/status/1921224385815310374 | RT @CryptoMeina: 本打算精心剪辑的对话，
+- `1921225014109462923` | 2025-05-10 23:25:12 GMT+8 | original | https://x.com/silverfang88/status/1921225014109462923 | <今日热点5.10>
+- `1921226660826767810` | 2025-05-10 23:31:45 GMT+8 | reply | https://x.com/silverfang88/status/1921226660826767810 | @Real_RZ_ 触控板我容易吗！
+- `1921227520000561339` | 2025-05-10 23:35:10 GMT+8 | reply | https://x.com/silverfang88/status/1921227520000561339 | @Real_RZ_ 是啊 这玩意儿咋去掉
+- `1921236314893979964` | 2025-05-11 00:10:06 GMT+8 | reply | https://x.com/silverfang88/status/1921236314893979964 | @0xtbagg 刷推特
+- `1921240501878980906` | 2025-05-11 00:26:45 GMT+8 | reply | https://x.com/silverfang88/status/1921240501878980906 | @momochenming 某种意义上挺厉害的
+- `1921270662649282624` | 2025-05-11 02:26:36 GMT+8 | reply | https://x.com/silverfang88/status/1921270662649282624 | @Tintinx2021 @CryptoMeina 大结果？？？
+- `1921272008773345612` | 2025-05-11 02:31:57 GMT+8 | reply | https://x.com/silverfang88/status/1921272008773345612 | @thecryptoskanda @Tintinx2021 @CryptoMeina 😂
+- `1921280569125585154` | 2025-05-11 03:05:58 GMT+8 | reply | https://x.com/silverfang88/status/1921280569125585154 | @Yoyoyiyi1234 一个夹子
+- `1921465101934014500` | 2025-05-11 15:19:14 GMT+8 | original | https://x.com/silverfang88/status/1921465101934014500 | <说点大家不想说的行业真相>
+- `1921465659986202817` | 2025-05-11 15:21:27 GMT+8 | reply | https://x.com/silverfang88/status/1921465659986202817 | @xingpt 重生之我是V神
+- `1921466170378457096` | 2025-05-11 15:23:28 GMT+8 | reply | https://x.com/silverfang88/status/1921466170378457096 | @Anna_nanachan gm
+- `1921466336896524685` | 2025-05-11 15:24:08 GMT+8 | reply | https://x.com/silverfang88/status/1921466336896524685 | @momochenming 我可以男喘
+- `1921469261794402452` | 2025-05-11 15:35:45 GMT+8 | reply | https://x.com/silverfang88/status/1921469261794402452 | @suji_yan @Sidekick_Labs @btcohmann @xueqiu88 @StewartEdward07 @Mirro7777 @0xAmazingChar 狼人被冤死的反馈太冰冷了
+- `1921476787982291391` | 2025-05-11 16:05:40 GMT+8 | original | https://x.com/silverfang88/status/1921476787982291391 | 前段时间不是用OpenLedger @OpenledgerHQ 
+- `1921485891404546148` | 2025-05-11 16:41:50 GMT+8 | reply | https://x.com/silverfang88/status/1921485891404546148 | @0xclover233 jito 哈哈哈哈哈哈哈哈哈
+- `1921560955353210935` | 2025-05-11 21:40:07 GMT+8 | original | https://x.com/silverfang88/status/1921560955353210935 | <每日热点回顾5.11>
+- `1921561977790353519` | 2025-05-11 21:44:11 GMT+8 | original | https://x.com/silverfang88/status/1921561977790353519 | 绝大部分时间
+- `1921562402039980198` | 2025-05-11 21:45:52 GMT+8 | reply | https://x.com/silverfang88/status/1921562402039980198 | @yunxixiaopeny 学
+- `1921562445782421740` | 2025-05-11 21:46:02 GMT+8 | reply | https://x.com/silverfang88/status/1921562445782421740 | @0xAgata 明天见
+- `1921562473200570527` | 2025-05-11 21:46:09 GMT+8 | reply | https://x.com/silverfang88/status/1921562473200570527 | @CryptoSociety42 能不能艾特出来
+- `1921579181730660364` | 2025-05-11 22:52:32 GMT+8 | reply | https://x.com/silverfang88/status/1921579181730660364 | @chaozuoye 不懂就买btc
+- `1921800918938325035` | 2025-05-12 13:33:39 GMT+8 | reply | https://x.com/silverfang88/status/1921800918938325035 | @anon_tako 6
+- `1921809598362656956` | 2025-05-12 14:08:08 GMT+8 | original | https://x.com/silverfang88/status/1921809598362656956 | 23岁cmo咋了
+- `1921811538786013614` | 2025-05-12 14:15:51 GMT+8 | original | https://x.com/silverfang88/status/1921811538786013614 | 今天有人说helen在搞闺蜜团
+- `1921811754188685447` | 2025-05-12 14:16:42 GMT+8 | reply | https://x.com/silverfang88/status/1921811754188685447 | @CryptoSociety42 行
+- `1921811818156069137` | 2025-05-12 14:16:57 GMT+8 | reply | https://x.com/silverfang88/status/1921811818156069137 | @thecryptoskanda 串子
+- `1921812564050141355` | 2025-05-12 14:19:55 GMT+8 | reply | https://x.com/silverfang88/status/1921812564050141355 | @sun_xinjin 我不是说要钦定，没有任何这个意思
+- `1921812762738516252` | 2025-05-12 14:20:42 GMT+8 | reply | https://x.com/silverfang88/status/1921812762738516252 | @Haoskionchain 就该把Ben的人再多踢走点
+- `1921814512375669027` | 2025-05-12 14:27:39 GMT+8 | original | https://x.com/silverfang88/status/1921814512375669027 | <说点大家不想说的行业真相>
+- `1921815159468683704` | 2025-05-12 14:30:14 GMT+8 | reply | https://x.com/silverfang88/status/1921815159468683704 | @CryptoSociety42 我只能说，无可奉告
+- `1921815248211750957` | 2025-05-12 14:30:35 GMT+8 | reply | https://x.com/silverfang88/status/1921815248211750957 | @anymose @dingalingts 这可能是兄弟团
+- `1921815782909964747` | 2025-05-12 14:32:42 GMT+8 | reply | https://x.com/silverfang88/status/1921815782909964747 | @Gabrysia_eth 迟早的
+- `1921821634509341001` | 2025-05-12 14:55:58 GMT+8 | reply | https://x.com/silverfang88/status/1921821634509341001 | @CryptoSociety42 @liangxihuigui 盗图可真该死啊
+- `1921823598768971882` | 2025-05-12 15:03:46 GMT+8 | reply | https://x.com/silverfang88/status/1921823598768971882 | @Simonkff 对对对
+- `1921862168594542608` | 2025-05-12 17:37:02 GMT+8 | reply | https://x.com/silverfang88/status/1921862168594542608 | @OpenledgerHQ 牛批
+- `1921880118072340609` | 2025-05-12 18:48:21 GMT+8 | original | https://x.com/silverfang88/status/1921880118072340609 | <每日热点回顾5.12>
+- `1921880953720295800` | 2025-05-12 18:51:40 GMT+8 | reply | https://x.com/silverfang88/status/1921880953720295800 | @Real_RZ_ V神得加钱
+- `1921891071040061478` | 2025-05-12 19:31:53 GMT+8 | original | https://x.com/silverfang88/status/1921891071040061478 | 今夜继续激情鹅鸭杀直播
+- `1922145966250938639` | 2025-05-13 12:24:44 GMT+8 | original | https://x.com/silverfang88/status/1922145966250938639 | &lt;说点大家不想说的行业真相&gt;
+- `1922147465123320038` | 2025-05-13 12:30:42 GMT+8 | reply | https://x.com/silverfang88/status/1922147465123320038 | @nine_DeFi 我没k 我没k bulu biu bulu biu
+- `1922205528605790490` | 2025-05-13 16:21:25 GMT+8 | original | https://x.com/silverfang88/status/1922205528605790490 | 传说中的子时的充实一天结束了
+- `1922207906147033349` | 2025-05-13 16:30:52 GMT+8 | reply | https://x.com/silverfang88/status/1922207906147033349 | @0xclover233 gm
+- `1922207922810953927` | 2025-05-13 16:30:56 GMT+8 | reply | https://x.com/silverfang88/status/1922207922810953927 | @PANewsLab 早 cmo
+- `1922207939714068952` | 2025-05-13 16:31:00 GMT+8 | reply | https://x.com/silverfang88/status/1922207939714068952 | @StlightLeon gm
+- `1922208246950920648` | 2025-05-13 16:32:13 GMT+8 | reply | https://x.com/silverfang88/status/1922208246950920648 | @Ethcoin3 老了 熬不住了
+- `1922212326645584084` | 2025-05-13 16:48:26 GMT+8 | reply | https://x.com/silverfang88/status/1922212326645584084 | @HuobiGlobal 其实都是乱七八糟的 想起来啥做啥
+- `1922228413781233811` | 2025-05-13 17:52:21 GMT+8 | reply | https://x.com/silverfang88/status/1922228413781233811 | @thecryptoskanda 没吃上 昨天吃了顿nandos
+- `1922242656387604778` | 2025-05-13 18:48:57 GMT+8 | original | https://x.com/silverfang88/status/1922242656387604778 | <加密创始人年龄>
+- `1922243090049335414` | 2025-05-13 18:50:40 GMT+8 | reply | https://x.com/silverfang88/status/1922243090049335414 | @Samvioo desk research..
+- `1922243223910502797` | 2025-05-13 18:51:12 GMT+8 | reply | https://x.com/silverfang88/status/1922243223910502797 | @thecryptoskanda 我不太清楚 我是新人
+- `1922243575435125040` | 2025-05-13 18:52:36 GMT+8 | reply | https://x.com/silverfang88/status/1922243575435125040 | @0x_Glaucus ？？？？
+- `1922243898513965180` | 2025-05-13 18:53:53 GMT+8 | reply | https://x.com/silverfang88/status/1922243898513965180 | @Loved822063 @cz_binance 这个我就不知道了 表哥是大哥
+- `1922244347640045900` | 2025-05-13 18:55:40 GMT+8 | reply | https://x.com/silverfang88/status/1922244347640045900 | @biteazai 对啊
+- `1922247871719449060` | 2025-05-13 19:09:40 GMT+8 | reply | https://x.com/silverfang88/status/1922247871719449060 | @lilk1kopops peer pressure拉满干
+- `1922247901289361854` | 2025-05-13 19:09:47 GMT+8 | reply | https://x.com/silverfang88/status/1922247901289361854 | @guhype 🐂
+- `1922254483431817351` | 2025-05-13 19:35:57 GMT+8 | original | https://x.com/silverfang88/status/1922254483431817351 | 我觉得今天那个传的很广的表格
+- `1922255251228266776` | 2025-05-13 19:39:00 GMT+8 | reply | https://x.com/silverfang88/status/1922255251228266776 | @JamesXie1314 我都能在表格上 肯定含金量就一般了 🤡
+- `1922255281020399822` | 2025-05-13 19:39:07 GMT+8 | reply | https://x.com/silverfang88/status/1922255281020399822 | @Ayyismeme 没必要
+- `1922255924187595085` | 2025-05-13 19:41:40 GMT+8 | original | https://x.com/silverfang88/status/1922255924187595085 | 那年他们在推特晒单装逼
+- `1922256047273635844` | 2025-05-13 19:42:10 GMT+8 | reply | https://x.com/silverfang88/status/1922256047273635844 | @cryp_orange 其实在群里
+- `1922256596962296263` | 2025-05-13 19:44:21 GMT+8 | reply | https://x.com/silverfang88/status/1922256596962296263 | @nanshenwudao https://t.co/nGcpb4PB9m
+- `1922266230129385861` | 2025-05-13 20:22:37 GMT+8 | reply | https://x.com/silverfang88/status/1922266230129385861 | @cyodyssey 6是那位
+- `1922269768779809002` | 2025-05-13 20:36:41 GMT+8 | reply | https://x.com/silverfang88/status/1922269768779809002 | @broleon 🐂
+- `1922275814680166495` | 2025-05-13 21:00:43 GMT+8 | original | https://x.com/silverfang88/status/1922275814680166495 | <每日热点回顾5.13>
+- `1922277089069171107` | 2025-05-13 21:05:46 GMT+8 | reply | https://x.com/silverfang88/status/1922277089069171107 | @cyodyssey 我已经逐渐麻木了 
+- `1922494580387414523` | 2025-05-14 11:30:00 GMT+8 | original | https://x.com/silverfang88/status/1922494580387414523 | <说点大家不想说的行业真相>
+- `1922517703736037592` | 2025-05-14 13:01:53 GMT+8 | original | https://x.com/silverfang88/status/1922517703736037592 | @MaraCakeHotSale gm
+- `1922517715928875115` | 2025-05-14 13:01:56 GMT+8 | original | https://x.com/silverfang88/status/1922517715928875115 | @Anna_nanachan gm
+- `1922517730835501406` | 2025-05-14 13:02:00 GMT+8 | original | https://x.com/silverfang88/status/1922517730835501406 | @guhype gm
+- `1922614118101451000` | 2025-05-14 19:25:00 GMT+8 | original | https://x.com/silverfang88/status/1922614118101451000 | <发射台内卷>
+- `1922618081513193783` | 2025-05-14 19:40:45 GMT+8 | original | https://x.com/silverfang88/status/1922618081513193783 | Sonic @SonicLabs $S
+- `1922623141253144845` | 2025-05-14 20:00:52 GMT+8 | original | https://x.com/silverfang88/status/1922623141253144845 | <每日热点回顾5.14>
+- `1922623219535675897` | 2025-05-14 20:01:10 GMT+8 | original | https://x.com/silverfang88/status/1922623219535675897 | @Timi11i @SonicLabs AC是这样的
+- `1922623257754185961` | 2025-05-14 20:01:19 GMT+8 | original | https://x.com/silverfang88/status/1922623257754185961 | @unsteadySailor @SonicLabs 那咋办 哈哈哈
+- `1922623332949577955` | 2025-05-14 20:01:37 GMT+8 | reply | https://x.com/silverfang88/status/1922623332949577955 | @bitmingde @autodotfun 得有积累的
+- `1922624759868649534` | 2025-05-14 20:07:18 GMT+8 | original | https://x.com/silverfang88/status/1922624759868649534 | @Vito_AKs @SonicLabs luna的故事和真的做的东西确实牛逼
+- `1922630313672393106` | 2025-05-14 20:29:22 GMT+8 | reply | https://x.com/silverfang88/status/1922630313672393106 | @_ChengYao ....
+- `1922687123494150546` | 2025-05-15 00:15:06 GMT+8 | original | https://x.com/silverfang88/status/1922687123494150546 | @felixincrypto 安排
+- `1922946576785232329` | 2025-05-15 17:26:05 GMT+8 | original | https://x.com/silverfang88/status/1922946576785232329 | &lt;说点大家不想说的行业真相&gt;
+- `1922946744402289039` | 2025-05-15 17:26:45 GMT+8 | original | https://x.com/silverfang88/status/1922946744402289039 | @hotpot_dao ✅
+- `1922946922706350385` | 2025-05-15 17:27:27 GMT+8 | original | https://x.com/silverfang88/status/1922946922706350385 | @OpenledgerHQ 代币经济学如何真的和AI结合 而不只是摆设
+- `1922952915443909004` | 2025-05-15 17:51:16 GMT+8 | reply | https://x.com/silverfang88/status/1922952915443909004 | @Crypto_Yang8888 @Sidekick_Labs @HeyfishYC @Neon2079 @0xKeyNG @webwyzu @hoidya_ @yuyue_chris @19ys_GGboy @hotbabyrebao 皮下男？
+- `1922960199595302945` | 2025-05-15 18:20:13 GMT+8 | original | https://x.com/silverfang88/status/1922960199595302945 | <币安alpha上周交易活跃排名>
+- `1922961428677292174` | 2025-05-15 18:25:06 GMT+8 | reply | https://x.com/silverfang88/status/1922961428677292174 | @Luckyjudy666 差不多吧 不知道
+- `1922961457261445389` | 2025-05-15 18:25:12 GMT+8 | reply | https://x.com/silverfang88/status/1922961457261445389 | @Rich77889900 研究研究
+- `1922961499795886534` | 2025-05-15 18:25:23 GMT+8 | reply | https://x.com/silverfang88/status/1922961499795886534 | @jacktod_ 尤其是xxxxx
+- `1922961577965187123` | 2025-05-15 18:25:41 GMT+8 | reply | https://x.com/silverfang88/status/1922961577965187123 | @Web3_tutu 我没有
+- `1922961933071790167` | 2025-05-15 18:27:06 GMT+8 | original | https://x.com/silverfang88/status/1922961933071790167 | 怎么短短几个小时
+- `1922962560682193106` | 2025-05-15 18:29:36 GMT+8 | original | https://x.com/silverfang88/status/1922962560682193106 | @mablejiang 好的
+- `1922978911442342369` | 2025-05-15 19:34:34 GMT+8 | reply | https://x.com/silverfang88/status/1922978911442342369 | @Piggyghl @bobo10000x 🤣
+- `1923019882930512378` | 2025-05-15 22:17:22 GMT+8 | original | https://x.com/silverfang88/status/1923019882930512378 | &lt;每日热点回顾5.15&gt; 
+- `1923020925886226913` | 2025-05-15 22:21:31 GMT+8 | reply | https://x.com/silverfang88/status/1923020925886226913 | @Sidekick_Labs 学习 老了只能打打游戏了
+- `1923294201942270130` | 2025-05-16 16:27:25 GMT+8 | original | https://x.com/silverfang88/status/1923294201942270130 | &lt;说点大家不想说的行业真相&gt;
+- `1923302661987663952` | 2025-05-16 17:01:02 GMT+8 | original | https://x.com/silverfang88/status/1923302661987663952 | 我已经累了
+- `1923303959361425878` | 2025-05-16 17:06:11 GMT+8 | reply | https://x.com/silverfang88/status/1923303959361425878 | @heyibinance 哈哈哈哈
+- `1923308841057370375` | 2025-05-16 17:25:35 GMT+8 | reply | https://x.com/silverfang88/status/1923308841057370375 | @keyahayek 持枪再进怀仁堂
+- `1923325448089485312` | 2025-05-16 18:31:35 GMT+8 | quote | https://x.com/silverfang88/status/1923325448089485312 | 教员在资治通鉴里至少看到了三件东西
+- `1923325678914621514` | 2025-05-16 18:32:30 GMT+8 | reply | https://x.com/silverfang88/status/1923325678914621514 | @bo_xbt 聊过 没啥人听 笑死了
+- `1923351723000713386` | 2025-05-16 20:15:59 GMT+8 | original | https://x.com/silverfang88/status/1923351723000713386 | 之前一直或多或少喷过
+- `1923354694103027914` | 2025-05-16 20:27:47 GMT+8 | original | https://x.com/silverfang88/status/1923354694103027914 | &lt;每日热点回顾5.16&gt;
+- `1923355286456217880` | 2025-05-16 20:30:09 GMT+8 | original | https://x.com/silverfang88/status/1923355286456217880 | &lt;每日热点回顾5.16&gt;
+- `1923416701552546138` | 2025-05-17 00:34:11 GMT+8 | reply | https://x.com/silverfang88/status/1923416701552546138 | @Selina_sunn 🤣
+- `1923505628170821971` | 2025-05-17 06:27:33 GMT+8 | repost | https://x.com/silverfang88/status/1923505628170821971 | RT @mablejiang: 和 @HeyfishYC 做了一期播客，他把 @Sidekick_Labs 的创业历程很真实完整地展现在了这期里面。本期基本无删减hhh
+- `1923662086107709594` | 2025-05-17 16:49:15 GMT+8 | original | https://x.com/silverfang88/status/1923662086107709594 | &lt;说点大家不想说的行业真相&gt;
+- `1923665247262396705` | 2025-05-17 17:01:49 GMT+8 | reply | https://x.com/silverfang88/status/1923665247262396705 | @Ethcoin3 ？
+- `1923665287376695411` | 2025-05-17 17:01:59 GMT+8 | reply | https://x.com/silverfang88/status/1923665287376695411 | @zepump 哥，早
+- `1923665783730684225` | 2025-05-17 17:03:57 GMT+8 | reply | https://x.com/silverfang88/status/1923665783730684225 | @Anna_nanachan gm
+- `1923698193440645249` | 2025-05-17 19:12:44 GMT+8 | original | https://x.com/silverfang88/status/1923698193440645249 | 今夜继续激情直播鹅鸭杀
+- `1923700793061900367` | 2025-05-17 19:23:04 GMT+8 | reply | https://x.com/silverfang88/status/1923700793061900367 | @anarcaze yeah
+- `1923700814821929465` | 2025-05-17 19:23:09 GMT+8 | reply | https://x.com/silverfang88/status/1923700814821929465 | @sisbruuv 挺好
+- `1923734575794033149` | 2025-05-17 21:37:18 GMT+8 | original | https://x.com/silverfang88/status/1923734575794033149 | &lt;每日热点回顾5.17&gt;
+- `1923912945441861731` | 2025-05-18 09:26:05 GMT+8 | reply | https://x.com/silverfang88/status/1923912945441861731 | @cryptotya 行
+- `1923936497633284582` | 2025-05-18 10:59:40 GMT+8 | original | https://x.com/silverfang88/status/1923936497633284582 | &lt;说点大家不想说的行业真相&gt;
+- `1923937010944729493` | 2025-05-18 11:01:43 GMT+8 | reply | https://x.com/silverfang88/status/1923937010944729493 | @GasNeverEnds gm
+- `1923937277375348783` | 2025-05-18 11:02:46 GMT+8 | reply | https://x.com/silverfang88/status/1923937277375348783 | @suji_yan 保重身体！
+- `1923937527146192961` | 2025-05-18 11:03:46 GMT+8 | reply | https://x.com/silverfang88/status/1923937527146192961 | @0xKirara 不知道
+- `1923938299476951499` | 2025-05-18 11:06:50 GMT+8 | reply | https://x.com/silverfang88/status/1923938299476951499 | @nine_DeFi 索总好像就是这么没了
+- `1923939634007925175` | 2025-05-18 11:12:08 GMT+8 | reply | https://x.com/silverfang88/status/1923939634007925175 | @Wayne13yao nb
+- `1923944055081189716` | 2025-05-18 11:29:42 GMT+8 | original | https://x.com/silverfang88/status/1923944055081189716 | 緩緩飄落的楓葉像思念
+- `1923972142745497895` | 2025-05-18 13:21:19 GMT+8 | reply | https://x.com/silverfang88/status/1923972142745497895 | @Ice_Frog666666 牛逼
+- `1923972205752308089` | 2025-05-18 13:21:34 GMT+8 | reply | https://x.com/silverfang88/status/1923972205752308089 | @LeotheHorseman 那更恶心了
+- `1923972245128393141` | 2025-05-18 13:21:43 GMT+8 | reply | https://x.com/silverfang88/status/1923972245128393141 | @CatCryptoMaster 你好 看看腿
+- `1924025672088850695` | 2025-05-18 16:54:01 GMT+8 | quote | https://x.com/silverfang88/status/1924025672088850695 | ？ https://t.co/tbHPHY3JZ8 https://t.co/b4jSRZzqKP
+- `1924051964192510431` | 2025-05-18 18:38:30 GMT+8 | quote | https://x.com/silverfang88/status/1924051964192510431 | 之前我用Mira @miranetwork
+- `1924077656506544340` | 2025-05-18 20:20:35 GMT+8 | original | https://x.com/silverfang88/status/1924077656506544340 | <每日热点回顾5.18>
+- `1924078757138043153` | 2025-05-18 20:24:58 GMT+8 | reply | https://x.com/silverfang88/status/1924078757138043153 | @momochenming 是爱
+- `1924376960110678052` | 2025-05-19 16:09:55 GMT+8 | original | https://x.com/silverfang88/status/1924376960110678052 | <说点大家不想说的行业真相>
+- `1924379963714589139` | 2025-05-19 16:21:51 GMT+8 | reply | https://x.com/silverfang88/status/1924379963714589139 | @rita88 梦里什么都有
+- `1924385464787554680` | 2025-05-19 16:43:42 GMT+8 | reply | https://x.com/silverfang88/status/1924385464787554680 | @simponsol_ 牛逼
+- `1924389588795035776` | 2025-05-19 17:00:06 GMT+8 | reply | https://x.com/silverfang88/status/1924389588795035776 | @ttt907701133 给你关起来
+- `1924456196016144769` | 2025-05-19 21:24:46 GMT+8 | original | https://x.com/silverfang88/status/1924456196016144769 | <每日热点回顾5.19>
+- `1924496779883524208` | 2025-05-20 00:06:02 GMT+8 | original | https://x.com/silverfang88/status/1924496779883524208 | 你们说话啊? 
+- `1924690081425850596` | 2025-05-20 12:54:09 GMT+8 | original | https://x.com/silverfang88/status/1924690081425850596 | <说点大家不想说的行业真相>
+- `1924701749379543454` | 2025-05-20 13:40:30 GMT+8 | reply | https://x.com/silverfang88/status/1924701749379543454 | @keyahayek 拉盘
+- `1924787687275561202` | 2025-05-20 19:22:00 GMT+8 | quote | https://x.com/silverfang88/status/1924787687275561202 | 稳定币仍然是主流叙事之一
+- `1924794639820681226` | 2025-05-20 19:49:37 GMT+8 | original | https://x.com/silverfang88/status/1924794639820681226 | <每日热点回顾5.20>
+- `1924795911340687712` | 2025-05-20 19:54:40 GMT+8 | reply | https://x.com/silverfang88/status/1924795911340687712 | @yangwan34988752 不知道
+- `1924832106821120457` | 2025-05-20 22:18:30 GMT+8 | reply | https://x.com/silverfang88/status/1924832106821120457 | @blockTVBee 好长... 专业
+- `1924838200184385823` | 2025-05-20 22:42:43 GMT+8 | reply | https://x.com/silverfang88/status/1924838200184385823 | @Luckyjudy666 好 欧元给我多涨点
+- `1925071225056878693` | 2025-05-21 14:08:40 GMT+8 | original | https://x.com/silverfang88/status/1925071225056878693 | &lt;说点大家不想说的行业真相&gt;
+- `1925080864586686788` | 2025-05-21 14:46:59 GMT+8 | original | https://x.com/silverfang88/status/1925080864586686788 | 好几个朋友艾特我
+- `1925081449692041337` | 2025-05-21 14:49:18 GMT+8 | reply | https://x.com/silverfang88/status/1925081449692041337 | @guhype 哈哈哈 想不明白的
+- `1925082178511093992` | 2025-05-21 14:52:12 GMT+8 | reply | https://x.com/silverfang88/status/1925082178511093992 | @0xAladdinPrince @KaitoAI @humafinance 我俩号差不多
+- `1925157844136935796` | 2025-05-21 19:52:52 GMT+8 | reply | https://x.com/silverfang88/status/1925157844136935796 | @videoxbt_agent
+- `1925163345012793481` | 2025-05-21 20:14:43 GMT+8 | original | https://x.com/silverfang88/status/1925163345012793481 | V神最近谈恋爱了吗？
+- `1925164673617322278` | 2025-05-21 20:20:00 GMT+8 | original | https://x.com/silverfang88/status/1925164673617322278 | 回答我 VIXBT，币安下一个会上什么币？
+- `1925171196645056929` | 2025-05-21 20:45:55 GMT+8 | original | https://x.com/silverfang88/status/1925171196645056929 | &lt;每日热点回顾5.21&gt;
+- `1925171771814130098` | 2025-05-21 20:48:13 GMT+8 | reply | https://x.com/silverfang88/status/1925171771814130098 | @rtk17025 @videoxbt_agent @heyibinance 可能得周末了
+- `1925171962084491669` | 2025-05-21 20:48:58 GMT+8 | reply | https://x.com/silverfang88/status/1925171962084491669 | @videoxbt_agent
+- `1925172183308935661` | 2025-05-21 20:49:51 GMT+8 | reply | https://x.com/silverfang88/status/1925172183308935661 | @CoinToEarn 哈哈哈 
+- `1925173528669667809` | 2025-05-21 20:55:11 GMT+8 | reply | https://x.com/silverfang88/status/1925173528669667809 | @ec_unoxx 冲
+- `1925179978775241211` | 2025-05-21 21:20:49 GMT+8 | original | https://x.com/silverfang88/status/1925179978775241211 | Bybit什么时候倒闭 @videoxbt_agent 
+- `1925183467899257226` | 2025-05-21 21:34:41 GMT+8 | reply | https://x.com/silverfang88/status/1925183467899257226 | @JunXu04535241 @videoxbt_agent @elonmusk 我 秦始皇给我打钱
+- `1925183489919344689` | 2025-05-21 21:34:46 GMT+8 | reply | https://x.com/silverfang88/status/1925183489919344689 | @LeotheHorseman @videoxbt_agent @elonmusk 恭喜你啊
+- `1925183977314214102` | 2025-05-21 21:36:43 GMT+8 | reply | https://x.com/silverfang88/status/1925183977314214102 | @MoQing_8 @videoxbt_agent @elonmusk 上面有手机号 你去玩玩
+- `1925184010243747886` | 2025-05-21 21:36:50 GMT+8 | reply | https://x.com/silverfang88/status/1925184010243747886 | @miniyeyeoxo @videoxbt_agent @elonmusk 打钱！
+- `1925184049569550418` | 2025-05-21 21:37:00 GMT+8 | reply | https://x.com/silverfang88/status/1925184049569550418 | @otakustw @videoxbt_agent @elonmusk 英文 还参观了马斯克的家
+- `1925184075460935993` | 2025-05-21 21:37:06 GMT+8 | reply | https://x.com/silverfang88/status/1925184075460935993 | @cryptohapip @videoxbt_agent @elonmusk 资本做局
+- `1925184304612515876` | 2025-05-21 21:38:01 GMT+8 | reply | https://x.com/silverfang88/status/1925184304612515876 | @Real_RZ_ @videoxbt_agent @elonmusk 那我凉拌炒鸡蛋
+- `1925184925109493960` | 2025-05-21 21:40:29 GMT+8 | reply | https://x.com/silverfang88/status/1925184925109493960 | @926_sol @videoxbt_agent @elonmusk 我是孙悟空
+- `1925184985520029926` | 2025-05-21 21:40:43 GMT+8 | reply | https://x.com/silverfang88/status/1925184985520029926 | @mmk_btc @videoxbt_agent @elonmusk 真好 你真认真
+- `1925186564352540749` | 2025-05-21 21:46:59 GMT+8 | repost | https://x.com/silverfang88/status/1925186564352540749 | RT @videoxbt_agent: @silverfang88 @benbybit https://t.co/3MbqFZvN3Q
+- `1925186580777517224` | 2025-05-21 21:47:03 GMT+8 | reply | https://x.com/silverfang88/status/1925186580777517224 | @guhype @videoxbt_agent @benbybit 6
+- `1925186607184842985` | 2025-05-21 21:47:10 GMT+8 | reply | https://x.com/silverfang88/status/1925186607184842985 | @vc_btxcap @videoxbt_agent @benbybit 怎么说
+- `1925186722410741829` | 2025-05-21 21:47:37 GMT+8 | reply | https://x.com/silverfang88/status/1925186722410741829 | @WEB3SweetPepper @videoxbt_agent @benbybit 哈哈哈哈哈
+- `1925189348003139972` | 2025-05-21 21:58:03 GMT+8 | reply | https://x.com/silverfang88/status/1925189348003139972 | @Dincocoin @videoxbt_agent @elonmusk 学习
+- `1925190104202588351` | 2025-05-21 22:01:03 GMT+8 | reply | https://x.com/silverfang88/status/1925190104202588351 | @tina_bybit @videoxbt_agent @benbybit 哈哈哈哈
+- `1925190889762099622` | 2025-05-21 22:04:11 GMT+8 | reply | https://x.com/silverfang88/status/1925190889762099622 | @james_x @videoxbt_agent @videoxbt_agent
+- `1925192705925112211` | 2025-05-21 22:11:24 GMT+8 | reply | https://x.com/silverfang88/status/1925192705925112211 | @V1JeromeLoo @videoxbt_agent @elonmusk 亲自指挥
+- `1925204351464681482` | 2025-05-21 22:57:40 GMT+8 | quote | https://x.com/silverfang88/status/1925204351464681482 | 太牛了 这个项目 https://t.co/KimqPyPaZS
+- `1925204854370074668` | 2025-05-21 22:59:40 GMT+8 | quote | https://x.com/silverfang88/status/1925204854370074668 | 太牛了 这个项目 
+- `1925214852076744834` | 2025-05-21 23:39:24 GMT+8 | reply | https://x.com/silverfang88/status/1925214852076744834 | @0xCheshire @videoxbt_agent @elonmusk 卫公巨侠
+- `1925239973009035414` | 2025-05-22 01:19:13 GMT+8 | reply | https://x.com/silverfang88/status/1925239973009035414 | @Ron17314593696 @humafinance 总结一下 @videoxbt_agent
+- `1925252094551826893` | 2025-05-22 02:07:23 GMT+8 | reply | https://x.com/silverfang88/status/1925252094551826893 | @Tintinx2021 @videoxbt_agent  她在说什么
+- `1925254106878235066` | 2025-05-22 02:15:23 GMT+8 | reply | https://x.com/silverfang88/status/1925254106878235066 | @VitalikButerin 看不懂 总结一下 @videoxbt_agent
+- `1925255009349874124` | 2025-05-22 02:18:58 GMT+8 | reply | https://x.com/silverfang88/status/1925255009349874124 | @liangxihuigui @videoxbt_agent
+- `1925433411772067937` | 2025-05-22 14:07:52 GMT+8 | original | https://x.com/silverfang88/status/1925433411772067937 | &lt;说点大家不想说的行业真相&gt;
+- `1925453650773639521` | 2025-05-22 15:28:18 GMT+8 | original | https://x.com/silverfang88/status/1925453650773639521 | 总感觉未来一段时间
+- `1925453653315342837` | 2025-05-22 15:28:18 GMT+8 | reply | https://x.com/silverfang88/status/1925453653315342837 | https://t.co/KtiTi4jpEg
+- `1925463468083163213` | 2025-05-22 16:07:18 GMT+8 | reply | https://x.com/silverfang88/status/1925463468083163213 | @cryptomi146701 @fiamma_labs nb
+- `1925465423937491005` | 2025-05-22 16:15:05 GMT+8 | original | https://x.com/silverfang88/status/1925465423937491005 | 2010 ～ 2025 
+- `1925504356880662811` | 2025-05-22 18:49:47 GMT+8 | quote | https://x.com/silverfang88/status/1925504356880662811 | 真的不需要服务其他cex
+- `1925510240063180896` | 2025-05-22 19:13:10 GMT+8 | original | https://x.com/silverfang88/status/1925510240063180896 | sui这波被盗会怎么样 @videoxbt_agent @SuiNetwork
+- `1925523045214519772` | 2025-05-22 20:04:03 GMT+8 | original | https://x.com/silverfang88/status/1925523045214519772 | &lt;每日热点回顾5.22&gt;
+- `1925524405037236302` | 2025-05-22 20:09:27 GMT+8 | reply | https://x.com/silverfang88/status/1925524405037236302 | @Real_RZ_ 你咋知道的 
+- `1925525127548068180` | 2025-05-22 20:12:19 GMT+8 | reply | https://x.com/silverfang88/status/1925525127548068180 | @axiangA10 huma
+- `1925525221475262831` | 2025-05-22 20:12:41 GMT+8 | reply | https://x.com/silverfang88/status/1925525221475262831 | @hazenlee @Real_RZ_ 都是我穿女装
+- `1925538408056734018` | 2025-05-22 21:05:05 GMT+8 | original | https://x.com/silverfang88/status/1925538408056734018 | 上次CZ说情况不太好的还是FTX…
+- `1925735772885324045` | 2025-05-23 10:09:21 GMT+8 | original | https://x.com/silverfang88/status/1925735772885324045 | &lt;说点大家不想说的行业真相&gt;
+- `1925736674677387528` | 2025-05-23 10:12:56 GMT+8 | reply | https://x.com/silverfang88/status/1925736674677387528 | @xxxApril_D13 他比较特殊
+- `1925736710828077146` | 2025-05-23 10:13:04 GMT+8 | reply | https://x.com/silverfang88/status/1925736710828077146 | @onefly 我儿王腾
+- `1925736750803984462` | 2025-05-23 10:13:14 GMT+8 | reply | https://x.com/silverfang88/status/1925736750803984462 | @deghnl6 不知道
+- `1925738557932515613` | 2025-05-23 10:20:25 GMT+8 | reply | https://x.com/silverfang88/status/1925738557932515613 | @TakoProtocol gm
+- `1925740670276247763` | 2025-05-23 10:28:48 GMT+8 | original | https://x.com/silverfang88/status/1925740670276247763 | BNB涨的像是要去新高了
+- `1925742405124276647` | 2025-05-23 10:35:42 GMT+8 | reply | https://x.com/silverfang88/status/1925742405124276647 | @Yoyoyiyi1234 @videoxbt_agent @realDonaldTrump 被套了
+- `1925743276398723301` | 2025-05-23 10:39:10 GMT+8 | reply | https://x.com/silverfang88/status/1925743276398723301 | @videoxbt_agent @realDonaldTrump 6
+- `1925793404077650238` | 2025-05-23 13:58:21 GMT+8 | original | https://x.com/silverfang88/status/1925793404077650238 | 做空亏掉的钱
+- `1925793736073584806` | 2025-05-23 13:59:40 GMT+8 | original | https://x.com/silverfang88/status/1925793736073584806 | 做空亏掉的钱
+- `1925815423934587006` | 2025-05-23 15:25:51 GMT+8 | reply | https://x.com/silverfang88/status/1925815423934587006 | @thecryptoskanda 强
+- `1925862839618580539` | 2025-05-23 18:34:16 GMT+8 | repost | https://x.com/silverfang88/status/1925862839618580539 | RT @videoxbt_agent: @silverfang88 https://t.co/F7rRAllLJg
+- `1925866548339626363` | 2025-05-23 18:49:00 GMT+8 | reply | https://x.com/silverfang88/status/1925866548339626363 | @cz_binance @videoxbt_agent
+- `1925867695863394364` | 2025-05-23 18:53:34 GMT+8 | original | https://x.com/silverfang88/status/1925867695863394364 | &lt;每日热点回顾5.23&gt;
+- `1925868159031988565` | 2025-05-23 18:55:24 GMT+8 | original | https://x.com/silverfang88/status/1925868159031988565 | &lt;每日热点回顾5.23&gt;
+- `1926156527020245311` | 2025-05-24 14:01:16 GMT+8 | original | https://x.com/silverfang88/status/1926156527020245311 | &lt;说点大家不想说的行业真相&gt;
+- `1926164058106917310` | 2025-05-24 14:31:12 GMT+8 | reply | https://x.com/silverfang88/status/1926164058106917310 | @JimsYoung_ @videoxbt_agent 😂
+- `1926181338459103576` | 2025-05-24 15:39:52 GMT+8 | original | https://x.com/silverfang88/status/1926181338459103576 | 我现在对bsc的看法就是
+- `1926182123708313978` | 2025-05-24 15:42:59 GMT+8 | original | https://x.com/silverfang88/status/1926182123708313978 | 我现在对bsc的看法就是
+- `1926208998396543081` | 2025-05-24 17:29:47 GMT+8 | reply | https://x.com/silverfang88/status/1926208998396543081 | @Mrly8621 @humafinance 一个月前说过
+- `1926209039504920901` | 2025-05-24 17:29:56 GMT+8 | reply | https://x.com/silverfang88/status/1926209039504920901 | @xel_god @humafinance 我觉得有可能
+- `1926209159113920815` | 2025-05-24 17:30:25 GMT+8 | reply | https://x.com/silverfang88/status/1926209159113920815 | @kstg5616053 @humafinance @videoxbt_agent 记录一下，他说他huma0.1吃屎
+- `1926209441302446341` | 2025-05-24 17:31:32 GMT+8 | reply | https://x.com/silverfang88/status/1926209441302446341 | @Simonkff @humafinance 0.4夸张了吧
+- `1926226813325389859` | 2025-05-24 18:40:34 GMT+8 | reply | https://x.com/silverfang88/status/1926226813325389859 | @nocta_mvp @humafinance 这个存的久
+- `1926236802450333859` | 2025-05-24 19:20:16 GMT+8 | original | https://x.com/silverfang88/status/1926236802450333859 | <每日热点回顾5.24>
+- `1926237071368151252` | 2025-05-24 19:21:20 GMT+8 | original | https://x.com/silverfang88/status/1926237071368151252 | <每日热点回顾5.24>
+- `1926237521547063503` | 2025-05-24 19:23:07 GMT+8 | reply | https://x.com/silverfang88/status/1926237521547063503 | @DaLing66 说错了 上现货
+- `1926237549342740753` | 2025-05-24 19:23:14 GMT+8 | reply | https://x.com/silverfang88/status/1926237549342740753 | @0xLemon__ 现货 脑子不转了
+- `1926327391921623160` | 2025-05-25 01:20:14 GMT+8 | reply | https://x.com/silverfang88/status/1926327391921623160 | @AMAN_TANG_ 你好
+- `1926485508160385509` | 2025-05-25 11:48:32 GMT+8 | original | https://x.com/silverfang88/status/1926485508160385509 | &lt;说点大家不想说的行业真相&gt;
+- `1926595198865289675` | 2025-05-25 19:04:24 GMT+8 | reply | https://x.com/silverfang88/status/1926595198865289675 | @shiki214214214 @videoxbt_agent 能吗？
+- `1926595268788564306` | 2025-05-25 19:04:41 GMT+8 | reply | https://x.com/silverfang88/status/1926595268788564306 | @CryptoSociety42 😲
+- `1926599954945990901` | 2025-05-25 19:23:18 GMT+8 | reply | https://x.com/silverfang88/status/1926599954945990901 | @HeyfishYC @Sidekick_Labs https://t.co/sr3pQl3rZl
+- `1926599986667463141` | 2025-05-25 19:23:25 GMT+8 | reply | https://x.com/silverfang88/status/1926599986667463141 | @Loved822063 @Sidekick_Labs 躺着看
+- `1926600065000329646` | 2025-05-25 19:23:44 GMT+8 | reply | https://x.com/silverfang88/status/1926600065000329646 | @ling65697_z @Sidekick_Labs gm
+- `1926612115495834015` | 2025-05-25 20:11:37 GMT+8 | quote | https://x.com/silverfang88/status/1926612115495834015 | 冒险岛之后感觉链游有点回温了
+- `1926841299019215150` | 2025-05-26 11:22:19 GMT+8 | original | https://x.com/silverfang88/status/1926841299019215150 | <说点大家不想说的行业真相>
+- `1926846948532699523` | 2025-05-26 11:44:46 GMT+8 | reply | https://x.com/silverfang88/status/1926846948532699523 | @mitaotaomi gm
+- `1926846962684350886` | 2025-05-26 11:44:49 GMT+8 | reply | https://x.com/silverfang88/status/1926846962684350886 | @0xAmoy gm
+- `1926846976487719253` | 2025-05-26 11:44:52 GMT+8 | reply | https://x.com/silverfang88/status/1926846976487719253 | @shiki214214214 gm
+- `1926847581352579163` | 2025-05-26 11:47:17 GMT+8 | reply | https://x.com/silverfang88/status/1926847581352579163 | @Simonkff 后期开始降智了
+- `1926856661987201220` | 2025-05-26 12:23:22 GMT+8 | reply | https://x.com/silverfang88/status/1926856661987201220 | @lilk1kopops 我就不是真男人 咋啦
+- `1926857280063996317` | 2025-05-26 12:25:49 GMT+8 | reply | https://x.com/silverfang88/status/1926857280063996317 | @cyodyssey 很深刻 我得琢磨琢磨
+- `1926858384730443838` | 2025-05-26 12:30:12 GMT+8 | reply | https://x.com/silverfang88/status/1926858384730443838 | @ohyishi gm
+- `1926858411859116332` | 2025-05-26 12:30:19 GMT+8 | reply | https://x.com/silverfang88/status/1926858411859116332 | @Anna_nanachan gm
+- `1926923064870051987` | 2025-05-26 16:47:13 GMT+8 | original | https://x.com/silverfang88/status/1926923064870051987 | &lt;每日热点回顾5.26&gt;
+- `1926937463643152559` | 2025-05-26 17:44:26 GMT+8 | original | https://x.com/silverfang88/status/1926937463643152559 | 这两天看到一个新词，WebFi
+- `1927065041372672347` | 2025-05-27 02:11:23 GMT+8 | reply | https://x.com/silverfang88/status/1927065041372672347 | @cryptoxiao @6551Dex 牛逼
+- `1927265491057328201` | 2025-05-27 15:27:54 GMT+8 | original | https://x.com/silverfang88/status/1927265491057328201 | &lt;说点大家不想说的行业真相&gt;
+- `1927267086746661215` | 2025-05-27 15:34:15 GMT+8 | reply | https://x.com/silverfang88/status/1927267086746661215 | @ohyishi 老板在养三体人吗
+- `1927267107885990358` | 2025-05-27 15:34:20 GMT+8 | reply | https://x.com/silverfang88/status/1927267107885990358 | @deghnl6 gm
+- `1927267131055394985` | 2025-05-27 15:34:25 GMT+8 | reply | https://x.com/silverfang88/status/1927267131055394985 | @mewdevice 牛逼
+- `1927268627746582872` | 2025-05-27 15:40:22 GMT+8 | reply | https://x.com/silverfang88/status/1927268627746582872 | @bbblueskyyyyyy 唯手熟尔
+- `1927349145326551323` | 2025-05-27 21:00:19 GMT+8 | original | https://x.com/silverfang88/status/1927349145326551323 | &lt;每日热点回顾5.27&gt;
+- `1927380936296907217` | 2025-05-27 23:06:38 GMT+8 | reply | https://x.com/silverfang88/status/1927380936296907217 | @Lipeng_M 赌不赌，赌多少钱？
+- `1927511621854790065` | 2025-05-28 07:45:56 GMT+8 | reply | https://x.com/silverfang88/status/1927511621854790065 | @Reduo0531 Gm
+- `1927613547753918592` | 2025-05-28 14:30:57 GMT+8 | original | https://x.com/silverfang88/status/1927613547753918592 | 这两天应该闲下来点了
+- `1927616916941939170` | 2025-05-28 14:44:21 GMT+8 | reply | https://x.com/silverfang88/status/1927616916941939170 | @Anna_nanachan gm
+- `1927617014790852916` | 2025-05-28 14:44:44 GMT+8 | reply | https://x.com/silverfang88/status/1927617014790852916 | @Chris_0888 最近没咋看了 眼睛疼
+- `1927671264610754575` | 2025-05-28 18:20:18 GMT+8 | reply | https://x.com/silverfang88/status/1927671264610754575 | @Lipeng_M 赌，人力研发成本腾讯我之前内网拉过了，定义一下不包含dlc，截止游戏发售，三年开发不到5000万人民币，甚至我某个老板都亲自赞叹过这个数字宫崎英高不真实，请问怎么给我打钱？老登b
+- `1927681151126380679` | 2025-05-28 18:59:35 GMT+8 | original | https://x.com/silverfang88/status/1927681151126380679 | &lt;每日热点回顾5.28&gt;
+- `1927681844490965267` | 2025-05-28 19:02:20 GMT+8 | original | https://x.com/silverfang88/status/1927681844490965267 | &lt;每日热点回顾5.28&gt;
+- `1927693172316021148` | 2025-05-28 19:47:21 GMT+8 | reply | https://x.com/silverfang88/status/1927693172316021148 | @Lipeng_M 老登 连我在说什么和我是谁都不知道
+- `1927746537754431996` | 2025-05-28 23:19:25 GMT+8 | quote | https://x.com/silverfang88/status/1927746537754431996 | 之前提了好多次的Mira
+- `1927913115741737312` | 2025-05-29 10:21:20 GMT+8 | original | https://x.com/silverfang88/status/1927913115741737312 | 这次试试同步在 @Sidekick_Labs 
+- `1927929611725451444` | 2025-05-29 11:26:53 GMT+8 | original | https://x.com/silverfang88/status/1927929611725451444 | &lt;说点大家不想说的行业真相&gt;
+- `1927931819267113454` | 2025-05-29 11:35:39 GMT+8 | reply | https://x.com/silverfang88/status/1927931819267113454 | @Simonkff 其实没啥意思
+- `1927931882605338822` | 2025-05-29 11:35:54 GMT+8 | reply | https://x.com/silverfang88/status/1927931882605338822 | @zoe_frizzy 早都被盗了无数次了
+- `1927932494902436171` | 2025-05-29 11:38:20 GMT+8 | reply | https://x.com/silverfang88/status/1927932494902436171 | @GasNeverEnds 哈哈哈
+- `1927932578314489901` | 2025-05-29 11:38:40 GMT+8 | reply | https://x.com/silverfang88/status/1927932578314489901 | @FUGUIHK 谁能割割韭菜的？
+- `1927936441289494804` | 2025-05-29 11:54:01 GMT+8 | original | https://x.com/silverfang88/status/1927936441289494804 | 谁诀别相思成疾
+- `1927936705149198659` | 2025-05-29 11:55:04 GMT+8 | reply | https://x.com/silverfang88/status/1927936705149198659 | @videoxbt_agent 给我唱出来！
+- `1927937133219545105` | 2025-05-29 11:56:46 GMT+8 | reply | https://x.com/silverfang88/status/1927937133219545105 | @YeruiZhang 哈哈哈哈
+- `1927941623083618327` | 2025-05-29 12:14:37 GMT+8 | reply | https://x.com/silverfang88/status/1927941623083618327 | @TakoProtocol 写过一个 防社工的
+- `1927950550760575362` | 2025-05-29 12:50:05 GMT+8 | reply | https://x.com/silverfang88/status/1927950550760575362 | @yueya_eth hhh
+- `1927950617206571191` | 2025-05-29 12:50:21 GMT+8 | reply | https://x.com/silverfang88/status/1927950617206571191 | @V1JeromeLoo 有没有可能项目方把大家当日本人
+- `1928006393233084910` | 2025-05-29 16:31:59 GMT+8 | original | https://x.com/silverfang88/status/1928006393233084910 | https://t.co/QX8N3BeGN9
+- `1928008737303736480` | 2025-05-29 16:41:18 GMT+8 | reply | https://x.com/silverfang88/status/1928008737303736480 | https://t.co/TAlOddfQyj
+- `1928033740304875776` | 2025-05-29 18:20:39 GMT+8 | reply | https://x.com/silverfang88/status/1928033740304875776 | @0xathenalee 教育散户
+- `1928033881808097661` | 2025-05-29 18:21:13 GMT+8 | reply | https://x.com/silverfang88/status/1928033881808097661 | @rita88 笑死
+- `1928042148181725630` | 2025-05-29 18:54:04 GMT+8 | original | https://x.com/silverfang88/status/1928042148181725630 | <每日热点回顾5.29>
+- `1928042482320691536` | 2025-05-29 18:55:23 GMT+8 | reply | https://x.com/silverfang88/status/1928042482320691536 | @HeyfishYC ？？？？
+- `1928044380503343138` | 2025-05-29 19:02:56 GMT+8 | reply | https://x.com/silverfang88/status/1928044380503343138 | @Real_RZ_ @Sidekick_Labs @megaeth @6551Dex @Humanityprot @miranetwork @zircuit 吃舒服了
+- `1928044460165775623` | 2025-05-29 19:03:15 GMT+8 | reply | https://x.com/silverfang88/status/1928044460165775623 | @HeyfishYC @rita88 infofi MEV夹了Livefi
+- `1928044553480618360` | 2025-05-29 19:03:37 GMT+8 | quote | https://x.com/silverfang88/status/1928044553480618360 | infofi MEV夹了Livefi https://t.co/TBaFQBOHgd
+- `1928049370882031656` | 2025-05-29 19:22:46 GMT+8 | quote | https://x.com/silverfang88/status/1928049370882031656 | 随便侃侃新直播系列 @Sidekick_Labs 
+- `1928058445267358065` | 2025-05-29 19:58:49 GMT+8 | original | https://x.com/silverfang88/status/1928058445267358065 | 感谢huobi送的端午节礼物
+- `1928060907839508726` | 2025-05-29 20:08:36 GMT+8 | reply | https://x.com/silverfang88/status/1928060907839508726 | @sun_xinjin @justinsuntron @HTX_Molly @qingyang007 @Ceee333_ @xiaojiucai_andy 6
+- `1928075239415533947` | 2025-05-29 21:05:33 GMT+8 | reply | https://x.com/silverfang88/status/1928075239415533947 | @Ceee333_ @justinsuntron @HTX_Molly @qingyang007 @xiaojiucai_andy 😂
+- `1928076030889038185` | 2025-05-29 21:08:42 GMT+8 | reply | https://x.com/silverfang88/status/1928076030889038185 | @yydzeth tungtungtungtungtungtungtungtungtung
+- `1928076394619089249` | 2025-05-29 21:10:09 GMT+8 | reply | https://x.com/silverfang88/status/1928076394619089249 | @HasakiDoge @HeyfishYC 哈哈哈哈
+- `1928340184522969108` | 2025-05-30 14:38:21 GMT+8 | original | https://x.com/silverfang88/status/1928340184522969108 | <说点大家不想说的行业真相>
+- `1928344771883385326` | 2025-05-30 14:56:35 GMT+8 | reply | https://x.com/silverfang88/status/1928344771883385326 | @Real_RZ_ 没有啊
+- `1928346013326082509` | 2025-05-30 15:01:31 GMT+8 | quote | https://x.com/silverfang88/status/1928346013326082509 | Sahara要发币了@saharaai 
+- `1928352973916193142` | 2025-05-30 15:29:10 GMT+8 | original | https://x.com/silverfang88/status/1928352973916193142 | 唯一的不同就是结尾的设计
 - `1928444162333880479` | 2025-05-30 21:31:31 GMT+8 | reply | https://x.com/silverfang88/status/1928444162333880479 | @Tintinx2021 不许说藏话
 - `1928466228529762566` | 2025-05-30 22:59:12 GMT+8 | original | https://x.com/silverfang88/status/1928466228529762566 | &lt;每日热点回顾5.30&gt;
 - `1928466595023839495` | 2025-05-30 23:00:40 GMT+8 | original | https://x.com/silverfang88/status/1928466595023839495 | &lt;每日热点回顾5.30&gt;
@@ -6397,6 +9456,389 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1928762883585843532` | 2025-05-31 18:38:00 GMT+8 | reply | https://x.com/silverfang88/status/1928762883585843532 | @0xAir_8 @lilk1kopops 你不懂
 - `1928771489601552509` | 2025-05-31 19:12:12 GMT+8 | repost | https://x.com/silverfang88/status/1928771489601552509 | RT @BNBCHAIN: A week in numbers for BNB Chain:
 - `1928837928630841547` | 2025-05-31 23:36:12 GMT+8 | original | https://x.com/silverfang88/status/1928837928630841547 | &lt;每日热点回顾5.31&gt;
+- `1928996065925079515` | 2025-06-01 10:04:35 GMT+8 | reply | https://x.com/silverfang88/status/1928996065925079515 | @broleon 伟大无需多言
+- `1929030465991700688` | 2025-06-01 12:21:17 GMT+8 | original | https://x.com/silverfang88/status/1929030465991700688 | &lt;说点大家不想说的行业真相&gt;
+- `1929134738499146086` | 2025-06-01 19:15:37 GMT+8 | quote | https://x.com/silverfang88/status/1929134738499146086 | Taiko @taikoxyz 上alpha了
+- `1929154086617883003` | 2025-06-01 20:32:30 GMT+8 | reply | https://x.com/silverfang88/status/1929154086617883003 | @Mercy_okx 牛逼
+- `1929160400890995169` | 2025-06-01 20:57:36 GMT+8 | original | https://x.com/silverfang88/status/1929160400890995169 | <每日热点回顾6.1>
+- `1929164458284274061` | 2025-06-01 21:13:43 GMT+8 | reply | https://x.com/silverfang88/status/1929164458284274061 | @Ethcoin3 好建议
+- `1929246873677697245` | 2025-06-02 02:41:13 GMT+8 | reply | https://x.com/silverfang88/status/1929246873677697245 | @sukie234 华威大学最有流量的一次
+- `1929368835125096609` | 2025-06-02 10:45:50 GMT+8 | original | https://x.com/silverfang88/status/1929368835125096609 | &lt;说点大家不想说的行业真相&gt;
+- `1929368927143858529` | 2025-06-02 10:46:12 GMT+8 | original | https://x.com/silverfang88/status/1929368927143858529 | &lt;说点大家不想说的行业真相&gt;
+- `1929368979853963413` | 2025-06-02 10:46:25 GMT+8 | original | https://x.com/silverfang88/status/1929368979853963413 | &lt;说点大家不想说的行业真相&gt;
+- `1929401269221027940` | 2025-06-02 12:54:43 GMT+8 | quote | https://x.com/silverfang88/status/1929401269221027940 | 从高岗、刘少奇、林彪
+- `1929576812079993225` | 2025-06-03 00:32:16 GMT+8 | original | https://x.com/silverfang88/status/1929576812079993225 | <每日热点回顾6.2>
+- `1929685484193960348` | 2025-06-03 07:44:05 GMT+8 | reply | https://x.com/silverfang88/status/1929685484193960348 | @HeyfishYC @blknoiz06 @Abstract_Eco @pumpdotfun @Sidekick_Labs 助力每一个梦想
+- `1929842642944188631` | 2025-06-03 18:08:35 GMT+8 | original | https://x.com/silverfang88/status/1929842642944188631 | <说点大家不想说的行业真相>
+- `1929844473548493011` | 2025-06-03 18:15:51 GMT+8 | reply | https://x.com/silverfang88/status/1929844473548493011 | @nine_DeFi 天时就是一切 
+- `1929850998379761743` | 2025-06-03 18:41:47 GMT+8 | original | https://x.com/silverfang88/status/1929850998379761743 | 近期一直在搞房子的事情
+- `1929851072396644867` | 2025-06-03 18:42:05 GMT+8 | reply | https://x.com/silverfang88/status/1929851072396644867 | @0x_Glaucus 内盘都是发盘子的吧
+- `1929851384456691958` | 2025-06-03 18:43:19 GMT+8 | reply | https://x.com/silverfang88/status/1929851384456691958 | @edceeddcc 成功就是滚雪球
+- `1929852118456062368` | 2025-06-03 18:46:14 GMT+8 | reply | https://x.com/silverfang88/status/1929852118456062368 | @chaozuoye 异国他乡的 总得有个落脚点
+- `1929852148550193541` | 2025-06-03 18:46:21 GMT+8 | reply | https://x.com/silverfang88/status/1929852148550193541 | @wukongnofomo yeah
+- `1929852532765217031` | 2025-06-03 18:47:53 GMT+8 | reply | https://x.com/silverfang88/status/1929852532765217031 | @DARTERETH 在一个更神奇的地方
+- `1929863973920559611` | 2025-06-03 19:33:21 GMT+8 | reply | https://x.com/silverfang88/status/1929863973920559611 | @linwanwan823 对
+- `1929933642186534994` | 2025-06-04 00:10:11 GMT+8 | original | https://x.com/silverfang88/status/1929933642186534994 | <每日热点回顾6.3>
+- `1930090947175690273` | 2025-06-04 10:35:15 GMT+8 | original | https://x.com/silverfang88/status/1930090947175690273 | &lt;说点大家不想说的行业真相&gt;
+- `1930091338961432815` | 2025-06-04 10:36:49 GMT+8 | reply | https://x.com/silverfang88/status/1930091338961432815 | @nine_DeFi 加油
+- `1930091350772592912` | 2025-06-04 10:36:52 GMT+8 | reply | https://x.com/silverfang88/status/1930091350772592912 | @JunXu04535241 gm
+- `1930092793848049749` | 2025-06-04 10:42:36 GMT+8 | reply | https://x.com/silverfang88/status/1930092793848049749 | @Anna_nanachan gn
+- `1930092824965591494` | 2025-06-04 10:42:43 GMT+8 | reply | https://x.com/silverfang88/status/1930092824965591494 | @0xclover233 gn
+- `1930092839725347043` | 2025-06-04 10:42:47 GMT+8 | reply | https://x.com/silverfang88/status/1930092839725347043 | @EsirJobs34080 gm
+- `1930092895610253465` | 2025-06-04 10:43:00 GMT+8 | reply | https://x.com/silverfang88/status/1930092895610253465 | @Stra1ght_Flush 汇旺鼓掌
+- `1930092960919761362` | 2025-06-04 10:43:15 GMT+8 | reply | https://x.com/silverfang88/status/1930092960919761362 | @bqjushen gm
+- `1930092997078855983` | 2025-06-04 10:43:24 GMT+8 | reply | https://x.com/silverfang88/status/1930092997078855983 | @ling65697_z gm
+- `1930097741713289593` | 2025-06-04 11:02:15 GMT+8 | original | https://x.com/silverfang88/status/1930097741713289593 | <新项目吸血行情>
+- `1930100323127046281` | 2025-06-04 11:12:31 GMT+8 | original | https://x.com/silverfang88/status/1930100323127046281 | 我发现真的存在深圳和成都集团
+- `1930103342702661739` | 2025-06-04 11:24:31 GMT+8 | reply | https://x.com/silverfang88/status/1930103342702661739 | @0xDave852 我也想加入领略一下
+- `1930104845286900199` | 2025-06-04 11:30:29 GMT+8 | reply | https://x.com/silverfang88/status/1930104845286900199 | @PepeBoost888 还是掏的交易所流动性
+- `1930105721024057775` | 2025-06-04 11:33:58 GMT+8 | reply | https://x.com/silverfang88/status/1930105721024057775 | @Luckyjudy666 穿女装能进吗
+- `1930107558473412815` | 2025-06-04 11:41:16 GMT+8 | reply | https://x.com/silverfang88/status/1930107558473412815 | @HTX_Molly yeah
+- `1930111505581912287` | 2025-06-04 11:56:57 GMT+8 | reply | https://x.com/silverfang88/status/1930111505581912287 | @CryptoNataNata ？
+- `1930121034797322526` | 2025-06-04 12:34:49 GMT+8 | reply | https://x.com/silverfang88/status/1930121034797322526 | @YeruiZhang 也是大集团
+- `1930175778085581151` | 2025-06-04 16:12:21 GMT+8 | original | https://x.com/silverfang88/status/1930175778085581151 | 说实话现在防女巫这个事情
+- `1930190431209566524` | 2025-06-04 17:10:34 GMT+8 | reply | https://x.com/silverfang88/status/1930190431209566524 | @tai_ven99 @pumpdotfun 有吧
+- `1930224138297454958` | 2025-06-04 19:24:31 GMT+8 | original | https://x.com/silverfang88/status/1930224138297454958 | 怎么又被夹了？兄弟？
+- `1930228121690878309` | 2025-06-04 19:40:20 GMT+8 | original | https://x.com/silverfang88/status/1930228121690878309 | <每日热点回顾6.4>
+- `1930231585129017666` | 2025-06-04 19:54:06 GMT+8 | reply | https://x.com/silverfang88/status/1930231585129017666 | @tianyufan2 嗯，是这个意思
+- `1930450043204677690` | 2025-06-05 10:22:10 GMT+8 | original | https://x.com/silverfang88/status/1930450043204677690 | &lt;说点大家不想说的行业真相&gt;
+- `1930450975007093151` | 2025-06-05 10:25:53 GMT+8 | reply | https://x.com/silverfang88/status/1930450975007093151 | @mitaotaomi 真的吗
+- `1930452272057856237` | 2025-06-05 10:31:02 GMT+8 | reply | https://x.com/silverfang88/status/1930452272057856237 | @NikoAnann 真的吗
+- `1930452291045470316` | 2025-06-05 10:31:06 GMT+8 | reply | https://x.com/silverfang88/status/1930452291045470316 | @0xdizai ？
+- `1930468523660456177` | 2025-06-05 11:35:37 GMT+8 | reply | https://x.com/silverfang88/status/1930468523660456177 | @vvxiaoyu8888 还好见过你了
+- `1930470282751553622` | 2025-06-05 11:42:36 GMT+8 | reply | https://x.com/silverfang88/status/1930470282751553622 | @giantcutie666 凶手找到了 @sun_xinjin
+- `1930475257892352129` | 2025-06-05 12:02:22 GMT+8 | original | https://x.com/silverfang88/status/1930475257892352129 | 大家都叹息屠龙少年成恶龙故事
+- `1930555175279964440` | 2025-06-05 17:19:56 GMT+8 | quote | https://x.com/silverfang88/status/1930555175279964440 | VIXBT 的mindshare开始起飞
+- `1930564152034251140` | 2025-06-05 17:55:36 GMT+8 | original | https://x.com/silverfang88/status/1930564152034251140 | 咱们新加坡是平原地区
+- `1930565649849627083` | 2025-06-05 18:01:33 GMT+8 | reply | https://x.com/silverfang88/status/1930565649849627083 | @ZLiao3 工作的时候要___
+- `1930567845949116712` | 2025-06-05 18:10:17 GMT+8 | reply | https://x.com/silverfang88/status/1930567845949116712 | @rtk17025 @videoxbt_agent @KaitoAI 密集恐惧症
+- `1930571768110141443` | 2025-06-05 18:25:52 GMT+8 | reply | https://x.com/silverfang88/status/1930571768110141443 | @Neon2079 @Sidekick_Labs @saharaai @videoxbt_agent @6551Dex 一见无始道成空
+- `1930572011115577535` | 2025-06-05 18:26:50 GMT+8 | reply | https://x.com/silverfang88/status/1930572011115577535 | @wukongnofomo @Sidekick_Labs @saharaai @videoxbt_agent @6551Dex 手机壳是币安的来财
+- `1930574976475975702` | 2025-06-05 18:38:37 GMT+8 | original | https://x.com/silverfang88/status/1930574976475975702 | &lt;交易所新格局&gt;
+- `1930576980434354181` | 2025-06-05 18:46:35 GMT+8 | reply | https://x.com/silverfang88/status/1930576980434354181 | @web3upxiong @Sidekick_Labs @saharaai @videoxbt_agent @6551Dex 子时 - xxxx交易所
+- `1930593428334674414` | 2025-06-05 19:51:56 GMT+8 | reply | https://x.com/silverfang88/status/1930593428334674414 | @anymose @Sidekick_Labs @saharaai @videoxbt_agent @6551Dex 我也要上赛道
+- `1930606433101631579` | 2025-06-05 20:43:37 GMT+8 | original | https://x.com/silverfang88/status/1930606433101631579 | &lt;每日热点回顾6.5&gt;
+- `1930607009239605752` | 2025-06-05 20:45:54 GMT+8 | original | https://x.com/silverfang88/status/1930607009239605752 | 今天心情很差
+- `1930607252484108657` | 2025-06-05 20:46:52 GMT+8 | reply | https://x.com/silverfang88/status/1930607252484108657 | @SEFATUBA3 抽不动了
+- `1930608042103677416` | 2025-06-05 20:50:00 GMT+8 | reply | https://x.com/silverfang88/status/1930608042103677416 | @lijiuer1 骂我
+- `1930609606616879413` | 2025-06-05 20:56:13 GMT+8 | reply | https://x.com/silverfang88/status/1930609606616879413 | 中美打电话啦
+- `1930692093145763937` | 2025-06-06 02:24:00 GMT+8 | original | https://x.com/silverfang88/status/1930692093145763937 | 我个人是最近到了支撑位就买点
+- `1930797533301010735` | 2025-06-06 09:22:59 GMT+8 | reply | https://x.com/silverfang88/status/1930797533301010735 | @joakja 🤣
+- `1930817159787315454` | 2025-06-06 10:40:58 GMT+8 | original | https://x.com/silverfang88/status/1930817159787315454 | &lt;说点大家不想说的行业真相&gt;
+- `1930828892576821572` | 2025-06-06 11:27:35 GMT+8 | original | https://x.com/silverfang88/status/1930828892576821572 | &lt;时光机法则&gt;
+- `1930830514421899572` | 2025-06-06 11:34:02 GMT+8 | reply | https://x.com/silverfang88/status/1930830514421899572 | @zepump 买吧 我感觉
+- `1930920715102146732` | 2025-06-06 17:32:27 GMT+8 | original | https://x.com/silverfang88/status/1930920715102146732 | 说句掏心窝子的话
+- `1930929711586198009` | 2025-06-06 18:08:12 GMT+8 | reply | https://x.com/silverfang88/status/1930929711586198009 | @YeruiZhang 哈哈哈哈
+- `1930934202494865475` | 2025-06-06 18:26:03 GMT+8 | quote | https://x.com/silverfang88/status/1930934202494865475 | huma开质押了 @humafinance 
+- `1930935553517879624` | 2025-06-06 18:31:25 GMT+8 | original | https://x.com/silverfang88/status/1930935553517879624 | Thank you crypto! https://t.co/Hp22LbYxvi
+- `1930935942073749517` | 2025-06-06 18:32:58 GMT+8 | reply | https://x.com/silverfang88/status/1930935942073749517 | @EKL00000 赚钱了奢侈一把
+- `1930935968246517782` | 2025-06-06 18:33:04 GMT+8 | reply | https://x.com/silverfang88/status/1930935968246517782 | @nihaoelen 蹭！
+- `1930935991818391927` | 2025-06-06 18:33:10 GMT+8 | reply | https://x.com/silverfang88/status/1930935991818391927 | @StewartEdward07 刚提的
+- `1930936049624301871` | 2025-06-06 18:33:23 GMT+8 | reply | https://x.com/silverfang88/status/1930936049624301871 | @75208766E 黑色的低调
+- `1930936814577348794` | 2025-06-06 18:36:26 GMT+8 | reply | https://x.com/silverfang88/status/1930936814577348794 | @waimaixiaoming https://t.co/dCr9oj9pFb
+- `1930937849769243026` | 2025-06-06 18:40:33 GMT+8 | reply | https://x.com/silverfang88/status/1930937849769243026 | @Crypto_Yulia 马马虎虎
+- `1930937879121035374` | 2025-06-06 18:40:40 GMT+8 | reply | https://x.com/silverfang88/status/1930937879121035374 | @cryp_orange 爆金币了
+- `1930956396180496833` | 2025-06-06 19:54:14 GMT+8 | original | https://x.com/silverfang88/status/1930956396180496833 | <每日热点回顾6.6>
+- `1930957380088463479` | 2025-06-06 19:58:09 GMT+8 | reply | https://x.com/silverfang88/status/1930957380088463479 | @yyyyyyjinfan 一定会的
+- `1930958057166827884` | 2025-06-06 20:00:50 GMT+8 | reply | https://x.com/silverfang88/status/1930958057166827884 | @0x9748 容易被鞭子抽
+- `1931181687351980350` | 2025-06-07 10:49:28 GMT+8 | original | https://x.com/silverfang88/status/1931181687351980350 | <说点大家不想说的行业真相>
+- `1931182024511177196` | 2025-06-07 10:50:48 GMT+8 | original | https://x.com/silverfang88/status/1931182024511177196 | <说点大家不想说的行业真相>
+- `1931182239712420141` | 2025-06-07 10:51:40 GMT+8 | original | https://x.com/silverfang88/status/1931182239712420141 | <说点大家不想说的行业真相>
+- `1931182750473543965` | 2025-06-07 10:53:42 GMT+8 | reply | https://x.com/silverfang88/status/1931182750473543965 | @qg7777 gm
+- `1931183063582794202` | 2025-06-07 10:54:56 GMT+8 | reply | https://x.com/silverfang88/status/1931183063582794202 | @qg7777 30年？？？
+- `1931183246173188101` | 2025-06-07 10:55:40 GMT+8 | reply | https://x.com/silverfang88/status/1931183246173188101 | @broleon 早 大师兄
+- `1931183799192220113` | 2025-06-07 10:57:52 GMT+8 | reply | https://x.com/silverfang88/status/1931183799192220113 | @Vogelimoney ？
+- `1931198404178362824` | 2025-06-07 11:55:54 GMT+8 | reply | https://x.com/silverfang88/status/1931198404178362824 | @hotbabyrebao 看看脚底
+- `1931234894078001262` | 2025-06-07 14:20:54 GMT+8 | reply | https://x.com/silverfang88/status/1931234894078001262 | @0xZePRE 咋了 给你说急眼了？
+- `1931234958557007877` | 2025-06-07 14:21:09 GMT+8 | reply | https://x.com/silverfang88/status/1931234958557007877 | @0xHa0 哈哈哈
+- `1931234989246705857` | 2025-06-07 14:21:16 GMT+8 | reply | https://x.com/silverfang88/status/1931234989246705857 | @CryptoOlddog 6
+- `1931235871938039826` | 2025-06-07 14:24:47 GMT+8 | reply | https://x.com/silverfang88/status/1931235871938039826 | @Bridgerlang 记得
+- `1931235944071659723` | 2025-06-07 14:25:04 GMT+8 | reply | https://x.com/silverfang88/status/1931235944071659723 | @0xdizai 凉拌炒鸡蛋
+- `1931250084441952495` | 2025-06-07 15:21:15 GMT+8 | quote | https://x.com/silverfang88/status/1931250084441952495 | @Sidekick_Labs 随便侃侃新直播系列 
+- `1931359947012649176` | 2025-06-07 22:37:48 GMT+8 | original | https://x.com/silverfang88/status/1931359947012649176 | &lt;今日热点回顾6.7&gt;
+- `1931368214635925891` | 2025-06-07 23:10:40 GMT+8 | original | https://x.com/silverfang88/status/1931368214635925891 | 我草 怎么又是婚史
+- `1931374623876383072` | 2025-06-07 23:36:08 GMT+8 | reply | https://x.com/silverfang88/status/1931374623876383072 | @hzs2036566 @Sidekick_Labs 明天看看
+- `1931383264125538796` | 2025-06-08 00:10:28 GMT+8 | reply | https://x.com/silverfang88/status/1931383264125538796 | @abyssofgambling 你也是真牛逼
+- `1931427740684812416` | 2025-06-08 03:07:12 GMT+8 | quote | https://x.com/silverfang88/status/1931427740684812416 | 莫愁前路无知己
+- `1931545787974271452` | 2025-06-08 10:56:16 GMT+8 | original | https://x.com/silverfang88/status/1931545787974271452 | &lt;说点大家不想说的行业真相&gt;
+- `1931547887789613085` | 2025-06-08 11:04:37 GMT+8 | reply | https://x.com/silverfang88/status/1931547887789613085 | @HaywarZhu 他可能真的就是传宗接代需求
+- `1931547952163819622` | 2025-06-08 11:04:52 GMT+8 | reply | https://x.com/silverfang88/status/1931547952163819622 | @diamondhandjs 接受草莽江湖本质
+- `1931549162224718311` | 2025-06-08 11:09:41 GMT+8 | reply | https://x.com/silverfang88/status/1931549162224718311 | @nine_DeFi 大狮兄：几把不要放碗里
+- `1931549237327859770` | 2025-06-08 11:09:59 GMT+8 | reply | https://x.com/silverfang88/status/1931549237327859770 | @langfeixue 哈哈哈哈
+- `1931552302323892414` | 2025-06-08 11:22:10 GMT+8 | reply | https://x.com/silverfang88/status/1931552302323892414 | @Anna_nanachan gm
+- `1931563124764856522` | 2025-06-08 12:05:10 GMT+8 | original | https://x.com/silverfang88/status/1931563124764856522 | 大哥硬刚完bitget回来了！？ https://t.co/1bCAx9jjK5
+- `1931594197410406499` | 2025-06-08 14:08:38 GMT+8 | reply | https://x.com/silverfang88/status/1931594197410406499 | @rtk17025 这么长
+- `1931697790352232936` | 2025-06-08 21:00:17 GMT+8 | original | https://x.com/silverfang88/status/1931697790352232936 | &lt;每日热点回顾6.8&gt;
+- `1931706499610599502` | 2025-06-08 21:34:53 GMT+8 | quote | https://x.com/silverfang88/status/1931706499610599502 | web3首次非诚勿扰节目
+- `1931916748913246581` | 2025-06-09 11:30:20 GMT+8 | original | https://x.com/silverfang88/status/1931916748913246581 | &lt;说点大家不想说的行业真相&gt;
+- `1931918459635663253` | 2025-06-09 11:37:08 GMT+8 | reply | https://x.com/silverfang88/status/1931918459635663253 | @qhsailing 王八操的
+- `1931918904009666622` | 2025-06-09 11:38:54 GMT+8 | original | https://x.com/silverfang88/status/1931918904009666622 | @wang_xiaolou gn
+- `1931918927325753547` | 2025-06-09 11:39:00 GMT+8 | original | https://x.com/silverfang88/status/1931918927325753547 | @momochenming 你就是最棒的
+- `1931923488748802081` | 2025-06-09 11:57:07 GMT+8 | original | https://x.com/silverfang88/status/1931923488748802081 | @pandaBA007 gm
+- `1931937319755665679` | 2025-06-09 12:52:05 GMT+8 | original | https://x.com/silverfang88/status/1931937319755665679 | @thecryptoskanda 高瞻远瞩
+- `1931961971970359791` | 2025-06-09 14:30:02 GMT+8 | repost | https://x.com/silverfang88/status/1931961971970359791 | RT @silverfang88: 再给我一次机会
+- `1931978408998879267` | 2025-06-09 15:35:21 GMT+8 | original | https://x.com/silverfang88/status/1931978408998879267 | 唯沉默是最高的轻蔑
+- `1931987120085983629` | 2025-06-09 16:09:58 GMT+8 | original | https://x.com/silverfang88/status/1931987120085983629 | <说点大家不想说的行业真相>
+- `1931988866850025579` | 2025-06-09 16:16:55 GMT+8 | reply | https://x.com/silverfang88/status/1931988866850025579 | @CryptoSociety42 其实我天蝎
+- `1931989124950733013` | 2025-06-09 16:17:56 GMT+8 | reply | https://x.com/silverfang88/status/1931989124950733013 | @StewartEdward07 @CryptoSociety42 紫头像，性欲强
+- `1932015970484474356` | 2025-06-09 18:04:37 GMT+8 | reply | https://x.com/silverfang88/status/1932015970484474356 | @0x0xFeng urus配带风神吗
+- `1932018879259418712` | 2025-06-09 18:16:10 GMT+8 | reply | https://x.com/silverfang88/status/1932018879259418712 | @jenniekusu 好长
+- `1932028188856877070` | 2025-06-09 18:53:10 GMT+8 | reply | https://x.com/silverfang88/status/1932028188856877070 | @Elizabethofyou 不知道
+- `1932077562194510191` | 2025-06-09 22:09:21 GMT+8 | original | https://x.com/silverfang88/status/1932077562194510191 | <每日热点回顾6.9>
+- `1932077780709294085` | 2025-06-09 22:10:13 GMT+8 | reply | https://x.com/silverfang88/status/1932077780709294085 | @Crypto_Starry gn
+- `1932138745933042121` | 2025-06-10 02:12:29 GMT+8 | reply | https://x.com/silverfang88/status/1932138745933042121 | @AMAN_TANG_ @videoxbt_agent
+- `1932239022761685062` | 2025-06-10 08:50:56 GMT+8 | quote | https://x.com/silverfang88/status/1932239022761685062 | 不错过本轮主流行情
+- `1932240652391354606` | 2025-06-10 08:57:25 GMT+8 | reply | https://x.com/silverfang88/status/1932240652391354606 | @Van1saXXM gm
+- `1932240672603656249` | 2025-06-10 08:57:30 GMT+8 | reply | https://x.com/silverfang88/status/1932240672603656249 | @ling65697_z gm
+- `1932282339281023476` | 2025-06-10 11:43:04 GMT+8 | original | https://x.com/silverfang88/status/1932282339281023476 | <说点大家不想说的行业真相>
+- `1932284878785282248` | 2025-06-10 11:53:09 GMT+8 | reply | https://x.com/silverfang88/status/1932284878785282248 | @isadora288881 你好呀
+- `1932285430042628170` | 2025-06-10 11:55:21 GMT+8 | reply | https://x.com/silverfang88/status/1932285430042628170 | @isadora288881 晚安！小点点
+- `1932347286144929998` | 2025-06-10 16:01:08 GMT+8 | original | https://x.com/silverfang88/status/1932347286144929998 | BSC这些项目方
+- `1932349865197203776` | 2025-06-10 16:11:23 GMT+8 | reply | https://x.com/silverfang88/status/1932349865197203776 | @WhospipiYou 啥东西
+- `1932351257337119147` | 2025-06-10 16:16:55 GMT+8 | reply | https://x.com/silverfang88/status/1932351257337119147 | @WhospipiYou …. 我不是乞丐 
+- `1932359784214548878` | 2025-06-10 16:50:48 GMT+8 | reply | https://x.com/silverfang88/status/1932359784214548878 | @wujinxiaBTC 这点蛋糕不够我这么喊 兄弟
+- `1932366830469022076` | 2025-06-10 17:18:48 GMT+8 | reply | https://x.com/silverfang88/status/1932366830469022076 | @ec_unoxx 所以其实都是切片分发
+- `1932393695741091984` | 2025-06-10 19:05:33 GMT+8 | original | https://x.com/silverfang88/status/1932393695741091984 | 林克老哥 @CryptoSociety42 
+- `1932395466190401921` | 2025-06-10 19:12:35 GMT+8 | reply | https://x.com/silverfang88/status/1932395466190401921 | @CryptoSociety42 晚上聊聊
+- `1932412115165515822` | 2025-06-10 20:18:45 GMT+8 | quote | https://x.com/silverfang88/status/1932412115165515822 | Thank you crypto! https://t.co/7GGdThwPhv
+- `1932415789430374652` | 2025-06-10 20:33:21 GMT+8 | original | https://x.com/silverfang88/status/1932415789430374652 | <每日热点回顾6.10>
+- `1932421544053178817` | 2025-06-10 20:56:13 GMT+8 | original | https://x.com/silverfang88/status/1932421544053178817 | https://t.co/h80Ixn86k8
+- `1932422196544278880` | 2025-06-10 20:58:48 GMT+8 | reply | https://x.com/silverfang88/status/1932422196544278880 | 同时直播一下 
+- `1932584971925139564` | 2025-06-11 07:45:37 GMT+8 | quote | https://x.com/silverfang88/status/1932584971925139564 | 恭喜女王
+- `1932655691988443325` | 2025-06-11 12:26:38 GMT+8 | original | https://x.com/silverfang88/status/1932655691988443325 | <说点大家不想说的行业真相>
+- `1932668186039869535` | 2025-06-11 13:16:17 GMT+8 | reply | https://x.com/silverfang88/status/1932668186039869535 | @0xqianshuishu 马上江郎才尽！
+- `1932675852187451568` | 2025-06-11 13:46:45 GMT+8 | original | https://x.com/silverfang88/status/1932675852187451568 | 我的核心优势：币圈各界人脉资源丰富！交易所高层：5个交易所老板，10个VC合伙人，21位做市商老板，53位基金总监，424位项目方，601位KOL。币圈领袖：A10大佬39位，A9大哥163位，A8高手305位，A7玩家497位，交易所壳1148个，CMCtop100 67家，公链老板225位，币圈各大会议ETHCC、Token2049等高峰论坛413位币圈
+- `1932727929072476422` | 2025-06-11 17:13:41 GMT+8 | quote | https://x.com/silverfang88/status/1932727929072476422 | 学习了 
+- `1932728894429540607` | 2025-06-11 17:17:31 GMT+8 | reply | https://x.com/silverfang88/status/1932728894429540607 | @BNBCHAINZH @videoxbt_agent 黑子说话！
+- `1932795136259617222` | 2025-06-11 21:40:44 GMT+8 | original | https://x.com/silverfang88/status/1932795136259617222 | MEET48今天也是TGE了
+- `1932823607065129479` | 2025-06-11 23:33:52 GMT+8 | original | https://x.com/silverfang88/status/1932823607065129479 | <每日热点回顾6.11>
+- `1932962926329295064` | 2025-06-12 08:47:29 GMT+8 | reply | https://x.com/silverfang88/status/1932962926329295064 | @Dincocoin @0x0xFeng 我也配？
+- `1932964459397722185` | 2025-06-12 08:53:34 GMT+8 | original | https://x.com/silverfang88/status/1932964459397722185 | 一晚上这么多事情？
+- `1932965269955358836` | 2025-06-12 08:56:47 GMT+8 | original | https://x.com/silverfang88/status/1932965269955358836 | bitget羞辱enheng屌丝
+- `1932977792481964385` | 2025-06-12 09:46:33 GMT+8 | original | https://x.com/silverfang88/status/1932977792481964385 | 前段时间不是有很多朋友让我说说Hashkey
+- `1932978819998405060` | 2025-06-12 09:50:38 GMT+8 | quote | https://x.com/silverfang88/status/1932978819998405060 | 提了很多次的Mira @miranetwork
+- `1933091276070756603` | 2025-06-12 17:17:29 GMT+8 | original | https://x.com/silverfang88/status/1933091276070756603 | 多少有点离谱了 $spx https://t.co/rVROFNPqUi
+- `1933091411546771654` | 2025-06-12 17:18:02 GMT+8 | reply | https://x.com/silverfang88/status/1933091411546771654 | @EnHeng456 一路上没有朋友，都是敌人
+- `1933091984539111702` | 2025-06-12 17:20:18 GMT+8 | reply | https://x.com/silverfang88/status/1933091984539111702 | @ec_unoxx 太离谱了
+- `1933098653805339069` | 2025-06-12 17:46:48 GMT+8 | original | https://x.com/silverfang88/status/1933098653805339069 | 这咋还有冒充我的呢？？？？？
+- `1933160690350723227` | 2025-06-12 21:53:19 GMT+8 | original | https://x.com/silverfang88/status/1933160690350723227 | 第一次请假
+- `1933354875070656746` | 2025-06-13 10:44:56 GMT+8 | original | https://x.com/silverfang88/status/1933354875070656746 | &lt;说点大家不想说的行业真相&gt;
+- `1933356508814979247` | 2025-06-13 10:51:26 GMT+8 | original | https://x.com/silverfang88/status/1933356508814979247 | @onefly @Christianeth 黑客啊
+- `1933396609745985761` | 2025-06-13 13:30:47 GMT+8 | original | https://x.com/silverfang88/status/1933396609745985761 | 所以昨天是谁说的要打仗了？
+- `1933456196549378063` | 2025-06-13 17:27:33 GMT+8 | quote | https://x.com/silverfang88/status/1933456196549378063 | 想念你们八哥的第一天
+- `1933456764458185131` | 2025-06-13 17:29:49 GMT+8 | reply | https://x.com/silverfang88/status/1933456764458185131 | @0xBeyondLee https://t.co/pwAkrs2NGj
+- `1933468011052347661` | 2025-06-13 18:14:30 GMT+8 | reply | https://x.com/silverfang88/status/1933468011052347661 | @0xpengyu @videoxbt_agent 解释一下pengyu的意思
+- `1933473384568139997` | 2025-06-13 18:35:51 GMT+8 | reply | https://x.com/silverfang88/status/1933473384568139997 | @BNBCHAIN @videoxbt_agent @videoxbt_agent 什么意思？？？
+- `1933532603237495077` | 2025-06-13 22:31:10 GMT+8 | original | https://x.com/silverfang88/status/1933532603237495077 | &lt;每日热点回顾6.13&gt;
+- `1933704966549729595` | 2025-06-14 09:56:05 GMT+8 | original | https://x.com/silverfang88/status/1933704966549729595 | &lt;说点大家不想说的行业真相&gt;
+- `1933705016654901524` | 2025-06-14 09:56:17 GMT+8 | reply | https://x.com/silverfang88/status/1933705016654901524 | 早安，玛卡巴卡，傻逼除外
+- `1933710416829718603` | 2025-06-14 10:17:44 GMT+8 | reply | https://x.com/silverfang88/status/1933710416829718603 | @xueqiu88 ？
+- `1933720831852724733` | 2025-06-14 10:59:07 GMT+8 | repost | https://x.com/silverfang88/status/1933720831852724733 | RT @BNBCHAINZH: BNB Chain 基金會已購入 17 個 BSC 生態資產✨
+- `1933723176783262144` | 2025-06-14 11:08:26 GMT+8 | original | https://x.com/silverfang88/status/1933723176783262144 | @hotbabyrebao 干
+- `1933742582280171999` | 2025-06-14 12:25:33 GMT+8 | original | https://x.com/silverfang88/status/1933742582280171999 | @abyssofgambling 报警 直接报警
+- `1933746340598853995` | 2025-06-14 12:40:29 GMT+8 | original | https://x.com/silverfang88/status/1933746340598853995 | 我发现远离傻逼
+- `1933756609001631891` | 2025-06-14 13:21:17 GMT+8 | reply | https://x.com/silverfang88/status/1933756609001631891 | @diamondhandjs 主要是他们看营收和估值的
+- `1933815956687696279` | 2025-06-14 17:17:07 GMT+8 | reply | https://x.com/silverfang88/status/1933815956687696279 | @MorrisSHYang 😂 我不配我不配
+- `1933816085624877070` | 2025-06-14 17:17:38 GMT+8 | original | https://x.com/silverfang88/status/1933816085624877070 | @styleschen001 现在也是个臭屌丝
+- `1933818109309444411` | 2025-06-14 17:25:40 GMT+8 | original | https://x.com/silverfang88/status/1933818109309444411 | 牛姐组织的web3非诚勿扰马上开机了
+- `1933818775545200990` | 2025-06-14 17:28:19 GMT+8 | reply | https://x.com/silverfang88/status/1933818775545200990 | @xueqiu88 @aidashutiaozi @MINGJUNBJ 来吧 联系牛英俊
+- `1933818805123502265` | 2025-06-14 17:28:26 GMT+8 | original | https://x.com/silverfang88/status/1933818805123502265 | @GuoGuo6888 草
+- `1933818869375995915` | 2025-06-14 17:28:41 GMT+8 | original | https://x.com/silverfang88/status/1933818869375995915 | @0x_Glaucus 红三代来选妃了？
+- `1933819285681635796` | 2025-06-14 17:30:20 GMT+8 | reply | https://x.com/silverfang88/status/1933819285681635796 | @abyssofgambling 来辆911看看实力
+- `1933820895266779569` | 2025-06-14 17:36:44 GMT+8 | reply | https://x.com/silverfang88/status/1933820895266779569 | @linsajiao @abyssofgambling 联系一下 优质男嘉宾
+- `1933821565067804700` | 2025-06-14 17:39:24 GMT+8 | reply | https://x.com/silverfang88/status/1933821565067804700 | @rita88 @lin_btc 我劝牛英俊邀请一下 不要不识好歹
+- `1933834402259476873` | 2025-06-14 18:30:25 GMT+8 | reply | https://x.com/silverfang88/status/1933834402259476873 | @imjaychou 自信
+- `1933836901594911004` | 2025-06-14 18:40:20 GMT+8 | reply | https://x.com/silverfang88/status/1933836901594911004 | @RaccoonHKG Gay可以坐女生那桌
+- `1933885266709926339` | 2025-06-14 21:52:32 GMT+8 | original | https://x.com/silverfang88/status/1933885266709926339 | <每日热点回顾6.14>
+- `1933905351067549787` | 2025-06-14 23:12:20 GMT+8 | quote | https://x.com/silverfang88/status/1933905351067549787 | 跟对人 做对事 
+- `1933906315111551194` | 2025-06-14 23:16:10 GMT+8 | original | https://x.com/silverfang88/status/1933906315111551194 | ？这合适吗？这Ai不太合适吧 https://t.co/0nsEAgUSuL
+- `1934078103275679791` | 2025-06-15 10:38:47 GMT+8 | original | https://x.com/silverfang88/status/1934078103275679791 | 近期最期待看到的是
+- `1934104018298737109` | 2025-06-15 12:21:46 GMT+8 | original | https://x.com/silverfang88/status/1934104018298737109 | &lt;说点大家不想说的行业真相&gt;
+- `1934138062596153519` | 2025-06-15 14:37:03 GMT+8 | reply | https://x.com/silverfang88/status/1934138062596153519 | @cain_bnb 我怕男嘉宾破防
+- `1934138101036904625` | 2025-06-15 14:37:12 GMT+8 | reply | https://x.com/silverfang88/status/1934138101036904625 | @MrRyanChi 都可以
+- `1934148632288313539` | 2025-06-15 15:19:03 GMT+8 | reply | https://x.com/silverfang88/status/1934148632288313539 | @0xKirara 来啊 牛姐招待一下客人 @abyssofgambling
+- `1934151877245239696` | 2025-06-15 15:31:56 GMT+8 | reply | https://x.com/silverfang88/status/1934151877245239696 | @Tintinx2021 你太权威了 来吧
+- `1934239146467549425` | 2025-06-15 21:18:43 GMT+8 | original | https://x.com/silverfang88/status/1934239146467549425 | <每日热点回顾6.15>
+- `1934435048310382616` | 2025-06-16 10:17:10 GMT+8 | original | https://x.com/silverfang88/status/1934435048310382616 | <说点大家不想说的行业真相>
+- `1934435927935652114` | 2025-06-16 10:20:39 GMT+8 | reply | https://x.com/silverfang88/status/1934435927935652114 | @Mou_zaisi 你错过了最大的灰灰机会
+- `1934435995136716854` | 2025-06-16 10:20:55 GMT+8 | reply | https://x.com/silverfang88/status/1934435995136716854 | @jiucaicai250131 gm
+- `1934437492855595333` | 2025-06-16 10:26:53 GMT+8 | original | https://x.com/silverfang88/status/1934437492855595333 | 我建议马上安排币安alpha上的
+- `1934471443775180998` | 2025-06-16 12:41:47 GMT+8 | quote | https://x.com/silverfang88/status/1934471443775180998 | 不得不提我最爱的
+- `1934473661345562854` | 2025-06-16 12:50:36 GMT+8 | reply | https://x.com/silverfang88/status/1934473661345562854 | @turing_z3628 真的 终于来女嘉宾了 @abyssofgambling
+- `1934477837379236136` | 2025-06-16 13:07:11 GMT+8 | quote | https://x.com/silverfang88/status/1934477837379236136 | 好问题
+- `1934478122503827915` | 2025-06-16 13:08:19 GMT+8 | reply | https://x.com/silverfang88/status/1934478122503827915 | @0xVeil yes
+- `1934478173380792582` | 2025-06-16 13:08:32 GMT+8 | reply | https://x.com/silverfang88/status/1934478173380792582 | @xihongshi8621 好
+- `1934478900828221475` | 2025-06-16 13:11:25 GMT+8 | reply | https://x.com/silverfang88/status/1934478900828221475 | @broleon @videoxbt_agent 什么时候上alpha和大家pk一下
+- `1934536360595280231` | 2025-06-16 16:59:44 GMT+8 | quote | https://x.com/silverfang88/status/1934536360595280231 | 学历崩溃大时代
+- `1934541000313295222` | 2025-06-16 17:18:11 GMT+8 | quote | https://x.com/silverfang88/status/1934541000313295222 | 我 #OKX 节目我是一直看的
+- `1934541115413418327` | 2025-06-16 17:18:38 GMT+8 | reply | https://x.com/silverfang88/status/1934541115413418327 | @keyahayek 聪明吊不草傻逼
+- `1934542240833314926` | 2025-06-16 17:23:06 GMT+8 | original | https://x.com/silverfang88/status/1934542240833314926 | @xueqiu88 ？
+- `1934552724953281017` | 2025-06-16 18:04:46 GMT+8 | original | https://x.com/silverfang88/status/1934552724953281017 | 最近看到个挺有意思的细节
+- `1934589219684712681` | 2025-06-16 20:29:47 GMT+8 | repost | https://x.com/silverfang88/status/1934589219684712681 | RT @abyssofgambling: WEB3速配大会流程简介：
+- `1934623418835665181` | 2025-06-16 22:45:41 GMT+8 | original | https://x.com/silverfang88/status/1934623418835665181 | <每日热点回顾6.16>
+- `1934831028721602858` | 2025-06-17 12:30:39 GMT+8 | original | https://x.com/silverfang88/status/1934831028721602858 | <说点大家不想说的行业真相>
+- `1934832241194226143` | 2025-06-17 12:35:28 GMT+8 | original | https://x.com/silverfang88/status/1934832241194226143 | @0xBeyondLee 权钱勾结
+- `1934836654021447827` | 2025-06-17 12:53:00 GMT+8 | original | https://x.com/silverfang88/status/1934836654021447827 | @0xspiderbuster 古代的铸币权
+- `1934844110399246359` | 2025-06-17 13:22:38 GMT+8 | original | https://x.com/silverfang88/status/1934844110399246359 | @Momoxu7 加油
+- `1934844148974247946` | 2025-06-17 13:22:47 GMT+8 | repost | https://x.com/silverfang88/status/1934844148974247946 | RT @Momoxu7: 今天看到infini事件，想说产品真的好用，值得学习 对停卡表示惋惜
+- `1934853943156461583` | 2025-06-17 14:01:42 GMT+8 | original | https://x.com/silverfang88/status/1934853943156461583 | 马斯克开始杀机器人和僵尸粉了
+- `1934878679651479779` | 2025-06-17 15:40:00 GMT+8 | quote | https://x.com/silverfang88/status/1934878679651479779 | 大家都在思考如何上岸的问题
+- `1934895786825011675` | 2025-06-17 16:47:58 GMT+8 | repost | https://x.com/silverfang88/status/1934895786825011675 | RT @HuobiGlobal: 🗣️孙哥这一波杀疯了！TRON借壳上市大解构，HTX也有大动作？
+- `1934960688184877321` | 2025-06-17 21:05:52 GMT+8 | reply | https://x.com/silverfang88/status/1934960688184877321 | @OpenledgerHQ 欢迎
+- `1935014572995600403` | 2025-06-18 00:39:59 GMT+8 | original | https://x.com/silverfang88/status/1935014572995600403 | <每日热点回顾6.17>
+- `1935185427973189900` | 2025-06-18 11:58:54 GMT+8 | original | https://x.com/silverfang88/status/1935185427973189900 | <说点大家不想说的行业真相>
+- `1935190942430183701` | 2025-06-18 12:20:49 GMT+8 | original | https://x.com/silverfang88/status/1935190942430183701 | @chorishuang 臭丝
+- `1935207833349538007` | 2025-06-18 13:27:56 GMT+8 | original | https://x.com/silverfang88/status/1935207833349538007 | 我下辈子还接这个活....
+- `1935208999600930944` | 2025-06-18 13:32:34 GMT+8 | reply | https://x.com/silverfang88/status/1935208999600930944 | 我看了视频才知道我是主持人
+- `1935225594171769160` | 2025-06-18 14:38:31 GMT+8 | reply | https://x.com/silverfang88/status/1935225594171769160 | @0xKirara 我看了视频我才知道我也是策划
+- `1935225629563359626` | 2025-06-18 14:38:39 GMT+8 | reply | https://x.com/silverfang88/status/1935225629563359626 | @Aurora_Lashao 不会是你小子吧
+- `1935225648110518736` | 2025-06-18 14:38:43 GMT+8 | reply | https://x.com/silverfang88/status/1935225648110518736 | @wsztb123 6
+- `1935225721510862855` | 2025-06-18 14:39:01 GMT+8 | reply | https://x.com/silverfang88/status/1935225721510862855 | @EarronYu 男嘉宾直接报名 @abyssofgambling
+- `1935225749499462083` | 2025-06-18 14:39:08 GMT+8 | reply | https://x.com/silverfang88/status/1935225749499462083 | @Zixi41620514 看昏了
+- `1935225767761428806` | 2025-06-18 14:39:12 GMT+8 | reply | https://x.com/silverfang88/status/1935225767761428806 | @xueqiu88 ？
+- `1935225811218612406` | 2025-06-18 14:39:22 GMT+8 | reply | https://x.com/silverfang88/status/1935225811218612406 | @sky_gpt 大概率 @Sidekick_Labs
+- `1935225959013302582` | 2025-06-18 14:39:58 GMT+8 | reply | https://x.com/silverfang88/status/1935225959013302582 | @cain_bnb 哈哈哈哈哈
+- `1935225999786131928` | 2025-06-18 14:40:07 GMT+8 | reply | https://x.com/silverfang88/status/1935225999786131928 | @Real_RZ_ 看不懂了
+- `1935239072769016181` | 2025-06-18 15:32:04 GMT+8 | original | https://x.com/silverfang88/status/1935239072769016181 | 追踪数据贡献那个AI也整出了新东西 
+- `1935262956289404994` | 2025-06-18 17:06:58 GMT+8 | original | https://x.com/silverfang88/status/1935262956289404994 | 感谢 @Ceee333_ 和 @HTX_Molly 
+- `1935281269124055131` | 2025-06-18 18:19:45 GMT+8 | reply | https://x.com/silverfang88/status/1935281269124055131 | @Mercy_okx gm
+- `1935296310782943257` | 2025-06-18 19:19:31 GMT+8 | original | https://x.com/silverfang88/status/1935296310782943257 | <每日热点回顾6.18>
+- `1935297343995396348` | 2025-06-18 19:23:37 GMT+8 | reply | https://x.com/silverfang88/status/1935297343995396348 | @0xBeyondLee 执剑人剧本
+- `1935297383841284528` | 2025-06-18 19:23:47 GMT+8 | reply | https://x.com/silverfang88/status/1935297383841284528 | @Real_RZ_ 好问题 好像不需要交很多
+- `1935299674342379844` | 2025-06-18 19:32:53 GMT+8 | reply | https://x.com/silverfang88/status/1935299674342379844 | @dov_wo 懂了 四鱼一吃
+- `1935565562832375826` | 2025-06-19 13:09:25 GMT+8 | original | https://x.com/silverfang88/status/1935565562832375826 | 看了一段关于美股和币圈的
+- `1935566006837293095` | 2025-06-19 13:11:11 GMT+8 | original | https://x.com/silverfang88/status/1935566006837293095 | &lt;说点大家不想说的行业真相&gt;
+- `1935566070250885150` | 2025-06-19 13:11:26 GMT+8 | original | https://x.com/silverfang88/status/1935566070250885150 | &lt;说点大家不想说的行业真相&gt;
+- `1935567138879930411` | 2025-06-19 13:15:41 GMT+8 | reply | https://x.com/silverfang88/status/1935567138879930411 | @FUGUIHK 圈外人不会玩这些东西了
+- `1935570214680400048` | 2025-06-19 13:27:54 GMT+8 | reply | https://x.com/silverfang88/status/1935570214680400048 | @MMMusol gn
+- `1935573071290888529` | 2025-06-19 13:39:16 GMT+8 | reply | https://x.com/silverfang88/status/1935573071290888529 | @minimisue2022 爱看好看多看
+- `1935601160959988056` | 2025-06-19 15:30:53 GMT+8 | quote | https://x.com/silverfang88/status/1935601160959988056 | Matchain也要上了 @matchain_io 
+- `1935658411909341678` | 2025-06-19 19:18:22 GMT+8 | original | https://x.com/silverfang88/status/1935658411909341678 | 聊聊近期热点
+- `1935658505492689365` | 2025-06-19 19:18:45 GMT+8 | reply | https://x.com/silverfang88/status/1935658505492689365 | https://t.co/JtJmAJJzxU
+- `1935658510257377763` | 2025-06-19 19:18:46 GMT+8 | reply | https://x.com/silverfang88/status/1935658510257377763 | https://t.co/TAlOddgonR
+- `1935663707427885454` | 2025-06-19 19:39:25 GMT+8 | original | https://x.com/silverfang88/status/1935663707427885454 | <每日热点回顾6.19>
+- `1935663785760706620` | 2025-06-19 19:39:44 GMT+8 | reply | https://x.com/silverfang88/status/1935663785760706620 | @edceeddcc @pumpdotfun @worldlibertyfi @uptopmeme @Fair3_community @OpenledgerHQ @Humanityprot @saharaai @humafinance ？
+- `1935670787299848322` | 2025-06-19 20:07:33 GMT+8 | original | https://x.com/silverfang88/status/1935670787299848322 | 特朗普：赶紧降息
+- `1935673357686743178` | 2025-06-19 20:17:46 GMT+8 | reply | https://x.com/silverfang88/status/1935673357686743178 | @cyrilxuq 律师函警告
+- `1935691250419781860` | 2025-06-19 21:28:52 GMT+8 | reply | https://x.com/silverfang88/status/1935691250419781860 | @BNBCHAINZH 我会选择做48club lan
+- `1935704244260413918` | 2025-06-19 22:20:30 GMT+8 | original | https://x.com/silverfang88/status/1935704244260413918 | 不得不说 
+- `1935705132785963193` | 2025-06-19 22:24:01 GMT+8 | original | https://x.com/silverfang88/status/1935705132785963193 | @lecter1822 @falconfinance 一切都是先信资本
+- `1935888398000308643` | 2025-06-20 10:32:15 GMT+8 | original | https://x.com/silverfang88/status/1935888398000308643 | https://t.co/JtJmAJJzxU
+- `1935888847893938634` | 2025-06-20 10:34:03 GMT+8 | reply | https://x.com/silverfang88/status/1935888847893938634 | https://t.co/TAlOddgonR
+- `1935895108316283273` | 2025-06-20 10:58:55 GMT+8 | repost | https://x.com/silverfang88/status/1935895108316283273 | RT @silverfang88: 聊聊近期热点
+- `1935912176814112812` | 2025-06-20 12:06:45 GMT+8 | original | https://x.com/silverfang88/status/1935912176814112812 | &lt;说点大家不想说的行业真相&gt;
+- `1935912222917902471` | 2025-06-20 12:06:56 GMT+8 | original | https://x.com/silverfang88/status/1935912222917902471 | &lt;说点大家不想说的行业真相&gt;
+- `1935953746426839413` | 2025-06-20 14:51:56 GMT+8 | repost | https://x.com/silverfang88/status/1935953746426839413 | RT @cryptoxiao: H5的使用方法 @6551Dex
+- `1935953793805623297` | 2025-06-20 14:52:07 GMT+8 | reply | https://x.com/silverfang88/status/1935953793805623297 | @cryptoxiao @6551Dex 邀请码 321DAO
+- `1935957592028921900` | 2025-06-20 15:07:12 GMT+8 | original | https://x.com/silverfang88/status/1935957592028921900 | 真正的新abot来啦自己
+- `1935957754184872308` | 2025-06-20 15:07:51 GMT+8 | original | https://x.com/silverfang88/status/1935957754184872308 | 真正的新abot来啦
+- `1935960043511595114` | 2025-06-20 15:16:57 GMT+8 | original | https://x.com/silverfang88/status/1935960043511595114 | @suji_yan 牛逼角度
+- `1935960550712000785` | 2025-06-20 15:18:58 GMT+8 | quote | https://x.com/silverfang88/status/1935960550712000785 | 千里之行 始于足下
+- `1935968642082259004` | 2025-06-20 15:51:07 GMT+8 | original | https://x.com/silverfang88/status/1935968642082259004 | @btc_jx https://t.co/DNO7kWe8f4
+- `1935970301692796975` | 2025-06-20 15:57:43 GMT+8 | original | https://x.com/silverfang88/status/1935970301692796975 | 虚假的抽象文案：
+- `1935971585065922930` | 2025-06-20 16:02:49 GMT+8 | original | https://x.com/silverfang88/status/1935971585065922930 | @CryptoSociety42 321都是二百五，整活儿还得特朗普
+- `1935972375054733412` | 2025-06-20 16:05:57 GMT+8 | original | https://x.com/silverfang88/status/1935972375054733412 | @rita88 看得我热血沸腾、想当总统的心从未如此强烈过！
+- `1935994421109289136` | 2025-06-20 17:33:33 GMT+8 | original | https://x.com/silverfang88/status/1935994421109289136 | @yydzeth ？
+- `1936015537991274793` | 2025-06-20 18:57:28 GMT+8 | original | https://x.com/silverfang88/status/1936015537991274793 | @Tintinx2021 学习
+- `1936021765760974851` | 2025-06-20 19:22:13 GMT+8 | original | https://x.com/silverfang88/status/1936021765760974851 | <每日热点回顾>
+- `1936036027107627193` | 2025-06-20 20:18:53 GMT+8 | reply | https://x.com/silverfang88/status/1936036027107627193 | @Crypto_Yang8888 @Sidekick_Labs @aliciafights ？
+- `1936036071273644095` | 2025-06-20 20:19:03 GMT+8 | reply | https://x.com/silverfang88/status/1936036071273644095 | @xueqiu88 @Sidekick_Labs 行
+- `1936036093494997279` | 2025-06-20 20:19:09 GMT+8 | reply | https://x.com/silverfang88/status/1936036093494997279 | @vvxiaoyu8888 @Sidekick_Labs @HeyfishYC 怎么说
+- `1936037873486266809` | 2025-06-20 20:26:13 GMT+8 | reply | https://x.com/silverfang88/status/1936037873486266809 | @MaraCakeHotSale @Sidekick_Labs 所以这是你吗？
+- `1936043571637108948` | 2025-06-20 20:48:52 GMT+8 | reply | https://x.com/silverfang88/status/1936043571637108948 | @ourbit @Sidekick_Labs 这对吗
+- `1936043592461754400` | 2025-06-20 20:48:57 GMT+8 | reply | https://x.com/silverfang88/status/1936043592461754400 | @rita88 @Sidekick_Labs 这对吗
+- `1936060474430480385` | 2025-06-20 21:56:02 GMT+8 | original | https://x.com/silverfang88/status/1936060474430480385 | 我其实想问pumpfun的人
+- `1936064491663638688` | 2025-06-20 22:11:59 GMT+8 | reply | https://x.com/silverfang88/status/1936064491663638688 | @abyssofgambling solstorm我投了3000u
+- `1936068101944287267` | 2025-06-20 22:26:20 GMT+8 | reply | https://x.com/silverfang88/status/1936068101944287267 | @CatCryptoMaster ？
+- `1936069408721715405` | 2025-06-20 22:31:32 GMT+8 | repost | https://x.com/silverfang88/status/1936069408721715405 | RT @Sidekick_Labs: Share, engage, and trade live — effortlessly.
+- `1936069428476887491` | 2025-06-20 22:31:36 GMT+8 | reply | https://x.com/silverfang88/status/1936069428476887491 | @Sidekick_Labs @solana 牛逼
+- `1936087528219852857` | 2025-06-20 23:43:32 GMT+8 | reply | https://x.com/silverfang88/status/1936087528219852857 | @keyahayek 城堡证券…
+- `1936111748446405104` | 2025-06-21 01:19:46 GMT+8 | original | https://x.com/silverfang88/status/1936111748446405104 | 今天又在吃瓜
+- `1936247629714981018` | 2025-06-21 10:19:43 GMT+8 | original | https://x.com/silverfang88/status/1936247629714981018 | web3首届抽象非诚勿扰现况
+- `1936248635228053804` | 2025-06-21 10:23:43 GMT+8 | reply | https://x.com/silverfang88/status/1936248635228053804 | @BitBillMining 我觉得你去大街上问比特币是啥
+- `1936253004271042888` | 2025-06-21 10:41:04 GMT+8 | reply | https://x.com/silverfang88/status/1936253004271042888 | @Moon1ightSt @abyssofgambling 速度接待一下 安排这次
+- `1936260066564612165` | 2025-06-21 11:09:08 GMT+8 | reply | https://x.com/silverfang88/status/1936260066564612165 | @lin_yiliu 好问题
+- `1936260817068122380` | 2025-06-21 11:12:07 GMT+8 | original | https://x.com/silverfang88/status/1936260817068122380 | &lt;说点大家不想说的行业真相&gt;
+- `1936271139938222151` | 2025-06-21 11:53:08 GMT+8 | reply | https://x.com/silverfang88/status/1936271139938222151 | @MaraCakeHotSale ？
+- `1936287736992088551` | 2025-06-21 12:59:05 GMT+8 | reply | https://x.com/silverfang88/status/1936287736992088551 | @bo_xbt @abyssofgambling @0x_Glaucus 伟大撤退了
+- `1936346903169654835` | 2025-06-21 16:54:11 GMT+8 | reply | https://x.com/silverfang88/status/1936346903169654835 | @AlpacaYovela 你要当女嘉宾吗？
+- `1936354234456567948` | 2025-06-21 17:23:19 GMT+8 | reply | https://x.com/silverfang88/status/1936354234456567948 | @MaraCakeHotSale @PlasmaFDN @codexfx 好长
+- `1936362289197875676` | 2025-06-21 17:55:20 GMT+8 | reply | https://x.com/silverfang88/status/1936362289197875676 | @HeyfishYC ？功德比赛今日起正式开赛？
+- `1936384476923547750` | 2025-06-21 19:23:30 GMT+8 | original | https://x.com/silverfang88/status/1936384476923547750 | &lt;web3非诚勿扰&gt;
+- `1936384580376003051` | 2025-06-21 19:23:54 GMT+8 | reply | https://x.com/silverfang88/status/1936384580376003051 | @lilk1kopops 我还是欣赏你进去之前的桀骜不驯
+- `1936385975049220221` | 2025-06-21 19:29:27 GMT+8 | reply | https://x.com/silverfang88/status/1936385975049220221 | @xinzhiwanyan ？
+- `1936385989641138319` | 2025-06-21 19:29:30 GMT+8 | reply | https://x.com/silverfang88/status/1936385989641138319 | @wsztb123 发
+- `1936386492596879790` | 2025-06-21 19:31:30 GMT+8 | reply | https://x.com/silverfang88/status/1936386492596879790 | @0xAgata ？
+- `1936386566869680362` | 2025-06-21 19:31:48 GMT+8 | reply | https://x.com/silverfang88/status/1936386566869680362 | @abyssofgambling 行👍
+- `1936387713227452574` | 2025-06-21 19:36:21 GMT+8 | original | https://x.com/silverfang88/status/1936387713227452574 | OpenLedger最近在中国行
+- `1936387717501472831` | 2025-06-21 19:36:22 GMT+8 | reply | https://x.com/silverfang88/status/1936387717501472831 | 🔗 https://t.co/Jw0FutTSho
+- `1936387740914073804` | 2025-06-21 19:36:28 GMT+8 | reply | https://x.com/silverfang88/status/1936387740914073804 | @ec_unoxx ？
+- `1936424866884067692` | 2025-06-21 22:03:59 GMT+8 | reply | https://x.com/silverfang88/status/1936424866884067692 | @EnHeng456 @0xVeryBigOrange 沙发
+- `1936435811094036950` | 2025-06-21 22:47:29 GMT+8 | reply | https://x.com/silverfang88/status/1936435811094036950 | @0xsexybanana 😂
+- `1936437874519601325` | 2025-06-21 22:55:41 GMT+8 | original | https://x.com/silverfang88/status/1936437874519601325 | 这四年多了
+- `1936439135671382493` | 2025-06-21 23:00:41 GMT+8 | reply | https://x.com/silverfang88/status/1936439135671382493 | @CryptoSociety42 太尬了 https://t.co/GjpdehAQKZ
+- `1936439813898743832` | 2025-06-21 23:03:23 GMT+8 | reply | https://x.com/silverfang88/status/1936439813898743832 | @thecryptoskanda 月光也是男嘉宾
+- `1936441529306059191` | 2025-06-21 23:10:12 GMT+8 | reply | https://x.com/silverfang88/status/1936441529306059191 | @yuxin_pig 说明大家普遍智商不高
+- `1936448967807823892` | 2025-06-21 23:39:46 GMT+8 | reply | https://x.com/silverfang88/status/1936448967807823892 | @lilk1kopops 我怕了 哥 
+- `1936583471838949516` | 2025-06-22 08:34:14 GMT+8 | original | https://x.com/silverfang88/status/1936583471838949516 | 伊朗科学家已经搞出84%铀
+- `1936618018412413332` | 2025-06-22 10:51:30 GMT+8 | original | https://x.com/silverfang88/status/1936618018412413332 | &lt;说点大家不想说的行业真相&gt;
+- `1936682836662083836` | 2025-06-22 15:09:04 GMT+8 | original | https://x.com/silverfang88/status/1936682836662083836 | 流动性好的时代真的过去了 https://t.co/JfhALn0q83
+- `1936808012670554292` | 2025-06-22 23:26:29 GMT+8 | original | https://x.com/silverfang88/status/1936808012670554292 | <说点大家不想说的行业真相>
+- `1936812162611290122` | 2025-06-22 23:42:58 GMT+8 | original | https://x.com/silverfang88/status/1936812162611290122 | 突然感觉很悲凉
+- `1936976958426075504` | 2025-06-23 10:37:48 GMT+8 | repost | https://x.com/silverfang88/status/1936976958426075504 | RT @silverfang88: &lt;说点大家不想说的行业真相&gt;
+- `1936977755192823941` | 2025-06-23 10:40:58 GMT+8 | original | https://x.com/silverfang88/status/1936977755192823941 | 停更两天 再见玛卡巴卡 https://t.co/gSiZacG3kr
+- `1937295667271205266` | 2025-06-24 07:44:14 GMT+8 | reply | https://x.com/silverfang88/status/1937295667271205266 | @Yoyoyiyi1234 大奇迹日啦
+- `1937349743371518233` | 2025-06-24 11:19:07 GMT+8 | reply | https://x.com/silverfang88/status/1937349743371518233 | 又一次和321群友以及其他人聊天，他们一针见血地指出现在的我相比于他依然很焦虑，我焦虑的根源就是，我还没和父母进行过一次沟通。
+- `1937452726314819869` | 2025-06-24 18:08:20 GMT+8 | original | https://x.com/silverfang88/status/1937452726314819869 | 回来了
+- `1937466640884728110` | 2025-06-24 19:03:38 GMT+8 | quote | https://x.com/silverfang88/status/1937466640884728110 | 嘴撸王子时的嗅觉
+- `1937789221361844671` | 2025-06-25 16:25:27 GMT+8 | original | https://x.com/silverfang88/status/1937789221361844671 | &lt;说点大家不想说的行业真相&gt;
+- `1937789354841104836` | 2025-06-25 16:25:59 GMT+8 | original | https://x.com/silverfang88/status/1937789354841104836 | TUT没辜负任何人了
+- `1937793773733388572` | 2025-06-25 16:43:32 GMT+8 | original | https://x.com/silverfang88/status/1937793773733388572 | 最近Cudis @CudisWellness 这个项目在我的时间线上挺火的
+- `1937819968332066978` | 2025-06-25 18:27:38 GMT+8 | original | https://x.com/silverfang88/status/1937819968332066978 | <说点大家不想说的行业真相>
+- `1937824094659227914` | 2025-06-25 18:44:01 GMT+8 | original | https://x.com/silverfang88/status/1937824094659227914 | @kungfu_crypto 打钱！
+- `1937827764993671309` | 2025-06-25 18:58:36 GMT+8 | original | https://x.com/silverfang88/status/1937827764993671309 | @Max202826 爱尔兰房子比国内便宜
+- `1938117329058967645` | 2025-06-26 14:09:14 GMT+8 | original | https://x.com/silverfang88/status/1938117329058967645 | 今晚北京时间九点 推特space
+- `1938118790622941653` | 2025-06-26 14:15:02 GMT+8 | original | https://x.com/silverfang88/status/1938118790622941653 | Sahara大卡车要上了
+- `1938118828216422838` | 2025-06-26 14:15:11 GMT+8 | original | https://x.com/silverfang88/status/1938118828216422838 | @Mercy_okx @calilyliu 牛逼
+- `1938119456313524409` | 2025-06-26 14:17:41 GMT+8 | original | https://x.com/silverfang88/status/1938119456313524409 | &lt;说点大家不想说的行业真相&gt;
+- `1938119550366847118` | 2025-06-26 14:18:03 GMT+8 | original | https://x.com/silverfang88/status/1938119550366847118 | &lt;说点大家不想说的行业真相&gt;
+- `1938120680265900139` | 2025-06-26 14:22:33 GMT+8 | reply | https://x.com/silverfang88/status/1938120680265900139 | @nine_DeFi ？ 这是相亲不是商k
+- `1938120790609899896` | 2025-06-26 14:22:59 GMT+8 | reply | https://x.com/silverfang88/status/1938120790609899896 | @StellaOnChAIn 不知道，女同
+- `1938134573063209437` | 2025-06-26 15:17:45 GMT+8 | original | https://x.com/silverfang88/status/1938134573063209437 | 这几天休息的时候我也仔细想了想
+- `1938137554458427617` | 2025-06-26 15:29:36 GMT+8 | reply | https://x.com/silverfang88/status/1938137554458427617 | 观众群
+- `1938147329531433284` | 2025-06-26 16:08:27 GMT+8 | reply | https://x.com/silverfang88/status/1938147329531433284 | @Ru7Longcrypto 不知道，看板娘
+- `1938155332389253192` | 2025-06-26 16:40:15 GMT+8 | reply | https://x.com/silverfang88/status/1938155332389253192 | @yydzeth 也可能是gay
+- `1938177060213596206` | 2025-06-26 18:06:35 GMT+8 | original | https://x.com/silverfang88/status/1938177060213596206 | Allora应该是发币将近了？
+- `1938189970017026443` | 2025-06-26 18:57:53 GMT+8 | quote | https://x.com/silverfang88/status/1938189970017026443 | OpenLedger
+- `1938199310463570142` | 2025-06-26 19:35:00 GMT+8 | reply | https://x.com/silverfang88/status/1938199310463570142 | @keyahayek 还有一个 😂
+- `1938214256509644947` | 2025-06-26 20:34:23 GMT+8 | original | https://x.com/silverfang88/status/1938214256509644947 | https://t.co/qRIPp32xL6
+- `1938215665716105402` | 2025-06-26 20:39:59 GMT+8 | reply | https://x.com/silverfang88/status/1938215665716105402 | 直播间
+- `1938215669360717949` | 2025-06-26 20:40:00 GMT+8 | reply | https://x.com/silverfang88/status/1938215669360717949 | https://t.co/cxt9xG38Zw
+- `1938217495078564053` | 2025-06-26 20:47:15 GMT+8 | reply | https://x.com/silverfang88/status/1938217495078564053 | 子时 邀请您参加腾讯会议
+- `1938218581541507083` | 2025-06-26 20:51:34 GMT+8 | reply | https://x.com/silverfang88/status/1938218581541507083 | https://t.co/TAlOddfQyj
+- `1938226974260138001` | 2025-06-26 21:24:55 GMT+8 | quote | https://x.com/silverfang88/status/1938226974260138001 | 过于火爆了 几千个人排队进腾讯会议
+- `1938227172159709274` | 2025-06-26 21:25:43 GMT+8 | quote | https://x.com/silverfang88/status/1938227172159709274 | 过于火爆了 几千个人排队进腾讯会议
+- `1938256814233002069` | 2025-06-26 23:23:30 GMT+8 | original | https://x.com/silverfang88/status/1938256814233002069 | 第一届web3非诚勿扰完美结束
+- `1938257137601237042` | 2025-06-26 23:24:47 GMT+8 | reply | https://x.com/silverfang88/status/1938257137601237042 | 感谢主持人和刘丰硕演唱
+- `1938259000472019251` | 2025-06-26 23:32:11 GMT+8 | reply | https://x.com/silverfang88/status/1938259000472019251 | @Dincocoin @Tabichain @HKL_HR @EnHeng456 @abyssofgambling @ULilian_ 恭喜
+- `1938259026153730431` | 2025-06-26 23:32:17 GMT+8 | reply | https://x.com/silverfang88/status/1938259026153730431 | @miniyeyeoxo @Tabichain @HKL_HR @EnHeng456 @abyssofgambling @yeepink21
+- `1938263196642521507` | 2025-06-26 23:48:51 GMT+8 | reply | https://x.com/silverfang88/status/1938263196642521507 | @Momoxu7 @Tabichain @HKL_HR @EnHeng456 @abyssofgambling 🫡
+- `1938280143212200374` | 2025-06-27 00:56:12 GMT+8 | reply | https://x.com/silverfang88/status/1938280143212200374 | @kylopeung 鸡吧很大？
+- `1938284258138755202` | 2025-06-27 01:12:33 GMT+8 | reply | https://x.com/silverfang88/status/1938284258138755202 | @abyssofgambling @Tabichain @HKL_HR @EnHeng456 牛逼
+- `1938284278460080319` | 2025-06-27 01:12:38 GMT+8 | reply | https://x.com/silverfang88/status/1938284278460080319 | @EnHeng456 @Tabichain @HKL_HR @abyssofgambling 下次一定
+- `1938284365076664748` | 2025-06-27 01:12:58 GMT+8 | reply | https://x.com/silverfang88/status/1938284365076664748 | @tabichaincn @Tabichain @HKL_HR @EnHeng456 @abyssofgambling 下次一定
+- `1938286833391026317` | 2025-06-27 01:22:47 GMT+8 | repost | https://x.com/silverfang88/status/1938286833391026317 | RT @abyssofgambling: 第一期完结撒花。
+- `1938300552238309847` | 2025-06-27 02:17:18 GMT+8 | reply | https://x.com/silverfang88/status/1938300552238309847 | @yeepink21 @Tabichain @HKL_HR @EnHeng456 @abyssofgambling 行 那你也打5000u
+- `1938549488123023684` | 2025-06-27 18:46:29 GMT+8 | original | https://x.com/silverfang88/status/1938549488123023684 | &lt;说点大家不想说的行业真相&gt;
+- `1938619984923549778` | 2025-06-27 23:26:36 GMT+8 | original | https://x.com/silverfang88/status/1938619984923549778 | 两小时速通小米yu7高配
+- `1938620034672214227` | 2025-06-27 23:26:48 GMT+8 | original | https://x.com/silverfang88/status/1938620034672214227 | 两小时速通小米yu7高配
+- `1938620900078965085` | 2025-06-27 23:30:15 GMT+8 | original | https://x.com/silverfang88/status/1938620900078965085 | 不相信有南墙存在的人们
+- `1938622341912863178` | 2025-06-27 23:35:58 GMT+8 | reply | https://x.com/silverfang88/status/1938622341912863178 | @ahhhhh9527 @Sidekick_Labs 好主意 等我闲下来
+- `1938622376582807623` | 2025-06-27 23:36:07 GMT+8 | reply | https://x.com/silverfang88/status/1938622376582807623 | @Luckyjudy666 输怕了
+- `1938623347010441512` | 2025-06-27 23:39:58 GMT+8 | quote | https://x.com/silverfang88/status/1938623347010441512 | 那时候我还很瘦 https://t.co/WrtsRaJGnX https://t.co/hIXRFr8BCO
+- `1938624219148873890` | 2025-06-27 23:43:26 GMT+8 | reply | https://x.com/silverfang88/status/1938624219148873890 | @Reduo0531 行
+- `1938654107004182868` | 2025-06-28 01:42:12 GMT+8 | reply | https://x.com/silverfang88/status/1938654107004182868 | @CryptoSociety42 ?????
+- `1938872874653147167` | 2025-06-28 16:11:30 GMT+8 | original | https://x.com/silverfang88/status/1938872874653147167 | <说点大家不想说的行业真相>
 - `1938873992062058885` | 2025-06-28 16:15:56 GMT+8 | reply | https://x.com/silverfang88/status/1938873992062058885 | @Real_RZ_ …
 - `1938874068045799802` | 2025-06-28 16:16:15 GMT+8 | original | https://x.com/silverfang88/status/1938874068045799802 | @zkgoudan 帆子现在都没进去
 - `1938874602186322137` | 2025-06-28 16:18:22 GMT+8 | original | https://x.com/silverfang88/status/1938874602186322137 | @zkgoudan 我也觉得
@@ -6444,6 +9886,186 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `1939661683233812618` | 2025-06-30 20:25:57 GMT+8 | original | https://x.com/silverfang88/status/1939661683233812618 | 欧元对美元汇率已经涨了接近10%了
 - `1939706144689168447` | 2025-06-30 23:22:37 GMT+8 | original | https://x.com/silverfang88/status/1939706144689168447 | @abyssofgambling 你好
 - `1939777670222664102` | 2025-07-01 04:06:50 GMT+8 | original | https://x.com/silverfang88/status/1939777670222664102 | @sukie234 又活了一天，我真牛逼
+- `1939934671044772215` | 2025-07-01 14:30:42 GMT+8 | original | https://x.com/silverfang88/status/1939934671044772215 | &lt;说点大家不想说的行业真相&gt;
+- `1939936416055632331` | 2025-07-01 14:37:38 GMT+8 | reply | https://x.com/silverfang88/status/1939936416055632331 | @Ethcoin3 嘻嘻 又抓到一个 https://t.co/BwuJeJS9hx
+- `1939936515598983378` | 2025-07-01 14:38:02 GMT+8 | reply | https://x.com/silverfang88/status/1939936515598983378 | @wangy112375 这玩意儿还能几千U…
+- `1939936564349435980` | 2025-07-01 14:38:13 GMT+8 | reply | https://x.com/silverfang88/status/1939936564349435980 | @noneptr 推特算法漏洞问题
+- `1939936631638638931` | 2025-07-01 14:38:29 GMT+8 | reply | https://x.com/silverfang88/status/1939936631638638931 | @XijieLinsy 行
+- `1939937882224861244` | 2025-07-01 14:43:28 GMT+8 | reply | https://x.com/silverfang88/status/1939937882224861244 | @bo_xbt sahara大战openai
+- `1939938123800011177` | 2025-07-01 14:44:25 GMT+8 | reply | https://x.com/silverfang88/status/1939938123800011177 | @sukie234 https://t.co/28YcTuAWiF
+- `1939938225163759759` | 2025-07-01 14:44:49 GMT+8 | reply | https://x.com/silverfang88/status/1939938225163759759 | @Ethcoin3 不是 是浏览量数据会滞后
+- `1939940528071536720` | 2025-07-01 14:53:58 GMT+8 | original | https://x.com/silverfang88/status/1939940528071536720 | 马上要变成小米su7 ultra啦
+- `1939951868995641471` | 2025-07-01 15:39:02 GMT+8 | reply | https://x.com/silverfang88/status/1939951868995641471 | @diamondhandjs 你不刷 我不刷 谁给咱们1%
+- `1939958544238874914` | 2025-07-01 16:05:34 GMT+8 | reply | https://x.com/silverfang88/status/1939958544238874914 | @chessxyz 哈哈哈哈哈
+- `1939961417513205870` | 2025-07-01 16:16:59 GMT+8 | reply | https://x.com/silverfang88/status/1939961417513205870 | @lilk1kopops 你又在说谁？
+- `1939961714985840953` | 2025-07-01 16:18:10 GMT+8 | reply | https://x.com/silverfang88/status/1939961714985840953 | @0x0xFeng 马上打包做agency
+- `1939991598147703251` | 2025-07-01 18:16:54 GMT+8 | original | https://x.com/silverfang88/status/1939991598147703251 | EGL1终于考过了雅思….
+- `1940000896441541057` | 2025-07-01 18:53:51 GMT+8 | original | https://x.com/silverfang88/status/1940000896441541057 | 比起什么勾八CFA
+- `1940025358020977143` | 2025-07-01 20:31:03 GMT+8 | original | https://x.com/silverfang88/status/1940025358020977143 | 2000u一个月 投研岗
+- `1940025794127896832` | 2025-07-01 20:32:47 GMT+8 | original | https://x.com/silverfang88/status/1940025794127896832 | 2000u一个月 投研岗
+- `1940025908275855463` | 2025-07-01 20:33:15 GMT+8 | original | https://x.com/silverfang88/status/1940025908275855463 | 2000u一个月 投研岗
+- `1940026208500007207` | 2025-07-01 20:34:26 GMT+8 | reply | https://x.com/silverfang88/status/1940026208500007207 | @StewartEdward07 炒币才能翻身！
+- `1940026597928550813` | 2025-07-01 20:35:59 GMT+8 | reply | https://x.com/silverfang88/status/1940026597928550813 | @cryptoxns 哈哈哈哈
+- `1940027443353424044` | 2025-07-01 20:39:21 GMT+8 | reply | https://x.com/silverfang88/status/1940027443353424044 | @lilk1kopops KTV 1分钟200磅
+- `1940027495379583267` | 2025-07-01 20:39:33 GMT+8 | reply | https://x.com/silverfang88/status/1940027495379583267 | @Charles1164btc 国内
+- `1940066517548507438` | 2025-07-01 23:14:37 GMT+8 | original | https://x.com/silverfang88/status/1940066517548507438 | 建议wick李赶紧发个盘子
+- `1940067325325066305` | 2025-07-01 23:17:49 GMT+8 | reply | https://x.com/silverfang88/status/1940067325325066305 | 哦 已经发过很多个盘子了
+- `1940070583321932243` | 2025-07-01 23:30:46 GMT+8 | original | https://x.com/silverfang88/status/1940070583321932243 | 真几把搞笑 今日最佳 https://t.co/TVEL27T1vg
+- `1940071530290930054` | 2025-07-01 23:34:32 GMT+8 | reply | https://x.com/silverfang88/status/1940071530290930054 | 还是更怀念那个桀骜不驯的你 https://t.co/aMjH5BXFeQ
+- `1940076214045098249` | 2025-07-01 23:53:08 GMT+8 | reply | https://x.com/silverfang88/status/1940076214045098249 | @theLuluYN 😂👍
+- `1940083665456844823` | 2025-07-02 00:22:45 GMT+8 | original | https://x.com/silverfang88/status/1940083665456844823 | 来吧 体验开始 
+- `1940268146621128777` | 2025-07-02 12:35:49 GMT+8 | original | https://x.com/silverfang88/status/1940268146621128777 | 这些年子时在推特上的对手里
+- `1940268720317690234` | 2025-07-02 12:38:06 GMT+8 | quote | https://x.com/silverfang88/status/1940268720317690234 | 家人们
+- `1940271669316391233` | 2025-07-02 12:49:49 GMT+8 | reply | https://x.com/silverfang88/status/1940271669316391233 | @lilk1kopops 还好 一般
+- `1940271718976966751` | 2025-07-02 12:50:00 GMT+8 | reply | https://x.com/silverfang88/status/1940271718976966751 | @Real_RZ_ 没 只是便宜点
+- `1940276100363685991` | 2025-07-02 13:07:25 GMT+8 | original | https://x.com/silverfang88/status/1940276100363685991 | &lt;说点大家不想说的行业真相&gt;
+- `1940283772693618966` | 2025-07-02 13:37:54 GMT+8 | reply | https://x.com/silverfang88/status/1940283772693618966 | @BitBillMining 好
+- `1940284264924561528` | 2025-07-02 13:39:52 GMT+8 | original | https://x.com/silverfang88/status/1940284264924561528 | @zhao_p42510 你没看懂
+- `1940288882442191193` | 2025-07-02 13:58:13 GMT+8 | original | https://x.com/silverfang88/status/1940288882442191193 | @BSCtwe12 也就你会舔了，这种傻逼言论…
+- `1940311208885891228` | 2025-07-02 15:26:56 GMT+8 | original | https://x.com/silverfang88/status/1940311208885891228 | 最近百思不得其解的事情
+- `1940322044358623399` | 2025-07-02 16:09:59 GMT+8 | quote | https://x.com/silverfang88/status/1940322044358623399 | @0xKirara 赢！ https://t.co/O7hUrcRcyo
+- `1940322120304927129` | 2025-07-02 16:10:17 GMT+8 | reply | https://x.com/silverfang88/status/1940322120304927129 | @lin_yiliu 😂 你也没看明白
+- `1940341617921052883` | 2025-07-02 17:27:46 GMT+8 | original | https://x.com/silverfang88/status/1940341617921052883 | 群友们的症状已经减轻，已经没人幻想着牛市了，群里少了很多吵闹声，逐渐安静了，仿佛大家看清了现实，已经开始继续谋生路。有的送外卖的捡起了早上扔下还热乎的盒饭、送快递的把三轮车从水沟里拉了起来、跑滴滴的喊刚骂完的杀价乘客回来、KTV 公主为刚扇的耳光道歉、做服务生刚出门又掉头回来吧围裙系上，告诉老板刚才只是出去抽个烟，老板觉得他很踏实不磨洋工，抽个烟都这么快、拧
+- `1940350067292164167` | 2025-07-02 18:01:20 GMT+8 | original | https://x.com/silverfang88/status/1940350067292164167 | 收费群友今犹在
+- `1940350343533277307` | 2025-07-02 18:02:26 GMT+8 | quote | https://x.com/silverfang88/status/1940350343533277307 | 嘴撸王 子时归位
+- `1940368300690809158` | 2025-07-02 19:13:47 GMT+8 | original | https://x.com/silverfang88/status/1940368300690809158 | @yeepink21 @Sidekick_Labs 不知道
+- `1940368457591332954` | 2025-07-02 19:14:25 GMT+8 | original | https://x.com/silverfang88/status/1940368457591332954 | @CamddMurray @miranetwork 第二象限 没想到吧
+- `1940519414144946440` | 2025-07-03 05:14:16 GMT+8 | original | https://x.com/silverfang88/status/1940519414144946440 | @pandaBA007 什么东西
+- `1940606121707807077` | 2025-07-03 10:58:48 GMT+8 | original | https://x.com/silverfang88/status/1940606121707807077 | <说点大家不想说的行业真相>
+- `1940610017096618180` | 2025-07-03 11:14:17 GMT+8 | original | https://x.com/silverfang88/status/1940610017096618180 | @cyrilxuq 打钱！
+- `1940663799788572774` | 2025-07-03 14:48:00 GMT+8 | repost | https://x.com/silverfang88/status/1940663799788572774 | RT @Fair3_community: #1 FAIRF**KING ROAST PARTY Topic chosen by YOU: 
+- `1940704394791866390` | 2025-07-03 17:29:18 GMT+8 | original | https://x.com/silverfang88/status/1940704394791866390 | 大饼11w了 这么安静 是都自由了吗
+- `1940780433047986538` | 2025-07-03 22:31:27 GMT+8 | original | https://x.com/silverfang88/status/1940780433047986538 | 玩吧闹吧 
+- `1940988347272306703` | 2025-07-04 12:17:38 GMT+8 | original | https://x.com/silverfang88/status/1940988347272306703 | <说点大家不想说的行业真相>
+- `1940993068288954761` | 2025-07-04 12:36:24 GMT+8 | original | https://x.com/silverfang88/status/1940993068288954761 | @abyssofgambling 那叫build，叫价值投资
+- `1941091130701221970` | 2025-07-04 19:06:03 GMT+8 | quote | https://x.com/silverfang88/status/1941091130701221970 | OKX的品宣视频确实不错
+- `1941100348938330462` | 2025-07-04 19:42:41 GMT+8 | original | https://x.com/silverfang88/status/1941100348938330462 | BTC新高下的熊市
+- `1941109782120972784` | 2025-07-04 20:20:10 GMT+8 | quote | https://x.com/silverfang88/status/1941109782120972784 | 经典咏流传 https://t.co/MP5W5qrFVN
+- `1941111219064328403` | 2025-07-04 20:25:53 GMT+8 | reply | https://x.com/silverfang88/status/1941111219064328403 | @cyodyssey https://t.co/2Reo5iRLTW
+- `1941116891487211670` | 2025-07-04 20:48:25 GMT+8 | quote | https://x.com/silverfang88/status/1941116891487211670 | 这回不是嘴撸了
+- `1941125448832090130` | 2025-07-04 21:22:26 GMT+8 | original | https://x.com/silverfang88/status/1941125448832090130 | 默默等待日本大地震预言
+- `1941126796377989508` | 2025-07-04 21:27:47 GMT+8 | reply | https://x.com/silverfang88/status/1941126796377989508 | @isadora288881 阿姨压一压
+- `1941392768334430605` | 2025-07-05 15:04:39 GMT+8 | original | https://x.com/silverfang88/status/1941392768334430605 | 我的资金来源就是网贷
+- `1941395066163167238` | 2025-07-05 15:13:47 GMT+8 | quote | https://x.com/silverfang88/status/1941395066163167238 | &lt;说点大家不想说的行业真相&gt;
+- `1941395772538290300` | 2025-07-05 15:16:36 GMT+8 | reply | https://x.com/silverfang88/status/1941395772538290300 | 好茫然，okx要写资金来源，但是我的个人履历你们知道的。
+- `1941395867992482262` | 2025-07-05 15:16:58 GMT+8 | reply | https://x.com/silverfang88/status/1941395867992482262 | @A_yingjiang 开合约亏的
+- `1941400591806365849` | 2025-07-05 15:35:45 GMT+8 | reply | https://x.com/silverfang88/status/1941400591806365849 | @isadora288881 必须跟
+- `1941400637545295999` | 2025-07-05 15:35:56 GMT+8 | reply | https://x.com/silverfang88/status/1941400637545295999 | @cyrilxuq 好的 这就加入
+- `1941429949942071608` | 2025-07-05 17:32:24 GMT+8 | original | https://x.com/silverfang88/status/1941429949942071608 | 哆啦A梦
+- `1941430007211168195` | 2025-07-05 17:32:38 GMT+8 | original | https://x.com/silverfang88/status/1941430007211168195 | 多拉A梦
+- `1941430967530553513` | 2025-07-05 17:36:27 GMT+8 | reply | https://x.com/silverfang88/status/1941430967530553513 | @abyssofgambling 行
+- `1941431672542756939` | 2025-07-05 17:39:15 GMT+8 | reply | https://x.com/silverfang88/status/1941431672542756939 | @lilk1kopops 就喜欢你的桀骜不驯！
+- `1941431733586624921` | 2025-07-05 17:39:30 GMT+8 | reply | https://x.com/silverfang88/status/1941431733586624921 | @linwanwan823 有没有D活看看
+- `1941447424679215281` | 2025-07-05 18:41:51 GMT+8 | quote | https://x.com/silverfang88/status/1941447424679215281 | 上个月上币安alpha的
+- `1941453169755816396` | 2025-07-05 19:04:40 GMT+8 | reply | https://x.com/silverfang88/status/1941453169755816396 | @blockTVBee 牛逼
+- `1941457599469355449` | 2025-07-05 19:22:16 GMT+8 | reply | https://x.com/silverfang88/status/1941457599469355449 | @mablejiang @cyrilxuq 哈哈哈哈哈哈
+- `1941502053110644808` | 2025-07-05 22:18:55 GMT+8 | reply | https://x.com/silverfang88/status/1941502053110644808 | @Tintinx2021 继续前进！
+- `1941688498714468630` | 2025-07-06 10:39:47 GMT+8 | original | https://x.com/silverfang88/status/1941688498714468630 | <说点大家不想说的行业真相>
+- `1941703613396721764` | 2025-07-06 11:39:51 GMT+8 | repost | https://x.com/silverfang88/status/1941703613396721764 | RT @silverfang88: &lt;说点大家不想说的行业真相&gt;
+- `1941703687082266863` | 2025-07-06 11:40:08 GMT+8 | repost | https://x.com/silverfang88/status/1941703687082266863 | RT @silverfang88: &lt;说点大家不想说的行业真相&gt;
+- `1941755699836391740` | 2025-07-06 15:06:49 GMT+8 | reply | https://x.com/silverfang88/status/1941755699836391740 | @hellosuoha 牛逼
+- `1941779184273305882` | 2025-07-06 16:40:08 GMT+8 | original | https://x.com/silverfang88/status/1941779184273305882 | 这几个水泊梁山
+- `1941833257949012147` | 2025-07-06 20:15:00 GMT+8 | original | https://x.com/silverfang88/status/1941833257949012147 | 我想破了脑袋也没想明白
+- `1941835728041767299` | 2025-07-06 20:24:49 GMT+8 | reply | https://x.com/silverfang88/status/1941835728041767299 | @FLS_OTC 想不通
+- `1941835758974783939` | 2025-07-06 20:24:57 GMT+8 | reply | https://x.com/silverfang88/status/1941835758974783939 | @yeepink21 这个也解释不了 很奇怪
+- `1941835782253129779` | 2025-07-06 20:25:02 GMT+8 | reply | https://x.com/silverfang88/status/1941835782253129779 | @KelseyWeb3VC …
+- `1941845897542775192` | 2025-07-06 21:05:14 GMT+8 | reply | https://x.com/silverfang88/status/1941845897542775192 | @diamondhandjs 中国人不知道止损
+- `1941868026099335643` | 2025-07-06 22:33:10 GMT+8 | reply | https://x.com/silverfang88/status/1941868026099335643 | @Tintinx2021 草 太恶心了
+- `1941959626791985191` | 2025-07-07 04:37:09 GMT+8 | original | https://x.com/silverfang88/status/1941959626791985191 | 还是当段子手更适合我
+- `1942081519146942822` | 2025-07-07 12:41:30 GMT+8 | original | https://x.com/silverfang88/status/1942081519146942822 | 你们怎么一边大喊从OKX提币
+- `1942106723961168285` | 2025-07-07 14:21:40 GMT+8 | original | https://x.com/silverfang88/status/1942106723961168285 | <说点大家不想说的行业真相>
+- `1942220457606009182` | 2025-07-07 21:53:36 GMT+8 | quote | https://x.com/silverfang88/status/1942220457606009182 | 来大门喝茅台了
+- `1942446546504814868` | 2025-07-08 12:52:00 GMT+8 | original | https://x.com/silverfang88/status/1942446546504814868 | <说点大家不想说的行业真相>
+- `1942450128650129471` | 2025-07-08 13:06:14 GMT+8 | reply | https://x.com/silverfang88/status/1942450128650129471 | @cyrilxuq 做空得看交易所脸色
+- `1942455834233237849` | 2025-07-08 13:28:54 GMT+8 | original | https://x.com/silverfang88/status/1942455834233237849 | 在币圈我一直奉行对等社交
+- `1942462117770072290` | 2025-07-08 13:53:52 GMT+8 | reply | https://x.com/silverfang88/status/1942462117770072290 | @V1JeromeLoo 😂
+- `1942462143535694116` | 2025-07-08 13:53:58 GMT+8 | reply | https://x.com/silverfang88/status/1942462143535694116 | @yydzeth ？？？
+- `1942468578206441732` | 2025-07-08 14:19:33 GMT+8 | reply | https://x.com/silverfang88/status/1942468578206441732 | @kaikaibtc ？
+- `1942479909798211604` | 2025-07-08 15:04:34 GMT+8 | reply | https://x.com/silverfang88/status/1942479909798211604 | @isadora288881 你怎么也变成ai了
+- `1942548320137650355` | 2025-07-08 19:36:24 GMT+8 | reply | https://x.com/silverfang88/status/1942548320137650355 | @dov_wo 下次再聚一次
+- `1942552538286641605` | 2025-07-08 19:53:10 GMT+8 | repost | https://x.com/silverfang88/status/1942552538286641605 | RT @silverfang88: 本来这条推特不需要任何语言
+- `1942571708805963871` | 2025-07-08 21:09:21 GMT+8 | reply | https://x.com/silverfang88/status/1942571708805963871 | @cyodyssey 哎
+- `1942588666099929288` | 2025-07-08 22:16:44 GMT+8 | repost | https://x.com/silverfang88/status/1942588666099929288 | RT @Fair3_community: 🔥 Missed the FAIRF**KING ROAST #1? Here’s the recap — where the Fairoasters brought 🔥 and Fairitics took the heat.
+- `1942588685066658163` | 2025-07-08 22:16:48 GMT+8 | reply | https://x.com/silverfang88/status/1942588685066658163 | @WanQiu_wed3 @cishanjia @BTCBTC_Q @Mirro7777 @oviswang 6
+- `1942593811118784655` | 2025-07-08 22:37:10 GMT+8 | original | https://x.com/silverfang88/status/1942593811118784655 | @0xLoe 你又赢啦
+- `1942796104975933648` | 2025-07-09 12:01:01 GMT+8 | original | https://x.com/silverfang88/status/1942796104975933648 | <说点大家不想说的行业真相>
+- `1942798517942247563` | 2025-07-09 12:10:36 GMT+8 | reply | https://x.com/silverfang88/status/1942798517942247563 | @zhiweieth 火影的故事
+- `1942824458403631305` | 2025-07-09 13:53:41 GMT+8 | original | https://x.com/silverfang88/status/1942824458403631305 | 拿pumpfun和bonk
+- `1942835613310542300` | 2025-07-09 14:38:01 GMT+8 | original | https://x.com/silverfang88/status/1942835613310542300 | 《你们不要去美股，连meme都做不好，还炒美股》
+- `1942851200422121724` | 2025-07-09 15:39:57 GMT+8 | reply | https://x.com/silverfang88/status/1942851200422121724 | @CatCryptoMaster ？
+- `1942894412994146566` | 2025-07-09 18:31:39 GMT+8 | original | https://x.com/silverfang88/status/1942894412994146566 | 币安现货和币安alpha上现在已经有了 
+- `1942894460456825092` | 2025-07-09 18:31:51 GMT+8 | original | https://x.com/silverfang88/status/1942894460456825092 | 币安现货和币安alpha上现在已经有了 
+- `1942894933511426423` | 2025-07-09 18:33:44 GMT+8 | reply | https://x.com/silverfang88/status/1942894933511426423 | @ling65697_z ?
+- `1942895677522239985` | 2025-07-09 18:36:41 GMT+8 | original | https://x.com/silverfang88/status/1942895677522239985 | 提了蛮多次的小章鱼
+- `1942898634909167988` | 2025-07-09 18:48:26 GMT+8 | quote | https://x.com/silverfang88/status/1942898634909167988 | 真的要上市喽 
+- `1942930393390297336` | 2025-07-09 20:54:38 GMT+8 | reply | https://x.com/silverfang88/status/1942930393390297336 | @gokunocool 来了
+- `1942952972868100147` | 2025-07-09 22:24:21 GMT+8 | reply | https://x.com/silverfang88/status/1942952972868100147 | @gokunocool 太困了 睁不开眼了 恭喜发财
+- `1943033092467564951` | 2025-07-10 03:42:43 GMT+8 | original | https://x.com/silverfang88/status/1943033092467564951 | BTC要新高了
+- `1943166432784847313` | 2025-07-10 12:32:34 GMT+8 | original | https://x.com/silverfang88/status/1943166432784847313 | 伟大撤退
+- `1943172872538853667` | 2025-07-10 12:58:09 GMT+8 | original | https://x.com/silverfang88/status/1943172872538853667 | <说点大家不想说的行业真相>
+- `1943172924992819246` | 2025-07-10 12:58:22 GMT+8 | reply | https://x.com/silverfang88/status/1943172924992819246 | @cyrilxuq 牛逼
+- `1943172948946239798` | 2025-07-10 12:58:28 GMT+8 | reply | https://x.com/silverfang88/status/1943172948946239798 | @Yamisobeauty gm
+- `1943173189305274473` | 2025-07-10 12:59:25 GMT+8 | original | https://x.com/silverfang88/status/1943173189305274473 | <说点大家不想说的行业真相>
+- `1943173702067327418` | 2025-07-10 13:01:27 GMT+8 | reply | https://x.com/silverfang88/status/1943173702067327418 | @btc_jx 开始就是结束，结束就是开始
+- `1943220270845825126` | 2025-07-10 16:06:30 GMT+8 | original | https://x.com/silverfang88/status/1943220270845825126 | 币安这是把pumpbtc的线
+- `1943222416794358229` | 2025-07-10 16:15:02 GMT+8 | reply | https://x.com/silverfang88/status/1943222416794358229 | @thecryptoskanda 晕厥了；
+- `1943232578200166576` | 2025-07-10 16:55:24 GMT+8 | original | https://x.com/silverfang88/status/1943232578200166576 | 笑喷了
+- `1943232656734650416` | 2025-07-10 16:55:43 GMT+8 | original | https://x.com/silverfang88/status/1943232656734650416 | 笑喷了
+- `1943241265598046526` | 2025-07-10 17:29:56 GMT+8 | reply | https://x.com/silverfang88/status/1943241265598046526 | @Haoskionchain 下次一定
+- `1943396349585535394` | 2025-07-11 03:46:10 GMT+8 | reply | https://x.com/silverfang88/status/1943396349585535394 | @hellosuoha web3port？
+- `1943531288033407382` | 2025-07-11 12:42:22 GMT+8 | original | https://x.com/silverfang88/status/1943531288033407382 | &lt;说点大家不想说的行业真相&gt;
+- `1943600634663714825` | 2025-07-11 17:17:56 GMT+8 | original | https://x.com/silverfang88/status/1943600634663714825 | BTC新高了
+- `1943600904151896514` | 2025-07-11 17:19:00 GMT+8 | original | https://x.com/silverfang88/status/1943600904151896514 | BTC新高了
+- `1943605888603889705` | 2025-07-11 17:38:48 GMT+8 | quote | https://x.com/silverfang88/status/1943605888603889705 | Kaito上榜了
+- `1943617648052625664` | 2025-07-11 18:25:32 GMT+8 | quote | https://x.com/silverfang88/status/1943617648052625664 | 恭送三代目
+- `1943686985555886176` | 2025-07-11 23:01:03 GMT+8 | original | https://x.com/silverfang88/status/1943686985555886176 | 脚踏实地 仰望星空
+- `1943917889985425883` | 2025-07-12 14:18:35 GMT+8 | original | https://x.com/silverfang88/status/1943917889985425883 | &lt;说点大家不想说的行业真相&gt;
+- `1943984360811827240` | 2025-07-12 18:42:43 GMT+8 | original | https://x.com/silverfang88/status/1943984360811827240 | pump可以不给币，然后拉一倍逼空
+- `1944019222134501441` | 2025-07-12 21:01:15 GMT+8 | original | https://x.com/silverfang88/status/1944019222134501441 | 你们参加pump吧 
+- `1944019417458954512` | 2025-07-12 21:02:01 GMT+8 | reply | https://x.com/silverfang88/status/1944019417458954512 | @DanielM78906494 欧元区的积分
+- `1944020229027508384` | 2025-07-12 21:05:15 GMT+8 | reply | https://x.com/silverfang88/status/1944020229027508384 | @machim822 fartcoin我研究研究 不太熟悉 我主要看的都是非强庄vc币和大市值-fdv
+- `1944022151327269168` | 2025-07-12 21:12:53 GMT+8 | reply | https://x.com/silverfang88/status/1944022151327269168 | @hellosuoha 哥 垃圾山寨送钱啊
+- `1944024848000594051` | 2025-07-12 21:23:36 GMT+8 | original | https://x.com/silverfang88/status/1944024848000594051 | pump也可以链上开个小池子拉盘
+- `1944237764456984681` | 2025-07-13 11:29:39 GMT+8 | original | https://x.com/silverfang88/status/1944237764456984681 | &lt;说点大家不想说的行业真相&gt;
+- `1944252129771937895` | 2025-07-13 12:26:44 GMT+8 | reply | https://x.com/silverfang88/status/1944252129771937895 | @sky_gpt 😂
+- `1944272143170384148` | 2025-07-13 13:46:16 GMT+8 | original | https://x.com/silverfang88/status/1944272143170384148 | 我想象有一天我们的貂蝉在一起
+- `1944273210155114733` | 2025-07-13 13:50:30 GMT+8 | reply | https://x.com/silverfang88/status/1944273210155114733 | @Tintinx2021 hhhh
+- `1944280063400456206` | 2025-07-13 14:17:44 GMT+8 | original | https://x.com/silverfang88/status/1944280063400456206 | 前几条关于pump
+- `1944302844221243847` | 2025-07-13 15:48:16 GMT+8 | original | https://x.com/silverfang88/status/1944302844221243847 | 刷推看到了几个曾经跪舔bybit舔狗
+- `1944303311047602429` | 2025-07-13 15:50:07 GMT+8 | reply | https://x.com/silverfang88/status/1944303311047602429 | @lilk1kopops 我是做市商，这事儿只和你一个人说
+- `1944304440145850725` | 2025-07-13 15:54:36 GMT+8 | reply | https://x.com/silverfang88/status/1944304440145850725 | @Multichannel_ 你不就是其中一个吗
+- `1944304489609277803` | 2025-07-13 15:54:48 GMT+8 | reply | https://x.com/silverfang88/status/1944304489609277803 | @0xAgata 无所谓了 俱往矣
+- `1944307699589796319` | 2025-07-13 16:07:33 GMT+8 | original | https://x.com/silverfang88/status/1944307699589796319 | M这个项目本质上
+- `1944310392446234748` | 2025-07-13 16:18:15 GMT+8 | reply | https://x.com/silverfang88/status/1944310392446234748 | @joakja 我49买入成本
+- `1944311998822666293` | 2025-07-13 16:24:38 GMT+8 | reply | https://x.com/silverfang88/status/1944311998822666293 | @0xYuxi 我是吃屎人
+- `1944312373227172159` | 2025-07-13 16:26:08 GMT+8 | reply | https://x.com/silverfang88/status/1944312373227172159 | @kaylyn_0x 唯一乐趣就是天天刷黑丝美女看看
+- `1944318554461053250` | 2025-07-13 16:50:41 GMT+8 | reply | https://x.com/silverfang88/status/1944318554461053250 | @CatCryptoMaster 墨迹的勿扰懂的看f
+- `1944321286819430888` | 2025-07-13 17:01:33 GMT+8 | reply | https://x.com/silverfang88/status/1944321286819430888 | @joakja 高控只会有信息相关方收益，取决于身边人有多相信
+- `1944325732844638697` | 2025-07-13 17:19:13 GMT+8 | reply | https://x.com/silverfang88/status/1944325732844638697 | @lilk1kopops 再多读读
+- `1944327660576113002` | 2025-07-13 17:26:52 GMT+8 | reply | https://x.com/silverfang88/status/1944327660576113002 | @0xKirara 唔西迪西
+- `1944387669489856709` | 2025-07-13 21:25:20 GMT+8 | reply | https://x.com/silverfang88/status/1944387669489856709 | @aqueooa 无所谓
+- `1944566538310488064` | 2025-07-14 09:16:05 GMT+8 | reply | https://x.com/silverfang88/status/1944566538310488064 | @isadora288881 下次就是了
+- `1944641322285228102` | 2025-07-14 14:13:15 GMT+8 | original | https://x.com/silverfang88/status/1944641322285228102 | 嗨，好久没跟你联系了啊
+- `1944644717997605141` | 2025-07-14 14:26:45 GMT+8 | original | https://x.com/silverfang88/status/1944644717997605141 | &lt;说点大家不想说的行业真相&gt;
+- `1944644845634773112` | 2025-07-14 14:27:15 GMT+8 | original | https://x.com/silverfang88/status/1944644845634773112 | &lt;说点大家不想说的行业真相&gt;
+- `1944765194716262619` | 2025-07-14 22:25:29 GMT+8 | quote | https://x.com/silverfang88/status/1944765194716262619 | 剧本也很简单
+- `1944767359883129159` | 2025-07-14 22:34:05 GMT+8 | reply | https://x.com/silverfang88/status/1944767359883129159 | @logantwittter 我艹 精辟
+- `1944809667529728043` | 2025-07-15 01:22:12 GMT+8 | quote | https://x.com/silverfang88/status/1944809667529728043 | 交易所贪污 ✅
+- `1944811069526172012` | 2025-07-15 01:27:46 GMT+8 | reply | https://x.com/silverfang88/status/1944811069526172012 | @chendabing123 现在知道了？
+- `1944999429401911788` | 2025-07-15 13:56:14 GMT+8 | quote | https://x.com/silverfang88/status/1944999429401911788 | 我想要什么样的AI
+- `1945047327833542747` | 2025-07-15 17:06:34 GMT+8 | original | https://x.com/silverfang88/status/1945047327833542747 | &lt;说点大家不想说的行业真相&gt;
+- `1945067478360399881` | 2025-07-15 18:26:39 GMT+8 | reply | https://x.com/silverfang88/status/1945067478360399881 | @CryptoNataNata @binance @binancezh @pancakefi 恭喜
+- `1945070945107874124` | 2025-07-15 18:40:25 GMT+8 | original | https://x.com/silverfang88/status/1945070945107874124 | 假粉和bot们终于死完了？
+- `1945133740365373710` | 2025-07-15 22:49:57 GMT+8 | original | https://x.com/silverfang88/status/1945133740365373710 | 自从前几天提到Sei的新动作
+- `1945135297441775930` | 2025-07-15 22:56:08 GMT+8 | quote | https://x.com/silverfang88/status/1945135297441775930 | yo $sbet https://t.co/1NnGqT8HaF https://t.co/7GGdThwhrX
+- `1945326503329230987` | 2025-07-16 11:35:55 GMT+8 | original | https://x.com/silverfang88/status/1945326503329230987 | &lt;说点大家不想说的行业真相&gt;
+- `1945397346722046391` | 2025-07-16 16:17:25 GMT+8 | original | https://x.com/silverfang88/status/1945397346722046391 | 以太坊要涨多久，我想我们不要去做决定，过去是由易理华，现在是由唐纳德川普，还是美国其他什么总统，让他们去做决定，就是说，它要涨多久就涨多久，一直涨到，完全爆仓。
+- `1945404342137245777` | 2025-07-16 16:45:13 GMT+8 | quote | https://x.com/silverfang88/status/1945404342137245777 | listing要来了 https://t.co/JRptCfCirz
+- `1945672021742133429` | 2025-07-17 10:28:53 GMT+8 | original | https://x.com/silverfang88/status/1945672021742133429 | <说点大家不想说的行业真相>
+- `1945674836279480473` | 2025-07-17 10:40:04 GMT+8 | original | https://x.com/silverfang88/status/1945674836279480473 | 昨天和几个朋友吃了顿饭
+- `1945675650033213916` | 2025-07-17 10:43:18 GMT+8 | original | https://x.com/silverfang88/status/1945675650033213916 | 老弟，以太坊我跑了，天下没有不散的筵席，这场盛宴已经到了最后的时刻，山珍海味早就已经吃完了，只剩下残羹冷炙，满眼狼藉。聪明的人已经吃饱了悄然离席，你后知后觉的仍不愿离场，拿着筷子把碗敲的叮当响，幻想期待下一道美味丰盛的主菜，结果最终迎来的是这场盛宴的巨额账单，盛宴总有人要买单，这次又是你买单
+- `1945677844602110322` | 2025-07-17 10:52:01 GMT+8 | quote | https://x.com/silverfang88/status/1945677844602110322 | @roger9949 https://t.co/SUVHWR1jhG https://t.co/sTRdgiBDLe
+- `1945700198295941124` | 2025-07-17 12:20:51 GMT+8 | reply | https://x.com/silverfang88/status/1945700198295941124 | @woodycryptow 知道是谁了…
 - `1946129344943853593` | 2025-07-18 16:46:07 GMT+8 | original | https://x.com/silverfang88/status/1946129344943853593 | &lt;说点大家不想说的行业真相&gt;
 - `1946174663333474462` | 2025-07-18 19:46:12 GMT+8 | quote | https://x.com/silverfang88/status/1946174663333474462 | 97fUcHmD9vjdF5e6Wcn9oQtHgFwpKPYWuzh2fxhwSa26
 - `1946180884333576257` | 2025-07-18 20:10:55 GMT+8 | original | https://x.com/silverfang88/status/1946180884333576257 | 玛卡巴卡 https://t.co/UR4JloGdt4
@@ -9263,3 +12885,4 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `2124870919390928957` | 2026-11-23 22:21:20 GMT+8 | original | https://x.com/silverfang88/status/2124870919390928957 | 黄仁勋应该立刻开始清算董事会
 - `2125104075134144694` | 2026-11-24 13:47:48 GMT+8 | original | https://x.com/silverfang88/status/2125104075134144694 | 人家黄仁勋回归
 - `2125167165569655181` | 2026-11-24 17:58:30 GMT+8 | original | https://x.com/silverfang88/status/2125167165569655181 | 皇爷爷是大美第一猞猁孙
+- `2125261591897870535` | 2026-11-25 00:13:43 GMT+8 | original | https://x.com/silverfang88/status/2125261591897870535 | Anthropic走的和山寨数码币子似的…

@@ -1,0 +1,1953 @@
+{
+  "collected_at_utc": "2026-11-25T00:30:53Z",
+  "collected_at_shanghai": "2026-11-25T08:30:53+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M881S6CXT53XBQNMP93YQCTQ.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2026-10-01T00:00:00Z",
+    "end_time": "2026-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzizkx13z24nq64g6d85nq5gt9p4t",
+    "window_label": "2026-10"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109608643897520599",
+      "created_at": "2026-10-12T11:34:29.000Z",
+      "edit_history_tweet_ids": [
+        "2109608643897520599"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Nike/status/21…",
+            "end": 31,
+            "expanded_url": "https://twitter.com/Nike/status/2109382322516799677",
+            "start": 8,
+            "url": "https://t.co/bretpqicDe"
+          }
+        ]
+      },
+      "id": "2109608643897520599",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4815,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109382322516799677",
+          "type": "quoted"
+        }
+      ],
+      "text": "这张拍得真好啊 https://t.co/bretpqicDe",
+      "url": "https://x.com/taresky/status/2109608643897520599"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109491664456949830",
+      "created_at": "2026-10-12T07:24:09.000Z",
+      "edit_history_tweet_ids": [
+        "2109545642133745684"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1240158860754575360",
+            "start": 0,
+            "username": "lspeth"
+          }
+        ]
+      },
+      "id": "2109545642133745684",
+      "in_reply_to_user_id": "1240158860754575360",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 550,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109544418932056148",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lspeth 不是这家 eight 吧",
+      "url": "https://x.com/taresky/status/2109545642133745684"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109491531061096485",
+      "created_at": "2026-10-12T06:20:31.000Z",
+      "edit_history_tweet_ids": [
+        "2109529631011504312"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "52468378",
+            "start": 0,
+            "username": "luoleiorg"
+          },
+          {
+            "end": 23,
+            "id": "1718896922277314560",
+            "start": 11,
+            "username": "yihui_indie"
+          }
+        ]
+      },
+      "id": "2109529631011504312",
+      "in_reply_to_user_id": "52468378",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 324,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109513888895283566",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@luoleiorg @yihui_indie 就当他已经死了",
+      "url": "https://x.com/taresky/status/2109529631011504312"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109525314787311886",
+      "created_at": "2026-10-12T06:03:22.000Z",
+      "edit_history_tweet_ids": [
+        "2109525314787311886"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "258156475",
+            "start": 3,
+            "username": "ohyishi"
+          }
+        ]
+      },
+      "id": "2109525314787311886",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 252,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 35
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109507904667820492",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ohyishi: 这几天，多位从 CryptoBilis 买过 Ledger 硬件钱包的用户报告资产被盗。Ledger 已确认，受影响用户的设备里被植入了未经授权的硬件。具体原因和影响范围还在调查。\n\nCryptoBilis 也卖过 OneKey、Trezor、Tang…",
+      "url": "https://x.com/taresky/status/2109525314787311886"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109471802464567735",
+      "created_at": "2026-10-12T05:40:38.000Z",
+      "edit_history_tweet_ids": [
+        "2109519592049762386"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "21855954",
+            "start": 0,
+            "username": "CMGS1988"
+          }
+        ]
+      },
+      "id": "2109519592049762386",
+      "in_reply_to_user_id": "21855954",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 1495,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109497363341685241",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CMGS1988 是 u60pro",
+      "url": "https://x.com/taresky/status/2109519592049762386"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109471802464567735",
+      "created_at": "2026-10-12T03:50:23.000Z",
+      "edit_history_tweet_ids": [
+        "2109491847978713279"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "734333459640897536",
+            "start": 0,
+            "username": "Creampp123"
+          }
+        ]
+      },
+      "id": "2109491847978713279",
+      "in_reply_to_user_id": "734333459640897536",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1426,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109491167415136258",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Creampp123 应该可以到千兆",
+      "url": "https://x.com/taresky/status/2109491847978713279"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2109491651332997120"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2109491664456949830",
+      "created_at": "2026-10-12T03:49:39.000Z",
+      "edit_history_tweet_ids": [
+        "2109491664456949830"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/aUxfhKqOAP",
+            "end": 41,
+            "expanded_url": "https://x.com/taresky/status/2109491664456949830/photo/1",
+            "media_key": "3_2109491651332997120",
+            "start": 18,
+            "url": "https://t.co/aUxfhKqOAP"
+          },
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 65,
+            "expanded_url": "https://twitter.com/taresky/status/2109471802464567735",
+            "start": 42,
+            "url": "https://t.co/ens9tYYgj5"
+          }
+        ]
+      },
+      "id": "2109491664456949830",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 8539,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109471802464567735",
+          "type": "quoted"
+        }
+      ],
+      "text": "支持联通5GA 看起来千兆没问题。 https://t.co/aUxfhKqOAP https://t.co/ens9tYYgj5",
+      "url": "https://x.com/taresky/status/2109491664456949830"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109274678573613430",
+      "created_at": "2026-10-12T03:33:20.000Z",
+      "edit_history_tweet_ids": [
+        "2109487556283048062"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "73644188",
+            "start": 0,
+            "username": "terrancesiu"
+          }
+        ]
+      },
+      "id": "2109487556283048062",
+      "in_reply_to_user_id": "73644188",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 118,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109485115244261692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@terrancesiu 那肯定不是 正宗的，江西菜是鲜辣",
+      "url": "https://x.com/taresky/status/2109487556283048062"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109478362372862074",
+      "created_at": "2026-10-12T03:09:14.000Z",
+      "edit_history_tweet_ids": [
+        "2109481490338001103"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2576683783",
+            "start": 0,
+            "username": "aliez_ren"
+          }
+        ]
+      },
+      "id": "2109481490338001103",
+      "in_reply_to_user_id": "2576683783",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4194,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109478362372862074",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aliez_ren 我操我操我操",
+      "url": "https://x.com/taresky/status/2109481490338001103"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109471802464567735",
+      "created_at": "2026-10-12T03:08:43.000Z",
+      "edit_history_tweet_ids": [
+        "2109481360121643515"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "3088251130",
+            "start": 0,
+            "username": "isJackeroo"
+          }
+        ]
+      },
+      "id": "2109481360121643515",
+      "in_reply_to_user_id": "3088251130",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1600,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109480340222034136",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@isJackeroo 落地肯定是 SG 看起来目前我还没测到 SA 模式",
+      "url": "https://x.com/taresky/status/2109481360121643515"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109186569387253848",
+      "created_at": "2026-10-12T02:55:21.000Z",
+      "edit_history_tweet_ids": [
+        "2109477997908832580"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1940682271972864000",
+            "start": 0,
+            "username": "mev15_eth"
+          }
+        ]
+      },
+      "id": "2109477997908832580",
+      "in_reply_to_user_id": "1940682271972864000",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 187,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109477598401040406",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mev15_eth OK 我还可以吃一顿✌️",
+      "url": "https://x.com/taresky/status/2109477997908832580"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109471802464567735",
+      "created_at": "2026-10-12T02:37:36.000Z",
+      "edit_history_tweet_ids": [
+        "2109473532304634261"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "925203316992196609",
+            "start": 0,
+            "username": "Imlaomao"
+          }
+        ]
+      },
+      "id": "2109473532304634261",
+      "in_reply_to_user_id": "925203316992196609",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2027,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109473383012577567",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Imlaomao 在中国的速度，我多换几个地方测测",
+      "url": "https://x.com/taresky/status/2109473532304634261"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2109471789533507584"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2109471802464567735",
+      "created_at": "2026-10-12T02:30:44.000Z",
+      "edit_history_tweet_ids": [
+        "2109471802464567735"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/cE6OQGkkN5",
+            "end": 39,
+            "expanded_url": "https://x.com/taresky/status/2109471802464567735/photo/1",
+            "media_key": "3_2109471789533507584",
+            "start": 16,
+            "url": "https://t.co/cE6OQGkkN5"
+          }
+        ]
+      },
+      "id": "2109471802464567735",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 39,
+        "impression_count": 26682,
+        "like_count": 53,
+        "quote_count": 1,
+        "reply_count": 119,
+        "retweet_count": 1
+      },
+      "text": "已用上新加坡 eight ✌️ https://t.co/cE6OQGkkN5",
+      "url": "https://x.com/taresky/status/2109471802464567735"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109458183072985513",
+      "created_at": "2026-10-12T01:36:37.000Z",
+      "edit_history_tweet_ids": [
+        "2109458183072985513"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/typebrook/stat…",
+            "end": 87,
+            "expanded_url": "https://twitter.com/typebrook/status/2109426606552822064",
+            "start": 64,
+            "url": "https://t.co/n7fkfhUJmD"
+          }
+        ]
+      },
+      "id": "2109458183072985513",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 13917,
+        "like_count": 65,
+        "quote_count": 2,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109426606552822064",
+          "type": "quoted"
+        }
+      ],
+      "text": "成年人了，\n\n连自己话里在抬杠、有恶意都感觉不到，\n\n那就去看心理医生，\n\n父母没教好的让医生教你，\n\n不要怪这个社会欺负你。 https://t.co/n7fkfhUJmD",
+      "url": "https://x.com/taresky/status/2109458183072985513"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109333859477455004",
+      "created_at": "2026-10-11T20:01:32.000Z",
+      "edit_history_tweet_ids": [
+        "2109373857404731470"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "2937980100",
+            "start": 0,
+            "username": "Lucky_____Mr___"
+          },
+          {
+            "end": 29,
+            "id": "1994001059493367810",
+            "start": 17,
+            "username": "UniHako8980"
+          }
+        ]
+      },
+      "id": "2109373857404731470",
+      "in_reply_to_user_id": "2937980100",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 730,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109336624601395447",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Lucky_____Mr___ @UniHako8980 好好好 下单了",
+      "url": "https://x.com/taresky/status/2109373857404731470"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109364463090680144",
+      "created_at": "2026-10-11T19:24:12.000Z",
+      "edit_history_tweet_ids": [
+        "2109364463090680144"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/yetone/status/…",
+            "end": 59,
+            "expanded_url": "https://twitter.com/yetone/status/2109344227029320047",
+            "start": 36,
+            "url": "https://t.co/G4mqps4esr"
+          }
+        ]
+      },
+      "id": "2109364463090680144",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 39865,
+        "like_count": 90,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109344227029320047",
+          "type": "quoted"
+        }
+      ],
+      "text": "X 真是神了，yetone 都能有人喷啊。还是 Twitter 好啊。 https://t.co/G4mqps4esr",
+      "url": "https://x.com/taresky/status/2109364463090680144"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109313187984331232",
+      "created_at": "2026-10-11T16:00:27.000Z",
+      "edit_history_tweet_ids": [
+        "2109313187984331232"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/math_fournity/…",
+            "end": 29,
+            "expanded_url": "https://twitter.com/math_fournity/status/2109139158128324804",
+            "start": 6,
+            "url": "https://t.co/O0yeXwkTpI"
+          }
+        ]
+      },
+      "id": "2109313187984331232",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 6492,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109139158128324804",
+          "type": "quoted"
+        }
+      ],
+      "text": "感动的产品 https://t.co/O0yeXwkTpI",
+      "url": "https://x.com/taresky/status/2109313187984331232"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109287017511354458",
+      "created_at": "2026-10-11T14:16:28.000Z",
+      "edit_history_tweet_ids": [
+        "2109287017511354458"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/HumanityChad/s…",
+            "end": 68,
+            "expanded_url": "https://twitter.com/HumanityChad/status/2109130667758080390",
+            "start": 45,
+            "url": "https://t.co/lVA0C9JE9a"
+          }
+        ]
+      },
+      "id": "2109287017511354458",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 6975,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109130667758080390",
+          "type": "quoted"
+        }
+      ],
+      "text": "看看视频，有爱的狗是不一样的。\n\n我也希望你们这些网上的疯狗能拥有爱。\n\n这是我的胸怀。 https://t.co/lVA0C9JE9a",
+      "url": "https://x.com/taresky/status/2109287017511354458"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109186569387253848",
+      "created_at": "2026-10-11T13:55:01.000Z",
+      "edit_history_tweet_ids": [
+        "2109281620675149993"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1386308264648871940",
+            "start": 0,
+            "username": "AndyJYGood68"
+          }
+        ]
+      },
+      "id": "2109281620675149993",
+      "in_reply_to_user_id": "1386308264648871940",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 226,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109280798394195998",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@AndyJYGood68 晚上吃了江西土菜馆 很好吃",
+      "url": "https://x.com/taresky/status/2109281620675149993"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109279807079108752",
+      "created_at": "2026-10-11T13:51:56.000Z",
+      "edit_history_tweet_ids": [
+        "2109280845911797948"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1344963706657017858",
+            "start": 0,
+            "username": "GCsheng"
+          }
+        ]
+      },
+      "id": "2109280845911797948",
+      "in_reply_to_user_id": "1344963706657017858",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3363,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109279807079108752",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GCsheng 你是那个女朋友还是那个沙发……",
+      "url": "https://x.com/taresky/status/2109280845911797948"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109279129443148272",
+      "created_at": "2026-10-11T13:45:07.000Z",
+      "edit_history_tweet_ids": [
+        "2109279129443148272"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/BinaryHB/statu…",
+            "end": 31,
+            "expanded_url": "https://twitter.com/BinaryHB/status/2109240481704182214",
+            "start": 8,
+            "url": "https://t.co/1F4KubHbpS"
+          }
+        ]
+      },
+      "id": "2109279129443148272",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4843,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109240481704182214",
+          "type": "quoted"
+        }
+      ],
+      "text": "就是凤凰卫视！ https://t.co/1F4KubHbpS",
+      "url": "https://x.com/taresky/status/2109279129443148272"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109274286108356651",
+      "created_at": "2026-10-11T13:36:20.000Z",
+      "edit_history_tweet_ids": [
+        "2109276918390690116"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1471310582070464512",
+            "start": 0,
+            "username": "L_eacc"
+          }
+        ]
+      },
+      "id": "2109276918390690116",
+      "in_reply_to_user_id": "1471310582070464512",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 101,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109274286108356651",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@L_eacc 可以啊",
+      "url": "https://x.com/taresky/status/2109276918390690116"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2109274625188528128",
+          "3_2109274641470742528",
+          "3_2109274660286427136"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2109274678573613430",
+      "created_at": "2026-10-11T13:27:26.000Z",
+      "edit_history_tweet_ids": [
+        "2109274678573613430"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bNLofdIQob",
+            "end": 64,
+            "expanded_url": "https://x.com/taresky/status/2109274678573613430/photo/1",
+            "media_key": "3_2109274625188528128",
+            "start": 41,
+            "url": "https://t.co/bNLofdIQob"
+          },
+          {
+            "display_url": "pic.x.com/bNLofdIQob",
+            "end": 64,
+            "expanded_url": "https://x.com/taresky/status/2109274678573613430/photo/2",
+            "media_key": "3_2109274641470742528",
+            "start": 41,
+            "url": "https://t.co/bNLofdIQob"
+          },
+          {
+            "display_url": "pic.x.com/bNLofdIQob",
+            "end": 64,
+            "expanded_url": "https://x.com/taresky/status/2109274678573613430/photo/3",
+            "media_key": "3_2109274660286427136",
+            "start": 41,
+            "url": "https://t.co/bNLofdIQob"
+          },
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 88,
+            "expanded_url": "https://twitter.com/taresky/status/2109186569387253848",
+            "start": 65,
+            "url": "https://t.co/Akum4hliDm"
+          }
+        ]
+      },
+      "id": "2109274678573613430",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 5792,
+        "like_count": 17,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2109186569387253848",
+          "type": "quoted"
+        }
+      ],
+      "text": "江西土菜馆。\n\nbtw 这是小份炒粉，芋头牛肉菜单上好像没有，但问了老板娘说有。 https://t.co/bNLofdIQob https://t.co/Akum4hliDm",
+      "url": "https://x.com/taresky/status/2109274678573613430"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2109273844561412270",
+      "created_at": "2026-10-11T13:24:07.000Z",
+      "edit_history_tweet_ids": [
+        "2109273844561412270"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ]
+      },
+      "id": "2109273844561412270",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 15939,
+        "like_count": 60,
+        "quote_count": 2,
+        "reply_count": 11,
+        "retweet_count": 1
+      },
+      "text": "#Crypto \n\n为什么 ledger 出事要骂 onekey？\n\n原因其实没那么复杂。\n\n因为他们不知道 ledger 老板是谁，名字怎么打。",
+      "url": "https://x.com/taresky/status/2109273844561412270"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2109381506346991616"
+          ]
+        },
+        "author_id": "415859364",
+        "conversation_id": "2109382322516799677",
+        "created_at": "2026-10-11T20:35:10.000Z",
+        "edit_history_tweet_ids": [
+          "2109382322516799677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DPiXA2D7oq",
+              "end": 118,
+              "expanded_url": "https://x.com/Nike/status/2109382322516799677/photo/1",
+              "media_key": "3_2109381506346991616",
+              "start": 95,
+              "url": "https://t.co/DPiXA2D7oq"
+            }
+          ]
+        },
+        "id": "2109382322516799677",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 347823,
+          "like_count": 6460,
+          "quote_count": 65,
+          "reply_count": 183,
+          "retweet_count": 535
+        },
+        "text": "Zheng Qinwen claims her first WTA 1000 title in Beijing. A winner’s name, etched on home soil. https://t.co/DPiXA2D7oq"
+      },
+      {
+        "author_id": "1240158860754575360",
+        "conversation_id": "2109491664456949830",
+        "created_at": "2026-10-12T07:19:17.000Z",
+        "edit_history_tweet_ids": [
+          "2109544418932056148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109544418932056148",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109491664456949830",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我在大陆的时候只有 4G 新加坡很快"
+      },
+      {
+        "author_id": "52468378",
+        "conversation_id": "2109491531061096485",
+        "created_at": "2026-10-12T05:17:58.000Z",
+        "edit_history_tweet_ids": [
+          "2109513888895283566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1718896922277314560",
+              "start": 0,
+              "username": "yihui_indie"
+            }
+          ]
+        },
+        "id": "2109513888895283566",
+        "in_reply_to_user_id": "1718896922277314560",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2680,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109491531061096485",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@yihui_indie 不要有道德压力，直接屏蔽拉黑就好了。"
+      },
+      {
+        "author_id": "258156475",
+        "conversation_id": "2109507904667820492",
+        "created_at": "2026-10-12T04:54:11.000Z",
+        "edit_history_tweet_ids": [
+          "2109507904667820492"
+        ],
+        "id": "2109507904667820492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "help.onekey.so",
+                "end": 909,
+                "expanded_url": "http://help.onekey.so",
+                "start": 886,
+                "url": "https://t.co/QG5Mu83nAr"
+              }
+            ]
+          },
+          "text": "这几天，多位从 CryptoBilis 买过 Ledger 硬件钱包的用户报告资产被盗。Ledger 已确认，受影响用户的设备里被植入了未经授权的硬件。具体原因和影响范围还在调查。\n\nCryptoBilis 也卖过 OneKey、Trezor、Tangem、SafePal、imKey 等品牌，所以很多人来问我：我的 OneKey 还安全吗？\n\n截至发文，我们没有收到 OneKey 用户因这次事件遭遇资产被盗的报告。但没收到报告，不等于没有风险。用户的资产安全不能靠运气，我们不会去赌。\n\n我们已经终止了 CryptoBilis 的授权，它不再是 OneKey 的授权经销商。\n\n从今天起，我们做三件事。\n\n第一，不再新增经销商。\n\n即日起，OneKey 停止新增任何经销商。\n\n第二，所有现有经销商重新审查。\n\n以前通过认证的，也全部重新审核、重新排查。经营主体核实不了、最终受益人说不清楚的，一律取消授权，从官网下架。\n\n经销商网络会大幅缩小。硬件钱包关系到用户的资产，渠道必须管严。\n\n审查完成后，我们会在官网公布完整的授权经销商名单。到时，不在名单上的，就不是 OneKey 的授权经销商。\n\n第三，在 CryptoBilis 买过 OneKey 的符合条件用户，免费换新。\n\n2026 年 3 月 1 日至本声明发布之日，在 CryptoBilis 买过 OneKey 硬件钱包的用户，不限型号，不管有没有激活、有没有用过，都可以免费换新。\n\n为什么从 3 月 1 日算？CryptoBilis 的原联合创始人公开表示，公司在今年早些时候被收购，3 月完成了经营管理职责的交接。我们从 3 月 1 日开始覆盖，把整个交接月份和之后的购买都算进去。这个范围已经超过 180 天，我们宁可多覆盖一点。\n\n换新设备由 OneKey 官方商店直接发货。原来是什么型号，就换同一型号的全新设备；如果那个型号没货了，就免费升级成更新的型号。\n\n旧设备不用寄回，我们直接寄新的，直接从 OneKey 官网发货。\n\n申请方法很简单：在 OneKey 官网点「客服」，或者打开 https://t.co/QG5Mu83nAr，提交工单。\n\n标题写 CryptoBilis Replacement，附上：\n\n- 购买凭证或小票，必须提供；\n- 设备型号；\n- 设备有没有激活、使用过。\n\n申请截止：2026 年 12 月 31 日。\n\n换新可以申请，资产安全不要等。\n\n如果设备还没激活，先别激活，直接申请换新。\n\n如果已经在用、里面还有资产，出于预防，请把旧助记词当作可能已经泄露来处理，尽快把资产转到使用全新助记词的钱包里，别为了等新设备而拖着。\n\n手里有其他来源可信的硬件钱包，就在那台设备上生成全新的助记词，把资产转过去。暂时没有的话，可以在安全、可信的手机或电脑上，用 OneKey App 新建一个钱包，生成全新的助记词，先把资产转过去，作为临时过渡。\n\n新设备到手后，在新设备上重新生成全新的助记词，再把资产转进去。不要把旧助记词导入新设备，也不要把临时 App 钱包的助记词导入新设备。资产转完后，旧设备和旧助记词就别再用了。\n\n最后提醒一句：OneKey 客服永远不会问你要助记词或 PIN 码。任何以「换新」「验证」为由索要这些信息的人，都是骗子。\n\n大家买 OneKey，是因为信任 OneKey。这份信任，我们得接住。\n\n这件事我会跟到底，有新进展，我会第一时间更新。\n\nYishi"
+        },
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 83790,
+          "like_count": 347,
+          "quote_count": 26,
+          "reply_count": 88,
+          "retweet_count": 35
+        },
+        "text": "这几天，多位从 CryptoBilis 买过 Ledger 硬件钱包的用户报告资产被盗。Ledger 已确认，受影响用户的设备里被植入了未经授权的硬件。具体原因和影响范围还在调查。\n\nCryptoBilis 也卖过 OneKey、Trezor、Tangem、SafePal、imKey 等品牌，所以很多人来问我：我的 OneKey 还安全吗？"
+      },
+      {
+        "author_id": "21855954",
+        "conversation_id": "2109471802464567735",
+        "created_at": "2026-10-12T04:12:18.000Z",
+        "edit_history_tweet_ids": [
+          "2109497363341685241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109497363341685241",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2096,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109471802464567735",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这是哪个设备"
+      },
+      {
+        "author_id": "734333459640897536",
+        "conversation_id": "2109471802464567735",
+        "created_at": "2026-10-12T03:47:41.000Z",
+        "edit_history_tweet_ids": [
+          "2109491167415136258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109491167415136258",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1402,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109471802464567735",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这速度可以啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2109471789533507584"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "2109471802464567735",
+        "created_at": "2026-10-12T02:30:44.000Z",
+        "edit_history_tweet_ids": [
+          "2109471802464567735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cE6OQGkkN5",
+              "end": 39,
+              "expanded_url": "https://x.com/taresky/status/2109471802464567735/photo/1",
+              "media_key": "3_2109471789533507584",
+              "start": 16,
+              "url": "https://t.co/cE6OQGkkN5"
+            }
+          ]
+        },
+        "id": "2109471802464567735",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 26682,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 119,
+          "retweet_count": 1
+        },
+        "text": "已用上新加坡 eight ✌️ https://t.co/cE6OQGkkN5"
+      },
+      {
+        "author_id": "73644188",
+        "conversation_id": "2109274678573613430",
+        "created_at": "2026-10-12T03:23:38.000Z",
+        "edit_history_tweet_ids": [
+          "2109485115244261692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109485115244261692",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 和我印象中的江西菜有点不一样，江西菜的目标是为了辣而辣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2109477438568927232"
+          ]
+        },
+        "author_id": "2576683783",
+        "conversation_id": "2109478362372862074",
+        "created_at": "2026-10-12T02:56:48.000Z",
+        "edit_history_tweet_ids": [
+          "2109478362372862074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7UXkoPE5o2",
+              "end": 46,
+              "expanded_url": "https://x.com/aliez_ren/status/2109478362372862074/photo/1",
+              "media_key": "3_2109477438568927232",
+              "start": 23,
+              "url": "https://t.co/7UXkoPE5o2"
+            },
+            {
+              "display_url": "x.com/aliez_ren/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/aliez_ren/status/2107094340418023902",
+              "start": 47,
+              "url": "https://t.co/abCHAXDFDp"
+            }
+          ]
+        },
+        "id": "2109478362372862074",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 460,
+          "impression_count": 101749,
+          "like_count": 482,
+          "quote_count": 4,
+          "reply_count": 76,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107094340418023902",
+            "type": "quoted"
+          }
+        ],
+        "text": "量化新手保护期这么香吗，总之四张显卡回本了！ https://t.co/7UXkoPE5o2 https://t.co/abCHAXDFDp"
+      },
+      {
+        "author_id": "3088251130",
+        "conversation_id": "2109471802464567735",
+        "created_at": "2026-10-12T03:04:40.000Z",
+        "edit_history_tweet_ids": [
+          "2109480340222034136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109480340222034136",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1710,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109471802464567735",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 成功人士！羡慕这个网络品质。漫游落地应该也是SG吧"
+      },
+      {
+        "author_id": "1940682271972864000",
+        "conversation_id": "2109186569387253848",
+        "created_at": "2026-10-12T02:53:46.000Z",
+        "edit_history_tweet_ids": [
+          "2109477598401040406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109477598401040406",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "江西菜分两个菜系：赣北菜和赣南菜，可以用莲花血鸭和赣南小炒鱼招牌菜来识别，泾渭分明，没见过能同时做这俩菜的。\n\n招牌菜里有莲花血鸭的属赣北菜系，店名一般带江西俩字，因为靠近湖南所以会有部分湘菜（小炒黄牛肉、辣椒炒肉），因为靠近鄱阳湖所以菜单里会有水产（藕汤藕带藜蒿）。\n赣北菜酱油用的比较多，色重，招牌菜还有各种口味杂货（鸡爪鸭头猪手）、瓦罐汤、南昌炒粉，大部分江西菜馆都是赣北菜系尤其连锁，比如70年代、欧记。\n\n招牌菜里有赣南小炒鱼的属赣南菜系，店名一般带赣南俩字，因为属客家地区所以会有部分客家菜（丸子、豆腐）。\n赣南菜除了赣南小炒鱼，还推荐点带县名开头的，属于是各县下面的招牌菜，比如瑞金牛肉汤、宁都三杯鸡、兴国粉蒸之类。赣南菜系没有连锁，分店都很少，都是老板出来守一个店，推荐赣南饭店（景龙中环路，开了很多年，旁边有个装修很好的截流的江西菜馆，第一次去别走错了）、臻赣南稻香里（今年新开，离赣南饭店不远都在龙华）、罗记赣南小馆（菜品少，但在南山方便）、刘佬拐（宝安西乡，今年新开）\n\n另外不管赣北赣南，芋头菜必点，芋头之于江西就像土豆之于西北，有芋头滑牛肉、鱼头芋头煲、芋头菜汤、芋饺，随便点都好吃，力荐"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1372,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109186569387253848",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 江西菜分两个菜系：赣北菜和赣南菜，可以用莲花血鸭和赣南小炒鱼招牌菜来识别，泾渭分明，没见过能同时做这俩菜的。\n\n招牌菜里有莲花血鸭的属赣北菜系，店名一般带江西俩字，因为靠近湖南所以会有部分湘菜（小炒黄牛肉、辣椒炒肉），因为靠近鄱阳湖所以菜单里会有水产（藕汤藕带藜蒿）。"
+      },
+      {
+        "author_id": "925203316992196609",
+        "conversation_id": "2109471802464567735",
+        "created_at": "2026-10-12T02:37:01.000Z",
+        "edit_history_tweet_ids": [
+          "2109473383012577567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109473383012577567",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2715,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109471802464567735",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这是哪里的速度"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2109422897852792832",
+            "3_2109422912633442304"
+          ]
+        },
+        "author_id": "464591556",
+        "conversation_id": "2109426606552822064",
+        "created_at": "2026-10-11T23:31:08.000Z",
+        "edit_history_tweet_ids": [
+          "2109422933995061339",
+          "2109424390358085793",
+          "2109426606552822064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "147786784",
+              "start": 20,
+              "username": "yetone"
+            },
+            {
+              "end": 49,
+              "id": "1145847532536209409",
+              "start": 42,
+              "username": "Seefs_"
+            },
+            {
+              "end": 155,
+              "id": "1909562414162755584",
+              "start": 140,
+              "username": "ThirteenYizuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OZGCdUtc0j",
+              "end": 179,
+              "expanded_url": "https://x.com/typebrook/status/2109426606552822064/photo/1",
+              "media_key": "3_2109422897852792832",
+              "start": 156,
+              "url": "https://t.co/OZGCdUtc0j"
+            },
+            {
+              "display_url": "pic.x.com/OZGCdUtc0j",
+              "end": 179,
+              "expanded_url": "https://x.com/typebrook/status/2109426606552822064/photo/2",
+              "media_key": "3_2109422912633442304",
+              "start": 156,
+              "url": "https://t.co/OZGCdUtc0j"
+            },
+            {
+              "display_url": "x.com/iseki_zero/sta…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/iseki_zero/status/2109412744667750609",
+              "start": 180,
+              "url": "https://t.co/3Ziv1WnUEs"
+            }
+          ]
+        },
+        "id": "2109426606552822064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 27,
+                "id": "147786784",
+                "start": 20,
+                "username": "yetone"
+              },
+              {
+                "end": 49,
+                "id": "1145847532536209409",
+                "start": 42,
+                "username": "Seefs_"
+              },
+              {
+                "end": 155,
+                "id": "1909562414162755584",
+                "start": 140,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 284,
+                "id": "1909562414162755584",
+                "start": 269,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 328,
+                "id": "147786784",
+                "start": 321,
+                "username": "yetone"
+              },
+              {
+                "end": 394,
+                "id": "147786784",
+                "start": 387,
+                "username": "yetone"
+              },
+              {
+                "end": 635,
+                "id": "147786784",
+                "start": 628,
+                "username": "yetone"
+              },
+              {
+                "end": 715,
+                "id": "147786784",
+                "start": 708,
+                "username": "yetone"
+              },
+              {
+                "end": 756,
+                "id": "147786784",
+                "start": 749,
+                "username": "yetone"
+              },
+              {
+                "end": 817,
+                "id": "1105278946168397824",
+                "start": 806,
+                "username": "iseki_zero"
+              }
+            ]
+          },
+          "text": "大概理解了，說一說我的看法：\n\n1.  @yetone 暴怒/回懟是有正當理由的： @Seefs_ 這句「一開始也沒打算把控住」屬於未審先判，只用想當然爾的方式提出結論，沒有任何佐證自己說法的資料（哪怕指出產品的任何缺陷也好），這看在開發者眼裡和走在路上被人抹屎差不多\n\n2.  @ThirteenYizuka 的評論字面意義上合理，但放在這個語境下屬於「正確的廢話」。同樣的照樣造句，我可以拿來質疑別人的產品、評論者的利益歸屬、甚至是各位翻牆的正當性！  \n\n3. 承上，什麼樣的評論才不是廢話呢？就是可「證偽」或「方向明確」的文字\n\n@ThirteenYizuka 最後那一句「究竟經過了怎樣的審查和驗證」乍聽一下合理，但細想一下，就算 @yetone 回覆自證了又怎樣呢？  他又沒提出什麼標準或告訴大家「怎樣才是好的方式」，因此往後的討論只會淪為無意義的浪費精力， @yetone 直接回懟的作法才是幫我們省了時間\n\n4. 承上，那怎麼樣的批評才不會變成上述的廢話呢？我的話會用「可比較的對象」或「具體的細節」來展開討論\n\n例如：「那個類似 magpie 的產品用了 XXX 方法來做測試，出來的 feature 達成 OOO 的效果，你要不要考慮看看？」\n\n或者：「我發現 magpie 在 XXX 有問題，在 vibe coding 時是否可以加入更多 harness，這些我寫的測試先放在 PR 裡面了」  \n\n用我的方式提出批評，我不相信 @yetone 反應會這麼大  \n\n5. 總結來說，我認為上面提到的兩個帳號其評論實在沒建設性，屬於不說比說出來好的情況。有些開發者可能會用友好的方式回應，但 @yetone 直接回懟我認為是沒問題的（甚至還省了大家時間呢） \n\n有些人覺得 @yetone 說話態度有問題，但要知道浪費公眾/開發者的時間與精力這檔子事，可比前者嚴重的多啊！\n\n6. 回到 @iseki_zero  你最開始主題：「開源能不能批評」\n\n當然是可以的！社交平台上想發什麼內容都是個人的自由意志，只要沒有違反 user term 說的多難聽都可以。但相對地，別人也可以對批評的內容做出自己的評論，同樣說的多難聽都可以\n\n真正的「不能批評」不是積極回擊，而是從根本上否定你你說話的權利，這個區別是很重要的"
+        },
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 34521,
+          "like_count": 82,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109412744667750609",
+            "type": "quoted"
+          }
+        ],
+        "text": "大概理解了，說一說我的看法：\n\n1.  @yetone 暴怒/回懟是有正當理由的： @Seefs_ 這句「一開始也沒打算把控住」屬於未審先判，只用想當然爾的方式提出結論，沒有任何佐證自己說法的資料（哪怕指出產品的任何缺陷也好），這看在開發者眼裡和走在路上被人抹屎差不多\n\n2.  @ThirteenYizuka https://t.co/OZGCdUtc0j https://t.co/3Ziv1WnUEs"
+      },
+      {
+        "author_id": "2937980100",
+        "conversation_id": "2109333859477455004",
+        "created_at": "2026-10-11T17:33:35.000Z",
+        "edit_history_tweet_ids": [
+          "2109336624601395447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994001059493367810",
+              "start": 0,
+              "username": "UniHako8980"
+            }
+          ]
+        },
+        "id": "2109336624601395447",
+        "in_reply_to_user_id": "1994001059493367810",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1904,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109336468388978897",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@UniHako8980 我买的是长的 线材舒服 还有显示瓦数"
+      },
+      {
+        "author_id": "147786784",
+        "conversation_id": "2109344227029320047",
+        "created_at": "2026-10-11T18:03:48.000Z",
+        "edit_history_tweet_ids": [
+          "2109344227029320047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Seefs_/status/…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/Seefs_/status/2109325243898880133",
+              "start": 155,
+              "url": "https://t.co/xQmlbWoeTC"
+            }
+          ]
+        },
+        "id": "2109344227029320047",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 236207,
+          "like_count": 670,
+          "quote_count": 56,
+          "reply_count": 175,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109325243898880133",
+            "type": "quoted"
+          }
+        ],
+        "text": "为什么这么说我？为了软件高质量，我用自己的钱来订阅全世界最好的最贵的且最难订阅的模型 7×24 小时去实现和满足每个用户的真实需求，而且是个完全免费的软件，怎么就在你的口中成了「快餐式服务」和「这种作者」了？看着你挂着 newapi 的官方 logo ，很颠覆 newapi 在我心中的形象，希望你积点口德。 https://t.co/xQmlbWoeTC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2109138441124642816"
+          ]
+        },
+        "author_id": "2047918395329511424",
+        "conversation_id": "2109139158128324804",
+        "created_at": "2026-10-11T04:28:55.000Z",
+        "edit_history_tweet_ids": [
+          "2109139021557645442",
+          "2109139158128324804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "147786784",
+              "start": 9,
+              "username": "yetone"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. - yetone/magpie",
+              "display_url": "github.com/yetone/magpie",
+              "end": 71,
+              "expanded_url": "https://github.com/yetone/magpie",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2123544837626703872/zOwtuIsJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2123544837626703872/zOwtuIsJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+              "unwound_url": "https://github.com/yetone/magpie",
+              "url": "https://t.co/aCv2QCNJkF"
+            },
+            {
+              "display_url": "pic.x.com/61XJzqxtZF",
+              "end": 95,
+              "expanded_url": "https://x.com/math_fournity/status/2109139158128324804/photo/1",
+              "media_key": "3_2109138441124642816",
+              "start": 72,
+              "url": "https://t.co/61XJzqxtZF"
+            }
+          ]
+        },
+        "id": "2109139158128324804",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 29823,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "text": "看着看着忽然觉得 @yetone 将自己的 AI Agent 功力全部注入到了magpie中\n\nhttps://t.co/aCv2QCNJkF https://t.co/61XJzqxtZF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2109130599923679232"
+          ]
+        },
+        "author_id": "1689693400881414144",
+        "conversation_id": "2109130667758080390",
+        "created_at": "2026-10-11T03:55:11.000Z",
+        "edit_history_tweet_ids": [
+          "2109130667758080390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y23igerxEl",
+              "end": 98,
+              "expanded_url": "https://x.com/HumanityChad/status/2109130667758080390/video/1",
+              "media_key": "13_2109130599923679232",
+              "start": 75,
+              "url": "https://t.co/y23igerxEl"
+            }
+          ]
+        },
+        "id": "2109130667758080390",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3184,
+          "impression_count": 2159014,
+          "like_count": 83947,
+          "quote_count": 531,
+          "reply_count": 1000,
+          "retweet_count": 8425
+        },
+        "text": "She adopted an abandoned dog .. look at the transformation in just 9 days. https://t.co/y23igerxEl"
+      },
+      {
+        "author_id": "1386308264648871940",
+        "conversation_id": "2109186569387253848",
+        "created_at": "2026-10-11T13:51:45.000Z",
+        "edit_history_tweet_ids": [
+          "2109280798394195998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2109280798394195998",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109186569387253848",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 欧记，欧记，看排队就知道了"
+      },
+      {
+        "author_id": "1344963706657017858",
+        "conversation_id": "2109279807079108752",
+        "created_at": "2026-10-11T13:47:49.000Z",
+        "edit_history_tweet_ids": [
+          "2109279807079108752"
+        ],
+        "id": "2109279807079108752",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 46132,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "text": "风无向\n\n以前谈过一个女朋友\n\n他们喜欢一起躺懒人沙发上刷B站，看电影\n\n可是她总是看着看着就睡着了\n\n风无向以前觉得她很扫兴，没事儿嫌弃一下\n\n可多年之后\n\n风无向发现自己用眼过度也会困，当年他看什么都喜欢开两倍速三倍速，他们一起看的时候她脑袋算力不够（可能）所以老是睡着，其实很可爱呢"
+      },
+      {
+        "author_id": "130385559",
+        "conversation_id": "2109240481704182214",
+        "created_at": "2026-10-11T11:11:33.000Z",
+        "edit_history_tweet_ids": [
+          "2109240481704182214"
+        ],
+        "id": "2109240481704182214",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6420,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "text": "中国大陆是不是都能默认看懂繁体字？\n好像有些人不是的？\n\n感觉小时候看太多了凤凰卫视，所以能完全看懂繁体字"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2109274280425066496"
+          ]
+        },
+        "author_id": "1471310582070464512",
+        "conversation_id": "2109274286108356651",
+        "created_at": "2026-10-11T13:25:52.000Z",
+        "edit_history_tweet_ids": [
+          "2109274286108356651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfqVHIZSHU",
+              "end": 36,
+              "expanded_url": "https://x.com/L_eacc/status/2109274286108356651/photo/1",
+              "media_key": "3_2109274280425066496",
+              "start": 13,
+              "url": "https://t.co/OfqVHIZSHU"
+            }
+          ]
+        },
+        "id": "2109274286108356651",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "10/11 一周年了啊… https://t.co/OfqVHIZSHU"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2109186569387253848",
+        "created_at": "2026-10-11T07:37:19.000Z",
+        "edit_history_tweet_ids": [
+          "2109186569387253848"
+        ],
+        "id": "2109186569387253848",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15801,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 82,
+          "retweet_count": 0
+        },
+        "text": "请问深圳最好吃的江西菜是哪一家！"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1240158860754575360",
+        "name": "Lsp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1435500502180003844/SyStGjmb_normal.jpg",
+        "username": "lspeth",
+        "verified": false
+      },
+      {
+        "id": "52468378",
+        "name": "luolei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550157622300786688/672YmCpB_normal.jpg",
+        "username": "luoleiorg",
+        "verified": false
+      },
+      {
+        "id": "21855954",
+        "name": "CMGS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620065651552567299/jsDz8bjQ_normal.jpg",
+        "username": "CMGS1988",
+        "verified": false
+      },
+      {
+        "id": "734333459640897536",
+        "name": "pp.mirror.xyz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905092978529681408/sOyAFL0w_normal.jpg",
+        "username": "Creampp123",
+        "verified": false
+      },
+      {
+        "id": "73644188",
+        "name": "Terrance Siu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558068748892139520/hqK9Uzyu_normal.jpg",
+        "username": "terrancesiu",
+        "verified": false
+      },
+      {
+        "id": "2576683783",
+        "name": "Aliez Ren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032458974470262785/ECR72V3E_normal.jpg",
+        "username": "aliez_ren",
+        "verified": false
+      },
+      {
+        "id": "3088251130",
+        "name": "Jackeroo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920777002703089664/6PL67Kqr_normal.jpg",
+        "username": "isJackeroo",
+        "verified": false
+      },
+      {
+        "id": "1940682271972864000",
+        "name": "青十五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945316829674582016/mwfcklCD_normal.jpg",
+        "username": "mev15_eth",
+        "verified": false
+      },
+      {
+        "id": "925203316992196609",
+        "name": "Lao Mao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890672779353288704/oGTMZdm5_normal.jpg",
+        "username": "Imlaomao",
+        "verified": false
+      },
+      {
+        "id": "2937980100",
+        "name": "MrLucky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761812771044519936/iRAJP7zI_normal.jpg",
+        "username": "Lucky_____Mr___",
+        "verified": false
+      },
+      {
+        "id": "1386308264648871940",
+        "name": "Andyyyyyy.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718829579551608832/TZLnDHvq_normal.jpg",
+        "username": "AndyJYGood68",
+        "verified": false
+      },
+      {
+        "id": "1344963706657017858",
+        "name": "深大高财生.milady",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956429310363074560/kZapgvHx_normal.jpg",
+        "username": "GCsheng",
+        "verified": false
+      },
+      {
+        "id": "1471310582070464512",
+        "name": "ℓ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059122365511184384/t9t2gBS7_normal.jpg",
+        "username": "L_eacc",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2109608643897520599",
+    "next_token": "b26v89c19zqg8o3juzizkok08uec5jb7muhm17uexqikd",
+    "oldest_id": "2109273844561412270",
+    "result_count": 24
+  },
+  "errors": []
+}

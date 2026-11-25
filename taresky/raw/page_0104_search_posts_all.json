@@ -1,0 +1,1886 @@
+{
+  "collected_at_utc": "2026-11-25T00:43:03Z",
+  "collected_at_shanghai": "2026-11-25T08:43:03+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M882FHTJ9GA4RWYTCSEYT6V6.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2026-07-01T00:00:00Z",
+    "end_time": "2026-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juethzuknlg4zl9f7nz6jyoirlzxj1",
+    "window_label": "2026-07"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2075785584472449024"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2075785590411501826",
+      "created_at": "2026-07-11T03:33:45.000Z",
+      "edit_history_tweet_ids": [
+        "2075785590411501826"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/eYGHwLphcS",
+            "end": 27,
+            "expanded_url": "https://x.com/taresky/status/2075785590411501826/photo/1",
+            "media_key": "3_2075785584472449024",
+            "start": 4,
+            "url": "https://t.co/eYGHwLphcS"
+          }
+        ]
+      },
+      "id": "2075785590411501826",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4137,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 1
+      },
+      "text": "吃面包 https://t.co/eYGHwLphcS",
+      "url": "https://x.com/taresky/status/2075785590411501826"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075763513264587205",
+      "created_at": "2026-07-11T02:36:32.000Z",
+      "edit_history_tweet_ids": [
+        "2075771192334790889"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "4110021",
+            "start": 0,
+            "username": "xinzhi"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Summary prepare an inactive AudioQueue after microphone permission is granted, moving queue creation, device binding, and buffer allocation off the recording hot path start microphone hardware on ...",
+            "display_url": "github.com/missuo/koe/pul…",
+            "end": 107,
+            "expanded_url": "https://github.com/missuo/koe/pull/104",
+            "images": [
+              {
+                "height": 600,
+                "url": "https://pbs.twimg.com/news_img/2075771238312714240/V7PHry0C?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2075771238312714240/V7PHry0C?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 84,
+            "status": 200,
+            "title": "perf(audio): start Bluetooth capture on trigger down by taresky · Pull Request #104 · missuo/koe",
+            "unwound_url": "https://github.com/missuo/koe/pull/104",
+            "url": "https://t.co/eMXzmCk8ox"
+          }
+        ]
+      },
+      "id": "2075771192334790889",
+      "in_reply_to_user_id": "4110021",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 510,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075763513264587205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xinzhi 我刚让 AI 在这个开源输入法的基础上帮我解决了蓝蓝牙延迟的问题。\n\n我觉得这些需求，直接在开源的基础上去 Vibe 一个自己的版本就好了。\n\n供参考：https://t.co/eMXzmCk8ox",
+      "url": "https://x.com/taresky/status/2075771192334790889"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075733896273203671",
+      "created_at": "2026-07-11T01:34:37.000Z",
+      "edit_history_tweet_ids": [
+        "2075755610264764722"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1076005934952898565",
+            "start": 0,
+            "username": "whyeszhu"
+          }
+        ]
+      },
+      "id": "2075755610264764722",
+      "in_reply_to_user_id": "1076005934952898565",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 311,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075746975404994783",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@whyeszhu 是的，收音距离放近就可以解决 99% 的问题。各种产品形态和硬件实现方式，都是为了解决收音距离远的问题。",
+      "url": "https://x.com/taresky/status/2075755610264764722"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075733896273203671",
+      "created_at": "2026-07-11T01:26:36.000Z",
+      "edit_history_tweet_ids": [
+        "2075753589759475812"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1590985682440179713",
+            "start": 0,
+            "username": "1sheng2sheng3"
+          }
+        ]
+      },
+      "id": "2075753589759475812",
+      "in_reply_to_user_id": "1590985682440179713",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 210,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075742845139603641",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@1sheng2sheng3 微信输入法或者是 Koe 搭配豆包 API。",
+      "url": "https://x.com/taresky/status/2075753589759475812"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075425536256647278",
+      "created_at": "2026-07-10T12:41:27.000Z",
+      "edit_history_tweet_ids": [
+        "2075561036846129236"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "22938360",
+            "start": 0,
+            "username": "kevinzhow"
+          }
+        ]
+      },
+      "id": "2075561036846129236",
+      "in_reply_to_user_id": "22938360",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 732,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075552228056949165",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kevinzhow 那个好像两三万，我完全用不上 gpu😂",
+      "url": "https://x.com/taresky/status/2075561036846129236"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075425536256647278",
+      "created_at": "2026-07-10T12:38:45.000Z",
+      "edit_history_tweet_ids": [
+        "2075560357507322216"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "2353399482",
+            "start": 0,
+            "username": "0xSidlly"
+          }
+        ]
+      },
+      "id": "2075560357507322216",
+      "in_reply_to_user_id": "2353399482",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 287,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075551541130670546",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xSidlly 为啥比我低这么多…",
+      "url": "https://x.com/taresky/status/2075560357507322216"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075517187205554371",
+      "created_at": "2026-07-10T10:13:21.000Z",
+      "edit_history_tweet_ids": [
+        "2075523762880126999"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "31463548",
+            "start": 0,
+            "username": "0x_blackrabbit"
+          }
+        ]
+      },
+      "id": "2075523762880126999",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3345,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "@0x_blackrabbit 可以干啥",
+      "url": "https://x.com/taresky/status/2075523762880126999"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2075515611304861697"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2075514622913008026",
+      "created_at": "2026-07-10T09:41:14.000Z",
+      "edit_history_tweet_ids": [
+        "2075515681475543412"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1135007852739743746",
+            "start": 0,
+            "username": "g_wolves"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/lutUSrYo0F",
+            "end": 48,
+            "expanded_url": "https://x.com/taresky/status/2075515681475543412/photo/1",
+            "media_key": "3_2075515611304861697",
+            "start": 25,
+            "url": "https://t.co/lutUSrYo0F"
+          }
+        ]
+      },
+      "id": "2075515681475543412",
+      "in_reply_to_user_id": "1135007852739743746",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2148,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075514622913008026",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@g_wolves buy for fun... https://t.co/lutUSrYo0F",
+      "url": "https://x.com/taresky/status/2075515681475543412"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075476143600472150",
+      "created_at": "2026-07-10T08:07:23.000Z",
+      "edit_history_tweet_ids": [
+        "2075492063068799280"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1963434136145989634",
+            "start": 0,
+            "username": "biantaishabi5"
+          }
+        ]
+      },
+      "id": "2075492063068799280",
+      "in_reply_to_user_id": "1963434136145989634",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2822,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075476143600472150",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 Grok 试试看，超级快",
+      "url": "https://x.com/taresky/status/2075492063068799280"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075425536256647278",
+      "created_at": "2026-07-10T04:36:12.000Z",
+      "edit_history_tweet_ids": [
+        "2075438919655805051"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "277057625",
+            "start": 0,
+            "username": "lunlunbear"
+          }
+        ]
+      },
+      "id": "2075438919655805051",
+      "in_reply_to_user_id": "277057625",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 783,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075437953426604301",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lunlunbear 感觉被苹果打死了。",
+      "url": "https://x.com/taresky/status/2075438919655805051"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075411332346827203",
+      "created_at": "2026-07-10T04:23:19.000Z",
+      "edit_history_tweet_ids": [
+        "2075435673788805577"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1701842230007492608",
+            "start": 0,
+            "username": "anqirocks27"
+          }
+        ]
+      },
+      "id": "2075435673788805577",
+      "in_reply_to_user_id": "1701842230007492608",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1923,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075411332346827203",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@anqirocks27 我成长了，我已经学会装疯卖傻了",
+      "url": "https://x.com/taresky/status/2075435673788805577"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075434831169892696",
+      "created_at": "2026-07-10T04:19:58.000Z",
+      "edit_history_tweet_ids": [
+        "2075434831169892696"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 164,
+            "expanded_url": "https://twitter.com/taresky/status/2050480092846211529",
+            "start": 141,
+            "url": "https://t.co/EF2kpR8aaM"
+          }
+        ]
+      },
+      "id": "2075434831169892696",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 17058,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2050480092846211529",
+          "type": "quoted"
+        }
+      ],
+      "text": "补充：\n\n这台我没买，有群友买了说 HDR 亮度不行，以及 HDR 高光细节不行，和 Apple XDR 没法比。\n\n又（让 AI）去查了下确实没有证据表明是同一块面板，之前的纯属根据以往经验猜测了。\n\n我觉得不影响这是当前市面上的办公显示器最佳选择，但涉及专业用途还是慎重考虑。 https://t.co/EF2kpR8aaM",
+      "url": "https://x.com/taresky/status/2075434831169892696"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075425536256647278",
+      "created_at": "2026-07-10T04:15:01.000Z",
+      "edit_history_tweet_ids": [
+        "2075433588452188494"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "17185799",
+            "start": 0,
+            "username": "Carlos_Gong"
+          }
+        ]
+      },
+      "id": "2075433588452188494",
+      "in_reply_to_user_id": "17185799",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1122,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075426666218938857",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Carlos_Gong 我觉得这两台应该没啥区别。只是想加价保障一下做工和玩一玩小红点。\n\n如果性能够用的话，DELL 那款性价比高很多。",
+      "url": "https://x.com/taresky/status/2075433588452188494"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2075425529646473216"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2075425536256647278",
+      "created_at": "2026-07-10T03:43:02.000Z",
+      "edit_history_tweet_ids": [
+        "2075425536256647278"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "数码"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/ZZrQMafx7E",
+            "end": 61,
+            "expanded_url": "https://x.com/taresky/status/2075425536256647278/photo/1",
+            "media_key": "3_2075425529646473216",
+            "start": 38,
+            "url": "https://t.co/ZZrQMafx7E"
+          },
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 85,
+            "expanded_url": "https://twitter.com/taresky/status/2075251055538147395",
+            "start": 62,
+            "url": "https://t.co/k47W8wC0yP"
+          }
+        ]
+      },
+      "id": "2075425536256647278",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 31731,
+        "like_count": 29,
+        "quote_count": 0,
+        "reply_count": 39,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075251055538147395",
+          "type": "quoted"
+        }
+      ],
+      "text": "#数码 \n\nDell 退货了，买了 thankpad x1 carbon。 https://t.co/ZZrQMafx7E https://t.co/k47W8wC0yP",
+      "url": "https://x.com/taresky/status/2075425536256647278"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075251055538147395",
+      "created_at": "2026-07-10T03:42:17.000Z",
+      "edit_history_tweet_ids": [
+        "2075425351124283834"
+      ],
+      "id": "2075425351124283834",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 696,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@stevehongkong u5 325 怎么样，我又买了一台",
+      "url": "https://x.com/taresky/status/2075425351124283834"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075251055538147395",
+      "created_at": "2026-07-09T23:00:28.000Z",
+      "edit_history_tweet_ids": [
+        "2075354427003953289"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1608336380555591680",
+            "start": 0,
+            "username": "Airdrop_Guard"
+          }
+        ]
+      },
+      "id": "2075354427003953289",
+      "in_reply_to_user_id": "1608336380555591680",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 977,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075351634394447874",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Airdrop_Guard 纯属垃圾啊，你在笔记本跑大模型？",
+      "url": "https://x.com/taresky/status/2075354427003953289"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075280686446231815",
+      "created_at": "2026-07-09T22:44:55.000Z",
+      "edit_history_tweet_ids": [
+        "2075350515467301116"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "21855954",
+            "start": 0,
+            "username": "CMGS1988"
+          },
+          {
+            "end": 20,
+            "id": "1649280169805479936",
+            "start": 10,
+            "username": "LaiskyCai"
+          }
+        ]
+      },
+      "id": "2075350515467301116",
+      "in_reply_to_user_id": "21855954",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 239,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075285278865174913",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CMGS1988 @LaiskyCai 等你评价 gpt 5.6",
+      "url": "https://x.com/taresky/status/2075350515467301116"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075251055538147395",
+      "created_at": "2026-07-09T16:09:42.000Z",
+      "edit_history_tweet_ids": [
+        "2075251055538147395"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "数码"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/aliez_ren/stat…",
+            "end": 83,
+            "expanded_url": "https://twitter.com/aliez_ren/status/2075087307741557140",
+            "start": 60,
+            "url": "https://t.co/uwXePbN82U"
+          }
+        ]
+      },
+      "id": "2075251055538147395",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 52101,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 9,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075087307741557140",
+          "type": "quoted"
+        }
+      ],
+      "text": "#数码 \n\n买了同款，准备替换掉沉重的 Macbook Air \n\n在日本卖 7000，在中国卖 1 万，感觉赚了✌️ https://t.co/uwXePbN82U",
+      "url": "https://x.com/taresky/status/2075251055538147395"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075198155315163432",
+      "created_at": "2026-07-09T14:03:04.000Z",
+      "edit_history_tweet_ids": [
+        "2075219184905236872"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "753620595657486340",
+            "start": 0,
+            "username": "Ethan_YYG"
+          }
+        ]
+      },
+      "id": "2075219184905236872",
+      "in_reply_to_user_id": "753620595657486340",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1426,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075214842760458469",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Ethan_YYG 没多少量🤷‍♀️",
+      "url": "https://x.com/taresky/status/2075219184905236872"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2075198149501804544"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2075198155315163432",
+      "created_at": "2026-07-09T12:39:30.000Z",
+      "edit_history_tweet_ids": [
+        "2075198155315163432"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/97BWPTKKUs",
+            "end": 40,
+            "expanded_url": "https://x.com/taresky/status/2075198155315163432/photo/1",
+            "media_key": "3_2075198149501804544",
+            "start": 17,
+            "url": "https://t.co/97BWPTKKUs"
+          }
+        ]
+      },
+      "id": "2075198155315163432",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 15617,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "#Crypto \n\n这就没了？… https://t.co/97BWPTKKUs",
+      "url": "https://x.com/taresky/status/2075198155315163432"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2074343851079413920",
+      "created_at": "2026-07-09T12:36:01.000Z",
+      "edit_history_tweet_ids": [
+        "2075197278445613225"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "260653171",
+            "start": 0,
+            "username": "aezaumi"
+          }
+        ]
+      },
+      "id": "2075197278445613225",
+      "in_reply_to_user_id": "260653171",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 270,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2075185809758855562",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aezaumi 还行，对大部分人来说，能治病就很好了。",
+      "url": "https://x.com/taresky/status/2075197278445613225"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075182031106085049",
+      "created_at": "2026-07-09T11:35:25.000Z",
+      "edit_history_tweet_ids": [
+        "2075182031106085049"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "xhslink.com/o/9Hr8LiZILOo",
+            "end": 82,
+            "expanded_url": "http://xhslink.com/o/9Hr8LiZILOo",
+            "start": 59,
+            "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a48a5290000000011019da8?app_platform=ios&app_version=9.37&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBrTEByxIwDHZwkzZyZH3JtGo6Kkim9sva17tm4w2ztJc=&author_share=1&xhsshare=CopyLink&shareRedId=ODg0RDo1OUA2NzUyOTgwNjg0OTk3Rzo_&apptime=1783596907&share_id=3922f4d2fb7247bca55e39a984872bde",
+            "url": "https://t.co/DRP4N0VE95"
+          }
+        ]
+      },
+      "id": "2075182031106085049",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3791,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "你们有没有听 papi 的新歌《生气了》\n\n好听 爱听\n\n洗脑神曲～papi酱《生气了》歌曲剪辑纯享版 @papi酱 https://t.co/DRP4N0VE95 \n【小红书】笔记已就绪，复制后即可查看~ l=en&amp;mt=8",
+      "url": "https://x.com/taresky/status/2075182031106085049"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2075180418559857091",
+      "created_at": "2026-07-09T11:29:01.000Z",
+      "edit_history_tweet_ids": [
+        "2075180418559857091"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/riverleaf88/st…",
+            "end": 40,
+            "expanded_url": "https://twitter.com/riverleaf88/status/2074744676645765187",
+            "start": 17,
+            "url": "https://t.co/sJVSjdm7n4"
+          }
+        ]
+      },
+      "id": "2075180418559857091",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 8260,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074744676645765187",
+          "type": "quoted"
+        }
+      ],
+      "text": "反正很好笑哈哈哈哈哈哈哈哈哈哈哈 https://t.co/sJVSjdm7n4",
+      "url": "https://x.com/taresky/status/2075180418559857091"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2074830257115263351",
+      "created_at": "2026-07-09T11:15:07.000Z",
+      "edit_history_tweet_ids": [
+        "2075176920376111284"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "736688383",
+            "start": 0,
+            "username": "mieisgood"
+          }
+        ]
+      },
+      "id": "2075176920376111284",
+      "in_reply_to_user_id": "736688383",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3827,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2074830257115263351",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mieisgood 好看",
+      "url": "https://x.com/taresky/status/2075176920376111284"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2075162470621331456"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2075162590393888931",
+      "created_at": "2026-07-09T10:18:10.000Z",
+      "edit_history_tweet_ids": [
+        "2075162590393888931"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/VT46CF78J9",
+            "end": 90,
+            "expanded_url": "https://x.com/taresky/status/2075162590393888931/photo/1",
+            "media_key": "3_2075162470621331456",
+            "start": 67,
+            "url": "https://t.co/VT46CF78J9"
+          }
+        ]
+      },
+      "id": "2075162590393888931",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 9030,
+        "like_count": 13,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "#AI \n\n还有三个多小时。大战 42% Fable 额度。\n\n/improve-codebase-architecture 走起。 https://t.co/VT46CF78J9",
+      "url": "https://x.com/taresky/status/2075162590393888931"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "4110021",
+        "conversation_id": "2075763513264587205",
+        "created_at": "2026-07-11T02:06:02.000Z",
+        "edit_history_tweet_ids": [
+          "2075763513264587205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taresky/status…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/taresky/status/2075733896273203671",
+              "start": 152,
+              "url": "https://t.co/nxaYomgAhx"
+            }
+          ]
+        },
+        "id": "2075763513264587205",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1282,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075733896273203671",
+            "type": "quoted"
+          }
+        ],
+        "text": "我用语音输入法最大的问题是末尾丢字，开头习惯了按一下再说，但经常要检查是否已经激活语音，无形间浪费很多时间；\n\n说完时常松手太快，识别不完整，转录文字有时候还经过润色，更容易丢内容了。\n\n至今为止没有做出我最想要的 Live 输入法，就像 ChatGPT Live 一样，全时双工输入，免激活无缝对接。 https://t.co/nxaYomgAhx"
+      },
+      {
+        "author_id": "1076005934952898565",
+        "conversation_id": "2075733896273203671",
+        "created_at": "2026-07-11T01:00:19.000Z",
+        "edit_history_tweet_ids": [
+          "2075746975404994783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075746975404994783",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075733896273203671",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 本来用的大疆mini，老是要充电，太麻烦了。后来找了一个type-c口的earpods，直接放在桌子上，桌子看起来凌乱了，但这有线耳机收音效果也很好，很可靠，轻度使用绰绰有余了。"
+      },
+      {
+        "author_id": "1590985682440179713",
+        "conversation_id": "2075733896273203671",
+        "created_at": "2026-07-11T00:43:54.000Z",
+        "edit_history_tweet_ids": [
+          "2075742845139603641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075742845139603641",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075733896273203671",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 请问用的是那个语音输入法呢？"
+      },
+      {
+        "author_id": "22938360",
+        "conversation_id": "2075425536256647278",
+        "created_at": "2026-07-10T12:06:27.000Z",
+        "edit_history_tweet_ids": [
+          "2075552228056949165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075552228056949165",
+        "in_reply_to_user_id": "368245720",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 873,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075425536256647278",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky Ultra 3 系列尾号是 8 的才是真旗舰 Arc GPU"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2075551534876889089"
+          ]
+        },
+        "author_id": "2353399482",
+        "conversation_id": "2075425536256647278",
+        "created_at": "2026-07-10T12:03:43.000Z",
+        "edit_history_tweet_ids": [
+          "2075551541130670546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEsHWWokVG",
+              "end": 39,
+              "expanded_url": "https://x.com/0xSidlly/status/2075551541130670546/photo/1",
+              "media_key": "3_2075551534876889089",
+              "start": 16,
+              "url": "https://t.co/kEsHWWokVG"
+            }
+          ]
+        },
+        "id": "2075551541130670546",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075425536256647278",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 嘿嘿刚买同款 https://t.co/kEsHWWokVG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2075513784542826496"
+          ]
+        },
+        "author_id": "1135007852739743746",
+        "conversation_id": "2075514622913008026",
+        "created_at": "2026-07-10T09:37:01.000Z",
+        "edit_history_tweet_ids": [
+          "2075514622913008026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "RETURN & REFUND POLICY ★Who needs to bear the tariffs themselves?★ Mouse Driver :  www.mouse.xyz  、www.mouse.fit  、www.mouse.中国 🐺 Introducing the G-Wolves HTX Mini Asym 8K Wireless Gaming Mouse 🎯 💡 Key Features✅  Engineered for Competitive Performance Designed with an ergonomic asymmetrical shape for lasting comfort, natural hand support, and precise control. Combined with flagship wireless technology to deliver uncompromising speed, accuracy, and responsiveness. ⸻ FEATURES ~25.81g Ultralight Optimized mass distribution for lower inertia, faster acceleration, and reduced fatigue. Ergonomic Asymmetrical Shape Designed to naturally support the hand, enhancing comfort, stability, and control during extended gaming sessions. PixArt PAW3955 Flagship optical sensor delivering exceptional tracking accuracy, high IPS. Nordic 54L MCU High-performance wireless architecture engineered for ultra-low latency, stable connectivity, and efficient power management. Dual 8K Polling Up to 8000Hz polli",
+              "display_url": "shop.g-wolves.com/products/htx-m…",
+              "end": 227,
+              "expanded_url": "https://shop.g-wolves.com/products/htx-mini-asym",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2075514666294648832/3VMy5uNk?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2075514666294648832/3VMy5uNk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 204,
+              "status": 200,
+              "title": "G-Wolves HTX Mini Asym 8K Wireless Gaming Mouse,~25.8g (Including duties and taxes)Pre-release stage",
+              "unwound_url": "https://shop.g-wolves.com/products/htx-mini-asym",
+              "url": "https://t.co/zdfb2zAnIq"
+            },
+            {
+              "display_url": "pic.x.com/4Z6VK3JqKt",
+              "end": 300,
+              "expanded_url": "https://x.com/g_wolves/status/2075514622913008026/photo/1",
+              "media_key": "3_2075513784542826496",
+              "start": 277,
+              "url": "https://t.co/4Z6VK3JqKt"
+            }
+          ]
+        },
+        "id": "2075514622913008026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 553,
+                "start": 541,
+                "tag": "HTXMiniAsym"
+              },
+              {
+                "end": 562,
+                "start": 554,
+                "tag": "GWolves"
+              },
+              {
+                "end": 575,
+                "start": 563,
+                "tag": "GamingMouse"
+              },
+              {
+                "end": 580,
+                "start": 576,
+                "tag": "FPS"
+              },
+              {
+                "end": 589,
+                "start": 581,
+                "tag": "Esports"
+              },
+              {
+                "end": 606,
+                "start": 590,
+                "tag": "UltralightMouse"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shop.g-wolves.com/products/htx-m…",
+                "end": 227,
+                "expanded_url": "https://shop.g-wolves.com/products/htx-mini-asym",
+                "start": 204,
+                "url": "https://t.co/9lCwLvq6GI"
+              }
+            ]
+          },
+          "text": "HTX Mini Asym 8K Wireless Mouse ~25.8grams\n\nMeet the HTX Mini Asym — engineered for competitive performance with an ergonomic asymmetrical shape built for lasting comfort and confident control.\nBuy here:\nhttps://t.co/9lCwLvq6GI\nSpecs\n• ~25.81g Ultralight\n• 107.5 × 60.4 × 34.4 mm\n• PixArt PAW3955\n• Nordic 54L MCU\n• Dual 8K Polling\n• Carbon Rod Reinforcement\n\nPricing\n⚡ Blind Buy — $109\n🚀 Pre-order — $134\n🛒 Retail — $159\n\nKey Dates\n📅 Blind Buy ends: July 23\n📅 Pre-order ends: September 23\n📦 Shipping begins: September 25\n\n✓ Jimbo Approved\n\n#HTXMiniAsym #GWolves #GamingMouse #FPS #Esports #UltralightMouse"
+        },
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 62261,
+          "like_count": 303,
+          "quote_count": 23,
+          "reply_count": 34,
+          "retweet_count": 35
+        },
+        "text": "HTX Mini Asym 8K Wireless Mouse ~25.8grams\n\nMeet the HTX Mini Asym — engineered for competitive performance with an ergonomic asymmetrical shape built for lasting comfort and confident control.\nBuy here:\nhttps://t.co/zdfb2zAnIq\nSpecs\n• ~25.81g Ultralight\n• 107.5 × 60.4 × 34.4 https://t.co/4Z6VK3JqKt"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "conversation_id": "2075476143600472150",
+        "created_at": "2026-07-10T07:04:07.000Z",
+        "edit_history_tweet_ids": [
+          "2075476143600472150"
+        ],
+        "id": "2075476143600472150",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3286,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "codex现在有一个好处是它快呀，这个克劳德也太慢了。"
+      },
+      {
+        "author_id": "277057625",
+        "conversation_id": "2075425536256647278",
+        "created_at": "2026-07-10T04:32:22.000Z",
+        "edit_history_tweet_ids": [
+          "2075437953426604301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075437953426604301",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075425536256647278",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky ThinkPad x1做工已经肉眼可见的退步了，感觉厂家都没啥追求了"
+      },
+      {
+        "author_id": "1701842230007492608",
+        "conversation_id": "2075411332346827203",
+        "created_at": "2026-07-10T02:46:35.000Z",
+        "edit_history_tweet_ids": [
+          "2075411332346827203"
+        ],
+        "id": "2075411332346827203",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2613,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "我成长了，我已经学会藏拙了🏋️"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2050480086168809472"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "2050480092846211529",
+        "created_at": "2026-05-02T07:38:44.000Z",
+        "edit_history_tweet_ids": [
+          "2050480092846211529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grbxv7FXHt",
+              "end": 90,
+              "expanded_url": "https://x.com/taresky/status/2050480092846211529/photo/1",
+              "media_key": "3_2050480086168809472",
+              "start": 67,
+              "url": "https://t.co/grbxv7FXHt"
+            }
+          ]
+        },
+        "id": "2050480092846211529",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 227018,
+          "like_count": 427,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 17
+        },
+        "text": "LG 的 Studio Display XDR 可以买了，售价连苹果牌的 1/3 都不要。\n\n说实话太便宜了，我原本以为苹果的半价。 https://t.co/grbxv7FXHt"
+      },
+      {
+        "author_id": "17185799",
+        "conversation_id": "2075425536256647278",
+        "created_at": "2026-07-10T03:47:31.000Z",
+        "edit_history_tweet_ids": [
+          "2075426666218938857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075426666218938857",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1378,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075425536256647278",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 诶，可以说说为什么吗？也在看这两个 Windows 选择～"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2075251055538147395",
+        "created_at": "2026-07-09T16:09:42.000Z",
+        "edit_history_tweet_ids": [
+          "2075251055538147395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "数码"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aliez_ren/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/aliez_ren/status/2075087307741557140",
+              "start": 60,
+              "url": "https://t.co/uwXePbN82U"
+            }
+          ]
+        },
+        "id": "2075251055538147395",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 52101,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075087307741557140",
+            "type": "quoted"
+          }
+        ],
+        "text": "#数码 \n\n买了同款，准备替换掉沉重的 Macbook Air \n\n在日本卖 7000，在中国卖 1 万，感觉赚了✌️ https://t.co/uwXePbN82U"
+      },
+      {
+        "author_id": "1608336380555591680",
+        "conversation_id": "2075251055538147395",
+        "created_at": "2026-07-09T22:49:22.000Z",
+        "edit_history_tweet_ids": [
+          "2075351634394447874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075351634394447874",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1453,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075251055538147395",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky T大，再等 3 个月就能买 RTX spark 芯片的笔记本了呀😭\n\n等等党一定会胜利，我忍着等买新货"
+      },
+      {
+        "author_id": "21855954",
+        "conversation_id": "2075280686446231815",
+        "created_at": "2026-07-09T18:25:42.000Z",
+        "edit_history_tweet_ids": [
+          "2075285278865174913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1649280169805479936",
+              "start": 0,
+              "username": "LaiskyCai"
+            }
+          ]
+        },
+        "id": "2075285278865174913",
+        "in_reply_to_user_id": "1649280169805479936",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075284411130814535",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@LaiskyCai 我2个号 99% 100%，本来都要睡觉了，赶紧卷起来"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2075087289466982400",
+            "3_2075087289349537792"
+          ]
+        },
+        "author_id": "2576683783",
+        "conversation_id": "2075087307741557140",
+        "created_at": "2026-07-09T05:19:02.000Z",
+        "edit_history_tweet_ids": [
+          "2075087307741557140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTXNDzOaNc",
+              "end": 68,
+              "expanded_url": "https://x.com/aliez_ren/status/2075087307741557140/photo/1",
+              "media_key": "3_2075087289466982400",
+              "start": 45,
+              "url": "https://t.co/GTXNDzOaNc"
+            },
+            {
+              "display_url": "pic.x.com/GTXNDzOaNc",
+              "end": 68,
+              "expanded_url": "https://x.com/aliez_ren/status/2075087307741557140/photo/2",
+              "media_key": "3_2075087289349537792",
+              "start": 45,
+              "url": "https://t.co/GTXNDzOaNc"
+            }
+          ]
+        },
+        "id": "2075087307741557140",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 71423,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "text": "买了个 DELL XPS 13 2026 16GB，感觉比Macbook neo 好很多 https://t.co/GTXNDzOaNc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2075214816726364160"
+          ]
+        },
+        "author_id": "753620595657486340",
+        "conversation_id": "2075198155315163432",
+        "created_at": "2026-07-09T13:45:48.000Z",
+        "edit_history_tweet_ids": [
+          "2075214842760458469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i024UvFPKj",
+              "end": 39,
+              "expanded_url": "https://x.com/Ethan_YYG/status/2075214842760458469/photo/1",
+              "media_key": "3_2075214816726364160",
+              "start": 16,
+              "url": "https://t.co/i024UvFPKj"
+            }
+          ]
+        },
+        "id": "2075214842760458469",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1543,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075198155315163432",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这不是美滋滋 https://t.co/i024UvFPKj"
+      },
+      {
+        "author_id": "260653171",
+        "conversation_id": "2074343851079413920",
+        "created_at": "2026-07-09T11:50:26.000Z",
+        "edit_history_tweet_ids": [
+          "2075185809758855562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2075185809758855562",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074343851079413920",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 以前医保可能是羊毛，现在有集采了，不再是羊毛了"
+      },
+      {
+        "author_id": "20484009",
+        "conversation_id": "2074744676645765187",
+        "created_at": "2026-07-08T06:37:32.000Z",
+        "edit_history_tweet_ids": [
+          "2074744676645765187"
+        ],
+        "id": "2074744676645765187",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 43863,
+          "like_count": 95,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "text": "昨天跟投资人聊天，给我讲：现在某些行业的AI创业项目，讲的还是要自己训练大模型，通过RAG干嘛，做一个chat bot。问今是何世，乃不知有agent，无论harness……"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2074830105856122880"
+          ]
+        },
+        "author_id": "736688383",
+        "conversation_id": "2074830257115263351",
+        "created_at": "2026-07-08T12:17:36.000Z",
+        "edit_history_tweet_ids": [
+          "2074830116220260598",
+          "2074830257115263351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 67,
+              "tag": "cybertruck"
+            },
+            {
+              "end": 88,
+              "start": 79,
+              "tag": "サイバートラック"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldfRKgXbhB",
+              "end": 112,
+              "expanded_url": "https://x.com/mieisgood/status/2074830257115263351/photo/1",
+              "media_key": "3_2074830105856122880",
+              "start": 89,
+              "url": "https://t.co/ldfRKgXbhB"
+            }
+          ]
+        },
+        "id": "2074830257115263351",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6876,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "text": "昨日Seattle→Vancouverを時速120kmで走って電費204.8Wh/kmだったんだけど、モデルXとあんまり変わらない✨\n#cybertruck #サイバートラック https://t.co/ldfRKgXbhB"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "4110021",
+        "name": "𝚡𝚒𝚗𝚣𝚑𝚒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912876745574981632/FxXLZaBi_normal.jpg",
+        "username": "xinzhi",
+        "verified": false
+      },
+      {
+        "id": "1076005934952898565",
+        "name": "whyes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433423083407245319/KFZoHCRW_normal.jpg",
+        "username": "whyeszhu",
+        "verified": false
+      },
+      {
+        "id": "1590985682440179713",
+        "name": "慈母守中线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879104408245719040/vHOL-9FT_normal.jpg",
+        "username": "1sheng2sheng3",
+        "verified": false
+      },
+      {
+        "id": "22938360",
+        "name": "kevinzhow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808138216585023490/xQ3u-b4x_normal.jpg",
+        "username": "kevinzhow",
+        "verified": false
+      },
+      {
+        "id": "2353399482",
+        "name": "Sid.𐤊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591808396528799745/YNm2p3K9_normal.jpg",
+        "username": "0xSidlly",
+        "verified": false
+      },
+      {
+        "id": "1135007852739743746",
+        "name": "G-wolves",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135013853756919808/SozCZny2_normal.jpg",
+        "username": "g_wolves",
+        "verified": false
+      },
+      {
+        "id": "1963434136145989634",
+        "name": "biantaishabi5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963473697949597696/QBk7CJiv_normal.jpg",
+        "username": "biantaishabi5",
+        "verified": false
+      },
+      {
+        "id": "277057625",
+        "name": "Vincent Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597288837587566592/3LV2-ooP_normal.jpg",
+        "username": "lunlunbear",
+        "verified": false
+      },
+      {
+        "id": "1701842230007492608",
+        "name": "AnqiRocks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115699835827585024/6zZ7hdb2_normal.jpg",
+        "username": "anqirocks27",
+        "verified": false
+      },
+      {
+        "id": "17185799",
+        "name": "Carlos Gong 🇽🇰 (it/it/its)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2119060718280699904/0LmteMJb_normal.jpg",
+        "username": "Carlos_Gong",
+        "verified": false
+      },
+      {
+        "id": "1608336380555591680",
+        "name": "小熊饼干 . var⛵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2115984308091666432/q4LAQJx5_normal.jpg",
+        "username": "Airdrop_Guard",
+        "verified": false
+      },
+      {
+        "id": "21855954",
+        "name": "CMGS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620065651552567299/jsDz8bjQ_normal.jpg",
+        "username": "CMGS1988",
+        "verified": false
+      },
+      {
+        "id": "753620595657486340",
+        "name": "Ethan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250338513469329408/QneQMAVo_normal.jpg",
+        "username": "Ethan_YYG",
+        "verified": false
+      },
+      {
+        "id": "260653171",
+        "name": "umi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833346441580056579/KLtW3fA__normal.jpg",
+        "username": "aezaumi",
+        "verified": false
+      },
+      {
+        "id": "736688383",
+        "name": "Mie🐑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112666593054654464/JYpelTji_normal.jpg",
+        "username": "mieisgood",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2075785590411501826",
+    "next_token": "b26v89c19zqg8o3juethzfpd956pziqtvpryqr6uiddod",
+    "oldest_id": "2075162590393888931",
+    "result_count": 25
+  },
+  "errors": []
+}

@@ -1,0 +1,2144 @@
+{
+  "collected_at_utc": "2026-11-25T00:38:39Z",
+  "collected_at_shanghai": "2026-11-25T08:38:39+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8827GV5R5BVGCETK3HNVWJR.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2025-12-01T00:00:00Z",
+    "end_time": "2026-01-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3jue8hgwgspl9jjqieyeo1510mgcdx9",
+    "window_label": "2025-12"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000811699981672813",
+      "created_at": "2025-12-16T15:38:15.000Z",
+      "edit_history_tweet_ids": [
+        "2000953629508026720"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1910811254509494274",
+            "start": 0,
+            "username": "corndogjpn2"
+          }
+        ]
+      },
+      "id": "2000953629508026720",
+      "in_reply_to_user_id": "1910811254509494274",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 230,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000950714668081437",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@corndogjpn2 哈哈，你不咋玩外设",
+      "url": "https://x.com/taresky/status/2000953629508026720"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000912201054667102",
+      "created_at": "2025-12-16T13:20:00.000Z",
+      "edit_history_tweet_ids": [
+        "2000918835319464428"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1184743584",
+            "start": 0,
+            "username": "ediephant"
+          }
+        ]
+      },
+      "id": "2000918835319464428",
+      "in_reply_to_user_id": "1184743584",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 248,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000912201054667102",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ediephant 躲过了暴跌 -99%",
+      "url": "https://x.com/taresky/status/2000918835319464428"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000918473103581440",
+      "created_at": "2025-12-16T13:18:33.000Z",
+      "edit_history_tweet_ids": [
+        "2000918473103581440"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 164,
+            "expanded_url": "https://twitter.com/taresky/status/1964003832591003721",
+            "start": 141,
+            "url": "https://t.co/t35orfIWbE"
+          }
+        ]
+      },
+      "id": "2000918473103581440",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "AI"
+            }
+          ]
+        },
+        "text": "#AI \n\n某种程度上，AI 语音输入法的竞争已经结束了，还没卖产品拿融资的应该尽快。\n\n有两种模式：\n\n1. Spokenly 这类全功能客户端（免费用户自接第三方 API 或者本地模型，付费用户可免配置体验良好）\n\n现在每个月，最好的语音识别模型都在变化，这是唯一合理的形态。\n\n当模型继续增强到某一个节点，免费的模型已经非常好的那天。\n\n就会只剩下\n\n2. Apple/Google 语音输入法、豆包/微信语音输入法。\n\n前者这些全功能客户端，从大众 AI 新玩具，变成小众领域的产品。\n\n付费用户越来越少，能活一两个就不错了。"
+      },
+      "public_metrics": {
+        "bookmark_count": 44,
+        "impression_count": 71570,
+        "like_count": 38,
+        "quote_count": 2,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1964003832591003721",
+          "type": "quoted"
+        }
+      ],
+      "text": "#AI \n\n某种程度上，AI 语音输入法的竞争已经结束了，还没卖产品拿融资的应该尽快。\n\n有两种模式：\n\n1. Spokenly 这类全功能客户端（免费用户自接第三方 API 或者本地模型，付费用户可免配置体验良好）\n\n现在每个月，最好的语音识别模型都在变化，这是唯一合理的形态。 https://t.co/t35orfIWbE",
+      "url": "https://x.com/taresky/status/2000918473103581440"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000811699981672813",
+      "created_at": "2025-12-16T12:52:41.000Z",
+      "edit_history_tweet_ids": [
+        "2000911962499416332"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1910811254509494274",
+            "start": 0,
+            "username": "corndogjpn2"
+          }
+        ]
+      },
+      "id": "2000911962499416332",
+      "in_reply_to_user_id": "1910811254509494274",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1882,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000811699981672813",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@corndogjpn2 看看 hsk，世界 fps 鼠标之王，其实也是国产的。",
+      "url": "https://x.com/taresky/status/2000911962499416332"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000814064348655654",
+      "created_at": "2025-12-16T12:43:37.000Z",
+      "edit_history_tweet_ids": [
+        "2000909678180798908"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "2000909678180798908",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 632,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000814064348655654",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 没有你我都刷不到这些",
+      "url": "https://x.com/taresky/status/2000909678180798908"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000757846368248279",
+      "created_at": "2025-12-16T05:02:32.000Z",
+      "edit_history_tweet_ids": [
+        "2000793643662352793"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2576683783",
+            "start": 0,
+            "username": "aliez_ren"
+          },
+          {
+            "end": 18,
+            "id": "150497871",
+            "start": 11,
+            "username": "cr0ath"
+          },
+          {
+            "end": 27,
+            "id": "260653171",
+            "start": 19,
+            "username": "aezaumi"
+          },
+          {
+            "end": 35,
+            "id": "2652239532",
+            "start": 28,
+            "username": "Ledger"
+          }
+        ]
+      },
+      "id": "2000793643662352793",
+      "in_reply_to_user_id": "2576683783",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 907,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000792895574708521",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aliez_ren @cr0ath @aezaumi @Ledger 这东西是不是只有东京有。以及转运这个规程顺丰微信就能搞定吗？",
+      "url": "https://x.com/taresky/status/2000793643662352793"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000757846368248279",
+      "created_at": "2025-12-16T03:29:07.000Z",
+      "edit_history_tweet_ids": [
+        "2000770134152241158"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "150497871",
+            "start": 0,
+            "username": "cr0ath"
+          },
+          {
+            "end": 15,
+            "id": "2652239532",
+            "start": 8,
+            "username": "Ledger"
+          }
+        ]
+      },
+      "id": "2000770134152241158",
+      "in_reply_to_user_id": "150497871",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 544,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000762140702204322",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cr0ath @Ledger ledger 最新一代进步挺大的",
+      "url": "https://x.com/taresky/status/2000770134152241158"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000489202027581444",
+      "created_at": "2025-12-16T03:18:18.000Z",
+      "edit_history_tweet_ids": [
+        "2000767415236591968"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "16943437",
+            "start": 0,
+            "username": "ytzong"
+          }
+        ]
+      },
+      "id": "2000767415236591968",
+      "in_reply_to_user_id": "16943437",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 334,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000489202027581444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ytzong 卖出没有抹除？",
+      "url": "https://x.com/taresky/status/2000767415236591968"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000757846368248279",
+      "created_at": "2025-12-16T02:55:43.000Z",
+      "edit_history_tweet_ids": [
+        "2000761730427994225"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "150497871",
+            "start": 0,
+            "username": "cr0ath"
+          },
+          {
+            "end": 15,
+            "id": "2652239532",
+            "start": 8,
+            "username": "Ledger"
+          }
+        ]
+      },
+      "id": "2000761730427994225",
+      "in_reply_to_user_id": "150497871",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3578,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000757846368248279",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cr0ath @Ledger 哪买的，为什么买旧款啊",
+      "url": "https://x.com/taresky/status/2000761730427994225"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000490712450863451",
+      "created_at": "2025-12-16T01:32:49.000Z",
+      "edit_history_tweet_ids": [
+        "2000740868828094783"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          },
+          {
+            "end": 21,
+            "id": "1788105353525329920",
+            "start": 9,
+            "username": "TobyAtLarge"
+          }
+        ]
+      },
+      "id": "2000740868828094783",
+      "in_reply_to_user_id": "282522910",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 320,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000739948765511941",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo @TobyAtLarge 日本的",
+      "url": "https://x.com/taresky/status/2000740868828094783"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000490712450863451",
+      "created_at": "2025-12-16T01:27:48.000Z",
+      "edit_history_tweet_ids": [
+        "2000739603419160866"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          },
+          {
+            "end": 21,
+            "id": "1788105353525329920",
+            "start": 9,
+            "username": "TobyAtLarge"
+          }
+        ]
+      },
+      "id": "2000739603419160866",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 354,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000738771398971693",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo @TobyAtLarge 说起来我这套好像涨了",
+      "url": "https://x.com/taresky/status/2000739603419160866"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000490712450863451",
+      "created_at": "2025-12-16T01:23:55.000Z",
+      "edit_history_tweet_ids": [
+        "2000738626637062497"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          },
+          {
+            "end": 21,
+            "id": "1788105353525329920",
+            "start": 9,
+            "username": "TobyAtLarge"
+          }
+        ]
+      },
+      "id": "2000738626637062497",
+      "in_reply_to_user_id": "282522910",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 154,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000493288651186602",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo @TobyAtLarge 28-29 的不服",
+      "url": "https://x.com/taresky/status/2000738626637062497"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T15:29:33.000Z",
+      "edit_history_tweet_ids": [
+        "2000589052689678442"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 48,
+            "expanded_url": "https://x.com/taresky/status/1746826393076527394?s=20",
+            "start": 25,
+            "url": "https://t.co/TZFB8dd9xV"
+          }
+        ]
+      },
+      "id": "2000589052689678442",
+      "in_reply_to_user_id": "1785998703767199744",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1206,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1746826393076527394",
+          "type": "quoted"
+        },
+        {
+          "id": "2000587665301762363",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CryptoNE0_ 我 22 年组了一台这款。https://t.co/TZFB8dd9xV",
+      "url": "https://x.com/taresky/status/2000589052689678442"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000504392198283595",
+      "created_at": "2025-12-15T10:05:48.000Z",
+      "edit_history_tweet_ids": [
+        "2000507577260732901"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 5,
+            "id": "6285822",
+            "start": 0,
+            "username": "sxzz"
+          }
+        ]
+      },
+      "id": "2000507577260732901",
+      "in_reply_to_user_id": "6285822",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1900,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000504392198283595",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sxzz 不可燃垃圾",
+      "url": "https://x.com/taresky/status/2000507577260732901"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T08:43:16.000Z",
+      "edit_history_tweet_ids": [
+        "2000486804685005286"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "42352056",
+            "start": 0,
+            "username": "turingou"
+          }
+        ]
+      },
+      "id": "2000486804685005286",
+      "in_reply_to_user_id": "42352056",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1434,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000484045114032206",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@turingou 对的，这个系列是根据成品显卡反向设计的机箱，所以只比显卡大一点。",
+      "url": "https://x.com/taresky/status/2000486804685005286"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T08:31:57.000Z",
+      "edit_history_tweet_ids": [
+        "2000483958786777248"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "42352056",
+            "start": 0,
+            "username": "turingou"
+          }
+        ]
+      },
+      "id": "2000483958786777248",
+      "in_reply_to_user_id": "42352056",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2739,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000483626296004608",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@turingou 哈哈我就是不想装机了，尤其是 ITX。买的组装完毕的整机。",
+      "url": "https://x.com/taresky/status/2000483958786777248"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000399083660624216",
+      "created_at": "2025-12-15T07:32:34.000Z",
+      "edit_history_tweet_ids": [
+        "2000469012237738411"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "825399047556960257",
+            "start": 0,
+            "username": "SimonJP404"
+          }
+        ]
+      },
+      "id": "2000469012237738411",
+      "in_reply_to_user_id": "825399047556960257",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2309,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000399083660624216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SimonJP404 新版有啥区别",
+      "url": "https://x.com/taresky/status/2000469012237738411"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T06:49:27.000Z",
+      "edit_history_tweet_ids": [
+        "2000458163825582183"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1585489600608604160",
+            "start": 0,
+            "username": "shuimudianxin"
+          }
+        ]
+      },
+      "id": "2000458163825582183",
+      "in_reply_to_user_id": "1585489600608604160",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 196,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000456577116242111",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@shuimudianxin 打游戏差不多够了",
+      "url": "https://x.com/taresky/status/2000458163825582183"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T06:38:30.000Z",
+      "edit_history_tweet_ids": [
+        "2000455407970717847"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "2000455407970717847",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 936,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000452157657792998",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 对的，我之前买的 ff04 系列也是，想做的完美需要厂商配合😆",
+      "url": "https://x.com/taresky/status/2000455407970717847"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T06:23:47.000Z",
+      "edit_history_tweet_ids": [
+        "2000451705797025847"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "2000451705797025847",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2355,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000449910689366447",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 我选了不带 d 的，反正也不方便保修",
+      "url": "https://x.com/taresky/status/2000451705797025847"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T05:55:10.000Z",
+      "edit_history_tweet_ids": [
+        "2000444500540625057"
+      ],
+      "id": "2000444500540625057",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 11905,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000443356946854292",
+          "type": "replied_to"
+        }
+      ],
+      "text": "这次购买的店铺是 喜欢就买 justbuy 的测评官方店，看了很多期视频，算是回馈一下。",
+      "url": "https://x.com/taresky/status/2000444500540625057"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000371214305653092",
+      "created_at": "2025-12-15T05:53:45.000Z",
+      "edit_history_tweet_ids": [
+        "2000444145572413478"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1518610678784749568",
+            "start": 0,
+            "username": "mattecho233"
+          }
+        ]
+      },
+      "id": "2000444145572413478",
+      "in_reply_to_user_id": "1518610678784749568",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 312,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000442741550199200",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mattecho233 x3D 系列打游戏压力还可以",
+      "url": "https://x.com/taresky/status/2000444145572413478"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2000443351913644033",
+          "3_2000443351901020160"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2000443356946854292",
+      "created_at": "2025-12-15T05:50:37.000Z",
+      "edit_history_tweet_ids": [
+        "2000443356946854292"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "数码"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/EPdr6xsSnT",
+            "end": 87,
+            "expanded_url": "https://x.com/taresky/status/2000443356946854292/photo/1",
+            "media_key": "3_2000443351913644033",
+            "start": 64,
+            "url": "https://t.co/EPdr6xsSnT"
+          },
+          {
+            "display_url": "pic.x.com/EPdr6xsSnT",
+            "end": 87,
+            "expanded_url": "https://x.com/taresky/status/2000443356946854292/photo/2",
+            "media_key": "3_2000443351901020160",
+            "start": 64,
+            "url": "https://t.co/EPdr6xsSnT"
+          }
+        ]
+      },
+      "id": "2000443356946854292",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 65,
+        "impression_count": 50203,
+        "like_count": 94,
+        "quote_count": 1,
+        "reply_count": 22,
+        "retweet_count": 3
+      },
+      "text": "#数码 \n\n买了一套 FF07 ITX 整机，9800X3D + 5090。\n\n好像 itx 机箱可以一直用厂长家的了，真好。 https://t.co/EPdr6xsSnT",
+      "url": "https://x.com/taresky/status/2000443356946854292"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000370732937961830",
+      "created_at": "2025-12-15T01:11:52.000Z",
+      "edit_history_tweet_ids": [
+        "2000373209443795123"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1452161491717656579",
+            "start": 0,
+            "username": "luozxdotorg"
+          }
+        ]
+      },
+      "id": "2000373209443795123",
+      "in_reply_to_user_id": "1452161491717656579",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 277,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2000371341191741882",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@luozxdotorg watch 闲置了",
+      "url": "https://x.com/taresky/status/2000373209443795123"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2000371214305653092",
+      "created_at": "2025-12-15T01:03:57.000Z",
+      "edit_history_tweet_ids": [
+        "2000371214305653092"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "数码"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 111,
+            "expanded_url": "https://twitter.com/taresky/status/1806660529110577289",
+            "start": 88,
+            "url": "https://t.co/ZMh3hMcm7s"
+          }
+        ]
+      },
+      "id": "2000371214305653092",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 12695,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806660529110577289",
+          "type": "quoted"
+        }
+      ],
+      "text": "#数码 \n\n最近玩三角洲比较多，是不是该弄个 9800X3D + 5090 了？\n\nXIKII INDUSTRY FF04 这套整机实在是非常满意，正好现在有 FF07 了。 https://t.co/ZMh3hMcm7s",
+      "url": "https://x.com/taresky/status/2000371214305653092"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1910811254509494274",
+        "conversation_id": "2000811699981672813",
+        "created_at": "2025-12-16T15:26:40.000Z",
+        "edit_history_tweet_ids": [
+          "2000950714668081437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000950714668081437",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000911962499416332",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我感觉只要是侧面丝印Logo都是一个供应链出来的产品。"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1964001949516222738",
+        "created_at": "2025-09-05T16:32:57.000Z",
+        "edit_history_tweet_ids": [
+          "1964003832591003721"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "AI"
+            }
+          ]
+        },
+        "id": "1964003832591003721",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 36038,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964001949516222738",
+            "type": "replied_to"
+          }
+        ],
+        "text": "#AI \n\nAI客户端的竞争很残酷。\n\nMacWhisper 从最好的 AI 语音转换工具, 到没有什么竞争力，大概也就一两个月的时间。在我为之付费的时候已经想到了这一点\n\n目前最好的产品是 Spokenly，尤其是你不用付费，使用自己申请的 API 额度也就足够了。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2000809607376289792"
+          ]
+        },
+        "author_id": "1910811254509494274",
+        "conversation_id": "2000811699981672813",
+        "created_at": "2025-12-16T06:14:17.000Z",
+        "edit_history_tweet_ids": [
+          "2000811699981672813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Z7EolBwM8",
+              "end": 193,
+              "expanded_url": "https://x.com/corndogjpn2/status/2000811699981672813/photo/1",
+              "media_key": "3_2000809607376289792",
+              "start": 170,
+              "url": "https://t.co/9Z7EolBwM8"
+            }
+          ]
+        },
+        "id": "2000811699981672813",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 64520,
+          "like_count": 230,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 10
+        },
+        "text": "我宣布**今年是国产鼠标年**，理由如下：\n- 国产鼠标可以让你在网购时直接按模具大小买一排，因为CNY 99一个。\n- 50克重，完胜MX Master 150克\n- 网页驱动，不需要装该死的Options（但没无限滚轮需装Mouse FIx弥补但后者不泄漏内存）\n- DPI和轮询都完胜Master，我不打游戏但4K屏也需要一点点性能 https://t.co/9Z7EolBwM8"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2000814064348655654",
+        "created_at": "2025-12-16T06:23:40.000Z",
+        "edit_history_tweet_ids": [
+          "2000814064348655654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kaguya_hoshino…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/kaguya_hoshino/status/2000612266044170407",
+              "start": 46,
+              "url": "https://t.co/PCbwbPI59e"
+            }
+          ]
+        },
+        "id": "2000814064348655654",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8753,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000612266044170407",
+            "type": "quoted"
+          }
+        ],
+        "text": "问题1️⃣：这又是哪个抠脚大哥起的流量号啊？\n\n问题2️⃣：怎么你们还那么多人 fo 啊？ https://t.co/PCbwbPI59e"
+      },
+      {
+        "author_id": "2576683783",
+        "conversation_id": "2000757846368248279",
+        "created_at": "2025-12-16T04:59:33.000Z",
+        "edit_history_tweet_ids": [
+          "2000792895574708521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "150497871",
+              "start": 0,
+              "username": "cr0ath"
+            },
+            {
+              "end": 16,
+              "id": "260653171",
+              "start": 8,
+              "username": "aezaumi"
+            },
+            {
+              "end": 24,
+              "id": "2652239532",
+              "start": 17,
+              "username": "Ledger"
+            }
+          ]
+        },
+        "id": "2000792895574708521",
+        "in_reply_to_user_id": "150497871",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 421,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000787277879111719",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cr0ath @aezaumi @Ledger 我现在是下到中国顺丰代收点，再转运到日本的顺丰智能柜"
+      },
+      {
+        "author_id": "150497871",
+        "conversation_id": "2000757846368248279",
+        "created_at": "2025-12-16T02:57:21.000Z",
+        "edit_history_tweet_ids": [
+          "2000762140702204322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 16,
+              "id": "2652239532",
+              "start": 9,
+              "username": "Ledger"
+            }
+          ]
+        },
+        "id": "2000762140702204322",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 969,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000761730427994225",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @Ledger amazon，我看是官方贩售的\n因为想买个小的便携的试试\n有 onekey 新款\n但是主力也在用旧款\n觉得方便"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2000757666961092608"
+          ]
+        },
+        "author_id": "150497871",
+        "conversation_id": "2000757846368248279",
+        "created_at": "2025-12-16T02:40:17.000Z",
+        "edit_history_tweet_ids": [
+          "2000757846368248279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2652239532",
+              "start": 4,
+              "username": "Ledger"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrYbUQLOzB",
+              "end": 70,
+              "expanded_url": "https://x.com/cr0ath/status/2000757846368248279/video/1",
+              "media_key": "13_2000757666961092608",
+              "start": 47,
+              "url": "https://t.co/CrYbUQLOzB"
+            }
+          ]
+        },
+        "id": "2000757846368248279",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15533,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "text": "新买的 @Ledger 硬件钱包好像被人用过了。。。\n大家看看到底是新的还是被人拆过了。。。 https://t.co/CrYbUQLOzB"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2000490712450863451",
+        "created_at": "2025-12-16T01:29:10.000Z",
+        "edit_history_tweet_ids": [
+          "2000739948765511941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 21,
+              "id": "1788105353525329920",
+              "start": 9,
+              "username": "TobyAtLarge"
+            }
+          ]
+        },
+        "id": "2000739948765511941",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 439,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000739603419160866",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @TobyAtLarge 日本那套还是国内那套"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2000490712450863451",
+        "created_at": "2025-12-16T01:24:29.000Z",
+        "edit_history_tweet_ids": [
+          "2000738771398971693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 21,
+              "id": "1788105353525329920",
+              "start": 9,
+              "username": "TobyAtLarge"
+            }
+          ]
+        },
+        "id": "2000738771398971693",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000738626637062497",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @TobyAtLarge 哈哈，不买的最聪明"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2000490712450863451",
+        "created_at": "2025-12-15T09:09:02.000Z",
+        "edit_history_tweet_ids": [
+          "2000493288651186602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1788105353525329920",
+              "start": 0,
+              "username": "TobyAtLarge"
+            }
+          ]
+        },
+        "id": "2000493288651186602",
+        "in_reply_to_user_id": "1788105353525329920",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2486,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000490712450863451",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TobyAtLarge 26-27 的比较聪明"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2000587659765592064"
+          ]
+        },
+        "author_id": "1785998703767199744",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T15:24:03.000Z",
+        "edit_history_tweet_ids": [
+          "2000587665301762363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZC2qMzK99",
+              "end": 60,
+              "expanded_url": "https://x.com/CryptoNE0_/status/2000587665301762363/photo/1",
+              "media_key": "3_2000587659765592064",
+              "start": 37,
+              "url": "https://t.co/1ZC2qMzK99"
+            }
+          ]
+        },
+        "id": "2000587665301762363",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1047,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000443356946854292",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky ITX适合冬季取暖，我选择分形工艺EATX适合夏季乘凉 https://t.co/1ZC2qMzK99"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1746825283121053696",
+            "3_1746826225484713984"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1660283076369616896",
+        "created_at": "2024-01-15T09:27:21.000Z",
+        "edit_history_tweet_ids": [
+          "1746826393076527394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "taresky.com/gaming-pc-2022",
+              "end": 85,
+              "expanded_url": "https://taresky.com/gaming-pc-2022",
+              "start": 62,
+              "status": 200,
+              "unwound_url": "https://taresky.com/gaming-pc-2022",
+              "url": "https://t.co/6uf1g8Y1UF"
+            },
+            {
+              "display_url": "pic.x.com/R2pQvsBUbG",
+              "end": 126,
+              "expanded_url": "https://x.com/taresky/status/1746826393076527394/photo/1",
+              "media_key": "3_1746825283121053696",
+              "start": 103,
+              "url": "https://t.co/R2pQvsBUbG"
+            },
+            {
+              "display_url": "pic.x.com/R2pQvsBUbG",
+              "end": 126,
+              "expanded_url": "https://x.com/taresky/status/1746826393076527394/photo/2",
+              "media_key": "3_1746826225484713984",
+              "start": 103,
+              "url": "https://t.co/R2pQvsBUbG"
+            }
+          ]
+        },
+        "id": "1746826393076527394",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "taresky.com/gaming-pc-2022",
+                "end": 85,
+                "expanded_url": "https://taresky.com/gaming-pc-2022",
+                "start": 62,
+                "url": "https://t.co/KaCby2jbCW"
+              }
+            ]
+          },
+          "text": "01/15 - 新增 RTX4090 游戏主机一台，暂定 21150。\n\n一台美丽、合理、强大的风冷主机，之前写了博客介绍：https://t.co/KaCby2jbCW\n\n只出整机，上海 / 嘉兴自提。"
+        },
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9025,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1746770848718221458",
+            "type": "replied_to"
+          }
+        ],
+        "text": "01/15 - 新增 RTX4090 游戏主机一台，暂定 21150。\n\n一台美丽、合理、强大的风冷主机，之前写了博客介绍：https://t.co/6uf1g8Y1UF\n\n只出整机，上海 / 嘉兴自提。 https://t.co/R2pQvsBUbG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2000504383533174784",
+            "3_2000504383541587968",
+            "3_2000504383541477376",
+            "3_2000504383549972480"
+          ]
+        },
+        "author_id": "6285822",
+        "conversation_id": "2000504392198283595",
+        "created_at": "2025-12-15T09:53:09.000Z",
+        "edit_history_tweet_ids": [
+          "2000504392198283595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWEBkWVE0Q",
+              "end": 84,
+              "expanded_url": "https://x.com/sxzz/status/2000504392198283595/photo/1",
+              "media_key": "3_2000504383533174784",
+              "start": 61,
+              "url": "https://t.co/HWEBkWVE0Q"
+            },
+            {
+              "display_url": "pic.x.com/HWEBkWVE0Q",
+              "end": 84,
+              "expanded_url": "https://x.com/sxzz/status/2000504392198283595/photo/2",
+              "media_key": "3_2000504383541587968",
+              "start": 61,
+              "url": "https://t.co/HWEBkWVE0Q"
+            },
+            {
+              "display_url": "pic.x.com/HWEBkWVE0Q",
+              "end": 84,
+              "expanded_url": "https://x.com/sxzz/status/2000504392198283595/photo/3",
+              "media_key": "3_2000504383541477376",
+              "start": 61,
+              "url": "https://t.co/HWEBkWVE0Q"
+            },
+            {
+              "display_url": "pic.x.com/HWEBkWVE0Q",
+              "end": 84,
+              "expanded_url": "https://x.com/sxzz/status/2000504392198283595/photo/4",
+              "media_key": "3_2000504383549972480",
+              "start": 61,
+              "url": "https://t.co/HWEBkWVE0Q"
+            }
+          ]
+        },
+        "id": "2000504392198283595",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5287,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "text": "收拾屋子翻出来个当年最好用的 iPhone dock，可惜现在手机都太大，放不进去了。\n这种过时的好东西你们都怎么处理？ https://t.co/HWEBkWVE0Q"
+      },
+      {
+        "author_id": "42352056",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T08:32:18.000Z",
+        "edit_history_tweet_ids": [
+          "2000484045114032206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000484045114032206",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1737,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000483958786777248",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我靠这个装完了这么小…牛逼啊"
+      },
+      {
+        "author_id": "42352056",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T08:30:38.000Z",
+        "edit_history_tweet_ids": [
+          "2000483626296004608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000483626296004608",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7762,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000443356946854292",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 水冷特别得注意…不然塞不进去😂😂"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2000398425284829184"
+          ]
+        },
+        "author_id": "825399047556960257",
+        "conversation_id": "2000399083660624216",
+        "created_at": "2025-12-15T02:54:41.000Z",
+        "edit_history_tweet_ids": [
+          "2000399083660624216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 79,
+              "tag": "BybitCard"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hkFvh6pdjS",
+              "end": 113,
+              "expanded_url": "https://x.com/SimonJP404/status/2000399083660624216/photo/1",
+              "media_key": "3_2000398425284829184",
+              "start": 90,
+              "url": "https://t.co/hkFvh6pdjS"
+            }
+          ]
+        },
+        "id": "2000399083660624216",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5205,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "收到 Bybit Card 实体卡了🎉三天就从波兰用DHL邮寄到家了\n\n这次申请的是新版亚太卡，感觉质感还可以，没有网上说的那么烂😂现在可以愉快的刷刷刷了\n\n#BybitCard https://t.co/hkFvh6pdjS"
+      },
+      {
+        "author_id": "1585489600608604160",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T06:43:09.000Z",
+        "edit_history_tweet_ids": [
+          "2000456577116242111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000456577116242111",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000444500540625057",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 散热没问题吗？下压式风扇感觉有点危险。"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T06:25:35.000Z",
+        "edit_history_tweet_ids": [
+          "2000452157657792998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000452157657792998",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1037,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000451705797025847",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 他这个机箱和显卡的四角弧度刚好一样，有点意思，是专门为这个系列的显卡量身定做的吗"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T06:16:39.000Z",
+        "edit_history_tweet_ids": [
+          "2000449910689366447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000449910689366447",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2816,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000443356946854292",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 诶诶诶，看了下，配置八十 5090D？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2000443351913644033",
+            "3_2000443351901020160"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "2000443356946854292",
+        "created_at": "2025-12-15T05:50:37.000Z",
+        "edit_history_tweet_ids": [
+          "2000443356946854292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "数码"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPdr6xsSnT",
+              "end": 87,
+              "expanded_url": "https://x.com/taresky/status/2000443356946854292/photo/1",
+              "media_key": "3_2000443351913644033",
+              "start": 64,
+              "url": "https://t.co/EPdr6xsSnT"
+            },
+            {
+              "display_url": "pic.x.com/EPdr6xsSnT",
+              "end": 87,
+              "expanded_url": "https://x.com/taresky/status/2000443356946854292/photo/2",
+              "media_key": "3_2000443351901020160",
+              "start": 64,
+              "url": "https://t.co/EPdr6xsSnT"
+            }
+          ]
+        },
+        "id": "2000443356946854292",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 50203,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "text": "#数码 \n\n买了一套 FF07 ITX 整机，9800X3D + 5090。\n\n好像 itx 机箱可以一直用厂长家的了，真好。 https://t.co/EPdr6xsSnT"
+      },
+      {
+        "author_id": "1518610678784749568",
+        "conversation_id": "2000371214305653092",
+        "created_at": "2025-12-15T05:48:10.000Z",
+        "edit_history_tweet_ids": [
+          "2000442741550199200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000442741550199200",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000371214305653092",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这个系列设计的确实很巧妙，但cpu下压散热无法接受。来自 3950x 下压安装受害者🙄"
+      },
+      {
+        "author_id": "1452161491717656579",
+        "conversation_id": "2000370732937961830",
+        "created_at": "2025-12-15T01:04:27.000Z",
+        "edit_history_tweet_ids": [
+          "2000371341191741882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2000371341191741882",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000370732937961830",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这个戒指好像和Apple Watch的检测内容都是重合的？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806659870369955840",
+            "3_1806659976620122112"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1806660529110577289",
+        "created_at": "2024-06-28T12:06:50.000Z",
+        "edit_history_tweet_ids": [
+          "1806660529110577289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "数码"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVdcces0QE",
+              "end": 110,
+              "expanded_url": "https://x.com/taresky/status/1806660529110577289/photo/1",
+              "media_key": "3_1806659870369955840",
+              "start": 87,
+              "url": "https://t.co/qVdcces0QE"
+            },
+            {
+              "display_url": "pic.x.com/qVdcces0QE",
+              "end": 110,
+              "expanded_url": "https://x.com/taresky/status/1806660529110577289/photo/2",
+              "media_key": "3_1806659976620122112",
+              "start": 87,
+              "url": "https://t.co/qVdcces0QE"
+            }
+          ]
+        },
+        "id": "1806660529110577289",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 99302,
+          "like_count": 180,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 15
+        },
+        "text": "#数码\n\n入手了一台 XIKII INDUSTRY FF04  ProArt，近几年少有的 ITX 精品。\n\n这回不想折腾直接买的 7800X3D 整机，应该可以手提回来🤔 https://t.co/qVdcces0QE"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1910811254509494274",
+        "name": "goDavi（狗大V国际版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102661670653022209/Wvn281iP_normal.jpg",
+        "username": "corndogjpn2",
+        "verified": false
+      },
+      {
+        "id": "1184743584",
+        "name": "fluffypom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711003614339366914/erx0ebjF_normal.jpg",
+        "username": "ediephant",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      },
+      {
+        "id": "2576683783",
+        "name": "Aliez Ren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032458974470262785/ECR72V3E_normal.jpg",
+        "username": "aliez_ren",
+        "verified": false
+      },
+      {
+        "id": "150497871",
+        "name": "小鱼·币币机·AI | Croath",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913960437995237376/K7gOzw9t_normal.jpg",
+        "username": "cr0ath",
+        "verified": false
+      },
+      {
+        "id": "16943437",
+        "name": "ytzong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/896715517527957506/JjmG-_0b_normal.png",
+        "username": "ytzong",
+        "verified": false
+      },
+      {
+        "id": "1785998703767199744",
+        "name": "傀儡师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049045277441765376/chDHpjav_normal.png",
+        "username": "42PuppetMaster",
+        "verified": false
+      },
+      {
+        "id": "6285822",
+        "name": "老沙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101756070649856000/YwxuoQCl_normal.jpg",
+        "username": "sxzz",
+        "verified": false
+      },
+      {
+        "id": "42352056",
+        "name": "郭宇 guoyu.eth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+        "username": "turingou",
+        "verified": false
+      },
+      {
+        "id": "825399047556960257",
+        "name": "Simon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1359332433112436736/Ua21bLy6_normal.jpg",
+        "username": "SimonJP404",
+        "verified": false
+      },
+      {
+        "id": "1585489600608604160",
+        "name": "水母点心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586332675886940164/Kl66_O8I_normal.jpg",
+        "username": "shuimudianxin",
+        "verified": false
+      },
+      {
+        "id": "1518610678784749568",
+        "name": "马特萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518610756891078656/0rC6tEFd_normal.jpg",
+        "username": "mattecho233",
+        "verified": false
+      },
+      {
+        "id": "1452161491717656579",
+        "name": "Luozx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1525813887161221120/SQPkRAVg_normal.jpg",
+        "username": "luozxdotorg",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2000953629508026720",
+    "next_token": "b26v89c19zqg8o3jue8hgjp19wdpbyub2xxnsyzzrtn5p",
+    "oldest_id": "2000371214305653092",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000912201054667102].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000912201054667102",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2000912201054667102"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000489202027581444].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000489202027581444",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2000489202027581444"
+    }
+  ]
+}

@@ -1,0 +1,1590 @@
+{
+  "collected_at_utc": "2026-11-25T00:22:41Z",
+  "collected_at_shanghai": "2026-11-25T08:22:41+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M881A4MA7EJ89B3GBVMTHHVB.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2026-10-01T00:00:00Z",
+    "end_time": "2026-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzlxny5fuea1jndv83wkjsy4h6s1p",
+    "window_label": "2026-10"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115270493737824352",
+      "created_at": "2026-10-28T02:32:40.000Z",
+      "edit_history_tweet_ids": [
+        "2115270493737824352"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/bitfish/status…",
+            "end": 48,
+            "expanded_url": "https://twitter.com/bitfish/status/2114615697225711901",
+            "start": 25,
+            "url": "https://t.co/mqTwasXbD1"
+          }
+        ]
+      },
+      "id": "2115270493737824352",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 77,
+        "impression_count": 14336,
+        "like_count": 57,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114615697225711901",
+          "type": "quoted"
+        }
+      ],
+      "text": "#Crypto\n\n目前最全、最强的链上资产拾遗。 https://t.co/mqTwasXbD1",
+      "url": "https://x.com/taresky/status/2115270493737824352"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115257128978153633",
+      "created_at": "2026-10-28T01:39:33.000Z",
+      "edit_history_tweet_ids": [
+        "2115257128978153633"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "设计"
+          }
+        ]
+      },
+      "id": "2115257128978153633",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 28,
+        "impression_count": 11394,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "#设计 \n\n求一段 iOS、iPhone Duo UI 适配的提示词。\n\n让 AI 自己去看 Apple 官方的设计系统，改出来的还是七零八落，不够完整。",
+      "url": "https://x.com/taresky/status/2115257128978153633"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115104236522598480",
+      "created_at": "2026-10-27T15:52:31.000Z",
+      "edit_history_tweet_ids": [
+        "2115109394669261270"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "2115109394669261270",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1183,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115107991414546568",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 估计快了",
+      "url": "https://x.com/taresky/status/2115109394669261270"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115104236522598480",
+      "created_at": "2026-10-27T15:32:01.000Z",
+      "edit_history_tweet_ids": [
+        "2115104236522598480"
+      ],
+      "id": "2115104236522598480",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 14052,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "M5 Ultra 512G？\n\ntoken 肯定是没需求，Claude 100U 现在都足够用。\n\n破甲也几乎没用到。\n\n这东西价格已经超出买玩具的心理预算了。",
+      "url": "https://x.com/taresky/status/2115104236522598480"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114995826997198993",
+      "created_at": "2026-10-27T14:16:45.000Z",
+      "edit_history_tweet_ids": [
+        "2115085294475350428"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "704664429418278912",
+            "start": 0,
+            "username": "Tychoo7"
+          }
+        ]
+      },
+      "id": "2115085294475350428",
+      "in_reply_to_user_id": "704664429418278912",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 341,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115084675358330910",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Tychoo7 还有这种技巧啊，明年试试",
+      "url": "https://x.com/taresky/status/2115085294475350428"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115081159134920938",
+      "created_at": "2026-10-27T14:04:14.000Z",
+      "edit_history_tweet_ids": [
+        "2115082144909586544"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "333160596",
+            "start": 0,
+            "username": "qitalaiX"
+          }
+        ]
+      },
+      "id": "2115082144909586544",
+      "in_reply_to_user_id": "333160596",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 452,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115081159134920938",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@qitalaiX 酱油拌饭？",
+      "url": "https://x.com/taresky/status/2115082144909586544"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114878233862942723",
+      "created_at": "2026-10-27T14:02:40.000Z",
+      "edit_history_tweet_ids": [
+        "2115081751194435900"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1598317144533516295",
+            "start": 0,
+            "username": "daidaibtc"
+          }
+        ]
+      },
+      "id": "2115081751194435900",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 533,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@daidaibtc 不玩了，留在回忆里 🤣",
+      "url": "https://x.com/taresky/status/2115081751194435900"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115055811047440553",
+      "created_at": "2026-10-27T12:19:35.000Z",
+      "edit_history_tweet_ids": [
+        "2115055811047440553"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/markgurman/sta…",
+            "end": 40,
+            "expanded_url": "https://twitter.com/markgurman/status/2114815934125035852",
+            "start": 17,
+            "url": "https://t.co/5XqWLsqZZj"
+          }
+        ]
+      },
+      "id": "2115055811047440553",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 7170,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114815934125035852",
+          "type": "quoted"
+        }
+      ],
+      "text": "如果能做到 1kg，我就用苹果。 https://t.co/5XqWLsqZZj",
+      "url": "https://x.com/taresky/status/2115055811047440553"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2115043396008239104"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2114995826997198993",
+      "created_at": "2026-10-27T11:30:28.000Z",
+      "edit_history_tweet_ids": [
+        "2115043447501726076"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/SQSNXlNcjF",
+            "end": 35,
+            "expanded_url": "https://x.com/taresky/status/2115043447501726076/photo/1",
+            "media_key": "3_2115043396008239104",
+            "start": 12,
+            "url": "https://t.co/SQSNXlNcjF"
+          }
+        ]
+      },
+      "id": "2115043447501726076",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2098,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114995826997198993",
+          "type": "replied_to"
+        }
+      ],
+      "text": "13 分钟，浪费生命😭 https://t.co/SQSNXlNcjF",
+      "url": "https://x.com/taresky/status/2115043447501726076"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2115034555484963294",
+      "created_at": "2026-10-27T10:55:08.000Z",
+      "edit_history_tweet_ids": [
+        "2115034555484963294"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/muji_net/statu…",
+            "end": 60,
+            "expanded_url": "https://twitter.com/muji_net/status/2114658403553517987",
+            "start": 37,
+            "url": "https://t.co/YJDKQSezza"
+          }
+        ]
+      },
+      "id": "2115034555484963294",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 9550,
+        "like_count": 16,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114658403553517987",
+          "type": "quoted"
+        }
+      ],
+      "text": "十年前，小米推出了年轻人的第一款铝合金登机箱。\n\n确实，到今天还没坏 😂 https://t.co/YJDKQSezza",
+      "url": "https://x.com/taresky/status/2115034555484963294"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114995826997198993",
+      "created_at": "2026-10-27T08:21:14.000Z",
+      "edit_history_tweet_ids": [
+        "2114995826997198993"
+      ],
+      "id": "2114995826997198993",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 13534,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 0
+      },
+      "text": "2026 年了，汇丰换手机了绑 apple pay 还是要电话",
+      "url": "https://x.com/taresky/status/2114995826997198993"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114898337854075149",
+      "created_at": "2026-10-27T06:53:15.000Z",
+      "edit_history_tweet_ids": [
+        "2114973686398853183"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          },
+          {
+            "end": 16,
+            "id": "150497871",
+            "start": 9,
+            "username": "cr0ath"
+          }
+        ]
+      },
+      "id": "2114973686398853183",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 362,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114912509518074035",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo @cr0ath 被敲打了，你 tm 不能偷偷摸摸选吗！",
+      "url": "https://x.com/taresky/status/2114973686398853183"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114938477024522251",
+      "created_at": "2026-10-27T05:04:30.000Z",
+      "edit_history_tweet_ids": [
+        "2114946316036124978"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "987508360336424961",
+            "start": 0,
+            "username": "safaricheung"
+          }
+        ]
+      },
+      "id": "2114946316036124978",
+      "in_reply_to_user_id": "987508360336424961",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2372,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114938477024522251",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@safaricheung 这壳子挺好看的，感觉会沉",
+      "url": "https://x.com/taresky/status/2114946316036124978"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114909692720042321",
+      "created_at": "2026-10-27T03:18:00.000Z",
+      "edit_history_tweet_ids": [
+        "2114919516799172662"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "931029146",
+            "start": 0,
+            "username": "rex_404_"
+          }
+        ]
+      },
+      "id": "2114919516799172662",
+      "in_reply_to_user_id": "931029146",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 844,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114913239649996941",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rex_404_ 我是从 token manager 去看的，他这次把 S5 的领取入口放在第二列还是第三列，导致我之前没看着…",
+      "url": "https://x.com/taresky/status/2114919516799172662"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114909692720042321",
+      "created_at": "2026-10-27T03:17:06.000Z",
+      "edit_history_tweet_ids": [
+        "2114919289686016426"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1162798396756807680",
+            "start": 0,
+            "username": "zengjiajun_eth"
+          }
+        ]
+      },
+      "id": "2114919289686016426",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 738,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@zengjiajun_eth 没吧，只够买两台",
+      "url": "https://x.com/taresky/status/2114919289686016426"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114908849446813696"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2114909692720042321",
+      "created_at": "2026-10-27T02:38:58.000Z",
+      "edit_history_tweet_ids": [
+        "2114909692720042321"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/pqTXNXSAXd",
+            "end": 67,
+            "expanded_url": "https://x.com/taresky/status/2114909692720042321/photo/1",
+            "media_key": "3_2114908849446813696",
+            "start": 44,
+            "url": "https://t.co/pqTXNXSAXd"
+          }
+        ]
+      },
+      "id": "2114909692720042321",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 11592,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "#Crypto \n\nS5 完全没参与啊，可能是以前跨期 YT 的积分残值，捡钱了... https://t.co/pqTXNXSAXd",
+      "url": "https://x.com/taresky/status/2114909692720042321"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114878169459445760"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2114878233862942723",
+      "created_at": "2026-10-27T00:33:58.000Z",
+      "edit_history_tweet_ids": [
+        "2114878233862942723"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/vKRUUldz0s",
+            "end": 42,
+            "expanded_url": "https://x.com/taresky/status/2114878233862942723/photo/1",
+            "media_key": "3_2114878169459445760",
+            "start": 19,
+            "url": "https://t.co/vKRUUldz0s"
+          },
+          {
+            "display_url": "x.com/trq212/status/…",
+            "end": 66,
+            "expanded_url": "https://twitter.com/trq212/status/2113844051938054167",
+            "start": 43,
+            "url": "https://t.co/ghlrNhzgRa"
+          }
+        ]
+      },
+      "id": "2114878233862942723",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 8562,
+        "like_count": 17,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2113844051938054167",
+          "type": "quoted"
+        }
+      ],
+      "text": "笑死了，我们 WoWer 还是牛逼。 https://t.co/vKRUUldz0s https://t.co/ghlrNhzgRa",
+      "url": "https://x.com/taresky/status/2114878233862942723"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114762233343512876",
+      "created_at": "2026-10-26T16:53:01.000Z",
+      "edit_history_tweet_ids": [
+        "2114762233343512876"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 51,
+            "expanded_url": "https://twitter.com/taresky/status/1677940370334965760",
+            "start": 28,
+            "url": "https://t.co/R1Mj6XADVK"
+          }
+        ]
+      },
+      "id": "2114762233343512876",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 12771,
+        "like_count": 41,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1677940370334965760",
+          "type": "quoted"
+        }
+      ],
+      "text": "今天刷峰哥的大作，一下又把思绪带回城中村了。都不容易。 https://t.co/R1Mj6XADVK",
+      "url": "https://x.com/taresky/status/2114762233343512876"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114740703939211264"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2114740708481593757",
+      "created_at": "2026-10-26T15:27:29.000Z",
+      "edit_history_tweet_ids": [
+        "2114740708481593757"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/bI0YCwUiaw",
+            "end": 23,
+            "expanded_url": "https://x.com/taresky/status/2114740708481593757/photo/1",
+            "media_key": "3_2114740703939211264",
+            "start": 0,
+            "url": "https://t.co/bI0YCwUiaw"
+          }
+        ]
+      },
+      "id": "2114740708481593757",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10405,
+        "like_count": 19,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "https://t.co/bI0YCwUiaw",
+      "url": "https://x.com/taresky/status/2114740708481593757"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114675764461494275",
+      "created_at": "2026-10-26T13:19:53.000Z",
+      "edit_history_tweet_ids": [
+        "2114708595707379768"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "2002287469832908801",
+            "start": 0,
+            "username": "lunaritabeijing"
+          }
+        ]
+      },
+      "id": "2114708595707379768",
+      "in_reply_to_user_id": "2002287469832908801",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 682,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114707959494459809",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lunaritabeijing 这个不错。",
+      "url": "https://x.com/taresky/status/2114708595707379768"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114707493977022464"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2114707708012384403",
+      "created_at": "2026-10-26T13:16:21.000Z",
+      "edit_history_tweet_ids": [
+        "2114707708012384403"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/4C9yZX6tIR",
+            "end": 95,
+            "expanded_url": "https://x.com/taresky/status/2114707708012384403/photo/1",
+            "media_key": "3_2114707493977022464",
+            "start": 72,
+            "url": "https://t.co/4C9yZX6tIR"
+          }
+        ]
+      },
+      "id": "2114707708012384403",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 7635,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "#AI \n\nopus 5.5 并发极限也就是 133 tps 了？同时跑多个项目，明显感觉速度变慢了。\n\n除了多账号并发，还有什么提速办法吗🤔 https://t.co/4C9yZX6tIR",
+      "url": "https://x.com/taresky/status/2114707708012384403"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2114699702746963968"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2114700657920020868",
+      "created_at": "2026-10-26T12:48:20.000Z",
+      "edit_history_tweet_ids": [
+        "2114700657920020868"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "金融"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/TyJMk6t5JE",
+            "end": 182,
+            "expanded_url": "https://x.com/taresky/status/2114700657920020868/photo/1",
+            "media_key": "3_2114699702746963968",
+            "start": 159,
+            "url": "https://t.co/TyJMk6t5JE"
+          }
+        ]
+      },
+      "id": "2114700657920020868",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 14589,
+        "like_count": 49,
+        "quote_count": 0,
+        "reply_count": 8,
+        "retweet_count": 4
+      },
+      "text": "#金融 \n\n群里看到的，私募基金暴跌 70%，亏 7 个亿。\n\n那么回扣保守估计吃了 3 个亿？\n\n本质上基金经理和 meme 车头或者带单 KOL 是一回事。\n\n很多理财 KOL 一个劲博流量，做梦都想有一天能做上自己的私募。然后吃一波大的。\n\n人家装疯卖傻不是真傻，只要流量够大，总会有受众被提纯，总有信的傻逼。 https://t.co/TyJMk6t5JE",
+      "url": "https://x.com/taresky/status/2114700657920020868"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114666451479232703",
+      "created_at": "2026-10-26T12:35:52.000Z",
+      "edit_history_tweet_ids": [
+        "2114697519309705404"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "242605694",
+            "start": 0,
+            "username": "randyloop"
+          }
+        ]
+      },
+      "id": "2114697519309705404",
+      "in_reply_to_user_id": "242605694",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 913,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114696153216528549",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@randyloop 前两个是 AI 写的，第三个是 Fork Kevin 的仓库代码",
+      "url": "https://x.com/taresky/status/2114697519309705404"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2114681727536840969",
+      "created_at": "2026-10-26T12:21:15.000Z",
+      "edit_history_tweet_ids": [
+        "2114693840489906244"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "3399124639",
+            "start": 0,
+            "username": "xuanwo"
+          },
+          {
+            "end": 21,
+            "id": "765024874364477440",
+            "start": 8,
+            "username": "longfangsong"
+          }
+        ]
+      },
+      "id": "2114693840489906244",
+      "in_reply_to_user_id": "3399124639",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 204,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2114687966354518262",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xuanwo @longfangsong 得40万了吧。",
+      "url": "https://x.com/taresky/status/2114693840489906244"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "843686211264823298",
+        "conversation_id": "2114534138934186105",
+        "created_at": "2026-10-26T07:10:44.000Z",
+        "edit_history_tweet_ids": [
+          "2114615697225711901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Paste an Ethereum address. See whether old contracts are still holding funds for it, and how to take them back yourself.",
+              "display_url": "unlost.money",
+              "end": 27,
+              "expanded_url": "https://unlost.money/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2119708707265421312/UnpgtZFi?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2119708707265421312/UnpgtZFi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "unlost: money left on Ethereum that is still yours",
+              "unwound_url": "https://unlost.money/",
+              "url": "https://t.co/LQu97hrmzP"
+            }
+          ]
+        },
+        "id": "2114615697225711901",
+        "in_reply_to_user_id": "843686211264823298",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 34531,
+          "like_count": 117,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114534138934186105",
+            "type": "replied_to"
+          }
+        ],
+        "text": "网址是 https://t.co/LQu97hrmzP"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2115104236522598480",
+        "created_at": "2026-10-27T15:46:56.000Z",
+        "edit_history_tweet_ids": [
+          "2115107991414546568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2115107991414546568",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1725,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2115104236522598480",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 官网没有 512 了吧"
+      },
+      {
+        "author_id": "704664429418278912",
+        "conversation_id": "2114995826997198993",
+        "created_at": "2026-10-27T14:14:17.000Z",
+        "edit_history_tweet_ids": [
+          "2115084675358330910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2115084675358330910",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 333,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114995826997198993",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 切换成简易模式，然后选择帮助，致电。这样接听会比较快一点，接通后再切换回完整版。"
+      },
+      {
+        "author_id": "333160596",
+        "conversation_id": "2115081159134920938",
+        "created_at": "2026-10-27T14:00:19.000Z",
+        "edit_history_tweet_ids": [
+          "2115081159134920938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seavol_1/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/seavol_1/status/2114919960392966484",
+              "start": 3,
+              "url": "https://t.co/APPPLjNAki"
+            }
+          ]
+        },
+        "id": "2115081159134920938",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 651,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114919960392966484",
+            "type": "quoted"
+          }
+        ],
+        "text": "对。 https://t.co/APPPLjNAki"
+      },
+      {
+        "author_id": "15958614",
+        "conversation_id": "2114815934125035852",
+        "created_at": "2026-10-26T20:26:24.000Z",
+        "edit_history_tweet_ids": [
+          "2114815934125035852"
+        ],
+        "id": "2114815934125035852",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 584347,
+          "like_count": 3105,
+          "quote_count": 22,
+          "reply_count": 95,
+          "retweet_count": 57
+        },
+        "text": "Ironically, one of the big things Apple will be touting for the OLED XDR touch MacBook Pro on Wednesday (ever so slightly thinner case, thinner bezels, noticeably lighter) is its revamped hinge that is more stable so touching the screen doesn't make it rock during usage."
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2114995826997198993",
+        "created_at": "2026-10-27T08:21:14.000Z",
+        "edit_history_tweet_ids": [
+          "2114995826997198993"
+        ],
+        "id": "2114995826997198993",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13534,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "text": "2026 年了，汇丰换手机了绑 apple pay 还是要电话"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2114658397073387520",
+            "3_2114658396913954816"
+          ]
+        },
+        "author_id": "43255797",
+        "conversation_id": "2114658403553517987",
+        "created_at": "2026-10-26T10:00:26.000Z",
+        "edit_history_tweet_ids": [
+          "2114658403553517987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "muji.com/jp/ja/store/cm…",
+              "end": 72,
+              "expanded_url": "https://www.muji.com/jp/ja/store/cmdty/detail/4550723711647?sns=tw_261026_4550723711647",
+              "start": 49,
+              "status": 200,
+              "title": "無印良品",
+              "unwound_url": "https://www.muji.com/content/maintenance_s_20261111.html",
+              "url": "https://t.co/9GcpPy1FvB"
+            },
+            {
+              "display_url": "pic.x.com/rGKv825SpX",
+              "end": 96,
+              "expanded_url": "https://x.com/muji_net/status/2114658403553517987/photo/1",
+              "media_key": "3_2114658397073387520",
+              "start": 73,
+              "url": "https://t.co/rGKv825SpX"
+            },
+            {
+              "display_url": "pic.x.com/rGKv825SpX",
+              "end": 96,
+              "expanded_url": "https://x.com/muji_net/status/2114658403553517987/photo/2",
+              "media_key": "3_2114658396913954816",
+              "start": 73,
+              "url": "https://t.co/rGKv825SpX"
+            }
+          ]
+        },
+        "id": "2114658403553517987",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 2154,
+          "impression_count": 3687477,
+          "like_count": 5836,
+          "quote_count": 365,
+          "reply_count": 43,
+          "retweet_count": 380
+        },
+        "text": "『MUJI Labo』より、頑丈なフレーム構造の、アルミハードキャリーケースが新登場しました。\n\nhttps://t.co/9GcpPy1FvB https://t.co/rGKv825SpX"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "2114898337854075149",
+        "created_at": "2026-10-27T02:50:10.000Z",
+        "edit_history_tweet_ids": [
+          "2114912509518074035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "150497871",
+              "start": 0,
+              "username": "cr0ath"
+            }
+          ]
+        },
+        "id": "2114912509518074035",
+        "in_reply_to_user_id": "150497871",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2109,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114898337854075149",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@cr0ath 你 tm 有钱吗一天到晚选选选"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2114938454475956224",
+            "3_2114938467461558273"
+          ]
+        },
+        "author_id": "987508360336424961",
+        "conversation_id": "2114938477024522251",
+        "created_at": "2026-10-27T04:33:21.000Z",
+        "edit_history_tweet_ids": [
+          "2114938477024522251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhnBTYNUQr",
+              "end": 173,
+              "expanded_url": "https://x.com/safaricheung/status/2114938477024522251/photo/1",
+              "media_key": "3_2114938454475956224",
+              "start": 150,
+              "url": "https://t.co/rhnBTYNUQr"
+            },
+            {
+              "display_url": "pic.x.com/rhnBTYNUQr",
+              "end": 173,
+              "expanded_url": "https://x.com/safaricheung/status/2114938477024522251/photo/2",
+              "media_key": "3_2114938467461558273",
+              "start": 150,
+              "url": "https://t.co/rhnBTYNUQr"
+            }
+          ]
+        },
+        "id": "2114938477024522251",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 44831,
+          "like_count": 129,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "text": "提醒所有买了 iPhone Duo 保护壳的朋友：记得去设置里开启「左边缘内移」这个选项。立即大幅提升戴上保护壳之后的边缘触控体验。\n\n苹果有考虑到了折叠屏外置保护壳一圈凸起，会导致边缘触控困难的问题，专门加了这个开关，但是你在 Apple Store 保护壳页面是找不到任何关于这个选项的介绍的😂 https://t.co/rhnBTYNUQr"
+      },
+      {
+        "author_id": "931029146",
+        "conversation_id": "2114909692720042321",
+        "created_at": "2026-10-27T02:53:04.000Z",
+        "edit_history_tweet_ids": [
+          "2114913239649996941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2114913239649996941",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 862,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114909692720042321",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 有试过通过tokenmanager主入口看吗，如果是 YT 的话，应该还会有部分是通过主入口发的，跟 S5 领取的入口还不一样"
+      },
+      {
+        "author_id": "352806502",
+        "conversation_id": "2113844051938054167",
+        "created_at": "2026-10-24T04:04:29.000Z",
+        "edit_history_tweet_ids": [
+          "2113844051938054167"
+        ],
+        "id": "2113844051938054167",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 910,
+                "id": "35432643",
+                "start": 899,
+                "username": "addyosmani"
+              },
+              {
+                "end": 925,
+                "id": "879696238953865217",
+                "start": 913,
+                "username": "lydiahallie"
+              },
+              {
+                "end": 934,
+                "id": "974757274206978049",
+                "start": 927,
+                "username": "_catwu"
+              },
+              {
+                "end": 947,
+                "id": "2024518793679294464",
+                "start": 936,
+                "username": "ClaudeDevs"
+              },
+              {
+                "end": 971,
+                "id": "159337660",
+                "start": 963,
+                "username": "bcherny"
+              }
+            ]
+          },
+          "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all."
+        },
+        "public_metrics": {
+          "bookmark_count": 6555,
+          "impression_count": 6610679,
+          "like_count": 31879,
+          "quote_count": 886,
+          "reply_count": 2246,
+          "retweet_count": 1117
+        },
+        "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1677940370334965760",
+        "created_at": "2023-07-09T07:18:53.000Z",
+        "edit_history_tweet_ids": [
+          "1677940370334965760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "毕业那会"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/choicky/status…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/choicky/status/1677902744495980545",
+              "start": 105,
+              "url": "https://t.co/yV586k2sg2"
+            }
+          ]
+        },
+        "id": "1677940370334965760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "毕业那会"
+              }
+            ]
+          },
+          "text": "#毕业那会\n\n我记得自己 14 年毕业到深圳的时候，兜里只有大学兼职卖手机赚的几千块，又厚脸皮问家里借了点，幸好给了。\n\n住便宜的青旅，下楼点猪脚饭属于开荤，去汉堡王捡别人的小票填问卷吃免费薯条可乐才是日常。\n\n后面去上海的时候印象也很深，在朋友那求宿了一周。我以为他有自己的房间，结果是十几个人群租一个老房子，他和另外一个老乡共住一间，睡一张床，所以我来了就得三个人挤一张床。\n\n来上海的火车上投了几百封简历，看到那里我就决定一周内一定要找到工作搬出去。\n\n当时并不觉得生活苦，或者说苦的印象太浅了，只觉得迷茫，不知道未来何去何从。\n\n当年也听过应届生的起步很重要，不过和这种迷茫的痛苦比起来，起步也太无所谓了，任何一份工都可以先干起来。\n\n感受有点不同的是，我这代农村人，并没有享受到时代的红利。毕业时房价便宜，我当然买不起房，工作了几年大家都说房价要飞了，我还是买不起，起飞之后，我仍然买不起。\n\n真正感谢的东西是黑网吧、魔兽世界、互联网，这是我一切可能性的来源。\n\n幸福感来源于对比。虽然达不到推友的平均水平，但今天的生活已经比我毕业那年，做过所有的美梦还要美。\n\n今天年轻人痛苦的来源，想必也是。"
+        },
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 160505,
+          "like_count": 210,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1677902744495980545",
+            "type": "quoted"
+          }
+        ],
+        "text": "#毕业那会\n\n我记得自己 14 年毕业到深圳的时候，兜里只有大学兼职卖手机赚的几千块，又厚脸皮问家里借了点，幸好给了。\n\n住便宜的青旅，下楼点猪脚饭属于开荤，去汉堡王捡别人的小票填问卷吃免费薯条可乐才是日常。 https://t.co/yV586k2sg2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2114707948987678721"
+          ]
+        },
+        "author_id": "2002287469832908801",
+        "conversation_id": "2114675764461494275",
+        "created_at": "2026-10-26T13:17:21.000Z",
+        "edit_history_tweet_ids": [
+          "2114707959494459809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bF87larwTE",
+              "end": 49,
+              "expanded_url": "https://x.com/lunaritabeijing/status/2114707959494459809/photo/1",
+              "media_key": "3_2114707948987678721",
+              "start": 26,
+              "url": "https://t.co/bF87larwTE"
+            }
+          ]
+        },
+        "id": "2114707959494459809",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 809,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114675764461494275",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 用的wp这个半导体制冷三合一 稳 https://t.co/bF87larwTE"
+      },
+      {
+        "author_id": "242605694",
+        "conversation_id": "2114666451479232703",
+        "created_at": "2026-10-26T12:30:26.000Z",
+        "edit_history_tweet_ids": [
+          "2114696153216528549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2114696153216528549",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1402,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114666451479232703",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 还有专属 TestFlight?"
+      },
+      {
+        "author_id": "3399124639",
+        "conversation_id": "2114681727536840969",
+        "created_at": "2026-10-26T11:57:54.000Z",
+        "edit_history_tweet_ids": [
+          "2114687966354518262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765024874364477440",
+              "start": 0,
+              "username": "longfangsong"
+            }
+          ]
+        },
+        "id": "2114687966354518262",
+        "in_reply_to_user_id": "765024874364477440",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2114681727536840969",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@longfangsong 我以前觉得本地模型没啥用，但是我现在觉得如果能 400 tok/s 跑 deepseek v4.1 flash 那就很不一样了"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      },
+      {
+        "id": "704664429418278912",
+        "name": "tychooo.eth(💎,💰)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745298760467697664/CeU1vAsO_normal.jpg",
+        "username": "Tychoo7",
+        "verified": false
+      },
+      {
+        "id": "333160596",
+        "name": "🍩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475335048266014723/dCpXdlc-_normal.jpg",
+        "username": "qitalaiX",
+        "verified": false
+      },
+      {
+        "id": "987508360336424961",
+        "name": "safari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535513461358153728/qaYfZwAZ_normal.jpg",
+        "username": "safaricheung",
+        "verified": false
+      },
+      {
+        "id": "931029146",
+        "name": "Rex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1435596164523380741/EbluJ-ao_normal.jpg",
+        "username": "rex_404_",
+        "verified": false
+      },
+      {
+        "id": "2002287469832908801",
+        "name": "E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006358709258330113/cylAFERp_normal.jpg",
+        "username": "lunaritabeijing",
+        "verified": false
+      },
+      {
+        "id": "242605694",
+        "name": "Randy Lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657298747049791489/sAIv6DRb_normal.jpg",
+        "username": "randyloop",
+        "verified": false
+      },
+      {
+        "id": "3399124639",
+        "name": "Xuanwo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710192299588964352/WY_GNo3r_normal.jpg",
+        "username": "xuanwo",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2115270493737824352",
+    "next_token": "b26v89c19zqg8o3juzlx912zvytu23xf0y1o3p43k0a65",
+    "oldest_id": "2114693840489906244",
+    "result_count": 24
+  },
+  "errors": []
+}

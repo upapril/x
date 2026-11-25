@@ -1,30 +1,26 @@
 {
-  "packaged_at_shanghai": "2026-11-24 20:40:23 GMT+8",
-  "pass": "day1-final-five-handles",
+  "packaged_at_shanghai": "2026-11-25T09:42:30.677345+08:00",
+  "pass": "day2-final-five-handles",
   "claim_complete_retrieval": false,
-  "day1_authoritative_footer": "X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).",
-  "day1_daily_remaining": 61,
-  "stopping_reason": "Day-1 close 2026-11-24. 22 public reads allocated to newly added @taresky and @thankUcrypto after the original three were checkpointed at 83 remaining. Footer after last ingested call: 61 of 1000 today, reset 2026-11-25T00:00:00.000Z = 2026-11-25 08:00 Asia/Shanghai. Coverage explicitly partial. Resume from logs/remaining_jobs_day1.json. Prior zips were not modified.",
-  "tools": "Built-in x MCP public reads only (get_users_by_usernames, get_users_posts, search_posts_all, get_posts_by_ids).",
-  "firstpass_zip": {
-    "path": "not stored in this repository",
-    "sha256": "455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976",
-    "immutable": true
-  },
+  "unique_total": 34913,
+  "added_day2": 19543,
+  "day2_calls_ingested": 924,
+  "last_collection_footer": "X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z).",
+  "daily_remaining": 75,
+  "reserve": 75,
+  "stopping_reason": "Real live75-read reserve reached; explicitly partial, not all windows exhausted. No pending ingest.",
+  "daily_reset_shanghai": "2026-11-26 08:00 Asia/Shanghai",
+  "remaining_jobs": "logs/DAY2_FINAL_REMAINING_JOBS.json",
+  "day1_footer": "X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).",
   "accounts": {
     "alexandr_wang": {
-      "unique_posts_stored": 1873,
-      "types": {
-        "original": 719,
-        "repost": 283,
-        "reply": 640,
-        "quote": 231
-      },
+      "user_id": "615818451",
+      "unique_posts_stored": 1921,
       "years_utc": {
         "2012": 1,
         "2015": 51,
         "2016": 238,
-        "2017": 62,
+        "2017": 110,
         "2018": 107,
         "2019": 172,
         "2020": 152,
@@ -35,744 +31,140 @@
         "2025": 75,
         "2026": 161
       },
-      "span_utc": [
-        "2012-06-23T02:48:05.000Z",
-        "2026-11-23T04:21:30.000Z"
-      ],
+      "types": {
+        "original": 734,
+        "repost": 300,
+        "reply": 651,
+        "quote": 236
+      },
       "span_shanghai": [
         "2012-06-23 10:48:05 GMT+8",
         "2026-11-23 12:21:30 GMT+8"
       ],
-      "earliest": {
-        "id": "216361960667754498",
-        "utc": "2012-06-23T02:48:05.000Z",
-        "shanghai": "2012-06-23 10:48:05 GMT+8",
-        "url": "https://x.com/alexandr_wang/status/216361960667754498"
-      },
-      "latest": {
-        "id": "2124719968499777546",
-        "utc": "2026-11-23T04:21:30.000Z",
-        "shanghai": "2026-11-23 12:21:30 GMT+8",
-        "url": "https://x.com/alexandr_wang/status/2124719968499777546"
-      },
       "expand_job_status_counts": {
-        "exhausted": 85,
-        "open": 15,
-        "pending": 43,
+        "exhausted": 109,
+        "pending": 35,
         "not_proven_exhausted": 1
       },
-      "open_or_blocked_windows": [
-        {
-          "label": "2016-12",
-          "status": "open",
-          "start_time": "2016-12-01T00:00:00Z",
-          "end_time": "2017-01-01T00:00:00Z",
-          "pages_fetched": 2,
-          "posts_added": 9,
-          "next_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
-          "last_input_token": "1jzu9lk96gu5npw3iy3wv887bm1jsl9sbk73ezfb2su5"
-        },
-        {
-          "label": "2017-02",
-          "status": "open",
-          "start_time": "2017-02-01T00:00:00Z",
-          "end_time": "2017-03-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 6,
-          "next_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
-          "last_input_token": null
-        },
-        {
-          "label": "2017-03",
-          "status": "open",
-          "start_time": "2017-03-01T00:00:00Z",
-          "end_time": "2017-04-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 13,
-          "next_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
-          "last_input_token": null
-        },
-        {
-          "label": "2017-04",
-          "status": "open",
-          "start_time": "2017-04-01T00:00:00Z",
-          "end_time": "2017-05-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 6,
-          "next_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-01",
-          "status": "open",
-          "start_time": "2018-01-01T00:00:00Z",
-          "end_time": "2018-02-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 8,
-          "next_token": "1jzu9lk96gu5npw44kgx05grxddc2vzrumzs5fbb029p",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-02",
-          "status": "open",
-          "start_time": "2018-02-01T00:00:00Z",
-          "end_time": "2018-03-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 8,
-          "next_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-03",
-          "status": "open",
-          "start_time": "2018-03-01T00:00:00Z",
-          "end_time": "2018-04-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 7,
-          "next_token": "1jzu9lk96gu5npw44tdan3l3n8bcyfqbs2xlagdqfgql",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-04",
-          "status": "open",
-          "start_time": "2018-04-01T00:00:00Z",
-          "end_time": "2018-05-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 5,
-          "next_token": "1jzu9lk96gu5npw44wd2ew8d0x8t7ox4umkmp94l29vh",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-05",
-          "status": "open",
-          "start_time": "2018-05-01T00:00:00Z",
-          "end_time": "2018-06-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 1,
-          "next_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-06",
-          "status": "open",
-          "start_time": "2018-06-01T00:00:00Z",
-          "end_time": "2018-07-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 6,
-          "next_token": "b26v89c19zqg8o3fn0ao4w2l9hjlstbq2jxhgv1p1qd19",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-07",
-          "status": "open",
-          "start_time": "2018-07-01T00:00:00Z",
-          "end_time": "2018-08-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 5,
-          "next_token": "b26v89c19zqg8o3fn0dmndd6rpm37f6vi9byw95qv4wal",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-08",
-          "status": "open",
-          "start_time": "2018-08-01T00:00:00Z",
-          "end_time": "2018-09-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 18,
-          "next_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-09",
-          "status": "open",
-          "start_time": "2018-09-01T00:00:00Z",
-          "end_time": "2018-10-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 18,
-          "next_token": "b26v89c19zqg8o3fn0jngmbsx7831xzkz2grwd4cmo5ml",
-          "last_input_token": null
-        },
-        {
-          "label": "2018-10",
-          "status": "open",
-          "start_time": "2018-10-01T00:00:00Z",
-          "end_time": "2018-11-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 6,
-          "next_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
-          "last_input_token": null
-        },
-        {
-          "label": "2019-08",
-          "status": "open",
-          "start_time": "2019-08-01T00:00:00Z",
-          "end_time": "2019-09-01T00:00:00Z",
-          "pages_fetched": 3,
-          "posts_added": 53,
-          "next_token": "b26v89c19zqg8o3fnm026bp81siqnl0nyhgf1gqpvwdq5",
-          "last_input_token": "b26v89c19zqg8o3fnm026bpix7fse2n85ycw97agtocxp"
-        },
-        {
-          "label": "2012-2014",
-          "status": "not_proven_exhausted",
-          "start_time": "2012-06-23T00:00:00Z",
-          "end_time": "2015-01-01T00:00:00Z",
-          "pages_fetched": 2,
-          "posts_added": 1,
-          "next_token": null,
-          "last_input_token": null
-        }
-      ],
-      "pending_window_count": 43,
       "profile_post_count_at_first_lookup": 3762
     },
     "iiiinvest": {
-      "unique_posts_stored": 3856,
-      "types": {
-        "original": 1272,
-        "reply": 2027,
-        "repost": 40,
-        "quote": 517
-      },
+      "user_id": "1589763597705437184",
+      "unique_posts_stored": 4712,
       "years_utc": {
         "2022": 408,
         "2023": 37,
         "2024": 21,
         "2025": 69,
-        "2026": 3321
+        "2026": 4177
       },
-      "span_utc": [
-        "2022-11-22T08:48:28.000Z",
-        "2026-11-24T09:50:06.000Z"
-      ],
+      "types": {
+        "original": 1547,
+        "reply": 2488,
+        "repost": 42,
+        "quote": 635
+      },
       "span_shanghai": [
         "2022-11-22 16:48:28 GMT+8",
         "2026-11-24 17:50:06 GMT+8"
       ],
-      "earliest": {
-        "id": "1594976093844303872",
-        "utc": "2022-11-22T08:48:28.000Z",
-        "shanghai": "2022-11-22 16:48:28 GMT+8",
-        "url": "https://x.com/iiiinvest/status/1594976093844303872"
-      },
-      "latest": {
-        "id": "2125165053078839443",
-        "utc": "2026-11-24T09:50:06.000Z",
-        "shanghai": "2026-11-24 17:50:06 GMT+8",
-        "url": "https://x.com/iiiinvest/status/2125165053078839443"
-      },
       "expand_job_status_counts": {
-        "exhausted": 30,
-        "open": 5,
+        "exhausted": 36,
         "pending": 14,
         "pagination_stalled": 1
       },
-      "open_or_blocked_windows": [
-        {
-          "label": "2024-03",
-          "status": "open",
-          "start_time": "2024-03-01T00:00:00Z",
-          "end_time": "2024-04-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 0,
-          "next_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
-          "last_input_token": null
-        },
-        {
-          "label": "2024-04",
-          "status": "open",
-          "start_time": "2024-04-01T00:00:00Z",
-          "end_time": "2024-05-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 0,
-          "next_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-07",
-          "status": "open",
-          "start_time": "2026-07-01T00:00:00Z",
-          "end_time": "2026-08-01T00:00:00Z",
-          "pages_fetched": 19,
-          "posts_added": 475,
-          "next_token": "b26v89c19zqg8o3juetiu3pwrn98hk6kkpu00ab83qovx",
-          "last_input_token": "b26v89c19zqg8o3juetiu7y62ole97sq17ogsvvxq8fwd"
-        },
-        {
-          "label": "2026-08",
-          "status": "pagination_stalled",
-          "start_time": "2026-08-01T00:00:00Z",
-          "end_time": "2026-09-01T00:00:00Z",
-          "pages_fetched": 4,
-          "posts_added": 75,
-          "next_token": "b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp",
-          "last_input_token": "b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp"
-        },
-        {
-          "label": "2026-09",
-          "status": "open",
-          "start_time": "2026-09-01T00:00:00Z",
-          "end_time": "2026-10-01T00:00:00Z",
-          "pages_fetched": 19,
-          "posts_added": 449,
-          "next_token": "b26v89c19zqg8o3juzivs5t2k3bz55ue17d4hte5b44u5",
-          "last_input_token": "b26v89c19zqg8o3juzivsa2ixs2t0itdp9o8ow7ixlrp9"
-        },
-        {
-          "label": "2026-08-01to27",
-          "status": "open",
-          "start_time": "2026-08-01T00:00:00Z",
-          "end_time": "2026-08-27T16:04:47Z",
-          "pages_fetched": 15,
-          "posts_added": 375,
-          "next_token": "b26v89c19zqg8o3juewilr7wkp0qkm532sa2x4awgmid9",
-          "last_input_token": "b26v89c19zqg8o3juewilvhcttgtfqziivluiht955xtp"
-        }
-      ],
-      "pending_window_count": 14,
       "profile_post_count_at_first_lookup": 4858
     },
     "silverfang88": {
-      "unique_posts_stored": 9239,
-      "types": {
-        "repost": 636,
-        "reply": 3561,
-        "quote": 874,
-        "original": 4168
-      },
+      "user_id": "1435990322702520320",
+      "unique_posts_stored": 12862,
       "years_utc": {
         "2021": 137,
         "2022": 1914,
         "2023": 3057,
-        "2024": 1240,
-        "2025": 1469,
-        "2026": 1422
+        "2024": 3837,
+        "2025": 2494,
+        "2026": 1423
       },
-      "span_utc": [
-        "2021-09-13T06:35:07.000Z",
-        "2026-11-24T09:58:30.000Z"
-      ],
+      "types": {
+        "repost": 745,
+        "reply": 5334,
+        "quote": 1127,
+        "original": 5656
+      },
       "span_shanghai": [
         "2021-09-13 14:35:07 GMT+8",
-        "2026-11-24 17:58:30 GMT+8"
+        "2026-11-25 00:13:43 GMT+8"
       ],
-      "earliest": {
-        "id": "1437303812616720389",
-        "utc": "2021-09-13T06:35:07.000Z",
-        "shanghai": "2021-09-13 14:35:07 GMT+8",
-        "url": "https://x.com/silverfang88/status/1437303812616720389"
-      },
-      "latest": {
-        "id": "2125167165569655181",
-        "utc": "2026-11-24T09:58:30.000Z",
-        "shanghai": "2026-11-24 17:58:30 GMT+8",
-        "url": "https://x.com/silverfang88/status/2125167165569655181"
-      },
       "expand_job_status_counts": {
-        "exhausted": 43,
+        "exhausted": 48,
         "pagination_stalled": 2,
-        "open": 9,
+        "open": 5,
         "pending": 13
       },
-      "open_or_blocked_windows": [
-        {
-          "label": "2023-09",
-          "status": "pagination_stalled",
-          "start_time": "2023-09-01T00:00:00Z",
-          "end_time": "2023-10-01T00:00:00Z",
-          "pages_fetched": 6,
-          "posts_added": 125,
-          "next_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp",
-          "last_input_token": "b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp"
-        },
-        {
-          "label": "2024-03",
-          "status": "open",
-          "start_time": "2024-03-01T00:00:00Z",
-          "end_time": "2024-04-01T00:00:00Z",
-          "pages_fetched": 10,
-          "posts_added": 248,
-          "next_token": "b26v89c19zqg8o3fr5wcqrhtachkqgdzvjp4q69f7l9bx",
-          "last_input_token": "b26v89c19zqg8o3fr5wcr255a58wtmrkfnc185cxn29vh"
-        },
-        {
-          "label": "2024-05",
-          "status": "open",
-          "start_time": "2024-05-01T00:00:00Z",
-          "end_time": "2024-06-01T00:00:00Z",
-          "pages_fetched": 6,
-          "posts_added": 150,
-          "next_token": "b26v89c19zqg8o3fr62d53de450cfswp0mz84b46c6qnx",
-          "last_input_token": "b26v89c19zqg8o3fr62dk0emvcrpe37r47fv1jcfnx7jx"
-        },
-        {
-          "label": "2024-06",
-          "status": "open",
-          "start_time": "2024-06-01T00:00:00Z",
-          "end_time": "2024-07-01T00:00:00Z",
-          "pages_fetched": 4,
-          "posts_added": 75,
-          "next_token": "b26v89c19zqg8o3frqltx5djisytbkp5rw8g7rq9xsj99",
-          "last_input_token": "b26v89c19zqg8o3frqluc2idgji9m8m3ntuywnewo9u2l"
-        },
-        {
-          "label": "2024-07",
-          "status": "open",
-          "start_time": "2024-07-01T00:00:00Z",
-          "end_time": "2024-08-01T00:00:00Z",
-          "pages_fetched": 3,
-          "posts_added": 75,
-          "next_token": "b26v89c19zqg8o3frqouyg4froy55ehtnfctuvpxez0ql",
-          "last_input_token": "b26v89c19zqg8o3frqovd6sp8mymgpb4oba0wp60p2lx9"
-        },
-        {
-          "label": "2024-08",
-          "status": "open",
-          "start_time": "2024-08-01T00:00:00Z",
-          "end_time": "2024-09-01T00:00:00Z",
-          "pages_fetched": 2,
-          "posts_added": 50,
-          "next_token": "b26v89c19zqg8o3frqrvkcq6sv355lx150t4bue6939tp",
-          "last_input_token": "b26v89c19zqg8o3frqrvkl8hxv71g6ltug9ac75ysdpbx"
-        },
-        {
-          "label": "2024-09",
-          "status": "open",
-          "start_time": "2024-09-01T00:00:00Z",
-          "end_time": "2024-10-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3frqxrbqbp8n383lwbenl8fdjhonkot",
-          "last_input_token": null
-        },
-        {
-          "label": "2025-05",
-          "status": "open",
-          "start_time": "2025-05-01T00:00:00Z",
-          "end_time": "2025-06-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3fsc29h1rhjprotnonxw1d98uwxpev1",
-          "last_input_token": null
-        },
-        {
-          "label": "2025-06",
-          "status": "open",
-          "start_time": "2025-06-01T00:00:00Z",
-          "end_time": "2025-07-01T00:00:00Z",
-          "pages_fetched": 2,
-          "posts_added": 47,
-          "next_token": "b26v89c19zqg8o3fsc5996chj2noykbesky6tikn4ec1p",
-          "last_input_token": "b26v89c19zqg8o3fsc59nz4vni9o1f1i8ff5g6sb042v1"
-        },
-        {
-          "label": "2025-07",
-          "status": "open",
-          "start_time": "2025-07-01T00:00:00Z",
-          "end_time": "2025-08-01T00:00:00Z",
-          "pages_fetched": 4,
-          "posts_added": 96,
-          "next_token": "b26v89c19zqg8o3fsc87rjetzcwlilepcdc89uydf5da5",
-          "last_input_token": "b26v89c19zqg8o3fsc886t8fgk2h25rpl5yeerxeht4zh"
-        },
-        {
-          "label": "2026-07",
-          "status": "pagination_stalled",
-          "start_time": "2026-07-01T00:00:00Z",
-          "end_time": "2026-08-01T00:00:00Z",
-          "pages_fetched": 3,
-          "posts_added": 50,
-          "next_token": "b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp",
-          "last_input_token": "b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp"
-        }
-      ],
-      "pending_window_count": 13,
       "profile_post_count_at_first_lookup": 19982
     },
     "taresky": {
-      "unique_posts_stored": 224,
-      "types": {
-        "quote": 22,
-        "original": 53,
-        "reply": 138,
-        "repost": 11
-      },
+      "user_id": "368245720",
+      "unique_posts_stored": 8551,
       "years_utc": {
-        "2016": 25,
-        "2021": 25,
-        "2022": 25,
+        "2016": 67,
+        "2021": 94,
+        "2022": 170,
         "2023": 1,
-        "2024": 25,
-        "2025": 50,
-        "2026": 73
+        "2024": 1303,
+        "2025": 3794,
+        "2026": 3122
       },
-      "span_utc": [
-        "2016-12-15T00:47:22.000Z",
-        "2026-11-24T09:10:31.000Z"
-      ],
+      "types": {
+        "reply": 5665,
+        "original": 1924,
+        "quote": 842,
+        "repost": 120
+      },
       "span_shanghai": [
-        "2016-12-15 08:47:22 GMT+8",
-        "2026-11-24 17:10:31 GMT+8"
+        "2016-12-01 18:37:37 GMT+8",
+        "2026-11-25 08:27:48 GMT+8"
       ],
-      "earliest": {
-        "id": "809198127789969409",
-        "utc": "2016-12-15T00:47:22.000Z",
-        "shanghai": "2016-12-15 08:47:22 GMT+8",
-        "url": "https://x.com/taresky/status/809198127789969409"
-      },
-      "latest": {
-        "id": "2125155090130731098",
-        "utc": "2026-11-24T09:10:31.000Z",
-        "shanghai": "2026-11-24 17:10:31 GMT+8",
-        "url": "https://x.com/taresky/status/2125155090130731098"
-      },
       "expand_job_status_counts": {
-        "exhausted": 1,
-        "open": 10,
-        "pending": 40
+        "exhausted": 29,
+        "open": 4,
+        "pending": 19
       },
-      "open_or_blocked_windows": [
-        {
-          "label": "timeline-recent",
-          "status": "open",
-          "start_time": null,
-          "end_time": null,
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "7140dibdnow9c7btwp0gm9gqgrurrob7n4a5eytlynzg0",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-11",
-          "status": "open",
-          "start_time": "2026-11-01T00:00:00Z",
-          "end_time": "2026-11-25T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 0,
-          "next_token": "b26v89c19zqg8o3juzowln63mmdar00jvz60l8hp0a1dp",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-10",
-          "status": "open",
-          "start_time": "2026-10-01T00:00:00Z",
-          "end_time": "2026-11-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 23,
-          "next_token": "b26v89c19zqg8o3juzlxod0q3o7foj3kl2vh3a9t75u2l",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-06",
-          "status": "open",
-          "start_time": "2026-06-01T00:00:00Z",
-          "end_time": "2026-07-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3juetgavebt9yov3dwq2lcd83sww8e5",
-          "last_input_token": null
-        },
-        {
-          "label": "2025-12",
-          "status": "open",
-          "start_time": "2025-12-01T00:00:00Z",
-          "end_time": "2026-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3jue8j4zpqh0ulagerz9w1fngl493st",
-          "last_input_token": null
-        },
-        {
-          "label": "2025-06",
-          "status": "open",
-          "start_time": "2025-06-01T00:00:00Z",
-          "end_time": "2025-07-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3fsc5996chnmiu8k80o5is81hndxoxp",
-          "last_input_token": null
-        },
-        {
-          "label": "2024-12",
-          "status": "open",
-          "start_time": "2024-12-01T00:00:00Z",
-          "end_time": "2025-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3frr6rwzj66j4eq6bt70sn51ijbkpdp",
-          "last_input_token": null
-        },
-        {
-          "label": "2022-12",
-          "status": "open",
-          "start_time": "2022-12-01T00:00:00Z",
-          "end_time": "2023-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3fqk12iwydq5frlwh39wmfq8h9udc3h",
-          "last_input_token": null
-        },
-        {
-          "label": "2021-01",
-          "status": "open",
-          "start_time": "2021-01-01T00:00:00Z",
-          "end_time": "2021-02-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3foskt5god0ueh1goua2qzbpfrvo6f1",
-          "last_input_token": null
-        },
-        {
-          "label": "2016-12",
-          "status": "open",
-          "start_time": "2016-12-01T00:00:00Z",
-          "end_time": "2017-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "1jzu9lk96gu5npw3iy4bo3bin9qtacqjskhen8rrf0ql",
-          "last_input_token": null
-        }
-      ],
-      "pending_window_count": 40,
       "profile_post_count_at_first_lookup": 34003
     },
     "thankUcrypto": {
-      "unique_posts_stored": 178,
-      "types": {
-        "reply": 74,
-        "original": 82,
-        "quote": 21,
-        "repost": 1
-      },
+      "user_id": "705564530936418304",
+      "unique_posts_stored": 6867,
       "years_utc": {
         "2022": 2,
-        "2023": 25,
-        "2024": 25,
-        "2025": 50,
-        "2026": 76
+        "2023": 44,
+        "2024": 701,
+        "2025": 4511,
+        "2026": 1609
       },
-      "span_utc": [
-        "2022-12-30T09:55:07.000Z",
-        "2026-11-24T11:05:18.000Z"
-      ],
+      "types": {
+        "reply": 3152,
+        "quote": 625,
+        "original": 3044,
+        "repost": 46
+      },
       "span_shanghai": [
         "2022-12-30 17:55:07 GMT+8",
-        "2026-11-24 19:05:18 GMT+8"
+        "2026-11-24 23:33:48 GMT+8"
       ],
-      "earliest": {
-        "id": "1608763604010176512",
-        "utc": "2022-12-30T09:55:07.000Z",
-        "shanghai": "2022-12-30 17:55:07 GMT+8",
-        "url": "https://x.com/thankUcrypto/status/1608763604010176512"
-      },
-      "latest": {
-        "id": "2125183975757119963",
-        "utc": "2026-11-24T11:05:18.000Z",
-        "shanghai": "2026-11-24 19:05:18 GMT+8",
-        "url": "https://x.com/thankUcrypto/status/2125183975757119963"
-      },
       "expand_job_status_counts": {
-        "exhausted": 2,
-        "open": 9,
-        "pending": 40
+        "exhausted": 35,
+        "open": 4,
+        "pending": 13
       },
-      "open_or_blocked_windows": [
-        {
-          "label": "timeline-recent",
-          "status": "open",
-          "start_time": null,
-          "end_time": null,
-          "pages_fetched": 1,
-          "posts_added": 24,
-          "next_token": "7140dibdnow9c7btwp0gm9i8sjoq8m9keuzhjjx1ftyr8",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-11",
-          "status": "open",
-          "start_time": "2026-11-01T00:00:00Z",
-          "end_time": "2026-11-25T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 1,
-          "next_token": "b26v89c19zqg8o3juzowlxwfcjef8gbd5vc978vr2uhrx",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-10",
-          "status": "open",
-          "start_time": "2026-10-01T00:00:00Z",
-          "end_time": "2026-11-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3juzlxod10t2jlubd1szxp6x1j4v7nh",
-          "last_input_token": null
-        },
-        {
-          "label": "2026-06",
-          "status": "open",
-          "start_time": "2026-06-01T00:00:00Z",
-          "end_time": "2026-07-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3jueqimn5399wglj1wvbhph7sa5jvy5",
-          "last_input_token": null
-        },
-        {
-          "label": "2025-12",
-          "status": "open",
-          "start_time": "2025-12-01T00:00:00Z",
-          "end_time": "2026-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3jue8hvvok54byopd5y3jn9t8jlcqyl",
-          "last_input_token": null
-        },
-        {
-          "label": "2025-06",
-          "status": "open",
-          "start_time": "2025-06-01T00:00:00Z",
-          "end_time": "2025-07-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3fsc598rfej8hgc3qq162stvnzamxdp",
-          "last_input_token": null
-        },
-        {
-          "label": "2024-12",
-          "status": "open",
-          "start_time": "2024-12-01T00:00:00Z",
-          "end_time": "2025-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3frr6rx3qiy6cxsmrxr487bij5l1ksd",
-          "last_input_token": null
-        },
-        {
-          "label": "2023-12",
-          "status": "open",
-          "start_time": "2023-12-01T00:00:00Z",
-          "end_time": "2024-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 25,
-          "next_token": "b26v89c19zqg8o3fr5kh0qyam3np3rae1pvqp2qhzxxtp",
-          "last_input_token": null
-        },
-        {
-          "label": "2022-12",
-          "status": "open",
-          "start_time": "2022-12-01T00:00:00Z",
-          "end_time": "2023-01-01T00:00:00Z",
-          "pages_fetched": 1,
-          "posts_added": 2,
-          "next_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
-          "last_input_token": null
-        }
-      ],
-      "pending_window_count": 40,
       "profile_post_count_at_first_lookup": 8097
     }
   },
-  "expand_calls_this_pass": 892,
-  "daily_reset_utc": "2026-11-25T00:00:00.000Z",
-  "daily_reset_shanghai": "2026-11-25 08:00:00 GMT+8"
+  "types": {
+    "original": 12905,
+    "repost": 1253,
+    "reply": 17290,
+    "quote": 3465
+  }
 }

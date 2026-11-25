@@ -18,8 +18,8 @@ STALL_FIXED = [
     {"handle":"iiiinvest","label":"2026-08","token":"b26v89c19zqg8o3juezgp0sqjwdnag097te7ltdd0hzlp"},
     {"handle":"iiiinvest","label":"2026-08","token":"b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp"},
 ]
-PACKAGED = 9435
-BASE_CALLS_BEFORE_DATA_CHUNK = 490  # expand_jobs calls_this_pass at start of data-only work ~490
+PACKAGED = 15370
+BASE_CALLS_BEFORE_DATA_CHUNK = 892  # expand_jobs calls_this_pass at start of data-only work ~490
 
 def main():
     ap = argparse.ArgumentParser()
@@ -39,7 +39,11 @@ def main():
         nxt = bool(re.search(r'"next_token":\s*"[^"]+"', t))
         foot = re.findall(r"X reads left[^\n]+", t)
         if foot:
-            last = foot[-1]
+            candidate = foot[-1]
+            old_n = re.search(r"(\d+) of 1000 today", last or "")
+            new_n = re.search(r"(\d+) of 1000 today", candidate)
+            if new_n and (not old_n or int(new_n.group(1)) < int(old_n.group(1))):
+                last = candidate
         bad = ("Too Many Requests" in t and '"result_count"' not in t) or ('"result_count"' not in t and sz < 200)
         if bad:
             fail.append((h, lab, fn))
@@ -63,7 +67,7 @@ def main():
 
     u = {}
     for h in HANDLES:
-        u[h] = sum(1 for line in (ROOT/h/"normalized"/"posts.jsonl").read_text().splitlines() if line.strip())
+        u[h] = sum(1 for line in (ROOT/h/"normalized"/"posts.jsonl").read_text().split('\n') if line.strip())
     m = re.search(r"(\d+) of 1000 today \(resets at ([^)]+)\)", last or "")
     daily = int(m.group(1)) if m else None
     reset = m.group(2) if m else None
@@ -117,12 +121,12 @@ def main():
     ckpt = {
         "written_at_shanghai": now_sh,
         "written_at_utc": datetime.now(timezone.utc).isoformat(),
-        "pass": "data-collection-chunk-2026-11-24",
+        "pass": "data-collection-day2-2026-11-25",
         "stop_reason": "in_progress",
         "authoritative_footer": last,
         "daily_remaining": daily,
         "daily_reset_utc": reset,
-        "daily_reset_shanghai": "2026-11-25 08:00:00 GMT+8",
+        "daily_reset_shanghai": "2026-11-26 08:00:00 GMT+8",
         "reserve": 75,
         "usable": usable,
         "budget_malfunction": False,
@@ -141,7 +145,7 @@ def main():
         "pending_by_handle": pending,
         "notes": [
             "Do not open silverfang88 pending 2026-11 (overlaps exhausted 2026-11-01to08 and 2026-11-08to25).",
-            "Continue 2026-07 and 2026-08 only via subwindows 2026-07-01to26 and 2026-08-01to27; never reuse stalled parent tokens.",
+            "Never reuse stalled parent tokens or reopen exhausted child windows. Read current expand_jobs.json and remaining_jobs_day2.json for exact status.",
             "Data-collection only; no analysis/archive rebuild, no new zip, no Meta refetch, no GitHub writes.",
             "latest.zip left immutable. SHA256 1ab3fc4aaee8667c42d833543a85f86f54ff9dabe165f6305d56769aed4d8e58",
         ],

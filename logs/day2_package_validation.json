@@ -1,0 +1,112 @@
+{
+  "written_at_shanghai": "2026-11-25T09:45:49.672440+08:00",
+  "accounts": {
+    "silverfang88": {
+      "unique_ids": 12862,
+      "years_utc": {
+        "2021": 137,
+        "2022": 1914,
+        "2023": 3057,
+        "2024": 3837,
+        "2025": 2494,
+        "2026": 1423
+      },
+      "lite_equivalence": true,
+      "archive_headings_and_literal_text": true
+    },
+    "iiiinvest": {
+      "unique_ids": 4712,
+      "years_utc": {
+        "2022": 408,
+        "2023": 37,
+        "2024": 21,
+        "2025": 69,
+        "2026": 4177
+      },
+      "lite_equivalence": true,
+      "archive_headings_and_literal_text": true
+    },
+    "alexandr_wang": {
+      "unique_ids": 1921,
+      "years_utc": {
+        "2012": 1,
+        "2015": 51,
+        "2016": 238,
+        "2017": 110,
+        "2018": 107,
+        "2019": 172,
+        "2020": 152,
+        "2021": 164,
+        "2022": 288,
+        "2023": 352,
+        "2024": 50,
+        "2025": 75,
+        "2026": 161
+      },
+      "lite_equivalence": true,
+      "archive_headings_and_literal_text": true
+    },
+    "taresky": {
+      "unique_ids": 8551,
+      "years_utc": {
+        "2016": 67,
+        "2021": 94,
+        "2022": 170,
+        "2023": 1,
+        "2024": 1303,
+        "2025": 3794,
+        "2026": 3122
+      },
+      "lite_equivalence": true,
+      "archive_headings_and_literal_text": true
+    },
+    "thankUcrypto": {
+      "unique_ids": 6867,
+      "years_utc": {
+        "2022": 2,
+        "2023": 44,
+        "2024": 701,
+        "2025": 4511,
+        "2026": 1609
+      },
+      "lite_equivalence": true,
+      "archive_headings_and_literal_text": true
+    }
+  },
+  "all_jsonl": {
+    "alexandr_wang/normalized/posts.jsonl": 1921,
+    "alexandr_wang/normalized/posts_lite.jsonl": 1921,
+    "iiiinvest/normalized/posts.jsonl": 4712,
+    "iiiinvest/normalized/posts_lite.jsonl": 4712,
+    "silverfang88/normalized/posts.jsonl": 12862,
+    "silverfang88/normalized/posts_lite.jsonl": 12862,
+    "taresky/normalized/posts.jsonl": 8551,
+    "taresky/normalized/posts_lite.jsonl": 8551,
+    "thankUcrypto/normalized/posts.jsonl": 6867,
+    "thankUcrypto/normalized/posts_lite.jsonl": 6867
+  },
+  "checks": [
+    "All primary/liteJSONL strictly parses on physicalLF with controls escaped",
+    "Global string-ID uniqueness; author attribution/raw literal text validated",
+    "All baseline IDs retained; only4 audited inherited corrections",
+    "Full/lite text lossless, all year counts/headings/literal archive texts match",
+    "All59 analytical citations/excerpts and current-report X URLs match store",
+    "All4 priorZIP hashes unchanged",
+    "Frozen remaining manifest exactly matches final live jobs"
+  ],
+  "pass": true,
+  "total": 34913,
+  "added_day2": 19543,
+  "global_duplicate_ids": 0,
+  "literal_citations_checked": 59,
+  "baseline_and_raw_validation": "logs/day2_validation_checkpoint.json",
+  "prior_immutable_zip_sha256": {
+    "x-research-firstpass.zip": "455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976",
+    "x-research-expanded.zip": "d601957063b3610067d2dafd6cab0a6effb63e771bd642df57233b5e44fee6c7",
+    "x-research-latest.zip": "1ab3fc4aaee8667c42d833543a85f86f54ff9dabe165f6305d56769aed4d8e58",
+    "x-research-day1-final.zip": "537597c2d1c295f18773fb2099d751338f78a354be982b65a26aaf7367efea37"
+  },
+  "daily_remaining_at_last_collection": 75,
+  "no_pending_ingest": true,
+  "remaining_manifest_exact_matches_live_jobs": true
+}

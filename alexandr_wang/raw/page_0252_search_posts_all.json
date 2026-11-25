@@ -1,0 +1,265 @@
+{
+  "collected_at_utc": "2026-11-25T01:17:10Z",
+  "collected_at_shanghai": "2026-11-25T09:17:10+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M884DY3A2YSSS92T71TG4JWK.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2017-09-01T00:00:00Z",
+    "end_time": "2017-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2017-09"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "913474546514092038",
+      "created_at": "2017-09-28T18:44:38.000Z",
+      "edit_history_tweet_ids": [
+        "913474546514092038"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 32,
+            "id": "4653371",
+            "start": 23,
+            "username": "ccheever"
+          },
+          {
+            "end": 53,
+            "id": "968976709159563264",
+            "start": 45,
+            "username": "expo_io"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/expo_io/status…",
+            "end": 82,
+            "expanded_url": "https://x.com/expo_io/status/913444812497367041",
+            "start": 59,
+            "url": "https://t.co/dPXFY7Cqm1"
+          }
+        ]
+      },
+      "id": "913474546514092038",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "913444812497367041",
+          "type": "quoted"
+        }
+      ],
+      "text": "So damn cool. Nice job @ccheever and rest of @expo_io team https://t.co/dPXFY7Cqm1",
+      "url": "https://x.com/alexandr_wang/status/913474546514092038"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "910960721789440001",
+      "created_at": "2017-09-28T15:25:42.000Z",
+      "edit_history_tweet_ids": [
+        "913424487076438016"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "33879061",
+            "start": 0,
+            "username": "ak1010"
+          }
+        ]
+      },
+      "id": "913424487076438016",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ak1010 Yep! Use humans to achieve high quality. There are a bunch of large scale use cases that rely on our judgments in self driving and health",
+      "url": "https://x.com/alexandr_wang/status/913424487076438016"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "912421996503474177",
+      "created_at": "2017-09-25T21:02:10.000Z",
+      "edit_history_tweet_ids": [
+        "912421996503474177"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "medium.com/p/guest-post-c…",
+            "end": 110,
+            "expanded_url": "https://medium.com/p/guest-post-cloudinary-uses-scale-api-to-focus-on-image-compression-a69a23bc3583",
+            "start": 87,
+            "url": "https://t.co/raZF9xFgvS"
+          }
+        ]
+      },
+      "id": "912421996503474177",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "I just published “Guest Post: Cloudinary Uses Scale API to Focus on Image Compression” https://t.co/raZF9xFgvS",
+      "url": "https://x.com/alexandr_wang/status/912421996503474177"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "905279606764294145",
+      "created_at": "2017-09-06T04:00:52.000Z",
+      "edit_history_tweet_ids": [
+        "905279606764294145"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 124,
+            "start": 115,
+            "tag": "nips2017"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 17,
+            "id": "2502019975",
+            "start": 3,
+            "username": "BaiduResearch"
+          }
+        ]
+      },
+      "id": "905279606764294145",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 93
+      },
+      "referenced_tweets": [
+        {
+          "id": "905164016514768896",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @BaiduResearch: Proud to announce our paper \"Deep Voice 2: Multi-Speaker Neural Text-to-Speech\" is accepted for #nips2017 spotlight! htt…",
+      "url": "https://x.com/alexandr_wang/status/905279606764294145"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3225610602",
+        "conversation_id": "913444812497367041",
+        "created_at": "2017-09-28T16:46:28.000Z",
+        "edit_history_tweet_ids": [
+          "913444812497367041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "medium.com/@s.nikhilesh/i…",
+              "end": 64,
+              "expanded_url": "https://medium.com/@s.nikhilesh/introducing-expo-ar-mobile-augmented-reality-with-javascript-powered-by-arkit-b0d5a02ff23",
+              "start": 41,
+              "url": "https://t.co/myQWyd3eZ0"
+            }
+          ]
+        },
+        "id": "913444812497367041",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 294,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 139
+        },
+        "text": "Introducing Expo AR. Using ARKit w Expo. https://t.co/myQWyd3eZ0"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_905162696361959424"
+          ]
+        },
+        "author_id": "2502019975",
+        "conversation_id": "905164016514768896",
+        "created_at": "2017-09-05T20:21:33.000Z",
+        "edit_history_tweet_ids": [
+          "905164016514768896"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "nips2017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQnPdWD0GS",
+              "end": 164,
+              "expanded_url": "https://x.com/BaiduResearch/status/905164016514768896/photo/1",
+              "media_key": "3_905162696361959424",
+              "start": 141,
+              "url": "https://t.co/EQnPdWD0GS"
+            }
+          ]
+        },
+        "id": "905164016514768896",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 276,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 93
+        },
+        "text": "Proud to announce our paper \"Deep Voice 2: Multi-Speaker Neural Text-to-Speech\" is accepted for #nips2017 spotlight! https://t.co/DcITKIhMFJ https://t.co/EQnPdWD0GS"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "913474546514092038",
+    "next_token": "1jzu9lk96gu5npw448gyw9w85mmxzahzwfj1mpz4ec1p",
+    "oldest_id": "905279606764294145",
+    "result_count": 4
+  },
+  "errors": []
+}

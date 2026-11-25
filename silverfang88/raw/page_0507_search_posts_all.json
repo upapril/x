@@ -1,0 +1,55 @@
+{
+  "collected_at_utc": "2026-11-25T00:37:10Z",
+  "collected_at_shanghai": "2026-11-25T08:37:10+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8824HZQ3WSRD17AQ3JY2MF5.txt",
+  "request": {
+    "query": "from:silverfang88",
+    "start_time": "2026-11-24T12:00:00Z",
+    "end_time": "2026-11-25T00:35:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "day2-new-2026-11-24T12to25T0035"
+  },
+  "data": [
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "2125261591897870535",
+      "created_at": "2026-11-24T16:13:43.000Z",
+      "edit_history_tweet_ids": [
+        "2125261591897870535"
+      ],
+      "id": "2125261591897870535",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4722,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0
+      },
+      "text": "Anthropic走的和山寨数码币子似的…\n对美股大盘和指数的恶劣影响\n还要持续一个季度\n\n带崩一切的流动性抽取泵",
+      "url": "https://x.com/silverfang88/status/2125261591897870535"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1435990322702520320",
+        "name": "子时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111376053289594881/HJoHb6MH_normal.jpg",
+        "username": "silverfang88",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2125261591897870535",
+    "next_token": "b26v89c19zqg8o3juzoxfu6btkt93okhhjhibuvd0ag71",
+    "oldest_id": "2125261591897870535",
+    "result_count": 1
+  },
+  "errors": []
+}
