@@ -1,0 +1,41 @@
+tar 2025-07           26201 ['"result_count":25'] nxt=True BAD=False
+tha 2025-05           30114 ['"result_count":25'] nxt=True BAD=False
+tar 2025-05            6772 ['"result_count":25'] nxt=True BAD=False
+tha 2025-03           25093 ['"result_count":25'] nxt=True BAD=False
+tar 2025-08             256 ['"result_count":0'] nxt=False BAD=False
+tar 2025-03           36642 ['"result_count":25'] nxt=True BAD=False
+tar 2025-04           18389 ['"result_count":13'] nxt=True BAD=False
+tha 2025-04           24670 ['"result_count":25'] nxt=True BAD=False
+tar 2025-02           24169 ['"result_count":25'] nxt=True BAD=False
+tha 2025-02           27553 ['"result_count":25'] nxt=True BAD=False
+tar 2025-01           30722 ['"result_count":25'] nxt=True BAD=False
+tha 2025-01           31974 ['"result_count":25'] nxt=True BAD=False
+LAST_FOOTER X reads left for this user: 18 of 30 this minute (resets at 2026-11-25T01:14:00.000Z), 371 of 1000 today (resets at 2026-11-26T00:00:00.000Z).
+2025-07: added= 25 ret= 25 total=6953 2025-07-01T02:20:00.000Z->2025-07-03T09:28:24.000Z end=False pages=14
+2025-05: added= 25 ret= 25 total=6978 2025-05-01T02:41:35.000Z->2025-05-04T06:30:00.000Z end=False pages=13
+2025-08: added=  0 ret=  0 total=6978 None->None end=True pages=19
+2025-03: added= 25 ret= 25 total=7003 2025-03-19T01:52:15.000Z->2025-03-19T12:27:56.000Z end=False pages=9
+2025-04: added= 13 ret= 13 total=7016 2025-04-01T03:17:24.000Z->2025-04-02T02:08:22.000Z end=False pages=12
+2025-02: added= 25 ret= 25 total=7041 2025-02-18T00:40:52.000Z->2025-02-19T18:17:20.000Z end=False pages=5
+2025-01: added= 25 ret= 25 total=7066 2025-01-26T14:34:33.000Z->2025-01-29T08:20:25.000Z end=False pages=5
+open ['timeline-recent(p1,+25)', '2025-01(p5,+125)', '2025-02(p5,+125)', '2025-03(p9,+224)', '2025-04(p12,+286)', '2025-05(p13,+325)', '2025-07(p14,+350)']
+exhausted ['pinned(p1,+1)', '2026-11(p7,+98)', '2026-10(p23,+502)', '2026-06(p26,+600)', '2025-12(p10,+216)', '2025-06(p13,+289)', '2024-12(p19,+428)', '2022-12(p8,+170)', '2021-01(p5,+94)', '2016-12(p4,+67)', '2026-09(p11,+231)', '2026-08(p16,+365)', '2026-07(p14,+325)', '2026-05(p12,+262)', '2026-04(p7,+128)', '2026-03(p12,+261)', '2026-02(p8,+163)', '2026-01(p8,+160)', '2025-08(p19,+441)', '2025-09(p11,+248)', '2025-10(p14,+299)', '2025-11(p12,+256)', 'day2-new-2026-11-24T12to25T0035(p2,+2)']
+calls_this_pass 1515 last_total 7066
+
+2025-05: added= 25 ret= 25 total=4456 2025-05-21T17:43:07.000Z->2025-05-22T09:41:15.000Z end=False pages=12
+2025-03: added= 25 ret= 25 total=4481 2025-03-27T06:37:44.000Z->2025-03-27T18:49:47.000Z end=False pages=6
+2025-04: added= 25 ret= 25 total=4506 2025-04-14T06:36:28.000Z->2025-04-14T14:48:06.000Z end=False pages=12
+2025-02: added= 25 ret= 25 total=4531 2025-02-25T06:58:40.000Z->2025-02-26T03:17:42.000Z end=False pages=5
+2025-01: added= 25 ret= 25 total=4556 2025-01-07T04:41:31.000Z->2025-01-09T08:18:06.000Z end=False pages=5
+open ['timeline-recent(p1,+24)', '2025-01(p5,+125)', '2025-02(p5,+125)', '2025-03(p6,+150)', '2025-04(p12,+300)', '2025-05(p12,+300)']
+exhausted ['pinned(p1,+1)', '2026-11(p12,+222)', '2026-10(p6,+101)', '2026-06(p4,+71)', '2025-12(p7,+136)', '2025-06(p20,+458)', '2024-12(p12,+263)', '2023-12(p3,+44)', '2022-12(p2,+2)', '2018-12(p1,+0)', '2026-09(p8,+163)', '2026-08(p9,+195)', '2026-07(p6,+123)', '2026-05(p8,+156)', '2026-04(p10,+212)', '2026-03(p7,+141)', '2026-02(p7,+138)', '2026-01(p4,+60)', '2025-07(p6,+109)', '2025-08(p7,+135)', '2025-09(p3,+39)', '2025-10(p19,+428)', '2025-11(p15,+333)', 'day2-new-2026-11-24T12to25T0035(p2,+2)']
+calls_this_pass 1520 last_total 4556
+
+UNIQUES {'silverfang88': 10415, 'iiiinvest': 4712, 'alexandr_wang': 1873, 'taresky': 7066, 'thankUcrypto': 4556} sum 28622
+DAILY 371 USABLE 296
+STALL pagination_stalled silverfang88 2023-09 b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp
+STALL pagination_stalled silverfang88 2026-07 b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp
+STALL pagination_stalled iiiinvest 2026-08 b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp
+STALL not_proven_exhausted alexandr_wang 2012-2014 None
+EXH taresky 2025-08 p19 +441
+checkpointed calls_this_pass 1520 chunk 628 daily 371 usable 296

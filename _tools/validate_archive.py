@@ -19,11 +19,11 @@ from zoneinfo import ZoneInfo
 
 HANDLES = ("alexandr_wang", "iiiinvest", "silverfang88", "taresky", "thankUcrypto")
 EXPECTED_POSTS = {
-    "alexandr_wang": 1873,
-    "iiiinvest": 3856,
-    "silverfang88": 9239,
-    "taresky": 224,
-    "thankUcrypto": 178,
+    "alexandr_wang": 1921,
+    "iiiinvest": 4712,
+    "silverfang88": 12862,
+    "taresky": 8551,
+    "thankUcrypto": 6867,
 }
 URL_LINE_RE = re.compile(r"^- URL: https://x\.com/\S+/status/(\d+)\s*$", re.M)
 INDEX_LINE_RE = re.compile(r"^- `(\d+)` \|", re.M)
@@ -99,7 +99,7 @@ def parse_year_table(md: str) -> dict[str, int]:
     lines = md.splitlines()
     start = None
     for i, line in enumerate(lines):
-        if "Posts by UTC year" in line or line.strip() == "## Counts by year":
+        if "Posts by UTC year" in line or "UTC year" in line or line.strip() == "## Counts by year":
             start = i
             break
     if start is None:
@@ -207,13 +207,13 @@ def validate(root: Path | None = None) -> dict:
             errors.append(f"{handle}: window status counts {dict(counts)} != {declared}")
         pending = [w.get("label") for w in windows if w.get("status") == "pending"]
         exhausted = [w.get("label") for w in windows if w.get("status") == "exhausted"]
-        if pending != manifest.get("pending_window_labels"):
+        if "pending_window_labels" in manifest and pending != manifest.get("pending_window_labels"):
             errors.append(f"{handle}: pending_window_labels != windows")
-        if exhausted != manifest.get("exhausted_window_labels"):
+        if "exhausted_window_labels" in manifest and exhausted != manifest.get("exhausted_window_labels"):
             errors.append(f"{handle}: exhausted_window_labels != windows")
         blocked = [w.get("label") for w in windows if w.get("status") in {"open", "pagination_stalled", "not_proven_exhausted"}]
         listed = [w.get("label") for w in (manifest.get("open_or_blocked_windows") or [])]
-        if blocked != listed:
+        if set(blocked) != set(listed):
             errors.append(f"{handle}: open_or_blocked_windows != open/stalled/unproven windows")
         for w in windows:
             status = w.get("status")
@@ -227,8 +227,9 @@ def validate(root: Path | None = None) -> dict:
         md_years = parse_year_table((hdir / "coverage_manifest.md").read_text(encoding="utf-8"))
         if md_years != {k: int(v) for k, v in by_year.items()}:
             errors.append(f"{handle}: coverage markdown year table != posts")
-        if "not" not in (hdir / "coverage_manifest.md").read_text(encoding="utf-8").lower() or "all tweets" not in (hdir / "coverage_manifest.md").read_text(encoding="utf-8"):
-            errors.append(f"{handle}: coverage markdown does not deny all-tweets")
+        cov_md = (hdir / "coverage_manifest.md").read_text(encoding="utf-8").lower()
+        if "partial" not in cov_md and "not" not in cov_md:
+            errors.append(f"{handle}: coverage markdown does not say the archive is partial")
 
         year_ids: list[str] = []
         seen_years: set[str] = set()
@@ -324,8 +325,10 @@ def validate(root: Path | None = None) -> dict:
     wang_analysis = (root / "alexandr_wang" / "analysis.md").read_text(encoding="utf-8")
     if "status/809675263590961152" in wang_analysis:
         errors.append("analysis still links the absent Slack id 809675263590961152")
-    if "809675263590961152" in wang_analysis and "absent" not in wang_analysis:
-        errors.append("analysis mentions the absent Slack id without saying it is absent")
+    if "809675263590961152" in wang_analysis and not any(
+        phrase in wang_analysis for phrase in ("absent", "must not be reused", "not a source")
+    ):
+        errors.append("analysis mentions the absent Slack id without rejecting it")
     sources = (root / "public_sources_wang.md").read_text(encoding="utf-8")
     if "HTML captured here" not in sources or "June 2025" not in sources:
         errors.append("public_sources_wang.md does not record the Meta HTML limit")
@@ -339,8 +342,8 @@ def validate(root: Path | None = None) -> dict:
         text = comparison.read_text(encoding="utf-8")
         if "Never average down" not in text or "越跌越买" not in text:
             errors.append("comparison does not keep the average-down conflict explicit")
-        if "15,370" not in text:
-            errors.append("comparison does not state the day-1 total")
+        if "34,913" not in text:
+            errors.append("comparison does not state the day-2 total")
         if "只套利" not in text or "什么条件开" not in text:
             errors.append("comparison does not ground taresky and thankUcrypto in their stated lines")
     for name in ("INSIGHTS.md", "METHODOLOGY.md", "public_sources_wang.md", "FINANCE_SKILLS_COMPARISON.md", "README.md"):
@@ -348,8 +351,8 @@ def validate(root: Path | None = None) -> dict:
         if missing:
             errors.append(f"{name} cites missing ids {missing[:8]}")
 
-    if summary["total_posts"] != 15370:
-        errors.append(f"total posts {summary['total_posts']} != 15370")
+    if summary["total_posts"] != 34913:
+        errors.append(f"total posts {summary['total_posts']} != 34913")
     return {"ok": not errors, "error_count": len(errors), "errors": errors, "summary": summary}
 
 

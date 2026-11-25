@@ -1,0 +1,1856 @@
+{
+  "collected_at_utc": "2026-11-25T00:44:50Z",
+  "collected_at_shanghai": "2026-11-25T08:44:50+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M882JRZSCRKF399FSKPED0AS.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2025-06-01T00:00:00Z",
+    "end_time": "2025-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fsc57kjxbcnisdz67u4s90nlcd4lml",
+    "window_label": "2025-06"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934886832069922881",
+      "created_at": "2025-06-17T08:27:29.000Z",
+      "edit_history_tweet_ids": [
+        "1934890629861167549"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2576683783",
+            "start": 0,
+            "username": "aliez_ren"
+          }
+        ]
+      },
+      "id": "1934890629861167549",
+      "in_reply_to_user_id": "2576683783",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1437,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934886832069922881",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aliez_ren 好快...",
+      "url": "https://x.com/taresky/status/1934890629861167549"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934283922302775630",
+      "created_at": "2025-06-16T13:01:36.000Z",
+      "edit_history_tweet_ids": [
+        "1934597227701543074"
+      ],
+      "id": "1934597227701543074",
+      "in_reply_to_user_id": "24937687",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 102,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934553760434725085",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@NoPeople404 通用性差距很大",
+      "url": "https://x.com/taresky/status/1934597227701543074"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934507222383669605",
+      "created_at": "2025-06-16T07:48:46.000Z",
+      "edit_history_tweet_ids": [
+        "1934518497272615037"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1461562787008847873",
+            "start": 0,
+            "username": "22333D"
+          }
+        ]
+      },
+      "id": "1934518497272615037",
+      "in_reply_to_user_id": "1461562787008847873",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2430,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934507222383669605",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@22333D 结果就是没有一个是妄想…",
+      "url": "https://x.com/taresky/status/1934518497272615037"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934437949812383892",
+      "created_at": "2025-06-16T05:00:11.000Z",
+      "edit_history_tweet_ids": [
+        "1934476074395795881"
+      ],
+      "id": "1934476074395795881",
+      "in_reply_to_user_id": "1597583113160474624",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4659,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934437949812383892",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rnmumu3 好奇为啥不能代码",
+      "url": "https://x.com/taresky/status/1934476074395795881"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1934289359425134592"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1934283922302775630",
+      "created_at": "2025-06-15T16:38:15.000Z",
+      "edit_history_tweet_ids": [
+        "1934289361966911533"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/jYnXZQxvly",
+            "end": 37,
+            "expanded_url": "https://x.com/taresky/status/1934289361966911533/photo/1",
+            "media_key": "3_1934289359425134592",
+            "start": 14,
+            "url": "https://t.co/jYnXZQxvly"
+          }
+        ]
+      },
+      "id": "1934289361966911533",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4069,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934283922302775630",
+          "type": "replied_to"
+        }
+      ],
+      "text": "非常爽，广告弹框一闪而逝。 https://t.co/jYnXZQxvly",
+      "url": "https://x.com/taresky/status/1934289361966911533"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934274160769028603",
+      "created_at": "2025-06-15T16:26:14.000Z",
+      "edit_history_tweet_ids": [
+        "1934286334736372006"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "800153130977542146",
+            "start": 0,
+            "username": "anqirocks"
+          },
+          {
+            "end": 23,
+            "id": "17185799",
+            "start": 11,
+            "username": "Carlos_Gong"
+          }
+        ]
+      },
+      "id": "1934286334736372006",
+      "in_reply_to_user_id": "800153130977542146",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 238,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934282206488498231",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@anqirocks @Carlos_Gong 昨天和朋友刚聊到，如果有环保意识，应该去看看富人的生活习惯。\n\n如果还治不好，那就看看搞环保口号致富的人的生活习惯。",
+      "url": "https://x.com/taresky/status/1934286334736372006"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934283922302775630",
+      "created_at": "2025-06-15T16:16:38.000Z",
+      "edit_history_tweet_ids": [
+        "1934283922302775630"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/HiTw93/status/…",
+            "end": 34,
+            "expanded_url": "https://twitter.com/HiTw93/status/1934221567111881171",
+            "start": 11,
+            "url": "https://t.co/wdDN3Ixd8e"
+          }
+        ]
+      },
+      "id": "1934283922302775630",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 13042,
+        "like_count": 33,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934221567111881171",
+          "type": "quoted"
+        }
+      ],
+      "text": "最新的使用安卓的理由 https://t.co/wdDN3Ixd8e",
+      "url": "https://x.com/taresky/status/1934283922302775630"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1934142213220675923",
+      "created_at": "2025-06-15T07:42:04.000Z",
+      "edit_history_tweet_ids": [
+        "1934154426014720085"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "147786784",
+            "start": 0,
+            "username": "yetone"
+          },
+          {
+            "end": 14,
+            "id": "86696715",
+            "start": 8,
+            "username": "hzlzh"
+          }
+        ]
+      },
+      "id": "1934154426014720085",
+      "in_reply_to_user_id": "147786784",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1244,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1934149965728887216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yetone @hzlzh 正解，磁吸线难用死了",
+      "url": "https://x.com/taresky/status/1934154426014720085"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933885034362257463",
+      "created_at": "2025-06-14T13:58:07.000Z",
+      "edit_history_tweet_ids": [
+        "1933886675283054642"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "800153130977542146",
+            "start": 0,
+            "username": "anqirocks"
+          }
+        ]
+      },
+      "id": "1933886675283054642",
+      "in_reply_to_user_id": "800153130977542146",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1246,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933885034362257463",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@anqirocks 你不喝可乐也太过分了。",
+      "url": "https://x.com/taresky/status/1933886675283054642"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933885034362257463",
+      "created_at": "2025-06-14T13:54:59.000Z",
+      "edit_history_tweet_ids": [
+        "1933885886896472477"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "800153130977542146",
+            "start": 0,
+            "username": "anqirocks"
+          }
+        ]
+      },
+      "id": "1933885886896472477",
+      "in_reply_to_user_id": "800153130977542146",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 980,
+        "like_count": 1,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933885034362257463",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@anqirocks 不赌博。",
+      "url": "https://x.com/taresky/status/1933885886896472477"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933868580472308161",
+      "created_at": "2025-06-14T13:06:03.000Z",
+      "edit_history_tweet_ids": [
+        "1933873572591911278"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1625573534486388745",
+            "start": 0,
+            "username": "wu48636254"
+          }
+        ]
+      },
+      "id": "1933873572591911278",
+      "in_reply_to_user_id": "1625573534486388745",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 526,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933868580472308161",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wu48636254 拖得越久越垃圾",
+      "url": "https://x.com/taresky/status/1933873572591911278"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933720911741698383",
+      "created_at": "2025-06-14T07:17:23.000Z",
+      "edit_history_tweet_ids": [
+        "1933785826938532354"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1610353801",
+            "start": 0,
+            "username": "Cody_DeFi"
+          },
+          {
+            "end": 20,
+            "id": "1391305738513883140",
+            "start": 11,
+            "username": "rubywang"
+          }
+        ]
+      },
+      "id": "1933785826938532354",
+      "in_reply_to_user_id": "1610353801",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 400,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933785504694350025",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Cody_DeFi @rubywang 他认识的韭菜最多，把话筒都给他😆",
+      "url": "https://x.com/taresky/status/1933785826938532354"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933780660671643732",
+      "created_at": "2025-06-14T06:56:52.000Z",
+      "edit_history_tweet_ids": [
+        "1933780660671643732"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1545353315789471749",
+            "start": 3,
+            "username": "OneKeyCN"
+          }
+        ]
+      },
+      "id": "1933780660671643732",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 110
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933164176014459203",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @OneKeyCN: 我们总说“要安全”，但多数人从没学过“怎么安全”。\n\nOneKey 618 Web3 安全周，从今天开始。\n\n✓ 全场下单享 86 折优惠，选套装有额外奖励\n✓分享你遇到过的风险，参与安全故事会\n✓参与测评挑战，获得等级图卡与周边\n✓ 邀请四个好友购…",
+      "url": "https://x.com/taresky/status/1933780660671643732"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933391907780243639",
+      "created_at": "2025-06-14T06:25:28.000Z",
+      "edit_history_tweet_ids": [
+        "1933772759764775342"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "800153130977542146",
+            "start": 0,
+            "username": "anqirocks"
+          }
+        ]
+      },
+      "id": "1933772759764775342",
+      "in_reply_to_user_id": "800153130977542146",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 308,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933771197122261038",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@anqirocks 日本官僚机构会给你跪下服务。\n\n不过签证也是例外，那些都不是日本人，垃圾。",
+      "url": "https://x.com/taresky/status/1933772759764775342"
+    },
+    {
+      "attachments": {
+        "poll_ids": [
+          "1933698968896352256"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1933698969693270500",
+      "created_at": "2025-06-14T01:32:15.000Z",
+      "edit_history_tweet_ids": [
+        "1933698969693270500"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "投资"
+          }
+        ]
+      },
+      "id": "1933698969693270500",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 11297,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "#投资 \n\n当你手里有 10 万块时做交易，和手里有 1000 万时做交易，你的心态和决策完全一致，多年稳定持续盈利。\n\n你认为属于哪种情况？",
+      "url": "https://x.com/taresky/status/1933698969693270500"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933395141387301078",
+      "created_at": "2025-06-13T06:43:23.000Z",
+      "edit_history_tweet_ids": [
+        "1933414882596303232"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "912012131830259712",
+            "start": 0,
+            "username": "ZLiao3"
+          },
+          {
+            "end": 19,
+            "id": "1377637009871798277",
+            "start": 8,
+            "username": "Super4DeFi"
+          }
+        ]
+      },
+      "id": "1933414882596303232",
+      "in_reply_to_user_id": "912012131830259712",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 491,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933413738914460116",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ZLiao3 @Super4DeFi 项目方想要的就是 Pendle 希望提供的。大部分项目方需要 tvl 撑场面，历史业绩=tvl。",
+      "url": "https://x.com/taresky/status/1933414882596303232"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933395141387301078",
+      "created_at": "2025-06-13T06:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "1933413197127487625"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "912012131830259712",
+            "start": 0,
+            "username": "ZLiao3"
+          },
+          {
+            "end": 19,
+            "id": "1377637009871798277",
+            "start": 8,
+            "username": "Super4DeFi"
+          }
+        ]
+      },
+      "id": "1933413197127487625",
+      "in_reply_to_user_id": "912012131830259712",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 332,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933412160459452811",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ZLiao3 @Super4DeFi 如果没有 tvl，Pendle 拿什么去谈…",
+      "url": "https://x.com/taresky/status/1933413197127487625"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1932824857919828177",
+      "created_at": "2025-06-13T06:07:51.000Z",
+      "edit_history_tweet_ids": [
+        "1933405939949846551"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1180464769452654592",
+            "start": 0,
+            "username": "dran_go"
+          },
+          {
+            "end": 19,
+            "id": "1226906769286406145",
+            "start": 9,
+            "username": "OKxiaohai"
+          }
+        ]
+      },
+      "id": "1933405939949846551",
+      "in_reply_to_user_id": "1180464769452654592",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 100,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933371532165963945",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dran_go @OKxiaohai 没有技术门槛，有认知门槛。\n\n是矛盾的，自己监控着等风险发生捡尸体赚钱就好了。\n\n如果能做到已经屡次赚钱了，不会想着去做什么产品的…",
+      "url": "https://x.com/taresky/status/1933405939949846551"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1932824857919828177",
+      "created_at": "2025-06-13T03:29:19.000Z",
+      "edit_history_tweet_ids": [
+        "1933366044024041513"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1180464769452654592",
+            "start": 0,
+            "username": "dran_go"
+          },
+          {
+            "end": 19,
+            "id": "1226906769286406145",
+            "start": 9,
+            "username": "OKxiaohai"
+          }
+        ]
+      },
+      "id": "1933366044024041513",
+      "in_reply_to_user_id": "1180464769452654592",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 110,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933363435397657072",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dran_go @OKxiaohai 年费 5 万美金能接受吗🤦",
+      "url": "https://x.com/taresky/status/1933366044024041513"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933356355869650991",
+      "created_at": "2025-06-13T03:00:19.000Z",
+      "edit_history_tweet_ids": [
+        "1933358746614563112"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1226906769286406145",
+            "start": 0,
+            "username": "OKxiaohai"
+          }
+        ]
+      },
+      "id": "1933358746614563112",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1030,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933358469987639493",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OKxiaohai 哦最多，应该是噱头。毕竟 U 卡太低级了…",
+      "url": "https://x.com/taresky/status/1933358746614563112"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933356355869650991",
+      "created_at": "2025-06-13T02:59:13.000Z",
+      "edit_history_tweet_ids": [
+        "1933358469987639493"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1226906769286406145",
+            "start": 0,
+            "username": "OKxiaohai"
+          }
+        ]
+      },
+      "id": "1933358469987639493",
+      "in_reply_to_user_id": "1226906769286406145",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1710,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933356355869650991",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OKxiaohai 无脑 4% 的话很香了，毕竟 amex 各种神卡的开卡礼总会薅完的。",
+      "url": "https://x.com/taresky/status/1933358469987639493"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933176146889507318",
+      "created_at": "2025-06-12T15:12:39.000Z",
+      "edit_history_tweet_ids": [
+        "1933180653484544342"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1226906769286406145",
+            "start": 0,
+            "username": "OKxiaohai"
+          },
+          {
+            "end": 22,
+            "id": "1377637009871798277",
+            "start": 11,
+            "username": "Super4DeFi"
+          }
+        ]
+      },
+      "id": "1933180653484544342",
+      "in_reply_to_user_id": "1226906769286406145",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 327,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933180434034405480",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OKxiaohai @Super4DeFi 我艹你几百个号",
+      "url": "https://x.com/taresky/status/1933180653484544342"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933100290724733027",
+      "created_at": "2025-06-12T09:54:39.000Z",
+      "edit_history_tweet_ids": [
+        "1933100627149877715"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "27251422",
+            "start": 0,
+            "username": "Blankwonder"
+          }
+        ]
+      },
+      "id": "1933100627149877715",
+      "in_reply_to_user_id": "27251422",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4583,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933100290724733027",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Blankwonder 是",
+      "url": "https://x.com/taresky/status/1933100627149877715"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1933023376102305919",
+      "created_at": "2025-06-12T05:05:04.000Z",
+      "edit_history_tweet_ids": [
+        "1933027751726100560"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "258156475",
+            "start": 0,
+            "username": "ohyishi"
+          }
+        ]
+      },
+      "id": "1933027751726100560",
+      "in_reply_to_user_id": "258156475",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1972,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933023376102305919",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ohyishi 赚钱",
+      "url": "https://x.com/taresky/status/1933027751726100560"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1932819429420904450",
+      "created_at": "2025-06-12T03:46:43.000Z",
+      "edit_history_tweet_ids": [
+        "1933008032612692465"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "183992653",
+            "start": 0,
+            "username": "re333na"
+          },
+          {
+            "end": 20,
+            "id": "1377637009871798277",
+            "start": 9,
+            "username": "Super4DeFi"
+          }
+        ]
+      },
+      "id": "1933008032612692465",
+      "in_reply_to_user_id": "183992653",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 411,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1933006463200604675",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@re333na @Super4DeFi 哭了",
+      "url": "https://x.com/taresky/status/1933008032612692465"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1934886778248548355"
+          ]
+        },
+        "author_id": "2576683783",
+        "conversation_id": "1934886832069922881",
+        "created_at": "2025-06-17T08:12:23.000Z",
+        "edit_history_tweet_ids": [
+          "1934886832069922881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woDs3StST7",
+              "end": 30,
+              "expanded_url": "https://x.com/aliez_ren/status/1934886832069922881/photo/1",
+              "media_key": "3_1934886778248548355",
+              "start": 7,
+              "url": "https://t.co/woDs3StST7"
+            }
+          ]
+        },
+        "id": "1934886832069922881",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6983,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "豪华猪脚饭🥳 https://t.co/woDs3StST7"
+      },
+      {
+        "author_id": "24937687",
+        "conversation_id": "1934283922302775630",
+        "created_at": "2025-06-16T10:08:53.000Z",
+        "edit_history_tweet_ids": [
+          "1934553760434725085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1934553760434725085",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934283922302775630",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky iPhone上用Surge或Loon不是更方便吗"
+      },
+      {
+        "author_id": "1461562787008847873",
+        "conversation_id": "1934507222383669605",
+        "created_at": "2025-06-16T07:03:57.000Z",
+        "edit_history_tweet_ids": [
+          "1934507222383669605"
+        ],
+        "id": "1934507222383669605",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16922,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "text": "少亏钱的秘诀：有被迫害妄想症。"
+      },
+      {
+        "author_id": "1597583113160474624",
+        "conversation_id": "1934437949812383892",
+        "created_at": "2025-06-16T02:28:42.000Z",
+        "edit_history_tweet_ids": [
+          "1934437949812383892"
+        ],
+        "id": "1934437949812383892",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "到处都是钱，遍地都是钱，看不懂看不明白的，我只想说几句话。\n\n1. 兄弟你彩票想中500万，你倒是买一张彩票啊。\n2. 爱上层楼，为赋新词强说愁。\n3. 不要无病呻吟。\n\n天天看鸡汤，看鸡汤，就是不动手，没啥用的，所以我说每一个动手的人都值得尊敬。\n\n我手动搬砖1天1000条tx，一个月了，不能代码，每天搞16h起步。"
+        },
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 21761,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "text": "到处都是钱，遍地都是钱，看不懂看不明白的，我只想说几句话。\n\n1. 兄弟你彩票想中500万，你倒是买一张彩票啊。\n2. 爱上层楼，为赋新词强说愁。\n3. 不要无病呻吟。\n\n天天看鸡汤，看鸡汤，就是不动手，没啥用的，所以我说每一个动手的人都值得尊敬。"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1934283922302775630",
+        "created_at": "2025-06-15T16:16:38.000Z",
+        "edit_history_tweet_ids": [
+          "1934283922302775630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiTw93/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/HiTw93/status/1934221567111881171",
+              "start": 11,
+              "url": "https://t.co/wdDN3Ixd8e"
+            }
+          ]
+        },
+        "id": "1934283922302775630",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 13042,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934221567111881171",
+            "type": "quoted"
+          }
+        ],
+        "text": "最新的使用安卓的理由 https://t.co/wdDN3Ixd8e"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1934221523772162048"
+          ]
+        },
+        "author_id": "1521688129559613440",
+        "conversation_id": "1934221567111881171",
+        "created_at": "2025-06-15T12:08:52.000Z",
+        "edit_history_tweet_ids": [
+          "1934221567111881171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9nxiw48im2",
+              "end": 158,
+              "expanded_url": "https://x.com/HiTw93/status/1934221567111881171/photo/1",
+              "media_key": "3_1934221523772162048",
+              "start": 135,
+              "url": "https://t.co/9nxiw48im2"
+            }
+          ]
+        },
+        "id": "1934221567111881171",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1470,
+          "impression_count": 771025,
+          "like_count": 1452,
+          "quote_count": 13,
+          "reply_count": 68,
+          "retweet_count": 215
+        },
+        "text": "假如你用 Android 手机，可以试试 GKD 这款自动去除各种软件开屏广告以及自动操作的工具，非常方便，官方定义是「基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用」，我认为这是一款升级版本的李跳跳，开源，持续更新，可订阅规则，很强大很易用。 https://t.co/9nxiw48im2"
+      },
+      {
+        "author_id": "147786784",
+        "conversation_id": "1934142213220675923",
+        "created_at": "2025-06-15T07:24:21.000Z",
+        "edit_history_tweet_ids": [
+          "1934149965728887216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "86696715",
+              "start": 0,
+              "username": "hzlzh"
+            }
+          ]
+        },
+        "id": "1934149965728887216",
+        "in_reply_to_user_id": "86696715",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7706,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934142213220675923",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@hzlzh 磁吸线好硬的，而且永远是弯的很难驾驭，所以我已经抛弃了我所有的磁吸线，只用软线"
+      },
+      {
+        "author_id": "1625573534486388745",
+        "conversation_id": "1933868580472308161",
+        "created_at": "2025-06-14T12:46:13.000Z",
+        "edit_history_tweet_ids": [
+          "1933868580472308161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ice_Frog666666…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Ice_Frog666666/status/1933866735175864689",
+              "start": 16,
+              "url": "https://t.co/y8dahizzNd"
+            }
+          ]
+        },
+        "id": "1933868580472308161",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933866735175864689",
+            "type": "quoted"
+          }
+        ],
+        "text": "铁垃圾，pt 10% 就是终点 https://t.co/y8dahizzNd"
+      },
+      {
+        "author_id": "1610353801",
+        "conversation_id": "1933720911741698383",
+        "created_at": "2025-06-14T07:16:06.000Z",
+        "edit_history_tweet_ids": [
+          "1933785504694350025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1391305738513883140",
+              "start": 0,
+              "username": "rubywang"
+            }
+          ]
+        },
+        "id": "1933785504694350025",
+        "in_reply_to_user_id": "1391305738513883140",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933720911741698383",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@rubywang 让他多写点DeFi ，蛋糕做大还得靠他🤣"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1933163918891061248",
+            "3_1933164004081557504"
+          ]
+        },
+        "author_id": "1545353315789471749",
+        "conversation_id": "1933164176014459203",
+        "created_at": "2025-06-12T14:07:10.000Z",
+        "edit_history_tweet_ids": [
+          "1933164085249774011",
+          "1933164176014459203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxCGRLPznJ",
+              "end": 173,
+              "expanded_url": "https://x.com/OneKeyCN/status/1933164176014459203/photo/1",
+              "media_key": "3_1933163918891061248",
+              "start": 150,
+              "url": "https://t.co/JxCGRLPznJ"
+            },
+            {
+              "display_url": "pic.x.com/JxCGRLPznJ",
+              "end": 173,
+              "expanded_url": "https://x.com/OneKeyCN/status/1933164176014459203/photo/2",
+              "media_key": "3_1933164004081557504",
+              "start": 150,
+              "url": "https://t.co/JxCGRLPznJ"
+            }
+          ]
+        },
+        "id": "1933164176014459203",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "我们总说“要安全”，但多数人从没学过“怎么安全”。\n\nOneKey 618 Web3 安全周，从今天开始。\n\n✓ 全场下单享 86 折优惠，选套装有额外奖励\n✓分享你遇到过的风险，参与安全故事会\n✓参与测评挑战，获得等级图卡与周边\n✓ 邀请四个好友购买硬件钱包，获得一次Classic 1s免单机会\n\n安全，从不靠运气，靠意识和选择。\n\n比起被动防御，不如主动掌控。"
+        },
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 100628,
+          "like_count": 160,
+          "quote_count": 10,
+          "reply_count": 165,
+          "retweet_count": 110
+        },
+        "text": "我们总说“要安全”，但多数人从没学过“怎么安全”。\n\nOneKey 618 Web3 安全周，从今天开始。\n\n✓ 全场下单享 86 折优惠，选套装有额外奖励\n✓分享你遇到过的风险，参与安全故事会\n✓参与测评挑战，获得等级图卡与周边\n✓ 邀请四个好友购买硬件钱包，获得一次Classic 1s免单机会 https://t.co/JxCGRLPznJ"
+      },
+      {
+        "author_id": "912012131830259712",
+        "conversation_id": "1933395141387301078",
+        "created_at": "2025-06-13T06:38:51.000Z",
+        "edit_history_tweet_ids": [
+          "1933413738914460116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 20,
+              "id": "1377637009871798277",
+              "start": 9,
+              "username": "Super4DeFi"
+            }
+          ]
+        },
+        "id": "1933413738914460116",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933413197127487625",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @Super4DeFi 历史业绩？anyway我只是描述现在这个事实... 我旗帜鲜明地不喜欢一切tvl摆盘项目😂\n\n如果是spark不想让循（这个项目campaign很特殊）。就是他们不追求tvl增长，不想有过多负债。本身DAI家大业大的，增长也不是靠pt循环，和新项目还不一样。"
+      },
+      {
+        "author_id": "912012131830259712",
+        "conversation_id": "1933395141387301078",
+        "created_at": "2025-06-13T06:32:34.000Z",
+        "edit_history_tweet_ids": [
+          "1933412160459452811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377637009871798277",
+              "start": 0,
+              "username": "Super4DeFi"
+            }
+          ]
+        },
+        "id": "1933412160459452811",
+        "in_reply_to_user_id": "1377637009871798277",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933395141387301078",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Super4DeFi 对Pendle来说，不管积分/tvl多少，他拿的5%都是固定的。多循一次少循一次没区别。不管是700B积分还是70B积分，对应的100M代币（假设）都是抽走5%，5M个。\n\n因此mint-循环给Pendle不带来增量收入。"
+      },
+      {
+        "author_id": "1180464769452654592",
+        "conversation_id": "1932824857919828177",
+        "created_at": "2025-06-13T03:51:08.000Z",
+        "edit_history_tweet_ids": [
+          "1933371532165963945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 19,
+              "id": "1226906769286406145",
+              "start": 9,
+              "username": "OKxiaohai"
+            }
+          ]
+        },
+        "id": "1933371532165963945",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933366044024041513",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @OKxiaohai 这就是尴尬的地方，这个技术门槛不高，没法按资金量分级收费，大哥跟散户都一样只能收个月费，但DeFi用户群体并不大，收不上来多少"
+      },
+      {
+        "author_id": "1180464769452654592",
+        "conversation_id": "1932824857919828177",
+        "created_at": "2025-06-13T03:18:57.000Z",
+        "edit_history_tweet_ids": [
+          "1933363435397657072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 19,
+              "id": "1226906769286406145",
+              "start": 9,
+              "username": "OKxiaohai"
+            }
+          ]
+        },
+        "id": "1933363435397657072",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932830763109790222",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @OKxiaohai 单纯价格告警没什么用，最好是直接监控钱包，当某个池子风险较大时推送告警"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1933356355869650991",
+        "created_at": "2025-06-13T02:59:13.000Z",
+        "edit_history_tweet_ids": [
+          "1933358469987639493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226906769286406145",
+              "start": 0,
+              "username": "OKxiaohai"
+            }
+          ]
+        },
+        "id": "1933358469987639493",
+        "in_reply_to_user_id": "1226906769286406145",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1710,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933356355869650991",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@OKxiaohai 无脑 4% 的话很香了，毕竟 amex 各种神卡的开卡礼总会薅完的。"
+      },
+      {
+        "author_id": "1226906769286406145",
+        "conversation_id": "1933356355869650991",
+        "created_at": "2025-06-13T02:50:49.000Z",
+        "edit_history_tweet_ids": [
+          "1933356355869650991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brian_armstron…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/brian_armstrong/status/1933290398799065459",
+              "start": 171,
+              "url": "https://t.co/L2hrP934gf"
+            }
+          ]
+        },
+        "id": "1933356355869650991",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "💳 Coinbase 也要做U卡了。\n\n与一般 U 卡不同的是，这次的合作方是美国运通（American Express），这是美运通首次推出且唯一的 U 卡。 基本信息如下：\n\n- Coinbase One 用户可以申请（One 会员 299U / 年），卡的年费是 49.99U / 年，没有其他费用。但这两个成本已经接近 350U / 年，接近大部分白金卡的用卡成本了。\n\n- 消费可享至多 4% 的返现，以 BTC 形式返；账户的前 1 万 USDC 享受 4.5% 的基础年化。\n\n- 另外上面虽然提到没有其他费用了，但是单笔消费超过500美元，可能还会包含交易费用。\n\n- 美运通的用卡福利这边，例如会籍匹配、开户奖励等，提的比较模糊（Get additional benefits），也就是有，但是可能不多。\n\n- 预计推出时间秋季 - 年底，第一批暂时只支持美国的用户开放。"
+        },
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21123,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933290398799065459",
+            "type": "quoted"
+          }
+        ],
+        "text": "💳 Coinbase 也要做U卡了。\n\n与一般 U 卡不同的是，这次的合作方是美国运通（American Express），这是美运通首次推出且唯一的 U 卡。 基本信息如下：\n\n- Coinbase One 用户可以申请（One 会员 299U / 年），卡的年费是 49.99U / 年，没有其他费用。但这两个成本已经接近 350U / https://t.co/L2hrP934gf"
+      },
+      {
+        "author_id": "1226906769286406145",
+        "conversation_id": "1933176146889507318",
+        "created_at": "2025-06-12T15:11:46.000Z",
+        "edit_history_tweet_ids": [
+          "1933180434034405480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377637009871798277",
+              "start": 0,
+              "username": "Super4DeFi"
+            }
+          ]
+        },
+        "id": "1933180434034405480",
+        "in_reply_to_user_id": "1377637009871798277",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 992,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933176146889507318",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Super4DeFi 非常满意"
+      },
+      {
+        "author_id": "27251422",
+        "conversation_id": "1933100290724733027",
+        "created_at": "2025-06-12T09:53:19.000Z",
+        "edit_history_tweet_ids": [
+          "1933100290724733027"
+        ],
+        "id": "1933100290724733027",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38490,
+          "like_count": 119,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "text": "以后买机票真要避开所有波音了吗"
+      },
+      {
+        "author_id": "258156475",
+        "conversation_id": "1933023376102305919",
+        "created_at": "2025-06-12T04:47:41.000Z",
+        "edit_history_tweet_ids": [
+          "1933023376102305919"
+        ],
+        "id": "1933023376102305919",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14050,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "text": "money’s endless. your time isn’t. do what you’d still grind on after gettin’ paid."
+      },
+      {
+        "author_id": "183992653",
+        "conversation_id": "1932819429420904450",
+        "created_at": "2025-06-12T03:40:29.000Z",
+        "edit_history_tweet_ids": [
+          "1933006463200604675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377637009871798277",
+              "start": 0,
+              "username": "Super4DeFi"
+            }
+          ]
+        },
+        "id": "1933006463200604675",
+        "in_reply_to_user_id": "1377637009871798277",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932819429420904450",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Super4DeFi 我来验证下是不是"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "2576683783",
+        "name": "Aliez Ren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032458974470262785/ECR72V3E_normal.jpg",
+        "username": "aliez_ren",
+        "verified": false
+      },
+      {
+        "id": "24937687",
+        "name": "Moran Fong🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068371162053353473/StbvYS5F_normal.jpg",
+        "username": "morandotim",
+        "verified": false
+      },
+      {
+        "id": "1461562787008847873",
+        "name": "3D 加密频道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112919966311739392/QIpXoRaz_normal.jpg",
+        "username": "22333D",
+        "verified": false
+      },
+      {
+        "id": "1597583113160474624",
+        "name": "十年一梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069648244687413248/VezLsbGH_normal.jpg",
+        "username": "dan326714",
+        "verified": false
+      },
+      {
+        "id": "147786784",
+        "name": "yetone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "username": "yetone",
+        "verified": false
+      },
+      {
+        "id": "1625573534486388745",
+        "name": "danielxu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942937727101435904/6yADo0ga_normal.jpg",
+        "username": "wu48636254",
+        "verified": false
+      },
+      {
+        "id": "1610353801",
+        "name": "Cody",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781050103006158850/lJvhLicr_normal.jpg",
+        "username": "Cody_DeFi",
+        "verified": false
+      },
+      {
+        "id": "912012131830259712",
+        "name": "橘皮乌龙||Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905538164477063168/J4fD8c7M_normal.jpg",
+        "username": "ZLiao3",
+        "verified": false
+      },
+      {
+        "id": "1180464769452654592",
+        "name": "DranGo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774413561814798336/OqXr32J8_normal.jpg",
+        "username": "dran_go",
+        "verified": false
+      },
+      {
+        "id": "1226906769286406145",
+        "name": "阿小小海 🐈 🐈‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964556922818031616/__gJh3_c_normal.jpg",
+        "username": "OKxiaohai",
+        "verified": false
+      },
+      {
+        "id": "27251422",
+        "name": "Yachen Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769760069393281024/vESyD2hO_normal.jpg",
+        "username": "Blankwonder",
+        "verified": false
+      },
+      {
+        "id": "258156475",
+        "name": "Yishi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099968323257860096/3A6SlEyN_normal.jpg",
+        "username": "ohyishi",
+        "verified": false
+      },
+      {
+        "id": "183992653",
+        "name": "Rena",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809774134341316608/oA6ImZ31_normal.jpg",
+        "username": "re333na",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1934890629861167549",
+    "next_token": "b26v89c19zqg8o3fsc574x6vfojcj5b765e5s88p2k9rx",
+    "oldest_id": "1933008032612692465",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [800153130977542146].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "800153130977542146",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "800153130977542146"
+    },
+    {
+      "detail": "User has been suspended: [800153130977542146].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "800153130977542146",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "800153130977542146"
+    },
+    {
+      "detail": "User has been suspended: [800153130977542146].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "800153130977542146",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "800153130977542146"
+    },
+    {
+      "detail": "User has been suspended: [800153130977542146].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "800153130977542146",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "800153130977542146"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934282206488498231].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934282206488498231",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1934282206488498231"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933885034362257463].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933885034362257463",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1933885034362257463"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933885034362257463].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933885034362257463",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1933885034362257463"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933771197122261038].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933771197122261038",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1933771197122261038"
+    }
+  ]
+}

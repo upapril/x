@@ -1,64 +1,42 @@
-# Insights (day-1 close, five accounts, explicitly partial)
+# Five-account insights — day2 reserve close, explicitly partial
 
-This file is a **reading guide**, not a proof of edge. It is based on public X posts stored on 24 Nov 2026 plus, for @alexandr_wang, official pages already quoted in `public_sources_wang.md`. Coverage is incomplete for every handle. Self-reported P&L is unverified. **No legal names are inferred.** Times are Asia/Shanghai (GMT+8) unless labeled UTC.
+**25 Nov 2026, Asia/Shanghai.** This is selective source-linked synthesis, not a claim to have manually read every post or verified a trading edge. Exact literal records, attribution and raw provenance are the primary evidence. Self-reported returns, fills, flow explanations and accusations are not independently established facts. No private legal names are inferred.
 
-**Day-1 store (unique post ids, `json.loads` of each JSONL line, bad=0):** @silverfang88 9,239; @iiiinvest 3,856; @alexandr_wang 1,873; @taresky 224; @thankUcrypto 178; **total 15,370**. Profile `post_count` at lookup is not a missing-count proof (19,982 / 4,858 / 3,762 / 34,003 / 8,097).
+## Corpus and navigation
 
-Authoritative day-1 footer after the last ingested X call:
+| Public handle | Stored unique IDs | Added day2 | Best use of the captured evidence |
+|---|---:|---:|---|
+| [@silverfang88](silverfang88/analysis.md) | 12,862 | 3,623 | Narrative/cost advantage, attention versus executable opportunity, now deeper mid-2024 and May–Jul2025 |
+| [@iiiinvest](iiiinvest/analysis.md) | 4,712 | 856 | 2026 dated plans, one explicit stop/follow-up pair, holding versus taking profit, aggressive capital-tier advice |
+| [@alexandr_wang](alexandr_wang/analysis.md) | 1,921 | 48 | Operator/customer/API evidence; **not a trader**; recent Meta claims remain source-bound |
+| [@taresky](taresky/analysis.md) | 8,551 | 8,327 | Arb, risk budget, redemption mechanics and a dated move beyond the absolute2022 exposure rule |
+| [@thankUcrypto](thankUcrypto/analysis.md) | 6,867 | 6,689 | Discretionary leverage, stop execution, follower-fill/business constraints and anti-martingale inconsistency |
+| **Total** | **34,913** | **19,543** | Day1 baseline15,370 retained; only four audited inherited corrections |
 
-> X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).
+Each folder: `analysis.md`, `coverage_manifest.md/.json`, `chronological_archive.md`, yearly full-text `archives/YYYY.md`, `normalized/posts.jsonl`, `provenance.json` and `raw/`. [Finance comparison](FINANCE_COMPARISON.md). [Methods](METHODOLOGY.md). [Exact unfinished jobs](logs/DAY2_FINAL_REMAINING_JOBS.json).
 
-Daily reset `2026-11-25T00:00:00.000Z` = **2026-11-25 08:00 Asia/Shanghai**. Remaining unfinished windows are in `logs/remaining_jobs_day1.json`.
+## Five valuable NEW findings
 
----
+1. **Taresky's exposure rule had already broadened in2024.** The2022 “只套利，不承担风险敞口” is no longer best read as a timeless policy. On **9 Nov2024** he explicitly says he researched strategies with less-certain exposure and longer cycles, accepting some drawdown. By **26 Jun2025** he describes rare directional exceptions. This is dated self-described evolution, not proof of a hidden loss or that all arb ended inJune2025. [2024 admission](https://x.com/taresky/status/1855145990510329859) · [2025 exceptions](https://x.com/taresky/status/1938213833245659239).
 
-## How to read the five folders
+2. **Copy-trading mechanics explain an important thankUcrypto tension.** On **22 Jul2024** he says “我又不马丁,” while explaining how stops make followers leave and reduce profit-share income. On **24 Nov2026**, in a different market, he describes adding “相当于马丁.” The contradiction is in his words; the business pressures are a plausible interpretation, not a demonstrated cause. [2024 process/economics](https://x.com/thankUcrypto/status/1815223717531918486) · [2026 A-share add](https://x.com/thankUcrypto/status/2125183975757119963).
 
-| Handle | Folder | Public identity (from profile/posts only) | What this corpus is actually good for | What it is not |
-|---|---|---|---|---|
-| [@alexandr_wang](https://x.com/alexandr_wang) | `alexandr_wang/` | Alexandr Wang; Scale founder; Meta role per sourced official pages | Operator / AI-infrastructure public arguments, 2015–2023 much improved vs first pass | Not a trader; 2012–2014 unproven; 2024–2026 monthly jobs mostly unopened |
-| [@iiiinvest](https://x.com/iiiinvest) | `iiiinvest/` | 电鱼哥 | Deep **2026** plan-first / “不格局” journal; earlier years thin | Not a complete 2023–2025 history; not a verified edge |
-| [@silverfang88](https://x.com/silverfang88) | `silverfang88/` | 子时; “Polymarket Traders” affiliation text | Narrative-rotation rules, 2023 rule list, later US-stock / AI-story posts; 2025–2026 now deep | Not all 19,982 profile posts; 2025-01–04 and parts of 2024 still open/pending |
-| [@taresky](https://x.com/taresky) | `taresky/` | 𝘁𝗮𝗿𝗲𝘀𝗸𝘆; bio `套利 1~100x \| 2021~2025.6` | A **thin initial sample** that happens to contain a very clear 2022 arb manifesto | 224 of 34,003 posts; most years unopened; 2025–2026 style change is unproven |
-| [@thankUcrypto](https://x.com/thankUcrypto) | `thankUcrypto/` | allincrypto 熬鹰资本 | A **thin initial sample** of a high-activity discretionary / 带单 journal, including sharp contradictions | 178 of 8,097; pre-2025 X mostly unsampled; all P&L unverified |
+3. **iiiinvest now has an unusually useful plan → reported losing execution pair.** On **3 Sep2026** he specifies a full stop above150; on **4 Sep** he reports that the overnight stop triggered and calls the short round a loss. This supports public invalidation/follow-through in that case, not verified fills or portfolio-wide discipline. The following day's leveraged all-in advice for small accounts prevents calling the whole method conservative. [Plan](https://x.com/iiiinvest/status/2095515428634464402) · [Reported stop](https://x.com/iiiinvest/status/2095721109156995262) · [Sizing warning](https://x.com/iiiinvest/status/2096170727707648118).
 
-Per-account arguments, rules, and caveats: `*/analysis.md`. Archives: `*/chronological_archive.md` and `*/archives/YYYY.md`.
+4. **Silverfang separates a loud story from a good trade more clearly than the older slogan alone.** On **10 Jul2025** he describes attention-driven liquidity aroundPump, yet lists token-claim/exchange-credit timing and squeeze risks and calls it “以大搏小.” This is negative-selection evidence, not a Pump forecast verified here. His JuneCircle “认知套利” is domain knowledge crossing venues, not riskless paired arb. [Pump checklist](https://x.com/silverfang88/status/1943173189305274473) · [Circle/early sale](https://x.com/silverfang88/status/1935565562832375826).
 
----
+5. **Wang's new2017 posts are concrete customer/product evidence, not trading doctrine.** The June reply asks about requirements; the October reply offers an API for human image segmentation. These improve the early operator chronology without inventing a finance method from later prestige. [Customer requirements](https://x.com/alexandr_wang/status/880514207153741824) · [API description](https://x.com/alexandr_wang/status/915051465659400192).
 
-## New evidence from the late day-1 sample (not re-proving every older claim)
+## What the larger sample changes—and does not
 
-These are the most useful *new* statements captured after the 9,435-post package, including the two accounts added late in the day. They are dated public texts, not demonstrated trading systems.
+- Both newer accounts'2025/2026 histories are now substantial rather than224/178-post initial samples. Older years are still highly uneven. Taresky2025 is terminal in attempted monthly searches; thankUcrypto2025 March is still open. Search exhaustion is a property of saved windows, not the account's entire history.
+- Process slogans do not imply sizing discipline. “Plan,” “stop,” “arb,” “low risk” and “hold” refer to different horizons and risk objects. The [comparison](FINANCE_COMPARISON.md) keeps them separate.
+- Same text under different IDs remains separate, including repeated2024 closure posts. Reposts and quoted authors are not credited as original words of the folder account.
+- Significant Meta claims stay source-bound. No new Meta-page read occurred on day 2. HTML captured from the leadership URL on 24 Nov 2026 supports the Chief AI Officer title and a short vision sentence, and does not contain “first-ever,” “June 2025,” or “Meta Superintelligence Labs.” A retained packaging note attributes that longer sentence to the same URL. Both versions are in [public_sources_wang.md](public_sources_wang.md). The 1 Jul 2025 post states the title and does not establish “first-ever” or a June start.
+- We did not verify complete account equity, deposits/withdrawals, fees/funding, slippage, causal market impact, linked article contents or every media attachment. No win-rate or P&L ranking is warranted.
 
-1. **@taresky, 28 Dec 2022 — only arb, no risk exposure.** “只套利，不承担风险敞口,” plus a preference for bear markets as a zero-sum spectator of other people’s liquidations. [1608095146834563072](https://x.com/taresky/status/1608095146834563072). The root of the same thread self-reports 2021 ~200% APY / <10% max DD and 2022 >50% APY / <5% max DD ([1608095141713305600](https://x.com/taresky/status/1608095141713305600)) — **unverified**. The current bio dates an arb window `2021~2025.6`. The 2025–2026 pages in this sample do not repeat the rule; that is a gap, not a proof he stopped.
+## Actual stop and next state
 
-2. **@taresky, 29 Jun 2026 — partnership as equal split or employment.** “愿意跟这个人平分所有收益。要不然就不要合作，走雇佣.” [2071431063684178369](https://x.com/taresky/status/2071431063684178369). A people rule, not a market rule; useful because it is operational and dated.
+Collection reached the **real75-read daily reserve** at **25 Nov2026 09:36 Asia/Shanghai**. **924** day2 collection calls are ingested, none pending. Next daily reset: **26 Nov2026 08:00 Asia/Shanghai**. No routine was created here.
 
-3. **@thankUcrypto, 24 Nov 2026 — open/close conditions matter more than “short-term or not,” in the same 24 hours as a martingale-like A-share add he then drops.** Process: [2125155429512855651](https://x.com/thankUcrypto/status/2125155429512855651). Post-mortem: “一路相当于马丁一直加仓…不准备买大 A 个股了” [2125183975757119963](https://x.com/thankUcrypto/status/2125183975757119963). This is a same-day contradiction between a process slogan and a described sizing path.
-
-4. **@thankUcrypto — large self-reported wins and large self-reported losses in the same research window.** Pinned 24 Aug 2026 challenge wrap (5.6M / ~36M RMB, unverified): [2091778918810612183](https://x.com/thankUcrypto/status/2091778918810612183). 26 Jun 2025: “最高亏了特么60wu…差2%止损。以后宽损还是放窄点儿好。” [1938259138863370368](https://x.com/thankUcrypto/status/1938259138863370368). 15 Jun 2026: ETH short “全损” plus a 5x copy-trade short, “几个小时10wu无了” [2066501986653221245](https://x.com/thankUcrypto/status/2066501986653221245). All unverified; they cannot be netted into a proven track record from this archive.
-
-5. **@thankUcrypto, 26 Jun 2025 — “做交易，永远要靠自己.”** He criticizes readers waiting for him to announce a flatten. [1938297622181384628](https://x.com/thankUcrypto/status/1938297622181384628). That sits awkwardly next to a 带单 / livestream-challenge business in the pinned post. It is a useful tension, not a verdict.
-
----
-
-## What still stands from the earlier three-account package (abridged)
-
-These citations were checked against the store in earlier passes and are still in the JSONL. The larger 2025–2026 crawls did not automatically re-audit every sentence in the older analyses.
-
-- @silverfang88 core rotation line, 29 Dec 2023: “没成本优势的不参与…永远只玩下一个新的故事” [1740688880007831938](https://x.com/silverfang88/status/1740688880007831938). Compact Aug 2023 rule list: [1688007925552590848](https://x.com/silverfang88/status/1688007925552590848). Later posts still show him breaking his own stated discipline; self-reported P&L remains unverified.
-- @iiiinvest, 25 Mar 2026: “不格局就不被割” [2036625322649768054](https://x.com/iiiinvest/status/2036625322649768054). Plan-first averaging remains the best-supported 2026 reading now that 2026 is deep; 2023–2025 are still thin.
-- @alexandr_wang is still a business/AI operator, not a trader. His 1 Jul 2025 post uses “Chief AI Officer.” Scale’s 12 Jun 2025 announcement, re-read here, does not. Two HTML captures of Meta’s leadership page in this integration contain the title and a short vision sentence, and do **not** contain “first-ever,” “June 2025,” or “Meta Superintelligence Labs.” A day-1 packaging note says a fetch the same day did contain that longer sentence. The two versions are recorded in `public_sources_wang.md` and are not merged into one fact. Transferable “trading” ideas from this account are analogies only.
-
----
-
-## Cross-account reading (interpretation, not a ranking)
-
-If you only want operator ideas that more than one of these public books *states*:
-
-- Write the condition for entering and leaving *before* the fill (@thankUcrypto Nov 2026; @iiiinvest plan-first language; @silverfang88’s older scale-out recipe). Several of the same people describe violating that.
-- Directional “story” and martingale-like adds (@silverfang88 rotation; @thankUcrypto A-share 300–2000) are a different animal from @taresky’s 2022 “只套利，不承担风险敞口.” Do not mash them into one “crypto trader method.”
-- Self-reported millions and self-reported blow-up scares can coexist in one feed. They are not a backtest.
-- Monetization (groups, 带单, exchange and cashback links) is visible on the trader accounts and is a conflict to keep in view.
-
-None of this is investment advice. None of it is a claim that any of these accounts has a proven edge.
+Exact unfinished work: **11 open dated cursors**, **2 overlapping recent-timeline cursors** (defer), **93 actionable pending jobs**, **210 calendar months with no job yet**; plus3 stalled parents and1 unproven historical bucket needing coverage audit. The94th pending label is redundantSF2026-Nov and must not be started. Seventeen inherited calendar placeholders beforeWang account creation are excluded, not missing-post claims. Prior ZIPs are immutable. Current/live authority is `logs/remaining_jobs_day2.json` + `logs/expand_jobs.json`; the final ZIP freezes `logs/DAY2_FINAL_REMAINING_JOBS.json`.

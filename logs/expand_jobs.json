@@ -2,7 +2,7 @@
   "started_at_utc": "2026-11-24T11:15:10Z",
   "strategy": "Fresh monthly search_posts_all windows, paginate each until no next_token. Dedup into existing JSONL. Do not modify firstpass.zip. Leave ~75 daily-read reserve.",
   "max_results": 25,
-  "calls_this_pass": 892,
+  "calls_this_pass": 1816,
   "jobs": [
     {
       "handle": "silverfang88",
@@ -780,24 +780,24 @@
       "query": "from:silverfang88",
       "start_time": "2024-03-01T00:00:00Z",
       "end_time": "2024-04-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fr5wcqrhtachkqgdzvjp4q69f7l9bx",
+      "next_token": "b26v89c19zqg8o3fr5tenupng9quli5mpc13gghztaid9",
       "status": "open",
-      "pages_fetched": 10,
-      "posts_returned": 248,
-      "posts_added": 248,
-      "last_input_token": "b26v89c19zqg8o3fr5wcr255a58wtmrkfnc185cxn29vh",
+      "pages_fetched": 28,
+      "posts_returned": 697,
+      "posts_added": 697,
+      "last_input_token": "b26v89c19zqg8o3fr5tf2rtvn3h10ir6z2295rb5dr7nh",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2024-03-01T00:00:00Z",
         "end_time": "2024-04-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5wcr255a58wtmrkfnc185cxn29vh",
+        "input_token": "b26v89c19zqg8o3fr5tf2rtvn3h10ir6z2295rb5dr7nh",
         "window_label": "2024-03"
       },
       "last_span": [
-        "2024-03-22T23:04:48.000Z",
-        "2024-03-24T07:38:20.000Z"
+        "2024-03-08T03:55:22.000Z",
+        "2024-03-09T21:44:21.000Z"
       ]
     },
     {
@@ -834,24 +834,24 @@
       "query": "from:silverfang88",
       "start_time": "2024-05-01T00:00:00Z",
       "end_time": "2024-06-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fr62d53de450cfswp0mz84b46c6qnx",
-      "status": "open",
-      "pages_fetched": 6,
-      "posts_returned": 150,
-      "posts_added": 150,
-      "last_input_token": "b26v89c19zqg8o3fr62dk0emvcrpe37r47fv1jcfnx7jx",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 18,
+      "posts_returned": 408,
+      "posts_added": 408,
+      "last_input_token": "b26v89c19zqg8o3fr5ze7e9qe61lbfbcz3djr5r87uiyl",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2024-05-01T00:00:00Z",
         "end_time": "2024-06-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr62dk0emvcrpe37r47fv1jcfnx7jx",
+        "input_token": "b26v89c19zqg8o3fr5ze7e9qe61lbfbcz3djr5r87uiyl",
         "window_label": "2024-05"
       },
       "last_span": [
-        "2024-05-23T23:49:15.000Z",
-        "2024-05-25T10:46:49.000Z"
+        null,
+        null
       ]
     },
     {
@@ -861,24 +861,24 @@
       "query": "from:silverfang88",
       "start_time": "2024-06-01T00:00:00Z",
       "end_time": "2024-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3frqltx5djisytbkp5rw8g7rq9xsj99",
+      "next_token": "b26v89c19zqg8o3fr62eek5f4qrff1ul9ltd7re7e1u9p",
       "status": "open",
-      "pages_fetched": 4,
-      "posts_returned": 100,
-      "posts_added": 75,
-      "last_input_token": "b26v89c19zqg8o3frqluc2idgji9m8m3ntuywnewo9u2l",
+      "pages_fetched": 23,
+      "posts_returned": 567,
+      "posts_added": 542,
+      "last_input_token": "b26v89c19zqg8o3fr62eembniulbzz2ukzwz3w9b6gmt9",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2024-06-01T00:00:00Z",
         "end_time": "2024-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3frqluc2idgji9m8m3ntuywnewo9u2l",
+        "input_token": "b26v89c19zqg8o3fr62eembniulbzz2ukzwz3w9b6gmt9",
         "window_label": "2024-06"
       },
       "last_span": [
-        "2024-06-23T15:44:44.000Z",
-        "2024-06-25T11:03:07.000Z"
+        "2024-06-01T02:31:55.000Z",
+        "2024-06-01T12:56:41.000Z"
       ]
     },
     {
@@ -888,24 +888,24 @@
       "query": "from:silverfang88",
       "start_time": "2024-07-01T00:00:00Z",
       "end_time": "2024-08-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3frqouyg4froy55ehtnfctuvpxez0ql",
+      "next_token": "b26v89c19zqg8o3frqlvljape4hxiaccagk4pjjh0wu4d",
       "status": "open",
-      "pages_fetched": 3,
-      "posts_returned": 75,
-      "posts_added": 75,
-      "last_input_token": "b26v89c19zqg8o3frqovd6sp8mymgpb4oba0wp60p2lx9",
+      "pages_fetched": 22,
+      "posts_returned": 550,
+      "posts_added": 550,
+      "last_input_token": "b26v89c19zqg8o3frqlw0mstnp60nbxjjqlx90s1jmagt",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2024-07-01T00:00:00Z",
         "end_time": "2024-08-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3frqovd6sp8mymgpb4oba0wp60p2lx9",
+        "input_token": "b26v89c19zqg8o3frqlw0mstnp60nbxjjqlx90s1jmagt",
         "window_label": "2024-07"
       },
       "last_span": [
-        "2024-07-29T07:23:02.000Z",
-        "2024-07-29T17:43:47.000Z"
+        "2024-07-03T14:49:41.000Z",
+        "2024-07-05T17:58:33.000Z"
       ]
     },
     {
@@ -915,24 +915,24 @@
       "query": "from:silverfang88",
       "start_time": "2024-08-01T00:00:00Z",
       "end_time": "2024-09-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3frqrvkcq6sv355lx150t4bue6939tp",
+      "next_token": "b26v89c19zqg8o3frqrrrru86cwk00i1t1o3gbb3xtnjx",
       "status": "open",
-      "pages_fetched": 2,
-      "posts_returned": 50,
-      "posts_added": 50,
-      "last_input_token": "b26v89c19zqg8o3frqrvkl8hxv71g6ltug9ac75ysdpbx",
+      "pages_fetched": 21,
+      "posts_returned": 524,
+      "posts_added": 524,
+      "last_input_token": "b26v89c19zqg8o3frqrrrw32w6py46kxtdrgqntw4udfh",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2024-08-01T00:00:00Z",
         "end_time": "2024-09-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3frqrvkl8hxv71g6ltug9ac75ysdpbx",
+        "input_token": "b26v89c19zqg8o3frqrrrw32w6py46kxtdrgqntw4udfh",
         "window_label": "2024-08"
       },
       "last_span": [
-        "2024-08-30T01:50:17.000Z",
-        "2024-08-31T02:52:24.000Z"
+        "2024-08-04T09:01:55.000Z",
+        "2024-08-04T20:47:50.000Z"
       ]
     },
     {
@@ -942,24 +942,24 @@
       "query": "from:silverfang88",
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3frqxrbqbp8n383lwbenl8fdjhonkot",
+      "next_token": "b26v89c19zqg8o3frqut8grgysui3mzlnxqnlyzly9da5",
       "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "last_input_token": null,
+      "pages_fetched": 20,
+      "posts_returned": 499,
+      "posts_added": 499,
+      "last_input_token": "b26v89c19zqg8o3frqut8resvkklsdj936irsz7fu3jp9",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2024-09-01T00:00:00Z",
         "end_time": "2024-10-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3frqut8resvkklsdj936irsz7fu3jp9",
         "window_label": "2024-09"
       },
       "last_span": [
-        "2024-09-29T11:39:19.000Z",
-        "2024-09-30T15:36:55.000Z"
+        "2024-09-13T00:49:57.000Z",
+        "2024-09-14T08:33:15.000Z"
       ]
     },
     {
@@ -1060,24 +1060,24 @@
       "query": "from:silverfang88",
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fsc29h1rhjprotnonxw1d98uwxpev1",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 21,
+      "posts_returned": 487,
+      "posts_added": 487,
+      "last_input_token": "b26v89c19zqg8o3fsbz9a8mcvjjd5181ptd7ozxp9nhq5",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2025-05-01T00:00:00Z",
         "end_time": "2025-06-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fsbz9a8mcvjjd5181ptd7ozxp9nhq5",
         "window_label": "2025-05"
       },
       "last_span": [
-        "2025-05-30T13:31:31.000Z",
-        "2025-05-31T15:36:12.000Z"
+        null,
+        null
       ]
     },
     {
@@ -1087,24 +1087,24 @@
       "query": "from:silverfang88",
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fsc5996chj2noykbesky6tikn4ec1p",
-      "status": "open",
-      "pages_fetched": 2,
-      "posts_returned": 47,
-      "posts_added": 47,
-      "last_input_token": "b26v89c19zqg8o3fsc59nz4vni9o1f1i8ff5g6sb042v1",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 430,
+      "posts_added": 430,
+      "last_input_token": "b26v89c19zqg8o3fsc29hcgm5iozglovqdr0a23z5z1q5",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2025-06-01T00:00:00Z",
         "end_time": "2025-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fsc59nz4vni9o1f1i8ff5g6sb042v1",
+        "input_token": "b26v89c19zqg8o3fsc29hcgm5iozglovqdr0a23z5z1q5",
         "window_label": "2025-06"
       },
       "last_span": [
-        "2025-06-28T08:15:56.000Z",
-        "2025-06-29T08:00:27.000Z"
+        null,
+        null
       ]
     },
     {
@@ -1114,24 +1114,24 @@
       "query": "from:silverfang88",
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fsc87rjetzcwlilepcdc89uydf5da5",
-      "status": "open",
-      "pages_fetched": 4,
-      "posts_returned": 96,
-      "posts_added": 96,
-      "last_input_token": "b26v89c19zqg8o3fsc886t8fgk2h25rpl5yeerxeht4zh",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 276,
+      "posts_added": 276,
+      "last_input_token": "b26v89c19zqg8o3fsc59oe1yh93lde79ppw5es3icme0t",
       "last_request": {
         "query": "from:silverfang88",
         "start_time": "2025-07-01T00:00:00Z",
         "end_time": "2025-08-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fsc886t8fgk2h25rpl5yeerxeht4zh",
+        "input_token": "b26v89c19zqg8o3fsc59oe1yh93lde79ppw5es3icme0t",
         "window_label": "2025-07"
       },
       "last_span": [
-        "2025-07-18T08:46:07.000Z",
-        "2025-07-20T07:59:12.000Z"
+        null,
+        null
       ]
     },
     {
@@ -1929,24 +1929,24 @@
       "query": "from:iiiinvest",
       "start_time": "2024-03-01T00:00:00Z",
       "end_time": "2024-04-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 0,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
       "last_request": {
         "query": "from:iiiinvest",
         "start_time": "2024-03-01T00:00:00Z",
         "end_time": "2024-04-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
         "window_label": "2024-03"
       },
       "last_span": [
-        "2024-03-10T14:53:07.000Z",
-        "2024-03-10T14:53:07.000Z"
+        null,
+        null
       ]
     },
     {
@@ -1956,24 +1956,24 @@
       "query": "from:iiiinvest",
       "start_time": "2024-04-01T00:00:00Z",
       "end_time": "2024-05-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 3,
       "posts_added": 0,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
       "last_request": {
         "query": "from:iiiinvest",
         "start_time": "2024-04-01T00:00:00Z",
         "end_time": "2024-05-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
         "window_label": "2024-04"
       },
       "last_span": [
-        "2024-04-02T15:52:05.000Z",
-        "2024-04-15T15:29:25.000Z"
+        null,
+        null
       ]
     },
     {
@@ -2489,24 +2489,24 @@
       "query": "from:iiiinvest",
       "start_time": "2026-07-01T00:00:00Z",
       "end_time": "2026-08-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juetiu3pwrn98hk6kkpu00ab83qovx",
-      "status": "open",
-      "pages_fetched": 19,
-      "posts_returned": 475,
-      "posts_added": 475,
-      "last_input_token": "b26v89c19zqg8o3juetiu7y62ole97sq17ogsvvxq8fwd",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 34,
+      "posts_returned": 808,
+      "posts_added": 808,
+      "last_input_token": "b26v89c19zqg8o3juetgpytr20v2s9peqovmhw0z9ige5",
       "last_request": {
         "query": "from:iiiinvest",
         "start_time": "2026-07-01T00:00:00Z",
         "end_time": "2026-08-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juetiu7y62ole97sq17ogsvvxq8fwd",
+        "input_token": "b26v89c19zqg8o3juetgpytr20v2s9peqovmhw0z9ige5",
         "window_label": "2026-07"
       },
       "last_span": [
-        "2026-07-16T15:07:18.000Z",
-        "2026-07-17T01:58:40.000Z"
+        null,
+        null
       ]
     },
     {
@@ -2544,24 +2544,24 @@
       "query": "from:iiiinvest",
       "start_time": "2026-09-01T00:00:00Z",
       "end_time": "2026-10-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juzivs5t2k3bz55ue17d4hte5b44u5",
-      "status": "open",
-      "pages_fetched": 19,
-      "posts_returned": 474,
-      "posts_added": 449,
-      "last_input_token": "b26v89c19zqg8o3juzivsa2ixs2t0itdp9o8ow7ixlrp9",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 32,
+      "posts_returned": 761,
+      "posts_added": 736,
+      "last_input_token": "b26v89c19zqg8o3juezh4ap14wfexet78457ipmor4igt",
       "last_request": {
         "query": "from:iiiinvest",
         "start_time": "2026-09-01T00:00:00Z",
         "end_time": "2026-10-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juzivsa2ixs2t0itdp9o8ow7ixlrp9",
+        "input_token": "b26v89c19zqg8o3juezh4ap14wfexet78457ipmor4igt",
         "window_label": "2026-09"
       },
       "last_span": [
-        "2026-09-16T03:52:12.000Z",
-        "2026-09-16T17:13:52.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3236,24 +3236,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2016-12-01T00:00:00Z",
       "end_time": "2017-01-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
-      "status": "open",
-      "pages_fetched": 2,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 3,
       "posts_returned": 34,
       "posts_added": 9,
-      "last_input_token": "1jzu9lk96gu5npw3iy3wv887bm1jsl9sbk73ezfb2su5",
+      "last_input_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2016-12-01T00:00:00Z",
         "end_time": "2017-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3iy3wv887bm1jsl9sbk73ezfb2su5",
+        "input_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
         "window_label": "2016-12"
       },
       "last_span": [
-        "2016-12-03T10:12:43.000Z",
-        "2016-12-06T23:15:19.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3290,24 +3290,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2017-02-01T00:00:00Z",
       "end_time": "2017-03-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2017-02-01T00:00:00Z",
         "end_time": "2017-03-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
         "window_label": "2017-02"
       },
       "last_span": [
-        "2017-02-09T05:16:44.000Z",
-        "2017-02-20T10:36:52.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3317,24 +3317,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2017-03-01T00:00:00Z",
       "end_time": "2017-04-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 13,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2017-03-01T00:00:00Z",
         "end_time": "2017-04-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
         "window_label": "2017-03"
       },
       "last_span": [
-        "2017-03-09T00:08:06.000Z",
-        "2017-03-31T04:01:22.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3344,24 +3344,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2017-04-01T00:00:00Z",
       "end_time": "2017-05-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2017-04-01T00:00:00Z",
         "end_time": "2017-05-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
         "window_label": "2017-04"
       },
       "last_span": [
-        "2017-04-01T00:14:15.000Z",
-        "2017-04-11T06:28:51.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3372,10 +3372,24 @@
       "start_time": "2017-05-01T00:00:00Z",
       "end_time": "2017-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 19,
+      "posts_added": 19,
+      "last_input_token": "1jzu9lk96gu5npw3jd3746wfa79ducnxr7k1m3ol6xdp",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-05-01T00:00:00Z",
+        "end_time": "2017-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw3jd3746wfa79ducnxr7k1m3ol6xdp",
+        "window_label": "2017-05"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3385,10 +3399,24 @@
       "start_time": "2017-06-01T00:00:00Z",
       "end_time": "2017-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 6,
+      "posts_added": 6,
+      "last_input_token": "1jzu9lk96gu5npw3jj2c1c6g1f25mx8gkecl8jnwtpbx",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-06-01T00:00:00Z",
+        "end_time": "2017-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw3jj2c1c6g1f25mx8gkecl8jnwtpbx",
+        "window_label": "2017-06"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3398,10 +3426,24 @@
       "start_time": "2017-07-01T00:00:00Z",
       "end_time": "2017-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 11,
+      "posts_added": 11,
+      "last_input_token": "1jzu9lk96gu5npw3jlz60grbly5y2y4i4q6c9ud6b88t",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-07-01T00:00:00Z",
+        "end_time": "2017-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw3jlz60grbly5y2y4i4q6c9ud6b88t",
+        "window_label": "2017-07"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3411,10 +3453,24 @@
       "start_time": "2017-08-01T00:00:00Z",
       "end_time": "2017-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 7,
+      "posts_added": 7,
+      "last_input_token": "1jzu9lk96gu5npw3jp1gs1heq8u2298ilis5hl65nddp",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-08-01T00:00:00Z",
+        "end_time": "2017-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw3jp1gs1heq8u2298ilis5hl65nddp",
+        "window_label": "2017-08"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3424,10 +3480,24 @@
       "start_time": "2017-09-01T00:00:00Z",
       "end_time": "2017-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 4,
+      "posts_added": 4,
+      "last_input_token": "1jzu9lk96gu5npw448gyw9w85mmxzahzwfj1mpz4ec1p",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-09-01T00:00:00Z",
+        "end_time": "2017-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw448gyw9w85mmxzahzwfj1mpz4ec1p",
+        "window_label": "2017-09"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3437,10 +3507,24 @@
       "start_time": "2017-10-01T00:00:00Z",
       "end_time": "2017-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 8,
+      "posts_added": 1,
+      "last_input_token": "1jzu9lk96gu5npw44bgqo112pdzymolh54ei6seg6we5",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-10-01T00:00:00Z",
+        "end_time": "2017-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw44bgqo112pdzymolh54ei6seg6we5",
+        "window_label": "2017-10"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3450,10 +3534,24 @@
       "start_time": "2017-11-01T00:00:00Z",
       "end_time": "2017-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 8,
+      "posts_added": 0,
+      "last_input_token": "1jzu9lk96gu5npw44he6yo59v16ddqlco51pa4ochlz1",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-11-01T00:00:00Z",
+        "end_time": "2017-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw44he6yo59v16ddqlco51pa4ochlz1",
+        "window_label": "2017-11"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3463,10 +3561,24 @@
       "start_time": "2017-12-01T00:00:00Z",
       "end_time": "2018-01-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 10,
+      "posts_added": 0,
+      "last_input_token": "1jzu9lk96gu5npw44hh4zutjl9jhuemdx9agewc67dz1",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2017-12-01T00:00:00Z",
+        "end_time": "2018-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw44hh4zutjl9jhuemdx9agewc67dz1",
+        "window_label": "2017-12"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     },
     {
       "handle": "alexandr_wang",
@@ -3475,24 +3587,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-01-01T00:00:00Z",
       "end_time": "2018-02-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw44kgx05grxddc2vzrumzs5fbb029p",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw44kgx05grxddc2vzrumzs5fbb029p",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-01-01T00:00:00Z",
         "end_time": "2018-02-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw44kgx05grxddc2vzrumzs5fbb029p",
         "window_label": "2018-01"
       },
       "last_span": [
-        "2018-01-01T03:52:27.000Z",
-        "2018-01-29T00:26:55.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3502,24 +3614,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-02-01T00:00:00Z",
       "end_time": "2018-03-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-02-01T00:00:00Z",
         "end_time": "2018-03-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
         "window_label": "2018-02"
       },
       "last_span": [
-        "2018-02-15T07:12:32.000Z",
-        "2018-02-26T23:30:31.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3529,24 +3641,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-03-01T00:00:00Z",
       "end_time": "2018-04-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw44tdan3l3n8bcyfqbs2xlagdqfgql",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 7,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw44tdan3l3n8bcyfqbs2xlagdqfgql",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-03-01T00:00:00Z",
         "end_time": "2018-04-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw44tdan3l3n8bcyfqbs2xlagdqfgql",
         "window_label": "2018-03"
       },
       "last_span": [
-        "2018-03-05T20:22:21.000Z",
-        "2018-03-23T23:23:44.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3556,24 +3668,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-04-01T00:00:00Z",
       "end_time": "2018-05-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw44wd2ew8d0x8t7ox4umkmp94l29vh",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw44wd2ew8d0x8t7ox4umkmp94l29vh",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-04-01T00:00:00Z",
         "end_time": "2018-05-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw44wd2ew8d0x8t7ox4umkmp94l29vh",
         "window_label": "2018-04"
       },
       "last_span": [
-        "2018-04-01T23:34:54.000Z",
-        "2018-04-30T16:33:43.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3583,24 +3695,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-05-01T00:00:00Z",
       "end_time": "2018-06-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-05-01T00:00:00Z",
         "end_time": "2018-06-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
         "window_label": "2018-05"
       },
       "last_span": [
-        "2018-05-05T19:48:32.000Z",
-        "2018-05-05T19:48:32.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3610,24 +3722,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-06-01T00:00:00Z",
       "end_time": "2018-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fn0ao4w2l9hjlstbq2jxhgv1p1qd19",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fn0ao4w2l9hjlstbq2jxhgv1p1qd19",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-06-01T00:00:00Z",
         "end_time": "2018-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fn0ao4w2l9hjlstbq2jxhgv1p1qd19",
         "window_label": "2018-06"
       },
       "last_span": [
-        "2018-06-12T15:40:51.000Z",
-        "2018-06-27T21:54:38.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3637,24 +3749,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-07-01T00:00:00Z",
       "end_time": "2018-08-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fn0dmndd6rpm37f6vi9byw95qv4wal",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fn0dmndd6rpm37f6vi9byw95qv4wal",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-07-01T00:00:00Z",
         "end_time": "2018-08-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fn0dmndd6rpm37f6vi9byw95qv4wal",
         "window_label": "2018-07"
       },
       "last_span": [
-        "2018-07-02T02:33:26.000Z",
-        "2018-07-17T17:54:22.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3664,24 +3776,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-08-01T00:00:00Z",
       "end_time": "2018-09-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 18,
       "posts_added": 18,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-08-01T00:00:00Z",
         "end_time": "2018-09-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
         "window_label": "2018-08"
       },
       "last_span": [
-        "2018-08-07T15:56:28.000Z",
-        "2018-08-13T00:09:45.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3691,24 +3803,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-09-01T00:00:00Z",
       "end_time": "2018-10-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fn0jngmbsx7831xzkz2grwd4cmo5ml",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 18,
       "posts_added": 18,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fn0jngmbsx7831xzkz2grwd4cmo5ml",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-09-01T00:00:00Z",
         "end_time": "2018-10-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fn0jngmbsx7831xzkz2grwd4cmo5ml",
         "window_label": "2018-09"
       },
       "last_span": [
-        "2018-09-03T19:00:09.000Z",
-        "2018-09-29T04:05:11.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3718,24 +3830,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2018-10-01T00:00:00Z",
       "end_time": "2018-11-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 6,
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2018-10-01T00:00:00Z",
         "end_time": "2018-11-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
         "window_label": "2018-10"
       },
       "last_span": [
-        "2018-10-08T18:07:47.000Z",
-        "2018-10-31T23:02:44.000Z"
+        null,
+        null
       ]
     },
     {
@@ -3988,24 +4100,24 @@
       "query": "from:alexandr_wang",
       "start_time": "2019-08-01T00:00:00Z",
       "end_time": "2019-09-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fnm026bp81siqnl0nyhgf1gqpvwdq5",
-      "status": "open",
-      "pages_fetched": 3,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 4,
       "posts_returned": 53,
       "posts_added": 53,
-      "last_input_token": "b26v89c19zqg8o3fnm026bpix7fse2n85ycw97agtocxp",
+      "last_input_token": "b26v89c19zqg8o3fnm026bp81siqnl0nyhgf1gqpvwdq5",
       "last_request": {
         "query": "from:alexandr_wang",
         "start_time": "2019-08-01T00:00:00Z",
         "end_time": "2019-09-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnm026bpix7fse2n85ycw97agtocxp",
+        "input_token": "b26v89c19zqg8o3fnm026bp81siqnl0nyhgf1gqpvwdq5",
         "window_label": "2019-08"
       },
       "last_span": [
-        "2019-08-05T13:15:10.000Z",
-        "2019-08-05T13:42:49.000Z"
+        null,
+        null
       ]
     },
     {
@@ -5975,25 +6087,25 @@
       "query": "from:iiiinvest",
       "start_time": "2026-08-01T00:00:00Z",
       "end_time": "2026-08-27T16:04:47Z",
-      "next_token": "b26v89c19zqg8o3juewilr7wkp0qkm532sa2x4awgmid9",
-      "status": "open",
-      "pages_fetched": 15,
-      "posts_returned": 375,
-      "posts_added": 375,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 26,
+      "posts_returned": 611,
+      "posts_added": 611,
       "last_span": [
-        "2026-08-12T02:28:53.000Z",
-        "2026-08-12T15:23:31.000Z"
+        null,
+        null
       ],
       "last_types": null,
       "note": "Subwindow after 2026-08 pagination_stalled. Do not reuse stalled token. end_time is oldest timestamp of the duplicate stalled page.",
-      "last_input_token": "b26v89c19zqg8o3juewilvhcttgtfqziivluiht955xtp",
+      "last_input_token": "b26v89c19zqg8o3juewgx4sfox1dam5rded2k2a0dci9p",
       "last_request": {
         "query": "from:iiiinvest",
         "start_time": "2026-08-01T00:00:00Z",
         "end_time": "2026-08-27T16:04:47Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juewilvhcttgtfqziivluiht955xtp",
+        "input_token": "b26v89c19zqg8o3juewgx4sfox1dam5rded2k2a0dci9p",
         "window_label": "2026-08-01to27"
       }
     },
@@ -6072,28 +6184,28 @@
       "query": "from:taresky",
       "start_time": "2026-11-01T00:00:00Z",
       "end_time": "2026-11-25T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juzowln63mmdar00jvz60l8hp0a1dp",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 0,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 123,
+      "posts_added": 98,
       "last_span": [
-        "2026-11-19T13:11:47.000Z",
-        "2026-11-24T09:10:31.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 19,
         "original": 5,
         "quote": 1
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3juzly3cakz581henxrsp8atriroxa5",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2026-11-01T00:00:00Z",
         "end_time": "2026-11-25T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3juzly3cakz581henxrsp8atriroxa5",
         "window_label": "2026-11"
       }
     },
@@ -6104,14 +6216,14 @@
       "query": "from:taresky",
       "start_time": "2026-10-01T00:00:00Z",
       "end_time": "2026-11-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juzlxod0q3o7foj3kl2vh3a9t75u2l",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 23,
-      "posts_added": 23,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 23,
+      "posts_returned": 502,
+      "posts_added": 502,
       "last_span": [
-        "2026-10-29T21:25:12.000Z",
-        "2026-10-31T23:29:35.000Z"
+        null,
+        null
       ],
       "last_types": {
         "original": 10,
@@ -6119,14 +6231,14 @@
         "repost": 1,
         "reply": 10
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3juzixw6de4bv1zwiw914xyat64x27x",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2026-10-01T00:00:00Z",
         "end_time": "2026-11-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3juzixw6de4bv1zwiw914xyat64x27x",
         "window_label": "2026-10"
       }
     },
@@ -6137,28 +6249,28 @@
       "query": "from:taresky",
       "start_time": "2026-06-01T00:00:00Z",
       "end_time": "2026-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juetgavebt9yov3dwq2lcd83sww8e5",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 26,
+      "posts_returned": 600,
+      "posts_added": 600,
       "last_span": [
-        "2026-06-28T16:07:53.000Z",
-        "2026-06-30T12:02:13.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 17,
         "original": 6,
         "quote": 2
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3jueqgizdfpkf7jsxkbfj7pugd159bx",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2026-06-01T00:00:00Z",
         "end_time": "2026-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3jueqgizdfpkf7jsxkbfj7pugd159bx",
         "window_label": "2026-06"
       }
     },
@@ -6169,28 +6281,28 @@
       "query": "from:taresky",
       "start_time": "2025-12-01T00:00:00Z",
       "end_time": "2026-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3jue8j4zpqh0ulagerz9w1fngl493st",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 216,
+      "posts_added": 216,
       "last_span": [
-        "2025-12-25T04:42:01.000Z",
-        "2025-12-31T12:48:58.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 17,
         "original": 5,
         "quote": 3
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fscn6moxs66aa4dq0vazyg3i3sdsal",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2025-12-01T00:00:00Z",
         "end_time": "2026-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fscn6moxs66aa4dq0vazyg3i3sdsal",
         "window_label": "2025-12"
       }
     },
@@ -6201,14 +6313,14 @@
       "query": "from:taresky",
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fsc5996chnmiu8k80o5is81hndxoxp",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 289,
+      "posts_added": 289,
       "last_span": [
-        "2025-06-28T08:27:45.000Z",
-        "2025-06-30T08:06:41.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 15,
@@ -6216,14 +6328,14 @@
         "repost": 2,
         "quote": 2
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fsc29hcfpzstt20kq9f8hhi9qlshod",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2025-06-01T00:00:00Z",
         "end_time": "2025-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fsc29hcfpzstt20kq9f8hhi9qlshod",
         "window_label": "2025-06"
       }
     },
@@ -6234,28 +6346,28 @@
       "query": "from:taresky",
       "start_time": "2024-12-01T00:00:00Z",
       "end_time": "2025-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3frr6rwzj66j4eq6bt70sn51ijbkpdp",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 428,
+      "posts_added": 428,
       "last_span": [
-        "2024-12-30T03:55:22.000Z",
-        "2024-12-31T13:02:11.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 17,
         "original": 5,
         "quote": 3
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3frr3s4ux9qx03a6o7kma8w3ayw19x9",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2024-12-01T00:00:00Z",
         "end_time": "2025-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3frr3s4ux9qx03a6o7kma8w3ayw19x9",
         "window_label": "2024-12"
       }
     },
@@ -6266,14 +6378,14 @@
       "query": "from:taresky",
       "start_time": "2022-12-01T00:00:00Z",
       "end_time": "2023-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fqk12iwydq5frlwh39wmfq8h9udc3h",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 170,
+      "posts_added": 170,
       "last_span": [
-        "2022-12-27T13:34:28.000Z",
-        "2022-12-31T16:23:17.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 17,
@@ -6281,14 +6393,14 @@
         "repost": 3,
         "quote": 1
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fpzhn012mujl0bd5cr0vibgr6mxh19",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2022-12-01T00:00:00Z",
         "end_time": "2023-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fpzhn012mujl0bd5cr0vibgr6mxh19",
         "window_label": "2022-12"
       }
     },
@@ -6299,14 +6411,14 @@
       "query": "from:taresky",
       "start_time": "2021-01-01T00:00:00Z",
       "end_time": "2021-02-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3foskt5god0ueh1goua2qzbpfrvo6f1",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 5,
+      "posts_returned": 94,
+      "posts_added": 94,
       "last_span": [
-        "2021-01-28T06:08:27.000Z",
-        "2021-01-31T10:12:45.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 18,
@@ -6314,14 +6426,14 @@
         "repost": 1,
         "quote": 2
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3foshtdr058x6007psx45g81dpj8nst",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2021-01-01T00:00:00Z",
         "end_time": "2021-02-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3foshtdr058x6007psx45g81dpj8nst",
         "window_label": "2021-01"
       }
     },
@@ -6332,14 +6444,14 @@
       "query": "from:taresky",
       "start_time": "2016-12-01T00:00:00Z",
       "end_time": "2017-01-01T00:00:00Z",
-      "next_token": "1jzu9lk96gu5npw3iy4bo3bin9qtacqjskhen8rrf0ql",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 67,
+      "posts_added": 67,
       "last_span": [
-        "2016-12-15T00:47:22.000Z",
-        "2016-12-31T04:33:35.000Z"
+        null,
+        null
       ],
       "last_types": {
         "quote": 6,
@@ -6347,14 +6459,14 @@
         "repost": 4,
         "original": 7
       },
-      "last_input_token": null,
+      "last_input_token": "1jzu9lk96gu5npw3iy27y5qa9l480iheedy97j4bm7b1",
       "last_request": {
         "query": "from:taresky",
         "start_time": "2016-12-01T00:00:00Z",
         "end_time": "2017-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "1jzu9lk96gu5npw3iy27y5qa9l480iheedy97j4bm7b1",
         "window_label": "2016-12"
       }
     },
@@ -6396,27 +6508,27 @@
       "query": "from:thankUcrypto",
       "start_time": "2026-11-01T00:00:00Z",
       "end_time": "2026-11-25T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juzowlxwfcjef8gbd5vc978vr2uhrx",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 246,
+      "posts_added": 222,
       "last_span": [
-        "2026-11-21T04:01:58.000Z",
-        "2026-11-24T11:05:18.000Z"
+        null,
+        null
       ],
       "last_types": {
         "original": 20,
         "reply": 5
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3juzly3efb1fxmphlunujb1579qzp8d",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2026-11-01T00:00:00Z",
         "end_time": "2026-11-25T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3juzly3efb1fxmphlunujb1579qzp8d",
         "window_label": "2026-11"
       }
     },
@@ -6427,28 +6539,28 @@
       "query": "from:thankUcrypto",
       "start_time": "2026-10-01T00:00:00Z",
       "end_time": "2026-11-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3juzlxod10t2jlubd1szxp6x1j4v7nh",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 101,
+      "posts_added": 101,
       "last_span": [
-        "2026-10-29T21:57:09.000Z",
-        "2026-10-31T14:21:43.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 11,
         "original": 12,
         "quote": 2
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3juzixw8gbj47uh1li858r8j6wx15kt",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2026-10-01T00:00:00Z",
         "end_time": "2026-11-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3juzixw8gbj47uh1li858r8j6wx15kt",
         "window_label": "2026-10"
       }
     },
@@ -6459,28 +6571,28 @@
       "query": "from:thankUcrypto",
       "start_time": "2026-06-01T00:00:00Z",
       "end_time": "2026-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3jueqimn5399wglj1wvbhph7sa5jvy5",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 71,
+      "posts_added": 71,
       "last_span": [
-        "2026-06-14T07:07:25.000Z",
-        "2026-06-29T17:08:27.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 5,
         "original": 15,
         "quote": 5
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3jueqgj1ir3md9kz4fkuz5quwe83rzx",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2026-06-01T00:00:00Z",
         "end_time": "2026-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3jueqgj1ir3md9kz4fkuz5quwe83rzx",
         "window_label": "2026-06"
       }
     },
@@ -6491,14 +6603,14 @@
       "query": "from:thankUcrypto",
       "start_time": "2025-12-01T00:00:00Z",
       "end_time": "2026-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3jue8hvvok54byopd5y3jn9t8jlcqyl",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 136,
+      "posts_added": 136,
       "last_span": [
-        "2025-12-18T13:57:23.000Z",
-        "2025-12-29T00:58:03.000Z"
+        null,
+        null
       ],
       "last_types": {
         "original": 11,
@@ -6506,14 +6618,14 @@
         "quote": 3,
         "repost": 1
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fscn6moy303uuslb5e4nvoswqy30xp",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2025-12-01T00:00:00Z",
         "end_time": "2026-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fscn6moy303uuslb5e4nvoswqy30xp",
         "window_label": "2025-12"
       }
     },
@@ -6524,28 +6636,28 @@
       "query": "from:thankUcrypto",
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fsc598rfej8hgc3qq162stvnzamxdp",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 20,
+      "posts_returned": 458,
+      "posts_added": 458,
       "last_span": [
-        "2025-06-26T09:56:17.000Z",
-        "2025-06-30T11:42:25.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 14,
         "original": 9,
         "quote": 2
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fsc29hcgmbjwp2wa3cjttu4d43qlq5",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2025-06-01T00:00:00Z",
         "end_time": "2025-07-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fsc29hcgmbjwp2wa3cjttu4d43qlq5",
         "window_label": "2025-06"
       }
     },
@@ -6556,28 +6668,28 @@
       "query": "from:thankUcrypto",
       "start_time": "2024-12-01T00:00:00Z",
       "end_time": "2025-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3frr6rx3qiy6cxsmrxr487bij5l1ksd",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 263,
+      "posts_added": 263,
       "last_span": [
-        "2024-12-30T12:30:15.000Z",
-        "2024-12-31T18:14:25.000Z"
+        null,
+        null
       ],
       "last_types": {
         "quote": 2,
         "reply": 17,
         "original": 6
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3frr3s4stg0d5hz2afl1fgjchl1e3y5",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2024-12-01T00:00:00Z",
         "end_time": "2025-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3frr3s4stg0d5hz2afl1fgjchl1e3y5",
         "window_label": "2024-12"
       }
     },
@@ -6588,28 +6700,28 @@
       "query": "from:thankUcrypto",
       "start_time": "2023-12-01T00:00:00Z",
       "end_time": "2024-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fr5kh0qyam3np3rae1pvqp2qhzxxtp",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 44,
+      "posts_added": 44,
       "last_span": [
-        "2023-12-27T05:32:16.000Z",
-        "2023-12-31T05:58:02.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 10,
         "original": 8,
         "quote": 7
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fr5kd860jf3phnip2kc42q1gpbfhbx",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2023-12-01T00:00:00Z",
         "end_time": "2024-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fr5kd860jf3phnip2kc42q1gpbfhbx",
         "window_label": "2023-12"
       }
     },
@@ -6620,26 +6732,26 @@
       "query": "from:thankUcrypto",
       "start_time": "2022-12-01T00:00:00Z",
       "end_time": "2023-01-01T00:00:00Z",
-      "next_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 2,
       "last_span": [
-        "2022-12-30T09:55:07.000Z",
-        "2022-12-30T10:27:59.000Z"
+        null,
+        null
       ],
       "last_types": {
         "reply": 2
       },
-      "last_input_token": null,
+      "last_input_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
       "last_request": {
         "query": "from:thankUcrypto",
         "start_time": "2022-12-01T00:00:00Z",
         "end_time": "2023-01-01T00:00:00Z",
         "sort_order": "recency",
         "max_results": 25,
-        "input_token": null,
+        "input_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
         "window_label": "2022-12"
       }
     },
@@ -6679,12 +6791,25 @@
       "start_time": "2026-09-01T00:00:00Z",
       "end_time": "2026-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 11,
+      "posts_returned": 231,
+      "posts_added": 231,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juezh4apbss5ewivrn4fklkkg1mkcd",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-09-01T00:00:00Z",
+        "end_time": "2026-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juezh4apbss5ewivrn4fklkkg1mkcd",
+        "window_label": "2026-09"
+      }
     },
     {
       "handle": "taresky",
@@ -6694,12 +6819,25 @@
       "start_time": "2026-08-01T00:00:00Z",
       "end_time": "2026-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 16,
+      "posts_returned": 365,
+      "posts_added": 365,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juewgx4rj72tvndhzk9k419nt3xshp",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-08-01T00:00:00Z",
+        "end_time": "2026-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juewgx4rj72tvndhzk9k419nt3xshp",
+        "window_label": "2026-08"
+      }
     },
     {
       "handle": "taresky",
@@ -6709,12 +6847,25 @@
       "start_time": "2026-07-01T00:00:00Z",
       "end_time": "2026-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 14,
+      "posts_returned": 325,
+      "posts_added": 325,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juetgpyucibylmzxvwjabx9r8l5i7x",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-07-01T00:00:00Z",
+        "end_time": "2026-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juetgpyucibylmzxvwjabx9r8l5i7x",
+        "window_label": "2026-07"
+      }
     },
     {
       "handle": "taresky",
@@ -6724,12 +6875,25 @@
       "start_time": "2026-05-01T00:00:00Z",
       "end_time": "2026-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 262,
+      "posts_added": 262,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juengbvlkhwj0f4x1ohitsbflc7qm5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-05-01T00:00:00Z",
+        "end_time": "2026-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juengbvlkhwj0f4x1ohitsbflc7qm5",
+        "window_label": "2026-05"
+      }
     },
     {
       "handle": "taresky",
@@ -6739,12 +6903,25 @@
       "start_time": "2026-04-01T00:00:00Z",
       "end_time": "2026-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 128,
+      "posts_added": 128,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juehkki0ydvm25vj2wg2va100x7at9",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-04-01T00:00:00Z",
+        "end_time": "2026-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juehkki0ydvm25vj2wg2va100x7at9",
+        "window_label": "2026-04"
+      }
     },
     {
       "handle": "taresky",
@@ -6754,12 +6931,25 @@
       "start_time": "2026-03-01T00:00:00Z",
       "end_time": "2026-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 261,
+      "posts_added": 261,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jueejyrtdxaxfqvvxjlbchaxzs51tp",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-03-01T00:00:00Z",
+        "end_time": "2026-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jueejyrtdxaxfqvvxjlbchaxzs51tp",
+        "window_label": "2026-03"
+      }
     },
     {
       "handle": "taresky",
@@ -6769,12 +6959,25 @@
       "start_time": "2026-02-01T00:00:00Z",
       "end_time": "2026-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 163,
+      "posts_added": 163,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juebk6ri4y2nk1u5q7oy8nvo9ifa0t",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-02-01T00:00:00Z",
+        "end_time": "2026-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juebk6ri4y2nk1u5q7oy8nvo9ifa0t",
+        "window_label": "2026-02"
+      }
     },
     {
       "handle": "taresky",
@@ -6784,12 +6987,25 @@
       "start_time": "2026-01-01T00:00:00Z",
       "end_time": "2026-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 160,
+      "posts_added": 160,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jue8jzlmfzwluwrjt1kywbx1ghfd6l",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-01-01T00:00:00Z",
+        "end_time": "2026-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jue8jzlmfzwluwrjt1kywbx1ghfd6l",
+        "window_label": "2026-01"
+      }
     },
     {
       "handle": "taresky",
@@ -6799,12 +7015,25 @@
       "start_time": "2025-01-01T00:00:00Z",
       "end_time": "2025-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 339,
+      "posts_added": 339,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr6sc0tuq8ecv5usrdu07x8r3va7x",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-01-01T00:00:00Z",
+        "end_time": "2025-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr6sc0tuq8ecv5usrdu07x8r3va7x",
+        "window_label": "2025-01"
+      }
     },
     {
       "handle": "taresky",
@@ -6814,12 +7043,25 @@
       "start_time": "2025-02-01T00:00:00Z",
       "end_time": "2025-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 14,
+      "posts_returned": 316,
+      "posts_added": 316,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr9sj4o47s16a3rynjarih4uzwz25",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-02-01T00:00:00Z",
+        "end_time": "2025-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr9sj4o47s16a3rynjarih4uzwz25",
+        "window_label": "2025-02"
+      }
     },
     {
       "handle": "taresky",
@@ -6829,12 +7071,25 @@
       "start_time": "2025-03-01T00:00:00Z",
       "end_time": "2025-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 18,
+      "posts_returned": 422,
+      "posts_added": 422,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frrcsb72airmhr2fyffio9l2dav7gd",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-03-01T00:00:00Z",
+        "end_time": "2025-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frrcsb72airmhr2fyffio9l2dav7gd",
+        "window_label": "2025-03"
+      }
     },
     {
       "handle": "taresky",
@@ -6844,12 +7099,25 @@
       "start_time": "2025-04-01T00:00:00Z",
       "end_time": "2025-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 286,
+      "posts_added": 286,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbw9393nc86c5xed9xmavs8vwt37h",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-04-01T00:00:00Z",
+        "end_time": "2025-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbw9393nc86c5xed9xmavs8vwt37h",
+        "window_label": "2025-04"
+      }
     },
     {
       "handle": "taresky",
@@ -6859,12 +7127,25 @@
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 331,
+      "posts_added": 331,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbz9a6ij0h3exvqcjyqn8i2wxipa5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-05-01T00:00:00Z",
+        "end_time": "2025-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbz9a6ij0h3exvqcjyqn8i2wxipa5",
+        "window_label": "2025-05"
+      }
     },
     {
       "handle": "taresky",
@@ -6874,12 +7155,25 @@
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 16,
+      "posts_returned": 351,
+      "posts_added": 351,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsc59obyfbkknux0hn136gp6shqmil",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-07-01T00:00:00Z",
+        "end_time": "2025-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsc59obyfbkknux0hn136gp6shqmil",
+        "window_label": "2025-07"
+      }
     },
     {
       "handle": "taresky",
@@ -6889,12 +7183,25 @@
       "start_time": "2025-08-01T00:00:00Z",
       "end_time": "2025-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 441,
+      "posts_added": 441,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fscb5ug8i59edrsyg4qvg9gyeoxq4d",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-08-01T00:00:00Z",
+        "end_time": "2025-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fscb5ug8i59edrsyg4qvg9gyeoxq4d",
+        "window_label": "2025-08"
+      }
     },
     {
       "handle": "taresky",
@@ -6904,12 +7211,25 @@
       "start_time": "2025-09-01T00:00:00Z",
       "end_time": "2025-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 11,
+      "posts_returned": 248,
+      "posts_added": 248,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsce61m3wazumw4a1p78ewfb41zy4d",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-09-01T00:00:00Z",
+        "end_time": "2025-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsce61m3wazumw4a1p78ewfb41zy4d",
+        "window_label": "2025-09"
+      }
     },
     {
       "handle": "taresky",
@@ -6919,12 +7239,25 @@
       "start_time": "2025-10-01T00:00:00Z",
       "end_time": "2025-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 14,
+      "posts_returned": 299,
+      "posts_added": 299,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsch68w9c1ngs99sexn9zalpww3wjh",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-10-01T00:00:00Z",
+        "end_time": "2025-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsch68w9c1ngs99sexn9zalpww3wjh",
+        "window_label": "2025-10"
+      }
     },
     {
       "handle": "taresky",
@@ -6934,12 +7267,25 @@
       "start_time": "2025-11-01T00:00:00Z",
       "end_time": "2025-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 256,
+      "posts_added": 256,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsck6frhzyl64vn1ouxcec8w8zbce5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-11-01T00:00:00Z",
+        "end_time": "2025-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsck6frhzyl64vn1ouxcec8w8zbce5",
+        "window_label": "2025-11"
+      }
     },
     {
       "handle": "taresky",
@@ -7068,13 +7414,26 @@
       "query": "from:taresky",
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "next_token": "b26v89c19zqg8o3frqut8rdwre6omn2yqnku6qzsio9rx",
+      "status": "open",
+      "pages_fetched": 8,
+      "posts_returned": 200,
+      "posts_added": 200,
+      "last_span": [
+        "2024-09-14T07:41:14.000Z",
+        "2024-09-16T13:53:45.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqutnwyy3kaybeiy72l95msedyu0t",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-09-01T00:00:00Z",
+        "end_time": "2024-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqutnwyy3kaybeiy72l95msedyu0t",
+        "window_label": "2024-09"
+      }
     },
     {
       "handle": "taresky",
@@ -7083,13 +7442,26 @@
       "query": "from:taresky",
       "start_time": "2024-10-01T00:00:00Z",
       "end_time": "2024-11-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "next_token": "b26v89c19zqg8o3frqxtuwhnof5dyuwak0sfs5h3drs71",
+      "status": "open",
+      "pages_fetched": 11,
+      "posts_returned": 275,
+      "posts_added": 275,
+      "last_span": [
+        "2024-10-17T02:03:43.000Z",
+        "2024-10-17T16:18:06.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqxu9n7plaeq5kglicbbrpbkl36gt",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-10-01T00:00:00Z",
+        "end_time": "2024-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqxu9n7plaeq5kglicbbrpbkl36gt",
+        "window_label": "2024-10"
+      }
     },
     {
       "handle": "taresky",
@@ -7098,13 +7470,26 @@
       "query": "from:taresky",
       "start_time": "2024-11-01T00:00:00Z",
       "end_time": "2024-12-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "next_token": "b26v89c19zqg8o3frr0rxtbbubn41jahj0tbk73i5x56l",
+      "status": "open",
+      "pages_fetched": 16,
+      "posts_returned": 400,
+      "posts_added": 400,
+      "last_span": [
+        "2024-11-01T01:09:35.000Z",
+        "2024-11-03T14:32:22.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr0scwtqlnu1ewabgk2jdc8y1mvst",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-11-01T00:00:00Z",
+        "end_time": "2024-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr0scwtqlnu1ewabgk2jdc8y1mvst",
+        "window_label": "2024-11"
+      }
     },
     {
       "handle": "taresky",
@@ -7279,12 +7664,25 @@
       "start_time": "2026-09-01T00:00:00Z",
       "end_time": "2026-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 163,
+      "posts_added": 163,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juezh4ctr77kjol47dm8fri2j69chp",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-09-01T00:00:00Z",
+        "end_time": "2026-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juezh4ctr77kjol47dm8fri2j69chp",
+        "window_label": "2026-09"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7294,12 +7692,25 @@
       "start_time": "2026-08-01T00:00:00Z",
       "end_time": "2026-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 9,
+      "posts_returned": 196,
+      "posts_added": 195,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juewgx6wkawnrjkkas0o3mcif7v0ql",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-08-01T00:00:00Z",
+        "end_time": "2026-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juewgx6wkawnrjkkas0o3mcif7v0ql",
+        "window_label": "2026-08"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7309,12 +7720,25 @@
       "start_time": "2026-07-01T00:00:00Z",
       "end_time": "2026-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 123,
+      "posts_added": 123,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juetgq3373m488mperq44x91qwh0n1",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-07-01T00:00:00Z",
+        "end_time": "2026-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juetgq3373m488mperq44x91qwh0n1",
+        "window_label": "2026-07"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7324,12 +7748,25 @@
       "start_time": "2026-05-01T00:00:00Z",
       "end_time": "2026-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 156,
+      "posts_added": 156,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juengbtg8ind0ixqkhcj8cu1vd9b3x",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-05-01T00:00:00Z",
+        "end_time": "2026-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juengbtg8ind0ixqkhcj8cu1vd9b3x",
+        "window_label": "2026-05"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7339,12 +7776,25 @@
       "start_time": "2026-04-01T00:00:00Z",
       "end_time": "2026-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 212,
+      "posts_added": 212,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juehkkm8ly0k5p2fjwjjtm4vhh3r7h",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-04-01T00:00:00Z",
+        "end_time": "2026-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juehkkm8ly0k5p2fjwjjtm4vhh3r7h",
+        "window_label": "2026-04"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7354,12 +7804,25 @@
       "start_time": "2026-03-01T00:00:00Z",
       "end_time": "2026-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 141,
+      "posts_added": 141,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jueejyrrw0p3qmbnl7h21fnhtqycu5",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-03-01T00:00:00Z",
+        "end_time": "2026-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jueejyrrw0p3qmbnl7h21fnhtqycu5",
+        "window_label": "2026-03"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7369,12 +7832,25 @@
       "start_time": "2026-02-01T00:00:00Z",
       "end_time": "2026-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 138,
+      "posts_added": 138,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juebk6vqe4j9jm6l9mmcvb2pmb1l6l",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-02-01T00:00:00Z",
+        "end_time": "2026-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juebk6vqe4j9jm6l9mmcvb2pmb1l6l",
+        "window_label": "2026-02"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7384,12 +7860,25 @@
       "start_time": "2026-01-01T00:00:00Z",
       "end_time": "2026-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 60,
+      "posts_added": 60,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jue8jzlkxyqa4cd5yur5isyarw0wot",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-01-01T00:00:00Z",
+        "end_time": "2026-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jue8jzlkxyqa4cd5yur5isyarw0wot",
+        "window_label": "2026-01"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7399,12 +7888,25 @@
       "start_time": "2025-01-01T00:00:00Z",
       "end_time": "2025-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 204,
+      "posts_added": 204,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr6sc2yl346v314b5v8c9ier5u1rx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-01-01T00:00:00Z",
+        "end_time": "2025-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr6sc2yl346v314b5v8c9ier5u1rx",
+        "window_label": "2025-01"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7414,12 +7916,25 @@
       "start_time": "2025-02-01T00:00:00Z",
       "end_time": "2025-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 426,
+      "posts_added": 426,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr9sj8xkjxxp75tk3nfepzngjyum5",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-02-01T00:00:00Z",
+        "end_time": "2025-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr9sj8xkjxxp75tk3nfepzngjyum5",
+        "window_label": "2025-02"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7428,13 +7943,26 @@
       "query": "from:thankUcrypto",
       "start_time": "2025-03-01T00:00:00Z",
       "end_time": "2025-04-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "next_token": "b26v89c19zqg8o3frrct5kdpolkj1rt23tb7zodjxpy7x",
+      "status": "open",
+      "pages_fetched": 31,
+      "posts_returned": 775,
+      "posts_added": 775,
+      "last_span": [
+        "2025-03-07T01:15:01.000Z",
+        "2025-03-07T15:40:24.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frrctk8yfycfq5ugqtthzyt2srp5dp",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-03-01T00:00:00Z",
+        "end_time": "2025-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frrctk8yfycfq5ugqtthzyt2srp5dp",
+        "window_label": "2025-03"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7444,12 +7972,25 @@
       "start_time": "2025-04-01T00:00:00Z",
       "end_time": "2025-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 32,
+      "posts_returned": 772,
+      "posts_added": 772,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbw9396c6xbjp6hdi0u11gfas5zel",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-04-01T00:00:00Z",
+        "end_time": "2025-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbw9396c6xbjp6hdi0u11gfas5zel",
+        "window_label": "2025-04"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7459,12 +8000,25 @@
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 29,
+      "posts_returned": 696,
+      "posts_added": 696,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbz9a6k0u0tqrsbo7f5ceiypi4l19",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-05-01T00:00:00Z",
+        "end_time": "2025-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbz9a6k0u0tqrsbo7f5ceiypi4l19",
+        "window_label": "2025-05"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7474,12 +8028,25 @@
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 109,
+      "posts_added": 109,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsc85ncgxlhnkt6mqdodmw5i3psc59",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-07-01T00:00:00Z",
+        "end_time": "2025-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsc85ncgxlhnkt6mqdodmw5i3psc59",
+        "window_label": "2025-07"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7489,12 +8056,25 @@
       "start_time": "2025-08-01T00:00:00Z",
       "end_time": "2025-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 135,
+      "posts_added": 135,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fscb5ug7wnf1jvy9o5ruzk58wji9h9",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-08-01T00:00:00Z",
+        "end_time": "2025-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fscb5ug7wnf1jvy9o5ruzk58wji9h9",
+        "window_label": "2025-08"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7504,12 +8084,25 @@
       "start_time": "2025-09-01T00:00:00Z",
       "end_time": "2025-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 39,
+      "posts_added": 39,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsce6gvyotcflo0poozgxvcr9j8519",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-09-01T00:00:00Z",
+        "end_time": "2025-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsce6gvyotcflo0poozgxvcr9j8519",
+        "window_label": "2025-09"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7519,12 +8112,25 @@
       "start_time": "2025-10-01T00:00:00Z",
       "end_time": "2025-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 428,
+      "posts_added": 428,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsch690j31pisjo8501icaycsm8ozh",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-10-01T00:00:00Z",
+        "end_time": "2025-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsch690j31pisjo8501icaycsm8ozh",
+        "window_label": "2025-10"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7534,12 +8140,25 @@
       "start_time": "2025-11-01T00:00:00Z",
       "end_time": "2025-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 333,
+      "posts_added": 333,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsck6friamg98pd7pbf1jsw4dtpu9p",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-11-01T00:00:00Z",
+        "end_time": "2025-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsck6friamg98pd7pbf1jsw4dtpu9p",
+        "window_label": "2025-11"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7579,12 +8198,25 @@
       "start_time": "2024-03-01T00:00:00Z",
       "end_time": "2024-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 40,
+      "posts_added": 40,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5te8cbn51fgopdy7q1e87qwiguil",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-03-01T00:00:00Z",
+        "end_time": "2024-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5te8cbn51fgopdy7q1e87qwiguil",
+        "window_label": "2024-03"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7593,13 +8225,26 @@
       "query": "from:thankUcrypto",
       "start_time": "2024-04-01T00:00:00Z",
       "end_time": "2024-05-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "next_token": "b26v89c19zqg8o3fr5wef7lsykbep4ns28qkoya4wln5p",
+      "status": "open",
+      "pages_fetched": 5,
+      "posts_returned": 125,
+      "posts_added": 125,
+      "last_span": [
+        "2024-04-02T09:38:22.000Z",
+        "2024-04-04T07:44:23.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5wefon0fu8rzrtds2tq63rduyiyl",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-04-01T00:00:00Z",
+        "end_time": "2024-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5wefon0fu8rzrtds2tq63rduyiyl",
+        "window_label": "2024-04"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7609,12 +8254,25 @@
       "start_time": "2024-05-01T00:00:00Z",
       "end_time": "2024-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 14,
+      "posts_added": 14,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5ze7knb7scfurb1lifwcdmls7rzx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-05-01T00:00:00Z",
+        "end_time": "2024-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5ze7knb7scfurb1lifwcdmls7rzx",
+        "window_label": "2024-05"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7624,12 +8282,25 @@
       "start_time": "2024-06-01T00:00:00Z",
       "end_time": "2024-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 24,
+      "posts_added": 24,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr62etnmmxyzw30rmo8d2zovbq88sd",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-06-01T00:00:00Z",
+        "end_time": "2024-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr62etnmmxyzw30rmo8d2zovbq88sd",
+        "window_label": "2024-06"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7638,13 +8309,26 @@
       "query": "from:thankUcrypto",
       "start_time": "2024-07-01T00:00:00Z",
       "end_time": "2024-08-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "next_token": "b26v89c19zqg8o3frqos08le9855ejt2s6c935r547rst",
+      "status": "open",
+      "pages_fetched": 8,
+      "posts_returned": 200,
+      "posts_added": 200,
+      "last_span": [
+        "2024-07-09T10:52:39.000Z",
+        "2024-07-10T06:43:09.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqos0ezvenft45a37mhykk6z7uxkt",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-07-01T00:00:00Z",
+        "end_time": "2024-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqos0ezvenft45a37mhykk6z7uxkt",
+        "window_label": "2024-07"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7654,12 +8338,25 @@
       "start_time": "2024-08-01T00:00:00Z",
       "end_time": "2024-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": null,
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-08-01T00:00:00Z",
+        "end_time": "2024-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "2024-08"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7669,12 +8366,25 @@
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 3,
+      "posts_added": 3,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqurk4xjaou3y0du0ogxnjc0wnaf1",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-09-01T00:00:00Z",
+        "end_time": "2024-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqurk4xjaou3y0du0ogxnjc0wnaf1",
+        "window_label": "2024-09"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7684,12 +8394,25 @@
       "start_time": "2024-10-01T00:00:00Z",
       "end_time": "2024-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 1,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqxup5mbcuof70jgv6ndgdmu5jz3x",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-10-01T00:00:00Z",
+        "end_time": "2024-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqxup5mbcuof70jgv6ndgdmu5jz3x",
+        "window_label": "2024-10"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7699,12 +8422,25 @@
       "start_time": "2024-11-01T00:00:00Z",
       "end_time": "2024-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "last_span": null,
-      "last_types": null
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 31,
+      "posts_added": 31,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr0ry405p51ae5jz2e9vq3n8ztbb1",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-11-01T00:00:00Z",
+        "end_time": "2024-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr0ry405p51ae5jz2e9vq3n8ztbb1",
+        "window_label": "2024-11"
+      }
     },
     {
       "handle": "thankUcrypto",
@@ -7870,6 +8606,146 @@
       "posts_added": 0,
       "last_span": null,
       "last_types": null
+    },
+    {
+      "handle": "silverfang88",
+      "user_id": "1435990322702520320",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:silverfang88",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 1,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": "b26v89c19zqg8o3juzoxfu6btkt93okhhjhibuvd0ag71",
+      "last_request": {
+        "query": "from:silverfang88",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzoxfu6btkt93okhhjhibuvd0ag71",
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "handle": "iiiinvest",
+      "user_id": "1589763597705437184",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:iiiinvest",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": null,
+      "last_request": {
+        "query": "from:iiiinvest",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "handle": "alexandr_wang",
+      "user_id": "615818451",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:alexandr_wang",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 1,
+      "posts_returned": 0,
+      "posts_added": 0,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": null,
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "handle": "taresky",
+      "user_id": "368245720",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:taresky",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 2,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": "b26v89c19zqg8o3juzoxfu6bzm883x558jpglw41tjr0d",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzoxfu6bzm883x558jpglw41tjr0d",
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
+    },
+    {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:thankUcrypto",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 2,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": "b26v89c19zqg8o3juzoxfu5fqxohl8oua509mtkrgwsjh",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzoxfu5fqxohl8oua509mtkrgwsjh",
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     }
   ],
   "note": "Probe with max_results=100 still returned 23 of a window that had a next_token, consistent with a ~25/page cap. Using 25.",

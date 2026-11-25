@@ -1,0 +1,117 @@
+{
+  "collected_at_utc": "2026-11-25T01:03:56Z",
+  "collected_at_shanghai": "2026-11-25T09:03:56+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M883NRP2NH119MT0YXS58V4P.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2025-10-01T00:00:00Z",
+    "end_time": "2025-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fsch68ydgtp5cg9hux3fm278o3vvr1",
+    "window_label": "2025-10"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1973716306026430674",
+      "created_at": "2025-10-02T12:11:10.000Z",
+      "edit_history_tweet_ids": [
+        "1973722424278729158"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1221419425359777792",
+            "start": 0,
+            "username": "auora1808"
+          }
+        ]
+      },
+      "id": "1973722424278729158",
+      "in_reply_to_user_id": "1221419425359777792",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1410,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1973716306026430674",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@auora1808 艹我只收到一件t恤，随手就丢了",
+      "url": "https://x.com/taresky/status/1973722424278729158"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1973716298858393601"
+          ]
+        },
+        "author_id": "1221419425359777792",
+        "conversation_id": "1973716306026430674",
+        "created_at": "2025-10-02T11:46:51.000Z",
+        "edit_history_tweet_ids": [
+          "1973716306026430674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mEjjy17nGv",
+              "end": 57,
+              "expanded_url": "https://x.com/auora1808/status/1973716306026430674/photo/1",
+              "media_key": "3_1973716298858393601",
+              "start": 34,
+              "url": "https://t.co/mEjjy17nGv"
+            }
+          ]
+        },
+        "id": "1973716306026430674",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "感谢 BYBIT 的中秋礼物，过两天去韩国参观一下韩国电竞炒币团。 https://t.co/mEjjy17nGv"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1221419425359777792",
+        "name": "Aurora",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791899852303183872/o8t2jXb2_normal.jpg",
+        "username": "auora1808",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1973722424278729158",
+    "next_token": "b26v89c19zqg8o3fsch68w9c1ngs99sexn9zalpww3wjh",
+    "oldest_id": "1973722424278729158",
+    "result_count": 1
+  },
+  "errors": []
+}

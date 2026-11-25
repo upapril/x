@@ -183,7 +183,7 @@ def load_jsonl(path: Path):
     rows = []
     if not path.exists():
         return rows
-    lines = path.read_text(encoding="utf-8").splitlines()
+    lines = path.read_text(encoding="utf-8").split("\n")
     i = 0
     n = len(lines)
     while i < n:
@@ -214,7 +214,7 @@ def write_jsonl(path: Path, rows):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as f:
         for r in rows:
-            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+            f.write(json.dumps(r, ensure_ascii=True) + "\n")
 
 def ingest(path: Path, handle_hint=None, tool="get_users_posts", page_name=None, request_meta=None):
     text = path.read_text(encoding="utf-8", errors="replace")

@@ -1,0 +1,32 @@
+tar 2026-02           39307 ['"result_count":25'] nxt=True BAD=False
+tar 2026-05           38393 ['"result_count":25'] nxt=True BAD=False
+tar 2024-12           27142 ['"result_count":25'] nxt=True BAD=False
+tha 2026-01           12224 ['"result_count":10'] nxt=True BAD=False
+tha 2026-02           20789 ['"result_count":25'] nxt=True BAD=False
+tar 2026-01           37965 ['"result_count":25'] nxt=True BAD=False
+tha 2025-06           26983 ['"result_count":25'] nxt=True BAD=False
+tar 2026-03            6772 ['"result_count":25'] nxt=True BAD=False
+LAST_FOOTER X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T00:51:00.000Z), 643 of 1000 today (resets at 2026-11-26T00:00:00.000Z).
+2026-02: added= 25 ret= 25 total=3457 2026-02-08T00:24:29.000Z->2026-02-13T01:44:49.000Z end=False pages=5
+2026-05: added= 25 ret= 25 total=3482 2026-05-05T17:35:56.000Z->2026-05-06T03:39:57.000Z end=False pages=10
+2024-12: added= 25 ret= 25 total=3507 2024-12-28T13:05:10.000Z->2024-12-30T03:49:51.000Z end=False pages=2
+2026-01: added= 25 ret= 25 total=3532 2026-01-14T17:11:39.000Z->2026-01-19T09:45:47.000Z end=False pages=4
+2026-03: added= 25 ret= 25 total=3557 2026-03-11T01:19:08.000Z->2026-03-15T04:25:29.000Z end=False pages=7
+open ['timeline-recent(p1,+25)', '2024-12(p2,+50)', '2022-12(p1,+25)', '2021-01(p1,+25)', '2016-12(p1,+25)', '2026-05(p10,+250)', '2026-03(p7,+175)', '2026-02(p5,+125)', '2026-01(p4,+100)', 'day2-new-2026-11-24T12to25T0035(p1,+2)']
+exhausted ['pinned(p1,+1)', '2026-11(p7,+98)', '2026-10(p23,+502)', '2026-06(p26,+600)', '2025-12(p10,+216)', '2025-06(p13,+289)', '2026-09(p11,+231)', '2026-08(p16,+365)', '2026-07(p14,+325)', '2026-04(p7,+128)']
+calls_this_pass 1245 last_total 3557
+
+2026-01: added= 10 ret= 10 total=2134 2026-01-01T01:07:27.000Z->2026-01-12T08:45:19.000Z end=False pages=3
+2026-02: added= 25 ret= 25 total=2159 2026-02-07T16:46:40.000Z->2026-02-19T05:35:32.000Z end=False pages=4
+2025-06: added= 25 ret= 25 total=2184 2025-06-05T14:32:02.000Z->2025-06-05T21:06:45.000Z end=False pages=17
+open ['timeline-recent(p1,+24)', '2025-06(p17,+425)', '2024-12(p1,+25)', '2023-12(p1,+25)', '2022-12(p1,+2)', '2026-02(p4,+100)', '2026-01(p3,+60)', 'day2-new-2026-11-24T12to25T0035(p1,+2)']
+exhausted ['pinned(p1,+1)', '2026-11(p12,+222)', '2026-10(p6,+101)', '2026-06(p4,+71)', '2025-12(p7,+136)', '2018-12(p1,+0)', '2026-09(p8,+163)', '2026-08(p9,+195)', '2026-07(p6,+123)', '2026-05(p8,+156)', '2026-04(p10,+212)', '2026-03(p7,+141)']
+calls_this_pass 1248 last_total 2184
+
+UNIQUES {'silverfang88': 10415, 'iiiinvest': 4712, 'alexandr_wang': 1873, 'taresky': 3557, 'thankUcrypto': 2184} sum 22741
+DAILY 643 USABLE 568
+STALL pagination_stalled silverfang88 2023-09 b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp
+STALL pagination_stalled silverfang88 2026-07 b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp
+STALL pagination_stalled iiiinvest 2026-08 b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp
+STALL not_proven_exhausted alexandr_wang 2012-2014 None
+checkpointed calls_this_pass 1248 chunk 356 daily 643 usable 568

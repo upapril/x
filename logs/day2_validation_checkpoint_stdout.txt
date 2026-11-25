@@ -1,0 +1,97 @@
+{
+  "written_at_shanghai": "2026-11-25T09:15:45.593854+08:00",
+  "baseline_zip": "/workspace/x-research-day1-final.zip",
+  "accounts": {
+    "alexandr_wang": {
+      "count": 1898,
+      "baseline_count": 1873,
+      "added": 25,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "missing_baseline_ids": [],
+      "changed_baseline_fields": {
+        "collection": 1
+      },
+      "changed_baseline_text": [],
+      "missing_provenance_files": [],
+      "raw_text_mismatches": [],
+      "control_char_lines": 0,
+      "sha256": "20f9a68faee756e05e9c285033229e57e8592f28f4305368b8b52ddc54f64c1c"
+    },
+    "iiiinvest": {
+      "count": 4712,
+      "baseline_count": 3856,
+      "added": 856,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "missing_baseline_ids": [],
+      "changed_baseline_fields": {
+        "collection": 1
+      },
+      "changed_baseline_text": [],
+      "missing_provenance_files": [],
+      "raw_text_mismatches": [],
+      "control_char_lines": 0,
+      "sha256": "2b938ab0bfb6d6f80ba4d7f8ea1825bf3ade59b0323f0476032ebc822b7a543d"
+    },
+    "silverfang88": {
+      "count": 10415,
+      "baseline_count": 9239,
+      "added": 1176,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "missing_baseline_ids": [],
+      "changed_baseline_fields": {
+        "text": 1,
+        "collection": 1
+      },
+      "changed_baseline_text": [
+        {
+          "id": "2110119596435054716",
+          "field": "text"
+        }
+      ],
+      "missing_provenance_files": [],
+      "raw_text_mismatches": [],
+      "control_char_lines": 0,
+      "sha256": "113a7cf671685e50c3cc0965b03e28b2a83b3aea4d6d438a6da2d988515a8351"
+    },
+    "taresky": {
+      "count": 7223,
+      "baseline_count": 224,
+      "added": 6999,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "missing_baseline_ids": [],
+      "changed_baseline_fields": {},
+      "changed_baseline_text": [],
+      "missing_provenance_files": [],
+      "raw_text_mismatches": [],
+      "control_char_lines": 0,
+      "sha256": "ea25419c1b9df586679819750018419a7b64fd3462ba98432709c515444050da"
+    },
+    "thankUcrypto": {
+      "count": 4806,
+      "baseline_count": 178,
+      "added": 4628,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "missing_baseline_ids": [],
+      "changed_baseline_fields": {},
+      "changed_baseline_text": [],
+      "missing_provenance_files": [],
+      "raw_text_mismatches": [],
+      "control_char_lines": 0,
+      "sha256": "6e089c1cac8994c84efd7f09e15d8c016bcc192a0d71336e40340304ada2ff9e"
+    }
+  },
+  "corrections_audit": "logs/day2_literal_corrections.json",
+  "total": 29054,
+  "added": 13684,
+  "pass": true
+}

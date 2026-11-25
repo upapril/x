@@ -1,0 +1,122 @@
+{
+  "collected_at_utc": "2026-11-25T00:28:12Z",
+  "collected_at_shanghai": "2026-11-25T08:28:12+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M881M8QH4CKT3AT0YA5TZ8FF.txt",
+  "request": {
+    "query": "from:thankUcrypto",
+    "start_time": "2026-11-01T00:00:00Z",
+    "end_time": "2026-11-25T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzly3efbc2q4946pk8gv1txsit01p",
+    "window_label": "2026-11"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2116782391268450304"
+        ]
+      },
+      "author_id": "705564530936418304",
+      "conversation_id": "2116782406279807019",
+      "created_at": "2026-11-01T06:40:28.000Z",
+      "edit_history_tweet_ids": [
+        "2116782406279807019"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/5H3K7C17iX",
+            "end": 86,
+            "expanded_url": "https://x.com/thankUcrypto/status/2116782406279807019/photo/1",
+            "media_key": "3_2116782391268450304",
+            "start": 63,
+            "url": "https://t.co/5H3K7C17iX"
+          },
+          {
+            "display_url": "x.com/binancezh/stat…",
+            "end": 110,
+            "expanded_url": "https://twitter.com/binancezh/status/2116745976446956000",
+            "start": 87,
+            "url": "https://t.co/BnMk2o13Z3"
+          }
+        ]
+      },
+      "id": "2116782406279807019",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 111773,
+        "like_count": 89,
+        "quote_count": 1,
+        "reply_count": 55,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116745976446956000",
+          "type": "quoted"
+        }
+      ],
+      "text": "第一阶段没开放BNB链提现？ 我只想把预测账户的钱划转出去也不行？划转又不是提现，预测账户划转到现货账户不应该是充值逻辑吗？ https://t.co/5H3K7C17iX https://t.co/BnMk2o13Z3",
+      "url": "https://x.com/thankUcrypto/status/2116782406279807019"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "title": "安全事件恢复进展公告#4：分阶段恢复提现服务（2026-11-01）"
+        },
+        "author_id": "1451036242431262720",
+        "conversation_id": "2116745976446956000",
+        "created_at": "2026-11-01T04:15:42.000Z",
+        "edit_history_tweet_ids": [
+          "2116745976446956000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2116…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2116744726284292097",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2116744726284292097",
+              "url": "https://t.co/B0f31o6xQG"
+            }
+          ]
+        },
+        "id": "2116745976446956000",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 403838,
+          "like_count": 199,
+          "quote_count": 89,
+          "reply_count": 115,
+          "retweet_count": 43
+        },
+        "text": "https://t.co/B0f31o6xQG"
+      }
+    ],
+    "users": [
+      {
+        "id": "705564530936418304",
+        "name": "allincrypto 熬鹰资本 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+        "username": "thankUcrypto",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116782406279807019",
+    "next_token": "b26v89c19zqg8o3juzly3efb1fxmphlunujb1579qzp8d",
+    "oldest_id": "2116782406279807019",
+    "result_count": 1
+  },
+  "errors": []
+}

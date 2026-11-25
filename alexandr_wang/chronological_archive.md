@@ -2,10 +2,10 @@
 
 This file is an **index**. Full original-language text for every stored post is in the yearly files under `archives/YYYY.md`.
 
-- Unique posts stored (deduped by id): **1873**
+- Unique posts stored (deduped by id): **1921**
 - Span (API UTC): `2012-06-23T02:48:05.000Z` → `2026-11-23T04:21:30.000Z`
 - Span (Asia/Shanghai, GMT+8): 2012-06-23 10:48:05 GMT+8 → 2026-11-23 12:21:30 GMT+8
-- Types: original 719, reply 640, quote 231, repost 283
+- Types: original 734, reply 651, quote 236, repost 300
 - Earliest stored: [216361960667754498](https://x.com/alexandr_wang/status/216361960667754498) — 2012-06-23 10:48:05 GMT+8
 - Latest stored: [2124719968499777546](https://x.com/alexandr_wang/status/2124719968499777546) — 2026-11-23 12:21:30 GMT+8
 
@@ -18,7 +18,7 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 | 2012 | 1 | `archives/2012.md` |
 | 2015 | 51 | `archives/2015.md` |
 | 2016 | 238 | `archives/2016.md` |
-| 2017 | 62 | `archives/2017.md` |
+| 2017 | 110 | `archives/2017.md` |
 | 2018 | 107 | `archives/2018.md` |
 | 2019 | 172 | `archives/2019.md` |
 | 2020 | 152 | `archives/2020.md` |
@@ -358,6 +358,54 @@ This is **not** a complete account history. See `coverage_manifest.md`.
 - `850028342430519297` | 2017-04-07 00:52:04 GMT+8 | repost | https://x.com/alexandr_wang/status/850028342430519297 | RT @scaleAPI: Meet our API for Categorization!
 - `850028412248801280` | 2017-04-07 00:52:20 GMT+8 | repost | https://x.com/alexandr_wang/status/850028412248801280 | RT @rickyrauch: Introducing our API for Categorization!
 - `851683444182482946` | 2017-04-11 14:28:51 GMT+8 | original | https://x.com/alexandr_wang/status/851683444182482946 | @_tessr @daniel_levine @apimixtape Hey Tess, would love to meet up!
+- `859116192673316864` | 2017-05-02 02:43:56 GMT+8 | quote | https://x.com/alexandr_wang/status/859116192673316864 | Proud for @scaleAPI to be supporting @natfriedman AI Grant! https://t.co/HuxyRYLUgN
+- `859833106605367296` | 2017-05-04 02:12:42 GMT+8 | reply | https://x.com/alexandr_wang/status/859833106605367296 | @MarcBodnick Don't need autonomous cars, can get by on simpler delivery robots. Margins on consumer biz are bad, but bulk order margins are better.
+- `859833412713971712` | 2017-05-04 02:13:55 GMT+8 | reply | https://x.com/alexandr_wang/status/859833412713971712 | @MarcBodnick Very low margin and operationally intensive biz. At large-scale, very much about operational efficiency.
+- `860019733625577472` | 2017-05-04 14:34:17 GMT+8 | quote | https://x.com/alexandr_wang/status/860019733625577472 | always great to see @scaleAPI's audio transcription API used to improve products. Can't wait to see what else people build :) https://t.co/hVTNBzvt9z
+- `864953411556352000` | 2017-05-18 05:18:58 GMT+8 | repost | https://x.com/alexandr_wang/status/864953411556352000 | RT @picsoung: Now that I see @alexandr_wang from @scaleAPI on #apimixtape stage I wonder why Jin Yang did not use it for Hotdog or Not #Sil…
+- `864955608776138752` | 2017-05-18 05:27:41 GMT+8 | original | https://x.com/alexandr_wang/status/864955608776138752 | Had a great time speaking about @scaleAPI at #APImixtape. Really incredible group of speakers and attendees—props to @readmeio
+- `866500443878309888` | 2017-05-22 11:46:19 GMT+8 | repost | https://x.com/alexandr_wang/status/866500443878309888 | RT @michaelkruse: So it has. https://t.co/7UvpMElZWP https://t.co/gA1rwKWh5z
+- `866736565808123904` | 2017-05-23 03:24:35 GMT+8 | reply | https://x.com/alexandr_wang/status/866736565808123904 | @anoushkavaswani Thanks Anoushka!! 😊
+- `866737100296601600` | 2017-05-23 03:26:42 GMT+8 | reply | https://x.com/alexandr_wang/status/866737100296601600 | @laurenoffwhite Thanks Lauren!! 👋🙏
+- `866741890980368385` | 2017-05-23 03:45:44 GMT+8 | original | https://x.com/alexandr_wang/status/866741890980368385 | We announced @scaleAPI's Series A in the @WSJ today! https://t.co/tmkdxfRZzT via @WSJ
+- `866759698115993601` | 2017-05-23 04:56:30 GMT+8 | repost | https://x.com/alexandr_wang/status/866759698115993601 | RT @Accel: The thesis for our Series A in @scaleAPI, per @daniel_levine, is about "two themes we love: APX and Productized AI." https://t.c…
+- `866759722937892864` | 2017-05-23 04:56:36 GMT+8 | repost | https://x.com/alexandr_wang/status/866759722937892864 | RT @Accel: @scaleAPI Helps Engineers Outsource ‘Microtasks’ https://t.co/436EjoZ4E7 via @WSJ
+- `866770296673492992` | 2017-05-23 05:38:37 GMT+8 | reply | https://x.com/alexandr_wang/status/866770296673492992 | @juecd_ @scaleAPI @WSJ Thanks Cat!!
+- `866808626316419072` | 2017-05-23 08:10:55 GMT+8 | repost | https://x.com/alexandr_wang/status/866808626316419072 | RT @rickyrauch: .@scaleAPI: Announcing Series A led by Accel
+- `867193167262568448` | 2017-05-24 09:38:57 GMT+8 | repost | https://x.com/alexandr_wang/status/867193167262568448 | RT @rickyrauch: ScaleAPI ↗️ https://t.co/SU2086VjhA
+- `867438436243853312` | 2017-05-25 01:53:34 GMT+8 | repost | https://x.com/alexandr_wang/status/867438436243853312 | RT @ycombinator: Congrats to Scale (YC S16), the API for human intelligence, on raising their Series A https://t.co/NYr3KzBdl4
+- `867480700412338180` | 2017-05-25 04:41:30 GMT+8 | quote | https://x.com/alexandr_wang/status/867480700412338180 | We at @scaleAPI are incredibly lucky to partner with @Accel. @daniel_levine and the team have been an absolute pleasure. https://t.co/KomIoKxLgV
+- `869628017781243904` | 2017-05-31 02:54:11 GMT+8 | repost | https://x.com/alexandr_wang/status/869628017781243904 | RT @scaleAPI: Congrats to the Spring 2017 AIGrant fellows! Looking forward to seeing how Scale can improve each project.
+- `869954427058352129` | 2017-06-01 00:31:13 GMT+8 | original | https://x.com/alexandr_wang/status/869954427058352129 | I just published “Word-by-word Timestamps for Audio Transcription” https://t.co/7c3nX2Jctk
+- `878654842444460032` | 2017-06-25 00:43:33 GMT+8 | original | https://x.com/alexandr_wang/status/878654842444460032 | @saranormous That's me!! You didn't stop by 😕
+- `879480452825792512` | 2017-06-27 07:24:14 GMT+8 | original | https://x.com/alexandr_wang/status/879480452825792512 | @timanglade @iandanforth @scaleAPI Feel free to reach out directly if you have any questions in the future! Would love to see how we can help out 😊
+- `879501732715180033` | 2017-06-27 08:48:48 GMT+8 | original | https://x.com/alexandr_wang/status/879501732715180033 | @timanglade @iandanforth @scaleAPI Very exciting! DM me anytime!
+- `880510324855590912` | 2017-06-30 03:36:35 GMT+8 | repost | https://x.com/alexandr_wang/status/880510324855590912 | RT @scaleAPI: Scale for Autonomous Driving
+- `880514207153741824` | 2017-06-30 03:52:00 GMT+8 | original | https://x.com/alexandr_wang/status/880514207153741824 | @olivercameron @scaleAPI Amazing! Would love to chat more about your requirements and how we can help! Will DM :)
+- `880527359878746112` | 2017-06-30 04:44:16 GMT+8 | original | https://x.com/alexandr_wang/status/880527359878746112 | @daniel_levine @scaleAPI Thanks Dan!!
+- `881913322269851649` | 2017-07-04 00:31:35 GMT+8 | reply | https://x.com/alexandr_wang/status/881913322269851649 | @cdixon You can duplicate and review humans to increase performance. Ensemble NN algos are worse than ensemble of humans.
+- `885549674630754304` | 2017-07-14 01:21:09 GMT+8 | reply | https://x.com/alexandr_wang/status/885549674630754304 | @hardmaru Feels like animes are going to start drawing inspiration from RL
+- `885712414519418884` | 2017-07-14 12:07:50 GMT+8 | reply | https://x.com/alexandr_wang/status/885712414519418884 | @olivercameron The photos weren't generated—edited/photoshopped rather
+- `885715430387597313` | 2017-07-14 12:19:49 GMT+8 | reply | https://x.com/alexandr_wang/status/885715430387597313 | @olivercameron No worries! With everything happening in DL these days, that's equally plausible!
+- `888501223166365696` | 2017-07-22 04:49:33 GMT+8 | repost | https://x.com/alexandr_wang/status/888501223166365696 | RT @scaleAPI: Attending #cvpr2017? Let us know if you'd like to meet up! #cvpr #computervision #patternrecognition
+- `888839563770077184` | 2017-07-23 03:14:00 GMT+8 | original | https://x.com/alexandr_wang/status/888839563770077184 | At #CVPR17! Hit me up to chat about ConvNets and training data 👋
+- `889947414328614912` | 2017-07-26 04:36:12 GMT+8 | quote | https://x.com/alexandr_wang/status/889947414328614912 | Spoke on 52 Founders about @scaleAPI, check it out :) https://t.co/mf7ByanG07
+- `890800253665923072` | 2017-07-28 13:05:05 GMT+8 | repost | https://x.com/alexandr_wang/status/890800253665923072 | RT @garrytan: When hiring most positions, raw talent and energy beats the resume. There are a lot of diamonds in the rough waiting to be fo…
+- `891519580123693058` | 2017-07-30 12:43:26 GMT+8 | reply | https://x.com/alexandr_wang/status/891519580123693058 | @olivercameron @BenedictEvans @martin_wicke "I need to learn how far things are with ML" vs "I know exactly how far things are all the time" 🤔
+- `891775819860684801` | 2017-07-31 05:41:38 GMT+8 | original | https://x.com/alexandr_wang/status/891775819860684801 | @martin_wicke @olivercameron @BenedictEvans It definitely tells you exactly where obstructions are, then you need to learn what the obstructions are
+- `891917424651452416` | 2017-07-31 15:04:19 GMT+8 | repost | https://x.com/alexandr_wang/status/891917424651452416 | RT @hardmaru: "Facebook Shut Down AI After It Invented Its Own Language" is a very irresponsible title for a news article. The authors shou…
+- `897835596302909441` | 2017-08-16 23:01:01 GMT+8 | original | https://x.com/alexandr_wang/status/897835596302909441 | I just published “Introducing New Image Annotation Types” https://t.co/ZumZPE1bMw
+- `899140397892382720` | 2017-08-20 13:25:50 GMT+8 | original | https://x.com/alexandr_wang/status/899140397892382720 | Cool to see @scaleAPI's transcription API be recognized 
+- `901571191780937728` | 2017-08-27 06:24:57 GMT+8 | repost | https://x.com/alexandr_wang/status/901571191780937728 | RT @hardmaru: Neural Net evolved to play Mario Kart 64, requiring only small computing power. MarioKart64NEAT code by Nick Nelson: https://…
+- `901572692301684736` | 2017-08-27 06:30:54 GMT+8 | reply | https://x.com/alexandr_wang/status/901572692301684736 | @saranormous @Shopify Isn't this just a wrapper around @stripe checkout?
+- `902444105535414273` | 2017-08-29 16:13:36 GMT+8 | repost | https://x.com/alexandr_wang/status/902444105535414273 | RT @SpaceAnubis: It's all about data. @scaleAPI annotations coming thru! Our @voyage Ops peeps caught on LiDAR 🕺💃 https://t.co/24r9S3MY9s
+- `902720225925251072` | 2017-08-30 10:30:48 GMT+8 | repost | https://x.com/alexandr_wang/status/902720225925251072 | RT @hardmaru: We evolved AR stick figures with RNN brains to avoid physical and virtual objects! By @afuste @jdthamores @halfdanj https://t…
+- `903018196273324032` | 2017-08-31 06:14:49 GMT+8 | repost | https://x.com/alexandr_wang/status/903018196273324032 | RT @SpaceAnubis: .@voyage captured and @scaleAPI labeled --&gt; sequence labeled LiDAR 3D point clouds! https://t.co/PXzLRwAN83
+- `905279606764294145` | 2017-09-06 12:00:52 GMT+8 | repost | https://x.com/alexandr_wang/status/905279606764294145 | RT @BaiduResearch: Proud to announce our paper "Deep Voice 2: Multi-Speaker Neural Text-to-Speech" is accepted for #nips2017 spotlight! htt…
+- `912421996503474177` | 2017-09-26 05:02:10 GMT+8 | original | https://x.com/alexandr_wang/status/912421996503474177 | I just published “Guest Post: Cloudinary Uses Scale API to Focus on Image Compression” https://t.co/raZF9xFgvS
+- `913424487076438016` | 2017-09-28 23:25:42 GMT+8 | original | https://x.com/alexandr_wang/status/913424487076438016 | @ak1010 Yep! Use humans to achieve high quality. There are a bunch of large scale use cases that rely on our judgments in self driving and health
+- `913474546514092038` | 2017-09-29 02:44:38 GMT+8 | quote | https://x.com/alexandr_wang/status/913474546514092038 | So damn cool. Nice job @ccheever and rest of @expo_io team https://t.co/dPXFY7Cqm1
+- `915051465659400192` | 2017-10-03 11:10:44 GMT+8 | original | https://x.com/alexandr_wang/status/915051465659400192 | @jongold @_inesmontani @honnibal hey @jongold! Alex from @scaleAPI here—we actually provide a simple API through which you can get images segmented by humans. wanna try it?
 - `915114711460438017` | 2017-10-03 15:22:03 GMT+8 | original | https://x.com/alexandr_wang/status/915114711460438017 | @jongold We work with a bunch of enterprise customers and would be happy to walk through our data/security measures with your team!
 - `915115168849207296` | 2017-10-03 15:23:52 GMT+8 | original | https://x.com/alexandr_wang/status/915115168849207296 | @jongold Feel free to PM me or email me @ alex[at]https://t.co/Xd7883yj9W and would love to see how we can help!
 - `915798931308552192` | 2017-10-05 12:40:54 GMT+8 | repost | https://x.com/alexandr_wang/status/915798931308552192 | RT @DeepMindAI: Last year WaveNet was a research project, today it launches in the @Google Assistant https://t.co/CuRBl92Hy2 https://t.co/X…

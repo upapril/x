@@ -1,55 +1,39 @@
-# Analysis — @thankUcrypto (allincrypto 熬鹰资本)
+# @thankUcrypto — day2 analysis, explicitly partial
 
-**Corpus (day-1 initial sample only):** 178 unique stored posts, 2022-12-30 17:55:07 GMT+8 → 2026-11-24 19:05:18 GMT+8 (Asia/Shanghai). Types: original 82, reply 74, quote 21, repost 1. Profile `post_count` at 24 Nov 2026 20:31 GMT+8 lookup: **8,097**. Followers: 229,472.
+**25 Nov 2026, Asia/Shanghai (GMT+8).** 6,867 deduplicated captured posts. Start with `coverage_manifest.md`; archives are indexed by UTC year. Profile identity is public account wording only; no private legal-name inference. All performance, fills, forecasts, third-party allegations and market facts below remain the author's statements unless a separate source is expressly identified. This is an evidence-led reading guide, not an audited track record or investment advice. A post being present proves what the captured response says, not that the strategy worked or every underlying event occurred.
 
-**Coverage (read this first).** This is **not** a complete history. Day-1 collection was a budget-limited public sample: the profile, one recent `get_users_posts` page, first pages of nine dated windows (2026-11, 2026-10, 2026-06, 2025-12, 2025-06, 2024-12, 2023-12, 2022-12, 2018-12), and the pinned post (expansion 404, later retrieved with `get_posts_by_ids`). 2018-12 came back empty (that month only). 2022-12 returned two posts but still has a `next_token`. Account created 2016-03-04; most pre-2025 months were not opened. A 28 Jun 2025 reply says he shared on Weibo “22-24” and “25年才转的推” ([1938878237918273854](https://x.com/thankUcrypto/status/1938878237918273854)) — that is self-description, not proof the earlier X timeline is empty. See `coverage_manifest.md` and `logs/remaining_jobs_day1.json`.
+The earlier day1 narrative is retained as a **historical snapshot**, not current coverage authority, in `../logs/historical_narratives_day1/`. Source excerpts and author checks for this synthesis are in `../logs/day2_citation_ledger.json`.
 
-Public identity is taken only from the public profile and posts: display name “allincrypto 熬鹰资本 🇨🇳”; bio “多次创业成功并归零，今年1万美金再次重返1000万美金”; location text “你就是你自己的交易之神。”; website expanded to https://vlink.cc/aoyingzhuli; bio also contains a Binance t.co link and an assistant mention `@xiaoweio9983`; verified_type blue. **No legal name is inferred.** Bio P&L is self-reported and unverified.
+## Core operating model
 
-Times below are Asia/Shanghai (GMT+8) unless labeled UTC.
+**Interpretation:** discretionary, event/flow-aware leveraged trading plus a public copy-trading/media business. A trade's thesis, sizing, stop execution and the follower's experience are separate objects. The expanded corpus (178 → 6,867) makes both his techniques and his inconsistency more visible; it does not establish a profitable audited strategy.
 
----
+## Chronology: process language, leverage and business pressure
 
-## Core operating model (from the posts we have)
+- **14 Apr 2024:** “降低回撤的办法，杠杆第一 止损计划第二 币种选择最后。” — [2024-04-14 17:46:27 GMT+8](https://x.com/thankUcrypto/status/1779446108114284635) This is a clear priority order: leverage before stop plan before coin choice, not a published numeric risk budget.
+- **22 Jul 2024, copy-trading economics:** “而且我又不马丁也不用期现套利的方式扛单和保持胜率” — [2024-07-22 11:13:54 GMT+8](https://x.com/thankUcrypto/status/1815223717531918486) In the same post he says losing followers leave after stops, reducing profit-share income, and advises separating media identity from copy-trading identity. He describes flow and reputational pressure, not merely chart signals. His assertions of near-total legal safety are **not legal advice** and are not endorsed here.
+- **24 Jul 2024, project closure:** “短线很影响睡眠，尤其带单仓位” — [2024-07-24 12:32:04 GMT+8](https://x.com/thankUcrypto/status/1815968167170277692) He says platform margin/follower-fill problems and responsibility for followers made the project exhausting. The neighboring near-duplicate id is preserved separately because id deduplication is not text deduplication. This is operational capacity evidence, not proof that the quoted 20,000% return occurred.
+- **12 Mar 2025, “双损” explanation:** “既挂了止损单，又同时爆仓损，不会亏到账户里其他保证金。” — [2025-03-12 17:39:47 GMT+8](https://x.com/thankUcrypto/status/1899757201839038551) He discusses stop slippage, margin removal and isolated margin. Crucially he also writes “我是没养成这习惯的” — [2025-03-12 17:39:47 GMT+8](https://x.com/thankUcrypto/status/1899757201839038551) So this is a technique he explains, **not evidence he habitually used it**. Liquidation/isolated margin does not guarantee execution quality or remove exchange risk.
+- **31 Mar 2025, observation is not execution:** “从看到 到 做到相隔千里万里。知易行难。” — [2025-03-31 16:20:40 GMT+8](https://x.com/thankUcrypto/status/1906622661045985514) He lists inputs learned from other traders: long/short ratios, positions, funding, event thinking, CME gaps, ETF opening/closing prices and on-chain monitoring. His eventual return claims remain unverified.
+- **13 Jun 2025, risk appetite expansion:** “这轮我大饼开到10x doge开到5x，基本没啥心理压力” — [2025-06-13 07:24:28 GMT+8](https://x.com/thankUcrypto/status/1933304425243947272) This qualifies any reading of him as uniformly low-leverage; the accompanying stop confidence is not proof of bounded portfolio loss.
+- **26 Jun 2025:** wide-stop pain in [2025-06-26 23:32:44 GMT+8](https://x.com/thankUcrypto/status/1938259138863370368) and “做交易，永远要靠自己” — [2025-06-27 02:05:39 GMT+8](https://x.com/thankUcrypto/status/1938297622181384628) sit beside the follow-signal business.
+- **2026 losses and re-entry:** the ETH-short loss report in [2026-06-15 20:44:02 GMT+8](https://x.com/thankUcrypto/status/2066501986653221245) and the pinned challenge wrap in [2026-08-24 14:45:32 GMT+8](https://x.com/thankUcrypto/status/2091778918810612183) must both remain visible. They cannot be netted into a track record.
+- **24 Nov 2026:** entry/exit-condition language in [2026-11-24 17:11:52 GMT+8](https://x.com/thankUcrypto/status/2125155429512855651) contrasts with “一路相当于马丁一直加仓” — [2026-11-24 19:05:18 GMT+8](https://x.com/thankUcrypto/status/2125183975757119963) about an A-share position. This is the strongest dated tension with the 2024 anti-martingale self-description. Different market, same account, not a proof that every crypto strategy was martingale.
 
-In this sample he presents as a high-activity directional trader (crypto, later also US-related stocks and a brief A-share experiment) who talks in fills, funding-rate games, copy-trading / “带单,” and large self-reported P&L swings. The current pinned post (24 Aug 2026) says it is “最后一次更新实盘挑战系列数据,” then gives unverified figures: two weeks “搞了2.3M,” the 带单号 “赚了1.6M,” “合计交易总盈利5M,” “跟单分润10%赚0.6M,” and “从五月做1WU直播挑战到今天总收益5.6M。换汇率就是3600万R左右。” ([2091778918810612183](https://x.com/thankUcrypto/status/2091778918810612183)). **None of those numbers is audited here.**
+## Core rules, and a safe way to study them
 
-The most compact **process** statement in the newest page is 24 Nov 2026:
+**Explicit public ideas:** leverage is the first drawdown lever; define exit conditions; study actual execution rather than admire other traders; adapt tools to one's own temperament; trading is probabilistic; copy-trading may add income but adds execution and social costs.
 
-> 交易和短线不短线不重要。
-> 你为什么开，什么条件开，为什么平，什么条件平，很重要。
+**Our how-to, not a recommended live trade:** take one dated idea and record its instrument, collateral, horizon, trigger, stop type, slippage assumption and maximum combined loss across accounts. Separate a planned scale-in from loss-driven doubling. For a copied trade, simulate follower fill latency, differing balances, venue limits and stop slippage. Log which rule was written *before* entry and which explanation arrived after the fact. Treat leverage labels as incomplete without notional/equity and collateral.
 
-Source: [2125155429512855651](https://x.com/thankUcrypto/status/2125155429512855651) (2026-11-24 17:11:52 GMT+8). The same post describes a Nvidia long he wanted midday and sized into at night, with a 150 take-profit conditioned on “黄仁勋12.1号听证会没大利空.”
+## Contradictions and uncertainty
 
-A June 2025 post states a different crisp rule: “做交易，永远要靠自己,” criticizing people who wait for him to say when he flattened ([1938297622181384628](https://x.com/thankUcrypto/status/1938297622181384628)).
+1. **“不马丁” (2024) vs “相当于马丁一直加仓” (2026):** a real textual tension, not silently reconciled into one consistent system.
+2. **Explain a protective technique vs use it:** his own disclaimer in the 双损 post prevents falsely attributing a standard risk-control habit.
+3. **Be independent vs follow signals:** dependence is commercially encouraged and later criticized. The follower's stop/exit timing may differ from his.
+4. **Low-leverage advice vs displayed high-leverage examples:** relative-to-whom comparisons are not risk limits.
+5. **Large wins, large losses and survivorship:** no audited transfers, complete equity curves, fees, funding, withdrawals or denominator reconciliation. Repeated pasted summaries, screenshots and pinned celebrations are not independent verification.
 
-**Interpretation (not a proven edge):** the public book in this sample is discretionary, narrative- and microstructure-aware (funding-rate timing on Sahara in Jun 2025; event-driven Nvidia in Nov 2026), often leveraged, and frequently revised in public after the fact. It is not a documented mechanical system.
+## Coverage
 
----
-
-## How-to / rules that actually appear
-
-- **Define open and close conditions** (Nov 2026), quoted above. That is a process rule; the same 24-hour window also shows missed adds and a filled take-profit he then regretted.
-- **Do not outsource the exit to the caller** (Jun 2025): “做交易，永远要靠自己.”
-- **Tighten wide stops after a scare** (26 Jun 2025): “最高亏了特么60wu…差2%止损。以后宽损还是放窄点儿好。” ([1938259138863370368](https://x.com/thankUcrypto/status/1938259138863370368)). Self-reported; unverified.
-- **Control leverage when chasing a breakdown** (29 Dec 2023): “这里下跌确定性变大了，追了一些空，请控制自己杠杆。做跌破思路。” ([1740786429972852753](https://x.com/thankUcrypto/status/1740786429972852753)).
-- **Withdrawals / cash** (23 Nov 2026): “提现永远是对的…在市场里留4000万还是留1000万都是一样的，杠杆是活的，善用杠杆就行了。继续提现。” ([2124746863656231190](https://x.com/thankUcrypto/status/2124746863656231190)). This is a cash-management slogan plus a living-leverage slogan — not a size formula, and not independently checked.
-- **A-share post-mortem** (24 Nov 2026): “我炒 a 股真是一窍不通，只能选哥美股强关联的产业。但是一路，300-700-1000-1400-2000，一路相当于马丁一直加仓。才加到这时候解套跑的。不准备买大 A 个股了，等着便宜了买股指。” ([2125183975757119963](https://x.com/thankUcrypto/status/2125183975757119963)).
-
-Dec 2023 posts also show short-horizon altcoin / BSV / Sol calls, scale-out language (“我会在109开始减仓”), and a “双损” / margin-moved-out note. Treat those as dated trade journal entries, not a standing playbook.
-
----
-
-## Contradictions and limits
-
-- **Huge self-reported wins and huge self-reported losses sit in the same year.** Compare the Aug 2026 pin (5.6M challenge total, unverified) with 26 Jun 2025 “最高亏了特么60wu” and 15 Jun 2026 “几个小时10wu无了” after a 5x copy-trade short and an ETH short that “全损” ([2066501986653221245](https://x.com/thankUcrypto/status/2066501986653221245)). These can all be true in a volatile book, or some can be wrong; this research cannot settle it.
-- **Process rule vs same-week behavior.** “为什么开，什么条件开，为什么平” is posted the same day as a martingale-like A-share add (300–2000) he later forswears, and a day after a take-profit fill he did not want. That is a real contradiction between stated process and described sizing — not proof the process rule is fake, and not proof the martingale was a one-off.
-- **“提现永远是对的” / “杠杆是活的”** can be read against the wide-stop scare and the martingale add. The corpus does not resolve which slogan governs when.
-- Bio “1万美金再次重返1000万美金,” challenge totals, and copy-trading share are **unverified**. Monetization (带单, assistant, exchange / vlink links) sits next to the advice.
-- Pre-2025 X coverage is a sliver. Do not describe a 2016–2024 “style history” from this sample.
-
----
-
-## Practical test (not advice)
-
-A practical reading of the *stated* Nov 2026 rule would be: write the open condition and the invalidation / take-profit *before* the fill, and do not scale like a martingale unless that scale plan was also written down. A practical reading of the Jun 2025 stop comment would be: if a 2% buffer almost tags after a 600k-U mark-to-market, the stop was not actually sized to the book. This research has no fill tape and does not claim those tests would have made money.
+2026 Jan–Nov attempted monthly searches are terminal through captured bounds; **2025 March remains open**, the other 2025 months are terminal. 2024 April/July are open; March/May/June/August–December attempted windows are terminal; Jan/Feb pending. Earlier years are thin or unsampled. His self-description about moving platforms does not prove X silence before 2025. This package has no complete cross-platform history.

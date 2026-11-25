@@ -1,78 +1,98 @@
-# Methodology (day-1 close, explicitly partial)
+# Methodology — day2 reserve close, explicitly partial
 
-## What this package is
+## Scope and evidentiary boundary
 
-A 24 Nov 2026 public-X research archive for five accounts — originally [@alexandr_wang](https://x.com/alexandr_wang), [@iiiinvest](https://x.com/iiiinvest), [@silverfang88](https://x.com/silverfang88), with [@taresky](https://x.com/taresky) and [@thankUcrypto](https://x.com/thankUcrypto) added late on day 1. Stored under `/workspace/x-research`. **This is not a complete tweet archive for any handle.**
+Five public accounts: @silverfang88, @iiiinvest, @alexandr_wang, @taresky, @thankUcrypto. Day2 is25 Nov2026, Asia/Shanghai (GMT+8), continuing the immutable15,370-ID day1 baseline. **34,913 unique IDs** are now stored; **19,543 added**. No account is claimed complete. Profile lifetime `post_count` figures are day1 lookups, not fresh day2 metrics and not proof a computable missing remainder exists.
 
-Unique posts at day-1 close, validated with `json.loads` on every `normalized/posts.jsonl` line (bad lines = 0, duplicate ids = 0, `author_username` matches folder):
+A captured post supports the literal text/attribution in the captured response, not every underlying market fact, performance claim, legal assertion or accusation. Analyses are selective evidence-led synthesis, not a manual reread of all34,913 posts. “New” means added versus day1 ZIP, not necessarily recently authored. Distinct IDs with identical text remain distinct. Reposts, replies and expanded referenced writers retain separate attribution. No private legal-name inference.
 
-| Handle | Unique posts stored | Profile `post_count` at lookup | Day-1 collection depth |
-|---|---:|---:|---|
-| silverfang88 | 9,239 | 19,982 (first lookup) | Deep 2021–2023 and much of 2025–2026; parts of 2024 and early 2025 remain |
-| iiiinvest | 3,856 | 4,858 (first lookup) | Deep 2026; 2023–2025 still thin |
-| alexandr_wang | 1,873 | 3,762 (first lookup) | 2018–2023 much improved; 2012–2014 unproven; 2024–2026 monthly jobs mostly unopened |
-| taresky | 224 | 34,003 (24 Nov 2026 20:31 GMT+8) | Initial sample only |
-| thankUcrypto | 178 | 8,097 (24 Nov 2026 20:31 GMT+8) | Initial sample only |
-| **Total** | **15,370** | | |
+## Tools and collection recipe
 
-Profile `post_count` is **not** a missing-count proof.
+Only shared public `x` tools. Day2 collection used `x.search_posts_all`, `write_to_file:true`, followed by disk ingestion. No browser, user-X session, bearer token, alternative scrape, messages, purchases or GitHub writes. No profile recheck or Meta web refetch was spent onday2.
 
-## Tools and constraints
+- Query: `from:<handle>`.
+- Each existing job's exact `start_time`, `end_time`, `next_token` is reused unchanged; pending first pages omit token.
+- `max_results:25`, `sort_order:recency`.
+- `post.fields`: `created_at,public_metrics,note_post,entities,attachments,lang,conversation_id`.
+- `expansions`: `author_id,referenced_posts,in_reply_to_user_id`.
+- At most30reads/minute,1,000/day; live footers, not arithmetic from stale snapshots, control the stop. Across parallel batches the lowest daily remainder is authoritative.
+- `python3 _tools/checkpoint_batch.py handle:ASSET_FILENAME.txt:window_label ...` ingests downloaded responses and advances only their corresponding jobs. It follows saved Full-text pointers for truncated tool-output wrappers. Every fetched response was ingested before finalization; none remain pending.
+- Follow a new token even after a small nonempty page; do not assume fewer than25 is terminal. A no-token terminal result ends that saved window. Same-token duplicate stalls are recorded and never retried. Errors do not establish exhaustion. Parent stalls and exhausted children are not reopened.
 
-Built-in first-party-adjacent `x` MCP **public** reads only: `get_users_by_usernames`, `get_users_posts`, `search_posts_all` (`query=from:handle`, `sort_order=recency`, `max_results=25` because the connector caps ~25), `get_posts_by_ids`. Large responses were written to disk (`write_to_file`) and ingested without pasting raw payloads into the model context. No browser X login, no user-X session, no `api.x.com` bearer tokens, no GitHub writes from this box.
+## Exact day2 stop and budget
 
-Pagination: later pages store query, window, and input token. If `next_token` equals the input token on a duplicate page, the window is `pagination_stalled` and that token is never reused; an earlier remainder may be opened with `end_time` = oldest timestamp of the duplicate page. Empty `result_count: 0` with no `next_token` marks a window exhausted. 503s do not advance a window (they may still decrement the daily footer).
+Collection reached the real75-read reserve at **25 Nov2026 09:36:46 Asia/Shanghai** (last verified footer; no subsequent X reads in finalization). **924 day2 collection calls ingested**, in addition to the earlier probe that left999. No claim of all-window exhaustion.
 
-IDs are stored as strings. Post types from `referenced_tweets` / `referenced_posts` and `in_reply_to_user_id`. Timestamps: API `created_at` UTC; human summaries Asia/Shanghai (GMT+8). Original-language text is preserved. Canonical URLs are `https://x.com/{handle}/status/{id}`. Collection time and source file are in each post’s `collection` object and in `raw/`.
+```
+X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z).
+```
 
-JSONL control characters: raw newlines inside JSON strings are escaped losslessly (`_repair_json_strings` / hardened `load_jsonl`). Two silverfang88 records were repaired this way earlier in the day; a third split (`1928748987865080287`) was repaired at day-1 close — text was escaped, not rewritten. Backup copies of the pre-repair files were left on disk and **excluded from the zip**.
+Footer minute reset: **25 Nov2026 09:37 Asia/Shanghai**. Daily reset: **26 Nov2026 08:00 Asia/Shanghai**. Remaining75, usable to reserve0. This is a budget stop, not a context checkpoint. Other tasks may share the quota; the next run must read live authority rather than assume these historical75 remain. No new routine was created here; the prior routine fired/deleted itself.
 
-## Day-1 budget footer (authoritative)
-
-After the last ingested X call (pinned-post `get_posts_by_ids` for the two new accounts):
+## Day1 footer retained exactly (historical, not current authority)
 
 ```
 X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).
 ```
 
-- Daily reset: `2026-11-25T00:00:00.000Z` = **2026-11-25 08:00:00 GMT+8 (Asia/Shanghai)**.
-- The original ~75 reserve was relaxed at the end of the day so that **22** public reads could be spent on the two new handles (1 combined profile lookup, 2 recent timeline first pages, 18 representative dated first pages, 1 pinned-ids lookup). Collection then **stopped**, leaving **61** daily remaining (above a ~40 floor for other tasks).
-- 30 reads/minute and 1,000/day limits still apply tomorrow.
+Minute reset:24 Nov2026 **20:33 Asia/Shanghai**; daily reset:25 Nov2026 **08:00 Asia/Shanghai**. Day1 relaxed its reserve for22 initial reads covering the two added accounts and stopped at61. Those61 are not carried into day2's fresh1,000-read day.
 
-## Exact remaining work for a routine at 08:00 Asia/Shanghai on 25 Nov 2026
+## Reproducible unfinished-job manifest for26 Nov2026 08:00 Asia/Shanghai
 
-The reproducible job list is:
+**Frozen package authority:** `logs/DAY2_FINAL_REMAINING_JOBS.json`. It contains every exact open query/bound/token, pending first-page window, terminal job, blocked parent token, and calendar month with no job. **Live continuation authority:** `logs/remaining_jobs_day2.json` + `logs/expand_jobs.json`; `RESUME_OPEN_JOBS.json` is a convenience copy, `NEXT_FIRE.json` is not a scheduled routine. The day1 manifest is historical only.
 
-- `logs/remaining_jobs_day1.json` — open windows with `next_token`, stalled tokens never to reuse, pending labels, and calendar months that still have **no job at all** (especially @taresky 131 months and @thankUcrypto 79 months).
-- `logs/RESUME_OPEN_JOBS.json` and `logs/expand_jobs.json` — live job state.
-- Each account’s `coverage_manifest.json`.
+Counts:11 open dated windows plus2 overlapping recent-timeline cursors (defer);93 actionable pending jobs;210 no-job calendar months (TA131,THANK79). Three stalled parents and one unprovenWang2012–2014 bucket are not safe token-resume jobs. A94th pending label,SF2026-Nov, overlaps terminal children and is blocked.17 inherited pre-creationWang calendar placeholders were moved into `excluded_precreation_calendar_windows`; no post was removed and no extra read is warranted there.
 
-High-value open windows to continue first (tokens in the JSON, not repeated at length here): @silverfang88 `2025-07`, `2025-06`, `2025-05`; @iiiinvest `2026-07`, `2026-09`, `2026-08-01to27`; then the still-open first pages for @taresky and @thankUcrypto; then remaining Wang 2018 open months; then lower-priority mid-2024 @silverfang88 and 2016–17 Wang leftovers.
+### Open dated windows (UTC bounds are exact API arguments)
 
-**Do not reopen** exhausted windows. **Do not reuse** stalled tokens:
+| Handle | Label | start_time UTC | end_time UTC | Exact next_token |
+|---|---|---|---|---|
+| silverfang88 | 2024-03 | `2024-03-01T00:00:00Z` | `2024-04-01T00:00:00Z` | `b26v89c19zqg8o3fr5tenupng9quli5mpc13gghztaid9` |
+| silverfang88 | 2024-06 | `2024-06-01T00:00:00Z` | `2024-07-01T00:00:00Z` | `b26v89c19zqg8o3fr62eek5f4qrff1ul9ltd7re7e1u9p` |
+| silverfang88 | 2024-07 | `2024-07-01T00:00:00Z` | `2024-08-01T00:00:00Z` | `b26v89c19zqg8o3frqlvljape4hxiaccagk4pjjh0wu4d` |
+| silverfang88 | 2024-08 | `2024-08-01T00:00:00Z` | `2024-09-01T00:00:00Z` | `b26v89c19zqg8o3frqrrrru86cwk00i1t1o3gbb3xtnjx` |
+| silverfang88 | 2024-09 | `2024-09-01T00:00:00Z` | `2024-10-01T00:00:00Z` | `b26v89c19zqg8o3frqut8grgysui3mzlnxqnlyzly9da5` |
+| taresky | 2024-09 | `2024-09-01T00:00:00Z` | `2024-10-01T00:00:00Z` | `b26v89c19zqg8o3frqut8rdwre6omn2yqnku6qzsio9rx` |
+| taresky | 2024-10 | `2024-10-01T00:00:00Z` | `2024-11-01T00:00:00Z` | `b26v89c19zqg8o3frqxtuwhnof5dyuwak0sfs5h3drs71` |
+| taresky | 2024-11 | `2024-11-01T00:00:00Z` | `2024-12-01T00:00:00Z` | `b26v89c19zqg8o3frr0rxtbbubn41jahj0tbk73i5x56l` |
+| thankUcrypto | 2025-03 | `2025-03-01T00:00:00Z` | `2025-04-01T00:00:00Z` | `b26v89c19zqg8o3frrct5kdpolkj1rt23tb7zodjxpy7x` |
+| thankUcrypto | 2024-04 | `2024-04-01T00:00:00Z` | `2024-05-01T00:00:00Z` | `b26v89c19zqg8o3fr5wef7lsykbep4ns28qkoya4wln5p` |
+| thankUcrypto | 2024-07 | `2024-07-01T00:00:00Z` | `2024-08-01T00:00:00Z` | `b26v89c19zqg8o3frqos08le9855ejt2s6c935r547rst` |
 
-- silverfang88 `2023-09` `b26v89c19zqg8o3fr5beqknfiduf3z8svkzzdfjkf2ttp`
-- silverfang88 `2026-07` `b26v89c19zqg8o3juewg2tl5lpfe021lawn2fn8ar26pp` (continue only via already-exhausted `2026-07-01to26`; 26–31 Jul 2026 was not opened as its own subwindow)
-- iiiinvest parent `2026-08` tokens `b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp` and `b26v89c19zqg8o3juezgp0sqjwdnag097te7ltdd0hzlp` (continue only via open `2026-08-01to27`)
-- alexandr_wang `2012-2014` is `not_proven_exhausted` (empty-page input token not saved)
+After reset, first finish thankUcrypto2025-March and current new-account historical cursors; finish short SFJune/August tails and other savedSF2024 cursors; then pending recent months and all remaining calendar gaps by value. Wang2016Dec/2017 and original2018Jan–Oct/2019Aug priority tails are terminal. SF2025May–July andIII2026July/September/Aug01–27 are terminal. Do not spend reads rechecking stored profiles or rewalking overlapping timeline-recent tokens. Never reuse a stalled parent or exhausted window.
 
-Do not open silverfang88 pending label `2026-11` (overlaps exhausted `2026-11-01to08` and `2026-11-08to25`).
+A separate **unstarted proposed incremental** window is recorded for each handle: `2026-11-25T00:35:00Z` → `2026-11-25T23:59:00Z`, i.e.25 Nov08:35 →26 Nov07:59 Asia/Shanghai. It has a60s buffer before08:00 and is **not captured yet**. Use the fixed endpoint as the next high-water mark if collected; no silent gap. The preceding fixed incremental `2026-11-24T12:00:00Z` → `2026-11-25T00:35:00Z` is terminal for all five: TA/THANK final tails batch44; SF final tail batch77; III/Wang earlier. Do not reopen it. Every unstarted job remains explicitly unstarted until a response is ingested.
 
-Year-end first pages are recency-biased (~25 newest posts). First-page empty months (e.g. thankUcrypto 2018-12, iiiinvest 2025-08) prove only that the query returned no posts in that window, not that the account was silent all year.
+## Text preservation, JSONL and archives
 
-## Significant Meta facts
+Canonical full records are `*/normalized/posts.jsonl`; IDs are strings. Full/liteJSONL are emitted with `ensure_ascii=True`, escaping controls and Unicode losslessly. Records are split on literalLF (`'\n'`), **not** `splitlines()`; U+2028 inside text is legal content and must not become a record delimiter. `json.loads` validates each physical line. Original `text`, long-form `full_text`, expanded references and raw pages are retained; linked articles/media are not claimed fully retrieved.
 
-Only text this repository has actually captured is treated as a source fact. Scale’s 12 Jun 2025 announcement was re-read and does not say “Chief AI Officer.” Wang’s 1 Jul 2025 post does. Meta’s leadership URL was fetched twice during integration; the captured HTML supports the title and a short vision sentence, and does not contain “first-ever,” “June 2025,” or “Meta Superintelligence Labs.” The day-1 packaging note attributes that longer sentence to the same URL. Both versions are in `public_sources_wang.md`. They are not combined. Both Reuters URLs returned HTTP 401 and were not re-read.
+Each post's `collection` gives its raw response provenance. All cited top-level author IDs match their folder; a quoted writer is not relabeled. Each account has a day1 profile snapshot and provenance file; the two added profiles' named raw lookup response is included where available. The original-three normalized profile captures are retained; no missing original lookup response is invented.
 
-## Prior packages
+Yearly Markdown uses dynamic backtick fences long enough to preserve embedded fences **without altering the post's literal text**. UTC year partitions are labeled; human times include Asia/Shanghai. Full archives, compact chronological indexes, liteJSONL, per-account manifests and root counts were rebuilt atday2 close. JSONL/raw files remain the authoritative machine-readable text if a Markdown renderer treats content differently.
 
-Packaging notes record these zip SHA256 values. The zip files are not stored in this repository. The post ids from the commits on this branch before this close remain inside the JSONL.
+### Audited inherited corrections only
 
-- first pass `455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976` (git `7c43efc`, 1,232 posts)
-- expanded package, as recorded: `d601957063b3610067d2dafd6cab0a6effb63e771bd642df57233b5e44fee6c7`
-- 9,435-post package, as recorded: `1ab3fc4aaee8667c42d833543a85f86f54ff9dabe165f6305d56769aed4d8e58` (packaged 2026-11-24 20:01 GMT+8)
-- the 8,100-post tree on this branch is git `5e939e9`
+`logs/day2_literal_corrections.json` documents:
+- SFpost `2110119596435054716`: restore captured literalU+2028 in `text` where the inherited day1 normalized record hadLF; no wording change.
+- Three inherited pinned-post relative provenance paths: `../../_raw/...` → `../_raw/...`.
 
-## File layout
+Every day1 ID is retained; all other inherited record fields remain semantically unchanged. Prior ZIPs were not edited. Day1 control-character repair history remains in historical methodology; current validation compares decoded text to captured raw and the immutable baseline, allowing only these audited corrections.
 
-See `README.md`. Analyses distinguish fact (quoted dated posts), interpretation, and practical tests. No fabricated returns or backtests.
+## Validation and reproducibility
+
+- `python3 _tools/validate_data_checkpoint.py`: strict JSONL, string-ID dedup, author checks, literal raw text/provenance, baseline ID retention and audited delta check.
+- `python3 _tools/write_day2_analysis.py`: writes five analyses with literal substring assertions and source/author/date ledger.
+- `python3 _tools/rebuild_day2_artifacts.py`: rebuilds archives/year indexes/liteJSONL/manifests from canonical records and live job state. It requires the saved75-read reserve state and performs no network reads.
+- `logs/day2_package_validation.json`: global/per-account ID counts, lite/full equivalence, archives, citation URLs/text and immutable priorZIP hashes; exact on-disk file hashes in `FILE_SHA256SUMS.json`.
+- NEW artifact stem `/workspace/x-research-day2-final`; if split, independently extractable numbered ZIPs are each below25,000,000bytes. Extract all to the same destination. EveryZIP is CRC-tested and every packaged file is SHA256-compared to disk. Exclude `*.bak*`, `__pycache__`, `.pyc`; priorZIPs remain outside this tree.
+
+## Significant Meta facts and unresolved audit
+
+Only the literal sourced wording already captured in `public_sources_wang.md` and the actual stored X records is used. No Meta-page read, signatory-list check, compute-allocation audit or product-launch audit occurred onday2. The inherited Meta leadership-page note is explicitly attributed and dated, not a newly validated fact. Do not derive “first-ever” or aJune start from the1Jul2025 title tweet or the12JunScale announcement. Cloud audit of the original captured source remains outstanding. Quoting a leadership claim proves attribution, not implementation.
+
+## Prior immutable artifacts / integration boundary
+
+`x-research-day1-final.zip` SHA256 `537597c2d1c295f18773fb2099d751338f78a354be982b65a26aaf7367efea37`; three olderZIP hashes remain inREADME and the validation report. Day1 historical narratives are preserved but not current coverage authority.
+
+No GitHub writes from this work. Parent already mergedPR1 into main `fb75058962f33f1c176f0297e47eb4cfde74d929`; future integration requires a **NEW PR from main**, not updates to the mergedPR and not an authorized future merge.

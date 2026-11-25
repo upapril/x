@@ -1,0 +1,39 @@
+{
+  "written_at_shanghai": "2026-11-25T08:40:10.624799+08:00",
+  "prior_zips_unchanged": true,
+  "changes": [
+    {
+      "handle": "alexandr_wang",
+      "id": "2103551714536439951",
+      "field": "collection.page_file",
+      "old": "../../_raw/pinned_posts_get_posts_by_ids.json",
+      "new": "../_raw/pinned_posts_get_posts_by_ids.json",
+      "reason": "Correct inherited relative path from account folder; raw file already exists unchanged."
+    },
+    {
+      "handle": "iiiinvest",
+      "id": "2110022220131226106",
+      "field": "collection.page_file",
+      "old": "../../_raw/pinned_posts_get_posts_by_ids.json",
+      "new": "../_raw/pinned_posts_get_posts_by_ids.json",
+      "reason": "Correct inherited relative path from account folder; raw file already exists unchanged."
+    },
+    {
+      "handle": "silverfang88",
+      "id": "2110119596435054716",
+      "field": "text",
+      "old": "\u5927\u7684\u8981\u6765\u4e86\n\u4eca\u5929Anthropic\u5c06\u5728\u65e7\u91d1\u5c71\u603b\u90e8\n\u5411\u4e00\u6279\u673a\u6784\u6295\u8d44\u8005\n\u9996\u6b21\u62ab\u9732\u5176\u7b2c\u4e09\u5b63\u5ea6Q3\u8d22\u52a1\u6570\u636e\n\n\u4e5f\u662f\u9996\u6b21\nIPO\u7b79\u5907\u4e2d\u7684\u9884\u8def\u6f14\u6295\u8d44\u8005\u4f1a\u8bae https://t.co/3c6RinjxaS",
+      "new": "\u5927\u7684\u8981\u6765\u4e86\n\u4eca\u5929Anthropic\u5c06\u5728\u65e7\u91d1\u5c71\u603b\u90e8\n\u5411\u4e00\u6279\u673a\u6784\u6295\u8d44\u8005\n\u9996\u6b21\u62ab\u9732\u5176\u7b2c\u4e09\u5b63\u5ea6Q3\u8d22\u52a1\u6570\u636e\n\u2028\u4e5f\u662f\u9996\u6b21\nIPO\u7b79\u5907\u4e2d\u7684\u9884\u8def\u6f14\u6295\u8d44\u8005\u4f1a\u8bae https://t.co/3c6RinjxaS",
+      "source_page": "raw/page_0404_search_posts_all.json",
+      "reason": "Restore literal U+2028 Unicode line separator from immutable captured raw page; inherited day1 normalized record replaced it with LF. No substantive wording change."
+    },
+    {
+      "handle": "silverfang88",
+      "id": "2109440726865985560",
+      "field": "collection.page_file",
+      "old": "../../_raw/pinned_posts_get_posts_by_ids.json",
+      "new": "../_raw/pinned_posts_get_posts_by_ids.json",
+      "reason": "Correct inherited relative path from account folder; raw file already exists unchanged."
+    }
+  ]
+}

@@ -1,0 +1,2002 @@
+{
+  "collected_at_utc": "2026-11-25T00:44:50Z",
+  "collected_at_shanghai": "2026-11-25T08:44:50+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M882JS72YQBAZNBCWSJ8DPQK.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2026-07-01T00:00:00Z",
+    "end_time": "2026-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3jueth5jevhwg3qzje1p8jabz2xh6rh",
+    "window_label": "2026-07"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073782200202617149",
+      "created_at": "2026-07-05T14:59:21.000Z",
+      "edit_history_tweet_ids": [
+        "2073783799377523164"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2576683783",
+            "start": 0,
+            "username": "aliez_ren"
+          }
+        ]
+      },
+      "id": "2073783799377523164",
+      "in_reply_to_user_id": "2576683783",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1233,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073783566350344348",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@aliez_ren 没用，一样的。我现在不想双显了，平时打游戏还是得 2k540hz。",
+      "url": "https://x.com/taresky/status/2073783799377523164"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073782200202617149",
+      "created_at": "2026-07-05T14:57:03.000Z",
+      "edit_history_tweet_ids": [
+        "2073783221121343703"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "817386500",
+            "start": 0,
+            "username": "isunnyyoung"
+          }
+        ]
+      },
+      "id": "2073783221121343703",
+      "in_reply_to_user_id": "817386500",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 808,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073782908607946959",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@isunnyyoung 🤦‍♂️",
+      "url": "https://x.com/taresky/status/2073783221121343703"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073782200202617149",
+      "created_at": "2026-07-05T14:53:00.000Z",
+      "edit_history_tweet_ids": [
+        "2073782200202617149"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 6,
+            "start": 0,
+            "tag": "macOS"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 201,
+            "expanded_url": "https://twitter.com/taresky/status/2056910995881414720",
+            "start": 178,
+            "url": "https://t.co/G0gJeYuG9D"
+          }
+        ]
+      },
+      "id": "2073782200202617149",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "macOS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "github.com/taresky/lg-27g…",
+              "end": 287,
+              "expanded_url": "https://github.com/taresky/lg-27gx790b-macos-dsc-panic",
+              "start": 264,
+              "url": "https://t.co/LMhqAoBADZ"
+            }
+          ]
+        },
+        "text": "#macOS \n\n在 AI 的排查下，我的这个 macOS 卡顿问题彻底解决了。\n\n1.（主因）LG 27GX790B 显示器和 macOS 兼容性问题。\n\nmacOS 的 DSC 驱动常年一直滞后，容易出问题，这个从黑苹果时代一直延续到今天。\n\n2. （附因）BetterTouchTool 增加卡顿，且大退之后保护进程又自动重启，因此之前没有排查到。\n\n最后解决办法：\n\n买一条 TypeC - HDMI2.0（注意不能 HDMI2.1），硬件降级到 2k144hz 使用。\n\n说实话技术细节我也不明白，AI 写了一篇放在：https://t.co/LMhqAoBADZ"
+      },
+      "public_metrics": {
+        "bookmark_count": 35,
+        "impression_count": 29678,
+        "like_count": 36,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2056910995881414720",
+          "type": "quoted"
+        }
+      ],
+      "text": "#macOS \n\n在 AI 的排查下，我的这个 macOS 卡顿问题彻底解决了。\n\n1.（主因）LG 27GX790B 显示器和 macOS 兼容性问题。\n\nmacOS 的 DSC 驱动常年一直滞后，容易出问题，这个从黑苹果时代一直延续到今天。\n\n2. （附因）BetterTouchTool 增加卡顿，且大退之后保护进程又自动重启，因此之前没有排查到。 https://t.co/G0gJeYuG9D",
+      "url": "https://x.com/taresky/status/2073782200202617149"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073593695727939625",
+      "created_at": "2026-07-05T02:24:55.000Z",
+      "edit_history_tweet_ids": [
+        "2073593938708230218"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "3049993370",
+            "start": 0,
+            "username": "izayl_"
+          }
+        ]
+      },
+      "id": "2073593938708230218",
+      "in_reply_to_user_id": "3049993370",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2335,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073593695727939625",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@izayl_ 还是能卖，a当玩具",
+      "url": "https://x.com/taresky/status/2073593938708230218"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2073589626850447360"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2073589239267393594",
+      "created_at": "2026-07-05T02:07:49.000Z",
+      "edit_history_tweet_ids": [
+        "2073589635310301589"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ORGpdLj4W2",
+            "end": 30,
+            "expanded_url": "https://x.com/taresky/status/2073589635310301589/photo/1",
+            "media_key": "3_2073589626850447360",
+            "start": 7,
+            "url": "https://t.co/ORGpdLj4W2"
+          }
+        ]
+      },
+      "id": "2073589635310301589",
+      "in_reply_to_user_id": "368245720",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2596,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073589239267393594",
+          "type": "replied_to"
+        }
+      ],
+      "text": "漂漂亮亮做猪 https://t.co/ORGpdLj4W2",
+      "url": "https://x.com/taresky/status/2073589635310301589"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2073589231432388608"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2073589239267393594",
+      "created_at": "2026-07-05T02:06:14.000Z",
+      "edit_history_tweet_ids": [
+        "2073589239267393594"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/VzDTU6X0Y2",
+            "end": 29,
+            "expanded_url": "https://x.com/taresky/status/2073589239267393594/photo/1",
+            "media_key": "3_2073589231432388608",
+            "start": 6,
+            "url": "https://t.co/VzDTU6X0Y2"
+          }
+        ]
+      },
+      "id": "2073589239267393594",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4198,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "标准五花又 https://t.co/VzDTU6X0Y2",
+      "url": "https://x.com/taresky/status/2073589239267393594"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073449567903969729",
+      "created_at": "2026-07-04T22:42:38.000Z",
+      "edit_history_tweet_ids": [
+        "2073538000940835020"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1449274874317266945",
+            "start": 0,
+            "username": "dotyyds1234"
+          }
+        ]
+      },
+      "id": "2073538000940835020",
+      "in_reply_to_user_id": "1449274874317266945",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2558,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073449567903969729",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dotyyds1234 生日快乐😂",
+      "url": "https://x.com/taresky/status/2073538000940835020"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073376608447332545",
+      "created_at": "2026-07-04T12:26:52.000Z",
+      "edit_history_tweet_ids": [
+        "2073383037442895910"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "21855954",
+            "start": 0,
+            "username": "CMGS1988"
+          },
+          {
+            "end": 37,
+            "id": "3281599238",
+            "start": 23,
+            "username": "Manjusaka_Lee"
+          }
+        ]
+      },
+      "id": "2073383037442895910",
+      "in_reply_to_user_id": "21855954",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2993,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073376608447332545",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@CMGS1988 哈哈哈，碳基 Fable @Manjusaka_Lee",
+      "url": "https://x.com/taresky/status/2073383037442895910"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2055825636326076531",
+      "created_at": "2026-07-04T11:32:49.000Z",
+      "edit_history_tweet_ids": [
+        "2073369435541586385"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 42,
+            "expanded_url": "https://x.com/taresky/status/2072689695512023151?s=46",
+            "start": 19,
+            "url": "https://t.co/KhlVStYByn"
+          },
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 66,
+            "expanded_url": "https://twitter.com/taresky/status/2072689695512023151",
+            "start": 43,
+            "url": "https://t.co/YCr8qLsR3b"
+          }
+        ]
+      },
+      "id": "2073369435541586385",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 2705,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072689695512023151",
+          "type": "quoted"
+        },
+        {
+          "id": "2055825636326076531",
+          "type": "replied_to"
+        }
+      ],
+      "text": "有更好的产品了，不要给这条点了⬆️\n\nhttps://t.co/KhlVStYByn https://t.co/YCr8qLsR3b",
+      "url": "https://x.com/taresky/status/2073369435541586385"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073218631857754562",
+      "created_at": "2026-07-04T06:08:16.000Z",
+      "edit_history_tweet_ids": [
+        "2073287761982116087"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "912012131830259712",
+            "start": 0,
+            "username": "ZLiao3"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/ecrivaine_k/st…",
+            "end": 39,
+            "expanded_url": "https://x.com/ecrivaine_k/status/2072658488594243847?s=20",
+            "start": 16,
+            "url": "https://t.co/c8t7RVRrMc"
+          }
+        ]
+      },
+      "id": "2073287761982116087",
+      "in_reply_to_user_id": "912012131830259712",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 2340,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072658488594243847",
+          "type": "quoted"
+        },
+        {
+          "id": "2073274322995859766",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ZLiao3 这个也值得看看\nhttps://t.co/c8t7RVRrMc",
+      "url": "https://x.com/taresky/status/2073287761982116087"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2073273112863657984"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2073218631857754562",
+      "created_at": "2026-07-04T05:10:49.000Z",
+      "edit_history_tweet_ids": [
+        "2073273302181917047"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/QHZS50YRve",
+            "end": 92,
+            "expanded_url": "https://x.com/taresky/status/2073273302181917047/photo/1",
+            "media_key": "3_2073273112863657984",
+            "start": 69,
+            "url": "https://t.co/QHZS50YRve"
+          }
+        ]
+      },
+      "id": "2073273302181917047",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4003,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073218631857754562",
+          "type": "replied_to"
+        }
+      ],
+      "text": "#AI \n\ncodex 也跑完了，接近 3 小时，跑了 70 usd。\n\n完成度也很不错🤣\n\nmattpocock/skills 好用。 https://t.co/QHZS50YRve",
+      "url": "https://x.com/taresky/status/2073273302181917047"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073253928976756773",
+      "created_at": "2026-07-04T04:21:48.000Z",
+      "edit_history_tweet_ids": [
+        "2073260967664959656"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1963434136145989634",
+            "start": 0,
+            "username": "biantaishabi5"
+          }
+        ]
+      },
+      "id": "2073260967664959656",
+      "in_reply_to_user_id": "1963434136145989634",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1457,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073253928976756773",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@biantaishabi5 太长了，大声喊：上厕所！不关门！你有毛病啊！变态！",
+      "url": "https://x.com/taresky/status/2073260967664959656"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073218631857754562",
+      "created_at": "2026-07-04T03:01:16.000Z",
+      "edit_history_tweet_ids": [
+        "2073240698724429934"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "17481583",
+            "start": 0,
+            "username": "lyricwai"
+          }
+        ]
+      },
+      "id": "2073240698724429934",
+      "in_reply_to_user_id": "17481583",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1743,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073240280716001453",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lyricwai 一秒变工程师🧑‍💻",
+      "url": "https://x.com/taresky/status/2073240698724429934"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2073219030970990592"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2073219036591296634",
+      "created_at": "2026-07-04T01:35:11.000Z",
+      "edit_history_tweet_ids": [
+        "2073219036591296634"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/R1qnEwg5B6",
+            "end": 33,
+            "expanded_url": "https://x.com/taresky/status/2073219036591296634/photo/1",
+            "media_key": "3_2073219030970990592",
+            "start": 10,
+            "url": "https://t.co/R1qnEwg5B6"
+          }
+        ]
+      },
+      "id": "2073219036591296634",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 10617,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 31,
+        "retweet_count": 0
+      },
+      "text": "马斯克发钱了发钱了 https://t.co/R1qnEwg5B6",
+      "url": "https://x.com/taresky/status/2073219036591296634"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2073217784264486914",
+          "3_2073218286884720640"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "2073218631857754562",
+      "created_at": "2026-07-04T01:33:35.000Z",
+      "edit_history_tweet_ids": [
+        "2073218631857754562"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/DTFZkBcHic",
+            "end": 210,
+            "expanded_url": "https://x.com/taresky/status/2073218631857754562/photo/1",
+            "media_key": "3_2073217784264486914",
+            "start": 187,
+            "url": "https://t.co/DTFZkBcHic"
+          },
+          {
+            "display_url": "pic.x.com/DTFZkBcHic",
+            "end": 210,
+            "expanded_url": "https://x.com/taresky/status/2073218631857754562/photo/2",
+            "media_key": "3_2073218286884720640",
+            "start": 187,
+            "url": "https://t.co/DTFZkBcHic"
+          }
+        ]
+      },
+      "id": "2073218631857754562",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 391,
+        "impression_count": 60546,
+        "like_count": 249,
+        "quote_count": 4,
+        "reply_count": 35,
+        "retweet_count": 20
+      },
+      "text": "#AI \n\n今天搞个新工具，尝试用 Fable5 来梳理需求，然后让 gpt5.5 完成开发。\n\n需求用 mattpocock/skills 的 grill → PRD → issues。只花了 12M token，30 usd左右。\n\n开发用 mattpocock/skills 的 /implement。\n\n附上 mattpocock/skills 作者的推荐用法⬇️ https://t.co/DTFZkBcHic",
+      "url": "https://x.com/taresky/status/2073218631857754562"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073214219626164341",
+      "created_at": "2026-07-04T01:16:03.000Z",
+      "edit_history_tweet_ids": [
+        "2073214219626164341"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Cartidise/stat…",
+            "end": 53,
+            "expanded_url": "https://twitter.com/Cartidise/status/2073124809475813377",
+            "start": 30,
+            "url": "https://t.co/PDlocCZvnv"
+          }
+        ]
+      },
+      "id": "2073214219626164341",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7016,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073124809475813377",
+          "type": "quoted"
+        }
+      ],
+      "text": "iPhone Air 和 iPhone fold 都很好。 https://t.co/PDlocCZvnv",
+      "url": "https://x.com/taresky/status/2073214219626164341"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073205925473898557",
+      "created_at": "2026-07-04T01:12:35.000Z",
+      "edit_history_tweet_ids": [
+        "2073213347798056986"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "423268855",
+            "start": 0,
+            "username": "9ine11_turbos"
+          }
+        ]
+      },
+      "id": "2073213347798056986",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 609,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "@9ine11_turbos 当年就业环境好吧，狗都能当 pm",
+      "url": "https://x.com/taresky/status/2073213347798056986"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073205925473898557",
+      "created_at": "2026-07-04T00:43:05.000Z",
+      "edit_history_tweet_ids": [
+        "2073205925473898557"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 3,
+            "start": 0,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 152,
+            "expanded_url": "https://twitter.com/taresky/status/2073167720494068020",
+            "start": 129,
+            "url": "https://t.co/m8DcnctKhM"
+          }
+        ]
+      },
+      "id": "2073205925473898557",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 66,
+        "impression_count": 14672,
+        "like_count": 55,
+        "quote_count": 0,
+        "reply_count": 12,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073167720494068020",
+          "type": "quoted"
+        }
+      ],
+      "text": "#AI  \n\n和 /grill-with-docs 梳理需求时暴露了很多定义不清和前后矛盾的地方。\n\n让我回想起第一次上班，被后端程序员质疑的样子。我记得对方说的全对，我没有产生任何不满，只有羞愧。\n\n不过没关系，AI 虽然是新 AI，但我已经是老产品了😭 https://t.co/m8DcnctKhM",
+      "url": "https://x.com/taresky/status/2073205925473898557"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2073167720494068020",
+      "created_at": "2026-07-03T22:11:16.000Z",
+      "edit_history_tweet_ids": [
+        "2073167720494068020"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/MapleShadow/st…",
+            "end": 33,
+            "expanded_url": "https://twitter.com/MapleShadow/status/2073028601516282053",
+            "start": 10,
+            "url": "https://t.co/Jf8DgfJf7W"
+          }
+        ]
+      },
+      "id": "2073167720494068020",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 108,
+        "impression_count": 45602,
+        "like_count": 51,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2073028601516282053",
+          "type": "quoted"
+        }
+      ],
+      "text": "新手读了很有收获。 https://t.co/Jf8DgfJf7W",
+      "url": "https://x.com/taresky/status/2073167720494068020"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2072917741062025722",
+      "created_at": "2026-07-03T16:18:00.000Z",
+      "edit_history_tweet_ids": [
+        "2073078814943609276"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "8504312",
+            "start": 0,
+            "username": "lexrus"
+          }
+        ]
+      },
+      "id": "2073078814943609276",
+      "in_reply_to_user_id": "8504312",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2304,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072917741062025722",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lexrus 这玩意儿好用吗？是不是 paypay 的码也可以？",
+      "url": "https://x.com/taresky/status/2073078814943609276"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2072974796305178795",
+      "created_at": "2026-07-03T10:57:54.000Z",
+      "edit_history_tweet_ids": [
+        "2072998258822271299"
+      ],
+      "id": "2072998258822271299",
+      "in_reply_to_user_id": "1368245423916285952",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 320,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072997936473215105",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@daxisnsheng 没有啊，我都几年没买过机场了。",
+      "url": "https://x.com/taresky/status/2072998258822271299"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2072974796305178795",
+      "created_at": "2026-07-03T10:51:53.000Z",
+      "edit_history_tweet_ids": [
+        "2072996747513926074"
+      ],
+      "id": "2072996747513926074",
+      "in_reply_to_user_id": "1368245423916285952",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 812,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072994362938810748",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@daxisnsheng 年😂",
+      "url": "https://x.com/taresky/status/2072996747513926074"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2072979362102866318",
+      "created_at": "2026-07-03T09:48:16.000Z",
+      "edit_history_tweet_ids": [
+        "2072980735846457535"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1637019113280409601",
+            "start": 0,
+            "username": "linxi28"
+          }
+        ]
+      },
+      "id": "2072980735846457535",
+      "in_reply_to_user_id": "1637019113280409601",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 525,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072980214624428069",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@linxi28 你不觉得这两种人是看起来不同，实则极其相似的两种傻逼吗？",
+      "url": "https://x.com/taresky/status/2072980735846457535"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2072967923749314759",
+      "created_at": "2026-07-03T09:45:38.000Z",
+      "edit_history_tweet_ids": [
+        "2072980075818172490"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1344259202240237569",
+            "start": 0,
+            "username": "Hixlan1996"
+          }
+        ]
+      },
+      "id": "2072980075818172490",
+      "in_reply_to_user_id": "1344259202240237569",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2644,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072967923749314759",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Hixlan1996 猫打猫？",
+      "url": "https://x.com/taresky/status/2072980075818172490"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "2072979362102866318",
+      "created_at": "2026-07-03T09:42:48.000Z",
+      "edit_history_tweet_ids": [
+        "2072979362102866318"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/biantaishabi5/…",
+            "end": 66,
+            "expanded_url": "https://twitter.com/biantaishabi5/status/2072638768889438531",
+            "start": 43,
+            "url": "https://t.co/S0O8LJnIRd"
+          }
+        ]
+      },
+      "id": "2072979362102866318",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 23792,
+        "like_count": 39,
+        "quote_count": 0,
+        "reply_count": 30,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072638768889438531",
+          "type": "quoted"
+        }
+      ],
+      "text": "此生必驾 318 \n和\n福布斯中国 30 Under 30 \n\n遇到这两种人都要躲着 https://t.co/S0O8LJnIRd",
+      "url": "https://x.com/taresky/status/2072979362102866318"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2576683783",
+        "conversation_id": "2073782200202617149",
+        "created_at": "2026-07-05T14:58:25.000Z",
+        "edit_history_tweet_ids": [
+          "2073783566350344348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2073783566350344348",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1593,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073782200202617149",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 降级用能忍？赶紧买雷电5 Mac"
+      },
+      {
+        "author_id": "817386500",
+        "conversation_id": "2073782200202617149",
+        "created_at": "2026-07-05T14:55:49.000Z",
+        "edit_history_tweet_ids": [
+          "2073782908607946959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2073782908607946959",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073782200202617149",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我的 Studio Display XDR 接 RODE Mic 也会出现连接电脑时大概率 Kernel Panic 😓😓😓 排查了好久…"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2056910995881414720",
+        "created_at": "2026-05-20T01:32:51.000Z",
+        "edit_history_tweet_ids": [
+          "2056910995881414720"
+        ],
+        "id": "2056910995881414720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 59632,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "text": "有一个神奇的 bug，我的 Mac 窗口有迟滞，拖动窗口的时候会缓慢半拍，重启也无解，把所有运行中的 app 关闭也无解。\n\n但是只要把 WindowServer 强行关闭，让系统死机注销之后，一切就会恢复流畅。直到再次重启又恢复迟滞。\n\n日志吐给 AI 也没有找到原因。推友们有啥思路吗？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2073593106000384000",
+            "3_2073593364063420416"
+          ]
+        },
+        "author_id": "3049993370",
+        "conversation_id": "2073593695727939625",
+        "created_at": "2026-07-05T02:23:57.000Z",
+        "edit_history_tweet_ids": [
+          "2073593695727939625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjgp6JPie7",
+              "end": 40,
+              "expanded_url": "https://x.com/izayl_/status/2073593695727939625/photo/1",
+              "media_key": "3_2073593106000384000",
+              "start": 17,
+              "url": "https://t.co/tjgp6JPie7"
+            },
+            {
+              "display_url": "pic.x.com/tjgp6JPie7",
+              "end": 40,
+              "expanded_url": "https://x.com/izayl_/status/2073593695727939625/photo/2",
+              "media_key": "3_2073593364063420416",
+              "start": 17,
+              "url": "https://t.co/tjgp6JPie7"
+            }
+          ]
+        },
+        "id": "2073593695727939625",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2464,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "🤯 想想感觉不太靠谱，举着太累了 https://t.co/tjgp6JPie7"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2073589231432388608"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "2073589239267393594",
+        "created_at": "2026-07-05T02:06:14.000Z",
+        "edit_history_tweet_ids": [
+          "2073589239267393594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzDTU6X0Y2",
+              "end": 29,
+              "expanded_url": "https://x.com/taresky/status/2073589239267393594/photo/1",
+              "media_key": "3_2073589231432388608",
+              "start": 6,
+              "url": "https://t.co/VzDTU6X0Y2"
+            }
+          ]
+        },
+        "id": "2073589239267393594",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4198,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "标准五花又 https://t.co/VzDTU6X0Y2"
+      },
+      {
+        "author_id": "21855954",
+        "conversation_id": "2073376608447332545",
+        "created_at": "2026-07-04T12:01:19.000Z",
+        "edit_history_tweet_ids": [
+          "2073376608447332545"
+        ],
+        "id": "2073376608447332545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 228,
+                "id": "3281599238",
+                "start": 214,
+                "username": "Manjusaka_Lee"
+              }
+            ]
+          },
+          "text": "我一直只用最高两档，好的产品本身就不应该让用户有过多选择，你都用 Fable 了选 Low 几个意思嘛。在这个标准下 Qwen 27B，Sonnet 5 属于执行还可以，改个 4，5 次差不多，尤其是 27b，不要钱死劲蹬。Opus 不上不下，执行好一点，2，3 次吧，研究一般般，要人盯着路线，他不能太帮你想明白，得你想明白了跟他说。Fable 这次表现出就是执行 1，2 次就可以了，研究讨论判断方面非常好，好到感觉是当年带@Manjusaka_Lee 师父一样，非常聪明，判断架构提出的问题都在点上，你给他一个点他能和你 battle …得亏有限额，跟人要下班睡觉一样，不然太烧精力了…还是打魔兽吧…"
+        },
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 13565,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "text": "我一直只用最高两档，好的产品本身就不应该让用户有过多选择，你都用 Fable 了选 Low 几个意思嘛。在这个标准下 Qwen 27B，Sonnet 5 属于执行还可以，改个 4，5 次差不多，尤其是 27b，不要钱死劲蹬。Opus 不上不下，执行好一点，2，3"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2055825636326076531",
+        "created_at": "2026-05-17T01:40:01.000Z",
+        "edit_history_tweet_ids": [
+          "2055825636326076531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/taresky/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/taresky/status/2054775941021454373",
+              "start": 170,
+              "url": "https://t.co/bSGVscliAh"
+            }
+          ]
+        },
+        "id": "2055825636326076531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "AI"
+              }
+            ]
+          },
+          "text": "#AI \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. 很聪明地放弃了“同步”。同时只能在一台设备上激活窗口，切换设备时点击就秒切。完美避开了其他竞品想做同步，反而带来的各种不同步体验。"
+        },
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 75810,
+          "like_count": 158,
+          "quote_count": 4,
+          "reply_count": 61,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054775941021454373",
+            "type": "quoted"
+          }
+        ],
+        "text": "#AI \n\n经过多天的使用，muxy 是目前我认为 remote vibe coding 的最优解。\n\n1. 连接体验极佳。连接和切换设备都在 0.5s 内完成，哪怕移动网络弱信号下也极快。相对而言最近的 Codex on iOS 连接极其慢，非常不稳定。\n\n2. 可以同时用 Codex、Claude Code、AMP。全功能。\n\n3. https://t.co/bSGVscliAh"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2072689695512023151",
+        "created_at": "2026-07-02T14:31:46.000Z",
+        "edit_history_tweet_ids": [
+          "2072689695512023151"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/taresky/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/taresky/status/2055825636326076531",
+              "start": 57,
+              "url": "https://t.co/gE31OkykkV"
+            }
+          ]
+        },
+        "id": "2072689695512023151",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 29287,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055825636326076531",
+            "type": "quoted"
+          }
+        ],
+        "text": "#AI  \n\nOrca (onorca) 是 muxy 的上位替代。\n\n更全面、更成熟、更稳定。\n\n已全面切换😂 https://t.co/gE31OkykkV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2073274316515573760"
+          ]
+        },
+        "author_id": "912012131830259712",
+        "conversation_id": "2073218631857754562",
+        "created_at": "2026-07-04T05:14:52.000Z",
+        "edit_history_tweet_ids": [
+          "2073274322995859766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/btNPLSQOmm",
+              "end": 44,
+              "expanded_url": "https://x.com/ZLiao3/status/2073274322995859766/photo/1",
+              "media_key": "3_2073274316515573760",
+              "start": 21,
+              "url": "https://t.co/btNPLSQOmm"
+            }
+          ]
+        },
+        "id": "2073274322995859766",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1925,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073218631857754562",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我也看到个有点像的玩法 https://t.co/btNPLSQOmm"
+      },
+      {
+        "author_id": "871602868557565954",
+        "conversation_id": "2072635336837230653",
+        "created_at": "2026-07-02T12:27:46.000Z",
+        "edit_history_tweet_ids": [
+          "2072658488594243847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ecrivaine_k/st…",
+              "end": 72,
+              "expanded_url": "https://x.com/ecrivaine_k/status/2072610175433970103",
+              "start": 49,
+              "url": "https://t.co/kkpkaBgn8z"
+            }
+          ]
+        },
+        "id": "2072658488594243847",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4130,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072610175433970103",
+            "type": "quoted"
+          },
+          {
+            "id": "2072635336837230653",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 如果只單向派發不復審還好，如果讓它統籌全局+讓其他模型做，不如全讓它自己搞定。\nhttps://t.co/kkpkaBgn8z"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2073217784264486914",
+            "3_2073218286884720640"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "2073218631857754562",
+        "created_at": "2026-07-04T01:33:35.000Z",
+        "edit_history_tweet_ids": [
+          "2073218631857754562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTFZkBcHic",
+              "end": 210,
+              "expanded_url": "https://x.com/taresky/status/2073218631857754562/photo/1",
+              "media_key": "3_2073217784264486914",
+              "start": 187,
+              "url": "https://t.co/DTFZkBcHic"
+            },
+            {
+              "display_url": "pic.x.com/DTFZkBcHic",
+              "end": 210,
+              "expanded_url": "https://x.com/taresky/status/2073218631857754562/photo/2",
+              "media_key": "3_2073218286884720640",
+              "start": 187,
+              "url": "https://t.co/DTFZkBcHic"
+            }
+          ]
+        },
+        "id": "2073218631857754562",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 60546,
+          "like_count": 249,
+          "quote_count": 4,
+          "reply_count": 35,
+          "retweet_count": 20
+        },
+        "text": "#AI \n\n今天搞个新工具，尝试用 Fable5 来梳理需求，然后让 gpt5.5 完成开发。\n\n需求用 mattpocock/skills 的 grill → PRD → issues。只花了 12M token，30 usd左右。\n\n开发用 mattpocock/skills 的 /implement。\n\n附上 mattpocock/skills 作者的推荐用法⬇️ https://t.co/DTFZkBcHic"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "conversation_id": "2073253928976756773",
+        "created_at": "2026-07-04T03:53:50.000Z",
+        "edit_history_tweet_ids": [
+          "2073253928976756773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "",
+              "end": 162,
+              "expanded_url": "",
+              "start": 139,
+              "url": "https://t.co/nCQhcwNun6"
+            }
+          ]
+        },
+        "id": "2073253928976756773",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5306,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072977389244854440",
+            "type": "quoted"
+          }
+        ],
+        "text": "你跟他说，上厕所记得锁门。不然外面的人看起来像没锁门一样就进来吧， 如果你上厕所不锁门，那你是想让别人进来看你吗？那可能神经病了是你自己，而不是我。一个正常的人看到这个厕所是绿的，他想上厕所的话，就会打开，而不是认为这个厕所里有人。所以我才是正常人。\n\n我一般会这么讲道理的。 https://t.co/nCQhcwNun6"
+      },
+      {
+        "author_id": "17481583",
+        "conversation_id": "2073218631857754562",
+        "created_at": "2026-07-04T02:59:36.000Z",
+        "edit_history_tweet_ids": [
+          "2073240280716001453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2073240280716001453",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1859,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073218631857754562",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这个流程跟我手搓的流程一样"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2073123037059354624",
+            "3_2073123047528398848",
+            "3_2073124094112104448",
+            "3_2073124773773860864"
+          ]
+        },
+        "author_id": "1184431097607622656",
+        "conversation_id": "2073124809475813377",
+        "created_at": "2026-07-03T19:20:46.000Z",
+        "edit_history_tweet_ids": [
+          "2073124809475813377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cThfnKZQ6o",
+              "end": 242,
+              "expanded_url": "https://x.com/Cartidise/status/2073124809475813377/photo/1",
+              "media_key": "3_2073123037059354624",
+              "start": 219,
+              "url": "https://t.co/cThfnKZQ6o"
+            },
+            {
+              "display_url": "pic.x.com/cThfnKZQ6o",
+              "end": 242,
+              "expanded_url": "https://x.com/Cartidise/status/2073124809475813377/photo/2",
+              "media_key": "3_2073123047528398848",
+              "start": 219,
+              "url": "https://t.co/cThfnKZQ6o"
+            },
+            {
+              "display_url": "pic.x.com/cThfnKZQ6o",
+              "end": 242,
+              "expanded_url": "https://x.com/Cartidise/status/2073124809475813377/photo/3",
+              "media_key": "3_2073124094112104448",
+              "start": 219,
+              "url": "https://t.co/cThfnKZQ6o"
+            },
+            {
+              "display_url": "pic.x.com/cThfnKZQ6o",
+              "end": 242,
+              "expanded_url": "https://x.com/Cartidise/status/2073124809475813377/photo/4",
+              "media_key": "3_2073124773773860864",
+              "start": 219,
+              "url": "https://t.co/cThfnKZQ6o"
+            }
+          ]
+        },
+        "id": "2073124809475813377",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 315843,
+          "like_count": 2780,
+          "quote_count": 44,
+          "reply_count": 96,
+          "retweet_count": 117
+        },
+        "text": "iPhone Air 2 “first look” by fpt\n\n&gt; Smaller Dynamic Island\n&gt; Redesigned Face ID \n&gt; Titanium frame\n&gt; A20 Pro\n&gt; 48MP main camera\n&gt; 48MP ultra-wide\n&gt; More expensive \n&gt; Black, Silver, Gold, Lavender https://t.co/cThfnKZQ6o"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "2073167720494068020",
+        "created_at": "2026-07-03T22:11:16.000Z",
+        "edit_history_tweet_ids": [
+          "2073167720494068020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MapleShadow/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/MapleShadow/status/2073028601516282053",
+              "start": 10,
+              "url": "https://t.co/Jf8DgfJf7W"
+            }
+          ]
+        },
+        "id": "2073167720494068020",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 45602,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073028601516282053",
+            "type": "quoted"
+          }
+        ],
+        "text": "新手读了很有收获。 https://t.co/Jf8DgfJf7W"
+      },
+      {
+        "author_id": "27817880",
+        "conversation_id": "2073028601516282053",
+        "created_at": "2026-07-03T12:58:28.000Z",
+        "edit_history_tweet_ids": [
+          "2073028601516282053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 61,
+              "id": "346640777",
+              "start": 48,
+              "username": "mattpocockuk"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这套skills的设计是希望用一套强制的流程规范整个软件工程的迭代过程。由于用了hooks，用户不需要是一位资深软件工程师，也能被动地“自动”调用各个阶段所需的skill，强行帮你完成一次从brainstorming到利用subagents + worktree实现的过程。 After you' ve signed off on the design, your agent puts together an implementation plan that's clear enough for an enthusiastic junior engineer with poor taste, no judgement, no project context, and an aversion to testing to follow. It emphasizes true red/green TDD, YAGNI (You Aren' t Gonna Need It), and DRY. 但这也是superpowers的缺点: 强制，且费token。 Mattpocock的这套skills在两周前实现",
+              "display_url": "justinyan.me/post/6676",
+              "end": 129,
+              "expanded_url": "https://justinyan.me/post/6676",
+              "images": [
+                {
+                  "height": 388,
+                  "url": "https://pbs.twimg.com/news_img/2076303781067939840/McsIj-IY?format=png&name=orig",
+                  "width": 738
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076303781067939840/McsIj-IY?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "为什么我用mattpocock/skills替代了superpowers",
+              "unwound_url": "https://justinyan.me/post/6676",
+              "url": "https://t.co/IaMuvTZIaS"
+            }
+          ]
+        },
+        "id": "2073028601516282053",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1337,
+          "impression_count": 233782,
+          "like_count": 737,
+          "quote_count": 16,
+          "reply_count": 38,
+          "retweet_count": 99
+        },
+        "text": "博客更新: 为什么我用mattpocock/skills替代了superpowers\n\n最近我用@mattpocockuk 的skills替代了之前在用的obra/superpowers，本文是我的一些想法。\n\nhttps://t.co/IaMuvTZIaS"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2072916547803500545"
+          ]
+        },
+        "author_id": "8504312",
+        "conversation_id": "2072917741062025722",
+        "created_at": "2026-07-03T05:37:57.000Z",
+        "edit_history_tweet_ids": [
+          "2072917741062025722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KTJkMspe89",
+              "end": 107,
+              "expanded_url": "https://x.com/lexrus/status/2072917741062025722/photo/1",
+              "media_key": "3_2072916547803500545",
+              "start": 84,
+              "url": "https://t.co/KTJkMspe89"
+            }
+          ]
+        },
+        "id": "2072917741062025722",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6460,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "TenPayGo's Apple Pay transactions are presented as Google Wallet in Plasma One🤷🏻‍♂️ https://t.co/KTJkMspe89"
+      },
+      {
+        "author_id": "1368245423916285952",
+        "conversation_id": "2072974796305178795",
+        "created_at": "2026-07-03T10:56:37.000Z",
+        "edit_history_tweet_ids": [
+          "2072997936473215105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2072997936473215105",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072996747513926074",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 有推荐的吗？"
+      },
+      {
+        "author_id": "1368245423916285952",
+        "conversation_id": "2072974796305178795",
+        "created_at": "2026-07-03T10:42:25.000Z",
+        "edit_history_tweet_ids": [
+          "2072994362938810748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2072994362938810748",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 893,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072974796305178795",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 主流机场有推荐的吗？千元是年还是月？"
+      },
+      {
+        "author_id": "1637019113280409601",
+        "conversation_id": "2072979362102866318",
+        "created_at": "2026-07-03T09:46:11.000Z",
+        "edit_history_tweet_ids": [
+          "2072980214624428069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "2072980214624428069",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072979362102866318",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 为什么？"
+      },
+      {
+        "author_id": "1963434136145989634",
+        "conversation_id": "2072638768889438531",
+        "created_at": "2026-07-02T11:09:24.000Z",
+        "edit_history_tweet_ids": [
+          "2072638768889438531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/biantaisuibian…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/biantaisuibian/status/2072625466654253154",
+              "start": 27,
+              "url": "https://t.co/iVnjm14nal"
+            }
+          ]
+        },
+        "id": "2072638768889438531",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28312,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072625466654253154",
+            "type": "quoted"
+          }
+        ],
+        "text": "此生必驾318\n\n路上遇到有这种贴纸的都要躲着，，， https://t.co/iVnjm14nal"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "2576683783",
+        "name": "Aliez Ren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032458974470262785/ECR72V3E_normal.jpg",
+        "username": "aliez_ren",
+        "verified": false
+      },
+      {
+        "id": "817386500",
+        "name": "Sunny Young",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1053349222878048257/86-QwUd-_normal.jpg",
+        "username": "isunnyyoung",
+        "verified": false
+      },
+      {
+        "id": "3049993370",
+        "name": "izayl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658144277288095744/2VpFVWpR_normal.jpg",
+        "username": "izayl_",
+        "verified": false
+      },
+      {
+        "id": "1449274874317266945",
+        "name": "憨巴龙王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
+        "username": "dotyyds1234",
+        "verified": false
+      },
+      {
+        "id": "21855954",
+        "name": "CMGS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620065651552567299/jsDz8bjQ_normal.jpg",
+        "username": "CMGS1988",
+        "verified": false
+      },
+      {
+        "id": "912012131830259712",
+        "name": "橘皮乌龙||Leo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905538164477063168/J4fD8c7M_normal.jpg",
+        "username": "ZLiao3",
+        "verified": false
+      },
+      {
+        "id": "1963434136145989634",
+        "name": "biantaishabi5",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963473697949597696/QBk7CJiv_normal.jpg",
+        "username": "biantaishabi5",
+        "verified": false
+      },
+      {
+        "id": "17481583",
+        "name": "Lyric🌀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107755290229903360/MuCK2SQt_normal.jpg",
+        "username": "lyricwai",
+        "verified": false
+      },
+      {
+        "id": "8504312",
+        "name": "Lex Tang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/973550161556209664/C-SNrSiO_normal.jpg",
+        "username": "lexrus",
+        "verified": false
+      },
+      {
+        "id": "1368245423916285952",
+        "name": "大先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991865306646822912/0feuSDzZ_normal.jpg",
+        "username": "daxiansheng___",
+        "verified": false
+      },
+      {
+        "id": "1637019113280409601",
+        "name": "加密幸存者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771437319259856896/VpKBQ8rY_normal.jpg",
+        "username": "linxi28",
+        "verified": false
+      },
+      {
+        "id": "1344259202240237569",
+        "name": "析析",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880818249467867136/qZIcxKvS_normal.jpg",
+        "username": "Hixlan1996",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2073783799377523164",
+    "next_token": "b26v89c19zqg8o3juetgqfxnro6guhy3f9f8ly2xq0519",
+    "oldest_id": "2072979362102866318",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073449567903969729].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073449567903969729",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2073449567903969729"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072967923749314759].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072967923749314759",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2072967923749314759"
+    }
+  ]
+}

@@ -1,869 +1,1413 @@
 {
   "handle": "taresky",
   "user_id": "368245720",
-  "packaged_at_shanghai": "2026-11-24 20:40:23 GMT+8",
-  "unique_posts_stored": 224,
+  "packaged_at_shanghai": "2026-11-25T09:42:30.677345+08:00",
+  "claim_all_tweets": false,
+  "unique_posts_stored": 8551,
   "profile_post_count_at_first_lookup": 34003,
+  "profile_not_refetched_day2": true,
   "post_count_is_not_a_missing_count_proof": true,
   "span_utc": [
-    "2016-12-15T00:47:22.000Z",
-    "2026-11-24T09:10:31.000Z"
+    "2016-12-01T10:37:37.000Z",
+    "2026-11-25T00:27:48.000Z"
   ],
   "span_shanghai": [
-    "2016-12-15 08:47:22 GMT+8",
-    "2026-11-24 17:10:31 GMT+8"
+    "2016-12-01 18:37:37 GMT+8",
+    "2026-11-25 08:27:48 GMT+8"
   ],
-  "types": {
-    "quote": 22,
-    "original": 53,
-    "reply": 138,
-    "repost": 11
-  },
   "years_utc": {
-    "2016": 25,
-    "2021": 25,
-    "2022": 25,
+    "2016": 67,
+    "2021": 94,
+    "2022": 170,
     "2023": 1,
-    "2024": 25,
-    "2025": 50,
-    "2026": 73
+    "2024": 1303,
+    "2025": 3794,
+    "2026": 3122
+  },
+  "types": {
+    "reply": 5665,
+    "original": 1924,
+    "quote": 842,
+    "repost": 120
   },
   "earliest": {
-    "id": "809198127789969409",
-    "utc": "2016-12-15T00:47:22.000Z",
-    "shanghai": "2016-12-15 08:47:22 GMT+8",
-    "url": "https://x.com/taresky/status/809198127789969409"
+    "id": "804273238675066880",
+    "url": "https://x.com/taresky/status/804273238675066880"
   },
   "latest": {
-    "id": "2125155090130731098",
-    "utc": "2026-11-24T09:10:31.000Z",
-    "shanghai": "2026-11-24 17:10:31 GMT+8",
-    "url": "https://x.com/taresky/status/2125155090130731098"
+    "id": "2125385930412576946",
+    "url": "https://x.com/taresky/status/2125385930412576946"
   },
   "expand_job_status_counts": {
-    "exhausted": 1,
-    "open": 10,
-    "pending": 40
+    "exhausted": 29,
+    "open": 4,
+    "pending": 19
   },
   "windows": [
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "pinned",
       "query": "pinned_post_ids",
       "start_time": null,
       "end_time": null,
+      "next_token": null,
       "status": "exhausted",
       "pages_fetched": 1,
       "posts_returned": 1,
       "posts_added": 1,
-      "next_token": null,
-      "last_input_token": null,
       "last_span": [
         "2023-09-09T20:25:28.000Z",
         "2023-09-09T20:25:28.000Z"
-      ]
+      ],
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "timeline-recent",
       "query": "from:taresky",
       "start_time": null,
       "end_time": null,
+      "next_token": "7140dibdnow9c7btwp0gm9gqgrurrob7n4a5eytlynzg0",
       "status": "open",
       "pages_fetched": 1,
       "posts_returned": 25,
       "posts_added": 25,
-      "next_token": "7140dibdnow9c7btwp0gm9gqgrurrob7n4a5eytlynzg0",
-      "last_input_token": null,
       "last_span": [
         "2026-11-19T13:11:47.000Z",
         "2026-11-24T09:10:31.000Z"
-      ]
+      ],
+      "last_types": {
+        "reply": 19,
+        "original": 5,
+        "quote": 1
+      },
+      "last_input_token": null,
+      "last_request": {
+        "query": null,
+        "start_time": null,
+        "end_time": null,
+        "sort_order": null,
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "timeline-recent"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-11",
       "query": "from:taresky",
       "start_time": "2026-11-01T00:00:00Z",
       "end_time": "2026-11-25T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 0,
-      "next_token": "b26v89c19zqg8o3juzowln63mmdar00jvz60l8hp0a1dp",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 123,
+      "posts_added": 98,
       "last_span": [
-        "2026-11-19T13:11:47.000Z",
-        "2026-11-24T09:10:31.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 19,
+        "original": 5,
+        "quote": 1
+      },
+      "last_input_token": "b26v89c19zqg8o3juzly3cakz581henxrsp8atriroxa5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-11-01T00:00:00Z",
+        "end_time": "2026-11-25T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzly3cakz581henxrsp8atriroxa5",
+        "window_label": "2026-11"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-10",
       "query": "from:taresky",
       "start_time": "2026-10-01T00:00:00Z",
       "end_time": "2026-11-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 23,
-      "posts_added": 23,
-      "next_token": "b26v89c19zqg8o3juzlxod0q3o7foj3kl2vh3a9t75u2l",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 23,
+      "posts_returned": 502,
+      "posts_added": 502,
       "last_span": [
-        "2026-10-29T21:25:12.000Z",
-        "2026-10-31T23:29:35.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "original": 10,
+        "quote": 2,
+        "repost": 1,
+        "reply": 10
+      },
+      "last_input_token": "b26v89c19zqg8o3juzixw6de4bv1zwiw914xyat64x27x",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-10-01T00:00:00Z",
+        "end_time": "2026-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzixw6de4bv1zwiw914xyat64x27x",
+        "window_label": "2026-10"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-06",
       "query": "from:taresky",
       "start_time": "2026-06-01T00:00:00Z",
       "end_time": "2026-07-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3juetgavebt9yov3dwq2lcd83sww8e5",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 26,
+      "posts_returned": 600,
+      "posts_added": 600,
       "last_span": [
-        "2026-06-28T16:07:53.000Z",
-        "2026-06-30T12:02:13.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 17,
+        "original": 6,
+        "quote": 2
+      },
+      "last_input_token": "b26v89c19zqg8o3jueqgizdfpkf7jsxkbfj7pugd159bx",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-06-01T00:00:00Z",
+        "end_time": "2026-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jueqgizdfpkf7jsxkbfj7pugd159bx",
+        "window_label": "2026-06"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-12",
       "query": "from:taresky",
       "start_time": "2025-12-01T00:00:00Z",
       "end_time": "2026-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3jue8j4zpqh0ulagerz9w1fngl493st",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 216,
+      "posts_added": 216,
       "last_span": [
-        "2025-12-25T04:42:01.000Z",
-        "2025-12-31T12:48:58.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 17,
+        "original": 5,
+        "quote": 3
+      },
+      "last_input_token": "b26v89c19zqg8o3fscn6moxs66aa4dq0vazyg3i3sdsal",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-12-01T00:00:00Z",
+        "end_time": "2026-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fscn6moxs66aa4dq0vazyg3i3sdsal",
+        "window_label": "2025-12"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-06",
       "query": "from:taresky",
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fsc5996chnmiu8k80o5is81hndxoxp",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 289,
+      "posts_added": 289,
       "last_span": [
-        "2025-06-28T08:27:45.000Z",
-        "2025-06-30T08:06:41.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 15,
+        "original": 6,
+        "repost": 2,
+        "quote": 2
+      },
+      "last_input_token": "b26v89c19zqg8o3fsc29hcfpzstt20kq9f8hhi9qlshod",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-06-01T00:00:00Z",
+        "end_time": "2025-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsc29hcfpzstt20kq9f8hhi9qlshod",
+        "window_label": "2025-06"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-12",
       "query": "from:taresky",
       "start_time": "2024-12-01T00:00:00Z",
       "end_time": "2025-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3frr6rwzj66j4eq6bt70sn51ijbkpdp",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 428,
+      "posts_added": 428,
       "last_span": [
-        "2024-12-30T03:55:22.000Z",
-        "2024-12-31T13:02:11.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 17,
+        "original": 5,
+        "quote": 3
+      },
+      "last_input_token": "b26v89c19zqg8o3frr3s4ux9qx03a6o7kma8w3ayw19x9",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-12-01T00:00:00Z",
+        "end_time": "2025-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr3s4ux9qx03a6o7kma8w3ayw19x9",
+        "window_label": "2024-12"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2022-12",
       "query": "from:taresky",
       "start_time": "2022-12-01T00:00:00Z",
       "end_time": "2023-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fqk12iwydq5frlwh39wmfq8h9udc3h",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 170,
+      "posts_added": 170,
       "last_span": [
-        "2022-12-27T13:34:28.000Z",
-        "2022-12-31T16:23:17.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 17,
+        "original": 4,
+        "repost": 3,
+        "quote": 1
+      },
+      "last_input_token": "b26v89c19zqg8o3fpzhn012mujl0bd5cr0vibgr6mxh19",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2022-12-01T00:00:00Z",
+        "end_time": "2023-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fpzhn012mujl0bd5cr0vibgr6mxh19",
+        "window_label": "2022-12"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2021-01",
       "query": "from:taresky",
       "start_time": "2021-01-01T00:00:00Z",
       "end_time": "2021-02-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3foskt5god0ueh1goua2qzbpfrvo6f1",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 5,
+      "posts_returned": 94,
+      "posts_added": 94,
       "last_span": [
-        "2021-01-28T06:08:27.000Z",
-        "2021-01-31T10:12:45.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 18,
+        "original": 4,
+        "repost": 1,
+        "quote": 2
+      },
+      "last_input_token": "b26v89c19zqg8o3foshtdr058x6007psx45g81dpj8nst",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2021-01-01T00:00:00Z",
+        "end_time": "2021-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3foshtdr058x6007psx45g81dpj8nst",
+        "window_label": "2021-01"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2016-12",
       "query": "from:taresky",
       "start_time": "2016-12-01T00:00:00Z",
       "end_time": "2017-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "1jzu9lk96gu5npw3iy4bo3bin9qtacqjskhen8rrf0ql",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 67,
+      "posts_added": 67,
       "last_span": [
-        "2016-12-15T00:47:22.000Z",
-        "2016-12-31T04:33:35.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "quote": 6,
+        "reply": 8,
+        "repost": 4,
+        "original": 7
+      },
+      "last_input_token": "1jzu9lk96gu5npw3iy27y5qa9l480iheedy97j4bm7b1",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2016-12-01T00:00:00Z",
+        "end_time": "2017-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "1jzu9lk96gu5npw3iy27y5qa9l480iheedy97j4bm7b1",
+        "window_label": "2016-12"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-09",
       "query": "from:taresky",
       "start_time": "2026-09-01T00:00:00Z",
       "end_time": "2026-10-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 11,
+      "posts_returned": 231,
+      "posts_added": 231,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juezh4apbss5ewivrn4fklkkg1mkcd",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-09-01T00:00:00Z",
+        "end_time": "2026-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juezh4apbss5ewivrn4fklkkg1mkcd",
+        "window_label": "2026-09"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-08",
       "query": "from:taresky",
       "start_time": "2026-08-01T00:00:00Z",
       "end_time": "2026-09-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 16,
+      "posts_returned": 365,
+      "posts_added": 365,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juewgx4rj72tvndhzk9k419nt3xshp",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-08-01T00:00:00Z",
+        "end_time": "2026-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juewgx4rj72tvndhzk9k419nt3xshp",
+        "window_label": "2026-08"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-07",
       "query": "from:taresky",
       "start_time": "2026-07-01T00:00:00Z",
       "end_time": "2026-08-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 14,
+      "posts_returned": 325,
+      "posts_added": 325,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juetgpyucibylmzxvwjabx9r8l5i7x",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-07-01T00:00:00Z",
+        "end_time": "2026-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juetgpyucibylmzxvwjabx9r8l5i7x",
+        "window_label": "2026-07"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-05",
       "query": "from:taresky",
       "start_time": "2026-05-01T00:00:00Z",
       "end_time": "2026-06-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 262,
+      "posts_added": 262,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juengbvlkhwj0f4x1ohitsbflc7qm5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-05-01T00:00:00Z",
+        "end_time": "2026-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juengbvlkhwj0f4x1ohitsbflc7qm5",
+        "window_label": "2026-05"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-04",
       "query": "from:taresky",
       "start_time": "2026-04-01T00:00:00Z",
       "end_time": "2026-05-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 128,
+      "posts_added": 128,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juehkki0ydvm25vj2wg2va100x7at9",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-04-01T00:00:00Z",
+        "end_time": "2026-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juehkki0ydvm25vj2wg2va100x7at9",
+        "window_label": "2026-04"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-03",
       "query": "from:taresky",
       "start_time": "2026-03-01T00:00:00Z",
       "end_time": "2026-04-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 261,
+      "posts_added": 261,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jueejyrtdxaxfqvvxjlbchaxzs51tp",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-03-01T00:00:00Z",
+        "end_time": "2026-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jueejyrtdxaxfqvvxjlbchaxzs51tp",
+        "window_label": "2026-03"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-02",
       "query": "from:taresky",
       "start_time": "2026-02-01T00:00:00Z",
       "end_time": "2026-03-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 163,
+      "posts_added": 163,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juebk6ri4y2nk1u5q7oy8nvo9ifa0t",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-02-01T00:00:00Z",
+        "end_time": "2026-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juebk6ri4y2nk1u5q7oy8nvo9ifa0t",
+        "window_label": "2026-02"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2026-01",
       "query": "from:taresky",
       "start_time": "2026-01-01T00:00:00Z",
       "end_time": "2026-02-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 160,
+      "posts_added": 160,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jue8jzlmfzwluwrjt1kywbx1ghfd6l",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-01-01T00:00:00Z",
+        "end_time": "2026-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jue8jzlmfzwluwrjt1kywbx1ghfd6l",
+        "window_label": "2026-01"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-01",
       "query": "from:taresky",
       "start_time": "2025-01-01T00:00:00Z",
       "end_time": "2025-02-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 339,
+      "posts_added": 339,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr6sc0tuq8ecv5usrdu07x8r3va7x",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-01-01T00:00:00Z",
+        "end_time": "2025-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr6sc0tuq8ecv5usrdu07x8r3va7x",
+        "window_label": "2025-01"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-02",
       "query": "from:taresky",
       "start_time": "2025-02-01T00:00:00Z",
       "end_time": "2025-03-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 14,
+      "posts_returned": 316,
+      "posts_added": 316,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr9sj4o47s16a3rynjarih4uzwz25",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-02-01T00:00:00Z",
+        "end_time": "2025-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr9sj4o47s16a3rynjarih4uzwz25",
+        "window_label": "2025-02"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-03",
       "query": "from:taresky",
       "start_time": "2025-03-01T00:00:00Z",
       "end_time": "2025-04-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 18,
+      "posts_returned": 422,
+      "posts_added": 422,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frrcsb72airmhr2fyffio9l2dav7gd",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-03-01T00:00:00Z",
+        "end_time": "2025-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frrcsb72airmhr2fyffio9l2dav7gd",
+        "window_label": "2025-03"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-04",
       "query": "from:taresky",
       "start_time": "2025-04-01T00:00:00Z",
       "end_time": "2025-05-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 13,
+      "posts_returned": 286,
+      "posts_added": 286,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbw9393nc86c5xed9xmavs8vwt37h",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-04-01T00:00:00Z",
+        "end_time": "2025-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbw9393nc86c5xed9xmavs8vwt37h",
+        "window_label": "2025-04"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-05",
       "query": "from:taresky",
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 331,
+      "posts_added": 331,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbz9a6ij0h3exvqcjyqn8i2wxipa5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-05-01T00:00:00Z",
+        "end_time": "2025-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbz9a6ij0h3exvqcjyqn8i2wxipa5",
+        "window_label": "2025-05"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-07",
       "query": "from:taresky",
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 16,
+      "posts_returned": 351,
+      "posts_added": 351,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsc59obyfbkknux0hn136gp6shqmil",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-07-01T00:00:00Z",
+        "end_time": "2025-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsc59obyfbkknux0hn136gp6shqmil",
+        "window_label": "2025-07"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-08",
       "query": "from:taresky",
       "start_time": "2025-08-01T00:00:00Z",
       "end_time": "2025-09-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 441,
+      "posts_added": 441,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fscb5ug8i59edrsyg4qvg9gyeoxq4d",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-08-01T00:00:00Z",
+        "end_time": "2025-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fscb5ug8i59edrsyg4qvg9gyeoxq4d",
+        "window_label": "2025-08"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-09",
       "query": "from:taresky",
       "start_time": "2025-09-01T00:00:00Z",
       "end_time": "2025-10-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 11,
+      "posts_returned": 248,
+      "posts_added": 248,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsce61m3wazumw4a1p78ewfb41zy4d",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-09-01T00:00:00Z",
+        "end_time": "2025-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsce61m3wazumw4a1p78ewfb41zy4d",
+        "window_label": "2025-09"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-10",
       "query": "from:taresky",
       "start_time": "2025-10-01T00:00:00Z",
       "end_time": "2025-11-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 14,
+      "posts_returned": 299,
+      "posts_added": 299,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsch68w9c1ngs99sexn9zalpww3wjh",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-10-01T00:00:00Z",
+        "end_time": "2025-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsch68w9c1ngs99sexn9zalpww3wjh",
+        "window_label": "2025-10"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2025-11",
       "query": "from:taresky",
       "start_time": "2025-11-01T00:00:00Z",
       "end_time": "2025-12-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 256,
+      "posts_added": 256,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsck6frhzyl64vn1ouxcec8w8zbce5",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2025-11-01T00:00:00Z",
+        "end_time": "2025-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsck6frhzyl64vn1ouxcec8w8zbce5",
+        "window_label": "2025-11"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-01",
       "query": "from:taresky",
       "start_time": "2024-01-01T00:00:00Z",
       "end_time": "2024-02-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-02",
       "query": "from:taresky",
       "start_time": "2024-02-01T00:00:00Z",
       "end_time": "2024-03-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-03",
       "query": "from:taresky",
       "start_time": "2024-03-01T00:00:00Z",
       "end_time": "2024-04-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-04",
       "query": "from:taresky",
       "start_time": "2024-04-01T00:00:00Z",
       "end_time": "2024-05-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-05",
       "query": "from:taresky",
       "start_time": "2024-05-01T00:00:00Z",
       "end_time": "2024-06-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-06",
       "query": "from:taresky",
       "start_time": "2024-06-01T00:00:00Z",
       "end_time": "2024-07-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-07",
       "query": "from:taresky",
       "start_time": "2024-07-01T00:00:00Z",
       "end_time": "2024-08-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-08",
       "query": "from:taresky",
       "start_time": "2024-08-01T00:00:00Z",
       "end_time": "2024-09-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-09",
       "query": "from:taresky",
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "next_token": "b26v89c19zqg8o3frqut8rdwre6omn2yqnku6qzsio9rx",
+      "status": "open",
+      "pages_fetched": 8,
+      "posts_returned": 200,
+      "posts_added": 200,
+      "last_span": [
+        "2024-09-14T07:41:14.000Z",
+        "2024-09-16T13:53:45.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqutnwyy3kaybeiy72l95msedyu0t",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-09-01T00:00:00Z",
+        "end_time": "2024-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqutnwyy3kaybeiy72l95msedyu0t",
+        "window_label": "2024-09"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-10",
       "query": "from:taresky",
       "start_time": "2024-10-01T00:00:00Z",
       "end_time": "2024-11-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "next_token": "b26v89c19zqg8o3frqxtuwhnof5dyuwak0sfs5h3drs71",
+      "status": "open",
+      "pages_fetched": 11,
+      "posts_returned": 275,
+      "posts_added": 275,
+      "last_span": [
+        "2024-10-17T02:03:43.000Z",
+        "2024-10-17T16:18:06.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqxu9n7plaeq5kglicbbrpbkl36gt",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-10-01T00:00:00Z",
+        "end_time": "2024-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqxu9n7plaeq5kglicbbrpbkl36gt",
+        "window_label": "2024-10"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2024-11",
       "query": "from:taresky",
       "start_time": "2024-11-01T00:00:00Z",
       "end_time": "2024-12-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "next_token": "b26v89c19zqg8o3frr0rxtbbubn41jahj0tbk73i5x56l",
+      "status": "open",
+      "pages_fetched": 16,
+      "posts_returned": 400,
+      "posts_added": 400,
+      "last_span": [
+        "2024-11-01T01:09:35.000Z",
+        "2024-11-03T14:32:22.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr0scwtqlnu1ewabgk2jdc8y1mvst",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-11-01T00:00:00Z",
+        "end_time": "2024-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr0scwtqlnu1ewabgk2jdc8y1mvst",
+        "window_label": "2024-11"
+      }
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-01",
       "query": "from:taresky",
       "start_time": "2023-01-01T00:00:00Z",
       "end_time": "2023-02-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-02",
       "query": "from:taresky",
       "start_time": "2023-02-01T00:00:00Z",
       "end_time": "2023-03-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-03",
       "query": "from:taresky",
       "start_time": "2023-03-01T00:00:00Z",
       "end_time": "2023-04-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-04",
       "query": "from:taresky",
       "start_time": "2023-04-01T00:00:00Z",
       "end_time": "2023-05-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-05",
       "query": "from:taresky",
       "start_time": "2023-05-01T00:00:00Z",
       "end_time": "2023-06-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-06",
       "query": "from:taresky",
       "start_time": "2023-06-01T00:00:00Z",
       "end_time": "2023-07-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-07",
       "query": "from:taresky",
       "start_time": "2023-07-01T00:00:00Z",
       "end_time": "2023-08-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-08",
       "query": "from:taresky",
       "start_time": "2023-08-01T00:00:00Z",
       "end_time": "2023-09-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-09",
       "query": "from:taresky",
       "start_time": "2023-09-01T00:00:00Z",
       "end_time": "2023-10-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-10",
       "query": "from:taresky",
       "start_time": "2023-10-01T00:00:00Z",
       "end_time": "2023-11-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "2023-11",
       "query": "from:taresky",
       "start_time": "2023-11-01T00:00:00Z",
       "end_time": "2023-12-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
+      "last_span": null,
+      "last_types": null
+    },
+    {
+      "handle": "taresky",
+      "user_id": "368245720",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:taresky",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 2,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": "b26v89c19zqg8o3juzoxfu6bzm883x558jpglw41tjr0d",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzoxfu6bzm883x558jpglw41tjr0d",
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     }
   ],
   "open_or_blocked_windows": [
     {
+      "handle": "taresky",
+      "user_id": "368245720",
       "label": "timeline-recent",
-      "status": "open",
+      "query": "from:taresky",
       "start_time": null,
       "end_time": null,
-      "pages_fetched": 1,
-      "posts_added": 25,
       "next_token": "7140dibdnow9c7btwp0gm9gqgrurrob7n4a5eytlynzg0",
-      "last_input_token": null
-    },
-    {
-      "label": "2026-11",
       "status": "open",
-      "start_time": "2026-11-01T00:00:00Z",
-      "end_time": "2026-11-25T00:00:00Z",
       "pages_fetched": 1,
-      "posts_added": 0,
-      "next_token": "b26v89c19zqg8o3juzowln63mmdar00jvz60l8hp0a1dp",
-      "last_input_token": null
-    },
-    {
-      "label": "2026-10",
-      "status": "open",
-      "start_time": "2026-10-01T00:00:00Z",
-      "end_time": "2026-11-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 23,
-      "next_token": "b26v89c19zqg8o3juzlxod0q3o7foj3kl2vh3a9t75u2l",
-      "last_input_token": null
-    },
-    {
-      "label": "2026-06",
-      "status": "open",
-      "start_time": "2026-06-01T00:00:00Z",
-      "end_time": "2026-07-01T00:00:00Z",
-      "pages_fetched": 1,
+      "posts_returned": 25,
       "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3juetgavebt9yov3dwq2lcd83sww8e5",
-      "last_input_token": null
+      "last_span": [
+        "2026-11-19T13:11:47.000Z",
+        "2026-11-24T09:10:31.000Z"
+      ],
+      "last_types": {
+        "reply": 19,
+        "original": 5,
+        "quote": 1
+      },
+      "last_input_token": null,
+      "last_request": {
+        "query": null,
+        "start_time": null,
+        "end_time": null,
+        "sort_order": null,
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "timeline-recent"
+      }
     },
     {
-      "label": "2025-12",
+      "handle": "taresky",
+      "user_id": "368245720",
+      "label": "2024-09",
+      "query": "from:taresky",
+      "start_time": "2024-09-01T00:00:00Z",
+      "end_time": "2024-10-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3frqut8rdwre6omn2yqnku6qzsio9rx",
       "status": "open",
-      "start_time": "2025-12-01T00:00:00Z",
-      "end_time": "2026-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3jue8j4zpqh0ulagerz9w1fngl493st",
-      "last_input_token": null
+      "pages_fetched": 8,
+      "posts_returned": 200,
+      "posts_added": 200,
+      "last_span": [
+        "2024-09-14T07:41:14.000Z",
+        "2024-09-16T13:53:45.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqutnwyy3kaybeiy72l95msedyu0t",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-09-01T00:00:00Z",
+        "end_time": "2024-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqutnwyy3kaybeiy72l95msedyu0t",
+        "window_label": "2024-09"
+      }
     },
     {
-      "label": "2025-06",
+      "handle": "taresky",
+      "user_id": "368245720",
+      "label": "2024-10",
+      "query": "from:taresky",
+      "start_time": "2024-10-01T00:00:00Z",
+      "end_time": "2024-11-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3frqxtuwhnof5dyuwak0sfs5h3drs71",
       "status": "open",
-      "start_time": "2025-06-01T00:00:00Z",
-      "end_time": "2025-07-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fsc5996chnmiu8k80o5is81hndxoxp",
-      "last_input_token": null
+      "pages_fetched": 11,
+      "posts_returned": 275,
+      "posts_added": 275,
+      "last_span": [
+        "2024-10-17T02:03:43.000Z",
+        "2024-10-17T16:18:06.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqxu9n7plaeq5kglicbbrpbkl36gt",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-10-01T00:00:00Z",
+        "end_time": "2024-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqxu9n7plaeq5kglicbbrpbkl36gt",
+        "window_label": "2024-10"
+      }
     },
     {
-      "label": "2024-12",
+      "handle": "taresky",
+      "user_id": "368245720",
+      "label": "2024-11",
+      "query": "from:taresky",
+      "start_time": "2024-11-01T00:00:00Z",
+      "end_time": "2024-12-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3frr0rxtbbubn41jahj0tbk73i5x56l",
       "status": "open",
-      "start_time": "2024-12-01T00:00:00Z",
-      "end_time": "2025-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3frr6rwzj66j4eq6bt70sn51ijbkpdp",
-      "last_input_token": null
-    },
-    {
-      "label": "2022-12",
-      "status": "open",
-      "start_time": "2022-12-01T00:00:00Z",
-      "end_time": "2023-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fqk12iwydq5frlwh39wmfq8h9udc3h",
-      "last_input_token": null
-    },
-    {
-      "label": "2021-01",
-      "status": "open",
-      "start_time": "2021-01-01T00:00:00Z",
-      "end_time": "2021-02-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3foskt5god0ueh1goua2qzbpfrvo6f1",
-      "last_input_token": null
-    },
-    {
-      "label": "2016-12",
-      "status": "open",
-      "start_time": "2016-12-01T00:00:00Z",
-      "end_time": "2017-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "1jzu9lk96gu5npw3iy4bo3bin9qtacqjskhen8rrf0ql",
-      "last_input_token": null
+      "pages_fetched": 16,
+      "posts_returned": 400,
+      "posts_added": 400,
+      "last_span": [
+        "2024-11-01T01:09:35.000Z",
+        "2024-11-03T14:32:22.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr0scwtqlnu1ewabgk2jdc8y1mvst",
+      "last_request": {
+        "query": "from:taresky",
+        "start_time": "2024-11-01T00:00:00Z",
+        "end_time": "2024-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr0scwtqlnu1ewabgk2jdc8y1mvst",
+        "window_label": "2024-11"
+      }
     }
   ],
   "pending_window_labels": [
-    "2026-09",
-    "2026-08",
-    "2026-07",
-    "2026-05",
-    "2026-04",
-    "2026-03",
-    "2026-02",
-    "2026-01",
-    "2025-01",
-    "2025-02",
-    "2025-03",
-    "2025-04",
-    "2025-05",
-    "2025-07",
-    "2025-08",
-    "2025-09",
-    "2025-10",
-    "2025-11",
     "2024-01",
     "2024-02",
     "2024-03",
@@ -872,9 +1416,6 @@
     "2024-06",
     "2024-07",
     "2024-08",
-    "2024-09",
-    "2024-10",
-    "2024-11",
     "2023-01",
     "2023-02",
     "2023-03",
@@ -887,14 +1428,1331 @@
     "2023-10",
     "2023-11"
   ],
-  "exhausted_window_labels": [
-    "pinned"
+  "calendar_windows_with_no_job_yet": [
+    {
+      "handle": "taresky",
+      "label": "2011-09",
+      "query": "from:taresky",
+      "start_time": "2011-09-01T00:00:00Z",
+      "end_time": "2011-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2011-10",
+      "query": "from:taresky",
+      "start_time": "2011-10-01T00:00:00Z",
+      "end_time": "2011-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2011-11",
+      "query": "from:taresky",
+      "start_time": "2011-11-01T00:00:00Z",
+      "end_time": "2011-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2011-12",
+      "query": "from:taresky",
+      "start_time": "2011-12-01T00:00:00Z",
+      "end_time": "2012-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-01",
+      "query": "from:taresky",
+      "start_time": "2012-01-01T00:00:00Z",
+      "end_time": "2012-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-02",
+      "query": "from:taresky",
+      "start_time": "2012-02-01T00:00:00Z",
+      "end_time": "2012-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-03",
+      "query": "from:taresky",
+      "start_time": "2012-03-01T00:00:00Z",
+      "end_time": "2012-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-04",
+      "query": "from:taresky",
+      "start_time": "2012-04-01T00:00:00Z",
+      "end_time": "2012-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-05",
+      "query": "from:taresky",
+      "start_time": "2012-05-01T00:00:00Z",
+      "end_time": "2012-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-06",
+      "query": "from:taresky",
+      "start_time": "2012-06-01T00:00:00Z",
+      "end_time": "2012-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-07",
+      "query": "from:taresky",
+      "start_time": "2012-07-01T00:00:00Z",
+      "end_time": "2012-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-08",
+      "query": "from:taresky",
+      "start_time": "2012-08-01T00:00:00Z",
+      "end_time": "2012-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-09",
+      "query": "from:taresky",
+      "start_time": "2012-09-01T00:00:00Z",
+      "end_time": "2012-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-10",
+      "query": "from:taresky",
+      "start_time": "2012-10-01T00:00:00Z",
+      "end_time": "2012-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-11",
+      "query": "from:taresky",
+      "start_time": "2012-11-01T00:00:00Z",
+      "end_time": "2012-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2012-12",
+      "query": "from:taresky",
+      "start_time": "2012-12-01T00:00:00Z",
+      "end_time": "2013-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-01",
+      "query": "from:taresky",
+      "start_time": "2013-01-01T00:00:00Z",
+      "end_time": "2013-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-02",
+      "query": "from:taresky",
+      "start_time": "2013-02-01T00:00:00Z",
+      "end_time": "2013-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-03",
+      "query": "from:taresky",
+      "start_time": "2013-03-01T00:00:00Z",
+      "end_time": "2013-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-04",
+      "query": "from:taresky",
+      "start_time": "2013-04-01T00:00:00Z",
+      "end_time": "2013-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-05",
+      "query": "from:taresky",
+      "start_time": "2013-05-01T00:00:00Z",
+      "end_time": "2013-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-06",
+      "query": "from:taresky",
+      "start_time": "2013-06-01T00:00:00Z",
+      "end_time": "2013-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-07",
+      "query": "from:taresky",
+      "start_time": "2013-07-01T00:00:00Z",
+      "end_time": "2013-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-08",
+      "query": "from:taresky",
+      "start_time": "2013-08-01T00:00:00Z",
+      "end_time": "2013-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-09",
+      "query": "from:taresky",
+      "start_time": "2013-09-01T00:00:00Z",
+      "end_time": "2013-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-10",
+      "query": "from:taresky",
+      "start_time": "2013-10-01T00:00:00Z",
+      "end_time": "2013-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-11",
+      "query": "from:taresky",
+      "start_time": "2013-11-01T00:00:00Z",
+      "end_time": "2013-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2013-12",
+      "query": "from:taresky",
+      "start_time": "2013-12-01T00:00:00Z",
+      "end_time": "2014-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-01",
+      "query": "from:taresky",
+      "start_time": "2014-01-01T00:00:00Z",
+      "end_time": "2014-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-02",
+      "query": "from:taresky",
+      "start_time": "2014-02-01T00:00:00Z",
+      "end_time": "2014-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-03",
+      "query": "from:taresky",
+      "start_time": "2014-03-01T00:00:00Z",
+      "end_time": "2014-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-04",
+      "query": "from:taresky",
+      "start_time": "2014-04-01T00:00:00Z",
+      "end_time": "2014-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-05",
+      "query": "from:taresky",
+      "start_time": "2014-05-01T00:00:00Z",
+      "end_time": "2014-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-06",
+      "query": "from:taresky",
+      "start_time": "2014-06-01T00:00:00Z",
+      "end_time": "2014-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-07",
+      "query": "from:taresky",
+      "start_time": "2014-07-01T00:00:00Z",
+      "end_time": "2014-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-08",
+      "query": "from:taresky",
+      "start_time": "2014-08-01T00:00:00Z",
+      "end_time": "2014-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-09",
+      "query": "from:taresky",
+      "start_time": "2014-09-01T00:00:00Z",
+      "end_time": "2014-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-10",
+      "query": "from:taresky",
+      "start_time": "2014-10-01T00:00:00Z",
+      "end_time": "2014-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-11",
+      "query": "from:taresky",
+      "start_time": "2014-11-01T00:00:00Z",
+      "end_time": "2014-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2014-12",
+      "query": "from:taresky",
+      "start_time": "2014-12-01T00:00:00Z",
+      "end_time": "2015-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-01",
+      "query": "from:taresky",
+      "start_time": "2015-01-01T00:00:00Z",
+      "end_time": "2015-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-02",
+      "query": "from:taresky",
+      "start_time": "2015-02-01T00:00:00Z",
+      "end_time": "2015-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-03",
+      "query": "from:taresky",
+      "start_time": "2015-03-01T00:00:00Z",
+      "end_time": "2015-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-04",
+      "query": "from:taresky",
+      "start_time": "2015-04-01T00:00:00Z",
+      "end_time": "2015-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-05",
+      "query": "from:taresky",
+      "start_time": "2015-05-01T00:00:00Z",
+      "end_time": "2015-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-06",
+      "query": "from:taresky",
+      "start_time": "2015-06-01T00:00:00Z",
+      "end_time": "2015-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-07",
+      "query": "from:taresky",
+      "start_time": "2015-07-01T00:00:00Z",
+      "end_time": "2015-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-08",
+      "query": "from:taresky",
+      "start_time": "2015-08-01T00:00:00Z",
+      "end_time": "2015-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-09",
+      "query": "from:taresky",
+      "start_time": "2015-09-01T00:00:00Z",
+      "end_time": "2015-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-10",
+      "query": "from:taresky",
+      "start_time": "2015-10-01T00:00:00Z",
+      "end_time": "2015-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-11",
+      "query": "from:taresky",
+      "start_time": "2015-11-01T00:00:00Z",
+      "end_time": "2015-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2015-12",
+      "query": "from:taresky",
+      "start_time": "2015-12-01T00:00:00Z",
+      "end_time": "2016-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-01",
+      "query": "from:taresky",
+      "start_time": "2016-01-01T00:00:00Z",
+      "end_time": "2016-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-02",
+      "query": "from:taresky",
+      "start_time": "2016-02-01T00:00:00Z",
+      "end_time": "2016-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-03",
+      "query": "from:taresky",
+      "start_time": "2016-03-01T00:00:00Z",
+      "end_time": "2016-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-04",
+      "query": "from:taresky",
+      "start_time": "2016-04-01T00:00:00Z",
+      "end_time": "2016-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-05",
+      "query": "from:taresky",
+      "start_time": "2016-05-01T00:00:00Z",
+      "end_time": "2016-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-06",
+      "query": "from:taresky",
+      "start_time": "2016-06-01T00:00:00Z",
+      "end_time": "2016-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-07",
+      "query": "from:taresky",
+      "start_time": "2016-07-01T00:00:00Z",
+      "end_time": "2016-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-08",
+      "query": "from:taresky",
+      "start_time": "2016-08-01T00:00:00Z",
+      "end_time": "2016-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-09",
+      "query": "from:taresky",
+      "start_time": "2016-09-01T00:00:00Z",
+      "end_time": "2016-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-10",
+      "query": "from:taresky",
+      "start_time": "2016-10-01T00:00:00Z",
+      "end_time": "2016-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2016-11",
+      "query": "from:taresky",
+      "start_time": "2016-11-01T00:00:00Z",
+      "end_time": "2016-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-02",
+      "query": "from:taresky",
+      "start_time": "2017-02-01T00:00:00Z",
+      "end_time": "2017-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-03",
+      "query": "from:taresky",
+      "start_time": "2017-03-01T00:00:00Z",
+      "end_time": "2017-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-04",
+      "query": "from:taresky",
+      "start_time": "2017-04-01T00:00:00Z",
+      "end_time": "2017-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-05",
+      "query": "from:taresky",
+      "start_time": "2017-05-01T00:00:00Z",
+      "end_time": "2017-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-06",
+      "query": "from:taresky",
+      "start_time": "2017-06-01T00:00:00Z",
+      "end_time": "2017-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-07",
+      "query": "from:taresky",
+      "start_time": "2017-07-01T00:00:00Z",
+      "end_time": "2017-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-08",
+      "query": "from:taresky",
+      "start_time": "2017-08-01T00:00:00Z",
+      "end_time": "2017-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-09",
+      "query": "from:taresky",
+      "start_time": "2017-09-01T00:00:00Z",
+      "end_time": "2017-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-10",
+      "query": "from:taresky",
+      "start_time": "2017-10-01T00:00:00Z",
+      "end_time": "2017-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-11",
+      "query": "from:taresky",
+      "start_time": "2017-11-01T00:00:00Z",
+      "end_time": "2017-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2017-12",
+      "query": "from:taresky",
+      "start_time": "2017-12-01T00:00:00Z",
+      "end_time": "2018-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-01",
+      "query": "from:taresky",
+      "start_time": "2018-01-01T00:00:00Z",
+      "end_time": "2018-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-02",
+      "query": "from:taresky",
+      "start_time": "2018-02-01T00:00:00Z",
+      "end_time": "2018-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-03",
+      "query": "from:taresky",
+      "start_time": "2018-03-01T00:00:00Z",
+      "end_time": "2018-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-04",
+      "query": "from:taresky",
+      "start_time": "2018-04-01T00:00:00Z",
+      "end_time": "2018-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-05",
+      "query": "from:taresky",
+      "start_time": "2018-05-01T00:00:00Z",
+      "end_time": "2018-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-06",
+      "query": "from:taresky",
+      "start_time": "2018-06-01T00:00:00Z",
+      "end_time": "2018-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-07",
+      "query": "from:taresky",
+      "start_time": "2018-07-01T00:00:00Z",
+      "end_time": "2018-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-08",
+      "query": "from:taresky",
+      "start_time": "2018-08-01T00:00:00Z",
+      "end_time": "2018-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-09",
+      "query": "from:taresky",
+      "start_time": "2018-09-01T00:00:00Z",
+      "end_time": "2018-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-10",
+      "query": "from:taresky",
+      "start_time": "2018-10-01T00:00:00Z",
+      "end_time": "2018-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-11",
+      "query": "from:taresky",
+      "start_time": "2018-11-01T00:00:00Z",
+      "end_time": "2018-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2018-12",
+      "query": "from:taresky",
+      "start_time": "2018-12-01T00:00:00Z",
+      "end_time": "2019-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-01",
+      "query": "from:taresky",
+      "start_time": "2019-01-01T00:00:00Z",
+      "end_time": "2019-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-02",
+      "query": "from:taresky",
+      "start_time": "2019-02-01T00:00:00Z",
+      "end_time": "2019-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-03",
+      "query": "from:taresky",
+      "start_time": "2019-03-01T00:00:00Z",
+      "end_time": "2019-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-04",
+      "query": "from:taresky",
+      "start_time": "2019-04-01T00:00:00Z",
+      "end_time": "2019-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-05",
+      "query": "from:taresky",
+      "start_time": "2019-05-01T00:00:00Z",
+      "end_time": "2019-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-06",
+      "query": "from:taresky",
+      "start_time": "2019-06-01T00:00:00Z",
+      "end_time": "2019-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-07",
+      "query": "from:taresky",
+      "start_time": "2019-07-01T00:00:00Z",
+      "end_time": "2019-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-08",
+      "query": "from:taresky",
+      "start_time": "2019-08-01T00:00:00Z",
+      "end_time": "2019-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-09",
+      "query": "from:taresky",
+      "start_time": "2019-09-01T00:00:00Z",
+      "end_time": "2019-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-10",
+      "query": "from:taresky",
+      "start_time": "2019-10-01T00:00:00Z",
+      "end_time": "2019-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-11",
+      "query": "from:taresky",
+      "start_time": "2019-11-01T00:00:00Z",
+      "end_time": "2019-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2019-12",
+      "query": "from:taresky",
+      "start_time": "2019-12-01T00:00:00Z",
+      "end_time": "2020-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-01",
+      "query": "from:taresky",
+      "start_time": "2020-01-01T00:00:00Z",
+      "end_time": "2020-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-02",
+      "query": "from:taresky",
+      "start_time": "2020-02-01T00:00:00Z",
+      "end_time": "2020-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-03",
+      "query": "from:taresky",
+      "start_time": "2020-03-01T00:00:00Z",
+      "end_time": "2020-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-04",
+      "query": "from:taresky",
+      "start_time": "2020-04-01T00:00:00Z",
+      "end_time": "2020-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-05",
+      "query": "from:taresky",
+      "start_time": "2020-05-01T00:00:00Z",
+      "end_time": "2020-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-06",
+      "query": "from:taresky",
+      "start_time": "2020-06-01T00:00:00Z",
+      "end_time": "2020-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-07",
+      "query": "from:taresky",
+      "start_time": "2020-07-01T00:00:00Z",
+      "end_time": "2020-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-08",
+      "query": "from:taresky",
+      "start_time": "2020-08-01T00:00:00Z",
+      "end_time": "2020-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-09",
+      "query": "from:taresky",
+      "start_time": "2020-09-01T00:00:00Z",
+      "end_time": "2020-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-10",
+      "query": "from:taresky",
+      "start_time": "2020-10-01T00:00:00Z",
+      "end_time": "2020-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-11",
+      "query": "from:taresky",
+      "start_time": "2020-11-01T00:00:00Z",
+      "end_time": "2020-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2020-12",
+      "query": "from:taresky",
+      "start_time": "2020-12-01T00:00:00Z",
+      "end_time": "2021-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-03",
+      "query": "from:taresky",
+      "start_time": "2021-03-01T00:00:00Z",
+      "end_time": "2021-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-04",
+      "query": "from:taresky",
+      "start_time": "2021-04-01T00:00:00Z",
+      "end_time": "2021-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-05",
+      "query": "from:taresky",
+      "start_time": "2021-05-01T00:00:00Z",
+      "end_time": "2021-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-06",
+      "query": "from:taresky",
+      "start_time": "2021-06-01T00:00:00Z",
+      "end_time": "2021-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-07",
+      "query": "from:taresky",
+      "start_time": "2021-07-01T00:00:00Z",
+      "end_time": "2021-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-08",
+      "query": "from:taresky",
+      "start_time": "2021-08-01T00:00:00Z",
+      "end_time": "2021-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-09",
+      "query": "from:taresky",
+      "start_time": "2021-09-01T00:00:00Z",
+      "end_time": "2021-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-10",
+      "query": "from:taresky",
+      "start_time": "2021-10-01T00:00:00Z",
+      "end_time": "2021-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-11",
+      "query": "from:taresky",
+      "start_time": "2021-11-01T00:00:00Z",
+      "end_time": "2021-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2021-12",
+      "query": "from:taresky",
+      "start_time": "2021-12-01T00:00:00Z",
+      "end_time": "2022-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-01",
+      "query": "from:taresky",
+      "start_time": "2022-01-01T00:00:00Z",
+      "end_time": "2022-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-02",
+      "query": "from:taresky",
+      "start_time": "2022-02-01T00:00:00Z",
+      "end_time": "2022-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-03",
+      "query": "from:taresky",
+      "start_time": "2022-03-01T00:00:00Z",
+      "end_time": "2022-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-04",
+      "query": "from:taresky",
+      "start_time": "2022-04-01T00:00:00Z",
+      "end_time": "2022-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-05",
+      "query": "from:taresky",
+      "start_time": "2022-05-01T00:00:00Z",
+      "end_time": "2022-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-06",
+      "query": "from:taresky",
+      "start_time": "2022-06-01T00:00:00Z",
+      "end_time": "2022-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-07",
+      "query": "from:taresky",
+      "start_time": "2022-07-01T00:00:00Z",
+      "end_time": "2022-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-08",
+      "query": "from:taresky",
+      "start_time": "2022-08-01T00:00:00Z",
+      "end_time": "2022-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-09",
+      "query": "from:taresky",
+      "start_time": "2022-09-01T00:00:00Z",
+      "end_time": "2022-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-10",
+      "query": "from:taresky",
+      "start_time": "2022-10-01T00:00:00Z",
+      "end_time": "2022-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "taresky",
+      "label": "2022-11",
+      "query": "from:taresky",
+      "start_time": "2022-11-01T00:00:00Z",
+      "end_time": "2022-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    }
   ],
   "coverage_notes": [
-    "Day-1 collection is an initial sample only: public profile, one recent get_users_posts page, first pages of representative dated windows (2026-11, 2026-10, 2026-06, 2025-12, 2025-06, 2024-12, 2022-12, 2021-01, 2016-12), and the pinned post via get_posts_by_ids after an expansion 404. 224 unique posts stored versus profile post_count 34,003 at lookup. This is not a complete history and is recency/year-end biased in unpaged months.",
-    "Every dated window opened on day 1 still has a next_token (status=open) except the single-id pinned fetch (exhausted). 2018-12 was not searched. Unstarted years include 2011-09 (account creation) through 2015, most of 2016–2020, and most months of 2021–2026 not listed above.",
-    "Do not treat year counts of 25 as low activity. Do not infer a legal name. Bio text '套利 1~100x | 2021~2025.6' is profile wording, not a verified track record."
+    "True budget stop:75 daily reads remain,0 usable to reserve. No new collection before reset or explicit changed budget. No pending fetched pages.",
+    "Reset Nov26 08:00 Asia/Shanghai. No routine was created here; previous routine fired/deleted itself.",
+    "Continue current saved open dated jobs after reset, then unstarted pending/no-job months. Do not rewalk overlapping recent timeline tokens while monthly coverage is terminal.",
+    "Both new accounts2026 Jan-Nov terminal through captured bounds. TA all2025 terminal. THANK2025 March remains open; other2025 months terminal.",
+    "SF2025 May/June/July and III2026 July/September/Aug01to27 terminal. All Wang2016Dec/2017months and2018Jan-Oct/2019Aug priority tails terminal.",
+    "SF2024 March/June/July/August/September open. TA2024 September/October/November open. THANK2024 April/July open. Tokens/query/bounds copied exactly below.",
+    "Do not open redundant SF pending2026Nov. Never reuse exhausted/stalled parents, including III2026Aug and SF2023Sep/2026Jul. Unproven Wang2012-2014 requires a separately documented coverage audit, not blind parent-token reuse.",
+    "Former calendar no-job list contained17 months before Wang account creation; retained in excluded_precreation_calendar_windows, removed from actionable gap counts. No posts were removed.",
+    "Prior ZIPs immutable. No GitHub writes. PR1 merged main fb75058962f33f1c176f0297e47eb4cfde74d929; parent later uses NEW PR from main, no merge authorization.",
+    "Audited inherited corrections only: literal U+2028 restored in one SF post;3 pinned-post provenance path corrections. See day2_literal_corrections.json.",
+    "Synthesis is selective, source-linked and explicitly partial, not a manual reread of34913 posts. Performance and underlying market facts remain unverified unless explicitly sourced."
   ],
-  "stopping_reason": "Day-1 close 2026-11-24 (Asia/Shanghai). After continuing the original three handles, 22 public reads were allocated to newly added @taresky and @thankUcrypto. Authoritative footer after the last ingested X call: 'X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).' Daily reset 2026-11-25T00:00:00.000Z = 2026-11-25 08:00 Asia/Shanghai. 61 remaining was left above a ~40 floor for other tasks. Coverage is explicitly partial. Resume from logs/remaining_jobs_day1.json. Do not reopen exhausted or stalled-parent windows. This package is not a complete tweet archive.",
-  "claim_all_tweets": false
+  "stopping_reason": "Real live75-read reserve reached; explicitly partial, not all windows exhausted. No pending ingest.",
+  "last_collection_footer": "X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z)."
 }

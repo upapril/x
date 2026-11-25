@@ -1,868 +1,1478 @@
 {
   "handle": "thankUcrypto",
   "user_id": "705564530936418304",
-  "packaged_at_shanghai": "2026-11-24 20:40:23 GMT+8",
-  "unique_posts_stored": 178,
+  "packaged_at_shanghai": "2026-11-25T09:42:30.677345+08:00",
+  "claim_all_tweets": false,
+  "unique_posts_stored": 6867,
   "profile_post_count_at_first_lookup": 8097,
+  "profile_not_refetched_day2": true,
   "post_count_is_not_a_missing_count_proof": true,
   "span_utc": [
     "2022-12-30T09:55:07.000Z",
-    "2026-11-24T11:05:18.000Z"
+    "2026-11-24T15:33:48.000Z"
   ],
   "span_shanghai": [
     "2022-12-30 17:55:07 GMT+8",
-    "2026-11-24 19:05:18 GMT+8"
+    "2026-11-24 23:33:48 GMT+8"
   ],
-  "types": {
-    "reply": 74,
-    "original": 82,
-    "quote": 21,
-    "repost": 1
-  },
   "years_utc": {
     "2022": 2,
-    "2023": 25,
-    "2024": 25,
-    "2025": 50,
-    "2026": 76
+    "2023": 44,
+    "2024": 701,
+    "2025": 4511,
+    "2026": 1609
+  },
+  "types": {
+    "reply": 3152,
+    "quote": 625,
+    "original": 3044,
+    "repost": 46
   },
   "earliest": {
     "id": "1608763604010176512",
-    "utc": "2022-12-30T09:55:07.000Z",
-    "shanghai": "2022-12-30 17:55:07 GMT+8",
     "url": "https://x.com/thankUcrypto/status/1608763604010176512"
   },
   "latest": {
-    "id": "2125183975757119963",
-    "utc": "2026-11-24T11:05:18.000Z",
-    "shanghai": "2026-11-24 19:05:18 GMT+8",
-    "url": "https://x.com/thankUcrypto/status/2125183975757119963"
+    "id": "2125251545931681949",
+    "url": "https://x.com/thankUcrypto/status/2125251545931681949"
   },
   "expand_job_status_counts": {
-    "exhausted": 2,
-    "open": 9,
-    "pending": 40
+    "exhausted": 35,
+    "open": 4,
+    "pending": 13
   },
   "windows": [
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "pinned",
       "query": "pinned_post_ids",
       "start_time": null,
       "end_time": null,
+      "next_token": null,
       "status": "exhausted",
       "pages_fetched": 1,
       "posts_returned": 1,
       "posts_added": 1,
-      "next_token": null,
-      "last_input_token": null,
       "last_span": [
         "2026-08-24T06:45:32.000Z",
         "2026-08-24T06:45:32.000Z"
-      ]
+      ],
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "timeline-recent",
       "query": "from:thankUcrypto",
       "start_time": null,
       "end_time": null,
+      "next_token": "7140dibdnow9c7btwp0gm9i8sjoq8m9keuzhjjx1ftyr8",
       "status": "open",
       "pages_fetched": 1,
       "posts_returned": 24,
       "posts_added": 24,
-      "next_token": "7140dibdnow9c7btwp0gm9i8sjoq8m9keuzhjjx1ftyr8",
-      "last_input_token": null,
       "last_span": [
         "2026-11-21T04:01:58.000Z",
         "2026-11-24T11:05:18.000Z"
-      ]
+      ],
+      "last_types": {
+        "original": 19,
+        "reply": 5
+      },
+      "last_input_token": null,
+      "last_request": {
+        "query": null,
+        "start_time": null,
+        "end_time": null,
+        "sort_order": null,
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "timeline-recent"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-11",
       "query": "from:thankUcrypto",
       "start_time": "2026-11-01T00:00:00Z",
       "end_time": "2026-11-25T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 1,
-      "next_token": "b26v89c19zqg8o3juzowlxwfcjef8gbd5vc978vr2uhrx",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 246,
+      "posts_added": 222,
       "last_span": [
-        "2026-11-21T04:01:58.000Z",
-        "2026-11-24T11:05:18.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "original": 20,
+        "reply": 5
+      },
+      "last_input_token": "b26v89c19zqg8o3juzly3efb1fxmphlunujb1579qzp8d",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-11-01T00:00:00Z",
+        "end_time": "2026-11-25T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzly3efb1fxmphlunujb1579qzp8d",
+        "window_label": "2026-11"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-10",
       "query": "from:thankUcrypto",
       "start_time": "2026-10-01T00:00:00Z",
       "end_time": "2026-11-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3juzlxod10t2jlubd1szxp6x1j4v7nh",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 101,
+      "posts_added": 101,
       "last_span": [
-        "2026-10-29T21:57:09.000Z",
-        "2026-10-31T14:21:43.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 11,
+        "original": 12,
+        "quote": 2
+      },
+      "last_input_token": "b26v89c19zqg8o3juzixw8gbj47uh1li858r8j6wx15kt",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-10-01T00:00:00Z",
+        "end_time": "2026-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzixw8gbj47uh1li858r8j6wx15kt",
+        "window_label": "2026-10"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-06",
       "query": "from:thankUcrypto",
       "start_time": "2026-06-01T00:00:00Z",
       "end_time": "2026-07-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3jueqimn5399wglj1wvbhph7sa5jvy5",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 71,
+      "posts_added": 71,
       "last_span": [
-        "2026-06-14T07:07:25.000Z",
-        "2026-06-29T17:08:27.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 5,
+        "original": 15,
+        "quote": 5
+      },
+      "last_input_token": "b26v89c19zqg8o3jueqgj1ir3md9kz4fkuz5quwe83rzx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-06-01T00:00:00Z",
+        "end_time": "2026-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jueqgj1ir3md9kz4fkuz5quwe83rzx",
+        "window_label": "2026-06"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-12",
       "query": "from:thankUcrypto",
       "start_time": "2025-12-01T00:00:00Z",
       "end_time": "2026-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3jue8hvvok54byopd5y3jn9t8jlcqyl",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 136,
+      "posts_added": 136,
       "last_span": [
-        "2025-12-18T13:57:23.000Z",
-        "2025-12-29T00:58:03.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "original": 11,
+        "reply": 10,
+        "quote": 3,
+        "repost": 1
+      },
+      "last_input_token": "b26v89c19zqg8o3fscn6moy303uuslb5e4nvoswqy30xp",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-12-01T00:00:00Z",
+        "end_time": "2026-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fscn6moy303uuslb5e4nvoswqy30xp",
+        "window_label": "2025-12"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-06",
       "query": "from:thankUcrypto",
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fsc598rfej8hgc3qq162stvnzamxdp",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 20,
+      "posts_returned": 458,
+      "posts_added": 458,
       "last_span": [
-        "2025-06-26T09:56:17.000Z",
-        "2025-06-30T11:42:25.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 14,
+        "original": 9,
+        "quote": 2
+      },
+      "last_input_token": "b26v89c19zqg8o3fsc29hcgmbjwp2wa3cjttu4d43qlq5",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-06-01T00:00:00Z",
+        "end_time": "2025-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsc29hcgmbjwp2wa3cjttu4d43qlq5",
+        "window_label": "2025-06"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-12",
       "query": "from:thankUcrypto",
       "start_time": "2024-12-01T00:00:00Z",
       "end_time": "2025-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3frr6rx3qiy6cxsmrxr487bij5l1ksd",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 12,
+      "posts_returned": 263,
+      "posts_added": 263,
       "last_span": [
-        "2024-12-30T12:30:15.000Z",
-        "2024-12-31T18:14:25.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "quote": 2,
+        "reply": 17,
+        "original": 6
+      },
+      "last_input_token": "b26v89c19zqg8o3frr3s4stg0d5hz2afl1fgjchl1e3y5",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-12-01T00:00:00Z",
+        "end_time": "2025-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr3s4stg0d5hz2afl1fgjchl1e3y5",
+        "window_label": "2024-12"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-12",
       "query": "from:thankUcrypto",
       "start_time": "2023-12-01T00:00:00Z",
       "end_time": "2024-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
-      "posts_returned": 25,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fr5kh0qyam3np3rae1pvqp2qhzxxtp",
-      "last_input_token": null,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 44,
+      "posts_added": 44,
       "last_span": [
-        "2023-12-27T05:32:16.000Z",
-        "2023-12-31T05:58:02.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 10,
+        "original": 8,
+        "quote": 7
+      },
+      "last_input_token": "b26v89c19zqg8o3fr5kd860jf3phnip2kc42q1gpbfhbx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2023-12-01T00:00:00Z",
+        "end_time": "2024-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5kd860jf3phnip2kc42q1gpbfhbx",
+        "window_label": "2023-12"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2022-12",
       "query": "from:thankUcrypto",
       "start_time": "2022-12-01T00:00:00Z",
       "end_time": "2023-01-01T00:00:00Z",
-      "status": "open",
-      "pages_fetched": 1,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 2,
-      "next_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
-      "last_input_token": null,
       "last_span": [
-        "2022-12-30T09:55:07.000Z",
-        "2022-12-30T10:27:59.000Z"
-      ]
+        null,
+        null
+      ],
+      "last_types": {
+        "reply": 2
+      },
+      "last_input_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2022-12-01T00:00:00Z",
+        "end_time": "2023-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
+        "window_label": "2022-12"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2018-12",
       "query": "from:thankUcrypto",
       "start_time": "2018-12-01T00:00:00Z",
       "end_time": "2019-01-01T00:00:00Z",
+      "next_token": null,
       "status": "exhausted",
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": {},
+      "last_input_token": null,
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2018-12-01T00:00:00Z",
+        "end_time": "2019-01-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "2018-12"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-09",
       "query": "from:thankUcrypto",
       "start_time": "2026-09-01T00:00:00Z",
       "end_time": "2026-10-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 163,
+      "posts_added": 163,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juezh4ctr77kjol47dm8fri2j69chp",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-09-01T00:00:00Z",
+        "end_time": "2026-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juezh4ctr77kjol47dm8fri2j69chp",
+        "window_label": "2026-09"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-08",
       "query": "from:thankUcrypto",
       "start_time": "2026-08-01T00:00:00Z",
       "end_time": "2026-09-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 9,
+      "posts_returned": 196,
+      "posts_added": 195,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juewgx6wkawnrjkkas0o3mcif7v0ql",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-08-01T00:00:00Z",
+        "end_time": "2026-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juewgx6wkawnrjkkas0o3mcif7v0ql",
+        "window_label": "2026-08"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-07",
       "query": "from:thankUcrypto",
       "start_time": "2026-07-01T00:00:00Z",
       "end_time": "2026-08-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 123,
+      "posts_added": 123,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juetgq3373m488mperq44x91qwh0n1",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-07-01T00:00:00Z",
+        "end_time": "2026-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juetgq3373m488mperq44x91qwh0n1",
+        "window_label": "2026-07"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-05",
       "query": "from:thankUcrypto",
       "start_time": "2026-05-01T00:00:00Z",
       "end_time": "2026-06-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 8,
+      "posts_returned": 156,
+      "posts_added": 156,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juengbtg8ind0ixqkhcj8cu1vd9b3x",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-05-01T00:00:00Z",
+        "end_time": "2026-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juengbtg8ind0ixqkhcj8cu1vd9b3x",
+        "window_label": "2026-05"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-04",
       "query": "from:thankUcrypto",
       "start_time": "2026-04-01T00:00:00Z",
       "end_time": "2026-05-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 212,
+      "posts_added": 212,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juehkkm8ly0k5p2fjwjjtm4vhh3r7h",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-04-01T00:00:00Z",
+        "end_time": "2026-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juehkkm8ly0k5p2fjwjjtm4vhh3r7h",
+        "window_label": "2026-04"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-03",
       "query": "from:thankUcrypto",
       "start_time": "2026-03-01T00:00:00Z",
       "end_time": "2026-04-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 141,
+      "posts_added": 141,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jueejyrrw0p3qmbnl7h21fnhtqycu5",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-03-01T00:00:00Z",
+        "end_time": "2026-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jueejyrrw0p3qmbnl7h21fnhtqycu5",
+        "window_label": "2026-03"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-02",
       "query": "from:thankUcrypto",
       "start_time": "2026-02-01T00:00:00Z",
       "end_time": "2026-03-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 138,
+      "posts_added": 138,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juebk6vqe4j9jm6l9mmcvb2pmb1l6l",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-02-01T00:00:00Z",
+        "end_time": "2026-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juebk6vqe4j9jm6l9mmcvb2pmb1l6l",
+        "window_label": "2026-02"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2026-01",
       "query": "from:thankUcrypto",
       "start_time": "2026-01-01T00:00:00Z",
       "end_time": "2026-02-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 60,
+      "posts_added": 60,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3jue8jzlkxyqa4cd5yur5isyarw0wot",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-01-01T00:00:00Z",
+        "end_time": "2026-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3jue8jzlkxyqa4cd5yur5isyarw0wot",
+        "window_label": "2026-01"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-01",
       "query": "from:thankUcrypto",
       "start_time": "2025-01-01T00:00:00Z",
       "end_time": "2025-02-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 10,
+      "posts_returned": 204,
+      "posts_added": 204,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr6sc2yl346v314b5v8c9ier5u1rx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-01-01T00:00:00Z",
+        "end_time": "2025-02-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr6sc2yl346v314b5v8c9ier5u1rx",
+        "window_label": "2025-01"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-02",
       "query": "from:thankUcrypto",
       "start_time": "2025-02-01T00:00:00Z",
       "end_time": "2025-03-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 426,
+      "posts_added": 426,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr9sj8xkjxxp75tk3nfepzngjyum5",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-02-01T00:00:00Z",
+        "end_time": "2025-03-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr9sj8xkjxxp75tk3nfepzngjyum5",
+        "window_label": "2025-02"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-03",
       "query": "from:thankUcrypto",
       "start_time": "2025-03-01T00:00:00Z",
       "end_time": "2025-04-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "next_token": "b26v89c19zqg8o3frrct5kdpolkj1rt23tb7zodjxpy7x",
+      "status": "open",
+      "pages_fetched": 31,
+      "posts_returned": 775,
+      "posts_added": 775,
+      "last_span": [
+        "2025-03-07T01:15:01.000Z",
+        "2025-03-07T15:40:24.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frrctk8yfycfq5ugqtthzyt2srp5dp",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-03-01T00:00:00Z",
+        "end_time": "2025-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frrctk8yfycfq5ugqtthzyt2srp5dp",
+        "window_label": "2025-03"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-04",
       "query": "from:thankUcrypto",
       "start_time": "2025-04-01T00:00:00Z",
       "end_time": "2025-05-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 32,
+      "posts_returned": 772,
+      "posts_added": 772,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbw9396c6xbjp6hdi0u11gfas5zel",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-04-01T00:00:00Z",
+        "end_time": "2025-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbw9396c6xbjp6hdi0u11gfas5zel",
+        "window_label": "2025-04"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-05",
       "query": "from:thankUcrypto",
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 29,
+      "posts_returned": 696,
+      "posts_added": 696,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsbz9a6k0u0tqrsbo7f5ceiypi4l19",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-05-01T00:00:00Z",
+        "end_time": "2025-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsbz9a6k0u0tqrsbo7f5ceiypi4l19",
+        "window_label": "2025-05"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-07",
       "query": "from:thankUcrypto",
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 109,
+      "posts_added": 109,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsc85ncgxlhnkt6mqdodmw5i3psc59",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-07-01T00:00:00Z",
+        "end_time": "2025-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsc85ncgxlhnkt6mqdodmw5i3psc59",
+        "window_label": "2025-07"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-08",
       "query": "from:thankUcrypto",
       "start_time": "2025-08-01T00:00:00Z",
       "end_time": "2025-09-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 7,
+      "posts_returned": 135,
+      "posts_added": 135,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fscb5ug7wnf1jvy9o5ruzk58wji9h9",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-08-01T00:00:00Z",
+        "end_time": "2025-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fscb5ug7wnf1jvy9o5ruzk58wji9h9",
+        "window_label": "2025-08"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-09",
       "query": "from:thankUcrypto",
       "start_time": "2025-09-01T00:00:00Z",
       "end_time": "2025-10-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 39,
+      "posts_added": 39,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsce6gvyotcflo0poozgxvcr9j8519",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-09-01T00:00:00Z",
+        "end_time": "2025-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsce6gvyotcflo0poozgxvcr9j8519",
+        "window_label": "2025-09"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-10",
       "query": "from:thankUcrypto",
       "start_time": "2025-10-01T00:00:00Z",
       "end_time": "2025-11-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 19,
+      "posts_returned": 428,
+      "posts_added": 428,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsch690j31pisjo8501icaycsm8ozh",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-10-01T00:00:00Z",
+        "end_time": "2025-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsch690j31pisjo8501icaycsm8ozh",
+        "window_label": "2025-10"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2025-11",
       "query": "from:thankUcrypto",
       "start_time": "2025-11-01T00:00:00Z",
       "end_time": "2025-12-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 15,
+      "posts_returned": 333,
+      "posts_added": 333,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fsck6friamg98pd7pbf1jsw4dtpu9p",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-11-01T00:00:00Z",
+        "end_time": "2025-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fsck6friamg98pd7pbf1jsw4dtpu9p",
+        "window_label": "2025-11"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-01",
       "query": "from:thankUcrypto",
       "start_time": "2024-01-01T00:00:00Z",
       "end_time": "2024-02-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-02",
       "query": "from:thankUcrypto",
       "start_time": "2024-02-01T00:00:00Z",
       "end_time": "2024-03-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-03",
       "query": "from:thankUcrypto",
       "start_time": "2024-03-01T00:00:00Z",
       "end_time": "2024-04-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 40,
+      "posts_added": 40,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5te8cbn51fgopdy7q1e87qwiguil",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-03-01T00:00:00Z",
+        "end_time": "2024-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5te8cbn51fgopdy7q1e87qwiguil",
+        "window_label": "2024-03"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-04",
       "query": "from:thankUcrypto",
       "start_time": "2024-04-01T00:00:00Z",
       "end_time": "2024-05-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "next_token": "b26v89c19zqg8o3fr5wef7lsykbep4ns28qkoya4wln5p",
+      "status": "open",
+      "pages_fetched": 5,
+      "posts_returned": 125,
+      "posts_added": 125,
+      "last_span": [
+        "2024-04-02T09:38:22.000Z",
+        "2024-04-04T07:44:23.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5wefon0fu8rzrtds2tq63rduyiyl",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-04-01T00:00:00Z",
+        "end_time": "2024-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5wefon0fu8rzrtds2tq63rduyiyl",
+        "window_label": "2024-04"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-05",
       "query": "from:thankUcrypto",
       "start_time": "2024-05-01T00:00:00Z",
       "end_time": "2024-06-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 14,
+      "posts_added": 14,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5ze7knb7scfurb1lifwcdmls7rzx",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-05-01T00:00:00Z",
+        "end_time": "2024-06-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5ze7knb7scfurb1lifwcdmls7rzx",
+        "window_label": "2024-05"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-06",
       "query": "from:thankUcrypto",
       "start_time": "2024-06-01T00:00:00Z",
       "end_time": "2024-07-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 24,
+      "posts_added": 24,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr62etnmmxyzw30rmo8d2zovbq88sd",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-06-01T00:00:00Z",
+        "end_time": "2024-07-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr62etnmmxyzw30rmo8d2zovbq88sd",
+        "window_label": "2024-06"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-07",
       "query": "from:thankUcrypto",
       "start_time": "2024-07-01T00:00:00Z",
       "end_time": "2024-08-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "next_token": "b26v89c19zqg8o3frqos08le9855ejt2s6c935r547rst",
+      "status": "open",
+      "pages_fetched": 8,
+      "posts_returned": 200,
+      "posts_added": 200,
+      "last_span": [
+        "2024-07-09T10:52:39.000Z",
+        "2024-07-10T06:43:09.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqos0ezvenft45a37mhykk6z7uxkt",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-07-01T00:00:00Z",
+        "end_time": "2024-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqos0ezvenft45a37mhykk6z7uxkt",
+        "window_label": "2024-07"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-08",
       "query": "from:thankUcrypto",
       "start_time": "2024-08-01T00:00:00Z",
       "end_time": "2024-09-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
+      "next_token": null,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
       "last_input_token": null,
-      "last_span": null
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-08-01T00:00:00Z",
+        "end_time": "2024-09-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "2024-08"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-09",
       "query": "from:thankUcrypto",
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 3,
+      "posts_added": 3,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqurk4xjaou3y0du0ogxnjc0wnaf1",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-09-01T00:00:00Z",
+        "end_time": "2024-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqurk4xjaou3y0du0ogxnjc0wnaf1",
+        "window_label": "2024-09"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-10",
       "query": "from:thankUcrypto",
       "start_time": "2024-10-01T00:00:00Z",
       "end_time": "2024-11-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 1,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqxup5mbcuof70jgv6ndgdmu5jz3x",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-10-01T00:00:00Z",
+        "end_time": "2024-11-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqxup5mbcuof70jgv6ndgdmu5jz3x",
+        "window_label": "2024-10"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2024-11",
       "query": "from:thankUcrypto",
       "start_time": "2024-11-01T00:00:00Z",
       "end_time": "2024-12-01T00:00:00Z",
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0,
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 31,
+      "posts_added": 31,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frr0ry405p51ae5jz2e9vq3n8ztbb1",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-11-01T00:00:00Z",
+        "end_time": "2024-12-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frr0ry405p51ae5jz2e9vq3n8ztbb1",
+        "window_label": "2024-11"
+      }
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-01",
       "query": "from:thankUcrypto",
       "start_time": "2023-01-01T00:00:00Z",
       "end_time": "2023-02-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-02",
       "query": "from:thankUcrypto",
       "start_time": "2023-02-01T00:00:00Z",
       "end_time": "2023-03-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-03",
       "query": "from:thankUcrypto",
       "start_time": "2023-03-01T00:00:00Z",
       "end_time": "2023-04-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-04",
       "query": "from:thankUcrypto",
       "start_time": "2023-04-01T00:00:00Z",
       "end_time": "2023-05-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-05",
       "query": "from:thankUcrypto",
       "start_time": "2023-05-01T00:00:00Z",
       "end_time": "2023-06-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-06",
       "query": "from:thankUcrypto",
       "start_time": "2023-06-01T00:00:00Z",
       "end_time": "2023-07-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-07",
       "query": "from:thankUcrypto",
       "start_time": "2023-07-01T00:00:00Z",
       "end_time": "2023-08-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-08",
       "query": "from:thankUcrypto",
       "start_time": "2023-08-01T00:00:00Z",
       "end_time": "2023-09-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-09",
       "query": "from:thankUcrypto",
       "start_time": "2023-09-01T00:00:00Z",
       "end_time": "2023-10-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-10",
       "query": "from:thankUcrypto",
       "start_time": "2023-10-01T00:00:00Z",
       "end_time": "2023-11-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
-      "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "last_span": null,
+      "last_types": null
     },
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "2023-11",
       "query": "from:thankUcrypto",
       "start_time": "2023-11-01T00:00:00Z",
       "end_time": "2023-12-01T00:00:00Z",
+      "next_token": null,
       "status": "pending",
       "pages_fetched": 0,
       "posts_returned": 0,
       "posts_added": 0,
+      "last_span": null,
+      "last_types": null
+    },
+    {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
+      "label": "day2-new-2026-11-24T12to25T0035",
+      "query": "from:thankUcrypto",
+      "start_time": "2026-11-24T12:00:00Z",
+      "end_time": "2026-11-25T00:35:00Z",
       "next_token": null,
-      "last_input_token": null,
-      "last_span": null
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 2,
+      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
+      "last_input_token": "b26v89c19zqg8o3juzoxfu5fqxohl8oua509mtkrgwsjh",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2026-11-24T12:00:00Z",
+        "end_time": "2026-11-25T00:35:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juzoxfu5fqxohl8oua509mtkrgwsjh",
+        "window_label": "day2-new-2026-11-24T12to25T0035"
+      },
+      "last_span": [
+        null,
+        null
+      ]
     }
   ],
   "open_or_blocked_windows": [
     {
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
       "label": "timeline-recent",
-      "status": "open",
+      "query": "from:thankUcrypto",
       "start_time": null,
       "end_time": null,
-      "pages_fetched": 1,
-      "posts_added": 24,
       "next_token": "7140dibdnow9c7btwp0gm9i8sjoq8m9keuzhjjx1ftyr8",
-      "last_input_token": null
+      "status": "open",
+      "pages_fetched": 1,
+      "posts_returned": 24,
+      "posts_added": 24,
+      "last_span": [
+        "2026-11-21T04:01:58.000Z",
+        "2026-11-24T11:05:18.000Z"
+      ],
+      "last_types": {
+        "original": 19,
+        "reply": 5
+      },
+      "last_input_token": null,
+      "last_request": {
+        "query": null,
+        "start_time": null,
+        "end_time": null,
+        "sort_order": null,
+        "max_results": 25,
+        "input_token": null,
+        "window_label": "timeline-recent"
+      }
     },
     {
-      "label": "2026-11",
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
+      "label": "2025-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2025-03-01T00:00:00Z",
+      "end_time": "2025-04-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3frrct5kdpolkj1rt23tb7zodjxpy7x",
       "status": "open",
-      "start_time": "2026-11-01T00:00:00Z",
-      "end_time": "2026-11-25T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 1,
-      "next_token": "b26v89c19zqg8o3juzowlxwfcjef8gbd5vc978vr2uhrx",
-      "last_input_token": null
+      "pages_fetched": 31,
+      "posts_returned": 775,
+      "posts_added": 775,
+      "last_span": [
+        "2025-03-07T01:15:01.000Z",
+        "2025-03-07T15:40:24.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frrctk8yfycfq5ugqtthzyt2srp5dp",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2025-03-01T00:00:00Z",
+        "end_time": "2025-04-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frrctk8yfycfq5ugqtthzyt2srp5dp",
+        "window_label": "2025-03"
+      }
     },
     {
-      "label": "2026-10",
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
+      "label": "2024-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2024-04-01T00:00:00Z",
+      "end_time": "2024-05-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3fr5wef7lsykbep4ns28qkoya4wln5p",
       "status": "open",
-      "start_time": "2026-10-01T00:00:00Z",
-      "end_time": "2026-11-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3juzlxod10t2jlubd1szxp6x1j4v7nh",
-      "last_input_token": null
+      "pages_fetched": 5,
+      "posts_returned": 125,
+      "posts_added": 125,
+      "last_span": [
+        "2024-04-02T09:38:22.000Z",
+        "2024-04-04T07:44:23.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3fr5wefon0fu8rzrtds2tq63rduyiyl",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-04-01T00:00:00Z",
+        "end_time": "2024-05-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3fr5wefon0fu8rzrtds2tq63rduyiyl",
+        "window_label": "2024-04"
+      }
     },
     {
-      "label": "2026-06",
+      "handle": "thankUcrypto",
+      "user_id": "705564530936418304",
+      "label": "2024-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2024-07-01T00:00:00Z",
+      "end_time": "2024-08-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3frqos08le9855ejt2s6c935r547rst",
       "status": "open",
-      "start_time": "2026-06-01T00:00:00Z",
-      "end_time": "2026-07-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3jueqimn5399wglj1wvbhph7sa5jvy5",
-      "last_input_token": null
-    },
-    {
-      "label": "2025-12",
-      "status": "open",
-      "start_time": "2025-12-01T00:00:00Z",
-      "end_time": "2026-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3jue8hvvok54byopd5y3jn9t8jlcqyl",
-      "last_input_token": null
-    },
-    {
-      "label": "2025-06",
-      "status": "open",
-      "start_time": "2025-06-01T00:00:00Z",
-      "end_time": "2025-07-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fsc598rfej8hgc3qq162stvnzamxdp",
-      "last_input_token": null
-    },
-    {
-      "label": "2024-12",
-      "status": "open",
-      "start_time": "2024-12-01T00:00:00Z",
-      "end_time": "2025-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3frr6rx3qiy6cxsmrxr487bij5l1ksd",
-      "last_input_token": null
-    },
-    {
-      "label": "2023-12",
-      "status": "open",
-      "start_time": "2023-12-01T00:00:00Z",
-      "end_time": "2024-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 25,
-      "next_token": "b26v89c19zqg8o3fr5kh0qyam3np3rae1pvqp2qhzxxtp",
-      "last_input_token": null
-    },
-    {
-      "label": "2022-12",
-      "status": "open",
-      "start_time": "2022-12-01T00:00:00Z",
-      "end_time": "2023-01-01T00:00:00Z",
-      "pages_fetched": 1,
-      "posts_added": 2,
-      "next_token": "b26v89c19zqg8o3fqk12y2l83isxjg0sb9ofufluiyjjx",
-      "last_input_token": null
+      "pages_fetched": 8,
+      "posts_returned": 200,
+      "posts_added": 200,
+      "last_span": [
+        "2024-07-09T10:52:39.000Z",
+        "2024-07-10T06:43:09.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3frqos0ezvenft45a37mhykk6z7uxkt",
+      "last_request": {
+        "query": "from:thankUcrypto",
+        "start_time": "2024-07-01T00:00:00Z",
+        "end_time": "2024-08-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3frqos0ezvenft45a37mhykk6z7uxkt",
+        "window_label": "2024-07"
+      }
     }
   ],
   "pending_window_labels": [
-    "2026-09",
-    "2026-08",
-    "2026-07",
-    "2026-05",
-    "2026-04",
-    "2026-03",
-    "2026-02",
-    "2026-01",
-    "2025-01",
-    "2025-02",
-    "2025-03",
-    "2025-04",
-    "2025-05",
-    "2025-07",
-    "2025-08",
-    "2025-09",
-    "2025-10",
-    "2025-11",
     "2024-01",
     "2024-02",
-    "2024-03",
-    "2024-04",
-    "2024-05",
-    "2024-06",
-    "2024-07",
-    "2024-08",
-    "2024-09",
-    "2024-10",
-    "2024-11",
     "2023-01",
     "2023-02",
     "2023-03",
@@ -875,15 +1485,811 @@
     "2023-10",
     "2023-11"
   ],
-  "exhausted_window_labels": [
-    "pinned",
-    "2018-12"
+  "calendar_windows_with_no_job_yet": [
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-03-01T00:00:00Z",
+      "end_time": "2016-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-04-01T00:00:00Z",
+      "end_time": "2016-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-05-01T00:00:00Z",
+      "end_time": "2016-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-06-01T00:00:00Z",
+      "end_time": "2016-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-07-01T00:00:00Z",
+      "end_time": "2016-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-08-01T00:00:00Z",
+      "end_time": "2016-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-09-01T00:00:00Z",
+      "end_time": "2016-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-10-01T00:00:00Z",
+      "end_time": "2016-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-11-01T00:00:00Z",
+      "end_time": "2016-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2016-12",
+      "query": "from:thankUcrypto",
+      "start_time": "2016-12-01T00:00:00Z",
+      "end_time": "2017-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-01",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-01-01T00:00:00Z",
+      "end_time": "2017-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-02",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-02-01T00:00:00Z",
+      "end_time": "2017-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-03-01T00:00:00Z",
+      "end_time": "2017-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-04-01T00:00:00Z",
+      "end_time": "2017-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-05-01T00:00:00Z",
+      "end_time": "2017-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-06-01T00:00:00Z",
+      "end_time": "2017-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-07-01T00:00:00Z",
+      "end_time": "2017-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-08-01T00:00:00Z",
+      "end_time": "2017-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-09-01T00:00:00Z",
+      "end_time": "2017-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-10-01T00:00:00Z",
+      "end_time": "2017-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-11-01T00:00:00Z",
+      "end_time": "2017-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2017-12",
+      "query": "from:thankUcrypto",
+      "start_time": "2017-12-01T00:00:00Z",
+      "end_time": "2018-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-01",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-01-01T00:00:00Z",
+      "end_time": "2018-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-02",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-02-01T00:00:00Z",
+      "end_time": "2018-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-03-01T00:00:00Z",
+      "end_time": "2018-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-04-01T00:00:00Z",
+      "end_time": "2018-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-05-01T00:00:00Z",
+      "end_time": "2018-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-06-01T00:00:00Z",
+      "end_time": "2018-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-07-01T00:00:00Z",
+      "end_time": "2018-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-08-01T00:00:00Z",
+      "end_time": "2018-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-09-01T00:00:00Z",
+      "end_time": "2018-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-10-01T00:00:00Z",
+      "end_time": "2018-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2018-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2018-11-01T00:00:00Z",
+      "end_time": "2018-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-02",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-02-01T00:00:00Z",
+      "end_time": "2019-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-03-01T00:00:00Z",
+      "end_time": "2019-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-04-01T00:00:00Z",
+      "end_time": "2019-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-05-01T00:00:00Z",
+      "end_time": "2019-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-06-01T00:00:00Z",
+      "end_time": "2019-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-07-01T00:00:00Z",
+      "end_time": "2019-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-08-01T00:00:00Z",
+      "end_time": "2019-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-09-01T00:00:00Z",
+      "end_time": "2019-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-10-01T00:00:00Z",
+      "end_time": "2019-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-11-01T00:00:00Z",
+      "end_time": "2019-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2019-12",
+      "query": "from:thankUcrypto",
+      "start_time": "2019-12-01T00:00:00Z",
+      "end_time": "2020-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-01",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-01-01T00:00:00Z",
+      "end_time": "2020-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-02",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-02-01T00:00:00Z",
+      "end_time": "2020-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-03-01T00:00:00Z",
+      "end_time": "2020-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-04-01T00:00:00Z",
+      "end_time": "2020-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-05-01T00:00:00Z",
+      "end_time": "2020-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-06-01T00:00:00Z",
+      "end_time": "2020-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-07-01T00:00:00Z",
+      "end_time": "2020-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-08-01T00:00:00Z",
+      "end_time": "2020-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-09-01T00:00:00Z",
+      "end_time": "2020-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-10-01T00:00:00Z",
+      "end_time": "2020-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-11-01T00:00:00Z",
+      "end_time": "2020-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2020-12",
+      "query": "from:thankUcrypto",
+      "start_time": "2020-12-01T00:00:00Z",
+      "end_time": "2021-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-01",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-01-01T00:00:00Z",
+      "end_time": "2021-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-02",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-02-01T00:00:00Z",
+      "end_time": "2021-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-03-01T00:00:00Z",
+      "end_time": "2021-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-04-01T00:00:00Z",
+      "end_time": "2021-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-05-01T00:00:00Z",
+      "end_time": "2021-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-06-01T00:00:00Z",
+      "end_time": "2021-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-07-01T00:00:00Z",
+      "end_time": "2021-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-08-01T00:00:00Z",
+      "end_time": "2021-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-09-01T00:00:00Z",
+      "end_time": "2021-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-10-01T00:00:00Z",
+      "end_time": "2021-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-11-01T00:00:00Z",
+      "end_time": "2021-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2021-12",
+      "query": "from:thankUcrypto",
+      "start_time": "2021-12-01T00:00:00Z",
+      "end_time": "2022-01-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-01",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-01-01T00:00:00Z",
+      "end_time": "2022-02-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-02",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-02-01T00:00:00Z",
+      "end_time": "2022-03-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-03",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-03-01T00:00:00Z",
+      "end_time": "2022-04-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-04",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-04-01T00:00:00Z",
+      "end_time": "2022-05-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-05",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-05-01T00:00:00Z",
+      "end_time": "2022-06-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-06",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-06-01T00:00:00Z",
+      "end_time": "2022-07-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-07",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-07-01T00:00:00Z",
+      "end_time": "2022-08-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-08",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-08-01T00:00:00Z",
+      "end_time": "2022-09-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-09",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-09-01T00:00:00Z",
+      "end_time": "2022-10-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-10",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-10-01T00:00:00Z",
+      "end_time": "2022-11-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    },
+    {
+      "handle": "thankUcrypto",
+      "label": "2022-11",
+      "query": "from:thankUcrypto",
+      "start_time": "2022-11-01T00:00:00Z",
+      "end_time": "2022-12-01T00:00:00Z",
+      "next_token": null,
+      "status": "no_job_yet",
+      "note": "Structural unattempted calendar window, not evidence posts exist; may include months before account creation inherited from day1 enumeration."
+    }
   ],
   "coverage_notes": [
-    "Day-1 collection is an initial sample only: public profile, one recent get_users_posts page, first pages of representative dated windows (2026-11, 2026-10, 2026-06, 2025-12, 2025-06, 2024-12, 2023-12, 2022-12, 2018-12), and the pinned post via get_posts_by_ids after an expansion 404. 178 unique posts stored versus profile post_count 8,097 at lookup. Explicitly partial.",
-    "2018-12 first page was empty with no next_token (exhausted for that month only — not proof the account was inactive in 2018). 2022-12 returned 2 posts but still has a next_token (open). A 2025-06 post says the author shared on Weibo from 2022-24 and '25年才转的推'; that is self-description, not a coverage proof. Pre-2025 X months remain mostly unsampled.",
-    "Self-reported P&L, livestream-challenge totals, and copy-trading figures in posts are unverified. Do not infer a legal name from the display name 'allincrypto 熬鹰资本'."
+    "True budget stop:75 daily reads remain,0 usable to reserve. No new collection before reset or explicit changed budget. No pending fetched pages.",
+    "Reset Nov26 08:00 Asia/Shanghai. No routine was created here; previous routine fired/deleted itself.",
+    "Continue current saved open dated jobs after reset, then unstarted pending/no-job months. Do not rewalk overlapping recent timeline tokens while monthly coverage is terminal.",
+    "Both new accounts2026 Jan-Nov terminal through captured bounds. TA all2025 terminal. THANK2025 March remains open; other2025 months terminal.",
+    "SF2025 May/June/July and III2026 July/September/Aug01to27 terminal. All Wang2016Dec/2017months and2018Jan-Oct/2019Aug priority tails terminal.",
+    "SF2024 March/June/July/August/September open. TA2024 September/October/November open. THANK2024 April/July open. Tokens/query/bounds copied exactly below.",
+    "Do not open redundant SF pending2026Nov. Never reuse exhausted/stalled parents, including III2026Aug and SF2023Sep/2026Jul. Unproven Wang2012-2014 requires a separately documented coverage audit, not blind parent-token reuse.",
+    "Former calendar no-job list contained17 months before Wang account creation; retained in excluded_precreation_calendar_windows, removed from actionable gap counts. No posts were removed.",
+    "Prior ZIPs immutable. No GitHub writes. PR1 merged main fb75058962f33f1c176f0297e47eb4cfde74d929; parent later uses NEW PR from main, no merge authorization.",
+    "Audited inherited corrections only: literal U+2028 restored in one SF post;3 pinned-post provenance path corrections. See day2_literal_corrections.json.",
+    "Synthesis is selective, source-linked and explicitly partial, not a manual reread of34913 posts. Performance and underlying market facts remain unverified unless explicitly sourced."
   ],
-  "stopping_reason": "Day-1 close 2026-11-24 (Asia/Shanghai). After continuing the original three handles, 22 public reads were allocated to newly added @taresky and @thankUcrypto. Authoritative footer after the last ingested X call: 'X reads left for this user: 23 of 30 this minute (resets at 2026-11-24T12:33:00.000Z), 61 of 1000 today (resets at 2026-11-25T00:00:00.000Z).' Daily reset 2026-11-25T00:00:00.000Z = 2026-11-25 08:00 Asia/Shanghai. 61 remaining was left above a ~40 floor for other tasks. Coverage is explicitly partial. Resume from logs/remaining_jobs_day1.json. Do not reopen exhausted or stalled-parent windows. This package is not a complete tweet archive.",
-  "claim_all_tweets": false
+  "stopping_reason": "Real live75-read reserve reached; explicitly partial, not all windows exhausted. No pending ingest.",
+  "last_collection_footer": "X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z)."
 }

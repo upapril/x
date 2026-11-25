@@ -1,0 +1,117 @@
+{
+  "collected_at_utc": "2026-11-25T01:26:27Z",
+  "collected_at_shanghai": "2026-11-25T09:26:27+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M884YXDYH5S7YPY3005SMZXX.txt",
+  "request": {
+    "query": "from:thankUcrypto",
+    "start_time": "2025-02-01T00:00:00Z",
+    "end_time": "2025-03-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3frr9sjb0i1q91p1i3ofx4q7dnpcxh9",
+    "window_label": "2025-02"
+  },
+  "data": [
+    {
+      "author_id": "705564530936418304",
+      "conversation_id": "1885035962683842892",
+      "created_at": "2025-02-01T14:12:22.000Z",
+      "edit_history_tweet_ids": [
+        "1885692673060962483"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1442742228502282240",
+            "start": 0,
+            "username": "bitcoin10wu"
+          }
+        ]
+      },
+      "id": "1885692673060962483",
+      "in_reply_to_user_id": "1442742228502282240",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 763,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1885362110433218660",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@bitcoin10wu 一开始我肯定不会信啊，他实盘持仓价值能看到呀，占了币安BTCUSDT永续做多持仓量的15%。而且还有爆仓价。历史规律来看黑天鹅来了一根就下去了，甚至打了他的仓位还会再插一根大清算针。 。",
+      "url": "https://x.com/thankUcrypto/status/1885692673060962483"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1442742228502282240",
+        "conversation_id": "1885035962683842892",
+        "created_at": "2025-01-31T16:18:50.000Z",
+        "edit_history_tweet_ids": [
+          "1885362110433218660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705564530936418304",
+              "start": 0,
+              "username": "thankUcrypto"
+            }
+          ]
+        },
+        "id": "1885362110433218660",
+        "in_reply_to_user_id": "705564530936418304",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885035962683842892",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thankUcrypto 哪来托啊  真做剧本也做不到这样的"
+      }
+    ],
+    "users": [
+      {
+        "id": "705564530936418304",
+        "name": "allincrypto 熬鹰资本 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+        "username": "thankUcrypto",
+        "verified": false
+      },
+      {
+        "id": "1442742228502282240",
+        "name": "tun.btc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967021886711492609/OTt9vf0W_normal.jpg",
+        "username": "bitcoin10wu",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1885692673060962483",
+    "next_token": "b26v89c19zqg8o3frr9sj8xkjxxp75tk3nfepzngjyum5",
+    "oldest_id": "1885692673060962483",
+    "result_count": 1
+  },
+  "errors": []
+}

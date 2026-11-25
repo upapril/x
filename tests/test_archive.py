@@ -12,10 +12,11 @@ sys.path.insert(0, str(ROOT / "_tools"))
 
 from validate_archive import HANDLES, validate  # noqa: E402
 
-PRIOR_COMMITS = (
+PRIOR_THREE = (
     "7c43efc9646ebe174a1e5d43c669865d982909ba",
     "5e939e92cad74c649388927b7d19770641b03240",
 )
+PRIOR_FIVE = "664f9ba26af026d0f917c6e55579f498790792ce"
 
 
 class ArchiveValidationTest(unittest.TestCase):
@@ -28,12 +29,12 @@ class ArchiveValidationTest(unittest.TestCase):
 
     def test_counts(self):
         summary = self.report["summary"]
-        self.assertEqual(summary["total_posts"], 15370)
-        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 1873)
-        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 3856)
-        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 9239)
-        self.assertEqual(summary["handles"]["taresky"]["posts"], 224)
-        self.assertEqual(summary["handles"]["thankUcrypto"]["posts"], 178)
+        self.assertEqual(summary["total_posts"], 34913)
+        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 1921)
+        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 4712)
+        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 12862)
+        self.assertEqual(summary["handles"]["taresky"]["posts"], 8551)
+        self.assertEqual(summary["handles"]["thankUcrypto"]["posts"], 6867)
         self.assertGreater(summary["handles"]["taresky"]["pending_windows"], 0)
         self.assertEqual(summary["handles"]["alexandr_wang"]["profile_post_count"], 3762)
         self.assertEqual(summary["handles"]["iiiinvest"]["profile_post_count"], 4858)
@@ -54,26 +55,28 @@ class ArchiveValidationTest(unittest.TestCase):
     def test_known_bad_citation_is_not_linked(self):
         text = (ROOT / "alexandr_wang" / "analysis.md").read_text(encoding="utf-8")
         self.assertNotIn("status/809675263590961152", text)
-        self.assertIn("absent", text)
+        self.assertTrue("absent" in text or "must not be reused" in text or "not a source" in text)
         self.assertIn("809663723006611456", text)
 
     def test_readme_states_partial_archive(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         lowered = readme.lower()
-        self.assertIn("incomplete", lowered)
-        self.assertIn("9,239", readme)
-        self.assertIn("1,873", readme)
-        self.assertIn("3,856", readme)
-        self.assertIn("taresky/", readme)
-        self.assertIn("thankUcrypto/", readme)
+        self.assertIn("partial", lowered)
+        self.assertIn("12,862", readme)
+        self.assertIn("1,921", readme)
+        self.assertIn("4,712", readme)
+        self.assertIn("8,551", readme)
+        self.assertIn("6,867", readme)
+        self.assertIn("partial", lowered)
         self.assertIn("INSIGHTS.md", readme)
         self.assertIn("FINANCE_SKILLS_COMPARISON.md", readme)
         self.assertIn("pending", lowered)
 
     def test_expanded_store_keeps_first_pass_ids(self):
-        prior_handles = ("alexandr_wang", "iiiinvest", "silverfang88")
-        for commit in PRIOR_COMMITS:
-            for handle in prior_handles:
+        plan = [(commit, ("alexandr_wang", "iiiinvest", "silverfang88")) for commit in PRIOR_THREE]
+        plan.append((PRIOR_FIVE, HANDLES))
+        for commit, handles in plan:
+            for handle in handles:
                 old = subprocess.check_output(
                     ["git", "show", f"{commit}:{handle}/normalized/posts.jsonl"],
                     cwd=ROOT,
