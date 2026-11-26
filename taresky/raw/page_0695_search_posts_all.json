@@ -1,0 +1,955 @@
+{
+  "collected_at_utc": "2026-11-26T01:05:05Z",
+  "collected_at_shanghai": "2026-11-26T09:05:05+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AP4A9PYP0FXWD69WFMS7Q6.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-11-01T00:00:00Z",
+    "end_time": "2023-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr5hdvo3wdhk5e8pc6gxciyyy4mvzx",
+    "window_label": "2023-11"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-07T13:02:32.000Z",
+      "edit_history_tweet_ids": [
+        "1721875782061224411"
+      ],
+      "id": "1721875782061224411",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 10785,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721683355383828818",
+          "type": "quoted"
+        }
+      ],
+      "text": "已经相当程度，解决这个问题了，想说就说 😂 https://t.co/k3Qd5PjDMj",
+      "url": "https://x.com/taresky/status/1721875782061224411"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-07T13:01:20.000Z",
+      "edit_history_tweet_ids": [
+        "1721875484156535067"
+      ],
+      "id": "1721875484156535067",
+      "in_reply_to_user_id": "886029627386245120",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1459,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721870891431387137",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Lance_rrr 这个规则分流可解决。\n\n就是要自己抓包整理域名，很麻烦。交易所应该自己整理，发布到公开文档上。",
+      "url": "https://x.com/taresky/status/1721875484156535067"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-07T12:34:09.000Z",
+      "edit_history_tweet_ids": [
+        "1721868640201679251"
+      ],
+      "id": "1721868640201679251",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 17153,
+        "like_count": 18,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "#Crypto\n\n钱包存储私钥，用 Passkey 实现和主流的用 iCloud Keychain 实现相比：\n\n- 在安全性上没有区别，你还是得同时相信苹果，和钱包开发者\n- 便捷程度也没有区别，都是刷一下 Face ID 结束\n\n直到未来某一天，iPhone 本地的加密硬件，原生支持 Crypto",
+      "url": "https://x.com/taresky/status/1721868640201679251"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-07T09:34:57.000Z",
+      "edit_history_tweet_ids": [
+        "1721823544194253054"
+      ],
+      "id": "1721823544194253054",
+      "in_reply_to_user_id": "123416609",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 67,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721823015078625787",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gangg2021 markdown 是玩具，不能拿来干活。",
+      "url": "https://x.com/taresky/status/1721823544194253054"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-07T09:34:33.000Z",
+      "edit_history_tweet_ids": [
+        "1721823444764156319"
+      ],
+      "id": "1721823444764156319",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 697,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@VincentMucid 低分辨率之下，显卡性能富余，瓶颈变成了 CPU。\n\n高分辨率，反过来，瓶颈在显卡。",
+      "url": "https://x.com/taresky/status/1721823444764156319"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-07T05:11:34.000Z",
+      "edit_history_tweet_ids": [
+        "1721757260307984736"
+      ],
+      "id": "1721757260307984736",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@L_x_x_x_x_x 看看 看看 看看",
+      "url": "https://x.com/taresky/status/1721757260307984736"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T18:36:41.000Z",
+      "edit_history_tweet_ids": [
+        "1721597489709809996"
+      ],
+      "id": "1721597489709809996",
+      "in_reply_to_user_id": "609103732",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 38,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721592211664441425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@liuxiao63287062 还太弱小了😮‍💨",
+      "url": "https://x.com/taresky/status/1721597489709809996"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T15:45:11.000Z",
+      "edit_history_tweet_ids": [
+        "1721554330015461773"
+      ],
+      "id": "1721554330015461773",
+      "in_reply_to_user_id": "20484009",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 414,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721553829991428401",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@river_leaves 笔记本电脑，可能是我唯一更愿意接受 miniled 而不是 oled 的设备 😂",
+      "url": "https://x.com/taresky/status/1721554330015461773"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T15:37:07.000Z",
+      "edit_history_tweet_ids": [
+        "1721552298839859401"
+      ],
+      "id": "1721552298839859401",
+      "in_reply_to_user_id": "368245720",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4272,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721551687658156342",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Cinebench 和 13980HX 接近。 https://t.co/PLZyDwhnEy",
+      "url": "https://x.com/taresky/status/1721552298839859401"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T15:34:41.000Z",
+      "edit_history_tweet_ids": [
+        "1721551687658156342"
+      ],
+      "id": "1721551687658156342",
+      "in_reply_to_user_id": "368245720",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2587,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721422107907875189",
+          "type": "replied_to"
+        }
+      ],
+      "text": "这么强啊？ https://t.co/gcin3hO3zD",
+      "url": "https://x.com/taresky/status/1721551687658156342"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T15:06:39.000Z",
+      "edit_history_tweet_ids": [
+        "1721544631970881770"
+      ],
+      "id": "1721544631970881770",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1047,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@shirleyusy oklink 还有提醒啊🤔",
+      "url": "https://x.com/taresky/status/1721544631970881770"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T14:08:47.000Z",
+      "edit_history_tweet_ids": [
+        "1721530069384835302"
+      ],
+      "id": "1721530069384835302",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 12467,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721517816829124861",
+          "type": "quoted"
+        }
+      ],
+      "text": "是真的。\n\n每次看路由器/显示器话题下的争论，我的感觉也是用的太少了。\n\n如果这个人只买过三五台显示器，大部分还是 DELL 的。\n\n那么即使他理性客观善良无私风趣幽默性格温和，他给出的购买意见，也没有参考价值。 https://t.co/xaWsEuxju3",
+      "url": "https://x.com/taresky/status/1721530069384835302"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T13:54:21.000Z",
+      "edit_history_tweet_ids": [
+        "1721526436425511063"
+      ],
+      "id": "1721526436425511063",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1493,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@liuyi0922 之前几天的是松赞定制吗？",
+      "url": "https://x.com/taresky/status/1721526436425511063"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T13:17:36.000Z",
+      "edit_history_tweet_ids": [
+        "1721517186823651809"
+      ],
+      "id": "1721517186823651809",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 117,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@YazhouLyu 真多啊",
+      "url": "https://x.com/taresky/status/1721517186823651809"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:55:35.000Z",
+      "edit_history_tweet_ids": [
+        "1721511647532163118"
+      ],
+      "id": "1721511647532163118",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 355,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@watermiz3 想不起来了😂",
+      "url": "https://x.com/taresky/status/1721511647532163118"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:41:11.000Z",
+      "edit_history_tweet_ids": [
+        "1721508023770947858"
+      ],
+      "id": "1721508023770947858",
+      "in_reply_to_user_id": "147786784",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 1805,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721232700936454245",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yetone 沙发推荐尼达利",
+      "url": "https://x.com/taresky/status/1721508023770947858"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:38:48.000Z",
+      "edit_history_tweet_ids": [
+        "1721507423146705167"
+      ],
+      "id": "1721507423146705167",
+      "in_reply_to_user_id": "4687195814",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 474,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721503075066937410",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Unagi_SAMA 代為享受哈哈哈",
+      "url": "https://x.com/taresky/status/1721507423146705167"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:24:33.000Z",
+      "edit_history_tweet_ids": [
+        "1721503837293584506"
+      ],
+      "id": "1721503837293584506",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 200,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@MiaBleem @gxgexiao 如果是真的，那要趁早。",
+      "url": "https://x.com/taresky/status/1721503837293584506"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:23:53.000Z",
+      "edit_history_tweet_ids": [
+        "1721503667948495119"
+      ],
+      "id": "1721503667948495119",
+      "in_reply_to_user_id": "1347031322494005250",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1654,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1716457184673083622",
+          "type": "quoted"
+        },
+        {
+          "id": "1721438627979465003",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xZiye 欢迎测试 https://t.co/1Ajetbu0Vc\n\n正式版也快了。",
+      "url": "https://x.com/taresky/status/1721503667948495119"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:22:36.000Z",
+      "edit_history_tweet_ids": [
+        "1721503345263985079"
+      ],
+      "id": "1721503345263985079",
+      "in_reply_to_user_id": "1028461660355223552",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 469,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721503011841974654",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@KlugeMini 是的。\n\n我不理解这种绚烂，在我看来毫无意义。\n\n不知道身处其中的人，体验是否也类似吸毒。",
+      "url": "https://x.com/taresky/status/1721503345263985079"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T12:17:13.000Z",
+      "edit_history_tweet_ids": [
+        "1721501992349298938"
+      ],
+      "id": "1721501992349298938",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1780,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "好像不够。连 https://t.co/5zhAxZHZ6E 都要加入规则才行。\n\n太不优雅了，那我选择不用 OKX 玩 DeFi 😂",
+      "url": "https://x.com/taresky/status/1721501992349298938"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T11:57:06.000Z",
+      "edit_history_tweet_ids": [
+        "1721496928251453898"
+      ],
+      "id": "1721496928251453898",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 17603,
+        "like_count": 13,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721431002009027070",
+          "type": "quoted"
+        }
+      ],
+      "text": "一个偏见：没有基础安全保障的极限运动，和吸毒差不多。\n\n脑袋里奖赏机制坏了，只有不断加强刺激才能获得普通人的普通水平的快乐。\n\n就像吸毒的人必须不断加量，无法戒断。\n\n不同的是，吸毒者和毒品的生态容易危害别人，而极限运动爱好者很少这样（可能一生只有一回）。 https://t.co/cvCaRZu3gl",
+      "url": "https://x.com/taresky/status/1721496928251453898"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T11:25:14.000Z",
+      "edit_history_tweet_ids": [
+        "1721488911141335277"
+      ],
+      "id": "1721488911141335277",
+      "in_reply_to_user_id": "2410111556",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 75,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721488739674009810",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Heiban_K @watermiz3 @anqirocks 随便找个迁移工具😂",
+      "url": "https://x.com/taresky/status/1721488911141335277"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T07:19:23.000Z",
+      "edit_history_tweet_ids": [
+        "1721427040874938713"
+      ],
+      "id": "1721427040874938713",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 11416,
+        "like_count": 28,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "text": "#Crypto\n\n如果你平时习惯用 🇭🇰 HK 地区的代理，当使用 OKX 的 DeFi 功能提示“DeFi产品无法在中国香港使用。”\n\n可以把 “https://t.co/gU5o3VhWNP” 域名加入其他地区的规则，比如新加坡。\n\n举例：\nDOMAIN-SUFFIX,https://t.co/gU5o3VhWNP,SG https://t.co/LiTBq1BlgV",
+      "url": "https://x.com/taresky/status/1721427040874938713"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-06T07:05:26.000Z",
+      "edit_history_tweet_ids": [
+        "1721423527595966477"
+      ],
+      "id": "1721423527595966477",
+      "in_reply_to_user_id": "727231452",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 311,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1721422453870870683",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@azure27411670 M4 Max 吧也许",
+      "url": "https://x.com/taresky/status/1721423527595966477"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "44186175",
+        "created_at": "2023-11-07T00:17:53.000Z",
+        "edit_history_tweet_ids": [
+          "1721683355383828818"
+        ],
+        "id": "1721683355383828818",
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 390178,
+          "like_count": 2751,
+          "quote_count": 26,
+          "reply_count": 68,
+          "retweet_count": 374
+        },
+        "text": "你哪次滔滔不绝后，带来的不是悔恨？ https://t.co/FHkRd9nF2U"
+      },
+      {
+        "author_id": "886029627386245120",
+        "created_at": "2023-11-07T12:43:05.000Z",
+        "edit_history_tweet_ids": [
+          "1721870891431387137"
+        ],
+        "id": "1721870891431387137",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1329,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "#Crypto \n\n开 binance 要用 sg 节点\n开 hashkey 要用 hk 节点\n有些服务hk/sg 都不好使，还要用 taiwan 节点\n\n分身乏术啊🥲"
+      },
+      {
+        "author_id": "123416609",
+        "created_at": "2023-11-07T09:32:51.000Z",
+        "edit_history_tweet_ids": [
+          "1721823015078625787"
+        ],
+        "id": "1721823015078625787",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 684,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "因为不会用markdown调整表格列宽，我放弃了用它做流程汇集文档。😢\n\n放弃了\n以后再学吧"
+      },
+      {
+        "author_id": "609103732",
+        "created_at": "2023-11-06T18:15:43.000Z",
+        "edit_history_tweet_ids": [
+          "1721592211664441425"
+        ],
+        "id": "1721592211664441425",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 什么时候帮助我幸福"
+      },
+      {
+        "author_id": "20484009",
+        "created_at": "2023-11-06T15:43:12.000Z",
+        "edit_history_tweet_ids": [
+          "1721553829991428401"
+        ],
+        "id": "1721553829991428401",
+        "in_reply_to_user_id": "20484009",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5427,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1721552868053037515",
+            "type": "replied_to"
+          }
+        ],
+        "text": "5. M3 Max 游戏性能绝对够，但是作为游戏本的话价格没优势。特别是生态没优势。但是苹果展现了要往主机/电脑游戏去的一种决心\n\n6. 期待传说中明年上半年的 OLED MacBook Air，虽然我不会买，主要是屏幕肯定还是 60hz。但它可能代表了下一代 MacBook 的设计方向。"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2023-11-06T15:34:41.000Z",
+        "edit_history_tweet_ids": [
+          "1721551687658156342"
+        ],
+        "id": "1721551687658156342",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2587,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1721422107907875189",
+            "type": "replied_to"
+          }
+        ],
+        "text": "这么强啊？ https://t.co/gcin3hO3zD"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2023-11-06T06:59:47.000Z",
+        "edit_history_tweet_ids": [
+          "1721422107907875189"
+        ],
+        "id": "1721422107907875189",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 29340,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1719525730894385419",
+            "type": "quoted"
+          }
+        ],
+        "text": "https://t.co/40mDGS8a3h\n\n这么看来我的 M3 Max 128G 不分期版本，性价比很高咯？ https://t.co/X8bIzhkAdm https://t.co/mWMMh0s8g6"
+      },
+      {
+        "author_id": "17776069",
+        "created_at": "2023-11-06T13:20:06.000Z",
+        "edit_history_tweet_ids": [
+          "1721517816829124861"
+        ],
+        "id": "1721517816829124861",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13993,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "每次看到汽车话题下面用户间的争论我都感觉主要原因是开过的车太少了。"
+      },
+      {
+        "author_id": "147786784",
+        "created_at": "2023-11-05T18:27:09.000Z",
+        "edit_history_tweet_ids": [
+          "1721232700936454245"
+        ],
+        "id": "1721232700936454245",
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 73407,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 6
+        },
+        "text": "最近要搬家了，准备买一波家具，大家有升降桌和沙发推荐吗？"
+      },
+      {
+        "author_id": "1347031322494005250",
+        "created_at": "2023-11-06T08:05:26.000Z",
+        "edit_history_tweet_ids": [
+          "1721438627979465003"
+        ],
+        "id": "1721438627979465003",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4408,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "text": "【Bitfinex借贷利息】\n有听说Bitfinex借贷利息很高，有没有熟悉的老哥能来讲一讲的？\n据说利息能到15-20%的年化 ？ https://t.co/HOnFzVLF0h"
+      },
+      {
+        "author_id": "368245720",
+        "created_at": "2023-10-23T14:10:57.000Z",
+        "edit_history_tweet_ids": [
+          "1716457184673083622"
+        ],
+        "id": "1716457184673083622",
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 247375,
+          "like_count": 265,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 52
+        },
+        "text": "《低门槛年化收益 20%～28%》\n\n它是我们当前套利策略的一部分，同时是对外发布的第一个产品，当然这也注定是一篇广告 😉\n\n希望你没有看到标题就立刻关闭。我们有很多程序来辅助套利交易，唯独选择将它产品化，只因它确有独到之处：\n\n⏱️ 策略持续时间一年以上，当下依然有效\n💰 盈利逻辑简单易懂\n⚠️ https://t.co/cgmogdsaRJ"
+      },
+      {
+        "author_id": "1028461660355223552",
+        "created_at": "2023-11-06T12:21:16.000Z",
+        "edit_history_tweet_ids": [
+          "1721503011841974654"
+        ],
+        "id": "1721503011841974654",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1721496928251453898",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 和赌博一样，终将破产。"
+      },
+      {
+        "author_id": "1603997064626479104",
+        "created_at": "2023-11-06T07:35:08.000Z",
+        "edit_history_tweet_ids": [
+          "1721431002009027070"
+        ],
+        "id": "1721431002009027070",
+        "public_metrics": {
+          "bookmark_count": 1063,
+          "impression_count": 9888713,
+          "like_count": 21392,
+          "quote_count": 620,
+          "reply_count": 2692,
+          "retweet_count": 1503
+        },
+        "text": "Is the risk worth the reward? 😳 https://t.co/OCXUXz00mW"
+      },
+      {
+        "author_id": "2410111556",
+        "created_at": "2023-11-06T11:24:33.000Z",
+        "edit_history_tweet_ids": [
+          "1721488739674009810"
+        ],
+        "id": "1721488739674009810",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky @watermiz3 @anqirocks 曲库怎么办？"
+      },
+      {
+        "author_id": "727231452",
+        "created_at": "2023-11-06T07:01:10.000Z",
+        "edit_history_tweet_ids": [
+          "1721422453870870683"
+        ],
+        "id": "1721422453870870683",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 一个好奇，这配置预期战几年？"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "886029627386245120",
+        "name": "lancy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982182198846328832/PA8GP_QU_normal.jpg",
+        "username": "Lance_rrr",
+        "verified": false
+      },
+      {
+        "id": "123416609",
+        "name": "港港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968745038139285504/Nh8joAB4_normal.jpg",
+        "username": "gangg2021",
+        "verified": false
+      },
+      {
+        "id": "609103732",
+        "name": "Sean Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2117501187192934400/3qXLK7V__normal.jpg",
+        "username": "liuxiao63287062",
+        "verified": false
+      },
+      {
+        "id": "20484009",
+        "name": "River Leaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "username": "riverleaf88",
+        "verified": false
+      },
+      {
+        "id": "147786784",
+        "name": "yetone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "username": "yetone",
+        "verified": false
+      },
+      {
+        "id": "4687195814",
+        "name": "鰻ϵ( 'Θ' )϶魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/682798486950051840/IWScGwQF_normal.jpg",
+        "username": "Unagi_SAMA",
+        "verified": false
+      },
+      {
+        "id": "1347031322494005250",
+        "name": "紫夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430496596752429058/Zuo9-9J5_normal.jpg",
+        "username": "0xZiye",
+        "verified": false
+      },
+      {
+        "id": "1028461660355223552",
+        "name": "Kluge",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461176208004055044/rKYiwteo_normal.jpg",
+        "username": "KlugeMini",
+        "verified": false
+      },
+      {
+        "id": "2410111556",
+        "name": "Heiban",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630414112844034050/c24aWdT-_normal.png",
+        "username": "isChalkboard",
+        "verified": false
+      },
+      {
+        "id": "727231452",
+        "name": "Biteman-咬人 (azuredean)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492024811903938561/H2msGMfu_normal.jpg",
+        "username": "azure27411670",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1721875782061224411",
+    "next_token": "b26v89c19zqg8o3fr5hdvdguykc6oy6rw08lx26c970cd",
+    "oldest_id": "1721423527595966477",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1721503075066937410].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1721503075066937410",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1721503075066937410"
+    }
+  ]
+}

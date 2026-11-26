@@ -1,0 +1,1269 @@
+{
+  "collected_at_utc": "2026-11-26T01:16:48Z",
+  "collected_at_shanghai": "2026-11-26T09:16:48+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APSXBCS1AE3GBWTZ700M4D.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-09-01T00:00:00Z",
+    "end_time": "2024-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3frquseibn5929brlwq3gdlrehb8399",
+    "window_label": "2024-09"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1832980825643888919",
+      "created_at": "2024-09-09T03:14:18.000Z",
+      "edit_history_tweet_ids": [
+        "1832980825643888919"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/shinboson/stat…",
+            "end": 278,
+            "expanded_url": "https://twitter.com/shinboson/status/1832933747529834747",
+            "start": 255,
+            "url": "https://t.co/3m7ZBquViP"
+          }
+        ]
+      },
+      "id": "1832980825643888919",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 82,
+        "impression_count": 83276,
+        "like_count": 365,
+        "quote_count": 2,
+        "reply_count": 25,
+        "retweet_count": 27
+      },
+      "referenced_tweets": [
+        {
+          "id": "1832933747529834747",
+          "type": "quoted"
+        }
+      ],
+      "text": "The whole Reflection-70B debacle points the the desperate need for a better AI evaluation ecosystem.\n\nIt needs to be extremely easy to adjudicate:\n(1) is the model overfit to benchmarks\n(2) is the model truly unique (i.e. not a wrapper or thin fine-tune) https://t.co/3m7ZBquViP",
+      "url": "https://x.com/alexandr_wang/status/1832980825643888919"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1832531978530492717",
+      "created_at": "2024-09-07T21:30:45.000Z",
+      "edit_history_tweet_ids": [
+        "1832531980954825207"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Multi-turn human jailbreaks expose vulnerabilities in current LLM defenses, achieving over 70% attack success rates.",
+            "display_url": "scale.com/research/mhj",
+            "end": 59,
+            "expanded_url": "https://scale.com/research/mhj",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2111726624752521217/4d0Ueh9C?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2111726624752521217/4d0Ueh9C?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 36,
+            "status": 200,
+            "title": "LLM Defenses vs. Multi-Turn Human Jailbreaks",
+            "unwound_url": "https://labs.scale.com/papers/mhj",
+            "url": "https://t.co/R9irLpA2Q1"
+          }
+        ]
+      },
+      "id": "1832531980954825207",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 8373,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 11,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1832531978530492717",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Here’s the full paper and results:\n\nhttps://t.co/R9irLpA2Q1",
+      "url": "https://x.com/alexandr_wang/status/1832531980954825207"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1832531978530492717",
+      "created_at": "2024-09-07T21:30:45.000Z",
+      "edit_history_tweet_ids": [
+        "1832531978530492717"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/natliml/status…",
+            "end": 265,
+            "expanded_url": "https://twitter.com/natliml/status/1828476257186783674",
+            "start": 242,
+            "url": "https://t.co/PNHqauZE6d"
+          }
+        ]
+      },
+      "id": "1832531978530492717",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 20559,
+        "like_count": 56,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1828476257186783674",
+          "type": "quoted"
+        }
+      ],
+      "text": "ICYMI: New research from SEAL that demonstrates human red-teamers massively outperform automated methods over multiple turns.\n\nWe also release MHJ, a dataset of multi-turn jailbreaks to help enable further research into multiturn red teaming https://t.co/PNHqauZE6d",
+      "url": "https://x.com/alexandr_wang/status/1832531978530492717"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1832147698973044737"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1832147956562284987",
+      "created_at": "2024-09-06T20:04:47.000Z",
+      "edit_history_tweet_ids": [
+        "1832147710256017900",
+        "1832147956562284987"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Erk805wgZm",
+            "end": 300,
+            "expanded_url": "https://x.com/alexandr_wang/status/1832147956562284987/photo/1",
+            "media_key": "3_1832147698973044737",
+            "start": 277,
+            "url": "https://t.co/Erk805wgZm"
+          },
+          {
+            "display_url": "x.com/hughbzhang/sta…",
+            "end": 324,
+            "expanded_url": "https://twitter.com/hughbzhang/status/1832079839840575705",
+            "start": 301,
+            "url": "https://t.co/HXiNLATpVr"
+          }
+        ]
+      },
+      "id": "1832147956562284987",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 68,
+        "impression_count": 61736,
+        "like_count": 198,
+        "quote_count": 4,
+        "reply_count": 10,
+        "retweet_count": 25
+      },
+      "referenced_tweets": [
+        {
+          "id": "1832079839840575705",
+          "type": "quoted"
+        }
+      ],
+      "text": "New SOTA test-time compute result from Scale SEAL⚡️\n\nWe are releasing a new SOTA test-time compute method called PlanSearch.\n\nIt meaningfully outperforms existing approaches on LiveCodeBench via a new diversity-based search method\n\nSee more about our SEAL open research below: https://t.co/Erk805wgZm https://t.co/HXiNLATpVr",
+      "url": "https://x.com/alexandr_wang/status/1832147956562284987"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1832147698973044737"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1832147710256017900",
+      "created_at": "2024-09-06T20:03:48.000Z",
+      "edit_history_tweet_ids": [
+        "1832147710256017900",
+        "1832147956562284987"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/4npalTs1Y0",
+            "end": 289,
+            "expanded_url": "https://x.com/alexandr_wang/status/1832147710256017900/photo/1",
+            "media_key": "3_1832147698973044737",
+            "start": 266,
+            "url": "https://t.co/4npalTs1Y0"
+          },
+          {
+            "display_url": "x.com/hughbzhang/sta…",
+            "end": 313,
+            "expanded_url": "https://twitter.com/hughbzhang/status/1832079839840575705",
+            "start": 290,
+            "url": "https://t.co/HXiNLATpVr"
+          }
+        ]
+      },
+      "id": "1832147710256017900",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 858,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1832079839840575705",
+          "type": "quoted"
+        }
+      ],
+      "text": "New research result from Scale SEAL⚡️\n\nWe are releasing a new SOTA test-time compute method called PlanSearch.\n\nIt meaningfully outperforms existing test-time compute approaches on LiveCodeBench via a new search method.\n\nSee more about our SEAL open research below: https://t.co/4npalTs1Y0 https://t.co/HXiNLATpVr",
+      "url": "https://x.com/alexandr_wang/status/1832147710256017900"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831427506978832417",
+      "created_at": "2024-09-04T20:42:45.000Z",
+      "edit_history_tweet_ids": [
+        "1831432738601365950"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1565089861245313027",
+            "start": 0,
+            "username": "iruletheworldmo"
+          },
+          {
+            "end": 31,
+            "id": "1617841388745363459",
+            "start": 17,
+            "username": "AIExplainedYT"
+          }
+        ]
+      },
+      "id": "1831432738601365950",
+      "in_reply_to_user_id": "1565089861245313027",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4139,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831427506978832417",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@iruletheworldmo @AIExplainedYT 🫡",
+      "url": "https://x.com/alexandr_wang/status/1831432738601365950"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831421277313393000",
+      "created_at": "2024-09-04T20:01:02.000Z",
+      "edit_history_tweet_ids": [
+        "1831422238811455707"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "939254989070802944",
+            "start": 0,
+            "username": "wgussml"
+          }
+        ]
+      },
+      "id": "1831422238811455707",
+      "in_reply_to_user_id": "939254989070802944",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 810,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831421277313393000",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wgussml 🫡",
+      "url": "https://x.com/alexandr_wang/status/1831422238811455707"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:54.000Z",
+      "edit_history_tweet_ids": [
+        "1831406351555424338"
+      ],
+      "id": "1831406351555424338",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7598,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406350360048057",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Expect more updates, including the addition of Grok 2, in the coming weeks!",
+      "url": "https://x.com/alexandr_wang/status/1831406351555424338"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:54.000Z",
+      "edit_history_tweet_ids": [
+        "1831406350360048057"
+      ],
+      "id": "1831406350360048057",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7947,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406348363513918",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Given that our Math leaderboard (GSM1K) is now relatively saturated (most models score &gt;90), we are working on producing a new Math benchmark to properly discern between models.",
+      "url": "https://x.com/alexandr_wang/status/1831406350360048057"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1831405923019190273"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:53.000Z",
+      "edit_history_tweet_ids": [
+        "1831406348363513918"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/ESPLvXQVPD",
+            "end": 302,
+            "expanded_url": "https://x.com/alexandr_wang/status/1831406348363513918/photo/1",
+            "media_key": "3_1831405923019190273",
+            "start": 279,
+            "url": "https://t.co/ESPLvXQVPD"
+          }
+        ]
+      },
+      "id": "1831406348363513918",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "MULTILINGUAL (SPANISH)\n\nLastly, one interesting pattern we noticed is that every model seemed to perform worse at Instruction Following (Main Request fulfillment and Constraint fulfillment) in Spanish versus English.\n\nThis implies there's still meaningful headroom for models to improve on multilingual capabilities."
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3304,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406345922474067",
+          "type": "replied_to"
+        }
+      ],
+      "text": "MULTILINGUAL (SPANISH)\n\nLastly, one interesting pattern we noticed is that every model seemed to perform worse at Instruction Following (Main Request fulfillment and Constraint fulfillment) in Spanish versus English.\n\nThis implies there's still meaningful headroom for models to https://t.co/ESPLvXQVPD",
+      "url": "https://x.com/alexandr_wang/status/1831406348363513918"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1831405275359612928"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:53.000Z",
+      "edit_history_tweet_ids": [
+        "1831406345922474067"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/nHnsq74sH3",
+            "end": 293,
+            "expanded_url": "https://x.com/alexandr_wang/status/1831406345922474067/photo/1",
+            "media_key": "3_1831405275359612928",
+            "start": 270,
+            "url": "https://t.co/nHnsq74sH3"
+          }
+        ]
+      },
+      "id": "1831406345922474067",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "INSTRUCTION FOLLOWING:\n\nClaude 3.5 Sonnet and Llama 4.1 405B Instruct stand out as models with BOTH:\n\n- very high (>0.9) Main Request fulfillment\n- very high (>0.7) Constraint fulfillment\n\nAlso, all Claude models take a hit for Structural Clarity in writing style"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3002,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406342894186819",
+          "type": "replied_to"
+        }
+      ],
+      "text": "INSTRUCTION FOLLOWING:\n\nClaude 3.5 Sonnet and Llama 4.1 405B Instruct stand out as models with BOTH:\n\n- very high (&gt;0.9) Main Request fulfillment\n- very high (&gt;0.7) Constraint fulfillment\n\nAlso, all Claude models take a hit for Structural Clarity in writing style https://t.co/nHnsq74sH3",
+      "url": "https://x.com/alexandr_wang/status/1831406345922474067"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1831404897247399936"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:52.000Z",
+      "edit_history_tweet_ids": [
+        "1831406342894186819"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/IElsJTikyM",
+            "end": 283,
+            "expanded_url": "https://x.com/alexandr_wang/status/1831406342894186819/photo/1",
+            "media_key": "3_1831404897247399936",
+            "start": 260,
+            "url": "https://t.co/IElsJTikyM"
+          }
+        ]
+      },
+      "id": "1831406342894186819",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "INSTRUCTION FOLLOWING (FACTUALITY):\n\nWe find that GPT-4 Turbo is still the most factual model among all of the models we've evaluated.\n\nWith the trend towards smaller, distilled models, we notice that it seems to come at the cost of performance on factuality."
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3027,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406340419547436",
+          "type": "replied_to"
+        }
+      ],
+      "text": "INSTRUCTION FOLLOWING (FACTUALITY):\n\nWe find that GPT-4 Turbo is still the most factual model among all of the models we've evaluated.\n\nWith the trend towards smaller, distilled models, we notice that it seems to come at the cost of performance on factuality. https://t.co/IElsJTikyM",
+      "url": "https://x.com/alexandr_wang/status/1831406342894186819"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1831404318475612164"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:52.000Z",
+      "edit_history_tweet_ids": [
+        "1831406340419547436"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/UlP2e70OEv",
+            "end": 207,
+            "expanded_url": "https://x.com/alexandr_wang/status/1831406340419547436/photo/1",
+            "media_key": "3_1831404318475612164",
+            "start": 184,
+            "url": "https://t.co/UlP2e70OEv"
+          }
+        ]
+      },
+      "id": "1831406340419547436",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Some insights from the leaderboards:\n\nCODING\n\nWe notice that GPT-4o (August 2024) performs the best on Code Correctness among all the models, but Claude outdoes it on Prompt Adherence"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3326,
+        "like_count": 24,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406338561470885",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Some insights from the leaderboards:\n\nCODING\n\nWe notice that GPT-4o (August 2024) performs the best on Code Correctness among all the models, but Claude outdoes it on Prompt Adherence https://t.co/UlP2e70OEv",
+      "url": "https://x.com/alexandr_wang/status/1831406340419547436"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:51.000Z",
+      "edit_history_tweet_ids": [
+        "1831406338561470885"
+      ],
+      "id": "1831406338561470885",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2783,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406337286402284",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Mistral Large 2 (mistral-large-2407) also improves on Mistral Large on all leaderboards, and performed quite well:\n\n- Coding (#3 behind Claude and GPT-4o)\n- Instruction Following (now #6)\n- Math (now #8)\n- Spanish (now #4 behind GPT-4o May, Gemini 1.5 Pro, and GPT-4o August)",
+      "url": "https://x.com/alexandr_wang/status/1831406338561470885"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:51.000Z",
+      "edit_history_tweet_ids": [
+        "1831406337286402284"
+      ],
+      "id": "1831406337286402284",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3123,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406336103608499",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Gemini-1.5-pro-exp-0827 ranks higher than the May model version on all leaderboards:\n\n- Instruction Following (now #3 behind Llama and Claude)\n- Coding (now #4 behind Claude, GPT-4o, and Mistral)\n- Math (now #7)",
+      "url": "https://x.com/alexandr_wang/status/1831406337286402284"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:51.000Z",
+      "edit_history_tweet_ids": [
+        "1831406336103608499"
+      ],
+      "id": "1831406336103608499",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 5355,
+        "like_count": 35,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1831406334518149220",
+          "type": "replied_to"
+        }
+      ],
+      "text": "GPT-4o-latest (gpt-4o-2024-0806) ranks above the prior GPT-4o (May 2024) on:\n\n- Math (now #2 behind Claude 3.5 Sonnet)\n- Coding (now #2 behind Claude 3.5 Sonnet)\n\nbut actually performed worse than the May model on Instruction Following (now ranked #8) and Spanish (now  ranked #3)",
+      "url": "https://x.com/alexandr_wang/status/1831406336103608499"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1831396059668733952"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1831406334518149220",
+      "created_at": "2024-09-04T18:57:50.000Z",
+      "edit_history_tweet_ids": [
+        "1831406334518149220"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/9fKWqIUvRV",
+            "end": 266,
+            "expanded_url": "https://x.com/alexandr_wang/status/1831406334518149220/photo/1",
+            "media_key": "3_1831396059668733952",
+            "start": 243,
+            "url": "https://t.co/9fKWqIUvRV"
+          }
+        ]
+      },
+      "id": "1831406334518149220",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 131,
+        "impression_count": 114301,
+        "like_count": 384,
+        "quote_count": 7,
+        "reply_count": 16,
+        "retweet_count": 54
+      },
+      "text": "SEAL Leaderboard Update🥇\n\nWe added 3 new models to the SEAL Leaderboards:\n\n- GPT-4o-latest (gpt-4o-2024-08-06)\n- Gemini 1.5 Pro (Aug 27, 2024) (gemini-1.5-pro-exp-0827)\n- Mistral Large 2 (mistral-large-2407)\n\nMore detailed results in thread 🧵 https://t.co/9fKWqIUvRV",
+      "url": "https://x.com/alexandr_wang/status/1831406334518149220"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1832921893017391104"
+          ]
+        },
+        "author_id": "1311485641847459840",
+        "conversation_id": "1832933747529834747",
+        "created_at": "2024-09-09T00:07:14.000Z",
+        "edit_history_tweet_ids": [
+          "1832933747529834747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0jWT8rDVb",
+              "end": 297,
+              "expanded_url": "https://x.com/shinboson/status/1832933747529834747/photo/1",
+              "media_key": "3_1832921893017391104",
+              "start": 274,
+              "url": "https://t.co/S0jWT8rDVb"
+            }
+          ]
+        },
+        "id": "1832933747529834747",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3213,
+          "impression_count": 1767461,
+          "like_count": 6166,
+          "quote_count": 253,
+          "reply_count": 102,
+          "retweet_count": 619
+        },
+        "text": "A story about fraud in the AI research community:\n\nOn September 5th, Matt Shumer, CEO of OthersideAI, announces to the world that they've made a breakthrough, allowing them to train a mid-size model to top-tier levels of performance. This is huge. If it's real. \n\nIt isn't. https://t.co/S0jWT8rDVb"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1832531978530492717",
+        "created_at": "2024-09-07T21:30:45.000Z",
+        "edit_history_tweet_ids": [
+          "1832531978530492717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natliml/status…",
+              "end": 265,
+              "expanded_url": "https://twitter.com/natliml/status/1828476257186783674",
+              "start": 242,
+              "url": "https://t.co/PNHqauZE6d"
+            }
+          ]
+        },
+        "id": "1832531978530492717",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 20559,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828476257186783674",
+            "type": "quoted"
+          }
+        ],
+        "text": "ICYMI: New research from SEAL that demonstrates human red-teamers massively outperform automated methods over multiple turns.\n\nWe also release MHJ, a dataset of multi-turn jailbreaks to help enable further research into multiturn red teaming https://t.co/PNHqauZE6d"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1828476201142493186"
+          ]
+        },
+        "author_id": "1612546667101945856",
+        "conversation_id": "1828476257186783674",
+        "created_at": "2024-08-27T16:54:45.000Z",
+        "edit_history_tweet_ids": [
+          "1828476257186783674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A13GVzoYey",
+              "end": 246,
+              "expanded_url": "https://x.com/natliml/status/1828476257186783674/photo/1",
+              "media_key": "3_1828476201142493186",
+              "start": 223,
+              "url": "https://t.co/A13GVzoYey"
+            }
+          ]
+        },
+        "id": "1828476257186783674",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 66553,
+          "like_count": 95,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 19
+        },
+        "text": "Who's better at LLM mischief — humans or AIs? Spoiler: It's us.\n\nHuman red teamers achieve 70%+ attack success rates against LLM defenses that stump automated adversarial attacks. Why? We’re better at adversarial yapping.🧵 https://t.co/A13GVzoYey"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1832079835541508097"
+          ]
+        },
+        "author_id": "1075466686709395457",
+        "conversation_id": "1832079839840575705",
+        "created_at": "2024-09-06T15:34:06.000Z",
+        "edit_history_tweet_ids": [
+          "1832079839840575705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzOhxV0naS",
+              "end": 299,
+              "expanded_url": "https://x.com/hughbzhang/status/1832079839840575705/photo/1",
+              "media_key": "3_1832079835541508097",
+              "start": 276,
+              "url": "https://t.co/ZzOhxV0naS"
+            }
+          ]
+        },
+        "id": "1832079839840575705",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 137155,
+          "like_count": 619,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 97
+        },
+        "text": "Enabling LLMs to reason more deeply at inference time via search is one of the most exciting directions in AI right now. We introduce PlanSearch, a novel method for code generation that searches over high-level \"plans\" in natural language as a means of encouraging diversity. https://t.co/ZzOhxV0naS"
+      },
+      {
+        "author_id": "1565089861245313027",
+        "conversation_id": "1831427506978832417",
+        "created_at": "2024-09-04T20:21:58.000Z",
+        "edit_history_tweet_ids": [
+          "1831427506978832417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1617841388745363459",
+              "start": 32,
+              "username": "AIExplainedYT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1831406334518149220",
+              "start": 47,
+              "url": "https://t.co/siZFtPmwzz"
+            }
+          ]
+        },
+        "id": "1831427506978832417",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4958,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406334518149220",
+            "type": "quoted"
+          }
+        ],
+        "text": "been waiting for this and yours @AIExplainedYT https://t.co/siZFtPmwzz"
+      },
+      {
+        "author_id": "939254989070802944",
+        "conversation_id": "1831421277313393000",
+        "created_at": "2024-09-04T19:57:13.000Z",
+        "edit_history_tweet_ids": [
+          "1831421277313393000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1831406334518149220",
+              "start": 122,
+              "url": "https://t.co/26cbrOe6QB"
+            }
+          ]
+        },
+        "id": "1831421277313393000",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4099,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406334518149220",
+            "type": "quoted"
+          }
+        ],
+        "text": "was skeptical of this leaderboard at first but it’s really nice to see things start aligning with sentiment and intuition https://t.co/26cbrOe6QB"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:54.000Z",
+        "edit_history_tweet_ids": [
+          "1831406350360048057"
+        ],
+        "id": "1831406350360048057",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7947,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406348363513918",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Given that our Math leaderboard (GSM1K) is now relatively saturated (most models score &gt;90), we are working on producing a new Math benchmark to properly discern between models."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1831405923019190273"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:53.000Z",
+        "edit_history_tweet_ids": [
+          "1831406348363513918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESPLvXQVPD",
+              "end": 302,
+              "expanded_url": "https://x.com/alexandr_wang/status/1831406348363513918/photo/1",
+              "media_key": "3_1831405923019190273",
+              "start": 279,
+              "url": "https://t.co/ESPLvXQVPD"
+            }
+          ]
+        },
+        "id": "1831406348363513918",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "MULTILINGUAL (SPANISH)\n\nLastly, one interesting pattern we noticed is that every model seemed to perform worse at Instruction Following (Main Request fulfillment and Constraint fulfillment) in Spanish versus English.\n\nThis implies there's still meaningful headroom for models to improve on multilingual capabilities."
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3304,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406345922474067",
+            "type": "replied_to"
+          }
+        ],
+        "text": "MULTILINGUAL (SPANISH)\n\nLastly, one interesting pattern we noticed is that every model seemed to perform worse at Instruction Following (Main Request fulfillment and Constraint fulfillment) in Spanish versus English.\n\nThis implies there's still meaningful headroom for models to https://t.co/ESPLvXQVPD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1831405275359612928"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:53.000Z",
+        "edit_history_tweet_ids": [
+          "1831406345922474067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHnsq74sH3",
+              "end": 293,
+              "expanded_url": "https://x.com/alexandr_wang/status/1831406345922474067/photo/1",
+              "media_key": "3_1831405275359612928",
+              "start": 270,
+              "url": "https://t.co/nHnsq74sH3"
+            }
+          ]
+        },
+        "id": "1831406345922474067",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "INSTRUCTION FOLLOWING:\n\nClaude 3.5 Sonnet and Llama 4.1 405B Instruct stand out as models with BOTH:\n\n- very high (>0.9) Main Request fulfillment\n- very high (>0.7) Constraint fulfillment\n\nAlso, all Claude models take a hit for Structural Clarity in writing style"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3002,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406342894186819",
+            "type": "replied_to"
+          }
+        ],
+        "text": "INSTRUCTION FOLLOWING:\n\nClaude 3.5 Sonnet and Llama 4.1 405B Instruct stand out as models with BOTH:\n\n- very high (&gt;0.9) Main Request fulfillment\n- very high (&gt;0.7) Constraint fulfillment\n\nAlso, all Claude models take a hit for Structural Clarity in writing style https://t.co/nHnsq74sH3"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1831404897247399936"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:52.000Z",
+        "edit_history_tweet_ids": [
+          "1831406342894186819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IElsJTikyM",
+              "end": 283,
+              "expanded_url": "https://x.com/alexandr_wang/status/1831406342894186819/photo/1",
+              "media_key": "3_1831404897247399936",
+              "start": 260,
+              "url": "https://t.co/IElsJTikyM"
+            }
+          ]
+        },
+        "id": "1831406342894186819",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "INSTRUCTION FOLLOWING (FACTUALITY):\n\nWe find that GPT-4 Turbo is still the most factual model among all of the models we've evaluated.\n\nWith the trend towards smaller, distilled models, we notice that it seems to come at the cost of performance on factuality."
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3027,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406340419547436",
+            "type": "replied_to"
+          }
+        ],
+        "text": "INSTRUCTION FOLLOWING (FACTUALITY):\n\nWe find that GPT-4 Turbo is still the most factual model among all of the models we've evaluated.\n\nWith the trend towards smaller, distilled models, we notice that it seems to come at the cost of performance on factuality. https://t.co/IElsJTikyM"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1831404318475612164"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:52.000Z",
+        "edit_history_tweet_ids": [
+          "1831406340419547436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UlP2e70OEv",
+              "end": 207,
+              "expanded_url": "https://x.com/alexandr_wang/status/1831406340419547436/photo/1",
+              "media_key": "3_1831404318475612164",
+              "start": 184,
+              "url": "https://t.co/UlP2e70OEv"
+            }
+          ]
+        },
+        "id": "1831406340419547436",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Some insights from the leaderboards:\n\nCODING\n\nWe notice that GPT-4o (August 2024) performs the best on Code Correctness among all the models, but Claude outdoes it on Prompt Adherence"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3326,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406338561470885",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Some insights from the leaderboards:\n\nCODING\n\nWe notice that GPT-4o (August 2024) performs the best on Code Correctness among all the models, but Claude outdoes it on Prompt Adherence https://t.co/UlP2e70OEv"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:51.000Z",
+        "edit_history_tweet_ids": [
+          "1831406338561470885"
+        ],
+        "id": "1831406338561470885",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2783,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406337286402284",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Mistral Large 2 (mistral-large-2407) also improves on Mistral Large on all leaderboards, and performed quite well:\n\n- Coding (#3 behind Claude and GPT-4o)\n- Instruction Following (now #6)\n- Math (now #8)\n- Spanish (now #4 behind GPT-4o May, Gemini 1.5 Pro, and GPT-4o August)"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:51.000Z",
+        "edit_history_tweet_ids": [
+          "1831406337286402284"
+        ],
+        "id": "1831406337286402284",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3123,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406336103608499",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Gemini-1.5-pro-exp-0827 ranks higher than the May model version on all leaderboards:\n\n- Instruction Following (now #3 behind Llama and Claude)\n- Coding (now #4 behind Claude, GPT-4o, and Mistral)\n- Math (now #7)"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:51.000Z",
+        "edit_history_tweet_ids": [
+          "1831406336103608499"
+        ],
+        "id": "1831406336103608499",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5355,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831406334518149220",
+            "type": "replied_to"
+          }
+        ],
+        "text": "GPT-4o-latest (gpt-4o-2024-0806) ranks above the prior GPT-4o (May 2024) on:\n\n- Math (now #2 behind Claude 3.5 Sonnet)\n- Coding (now #2 behind Claude 3.5 Sonnet)\n\nbut actually performed worse than the May model on Instruction Following (now ranked #8) and Spanish (now  ranked #3)"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1831396059668733952"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1831406334518149220",
+        "created_at": "2024-09-04T18:57:50.000Z",
+        "edit_history_tweet_ids": [
+          "1831406334518149220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fKWqIUvRV",
+              "end": 266,
+              "expanded_url": "https://x.com/alexandr_wang/status/1831406334518149220/photo/1",
+              "media_key": "3_1831396059668733952",
+              "start": 243,
+              "url": "https://t.co/9fKWqIUvRV"
+            }
+          ]
+        },
+        "id": "1831406334518149220",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 114301,
+          "like_count": 384,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 54
+        },
+        "text": "SEAL Leaderboard Update🥇\n\nWe added 3 new models to the SEAL Leaderboards:\n\n- GPT-4o-latest (gpt-4o-2024-08-06)\n- Gemini 1.5 Pro (Aug 27, 2024) (gemini-1.5-pro-exp-0827)\n- Mistral Large 2 (mistral-large-2407)\n\nMore detailed results in thread 🧵 https://t.co/9fKWqIUvRV"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1565089861245313027",
+        "name": "🍓🍓🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048580995302174720/jWUrx_47_normal.jpg",
+        "username": "iruletheworldmo",
+        "verified": false
+      },
+      {
+        "id": "939254989070802944",
+        "name": "william",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608252829919215616/txXlGKw-_normal.jpg",
+        "username": "wgussml",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1832980825643888919",
+    "next_token": "b26v89c19zqg8o3frqurz1zoc6bjxbsznvp8uakhwkb5p",
+    "oldest_id": "1831406334518149220",
+    "result_count": 17
+  },
+  "errors": []
+}

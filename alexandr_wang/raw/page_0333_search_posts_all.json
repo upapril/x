@@ -1,0 +1,523 @@
+{
+  "collected_at_utc": "2026-11-26T01:22:02Z",
+  "collected_at_shanghai": "2026-11-26T09:22:02+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ3J6N7PPKVNANQAB11X2F.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-06-01T00:00:00Z",
+    "end_time": "2026-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2026-06"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2071699471512318359",
+      "created_at": "2026-06-29T20:56:58.000Z",
+      "edit_history_tweet_ids": [
+        "2071699471512318359"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "122166395",
+            "start": 3,
+            "username": "JeanRemiKing"
+          },
+          {
+            "end": 108,
+            "id": "1080753187",
+            "start": 96,
+            "username": "NatureNeuro"
+          }
+        ]
+      },
+      "id": "2071699471512318359",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2926,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 416
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071568417522369008",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @JeanRemiKing: We’re happy to announce 2 releases today: \n- 🧠Brain2qwerty v1 is published at @NatureNeuro \n- 🚀 Brain2Qwerty v2 is now pu…",
+      "url": "https://x.com/alexandr_wang/status/2071699471512318359"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2071617674946179264",
+      "created_at": "2026-06-29T15:31:57.000Z",
+      "edit_history_tweet_ids": [
+        "2071617674946179264"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/AIatMeta/statu…",
+            "end": 115,
+            "expanded_url": "https://twitter.com/AIatMeta/status/2071566924803395741",
+            "start": 92,
+            "url": "https://t.co/wSPcNanPQC"
+          }
+        ]
+      },
+      "id": "2071617674946179264",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 384,
+        "impression_count": 285720,
+        "like_count": 2227,
+        "quote_count": 15,
+        "reply_count": 93,
+        "retweet_count": 124
+      },
+      "referenced_tweets": [
+        {
+          "id": "2071566924803395741",
+          "type": "quoted"
+        }
+      ],
+      "text": "some exciting new work from our AI teams at Meta on non-invasive brain computer interfaces! https://t.co/wSPcNanPQC",
+      "url": "https://x.com/alexandr_wang/status/2071617674946179264"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2064756341307007230",
+      "created_at": "2026-06-10T22:56:53.000Z",
+      "edit_history_tweet_ids": [
+        "2064844277902156236"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "27689340",
+            "start": 0,
+            "username": "sharongoldman"
+          },
+          {
+            "end": 31,
+            "id": "25053299",
+            "start": 15,
+            "username": "FortuneMagazine"
+          },
+          {
+            "end": 44,
+            "id": "60642052",
+            "start": 32,
+            "username": "VentureBeat"
+          },
+          {
+            "end": 57,
+            "id": "146394413",
+            "start": 45,
+            "username": "jeremyakahn"
+          }
+        ]
+      },
+      "id": "2064844277902156236",
+      "in_reply_to_user_id": "27689340",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4607,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2064756341307007230",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sharongoldman @FortuneMagazine @VentureBeat @jeremyakahn Good luck and congrats!",
+      "url": "https://x.com/alexandr_wang/status/2064844277902156236"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2064451277233508695",
+      "created_at": "2026-06-09T20:55:14.000Z",
+      "edit_history_tweet_ids": [
+        "2064451277233508695"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/_simonsmith/st…",
+            "end": 70,
+            "expanded_url": "https://twitter.com/_simonsmith/status/2064366553181626374",
+            "start": 47,
+            "url": "https://t.co/biPKNPNIKe"
+          }
+        ]
+      },
+      "id": "2064451277233508695",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 84272,
+        "like_count": 277,
+        "quote_count": 5,
+        "reply_count": 47,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2064366553181626374",
+          "type": "quoted"
+        }
+      ],
+      "text": "try out the new voice AI in the meta ray-bans! https://t.co/biPKNPNIKe",
+      "url": "https://x.com/alexandr_wang/status/2064451277233508695"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2071567975446949888"
+          ]
+        },
+        "author_id": "122166395",
+        "conversation_id": "2071568417522369008",
+        "created_at": "2026-06-29T12:16:13.000Z",
+        "edit_history_tweet_ids": [
+          "2071568417522369008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "1080753187",
+              "start": 78,
+              "username": "NatureNeuro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A non-invasive brain-computer interface that decodes typed sentences from magnetoencephalography (MEG). Work by Meta AI in collaboration with BCBL.",
+              "display_url": "facebookresearch.github.io/brain2qwerty/",
+              "end": 229,
+              "expanded_url": "https://facebookresearch.github.io/brain2qwerty/",
+              "images": [
+                {
+                  "height": 246,
+                  "url": "https://pbs.twimg.com/news_img/2111385030056407040/eyTVMr4f?format=jpg&name=orig",
+                  "width": 970
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2111385030056407040/eyTVMr4f?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 206,
+              "status": 200,
+              "title": "Brain2Qwerty — Decoding typed sentences from non-invasive brain activity",
+              "unwound_url": "https://facebookresearch.github.io/brain2qwerty/",
+              "url": "https://t.co/NFhDVMQoeR"
+            },
+            {
+              "display_url": "pic.x.com/ZSumQLdEDh",
+              "end": 279,
+              "expanded_url": "https://x.com/JeanRemiKing/status/2071568417522369008/video/1",
+              "media_key": "13_2071567975446949888",
+              "start": 256,
+              "url": "https://t.co/ZSumQLdEDh"
+            },
+            {
+              "display_url": "x.com/JarodLevy/stat…",
+              "end": 303,
+              "expanded_url": "https://x.com/JarodLevy/status/2071566721110970528",
+              "start": 280,
+              "url": "https://t.co/d8FJrVyDut"
+            }
+          ]
+        },
+        "id": "2071568417522369008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 90,
+                "id": "1080753187",
+                "start": 78,
+                "username": "NatureNeuro"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "facebookresearch.github.io/brain2qwerty/",
+                "end": 229,
+                "expanded_url": "https://facebookresearch.github.io/brain2qwerty/",
+                "start": 206,
+                "url": "https://t.co/IdR6gK2hcd"
+              },
+              {
+                "display_url": "nature.com/articles/s4159…",
+                "end": 279,
+                "expanded_url": "https://www.nature.com/articles/s41593-026-02303-2",
+                "start": 256,
+                "url": "https://t.co/wnRjc9W9gI"
+              },
+              {
+                "display_url": "facebookresearch.github.io/brain2qwerty/a…",
+                "end": 323,
+                "expanded_url": "https://facebookresearch.github.io/brain2qwerty/assets/brain2qwerty_v2.pdf",
+                "start": 300,
+                "url": "https://t.co/oSfLOQFcvg"
+              },
+              {
+                "display_url": "github.com/facebookresear…",
+                "end": 355,
+                "expanded_url": "https://github.com/facebookresearch/brain2qwerty",
+                "start": 332,
+                "url": "https://t.co/Xbe0XWfWQL"
+              },
+              {
+                "display_url": "huggingface.co/datasets/bcbl1…",
+                "end": 386,
+                "expanded_url": "https://huggingface.co/datasets/bcbl190626/SpanishBCBL",
+                "start": 363,
+                "url": "https://t.co/SCBbs4AhTg"
+              },
+              {
+                "display_url": "ai.meta.com/blog/brain2qwe…",
+                "end": 417,
+                "expanded_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+                "start": 394,
+                "url": "https://t.co/15RvsAaXlH"
+              },
+              {
+                "display_url": "x.com/JarodLevy/stat…",
+                "end": 451,
+                "expanded_url": "https://x.com/JarodLevy/status/2071566721110970528",
+                "start": 428,
+                "url": "https://t.co/d8FJrVyDut"
+              }
+            ]
+          },
+          "text": "We’re happy to announce 2 releases today: \n- 🧠Brain2qwerty v1 is published at @NatureNeuro \n- 🚀 Brain2Qwerty v2 is now publicly released\n\nExplore how we decode sentences from non-invasive brain recordings: https://t.co/IdR6gK2hcd\n\nLinks:\n📄v1 Nature Neuro: https://t.co/wnRjc9W9gI \n📑v2 Meta preprint: https://t.co/oSfLOQFcvg \n💻Code: https://t.co/Xbe0XWfWQL\n📊Data: https://t.co/SCBbs4AhTg\n📝Blog: https://t.co/15RvsAaXlH\n🧵Thread:  https://t.co/d8FJrVyDut"
+        },
+        "public_metrics": {
+          "bookmark_count": 1824,
+          "impression_count": 439865,
+          "like_count": 2930,
+          "quote_count": 68,
+          "reply_count": 94,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071566721110970528",
+            "type": "quoted"
+          }
+        ],
+        "text": "We’re happy to announce 2 releases today: \n- 🧠Brain2qwerty v1 is published at @NatureNeuro \n- 🚀 Brain2Qwerty v2 is now publicly released\n\nExplore how we decode sentences from non-invasive brain recordings: https://t.co/NFhDVMQoeR\n\nLinks:\n📄v1 Nature Neuro: https://t.co/ZSumQLdEDh https://t.co/d8FJrVyDut"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_2071565272277004288"
+          ]
+        },
+        "author_id": "1034844617261248512",
+        "conversation_id": "2071566924803395741",
+        "created_at": "2026-06-29T12:10:17.000Z",
+        "edit_history_tweet_ids": [
+          "2071566924803395741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 161,
+              "id": "15862891",
+              "start": 154,
+              "username": "Nature"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJ8qrrgTaF",
+              "end": 302,
+              "expanded_url": "https://x.com/AIatMeta/status/2071566924803395741/photo/1",
+              "media_key": "16_2071565272277004288",
+              "start": 279,
+              "url": "https://t.co/qJ8qrrgTaF"
+            }
+          ]
+        },
+        "id": "2071566924803395741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 161,
+                "id": "15862891",
+                "start": 154,
+                "username": "Nature"
+              }
+            ]
+          },
+          "text": "We’re sharing the next major milestone in our non-invasive brain-to-text decoder research: Brain2Qwerty v2.\n\nBuilding on v1, which was published today in @Nature, Brain2Qwerty v2 is the highest-performing end-to-end pipeline capable of real-time sentence decoding from raw brain signals. It advances beyond character-level performance to decoding words and semantics, enabling accuracy for overall communication.\n\nWe believe this research has the potential to make a real difference for the millions of people who suffer from brain lesions or disorders that prevent them from communicating.\n\n🧵👇"
+        },
+        "public_metrics": {
+          "bookmark_count": 6668,
+          "impression_count": 6024423,
+          "like_count": 13966,
+          "quote_count": 1376,
+          "reply_count": 657,
+          "retweet_count": 2037
+        },
+        "text": "We’re sharing the next major milestone in our non-invasive brain-to-text decoder research: Brain2Qwerty v2.\n\nBuilding on v1, which was published today in @Nature, Brain2Qwerty v2 is the highest-performing end-to-end pipeline capable of real-time sentence decoding from raw brain https://t.co/qJ8qrrgTaF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2064752499647565824"
+          ]
+        },
+        "author_id": "27689340",
+        "conversation_id": "2064756341307007230",
+        "created_at": "2026-06-10T17:07:27.000Z",
+        "edit_history_tweet_ids": [
+          "2064753075135373628",
+          "2064756341307007230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "25053299",
+              "start": 24,
+              "username": "FortuneMagazine"
+            },
+            {
+              "end": 150,
+              "id": "60642052",
+              "start": 138,
+              "username": "VentureBeat"
+            },
+            {
+              "end": 275,
+              "id": "146394413",
+              "start": 263,
+              "username": "jeremyakahn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0vRBC2BpQ",
+              "end": 299,
+              "expanded_url": "https://x.com/sharongoldman/status/2064756341307007230/photo/1",
+              "media_key": "3_2064752499647565824",
+              "start": 276,
+              "url": "https://t.co/d0vRBC2BpQ"
+            }
+          ]
+        },
+        "id": "2064756341307007230",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 40,
+                "id": "25053299",
+                "start": 24,
+                "username": "FortuneMagazine"
+              },
+              {
+                "end": 150,
+                "id": "60642052",
+                "start": 138,
+                "username": "VentureBeat"
+              },
+              {
+                "end": 275,
+                "id": "146394413",
+                "start": 263,
+                "username": "jeremyakahn"
+              },
+              {
+                "end": 729,
+                "id": "615818451",
+                "start": 715,
+                "username": "alexandr_wang"
+              }
+            ]
+          },
+          "text": "Today is my last day at @FortuneMagazine. Honestly, I'm feeling quite verklempt (look it up! 🥹).\n\nWhen I started covering AI full time at @VentureBeat in April 2022, \"generative AI\" wasn't even a thing yet. What a roller coaster ride it's been ever since! \n\nWhen @jeremyakahn brought me on as the second member of his AI team in March 2024 after being solo for years, I was so honored. He has been a steadfast support and champion every step of the way, as well as a brilliant editor who chatted me from across the pond at all hours. \n\nI'm so proud of the work I did at Fortune — reporting on everything from frontier AI Labs to hyperscalers to AI data centers to policymakers, landing my first cover story (thanks @alexandr_wang!) and working alongside an incredible team of writers, editors and video, social and events talent. \n\nBut I've always been drawn to building things — starting with the family newspaper I launched at age 11. I think the time is right to build again. I'm launching next week, so stay tuned. \n\nThe AI story is only getting bigger. I'm not getting off that train — just hopping onto another track!🚆"
+        },
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18947,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "text": "Today is my last day at @FortuneMagazine. Honestly, I'm feeling quite verklempt (look it up! 🥹).\n\nWhen I started covering AI full time at @VentureBeat in April 2022, \"generative AI\" wasn't even a thing yet. What a roller coaster ride it's been ever since! \n\nWhen @jeremyakahn https://t.co/d0vRBC2BpQ"
+      },
+      {
+        "author_id": "1693585632965148672",
+        "conversation_id": "2064366553181626374",
+        "created_at": "2026-06-09T15:18:35.000Z",
+        "edit_history_tweet_ids": [
+          "2064366553181626374"
+        ],
+        "id": "2064366553181626374",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 71233,
+          "like_count": 59,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "text": "Meta AI in the Ray-Bans has gotten very good. Walk down the street, ask a question about something you’re looking at, discuss it. Voice is natural and fast, and isn’t interrupted by environmental sounds. Phone stays in your pocket. Feels freeing and a direction AI will take."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "27689340",
+        "name": "Sharon Goldman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066854291646578688/xtj0jUt5_normal.jpg",
+        "username": "sharongoldman",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2071699471512318359",
+    "next_token": "b26v89c19zqg8o3jueqhskg3vwlhyyenpygtoikbni6il",
+    "oldest_id": "2064451277233508695",
+    "result_count": 4
+  },
+  "errors": []
+}

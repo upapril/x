@@ -1,0 +1,15 @@
+{
+  "written_at_shanghai": "2026-11-26T09:50:36.138136+08:00",
+  "packaging_status": "day3_package_complete",
+  "full_zip": "/workspace/x-research-day3-final.zip",
+  "parts": [
+    "/workspace/x-research-day3-final-part01.zip",
+    "/workspace/x-research-day3-final-part02.zip"
+  ],
+  "artifacts": "/workspace/x-research-day3-final.artifacts.json",
+  "note": "Sizes and SHA256 are recorded in the artifacts JSON (outside this tree) so this job-state file can be frozen into the package.",
+  "validation": "logs/day3_package_validation.json",
+  "collection_stopped_until": "2026-11-27 08:00 Asia/Shanghai",
+  "daily_remaining": 75,
+  "usable_to_reserve": 0
+}

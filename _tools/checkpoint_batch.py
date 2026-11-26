@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 ASSETS = Path("/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/")
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path("/workspace/x-research")
 JOBS = ROOT / "logs" / "expand_jobs.json"
 RESUME = ROOT / "logs" / "RESUME_OPEN_JOBS.json"
 BUDGET = ROOT / "logs" / "live_budget.json"
@@ -18,8 +18,8 @@ STALL_FIXED = [
     {"handle":"iiiinvest","label":"2026-08","token":"b26v89c19zqg8o3juezgp0sqjwdnag097te7ltdd0hzlp"},
     {"handle":"iiiinvest","label":"2026-08","token":"b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp"},
 ]
-PACKAGED = 15370
-BASE_CALLS_BEFORE_DATA_CHUNK = 892  # expand_jobs calls_this_pass at start of data-only work ~490
+PACKAGED = 34913  # immutable day2-final unique total
+BASE_CALLS_BEFORE_DATA_CHUNK = 1816  # expand_jobs calls_this_pass at day2 reserve close; day3 chunk starts at 0
 
 def main():
     ap = argparse.ArgumentParser()
@@ -121,12 +121,12 @@ def main():
     ckpt = {
         "written_at_shanghai": now_sh,
         "written_at_utc": datetime.now(timezone.utc).isoformat(),
-        "pass": "data-collection-day2-2026-11-25",
+        "pass": "data-collection-day3-2026-11-26",
         "stop_reason": "in_progress",
         "authoritative_footer": last,
         "daily_remaining": daily,
         "daily_reset_utc": reset,
-        "daily_reset_shanghai": "2026-11-26 08:00:00 GMT+8",
+        "daily_reset_shanghai": "2026-11-27 08:00:00 GMT+8",
         "reserve": 75,
         "usable": usable,
         "budget_malfunction": False,

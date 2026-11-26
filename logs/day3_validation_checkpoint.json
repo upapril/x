@@ -1,0 +1,70 @@
+{
+  "written_at_shanghai": "2026-11-26T09:31:58.850118+08:00",
+  "accounts": {
+    "silverfang88": {
+      "count": 19848,
+      "unique_ids": 19848,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "control_char_lines": 0,
+      "sha256": "44fe83a1120d34780b1ae9a88b712e70c3ad5bcf8bd1bf81e77dc14bf4fead02",
+      "at_least_day2_count": true,
+      "day2_count": 12862,
+      "added_vs_day2": 6986
+    },
+    "iiiinvest": {
+      "count": 4850,
+      "unique_ids": 4850,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "control_char_lines": 0,
+      "sha256": "63d46ce9d4fea50ccf588741d205c9a49e3b2968256b94ea9d582a0b58e01a77",
+      "at_least_day2_count": true,
+      "day2_count": 4712,
+      "added_vs_day2": 138
+    },
+    "alexandr_wang": {
+      "count": 3625,
+      "unique_ids": 3625,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "control_char_lines": 0,
+      "sha256": "ff3e0cf3e4559cc9b87255a5daca69dab9d24056aeae49af72ac4873cdc0e502",
+      "at_least_day2_count": true,
+      "day2_count": 1921,
+      "added_vs_day2": 1704
+    },
+    "taresky": {
+      "count": 17532,
+      "unique_ids": 17532,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "control_char_lines": 0,
+      "sha256": "9323dd109b3327a52abd9dc669d1457bac715f029556eafba012324e1faa8236",
+      "at_least_day2_count": true,
+      "day2_count": 8551,
+      "added_vs_day2": 8981
+    },
+    "thankUcrypto": {
+      "count": 7851,
+      "unique_ids": 7851,
+      "duplicate_ids": 0,
+      "nonstring_ids": 0,
+      "author_mismatches": 0,
+      "control_char_lines": 0,
+      "sha256": "ef4c7a6d51ea3da4e7126774c1d4f4955fcfe18a88f53c3f96e859fcc86734ac",
+      "at_least_day2_count": true,
+      "day2_count": 6867,
+      "added_vs_day2": 984
+    }
+  },
+  "corrections_audit": "logs/day2_literal_corrections.json",
+  "total": 53706,
+  "pass": true,
+  "stop_reason": "reserve_reached",
+  "note": "Fast checkpoint validation at reserve close: JSONL parse, unique string IDs, author attribution, day2 counts retained. Full raw-text/provenance audit deferred to reserve packaging in a follow-up turn."
+}

@@ -1,0 +1,146 @@
+{
+  "collected_at_utc": "2026-11-26T00:32:26Z",
+  "collected_at_shanghai": "2026-11-26T08:32:26+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AM8NSHVYTJK54H3ZQ4V0WR.txt",
+  "request": {
+    "query": "from:silverfang88",
+    "start_time": "2024-10-01T00:00:00Z",
+    "end_time": "2024-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3frqxrqpi9jzp9gsec6gehnu33k2t8d",
+    "window_label": "2024-10"
+  },
+  "data": [
+    {
+      "author_id": "1435990322702520320",
+      "created_at": "2024-10-01T07:20:45.000Z",
+      "edit_history_tweet_ids": [
+        "1841015380996755724"
+      ],
+      "id": "1841015380996755724",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2448,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "会有越来越多这样的交代盘出来的",
+      "url": "https://x.com/silverfang88/status/1841015380996755724"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "created_at": "2024-10-01T07:16:22.000Z",
+      "edit_history_tweet_ids": [
+        "1841014275030024670"
+      ],
+      "id": "1841014275030024670",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2831,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "社区不少投了的 \n还有老哥投了几十万U\n这些钱也都没了 https://t.co/0ZNIiHNgJu",
+      "url": "https://x.com/silverfang88/status/1841014275030024670"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "created_at": "2024-10-01T07:14:52.000Z",
+      "edit_history_tweet_ids": [
+        "1841013843327086655",
+        "1841013899543364063"
+      ],
+      "id": "1841013899543364063",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 41404,
+        "like_count": 17,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1840979956811383103",
+          "type": "quoted"
+        }
+      ],
+      "text": "说过了 这个团队中国人做的\n已经软跑路了 钱也拿走了\n前几个月让国内的朋友报案抓人\n好像没抓到 也没执行力\n现在结束了 https://t.co/kFgvmB16vg",
+      "url": "https://x.com/silverfang88/status/1841013899543364063"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "created_at": "2024-10-01T07:14:39.000Z",
+      "edit_history_tweet_ids": [
+        "1841013843327086655",
+        "1841013899543364063"
+      ],
+      "id": "1841013843327086655",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 214,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1840979956811383103",
+          "type": "quoted"
+        }
+      ],
+      "text": "说过了 这个团队中国人做的\n已经软跑路了 钱也拿走了\n前几个月让国内的朋友报案抓人\n现在结束了 https://t.co/kFgvmB16vg",
+      "url": "https://x.com/silverfang88/status/1841013843327086655"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1497913311396085760",
+        "created_at": "2024-10-01T05:00:00.000Z",
+        "edit_history_tweet_ids": [
+          "1840979956811383103"
+        ],
+        "id": "1840979956811383103",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43870,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840825370070982701",
+            "type": "quoted"
+          }
+        ],
+        "text": "融了六百五十万美金，加一万美金的流动性，明摆着恶心人 https://t.co/maSHErMeku"
+      }
+    ],
+    "users": [
+      {
+        "id": "1435990322702520320",
+        "name": "子时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111376053289594881/HJoHb6MH_normal.jpg",
+        "username": "silverfang88",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1841015380996755724",
+    "next_token": "b26v89c19zqg8o3frqxrqpi9gyvw2ha9bh15l9ew2oby5",
+    "oldest_id": "1841013843327086655",
+    "result_count": 4
+  },
+  "errors": []
+}

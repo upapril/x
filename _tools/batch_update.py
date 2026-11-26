@@ -8,7 +8,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from ingest_page import ingest
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path("/workspace/x-research")
 ASSETS = Path("/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/")
 jobs_path = ROOT / "logs" / "expand_jobs.json"
 

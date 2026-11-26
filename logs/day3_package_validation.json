@@ -1,0 +1,237 @@
+{
+  "written_at_shanghai": "2026-11-26T09:39:36.476537+08:00",
+  "pass_name": "day3-full-raw-text-provenance-audit",
+  "fast_checks": {
+    "unique_total": 53706,
+    "per_account": {
+      "alexandr_wang": {
+        "unique": 3625,
+        "rows": 3625,
+        "author_ok": 3625,
+        "author_bad": 0,
+        "day2_count": 1921,
+        "day2_ids_in_zip": 1921,
+        "day2_ids_retained": 1921,
+        "day2_ids_missing": 0,
+        "missing_day2_sample": [],
+        "added_vs_day2": 1704,
+        "jsonl_sha256": "ff3e0cf3e4559cc9b87255a5daca69dab9d24056aeae49af72ac4873cdc0e502"
+      },
+      "iiiinvest": {
+        "unique": 4850,
+        "rows": 4850,
+        "author_ok": 4850,
+        "author_bad": 0,
+        "day2_count": 4712,
+        "day2_ids_in_zip": 4712,
+        "day2_ids_retained": 4712,
+        "day2_ids_missing": 0,
+        "missing_day2_sample": [],
+        "added_vs_day2": 138,
+        "jsonl_sha256": "63d46ce9d4fea50ccf588741d205c9a49e3b2968256b94ea9d582a0b58e01a77"
+      },
+      "silverfang88": {
+        "unique": 19848,
+        "rows": 19848,
+        "author_ok": 19848,
+        "author_bad": 0,
+        "day2_count": 12862,
+        "day2_ids_in_zip": 12862,
+        "day2_ids_retained": 12862,
+        "day2_ids_missing": 0,
+        "missing_day2_sample": [],
+        "added_vs_day2": 6986,
+        "jsonl_sha256": "44fe83a1120d34780b1ae9a88b712e70c3ad5bcf8bd1bf81e77dc14bf4fead02"
+      },
+      "taresky": {
+        "unique": 17532,
+        "rows": 17532,
+        "author_ok": 17532,
+        "author_bad": 0,
+        "day2_count": 8551,
+        "day2_ids_in_zip": 8551,
+        "day2_ids_retained": 8551,
+        "day2_ids_missing": 0,
+        "missing_day2_sample": [],
+        "added_vs_day2": 8981,
+        "jsonl_sha256": "9323dd109b3327a52abd9dc669d1457bac715f029556eafba012324e1faa8236"
+      },
+      "thankUcrypto": {
+        "unique": 7851,
+        "rows": 7851,
+        "author_ok": 7851,
+        "author_bad": 0,
+        "day2_count": 6867,
+        "day2_ids_in_zip": 6867,
+        "day2_ids_retained": 6867,
+        "day2_ids_missing": 0,
+        "missing_day2_sample": [],
+        "added_vs_day2": 984,
+        "jsonl_sha256": "ef4c7a6d51ea3da4e7126774c1d4f4955fcfe18a88f53c3f96e859fcc86734ac"
+      }
+    },
+    "global_cross_account_duplicate_ids": [],
+    "global_cross_account_duplicate_count": 0,
+    "attribution_failures_sample": [],
+    "control_char_failures": 0,
+    "control_char_sample": [],
+    "empty_display_text_count": 0,
+    "expected_total": 53706,
+    "id_attribution_day2_retention_ok": true
+  },
+  "full_checks": {
+    "prior_zips_unchanged": true,
+    "missing_page_file": {
+      "count": 0,
+      "sample": []
+    },
+    "id_not_in_page": {
+      "count": 0,
+      "sample": []
+    },
+    "raw_text_mismatch": {
+      "count": 0,
+      "sample": []
+    },
+    "raw_text_and_provenance_ok": true,
+    "lite_equivalence": {
+      "ok": true,
+      "detail": {
+        "alexandr_wang": {
+          "ok": true,
+          "problems_sample": [],
+          "lite_count": 3625
+        },
+        "iiiinvest": {
+          "ok": true,
+          "problems_sample": [],
+          "lite_count": 4850
+        },
+        "silverfang88": {
+          "ok": true,
+          "problems_sample": [],
+          "lite_count": 19848
+        },
+        "taresky": {
+          "ok": true,
+          "problems_sample": [],
+          "lite_count": 17532
+        },
+        "thankUcrypto": {
+          "ok": true,
+          "problems_sample": [],
+          "lite_count": 7851
+        }
+      }
+    },
+    "archives_heading_and_literal_text": {
+      "ok": true,
+      "detail": {
+        "alexandr_wang": {
+          "ok": true,
+          "problems_sample": []
+        },
+        "iiiinvest": {
+          "ok": true,
+          "problems_sample": []
+        },
+        "silverfang88": {
+          "ok": true,
+          "problems_sample": []
+        },
+        "taresky": {
+          "ok": true,
+          "problems_sample": []
+        },
+        "thankUcrypto": {
+          "ok": true,
+          "problems_sample": []
+        }
+      }
+    },
+    "citation_ledger": {
+      "ok": true,
+      "checked": 70,
+      "failures": [],
+      "ledger": "/workspace/x-research/logs/day3_citation_ledger.json"
+    }
+  },
+  "inherited_corrections": {
+    "sf_2110119596435054716_has_U+2028": true,
+    "pinned_page_file_paths": {
+      "alexandr_wang:2103551714536439951": {
+        "page_file": "../_raw/pinned_posts_get_posts_by_ids.json",
+        "expected": "../_raw/pinned_posts_get_posts_by_ids.json",
+        "ok": true,
+        "file_exists": true
+      },
+      "iiiinvest:2110022220131226106": {
+        "page_file": "../_raw/pinned_posts_get_posts_by_ids.json",
+        "expected": "../_raw/pinned_posts_get_posts_by_ids.json",
+        "ok": true,
+        "file_exists": true
+      },
+      "silverfang88:2109440726865985560": {
+        "page_file": "../_raw/pinned_posts_get_posts_by_ids.json",
+        "expected": "../_raw/pinned_posts_get_posts_by_ids.json",
+        "ok": true,
+        "file_exists": true
+      }
+    },
+    "ok": true
+  },
+  "prior_zip_hashes": {
+    "/workspace/x-research-firstpass.zip": {
+      "present": true,
+      "sha256": "455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976",
+      "expected": "455936b9cb14f9e9f5f899510342c03dea127ad3b868e60da825cf9f868ec976",
+      "unchanged": true,
+      "size_bytes": 1522349
+    },
+    "/workspace/x-research-expanded.zip": {
+      "present": true,
+      "sha256": "d601957063b3610067d2dafd6cab0a6effb63e771bd642df57233b5e44fee6c7",
+      "expected": "d601957063b3610067d2dafd6cab0a6effb63e771bd642df57233b5e44fee6c7",
+      "unchanged": true,
+      "size_bytes": 7442168
+    },
+    "/workspace/x-research-latest.zip": {
+      "present": true,
+      "sha256": "1ab3fc4aaee8667c42d833543a85f86f54ff9dabe165f6305d56769aed4d8e58",
+      "expected": "1ab3fc4aaee8667c42d833543a85f86f54ff9dabe165f6305d56769aed4d8e58",
+      "unchanged": true,
+      "size_bytes": 8750359
+    },
+    "/workspace/x-research-day1-final.zip": {
+      "present": true,
+      "sha256": "537597c2d1c295f18773fb2099d751338f78a354be982b65a26aaf7367efea37",
+      "expected": "537597c2d1c295f18773fb2099d751338f78a354be982b65a26aaf7367efea37",
+      "unchanged": true,
+      "size_bytes": 14001851
+    },
+    "/workspace/x-research-day2-final.zip": {
+      "present": true,
+      "sha256": "7b4523860662a9744cc4d52df7642fee4728d6af0fa059a4a108a8fa71302e0b",
+      "expected": "7b4523860662a9744cc4d52df7642fee4728d6af0fa059a4a108a8fa71302e0b",
+      "unchanged": true,
+      "size_bytes": 31600038
+    },
+    "/workspace/x-research-day2-final-part01.zip": {
+      "present": true,
+      "sha256": "7c9c77173aa0acaddf16c715f5048c2e55b8f52685ceeb39b63a87f63febd1e3",
+      "expected": "7c9c77173aa0acaddf16c715f5048c2e55b8f52685ceeb39b63a87f63febd1e3",
+      "unchanged": true,
+      "size_bytes": 23800015
+    },
+    "/workspace/x-research-day2-final-part02.zip": {
+      "present": true,
+      "sha256": "61c135dd16dae48692414d5435f9fe59568c3d96d327e5a9c5531de2599410b2",
+      "expected": "61c135dd16dae48692414d5435f9fe59568c3d96d327e5a9c5531de2599410b2",
+      "unchanged": true,
+      "size_bytes": 7800045
+    }
+  },
+  "ok": true,
+  "errors": [],
+  "warnings": []
+}

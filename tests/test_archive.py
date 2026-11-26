@@ -16,7 +16,10 @@ PRIOR_THREE = (
     "7c43efc9646ebe174a1e5d43c669865d982909ba",
     "5e939e92cad74c649388927b7d19770641b03240",
 )
-PRIOR_FIVE = "664f9ba26af026d0f917c6e55579f498790792ce"
+PRIOR_FIVE = (
+    "664f9ba26af026d0f917c6e55579f498790792ce",
+    "e21cbe0c18d98b2d2fe460a838ed643833e086ef",
+)
 
 
 class ArchiveValidationTest(unittest.TestCase):
@@ -29,13 +32,16 @@ class ArchiveValidationTest(unittest.TestCase):
 
     def test_counts(self):
         summary = self.report["summary"]
-        self.assertEqual(summary["total_posts"], 34913)
-        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 1921)
-        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 4712)
-        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 12862)
-        self.assertEqual(summary["handles"]["taresky"]["posts"], 8551)
-        self.assertEqual(summary["handles"]["thankUcrypto"]["posts"], 6867)
-        self.assertGreater(summary["handles"]["taresky"]["pending_windows"], 0)
+        self.assertEqual(summary["total_posts"], 53706)
+        self.assertEqual(summary["handles"]["alexandr_wang"]["posts"], 3625)
+        self.assertEqual(summary["handles"]["iiiinvest"]["posts"], 4850)
+        self.assertEqual(summary["handles"]["silverfang88"]["posts"], 19848)
+        self.assertEqual(summary["handles"]["taresky"]["posts"], 17532)
+        self.assertEqual(summary["handles"]["thankUcrypto"]["posts"], 7851)
+        self.assertLess(
+            summary["handles"]["taresky"]["posts"],
+            summary["handles"]["taresky"]["profile_post_count"],
+        )
         self.assertEqual(summary["handles"]["alexandr_wang"]["profile_post_count"], 3762)
         self.assertEqual(summary["handles"]["iiiinvest"]["profile_post_count"], 4858)
         self.assertEqual(summary["handles"]["silverfang88"]["profile_post_count"], 19982)
@@ -50,7 +56,10 @@ class ArchiveValidationTest(unittest.TestCase):
         for handle in HANDLES:
             manifest = json.loads((ROOT / handle / "coverage_manifest.json").read_text(encoding="utf-8"))
             self.assertIs(manifest["claim_all_tweets"], False)
-            self.assertGreater(manifest["expand_job_status_counts"].get("pending", 0), 0)
+            self.assertGreater(
+                manifest["profile_post_count_at_first_lookup"],
+                manifest["unique_posts_stored"],
+            )
 
     def test_known_bad_citation_is_not_linked(self):
         text = (ROOT / "alexandr_wang" / "analysis.md").read_text(encoding="utf-8")
@@ -62,19 +71,21 @@ class ArchiveValidationTest(unittest.TestCase):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         lowered = readme.lower()
         self.assertIn("partial", lowered)
-        self.assertIn("12,862", readme)
-        self.assertIn("1,921", readme)
-        self.assertIn("4,712", readme)
-        self.assertIn("8,551", readme)
-        self.assertIn("6,867", readme)
+        self.assertIn("19,848", readme)
+        self.assertIn("3,625", readme)
+        self.assertIn("4,850", readme)
+        self.assertIn("17,532", readme)
+        self.assertIn("7,851", readme)
+        self.assertIn("53,706", readme)
         self.assertIn("partial", lowered)
         self.assertIn("INSIGHTS.md", readme)
         self.assertIn("FINANCE_SKILLS_COMPARISON.md", readme)
-        self.assertIn("pending", lowered)
+        self.assertIn("remaining", lowered)
 
     def test_expanded_store_keeps_first_pass_ids(self):
         plan = [(commit, ("alexandr_wang", "iiiinvest", "silverfang88")) for commit in PRIOR_THREE]
-        plan.append((PRIOR_FIVE, HANDLES))
+        for commit in PRIOR_FIVE:
+            plan.append((commit, HANDLES))
         for commit, handles in plan:
             for handle in handles:
                 old = subprocess.check_output(

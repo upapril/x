@@ -1,0 +1,1153 @@
+{
+  "collected_at_utc": "2026-11-26T01:14:30Z",
+  "collected_at_shanghai": "2026-11-26T09:14:30+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APNW7CNGQW3N8WXJXWNNMK.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-01-01T00:00:00Z",
+    "end_time": "2023-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqk13dcgbouzl0mlfyerqngv36opdp",
+    "window_label": "2023-01"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609954590933544961",
+      "created_at": "2023-01-02T16:47:40.000Z",
+      "edit_history_tweet_ids": [
+        "1609954590933544961"
+      ],
+      "id": "1609954590933544961",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 7386,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "啊哈，经常被认为是程序员，挺高兴。\n\n其实我只会 ssh，折腾路由器的时候学的。\n\n最近朋友教会了我 tmux 的基本指令，感觉很方便。",
+      "url": "https://x.com/taresky/status/1609954590933544961"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609825931807555584",
+      "created_at": "2023-01-02T11:04:15.000Z",
+      "edit_history_tweet_ids": [
+        "1609868166204903424"
+      ],
+      "id": "1609868166204903424",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 110,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@DaYuTiger 真的狗😁",
+      "url": "https://x.com/taresky/status/1609868166204903424"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609825931807555584",
+      "created_at": "2023-01-02T08:16:25.000Z",
+      "edit_history_tweet_ids": [
+        "1609825931807555584"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/aoke_quant/sta…",
+            "end": 165,
+            "expanded_url": "https://twitter.com/aoke_quant/status/1609757531446050816",
+            "start": 142,
+            "url": "https://t.co/vCowCRy2fO"
+          }
+        ]
+      },
+      "id": "1609825931807555584",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9352,
+        "like_count": 4,
+        "quote_count": 2,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609757531446050816",
+          "type": "quoted"
+        }
+      ],
+      "text": "#Crypto \n\n从 HB 的反应，可以合理猜测\n\n交易所除了正常的量化交易接口之外，还做了一层额外的限制，比如：\n\n哪些人可以买、什么价格可以买。这个功能方便自己老鼠仓的。\n\n这次很显然是这个老鼠仓的设定失效了，让普通人公平竞争买到了。\n\n所以就直接诬赖对方是老鼠仓封号完事了。 https://t.co/vCowCRy2fO",
+      "url": "https://x.com/taresky/status/1609825931807555584"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-02T02:59:30.000Z",
+      "edit_history_tweet_ids": [
+        "1609746174558494720"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "737881188715626498",
+            "start": 0,
+            "username": "EricLeeKK"
+          }
+        ]
+      },
+      "id": "1609746174558494720",
+      "in_reply_to_user_id": "737881188715626498",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 200,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609745189526188032",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@EricLeeKK 没什么特别的，就是投简历、面试。",
+      "url": "https://x.com/taresky/status/1609746174558494720"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-02T02:51:20.000Z",
+      "edit_history_tweet_ids": [
+        "1609744119064043520"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "838071239658745858",
+            "start": 0,
+            "username": "WarningDD"
+          }
+        ]
+      },
+      "id": "1609744119064043520",
+      "in_reply_to_user_id": "838071239658745858",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 166,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609742501602299905",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@WarningDD 一开始是投简历找 Remote 产品岗，后面也 Remote 了其他工种，再后来就不工作纯靠自己做交易了。",
+      "url": "https://x.com/taresky/status/1609744119064043520"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-02T02:43:36.000Z",
+      "edit_history_tweet_ids": [
+        "1609742173519609856"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "838071239658745858",
+            "start": 0,
+            "username": "WarningDD"
+          }
+        ]
+      },
+      "id": "1609742173519609856",
+      "in_reply_to_user_id": "838071239658745858",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 100,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609741737613983744",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@WarningDD emm，我现在不工作😂。你语言没问题选择就更广。",
+      "url": "https://x.com/taresky/status/1609742173519609856"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-02T02:40:14.000Z",
+      "edit_history_tweet_ids": [
+        "1609741326807085058"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "838071239658745858",
+            "start": 0,
+            "username": "WarningDD"
+          }
+        ]
+      },
+      "id": "1609741326807085058",
+      "in_reply_to_user_id": "838071239658745858",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 197,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609740517356732417",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@WarningDD 以前是互联网产品，就靠给喜欢的公司投简历。",
+      "url": "https://x.com/taresky/status/1609741326807085058"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609723889982246912",
+      "created_at": "2023-01-02T02:31:25.000Z",
+      "edit_history_tweet_ids": [
+        "1609739108301295616"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1514119558277496834",
+            "start": 0,
+            "username": "StrangerSsan"
+          }
+        ]
+      },
+      "id": "1609739108301295616",
+      "in_reply_to_user_id": "1514119558277496834",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6113,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609723889982246912",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@StrangerSsan 严重性骚扰，不要后退，往死里怼。",
+      "url": "https://x.com/taresky/status/1609739108301295616"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-02T02:21:35.000Z",
+      "edit_history_tweet_ids": [
+        "1609736631820615680"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1468495712782790659",
+            "start": 0,
+            "username": "Chenchukun2"
+          }
+        ]
+      },
+      "id": "1609736631820615680",
+      "in_reply_to_user_id": "1468495712782790659",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10907,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609734157730746368",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Chenchukun2 哈哈哈哈，你还好吗",
+      "url": "https://x.com/taresky/status/1609736631820615680"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-02T02:21:22.000Z",
+      "edit_history_tweet_ids": [
+        "1609736577525387267"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "41976157",
+            "start": 0,
+            "username": "vsisi"
+          }
+        ]
+      },
+      "id": "1609736577525387267",
+      "in_reply_to_user_id": "41976157",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 792,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609732859664924672",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@vsisi 选择在成都过冬了吗？",
+      "url": "https://x.com/taresky/status/1609736577525387267"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609731943561822215",
+      "created_at": "2023-01-02T02:02:57.000Z",
+      "edit_history_tweet_ids": [
+        "1609731943561822215"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/sofish/status/…",
+            "end": 31,
+            "expanded_url": "https://twitter.com/sofish/status/1609583573052592130",
+            "start": 8,
+            "url": "https://t.co/zo2zueKaOK"
+          }
+        ]
+      },
+      "id": "1609731943561822215",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 5035,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609583573052592130",
+          "type": "quoted"
+        }
+      ],
+      "text": "低成本 高收益 https://t.co/zo2zueKaOK",
+      "url": "https://x.com/taresky/status/1609731943561822215"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T14:33:57.000Z",
+      "edit_history_tweet_ids": [
+        "1609558552762544128"
+      ],
+      "id": "1609558552762544128",
+      "in_reply_to_user_id": "46648098",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 745,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609555446490357762",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@penggenner 祝好",
+      "url": "https://x.com/taresky/status/1609558552762544128"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T13:45:29.000Z",
+      "edit_history_tweet_ids": [
+        "1609546354711482368"
+      ],
+      "id": "1609546354711482368",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 21874,
+        "like_count": 165,
+        "quote_count": 1,
+        "reply_count": 11,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609546352475922435",
+          "type": "replied_to"
+        }
+      ],
+      "text": "（6/n）\n\n仅管一切计算结果都告诉你，风险太高了，失败无法承受。\n\n但只要偷懒放松一小会，就很容易妥协。\n\n上海对我从“公认最好的选择”到“毫无意义”也只是一两年时间而已。\n\n在做重大决定之前，再顶一会，多想一会，换了角度可能决定很不同。\n\n小故事，祝大家都有更多选择。",
+      "url": "https://x.com/taresky/status/1609546354711482368"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T13:45:29.000Z",
+      "edit_history_tweet_ids": [
+        "1609546352475922435"
+      ],
+      "id": "1609546352475922435",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 22296,
+        "like_count": 46,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609546350529765377",
+          "type": "replied_to"
+        }
+      ],
+      "text": "（5/n）\n\n不过这套房装修好还没住热乎，已经开始考虑更远的问题 “我们到底想在哪里生活，在哪里要小孩。”\n\n无法解答，所以 23 年想到处看看，寻找答案。\n\n回过头看，不买房的决定似乎是做对的，那是上海房价的最高峰，此后一路有价无市。\n\n但如果你身处那个环境下，真的很容易做出从众的选择。",
+      "url": "https://x.com/taresky/status/1609546352475922435"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T13:45:28.000Z",
+      "edit_history_tweet_ids": [
+        "1609546350529765377"
+      ],
+      "id": "1609546350529765377",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 21057,
+        "like_count": 63,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609546348625547266",
+          "type": "replied_to"
+        }
+      ],
+      "text": "（4/n）\n\n当你可以在任何地方工作，获得收入时，更大的安全感降临了。这种时间相对自由的掌控感，比在上海买房上车更安心。\n\n我有更多的时间陪家人、照顾狗，几乎可以随时错峰出游。\n\n外加在上海租房不顺，我们很快决定把以前在周边城市买的一套投资房装修起来，凑合住住，省钱又舒适。",
+      "url": "https://x.com/taresky/status/1609546350529765377"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T13:45:28.000Z",
+      "edit_history_tweet_ids": [
+        "1609546348625547266"
+      ],
+      "id": "1609546348625547266",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 20376,
+        "like_count": 43,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609546346587099136",
+          "type": "replied_to"
+        }
+      ],
+      "text": "（3/n）\n\n前后纠结了一个多月，顶住压力宣布不买了。\n\n最大的原因是我不想承受这种压力，不敢辞职、害怕失业、卖掉未来所有的可能性，换一个在上海“上车”的生活。\n\n后来工作发生了很多变化，我先换了行业，后换了职业。其中最重要的变化，是我开始尝试 Remote 远程工作。",
+      "url": "https://x.com/taresky/status/1609546348625547266"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T13:45:27.000Z",
+      "edit_history_tweet_ids": [
+        "1609546346587099136"
+      ],
+      "id": "1609546346587099136",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 20931,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1609546344573829120",
+          "type": "replied_to"
+        }
+      ],
+      "text": "（2/n）\n\n在当时的氛围，真的好像非买不可：\n\n首付勉强解决、房子满意一步到位、还贷压力能承受。\n\n家里人都一致赞同买，压力来到我这边，需要严肃考虑最核心的问题：这样的生活，是我想要的吗。\n\n当时工资尚可，公司前途不明朗，可能在上海背 30 年房贷，努力做一个新上海人是最好的归属。",
+      "url": "https://x.com/taresky/status/1609546346587099136"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609546344573829120",
+      "created_at": "2023-01-01T13:45:27.000Z",
+      "edit_history_tweet_ids": [
+        "1609546344573829120"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 8,
+            "start": 0,
+            "tag": "关于房子小故事"
+          }
+        ]
+      },
+      "id": "1609546344573829120",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 72,
+        "impression_count": 254807,
+        "like_count": 205,
+        "quote_count": 5,
+        "reply_count": 31,
+        "retweet_count": 33
+      },
+      "text": "#关于房子小故事\n\n（1/n）\n\n21 年初那会，差一点点就在上海“买房上车”了。\n\n当时社保满 5 年有房票，上海经历一波学区房大涨，开始炒改善型的房。\n\n由于我们 7 成首付，不考虑先上车后置换的事情。媳妇看中一套仁恒总价 850W 的房型。\n\n要准备 600W  以上的现金，直接掏空所有存款外加一堆首付借款。",
+      "url": "https://x.com/taresky/status/1609546344573829120"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1609487105092354049",
+      "created_at": "2023-01-01T10:54:46.000Z",
+      "edit_history_tweet_ids": [
+        "1609503391692263424"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1195596445",
+            "start": 0,
+            "username": "Jqiuss"
+          },
+          {
+            "end": 19,
+            "id": "1787322597715345408",
+            "start": 8,
+            "username": "iamshaynez"
+          }
+        ]
+      },
+      "id": "1609503391692263424",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 377,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Jqiuss @iamshaynez 深有同感。打游戏、玩数码和 玩 Crypto 殊途同归。\n研究游戏规则，然后至少打赢一半的人。",
+      "url": "https://x.com/taresky/status/1609503391692263424"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1609756311956357121",
+            "3_1609756347058499584",
+            "3_1609756379950219264",
+            "3_1609757414341087232"
+          ]
+        },
+        "author_id": "1032069578388426752",
+        "conversation_id": "1609757531446050816",
+        "created_at": "2023-01-02T03:44:38.000Z",
+        "edit_history_tweet_ids": [
+          "1609757531446050816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdJ2IeIhRB",
+              "end": 174,
+              "expanded_url": "https://x.com/ArkQaq/status/1609757531446050816/photo/1",
+              "media_key": "3_1609756311956357121",
+              "start": 151,
+              "url": "https://t.co/DdJ2IeIhRB"
+            },
+            {
+              "display_url": "pic.x.com/DdJ2IeIhRB",
+              "end": 174,
+              "expanded_url": "https://x.com/ArkQaq/status/1609757531446050816/photo/2",
+              "media_key": "3_1609756347058499584",
+              "start": 151,
+              "url": "https://t.co/DdJ2IeIhRB"
+            },
+            {
+              "display_url": "pic.x.com/DdJ2IeIhRB",
+              "end": 174,
+              "expanded_url": "https://x.com/ArkQaq/status/1609757531446050816/photo/3",
+              "media_key": "3_1609756379950219264",
+              "start": 151,
+              "url": "https://t.co/DdJ2IeIhRB"
+            },
+            {
+              "display_url": "pic.x.com/DdJ2IeIhRB",
+              "end": 174,
+              "expanded_url": "https://x.com/ArkQaq/status/1609757531446050816/photo/4",
+              "media_key": "3_1609757414341087232",
+              "start": 151,
+              "url": "https://t.co/DdJ2IeIhRB"
+            }
+          ]
+        },
+        "id": "1609757531446050816",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 382850,
+          "like_count": 152,
+          "quote_count": 42,
+          "reply_count": 111,
+          "retweet_count": 49
+        },
+        "text": "关于买PI盈利，被火币判定是老鼠仓的说明：\n图一：利用fmz开发的程序，在17点整开始买入。设定的程序是以1U/个的价格买入1000个。只有第一笔买入了\n图二：机器人通过api买入后，盘口成交记录，红色框框里是我这币交易\n图三：交易所成交订单的价格和数量\n图四：账户被封以后，通过大橙子老师联系到阁下 https://t.co/DdJ2IeIhRB"
+      },
+      {
+        "author_id": "737881188715626498",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-02T02:55:35.000Z",
+        "edit_history_tweet_ids": [
+          "1609745189526188032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609745189526188032",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546348625547266",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 大佬可以分享一下怎么转行到remote远程工作的吗？"
+      },
+      {
+        "author_id": "838071239658745858",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-02T02:44:54.000Z",
+        "edit_history_tweet_ids": [
+          "1609742501602299905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609742501602299905",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609742173519609856",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 哈？那“开始尝试 Remote 远程工作”这句指的是？"
+      },
+      {
+        "author_id": "838071239658745858",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-02T02:41:52.000Z",
+        "edit_history_tweet_ids": [
+          "1609741737613983744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609741737613983744",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609741326807085058",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 哦哦，那您现在的公司是国外还是国内的呢？"
+      },
+      {
+        "author_id": "838071239658745858",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-02T02:37:01.000Z",
+        "edit_history_tweet_ids": [
+          "1609740517356732417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609740517356732417",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546348625547266",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 请问大佬是做互联网工作的吗？能不能简答介绍下怎么找到Remote 远程工作?"
+      },
+      {
+        "author_id": "1468495712782790659",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-02T02:11:45.000Z",
+        "edit_history_tweet_ids": [
+          "1609734157730746368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609734157730746368",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11742,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546344573829120",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 2022年8月，我卖掉了上海的房子，一直在定投比特币。"
+      },
+      {
+        "author_id": "41976157",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-02T02:06:35.000Z",
+        "edit_history_tweet_ids": [
+          "1609732859664924672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609732859664924672",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546354711482368",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 很有趣的分享，不过我投资成都一套房，本来是想卖成都度过寒冬的，最后把江苏户籍所在地二线城市卖了，房子还是首选一线或者大城市。"
+      },
+      {
+        "author_id": "46648098",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-01T14:21:37.000Z",
+        "edit_history_tweet_ids": [
+          "1609555446490357762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1609555446490357762",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 877,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546354711482368",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 哈哈，目前背着沉重房贷的我挺羡慕你啊，也幻想过没有这些压力过得会有多爽之类，但如果能重来的话我应该还是会买，也许自己就只能做点从众的事了"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-01T13:45:29.000Z",
+        "edit_history_tweet_ids": [
+          "1609546352475922435"
+        ],
+        "id": "1609546352475922435",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22296,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546350529765377",
+            "type": "replied_to"
+          }
+        ],
+        "text": "（5/n）\n\n不过这套房装修好还没住热乎，已经开始考虑更远的问题 “我们到底想在哪里生活，在哪里要小孩。”\n\n无法解答，所以 23 年想到处看看，寻找答案。\n\n回过头看，不买房的决定似乎是做对的，那是上海房价的最高峰，此后一路有价无市。\n\n但如果你身处那个环境下，真的很容易做出从众的选择。"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-01T13:45:28.000Z",
+        "edit_history_tweet_ids": [
+          "1609546350529765377"
+        ],
+        "id": "1609546350529765377",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 21057,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546348625547266",
+            "type": "replied_to"
+          }
+        ],
+        "text": "（4/n）\n\n当你可以在任何地方工作，获得收入时，更大的安全感降临了。这种时间相对自由的掌控感，比在上海买房上车更安心。\n\n我有更多的时间陪家人、照顾狗，几乎可以随时错峰出游。\n\n外加在上海租房不顺，我们很快决定把以前在周边城市买的一套投资房装修起来，凑合住住，省钱又舒适。"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-01T13:45:28.000Z",
+        "edit_history_tweet_ids": [
+          "1609546348625547266"
+        ],
+        "id": "1609546348625547266",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 20376,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546346587099136",
+            "type": "replied_to"
+          }
+        ],
+        "text": "（3/n）\n\n前后纠结了一个多月，顶住压力宣布不买了。\n\n最大的原因是我不想承受这种压力，不敢辞职、害怕失业、卖掉未来所有的可能性，换一个在上海“上车”的生活。\n\n后来工作发生了很多变化，我先换了行业，后换了职业。其中最重要的变化，是我开始尝试 Remote 远程工作。"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-01T13:45:27.000Z",
+        "edit_history_tweet_ids": [
+          "1609546346587099136"
+        ],
+        "id": "1609546346587099136",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20931,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1609546344573829120",
+            "type": "replied_to"
+          }
+        ],
+        "text": "（2/n）\n\n在当时的氛围，真的好像非买不可：\n\n首付勉强解决、房子满意一步到位、还贷压力能承受。\n\n家里人都一致赞同买，压力来到我这边，需要严肃考虑最核心的问题：这样的生活，是我想要的吗。\n\n当时工资尚可，公司前途不明朗，可能在上海背 30 年房贷，努力做一个新上海人是最好的归属。"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1609546344573829120",
+        "created_at": "2023-01-01T13:45:27.000Z",
+        "edit_history_tweet_ids": [
+          "1609546344573829120"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "关于房子小故事"
+            }
+          ]
+        },
+        "id": "1609546344573829120",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 254807,
+          "like_count": 205,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 33
+        },
+        "text": "#关于房子小故事\n\n（1/n）\n\n21 年初那会，差一点点就在上海“买房上车”了。\n\n当时社保满 5 年有房票，上海经历一波学区房大涨，开始炒改善型的房。\n\n由于我们 7 成首付，不考虑先上车后置换的事情。媳妇看中一套仁恒总价 850W 的房型。\n\n要准备 600W  以上的现金，直接掏空所有存款外加一堆首付借款。"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "737881188715626498",
+        "name": "Eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109680011741429760/jXYnGs5V_normal.jpg",
+        "username": "EricLeeKK",
+        "verified": false
+      },
+      {
+        "id": "838071239658745858",
+        "name": "Warning",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579698157654790144/WHkiF2ZQ_normal.jpg",
+        "username": "WarningDD",
+        "verified": false
+      },
+      {
+        "id": "1514119558277496834",
+        "name": "不至于。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559764642213216257/ULWyvUuK_normal.jpg",
+        "username": "StrangerSsan",
+        "verified": false
+      },
+      {
+        "id": "1468495712782790659",
+        "name": "BTCchen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489788366732234752/eWjgrRK-_normal.jpg",
+        "username": "Chenchukun2",
+        "verified": false
+      },
+      {
+        "id": "41976157",
+        "name": "vsisi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874662526950215681/if8BxAhS_normal.jpg",
+        "username": "vsisi",
+        "verified": false
+      },
+      {
+        "id": "46648098",
+        "name": "𝕃𝕚4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035410826950242305/ffkUhpJR_normal.jpg",
+        "username": "Li4more",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1609954590933544961",
+    "next_token": "b26v89c19zqg8o3fqk13d3vwzbzz9r707l9ucdwh6shvh",
+    "oldest_id": "1609503391692263424",
+    "result_count": 19
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1609723889982246912].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1609723889982246912",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1609723889982246912"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1609583573052592130].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1609583573052592130",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1609583573052592130"
+    }
+  ]
+}

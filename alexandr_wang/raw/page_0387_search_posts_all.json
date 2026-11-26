@@ -1,0 +1,2073 @@
+{
+  "collected_at_utc": "2026-11-26T01:29:11Z",
+  "collected_at_shanghai": "2026-11-26T09:29:11+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQGV2ZP4Y2VDB0WYKPYZXM.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-09-01T00:00:00Z",
+    "end_time": "2026-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzivs5tdn59z65ha31vk2zv2jinwd",
+    "window_label": "2026-09"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100026874546061689",
+      "created_at": "2026-09-16T01:16:58.000Z",
+      "edit_history_tweet_ids": [
+        "2100031152849621300"
+      ],
+      "id": "2100031152849621300",
+      "in_reply_to_user_id": "1832110302701166592",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 7028,
+        "like_count": 213,
+        "quote_count": 0,
+        "reply_count": 10,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100026874546061689",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ArkadiBaudelair well thank you! it's a whole team here at msl, but we are cranking!",
+      "url": "https://x.com/alexandr_wang/status/2100031152849621300"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100026470089499010",
+      "created_at": "2026-09-16T00:58:21.000Z",
+      "edit_history_tweet_ids": [
+        "2100026470089499010"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/hendrycks/stat…",
+            "end": 98,
+            "expanded_url": "https://twitter.com/hendrycks/status/2099901663062679853",
+            "start": 75,
+            "url": "https://t.co/r2KEaO21GK"
+          }
+        ]
+      },
+      "id": "2100026470089499010",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 134,
+        "impression_count": 138892,
+        "like_count": 1689,
+        "quote_count": 13,
+        "reply_count": 103,
+        "retweet_count": 60
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099901663062679853",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse spark 1.3 is the best frontier model at NOT cheating / reward hacking https://t.co/r2KEaO21GK",
+      "url": "https://x.com/alexandr_wang/status/2100026470089499010"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100011173278290347",
+      "created_at": "2026-09-15T23:57:34.000Z",
+      "edit_history_tweet_ids": [
+        "2099999182232908167",
+        "2099999992966733931",
+        "2100002135052300300",
+        "2100011173278290347"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/finkd/status/2…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/finkd/status/2099997096896274533",
+            "start": 278,
+            "url": "https://t.co/Ir8Jqtnyjg"
+          }
+        ]
+      },
+      "id": "2100011173278290347",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab should have a strong governance framework across training and deployment. This should include external evaluators, which are best practice for transparency, and independent oversight on things like safety criteria for model launches.\n\n3. Every lab will need to operate within institutional protections of democratic countries. This means labs face significant liability if their models cause harm. This will push the ecosystem in the right ways.\n\n4. Advances in the field are ultimately downstream of compute and resource allocation. Racing on recursive self-improvement is one of the riskiest pathways for potential loss of control to powerful models. Meta is committing the significant majority of our compute towards serving people rather than racing on RSI, and other labs can choose to do the same.\n\nAI is a very powerful technology, and there is immense responsibility in developing it safely alongside the right checks and balances."
+      },
+      "public_metrics": {
+        "bookmark_count": 165,
+        "impression_count": 82170,
+        "like_count": 1460,
+        "quote_count": 12,
+        "reply_count": 74,
+        "retweet_count": 96
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099997096896274533",
+          "type": "quoted"
+        }
+      ],
+      "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab https://t.co/Ir8Jqtnyjg",
+      "url": "https://x.com/alexandr_wang/status/2100011173278290347"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100002135052300300",
+      "created_at": "2026-09-15T23:21:39.000Z",
+      "edit_history_tweet_ids": [
+        "2099999182232908167",
+        "2099999992966733931",
+        "2100002135052300300",
+        "2100011173278290347"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/finkd/status/2…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/finkd/status/2099997096896274533",
+            "start": 278,
+            "url": "https://t.co/Ir8Jqtnyjg"
+          }
+        ]
+      },
+      "id": "2100002135052300300",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab should have a strong governance framework across training and deployment. This should include external evaluators, which are best practice for transparency, and independent oversight on things like safety criteria for model launches.\n\n3. Every lab will need to operate within institutional protections of democratic countries. This means labs face significant liability if their models cause harm. This will push the ecosystem in the right ways.\n\n4. Advances in the field are ultimately downstream of compute and resource allocation. Racing on recursive self-improvement is one of the riskiest pathways for potential loss of control to powerful models. Meta is committing the significant majority of our compute towards serving people rather than racing on RSI, and over labs can choose to do the same.\n\nAI is a very powerful technology, and there is immense responsibility in developing it safely alongside the right checks and balances."
+      },
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 11775,
+        "like_count": 160,
+        "quote_count": 0,
+        "reply_count": 14,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099997096896274533",
+          "type": "quoted"
+        }
+      ],
+      "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab https://t.co/Ir8Jqtnyjg",
+      "url": "https://x.com/alexandr_wang/status/2100002135052300300"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099999992966733931",
+      "created_at": "2026-09-15T23:13:09.000Z",
+      "edit_history_tweet_ids": [
+        "2099999182232908167",
+        "2099999992966733931",
+        "2100002135052300300",
+        "2100011173278290347"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/finkd/status/2…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/finkd/status/2099997096896274533",
+            "start": 278,
+            "url": "https://t.co/Ir8Jqtnyjg"
+          }
+        ]
+      },
+      "id": "2099999992966733931",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab should have a strong governance framework across training and deployment. This should include external evaluators, which are best practice for transparency, and independent oversight on things like safety criteria for model launches.\n\n3. Every lab will need to operate within institutional protections of democratic countries. This means labs face significant liability if their models cause harm. This will push the ecosystem in the right ways.\n\n4. Advances in the field are ultimately downstream of compute and resource allocation. Racing on recursive self-improvement is one of the riskiest pathways for potential loss of control to powerful models. Meta is committing the significant majority of our compute towards serving people rather than racing on racing on RSI, and over labs can choose to do the same.\n\nAI is a very powerful technology, and there is immense responsibility in developing it safely alongside the right checks and balances."
+      },
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 3778,
+        "like_count": 36,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099997096896274533",
+          "type": "quoted"
+        }
+      ],
+      "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab https://t.co/Ir8Jqtnyjg",
+      "url": "https://x.com/alexandr_wang/status/2099999992966733931"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099999182232908167",
+      "created_at": "2026-09-15T23:09:55.000Z",
+      "edit_history_tweet_ids": [
+        "2099999182232908167",
+        "2099999992966733931",
+        "2100002135052300300",
+        "2100011173278290347"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/finkd/status/2…",
+            "end": 301,
+            "expanded_url": "https://twitter.com/finkd/status/2099997096896274533",
+            "start": 278,
+            "url": "https://t.co/Ir8Jqtnyjg"
+          }
+        ]
+      },
+      "id": "2099999182232908167",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab should have a strong governance framework across training and deployment. This should include external evaluators, which are best practice for transparency, and independent oversight on things like safety criteria for model launches.\n\n3. Every lab will need to operate within institutional protections of democratic countries. This means lab face significant liability if their models cause harm. This will push the ecosystem in the right ways.\n\n4. Advances in the field are ultimately downstream of compute and resource allocation. Racing on recursive self-improvement is one of the riskiest pathways for potential loss of control to powerful models. Meta is committing the significant majority of our compute towards serving people rather than racing on racing on RSI, and over labs can choose to do the same.\n\nAI is a very powerful technology, and there is immense responsibility in developing it safely alongside the right checks and balances."
+      },
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 5129,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099997096896274533",
+          "type": "quoted"
+        }
+      ],
+      "text": "We believe strongly in the necessity to invest into alignment.\n\n1. People and businesses will only use agents that are aligned with their intent and values. If we do not build models aligned with people and businesses, then they will move to more aligned options.\n\n2. Every lab https://t.co/Ir8Jqtnyjg",
+      "url": "https://x.com/alexandr_wang/status/2099999182232908167"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099984011791839542",
+      "created_at": "2026-09-15T22:09:38.000Z",
+      "edit_history_tweet_ids": [
+        "2099984011791839542"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 109,
+            "id": "13235832",
+            "start": 97,
+            "username": "natfriedman"
+          }
+        ]
+      },
+      "id": "2099984011791839542",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 109,
+              "id": "13235832",
+              "start": 97,
+              "username": "natfriedman"
+            }
+          ]
+        },
+        "text": "something most folks who use muse won't ever know or appreciate was the degree to which this was @natfriedman's baby.\n\nit has been one of the great honors of my career watching nat cook. he assembled and ran the team, and so many of the little details that people love came from his beautiful mind.\n\nnat is one of the great artists of our time with products as his medium. more people should experience his brilliance, and with muse, they can ❤️"
+      },
+      "public_metrics": {
+        "bookmark_count": 497,
+        "impression_count": 417119,
+        "like_count": 3583,
+        "quote_count": 31,
+        "reply_count": 111,
+        "retweet_count": 92
+      },
+      "text": "something most folks who use muse won't ever know or appreciate was the degree to which this was @natfriedman's baby.\n\nit has been one of the great honors of my career watching nat cook. he assembled and ran the team, and so many of the little details that people love came from",
+      "url": "https://x.com/alexandr_wang/status/2099984011791839542"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099901631903248514",
+      "created_at": "2026-09-15T16:42:17.000Z",
+      "edit_history_tweet_ids": [
+        "2099901631903248514"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/SinaHartung/st…",
+            "end": 39,
+            "expanded_url": "https://twitter.com/SinaHartung/status/2099889999114125670",
+            "start": 16,
+            "url": "https://t.co/EgognRiPha"
+          }
+        ]
+      },
+      "id": "2099901631903248514",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 39235,
+        "like_count": 125,
+        "quote_count": 1,
+        "reply_count": 26,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099889999114125670",
+          "type": "quoted"
+        }
+      ],
+      "text": "sick musecases! https://t.co/EgognRiPha",
+      "url": "https://x.com/alexandr_wang/status/2099901631903248514"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099901500038549569",
+      "created_at": "2026-09-15T16:41:46.000Z",
+      "edit_history_tweet_ids": [
+        "2099901500038549569"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/ainewspulse/st…",
+            "end": 103,
+            "expanded_url": "https://twitter.com/ainewspulse/status/2099894324431343650",
+            "start": 80,
+            "url": "https://t.co/hODSsv5jpU"
+          }
+        ]
+      },
+      "id": "2099901500038549569",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 41,
+        "impression_count": 96713,
+        "like_count": 875,
+        "quote_count": 7,
+        "reply_count": 85,
+        "retweet_count": 29
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099894324431343650",
+          "type": "quoted"
+        }
+      ],
+      "text": "people are *asking* to pay for muse! first time this has happened in my memory! https://t.co/hODSsv5jpU",
+      "url": "https://x.com/alexandr_wang/status/2099901500038549569"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099901250003480883",
+      "created_at": "2026-09-15T16:40:46.000Z",
+      "edit_history_tweet_ids": [
+        "2099901250003480883"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/teslantir/stat…",
+            "end": 57,
+            "expanded_url": "https://twitter.com/teslantir/status/2099873899349414222",
+            "start": 34,
+            "url": "https://t.co/QNWIOSAnIn"
+          }
+        ]
+      },
+      "id": "2099901250003480883",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 46091,
+        "like_count": 394,
+        "quote_count": 3,
+        "reply_count": 57,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099873899349414222",
+          "type": "quoted"
+        }
+      ],
+      "text": "we’re so glad you’re loving muse! https://t.co/QNWIOSAnIn",
+      "url": "https://x.com/alexandr_wang/status/2099901250003480883"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099879944612622581",
+      "created_at": "2026-09-15T15:16:07.000Z",
+      "edit_history_tweet_ids": [
+        "2099879944612622581"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/_coenen/status…",
+            "end": 61,
+            "expanded_url": "https://twitter.com/_coenen/status/2099640846249349328",
+            "start": 38,
+            "url": "https://t.co/HbxsMeVFKP"
+          }
+        ]
+      },
+      "id": "2099879944612622581",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 28932,
+        "like_count": 253,
+        "quote_count": 4,
+        "reply_count": 46,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099640846249349328",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse is fast, easy, and just works!!! https://t.co/HbxsMeVFKP",
+      "url": "https://x.com/alexandr_wang/status/2099879944612622581"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099879368659230886",
+      "created_at": "2026-09-15T15:13:50.000Z",
+      "edit_history_tweet_ids": [
+        "2099879368659230886"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Trace_Cohen/st…",
+            "end": 77,
+            "expanded_url": "https://twitter.com/Trace_Cohen/status/2099825684134719834",
+            "start": 54,
+            "url": "https://t.co/fukvwGwCLE"
+          }
+        ]
+      },
+      "id": "2099879368659230886",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 59,
+        "impression_count": 80876,
+        "like_count": 407,
+        "quote_count": 5,
+        "reply_count": 28,
+        "retweet_count": 13
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099825684134719834",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse can track down credit card fraud on your behalf! https://t.co/fukvwGwCLE",
+      "url": "https://x.com/alexandr_wang/status/2099879368659230886"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099731971425644788",
+      "created_at": "2026-09-15T05:28:07.000Z",
+      "edit_history_tweet_ids": [
+        "2099731971425644788"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/JamesBorow/sta…",
+            "end": 43,
+            "expanded_url": "https://twitter.com/JamesBorow/status/2099716958027702279",
+            "start": 20,
+            "url": "https://t.co/dooWoXwDtJ"
+          }
+        ]
+      },
+      "id": "2099731971425644788",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 35244,
+        "like_count": 249,
+        "quote_count": 6,
+        "reply_count": 46,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099716958027702279",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse for email! https://t.co/dooWoXwDtJ",
+      "url": "https://x.com/alexandr_wang/status/2099731971425644788"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2099700184272027648"
+        ],
+        "media_source_tweet_id": [
+          "2099700187073773705"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2099724364304556431",
+      "created_at": "2026-09-15T04:57:54.000Z",
+      "edit_history_tweet_ids": [
+        "2099724364304556431"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 23,
+            "start": 18,
+            "tag": "META"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1942391883537461248",
+            "start": 3,
+            "username": "R_and_Invest"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Hr7Ryzf7oB",
+            "end": 66,
+            "expanded_url": "https://x.com/R_and_Invest/status/2099700187073773705/photo/1",
+            "media_key": "3_2099700184272027648",
+            "start": 43,
+            "url": "https://t.co/Hr7Ryzf7oB"
+          }
+        ]
+      },
+      "id": "2099724364304556431",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3213,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099700187073773705",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @R_and_Invest: $META muse is no. 2 now. https://t.co/Hr7Ryzf7oB",
+      "url": "https://x.com/alexandr_wang/status/2099724364304556431"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099721805280006424",
+      "created_at": "2026-09-15T04:47:43.000Z",
+      "edit_history_tweet_ids": [
+        "2099721805280006424"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/thisiskp_/stat…",
+            "end": 46,
+            "expanded_url": "https://twitter.com/thisiskp_/status/2099664842701275517",
+            "start": 23,
+            "url": "https://t.co/rl9l3VevZo"
+          }
+        ]
+      },
+      "id": "2099721805280006424",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 105,
+        "impression_count": 74736,
+        "like_count": 214,
+        "quote_count": 2,
+        "reply_count": 13,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099664842701275517",
+          "type": "quoted"
+        }
+      ],
+      "text": "love me some musecases https://t.co/rl9l3VevZo",
+      "url": "https://x.com/alexandr_wang/status/2099721805280006424"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099721710476103988",
+      "created_at": "2026-09-15T04:47:21.000Z",
+      "edit_history_tweet_ids": [
+        "2099721710476103988"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/katarinabatina…",
+            "end": 41,
+            "expanded_url": "https://twitter.com/katarinabatina/status/2099689478017490974",
+            "start": 18,
+            "url": "https://t.co/N2xys9SLOM"
+          }
+        ]
+      },
+      "id": "2099721710476103988",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 37871,
+        "like_count": 56,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099689478017490974",
+          "type": "quoted"
+        }
+      ],
+      "text": "frank is a baller https://t.co/N2xys9SLOM",
+      "url": "https://x.com/alexandr_wang/status/2099721710476103988"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099720836307730673",
+      "created_at": "2026-09-15T04:43:52.000Z",
+      "edit_history_tweet_ids": [
+        "2099720836307730673"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/armand_ruiz/st…",
+            "end": 59,
+            "expanded_url": "https://twitter.com/armand_ruiz/status/2099600973694197878",
+            "start": 36,
+            "url": "https://t.co/RaHdinGFzE"
+          }
+        ]
+      },
+      "id": "2099720836307730673",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 34489,
+        "like_count": 123,
+        "quote_count": 1,
+        "reply_count": 12,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099600973694197878",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse can handle your ikea returns!! https://t.co/RaHdinGFzE",
+      "url": "https://x.com/alexandr_wang/status/2099720836307730673"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099713836425400716",
+      "created_at": "2026-09-15T04:16:04.000Z",
+      "edit_history_tweet_ids": [
+        "2099713836425400716"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/sinahartung/st…",
+            "end": 52,
+            "expanded_url": "https://twitter.com/sinahartung/status/2099528867119497228",
+            "start": 29,
+            "url": "https://t.co/NoymUU7YD3"
+          }
+        ]
+      },
+      "id": "2099713836425400716",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 32996,
+        "like_count": 115,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099528867119497228",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse can make you healthier! https://t.co/NoymUU7YD3",
+      "url": "https://x.com/alexandr_wang/status/2099713836425400716"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099713334912368877",
+      "created_at": "2026-09-15T04:14:04.000Z",
+      "edit_history_tweet_ids": [
+        "2099713334912368877"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/mialon_gregoir…",
+            "end": 47,
+            "expanded_url": "https://twitter.com/mialon_gregoire/status/2099604517763326351",
+            "start": 24,
+            "url": "https://t.co/08ReLbQ4mE"
+          }
+        ]
+      },
+      "id": "2099713334912368877",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 31971,
+        "like_count": 134,
+        "quote_count": 2,
+        "reply_count": 5,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099604517763326351",
+          "type": "quoted"
+        }
+      ],
+      "text": "hey listen to this guy! https://t.co/08ReLbQ4mE",
+      "url": "https://x.com/alexandr_wang/status/2099713334912368877"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099607273303916758",
+      "created_at": "2026-09-15T04:11:47.000Z",
+      "edit_history_tweet_ids": [
+        "2099712760582160568"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "52270982",
+            "start": 0,
+            "username": "Yukuwu"
+          }
+        ]
+      },
+      "id": "2099712760582160568",
+      "in_reply_to_user_id": "52270982",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2331,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099607273303916758",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yukuwu congrats!",
+      "url": "https://x.com/alexandr_wang/status/2099712760582160568"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099712619020202239",
+      "created_at": "2026-09-15T04:11:13.000Z",
+      "edit_history_tweet_ids": [
+        "2099712619020202239"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/chrisuniverse/…",
+            "end": 51,
+            "expanded_url": "https://twitter.com/chrisuniverse/status/2099633773109285148",
+            "start": 28,
+            "url": "https://t.co/M0jjMvwmDh"
+          }
+        ]
+      },
+      "id": "2099712619020202239",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 24507,
+        "like_count": 80,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099633773109285148",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse to make you money! https://t.co/M0jjMvwmDh",
+      "url": "https://x.com/alexandr_wang/status/2099712619020202239"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099712051220492460",
+      "created_at": "2026-09-15T04:08:58.000Z",
+      "edit_history_tweet_ids": [
+        "2099712051220492460"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/josephdevoy/st…",
+            "end": 82,
+            "expanded_url": "https://twitter.com/josephdevoy/status/2098158828135002245",
+            "start": 59,
+            "url": "https://t.co/6khWRUsdXm"
+          }
+        ]
+      },
+      "id": "2099712051220492460",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 189,
+        "impression_count": 213443,
+        "like_count": 693,
+        "quote_count": 12,
+        "reply_count": 48,
+        "retweet_count": 29
+      },
+      "referenced_tweets": [
+        {
+          "id": "2098158828135002245",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse in 15 minutes will save 15% or more on car insurance! https://t.co/6khWRUsdXm",
+      "url": "https://x.com/alexandr_wang/status/2099712051220492460"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099711807531409907",
+      "created_at": "2026-09-15T04:08:00.000Z",
+      "edit_history_tweet_ids": [
+        "2099711807531409907"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/armand_ruiz/st…",
+            "end": 65,
+            "expanded_url": "https://twitter.com/armand_ruiz/status/2099688941980922270",
+            "start": 42,
+            "url": "https://t.co/q2dAtHiQhj"
+          }
+        ]
+      },
+      "id": "2099711807531409907",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 113,
+        "impression_count": 37936,
+        "like_count": 168,
+        "quote_count": 2,
+        "reply_count": 15,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099688941980922270",
+          "type": "quoted"
+        }
+      ],
+      "text": "check out 185 awesome use cases for muse! https://t.co/q2dAtHiQhj",
+      "url": "https://x.com/alexandr_wang/status/2099711807531409907"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099710763493695744",
+      "created_at": "2026-09-15T04:03:51.000Z",
+      "edit_history_tweet_ids": [
+        "2099710763493695744"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/ai/status/2099…",
+            "end": 56,
+            "expanded_url": "https://twitter.com/ai/status/2099542994005418466",
+            "start": 33,
+            "url": "https://t.co/uTGssm0Kp5"
+          }
+        ]
+      },
+      "id": "2099710763493695744",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 773,
+        "impression_count": 228019,
+        "like_count": 1064,
+        "quote_count": 1,
+        "reply_count": 31,
+        "retweet_count": 53
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099542994005418466",
+          "type": "quoted"
+        }
+      ],
+      "text": "surprisingly comprehensive eval! https://t.co/uTGssm0Kp5",
+      "url": "https://x.com/alexandr_wang/status/2099710763493695744"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2099710569490395258",
+      "created_at": "2026-09-15T04:03:05.000Z",
+      "edit_history_tweet_ids": [
+        "2099710569490395258"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/shriyanevatia/…",
+            "end": 55,
+            "expanded_url": "https://twitter.com/shriyanevatia/status/2099678309697110194",
+            "start": 32,
+            "url": "https://t.co/nkcHfVUS1F"
+          }
+        ]
+      },
+      "id": "2099710569490395258",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 23880,
+        "like_count": 131,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099678309697110194",
+          "type": "quoted"
+        }
+      ],
+      "text": "get into vibe coding with muse! https://t.co/nkcHfVUS1F",
+      "url": "https://x.com/alexandr_wang/status/2099710569490395258"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1832110302701166592",
+        "conversation_id": "2100026874546061689",
+        "created_at": "2026-09-16T00:59:58.000Z",
+        "edit_history_tweet_ids": [
+          "2100026725664997419",
+          "2100026874546061689"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "META"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 36,
+              "id": "615818451",
+              "start": 22,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2100026874546061689",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "META"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "id": "615818451",
+                "start": 22,
+                "username": "alexandr_wang"
+              }
+            ]
+          },
+          "text": "For a while I thought @alexandr_wang wasn’t a great addition to $META .\n\nBut these past few months have completely changed my mind. The work Alex has done at the company has been really impressive.\n\nAnd I’m not just talking about the work with the new models they have launched and products like Muse (which are great btw) but also from a PR standpoint. \n\nBeing so active on socials and engaging directly with users and actually listening to feedback is something that I believe every shareholder and user appreciates.\n\nNothing but praise for the work he’s been doing. He’s proven me completely wrong, and I’m happy to admit it. 👏🏻"
+        },
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 20400,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "text": "For a while I thought @alexandr_wang wasn’t a great addition to $META .\n\nBut these past few months have completely changed my mind. The work Alex has done at the company has been really impressive.\n\nAnd I’m not just talking about the work with the new models they have launched"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099900102303461376"
+          ]
+        },
+        "author_id": "68538286",
+        "conversation_id": "2099901663062679853",
+        "created_at": "2026-09-15T16:42:25.000Z",
+        "edit_history_tweet_ids": [
+          "2099900451680612501",
+          "2099901663062679853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "CheatBench measures whether AI agents attempt to cheat when honest work is difficult. A benchmark from the Center for AI Safety.",
+              "display_url": "cheatbench.ai",
+              "end": 274,
+              "expanded_url": "https://cheatbench.ai/",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2120348862485585920/KWx85Kwb?format=jpg&name=orig",
+                  "width": 5576
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2120348862485585920/KWx85Kwb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 251,
+              "status": 200,
+              "title": "Muse Spark Open (Muse Code): 84.2%",
+              "unwound_url": "https://www.cheatbench.ai/",
+              "url": "https://t.co/ZLc4ujCsAW"
+            },
+            {
+              "display_url": "pic.x.com/p7jKzXe8uP",
+              "end": 298,
+              "expanded_url": "https://x.com/hendrycks/status/2099901663062679853/photo/1",
+              "media_key": "3_2099900102303461376",
+              "start": 275,
+              "url": "https://t.co/p7jKzXe8uP"
+            }
+          ]
+        },
+        "id": "2099901663062679853",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 265488,
+          "like_count": 906,
+          "quote_count": 41,
+          "reply_count": 95,
+          "retweet_count": 112
+        },
+        "text": "How often do AI agents cheat?\n\nWe’re releasing CheatBench, a reward gaming evaluation spanning math, coding, knowledge work, visual tasks, and more.\n\nAfter Hugging Face, AI companies tried to address this, but frontier agents still cheat frequently.\n\nhttps://t.co/ZLc4ujCsAW https://t.co/p7jKzXe8uP"
+      },
+      {
+        "author_id": "20749410",
+        "conversation_id": "2099997096896274533",
+        "created_at": "2026-09-15T23:01:38.000Z",
+        "edit_history_tweet_ids": [
+          "2099997096896274533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Read Mark Zuckerberg’s piece on our values for building superintelligence for everyone.",
+              "display_url": "meta.com/thefutureisfor…",
+              "end": 106,
+              "expanded_url": "https://meta.com/thefutureisforeveryone",
+              "start": 83,
+              "status": 200,
+              "title": "The Future is for Everyone",
+              "unwound_url": "https://www.meta.com/thefutureisforeveryone/",
+              "url": "https://t.co/1KtONlqBs5"
+            }
+          ]
+        },
+        "id": "2099997096896274533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "meta.com/thefutureisfor…",
+                "end": 106,
+                "expanded_url": "http://meta.com/thefutureisforeveryone",
+                "start": 83,
+                "url": "https://t.co/eoLGVY8yad"
+              }
+            ]
+          },
+          "text": "Last month I wrote about how we can build a positive and safe future for everyone: https://t.co/eoLGVY8yad\n\nEvery lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens.\n\nThe reality is:\n\n- People won't want to use agents that are misaligned with them and that don't do what they ask, so labs have a strong natural incentive to make their models more aligned.\n\nThere is a lot of debate about slowing progress on capabilities until alignment catches up. My view is that trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models. Any lab that doesn't focus on alignment will fall behind.\n\n- Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well.\n\nMeta delayed shipping Muse for several months to focus on safety and security. We didn't call for everyone else to do this before we would. We just did it as part of our day-to-day work because it was clearly the right thing for people and for us. I'm proud of the security foundations we've built.\n\n- Engaging independent evaluators and advisors is industry best practice. MSL already does this today in several areas because it helps produce better work. Other labs can just do this too. In general, it would be helpful for there to be a larger and more diverse ecosystem of evaluators.\n\n- Committing the significant majority of compute towards serving people rather than racing towards recursive self-improvement is one of the best ways to ensure we develop this technology safely. Meta has made this commitment and other labs can do this as well.\n\nI believe the key to building a positive future for everyone is maintaining the right balance of power. This is within our power to do."
+        },
+        "public_metrics": {
+          "bookmark_count": 4742,
+          "impression_count": 7802885,
+          "like_count": 28230,
+          "quote_count": 1554,
+          "reply_count": 1907,
+          "retweet_count": 2810
+        },
+        "text": "Last month I wrote about how we can build a positive and safe future for everyone: https://t.co/1KtONlqBs5\n\nEvery lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens.\n\nThe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099889995452436480"
+          ]
+        },
+        "author_id": "1184396023151714304",
+        "conversation_id": "2099889999114125670",
+        "created_at": "2026-09-15T15:56:04.000Z",
+        "edit_history_tweet_ids": [
+          "2099889999114125670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mWbOgLfcCk",
+              "end": 240,
+              "expanded_url": "https://x.com/SinaHartung/status/2099889999114125670/photo/1",
+              "media_key": "3_2099889995452436480",
+              "start": 217,
+              "url": "https://t.co/mWbOgLfcCk"
+            }
+          ]
+        },
+        "id": "2099889999114125670",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 32622,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "text": "small musecase but obsessed with muse tracking things for me\n\nit also helps me reorder my skincare, household items, etc across all platforms \n\ni just have a master file of things i love and it’ll keep it all stocked https://t.co/mWbOgLfcCk"
+      },
+      {
+        "author_id": "149101668",
+        "conversation_id": "2099706890666315874",
+        "created_at": "2026-09-15T16:13:15.000Z",
+        "edit_history_tweet_ids": [
+          "2099894324431343650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 29,
+              "id": "615818451",
+              "start": 15,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2099894324431343650",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 104546,
+          "like_count": 31,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099706890666315874",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @alexandr_wang Add a donation button. We just want to pay extra for such a great product 😀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099873895650131968"
+          ]
+        },
+        "author_id": "1155870424137457665",
+        "conversation_id": "2099873899349414222",
+        "created_at": "2026-09-15T14:52:06.000Z",
+        "edit_history_tweet_ids": [
+          "2099873899349414222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 57,
+              "id": "2425151",
+              "start": 52,
+              "username": "Meta"
+            },
+            {
+              "end": 106,
+              "id": "2052434492263178240",
+              "start": 101,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gX6jpe8euY",
+              "end": 132,
+              "expanded_url": "https://x.com/teslantir/status/2099873899349414222/photo/1",
+              "media_key": "3_2099873895650131968",
+              "start": 109,
+              "url": "https://t.co/gX6jpe8euY"
+            }
+          ]
+        },
+        "id": "2099873899349414222",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 48397,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "text": "I don't even need to, but I almost just want to pay @Meta something for what they've built here with @Muse 🥂 https://t.co/gX6jpe8euY"
+      },
+      {
+        "author_id": "2874450134",
+        "conversation_id": "2099640846249349328",
+        "created_at": "2026-09-14T23:26:01.000Z",
+        "edit_history_tweet_ids": [
+          "2099640846249349328"
+        ],
+        "id": "2099640846249349328",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 32549,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "text": "ok i finally got a chance to try meta’s muse app and… wow, it’s great\n\nfast\neasy\njust works\n\nhats off, this is obviously the next form factor for AI"
+      },
+      {
+        "author_id": "13955342",
+        "conversation_id": "2099825684134719834",
+        "created_at": "2026-09-15T11:40:30.000Z",
+        "edit_history_tweet_ids": [
+          "2099825684134719834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "2052434492263178240",
+              "start": 38,
+              "username": "Muse"
+            },
+            {
+              "end": 56,
+              "id": "274673392",
+              "start": 50,
+              "username": "Chase"
+            },
+            {
+              "end": 79,
+              "id": "575818188",
+              "start": 73,
+              "username": "Plaid"
+            },
+            {
+              "end": 111,
+              "id": "63786611",
+              "start": 105,
+              "username": "Adobe"
+            }
+          ]
+        },
+        "id": "2099825684134719834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 43,
+                "id": "2052434492263178240",
+                "start": 38,
+                "username": "Muse"
+              },
+              {
+                "end": 56,
+                "id": "274673392",
+                "start": 50,
+                "username": "Chase"
+              },
+              {
+                "end": 79,
+                "id": "575818188",
+                "start": 73,
+                "username": "Plaid"
+              },
+              {
+                "end": 111,
+                "id": "63786611",
+                "start": 105,
+                "username": "Adobe"
+              }
+            ]
+          },
+          "text": "This is actually insane.\n\nI connected @Muse to my @Chase account through @Plaid \n\nMuse found a recurring @Adobe subscription I didn’t recognize.\n\nI checked Adobe. No paid subscription on my account. Nothing to cancel.\n\nSo I used Adobe’s “Find my payment” tool and discovered my credit card was paying for an Adobe account tied to someone else’s email at a roofing company in Utah.\n\nI live in Florida. I don’t know them. I never authorized it.\n\nThe craziest part? Chase never flagged it. Muse did.\n\nAnd because the Adobe account isn’t mine, I can’t even log in and cancel it. Now I have to track down the charges, fight Adobe and dispute them with Chase.\n\nThe fact that Adobe even needs a tool to find which random account your card is paying for tells you how messy this can get."
+        },
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 267279,
+          "like_count": 1001,
+          "quote_count": 17,
+          "reply_count": 79,
+          "retweet_count": 32
+        },
+        "text": "This is actually insane.\n\nI connected @Muse to my @Chase account through @Plaid \n\nMuse found a recurring @Adobe subscription I didn’t recognize.\n\nI checked Adobe. No paid subscription on my account. Nothing to cancel.\n\nSo I used Adobe’s “Find my payment” tool and discovered my"
+      },
+      {
+        "author_id": "15978036",
+        "conversation_id": "2099716958027702279",
+        "created_at": "2026-09-15T04:28:28.000Z",
+        "edit_history_tweet_ids": [
+          "2099716958027702279"
+        ],
+        "id": "2099716958027702279",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 36496,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "Muse is the Gmail assistant I always wish I had."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099700184272027648"
+          ]
+        },
+        "author_id": "1942391883537461248",
+        "conversation_id": "2099700187073773705",
+        "created_at": "2026-09-15T03:21:49.000Z",
+        "edit_history_tweet_ids": [
+          "2099700187073773705"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "META"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr7Ryzf7oB",
+              "end": 48,
+              "expanded_url": "https://x.com/R_and_Invest/status/2099700187073773705/photo/1",
+              "media_key": "3_2099700184272027648",
+              "start": 25,
+              "url": "https://t.co/Hr7Ryzf7oB"
+            },
+            {
+              "display_url": "x.com/pepemoonboy/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/pepemoonboy/status/2099467780084891884",
+              "start": 49,
+              "url": "https://t.co/7Uqjh7FELz"
+            }
+          ]
+        },
+        "id": "2099700187073773705",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14971,
+          "like_count": 169,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099467780084891884",
+            "type": "quoted"
+          }
+        ],
+        "text": "$META muse is no. 2 now. https://t.co/Hr7Ryzf7oB https://t.co/7Uqjh7FELz"
+      },
+      {
+        "author_id": "4736729423",
+        "conversation_id": "2099664842701275517",
+        "created_at": "2026-09-15T01:01:23.000Z",
+        "edit_history_tweet_ids": [
+          "2099664842701275517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 123,
+              "id": "58121971",
+              "start": 112,
+              "username": "chanduiiit"
+            },
+            {
+              "end": 163,
+              "id": "262781315",
+              "start": 151,
+              "username": "armand_ruiz"
+            },
+            {
+              "end": 207,
+              "id": "262781315",
+              "start": 195,
+              "username": "armand_ruiz"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Browse 520+ real Meta Muse AI agent use cases from X — shopping, travel, admin, work, saving money, and more. Crowd-sourced by KP. Not affiliated with Meta.",
+              "display_url": "musecases.netlify.app",
+              "end": 253,
+              "expanded_url": "https://musecases.netlify.app",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2113606934368575488/VcCif1oY?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2113606934368575488/VcCif1oY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 230,
+              "status": 200,
+              "title": "Musecases — 520+ real Meta Muse use cases from X",
+              "unwound_url": "https://musecases.netlify.app",
+              "url": "https://t.co/sKcZe3gnpO"
+            },
+            {
+              "display_url": "x.com/thisiskp_/stat…",
+              "end": 277,
+              "expanded_url": "https://twitter.com/thisiskp_/status/2099479288990867549",
+              "start": 254,
+              "url": "https://t.co/qOw5tn3wGl"
+            }
+          ]
+        },
+        "id": "2099664842701275517",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 124777,
+          "like_count": 156,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099479288990867549",
+            "type": "quoted"
+          }
+        ],
+        "text": "Musecases just got 12 new real use case cards from X.\n\nWild ones this round:\n- AT&amp;T fiber bill negotiation (@chanduiiit)\n- IKEA return end-to-end (@armand_ruiz)\n- doctor admin in ~5 minutes (@armand_ruiz)\n\n101 use cases now.\n\nhttps://t.co/sKcZe3gnpO https://t.co/qOw5tn3wGl"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099689474284453888"
+          ]
+        },
+        "author_id": "1390993543",
+        "conversation_id": "2099689478017490974",
+        "created_at": "2026-09-15T02:39:16.000Z",
+        "edit_history_tweet_ids": [
+          "2099689478017490974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUJmm4j2Jb",
+              "end": 55,
+              "expanded_url": "https://x.com/katarinabatina/status/2099689478017490974/photo/1",
+              "media_key": "3_2099689474284453888",
+              "start": 32,
+              "url": "https://t.co/pUJmm4j2Jb"
+            }
+          ]
+        },
+        "id": "2099689478017490974",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 40337,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "Frank is COMING for my wallet 😰 https://t.co/pUJmm4j2Jb"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099600464480497664"
+          ]
+        },
+        "author_id": "262781315",
+        "conversation_id": "2099600973694197878",
+        "created_at": "2026-09-14T20:47:35.000Z",
+        "edit_history_tweet_ids": [
+          "2099600481639370792",
+          "2099600973694197878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052434492263178240",
+              "start": 3,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Em2taNE0VN",
+              "end": 238,
+              "expanded_url": "https://x.com/armand_ruiz/status/2099600973694197878/photo/1",
+              "media_key": "3_2099600464480497664",
+              "start": 215,
+              "url": "https://t.co/Em2taNE0VN"
+            }
+          ]
+        },
+        "id": "2099600973694197878",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 140001,
+          "like_count": 76,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "text": "My @Muse  just handled an entire IKEA return for me; customer service, scheduling.... The pickup guy shows up at my door and I genuinely forgot I'd even asked for it. This is what an agent is supposed to feel like. https://t.co/Em2taNE0VN"
+      },
+      {
+        "author_id": "1184396023151714304",
+        "conversation_id": "2099528867119497228",
+        "created_at": "2026-09-14T16:01:03.000Z",
+        "edit_history_tweet_ids": [
+          "2099528867119497228"
+        ],
+        "id": "2099528867119497228",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 48504,
+          "like_count": 107,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "text": "as a healthcare ai founder, my number #1 use case for muse in managing my medications\n\n- muse found a cheaper way to get my meds \n- muse texted one medical to get the rx sent to the right place\n- muse ordered it \n- muse is now on autopilot to reorder when i’m about to run out"
+      },
+      {
+        "author_id": "3400677491",
+        "conversation_id": "2099604517763326351",
+        "created_at": "2026-09-14T21:01:40.000Z",
+        "edit_history_tweet_ids": [
+          "2099604517763326351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2099601187066769747",
+              "start": 62,
+              "url": "https://t.co/ffzyXOibjA"
+            }
+          ]
+        },
+        "id": "2099604517763326351",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 34038,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099601187066769747",
+            "type": "quoted"
+          }
+        ],
+        "text": "My second ChatGPT moment was trying the first version of Muse https://t.co/ffzyXOibjA"
+      },
+      {
+        "author_id": "52270982",
+        "conversation_id": "2099607273303916758",
+        "created_at": "2026-09-14T21:12:37.000Z",
+        "edit_history_tweet_ids": [
+          "2099607273303916758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MetaforDevs/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/MetaforDevs/status/2099577848046690331",
+              "start": 4,
+              "url": "https://t.co/mCvccFcnpR"
+            }
+          ]
+        },
+        "id": "2099607273303916758",
+        "lang": "art",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5788,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099577848046690331",
+            "type": "quoted"
+          }
+        ],
+        "text": "🚀🚀🚀 https://t.co/mCvccFcnpR"
+      },
+      {
+        "author_id": "1364629432040890372",
+        "conversation_id": "2099633773109285148",
+        "created_at": "2026-09-14T22:57:55.000Z",
+        "edit_history_tweet_ids": [
+          "2099633773109285148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "2052434492263178240",
+              "start": 33,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ChrisUniverse/…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/ChrisUniverse/status/2099401816190390322",
+              "start": 279,
+              "url": "https://t.co/cqKdc10bnj"
+            }
+          ]
+        },
+        "id": "2099633773109285148",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "2052434492263178240",
+                "start": 33,
+                "username": "Muse"
+              },
+              {
+                "end": 550,
+                "id": "9103922",
+                "start": 542,
+                "username": "MattPRD"
+              },
+              {
+                "end": 566,
+                "id": "615818451",
+                "start": 552,
+                "username": "alexandr_wang"
+              },
+              {
+                "end": 577,
+                "id": "14284261",
+                "start": 568,
+                "username": "jrlevine"
+              },
+              {
+                "end": 592,
+                "id": "515889304",
+                "start": 579,
+                "username": "christinesed"
+              },
+              {
+                "end": 609,
+                "id": "1815835751780868100",
+                "start": 594,
+                "username": "pratanchandani"
+              },
+              {
+                "end": 623,
+                "id": "1136886139",
+                "start": 611,
+                "username": "bigT_sheesh"
+              },
+              {
+                "end": 629,
+                "id": "1387901",
+                "start": 625,
+                "username": "dps"
+              },
+              {
+                "end": 644,
+                "id": "3245235668",
+                "start": 631,
+                "username": "vishalshahis"
+              },
+              {
+                "end": 662,
+                "id": "38550443",
+                "start": 646,
+                "username": "mona_sarantakos"
+              },
+              {
+                "end": 676,
+                "id": "13235832",
+                "start": 664,
+                "username": "natfriedman"
+              },
+              {
+                "end": 684,
+                "id": "76980293",
+                "start": 678,
+                "username": "moxie"
+              },
+              {
+                "end": 698,
+                "id": "15528431",
+                "start": 686,
+                "username": "alexcornell"
+              },
+              {
+                "end": 712,
+                "id": "262781315",
+                "start": 700,
+                "username": "armand_ruiz"
+              },
+              {
+                "end": 847,
+                "id": "20749410",
+                "start": 841,
+                "username": "finkd"
+              }
+            ]
+          },
+          "text": "🗿I paid to boost this post about @Muse \n\nYes, really! I put my own money behind someone else’s product. \n\nAfter ~a week of using it daily, the gap between Muse and everything else isn’t small. \n\nFollowing the “can AI make me money” trend, I asked it to make $5,000 as fast as it can. It built me a $5k sprint outreach pack — cold email/DM templates, follow-ups, 30-sec phone opener, and personalized scripts for the 10 hottest leads. & it’s not ‘what’ it does. It’s ‘how’ \nWill share ‘how’ in a later post…\n\nHuge congratulations to the team: @MattPRD, @alexandr_wang, @jrlevine, @christinesed, @pratanchandani, @bigT_sheesh, @dps, @vishalshahis, @mona_sarantakos, @natfriedman, @moxie, @alexcornell, @armand_ruiz and the rest of the crew 🔥\n\nI am looking forward to the growth of not only Muse, but the possibilities of a true super AI team! @finkd did an amazing job assembling what I genuinely believe is the 95-96’ Bulls All-Star team of AI ☢️\n\nIf you’ve tried it: what was the moment it clicked for you? 👀"
+        },
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 31500,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099401816190390322",
+            "type": "quoted"
+          }
+        ],
+        "text": "🗿I paid to boost this post about @Muse \n\nYes, really! I put my own money behind someone else’s product. \n\nAfter ~a week of using it daily, the gap between Muse and everything else isn’t small. \n\nFollowing the “can AI make me money” trend, I asked it to make $5,000 as fast as it https://t.co/cqKdc10bnj"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2098157456455069697"
+          ]
+        },
+        "author_id": "226990770",
+        "conversation_id": "2098158828135002245",
+        "created_at": "2026-09-10T21:17:01.000Z",
+        "edit_history_tweet_ids": [
+          "2098158828135002245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "2052434492263178240",
+              "start": 54,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlIweoWN2K",
+              "end": 304,
+              "expanded_url": "https://x.com/JosephDevoy/status/2098158828135002245/photo/1",
+              "media_key": "3_2098157456455069697",
+              "start": 281,
+              "url": "https://t.co/HlIweoWN2K"
+            }
+          ]
+        },
+        "id": "2098158828135002245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 59,
+                "id": "2052434492263178240",
+                "start": 54,
+                "username": "Muse"
+              }
+            ]
+          },
+          "text": "Yesterday I uploaded my auto insurance policy to Meta @Muse and asked for a better rate with identical coverage. In ~5 minutes, it found a policy saving me $3,500 /year, bought it, and canceled my old one.\n\nI knew I was overpaying. I’d abandoned several attempts to switch because insurance websites and aggregator portals are so painful.\n\nWhy fill out forms, compare quotes, and field sales calls when an agent can finish the entire job in five minutes? Killer product."
+        },
+        "public_metrics": {
+          "bookmark_count": 500,
+          "impression_count": 628230,
+          "like_count": 557,
+          "quote_count": 53,
+          "reply_count": 55,
+          "retweet_count": 32
+        },
+        "text": "Yesterday I uploaded my auto insurance policy to Meta @Muse and asked for a better rate with identical coverage. In ~5 minutes, it found a policy saving me $3,500 /year, bought it, and canceled my old one.\n\nI knew I was overpaying. I’d abandoned several attempts to switch because https://t.co/HlIweoWN2K"
+      },
+      {
+        "author_id": "262781315",
+        "conversation_id": "2099688941980922270",
+        "created_at": "2026-09-15T02:37:08.000Z",
+        "edit_history_tweet_ids": [
+          "2099688941980922270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 117,
+              "id": "2052434492263178240",
+              "start": 112,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/armand_ruiz/st…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/armand_ruiz/status/2099514874875511062",
+              "start": 118,
+              "url": "https://t.co/WWqiIQ5aNc"
+            }
+          ]
+        },
+        "id": "2099688941980922270",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 67703,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099514874875511062",
+            "type": "quoted"
+          }
+        ],
+        "text": "i added 48 new use cases, making it 185 total. every one a real story with the exact prompt to run it yourself. @muse https://t.co/WWqiIQ5aNc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099542895401508865"
+          ]
+        },
+        "author_id": "13949232",
+        "conversation_id": "2099542994005418466",
+        "created_at": "2026-09-14T16:57:12.000Z",
+        "edit_history_tweet_ids": [
+          "2099542994005418466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Which assistant is actually worth texting? One rubric, real quotes, no sponsored rankings.",
+              "display_url": "assistantbenchmark.com",
+              "end": 111,
+              "expanded_url": "https://assistantbenchmark.com",
+              "images": [
+                {
+                  "height": 1260,
+                  "url": "https://pbs.twimg.com/news_img/2122801998948925441/WtNfuJgp?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122801998948925441/WtNfuJgp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "Assistant Benchmark",
+              "unwound_url": "https://assistantbenchmark.com",
+              "url": "https://t.co/xy1Fmyunq4"
+            },
+            {
+              "display_url": "pic.x.com/FDSKiBlDPc",
+              "end": 135,
+              "expanded_url": "https://x.com/ai/status/2099542994005418466/photo/1",
+              "media_key": "3_2099542895401508865",
+              "start": 112,
+              "url": "https://t.co/FDSKiBlDPc"
+            }
+          ]
+        },
+        "id": "2099542994005418466",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4419,
+          "impression_count": 1036384,
+          "like_count": 3350,
+          "quote_count": 141,
+          "reply_count": 218,
+          "retweet_count": 272
+        },
+        "text": "Too many AI personal assistants, too little time to assess all of them. Nice work here: https://t.co/xy1Fmyunq4 https://t.co/FDSKiBlDPc"
+      },
+      {
+        "author_id": "19164547",
+        "conversation_id": "2099678309697110194",
+        "created_at": "2026-09-15T01:54:53.000Z",
+        "edit_history_tweet_ids": [
+          "2099678309697110194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JamesBorow/sta…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/JamesBorow/status/2099363779066888505",
+              "start": 179,
+              "url": "https://t.co/0OvX3HI4sV"
+            }
+          ]
+        },
+        "id": "2099678309697110194",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 27468,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099363779066888505",
+            "type": "quoted"
+          }
+        ],
+        "text": "I haven’t been able to stick w vibe coding until Muse\n\nIt’s made me 5 mini apps and counting!!\n\n(Not all ended up the way I imagined but I just scrap and try something different) https://t.co/0OvX3HI4sV"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1832110302701166592",
+        "name": "Arkadi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921431674950148096/ce-1Vy09_normal.jpg",
+        "username": "Arkadi_X",
+        "verified": false
+      },
+      {
+        "id": "52270982",
+        "name": "Yu Zhang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "username": "Yukuwu",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2100031152849621300",
+    "next_token": "b26v89c19zqg8o3juezj86ydwmhu7qznwvryurgg38w3h",
+    "oldest_id": "2099710569490395258",
+    "result_count": 25
+  },
+  "errors": []
+}

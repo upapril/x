@@ -1,0 +1,120 @@
+{
+  "collected_at_utc": "2026-11-26T01:20:10Z",
+  "collected_at_shanghai": "2026-11-26T09:20:10+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ0D06N142YY5MFEDMGFJE.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-07-01T00:00:00Z",
+    "end_time": "2026-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juetgqdsbquohke1uiil5qs5qncc59",
+    "window_label": "2026-07"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2072848108342677597",
+      "created_at": "2026-07-03T01:01:15.000Z",
+      "edit_history_tweet_ids": [
+        "2072848108342677597"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/wallstengine/s…",
+            "end": 300,
+            "expanded_url": "https://twitter.com/wallstengine/status/2072756346890731737",
+            "start": 277,
+            "url": "https://t.co/uTjx8sZM2A"
+          }
+        ]
+      },
+      "id": "2072848108342677597",
+      "lang": "en",
+      "note_tweet": {
+        "text": "First, Mark was clearly talking about the industry’s progress on agentic capabilities on the whole.\n\nBut, while we’re on the topic: Our next Muse Spark update is coming soon. Big improvements in coding and agentic capabilities to be more competitive with other leading models.\n\nExcited to get these into your hands—will be rolling out to Meta AI and our new API!"
+      },
+      "public_metrics": {
+        "bookmark_count": 626,
+        "impression_count": 1470394,
+        "like_count": 3251,
+        "quote_count": 160,
+        "reply_count": 394,
+        "retweet_count": 227
+      },
+      "referenced_tweets": [
+        {
+          "id": "2072756346890731737",
+          "type": "quoted"
+        }
+      ],
+      "text": "First, Mark was clearly talking about the industry’s progress on agentic capabilities on the whole.\n\nBut, while we’re on the topic: Our next Muse Spark update is coming soon. Big improvements in coding and agentic capabilities to be more competitive with other leading models. https://t.co/uTjx8sZM2A",
+      "url": "https://x.com/alexandr_wang/status/2072848108342677597"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2072756332688760832"
+          ]
+        },
+        "author_id": "1508426880860704771",
+        "conversation_id": "2072756346890731737",
+        "created_at": "2026-07-02T18:56:37.000Z",
+        "edit_history_tweet_ids": [
+          "2072756346890731737"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "META"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tT20xKh2bm",
+              "end": 197,
+              "expanded_url": "https://x.com/wallstengine/status/2072756346890731737/photo/1",
+              "media_key": "3_2072756332688760832",
+              "start": 174,
+              "url": "https://t.co/tT20xKh2bm"
+            }
+          ]
+        },
+        "id": "2072756346890731737",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 1078393,
+          "like_count": 612,
+          "quote_count": 56,
+          "reply_count": 69,
+          "retweet_count": 62
+        },
+        "text": "$META CEO Mark Zuckerberg told employees in an internal town hall that AI agent development over the last four months has not “accelerated in the way we expected.” - Reuters https://t.co/tT20xKh2bm"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2072848108342677597",
+    "next_token": "b26v89c19zqg8o3juetgqds17j1fq2wcjr1mv49rjg0ot",
+    "oldest_id": "2072848108342677597",
+    "result_count": 1
+  },
+  "errors": []
+}

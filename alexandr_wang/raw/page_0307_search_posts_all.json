@@ -1,0 +1,637 @@
+{
+  "collected_at_utc": "2026-11-26T01:20:46Z",
+  "collected_at_shanghai": "2026-11-26T09:20:46+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ16D33DGGTAGVY3PQ5CZW.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2025-05-01T00:00:00Z",
+    "end_time": "2025-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2025-05"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1923089437803626773",
+      "created_at": "2025-05-15T18:53:45.000Z",
+      "edit_history_tweet_ids": [
+        "1923088884776247646",
+        "1923089437803626773"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/johnnymaga/sta…",
+            "end": 53,
+            "expanded_url": "https://twitter.com/johnnymaga/status/1923086221489721364",
+            "start": 30,
+            "url": "https://t.co/r1ENhDLo3b"
+          }
+        ]
+      },
+      "id": "1923089437803626773",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 141,
+        "impression_count": 328606,
+        "like_count": 3108,
+        "quote_count": 11,
+        "reply_count": 62,
+        "retweet_count": 191
+      },
+      "referenced_tweets": [
+        {
+          "id": "1923086221489721364",
+          "type": "quoted"
+        }
+      ],
+      "text": "Team America will prevail 👍🇺🇸 https://t.co/r1ENhDLo3b",
+      "url": "https://x.com/alexandr_wang/status/1923089437803626773"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1923087534705324162",
+      "created_at": "2025-05-15T18:52:45.000Z",
+      "edit_history_tweet_ids": [
+        "1923089186346750139"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "499154896",
+            "start": 0,
+            "username": "alexbruesewitz"
+          }
+        ]
+      },
+      "id": "1923089186346750139",
+      "in_reply_to_user_id": "499154896",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1244,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1923087534705324162",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@alexbruesewitz Team America will prevail",
+      "url": "https://x.com/alexandr_wang/status/1923089186346750139"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1923088884776247646",
+      "created_at": "2025-05-15T18:51:34.000Z",
+      "edit_history_tweet_ids": [
+        "1923088884776247646",
+        "1923089437803626773"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/johnnymaga/sta…",
+            "end": 27,
+            "expanded_url": "https://twitter.com/johnnymaga/status/1923086221489721364",
+            "start": 4,
+            "url": "https://t.co/r1ENhDLo3b"
+          }
+        ]
+      },
+      "id": "1923088884776247646",
+      "lang": "art",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2473,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1923086221489721364",
+          "type": "quoted"
+        }
+      ],
+      "text": "👍🇺🇸 https://t.co/r1ENhDLo3b",
+      "url": "https://x.com/alexandr_wang/status/1923088884776247646"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1922309438448230400"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1922309452193030574",
+      "created_at": "2025-05-13T15:14:22.000Z",
+      "edit_history_tweet_ids": [
+        "1922309452193030574"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/xHQ6eZoDf2",
+            "end": 161,
+            "expanded_url": "https://x.com/alexandr_wang/status/1922309452193030574/photo/1",
+            "media_key": "3_1922309438448230400",
+            "start": 138,
+            "url": "https://t.co/xHQ6eZoDf2"
+          }
+        ]
+      },
+      "id": "1922309452193030574",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 364,
+        "impression_count": 402079,
+        "like_count": 4685,
+        "quote_count": 33,
+        "reply_count": 132,
+        "retweet_count": 357
+      },
+      "text": "Good discussion on AI leadership with President Trump and my colleagues from across the AI industry 🤝\n\nThanks to our Saudi hosts as well! https://t.co/xHQ6eZoDf2",
+      "url": "https://x.com/alexandr_wang/status/1922309452193030574"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1921698216443043933",
+      "created_at": "2025-05-11T23:03:12.000Z",
+      "edit_history_tweet_ids": [
+        "1921702659981029698"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1365020011123773442",
+            "start": 0,
+            "username": "teknium"
+          },
+          {
+            "end": 22,
+            "id": "1104564502220161026",
+            "start": 9,
+            "username": "ShawnRyan762"
+          }
+        ]
+      },
+      "id": "1921702659981029698",
+      "in_reply_to_user_id": "1365020011123773442",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5649,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1921702584173146431",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@teknium @ShawnRyan762 🔜",
+      "url": "https://x.com/alexandr_wang/status/1921702659981029698"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1921698209052901376"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1921698216443043933",
+      "created_at": "2025-05-11T22:45:32.000Z",
+      "edit_history_tweet_ids": [
+        "1921698216443043933"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/AKw4MiJCSS",
+            "end": 25,
+            "expanded_url": "https://x.com/alexandr_wang/status/1921698216443043933/photo/1",
+            "media_key": "3_1921698209052901376",
+            "start": 2,
+            "url": "https://t.co/AKw4MiJCSS"
+          }
+        ]
+      },
+      "id": "1921698216443043933",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 57,
+        "impression_count": 200483,
+        "like_count": 1213,
+        "quote_count": 4,
+        "reply_count": 54,
+        "retweet_count": 45
+      },
+      "text": "🔜 https://t.co/AKw4MiJCSS",
+      "url": "https://x.com/alexandr_wang/status/1921698216443043933"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1918473604024447298",
+      "created_at": "2025-05-03T02:18:42.000Z",
+      "edit_history_tweet_ids": [
+        "1918490368963702888"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1556550048862928898",
+            "start": 0,
+            "username": "beffjezos"
+          }
+        ]
+      },
+      "id": "1918490368963702888",
+      "in_reply_to_user_id": "1556550048862928898",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 58949,
+        "like_count": 117,
+        "quote_count": 5,
+        "reply_count": 28,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1918486943559794695",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@beffjezos we are here to win",
+      "url": "https://x.com/alexandr_wang/status/1918490368963702888"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1918473604024447298",
+      "created_at": "2025-05-03T02:11:33.000Z",
+      "edit_history_tweet_ids": [
+        "1918488570236408117"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1877469127096389632",
+            "start": 0,
+            "username": "SoulMotive_0135"
+          }
+        ]
+      },
+      "id": "1918488570236408117",
+      "in_reply_to_user_id": "1877469127096389632",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6873,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1918485790834778425",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@SoulMotive_0135 🫡🇺🇸",
+      "url": "https://x.com/alexandr_wang/status/1918488570236408117"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1918473604024447298",
+      "created_at": "2025-05-03T01:12:05.000Z",
+      "edit_history_tweet_ids": [
+        "1918473604024447298"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/zebulgar/statu…",
+            "end": 52,
+            "expanded_url": "https://twitter.com/zebulgar/status/1918454422994342013",
+            "start": 29,
+            "url": "https://t.co/dBr9BQuzd6"
+          }
+        ]
+      },
+      "id": "1918473604024447298",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 300,
+        "impression_count": 431449,
+        "like_count": 4052,
+        "quote_count": 32,
+        "reply_count": 182,
+        "retweet_count": 220
+      },
+      "referenced_tweets": [
+        {
+          "id": "1918454422994342013",
+          "type": "quoted"
+        }
+      ],
+      "text": "Team America will prevail 🇺🇸 https://t.co/dBr9BQuzd6",
+      "url": "https://x.com/alexandr_wang/status/1918473604024447298"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1923086218159439872"
+          ]
+        },
+        "author_id": "1442238195387678721",
+        "conversation_id": "1923086221489721364",
+        "created_at": "2025-05-15T18:40:59.000Z",
+        "edit_history_tweet_ids": [
+          "1923086221489721364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 96,
+              "id": "615818451",
+              "start": 82,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nL87iNVB8J",
+              "end": 140,
+              "expanded_url": "https://x.com/_johnnymaga/status/1923086221489721364/photo/1",
+              "media_key": "3_1923086218159439872",
+              "start": 117,
+              "url": "https://t.co/nL87iNVB8J"
+            }
+          ]
+        },
+        "id": "1923086221489721364",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 387038,
+          "like_count": 378,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 46
+        },
+        "text": "President Trump discussing AI with the youngest self-made billionaire in America, @alexandr_wang, yesterday in Doha. https://t.co/nL87iNVB8J"
+      },
+      {
+        "author_id": "499154896",
+        "conversation_id": "1923087534705324162",
+        "created_at": "2025-05-15T18:46:12.000Z",
+        "edit_history_tweet_ids": [
+          "1923087534705324162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "615818451",
+              "start": 57,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/johnnymaga/sta…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/johnnymaga/status/1923086221489721364",
+              "start": 127,
+              "url": "https://t.co/c56JMUisK4"
+            }
+          ]
+        },
+        "id": "1923087534705324162",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 36455,
+          "like_count": 263,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923086221489721364",
+            "type": "quoted"
+          }
+        ],
+        "text": "President Trump is committed to winning the AI race, and @alexandr_wang is one of the leaders who will help achieve that goal! https://t.co/c56JMUisK4"
+      },
+      {
+        "author_id": "1365020011123773442",
+        "conversation_id": "1921698216443043933",
+        "created_at": "2025-05-11T23:02:54.000Z",
+        "edit_history_tweet_ids": [
+          "1921702584173146431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 28,
+              "id": "1104564502220161026",
+              "start": 15,
+              "username": "ShawnRyan762"
+            }
+          ]
+        },
+        "id": "1921702584173146431",
+        "lang": "pl",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6407,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "@alexandr_wang @ShawnRyan762 UfcBench?"
+      },
+      {
+        "author_id": "1556550048862928898",
+        "conversation_id": "1918473604024447298",
+        "created_at": "2025-05-03T02:05:05.000Z",
+        "edit_history_tweet_ids": [
+          "1918486943559794695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1918486943559794695",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12403,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918473604024447298",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Let's go"
+      },
+      {
+        "author_id": "1877469127096389632",
+        "conversation_id": "1918473604024447298",
+        "created_at": "2025-05-03T02:00:30.000Z",
+        "edit_history_tweet_ids": [
+          "1918485790834778425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1918485790834778425",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8170,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918473604024447298",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Not gonna lie. I got chills when I read this. I am so grateful you are in our corner."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1918452421304725504"
+          ]
+        },
+        "author_id": "194694215",
+        "conversation_id": "1918454422994342013",
+        "created_at": "2025-05-02T23:55:52.000Z",
+        "edit_history_tweet_ids": [
+          "1918454422994342013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jfjU81NGVj",
+              "end": 126,
+              "expanded_url": "https://x.com/zebulgar/status/1918454422994342013/photo/1",
+              "media_key": "3_1918452421304725504",
+              "start": 103,
+              "url": "https://t.co/jfjU81NGVj"
+            }
+          ]
+        },
+        "id": "1918454422994342013",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 610667,
+          "like_count": 1548,
+          "quote_count": 60,
+          "reply_count": 190,
+          "retweet_count": 63
+        },
+        "text": "In America, it’s Wang and Huang that lead our AI\n\nSuck it China. Even our Asians are better than yours https://t.co/jfjU81NGVj"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "499154896",
+        "name": "Alex Bruesewitz 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046393386568200192/F4ICxq3S_normal.jpg",
+        "username": "alexbruesewitz",
+        "verified": false
+      },
+      {
+        "id": "1365020011123773442",
+        "name": "Teknium 🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_normal.jpg",
+        "username": "Teknium",
+        "verified": false
+      },
+      {
+        "id": "1556550048862928898",
+        "name": "Beff (e/acc)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104068258311901184/vmbQ61I3_normal.jpg",
+        "username": "beffjezos",
+        "verified": false
+      },
+      {
+        "id": "1877469127096389632",
+        "name": "Kelly Fitzgerald",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949949128055631872/21xTyAnh_normal.jpg",
+        "username": "SoulMotive_0135",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1923089437803626773",
+    "next_token": "b26v89c19zqg8o3fsbz9p5r6tahyxkc0lgw31icm6qttp",
+    "oldest_id": "1918473604024447298",
+    "result_count": 9
+  },
+  "errors": []
+}

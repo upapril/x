@@ -1,0 +1,573 @@
+{
+  "collected_at_utc": "2026-11-26T01:16:12Z",
+  "collected_at_shanghai": "2026-11-26T09:16:12+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APRMF4AW37B5PQV9KTE2QY.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-03-01T00:00:00Z",
+    "end_time": "2024-04-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2024-03"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1772021919099085237",
+      "created_at": "2024-03-24T22:05:22.000Z",
+      "edit_history_tweet_ids": [
+        "1772021919099085237"
+      ],
+      "id": "1772021919099085237",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 89,
+        "impression_count": 74240,
+        "like_count": 801,
+        "quote_count": 12,
+        "reply_count": 28,
+        "retweet_count": 60
+      },
+      "text": "it’s easy to forget when you’re young that life is a marathon",
+      "url": "https://x.com/alexandr_wang/status/1772021919099085237"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1766150540533350496",
+      "created_at": "2024-03-08T18:24:41.000Z",
+      "edit_history_tweet_ids": [
+        "1766168174217892060"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "81961201",
+            "start": 0,
+            "username": "ashleevance"
+          }
+        ]
+      },
+      "id": "1766168174217892060",
+      "in_reply_to_user_id": "81961201",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2661,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1766150540533350496",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ashleevance people keep telling me to stop doing this, but if huberman says so, who am I to say I know better",
+      "url": "https://x.com/alexandr_wang/status/1766168174217892060"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1766121052177092632",
+      "created_at": "2024-03-08T15:17:26.000Z",
+      "edit_history_tweet_ids": [
+        "1766121052177092632"
+      ],
+      "id": "1766121052177092632",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 81316,
+        "like_count": 487,
+        "quote_count": 4,
+        "reply_count": 21,
+        "retweet_count": 14
+      },
+      "text": "just like huberman recommends, I wake up and spend 5-10 min looking directly into my Apple Vision Pro for the health benefits",
+      "url": "https://x.com/alexandr_wang/status/1766121052177092632"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1765446518260302157",
+      "created_at": "2024-03-06T18:37:05.000Z",
+      "edit_history_tweet_ids": [
+        "1765446518260302157"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "14293310",
+            "start": 1,
+            "username": "TIME"
+          },
+          {
+            "end": 34,
+            "id": "1446482235012657158",
+            "start": 20,
+            "username": "henshall_will"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "time.com/6878893/ai-art…",
+            "end": 124,
+            "expanded_url": "https://time.com/6878893/ai-artificial-intelligence-dangerous-knowledge/",
+            "start": 101,
+            "status": 200,
+            "unwound_url": "https://time.com/6878893/ai-artificial-intelligence-dangerous-knowledge/",
+            "url": "https://t.co/Z0ABmpeFm6"
+          },
+          {
+            "display_url": "x.com/alexandr_wang/…",
+            "end": 148,
+            "expanded_url": "https://twitter.com/alexandr_wang/status/1765442959401746661",
+            "start": 125,
+            "url": "https://t.co/5QK5MflIyo"
+          }
+        ]
+      },
+      "id": "1765446518260302157",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 30975,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1765442959401746661",
+          "type": "quoted"
+        }
+      ],
+      "text": ".@TIME article from @henshall_will about our work on catastrophic risk benchmarking and unlearning!\n\nhttps://t.co/Z0ABmpeFm6 https://t.co/5QK5MflIyo",
+      "url": "https://x.com/alexandr_wang/status/1765446518260302157"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1765442959401746661",
+      "created_at": "2024-03-06T18:22:56.000Z",
+      "edit_history_tweet_ids": [
+        "1765442959401746661"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 89,
+            "id": "752712449321644032",
+            "start": 80,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "arxiv.org/abs/2403.03218",
+            "end": 252,
+            "expanded_url": "http://arxiv.org/abs/2403.03218",
+            "start": 229,
+            "url": "https://t.co/PMHEUJdbHQ"
+          },
+          {
+            "display_url": "wmdp.ai",
+            "end": 277,
+            "expanded_url": "http://wmdp.ai",
+            "start": 254,
+            "unwound_url": "http://wmdp.ai",
+            "url": "https://t.co/X8QI9RGvF6"
+          }
+        ]
+      },
+      "id": "1765442959401746661",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 46694,
+        "like_count": 70,
+        "quote_count": 3,
+        "reply_count": 9,
+        "retweet_count": 12
+      },
+      "text": "Can hazardous knowledge be unlearned from LLMs w/o harming other capabilities?\n\n@scale_AI and CAIS are releasing Weapons of Mass Destruction Proxy (WMDP), an eval for catastrophic AI risk &amp; a way to unlearn this knowledge.\n\n📝https://t.co/PMHEUJdbHQ\n🔗https://t.co/X8QI9RGvF6",
+      "url": "https://x.com/alexandr_wang/status/1765442959401746661"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1765413302962929963",
+      "created_at": "2024-03-06T17:27:50.000Z",
+      "edit_history_tweet_ids": [
+        "1765429091615048128"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "110300816",
+            "start": 0,
+            "username": "nealkhosla"
+          }
+        ]
+      },
+      "id": "1765429091615048128",
+      "in_reply_to_user_id": "110300816",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1111,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1765416469008179310",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@nealkhosla generally agree. took tesla at $1T for many VCs to realize there’s money to be made in hard tech :)",
+      "url": "https://x.com/alexandr_wang/status/1765429091615048128"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1765413302962929963",
+      "created_at": "2024-03-06T16:29:07.000Z",
+      "edit_history_tweet_ids": [
+        "1765414316218720662"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1657486826859364352",
+            "start": 0,
+            "username": "jedmaczan"
+          }
+        ]
+      },
+      "id": "1765414316218720662",
+      "in_reply_to_user_id": "1657486826859364352",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1166,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1765413884393898201",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jedmaczan 🙏🤠",
+      "url": "https://x.com/alexandr_wang/status/1765414316218720662"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1765413302962929963",
+      "created_at": "2024-03-06T16:25:05.000Z",
+      "edit_history_tweet_ids": [
+        "1765413302962929963"
+      ],
+      "id": "1765413302962929963",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 95,
+        "impression_count": 47276,
+        "like_count": 545,
+        "quote_count": 2,
+        "reply_count": 20,
+        "retweet_count": 51
+      },
+      "text": "the startup ecosystem is, more so than any other time in its history, in an era of hard tech (space, biotech, robotics, manufacturing, AI)\n\nspaceX, tesla, openai, waymo have all brought sci-fi to the present, and are inspiring a new generation of tech ambition.\n\nexciting!",
+      "url": "https://x.com/alexandr_wang/status/1765413302962929963"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1764910973842862507",
+      "created_at": "2024-03-05T17:38:22.000Z",
+      "edit_history_tweet_ids": [
+        "1765069356319592958"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "54317637",
+            "start": 0,
+            "username": "alexatallah"
+          },
+          {
+            "end": 23,
+            "id": "752712449321644032",
+            "start": 14,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "1765069356319592958",
+      "in_reply_to_user_id": "54317637",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 8304,
+        "like_count": 76,
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1764910973842862507",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@alexatallah .@scale_AI will build exactly this :) coming soon!",
+      "url": "https://x.com/alexandr_wang/status/1765069356319592958"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1764071674767720823",
+      "created_at": "2024-03-02T23:33:56.000Z",
+      "edit_history_tweet_ids": [
+        "1764071674767720823"
+      ],
+      "id": "1764071674767720823",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 152,
+        "impression_count": 206403,
+        "like_count": 816,
+        "quote_count": 36,
+        "reply_count": 50,
+        "retweet_count": 97
+      },
+      "text": "compute and data are the currency of the future",
+      "url": "https://x.com/alexandr_wang/status/1764071674767720823"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1763753481918464068",
+      "created_at": "2024-03-02T02:29:33.000Z",
+      "edit_history_tweet_ids": [
+        "1763753481918464068"
+      ],
+      "id": "1763753481918464068",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 59102,
+        "like_count": 346,
+        "quote_count": 4,
+        "reply_count": 16,
+        "retweet_count": 11
+      },
+      "text": "this morning, in a flurry, I got into a waymo and said “hey—for alexandr. how are you?”\n\nthen, realizing I just spoke to a driverless car, looked around to make sure nobody saw me\n\ncrawled into the waymo, closed the door, and breathed a sigh of relief in my sweet, sweet solitude",
+      "url": "https://x.com/alexandr_wang/status/1763753481918464068"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "81961201",
+        "conversation_id": "1766150540533350496",
+        "created_at": "2024-03-08T17:14:37.000Z",
+        "edit_history_tweet_ids": [
+          "1766150540533350496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1766121052177092632",
+              "start": 30,
+              "url": "https://t.co/9bmkhq1ouA"
+            }
+          ]
+        },
+        "id": "1766150540533350496",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10571,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1766121052177092632",
+            "type": "quoted"
+          }
+        ],
+        "text": "I cold plunge my French press https://t.co/9bmkhq1ouA"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1765442959401746661",
+        "created_at": "2024-03-06T18:22:56.000Z",
+        "edit_history_tweet_ids": [
+          "1765442959401746661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "752712449321644032",
+              "start": 80,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "arxiv.org/abs/2403.03218",
+              "end": 252,
+              "expanded_url": "http://arxiv.org/abs/2403.03218",
+              "start": 229,
+              "url": "https://t.co/PMHEUJdbHQ"
+            },
+            {
+              "display_url": "wmdp.ai",
+              "end": 277,
+              "expanded_url": "http://wmdp.ai",
+              "start": 254,
+              "unwound_url": "http://wmdp.ai",
+              "url": "https://t.co/X8QI9RGvF6"
+            }
+          ]
+        },
+        "id": "1765442959401746661",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 46694,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "text": "Can hazardous knowledge be unlearned from LLMs w/o harming other capabilities?\n\n@scale_AI and CAIS are releasing Weapons of Mass Destruction Proxy (WMDP), an eval for catastrophic AI risk &amp; a way to unlearn this knowledge.\n\n📝https://t.co/PMHEUJdbHQ\n🔗https://t.co/X8QI9RGvF6"
+      },
+      {
+        "author_id": "110300816",
+        "conversation_id": "1765413302962929963",
+        "created_at": "2024-03-06T16:37:40.000Z",
+        "edit_history_tweet_ids": [
+          "1765416469008179310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1765416469008179310",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1890,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1765413302962929963",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang the foundation for this was laid ~10 years ago and 99% of VCs missed it because they were busy shilling bullshit SaaS.\n\nhard tech should last longer but most of these investors have no idea how to do it.\n\nthankfully we have entrepreneurs like yourself who persisted anyways."
+      },
+      {
+        "author_id": "54317637",
+        "conversation_id": "1764910973842862507",
+        "created_at": "2024-03-05T07:09:01.000Z",
+        "edit_history_tweet_ids": [
+          "1764910973842862507"
+        ],
+        "id": "1764910973842862507",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 75488,
+          "like_count": 318,
+          "quote_count": 9,
+          "reply_count": 65,
+          "retweet_count": 14
+        },
+        "text": "Startup idea: a neutral company that benchmarks LLMs, but doesn't make one.\n\nCould charge model companies to run expensive eval suites. Becomes the most trusted source of evals. Buys data that was never used to train anything.\n\nAnyone want to do this or know someone who is?"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "81961201",
+        "name": "Ashlee Vance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878247739949273088/tE5Gx-SN_normal.jpg",
+        "username": "ashleevance",
+        "verified": false
+      },
+      {
+        "id": "110300816",
+        "name": "Neal Khosla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338966104991887365/fu8xy-6O_normal.jpg",
+        "username": "nealkhosla",
+        "verified": false
+      },
+      {
+        "id": "1657486826859364352",
+        "name": "Jędrzej Maczan @ 🇭🇰 DAI 2026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084378629698363392/em6B-ZqR_normal.jpg",
+        "username": "jedmaczan",
+        "verified": false
+      },
+      {
+        "id": "54317637",
+        "name": "Alex Atallah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887176916849074178/kjnDV4rw_normal.jpg",
+        "username": "alexatallah",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1772021919099085237",
+    "next_token": "b26v89c19zqg8o3fr5tdtf8lutgyyfs0nohs2l8a4lu2l",
+    "oldest_id": "1763753481918464068",
+    "result_count": 11
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1765413884393898201].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1765413884393898201",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1765413884393898201"
+    }
+  ]
+}

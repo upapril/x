@@ -1,0 +1,1334 @@
+{
+  "collected_at_utc": "2026-11-26T01:12:25Z",
+  "collected_at_shanghai": "2026-11-26T09:12:25+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APJ1ARXEG110N96GNJ9QNN.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-09-01T00:00:00Z",
+    "end_time": "2023-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqks1c2421ioa7vmr9dpk769aiem4d",
+    "window_label": "2023-09"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1699458657392717824"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1691528691891986432",
+      "created_at": "2023-09-06T16:25:10.000Z",
+      "edit_history_tweet_ids": [
+        "1699458729115336771"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/LJq9cZ4bCb",
+            "end": 50,
+            "expanded_url": "https://x.com/taresky/status/1699458729115336771/photo/1",
+            "media_key": "3_1699458657392717824",
+            "start": 27,
+            "url": "https://t.co/LJq9cZ4bCb"
+          }
+        ]
+      },
+      "id": "1699458729115336771",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3317,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695392085795561879",
+          "type": "replied_to"
+        }
+      ],
+      "text": "谁这么沉不住气，在抛售珍贵的 eUSD V1 😮‍💨 https://t.co/LJq9cZ4bCb",
+      "url": "https://x.com/taresky/status/1699458729115336771"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699454977180369345",
+      "created_at": "2023-09-06T16:14:23.000Z",
+      "edit_history_tweet_ids": [
+        "1699456018059870474"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "800153130977542146",
+            "start": 0,
+            "username": "anqirocks"
+          }
+        ]
+      },
+      "id": "1699456018059870474",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 458,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@anqirocks 👂",
+      "url": "https://x.com/taresky/status/1699456018059870474"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699410043802976543",
+      "created_at": "2023-09-06T16:13:41.000Z",
+      "edit_history_tweet_ids": [
+        "1699455841706164443"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1026649465338220544",
+            "start": 0,
+            "username": "shirleyusy"
+          },
+          {
+            "end": 23,
+            "id": "1680650056809033731",
+            "start": 12,
+            "username": "tipcoineth"
+          }
+        ]
+      },
+      "id": "1699455841706164443",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 429,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@shirleyusy @tipcoineth 是这个道理，所以套利的数学期望其实还可以。风险对冲好了就敢 All In，吃一个点就很开心了。",
+      "url": "https://x.com/taresky/status/1699455841706164443"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699453954525212847",
+      "created_at": "2023-09-06T16:06:11.000Z",
+      "edit_history_tweet_ids": [
+        "1699453954525212847"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/skoowfancy/sta…",
+            "end": 186,
+            "expanded_url": "https://twitter.com/skoowfancy/status/1699233612837818831",
+            "start": 163,
+            "url": "https://t.co/vJPpKIIaZl"
+          }
+        ]
+      },
+      "id": "1699453954525212847",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 49,
+        "impression_count": 74833,
+        "like_count": 92,
+        "quote_count": 10,
+        "reply_count": 10,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699233612837818831",
+          "type": "quoted"
+        }
+      ],
+      "text": "我觉得“世界上最好的记账工具”的模样已经有一些共识了：\n\n1. 一个 UI 精美，降低门槛的 Beancount。\n2. 内置热门的民间插件，比如外汇价格、Crypto 价格 API。\n3. 通过 GPT 支持自然语义的快速录入（草稿）。\n\n这是一个显而易见的机会，但很难判断是多大的机会。能够做到最好的人，机会成本都很高。 https://t.co/vJPpKIIaZl",
+      "url": "https://x.com/taresky/status/1699453954525212847"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699445402314141959",
+      "created_at": "2023-09-06T15:38:25.000Z",
+      "edit_history_tweet_ids": [
+        "1699446966944666105"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1363049376394878981",
+            "start": 0,
+            "username": "huminglue"
+          },
+          {
+            "end": 21,
+            "id": "1488497509345349632",
+            "start": 11,
+            "username": "rayfi790k"
+          }
+        ]
+      },
+      "id": "1699446966944666105",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 216,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@huminglue @rayfi790k 寺庙也是莆田系，这么多年都打不掉，后台肯定硬邦邦啦。",
+      "url": "https://x.com/taresky/status/1699446966944666105"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699426978363838938",
+      "created_at": "2023-09-06T14:46:44.000Z",
+      "edit_history_tweet_ids": [
+        "1699433958075724141"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1363049376394878981",
+            "start": 0,
+            "username": "huminglue"
+          }
+        ]
+      },
+      "id": "1699433958075724141",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 369,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@huminglue 95% 营销号",
+      "url": "https://x.com/taresky/status/1699433958075724141"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699428845990932746",
+      "created_at": "2023-09-06T14:36:46.000Z",
+      "edit_history_tweet_ids": [
+        "1699431451786129454"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1490949502261665792",
+            "start": 0,
+            "username": "yuyue_chris"
+          },
+          {
+            "end": 23,
+            "id": "1669901087531302912",
+            "start": 13,
+            "username": "bananagun"
+          }
+        ]
+      },
+      "id": "1699431451786129454",
+      "in_reply_to_user_id": "1490949502261665792",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2783,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699428845990932746",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yuyue_chris @bananagun 这两个 bot 抢开盘的成功率，banana 更好吗？",
+      "url": "https://x.com/taresky/status/1699431451786129454"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699410270492475748",
+      "created_at": "2023-09-06T13:55:30.000Z",
+      "edit_history_tweet_ids": [
+        "1699421066886631813"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "42352056",
+            "start": 0,
+            "username": "turingou"
+          }
+        ]
+      },
+      "id": "1699421066886631813",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3869,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@turingou 真心羡慕了！",
+      "url": "https://x.com/taresky/status/1699421066886631813"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699418230324899867",
+      "created_at": "2023-09-06T13:44:14.000Z",
+      "edit_history_tweet_ids": [
+        "1699418230324899867"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1377637009871798277",
+            "start": 3,
+            "username": "Super4DeFi"
+          }
+        ]
+      },
+      "id": "1699418230324899867",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699366024808964346",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Super4DeFi: 但凡是借贷产品，都会有单个资产流动性枯竭的时候，用过defi借贷协议的话，对这个很有体会，见惯不怪。\n\n如群友所说，遇到流动性枯竭的时候，作为交易所有三种解决方法：\n1.强制借币方还币（借币方没币就拿抵押物市价买入还）;\n2.保持枯竭状态，借贷利…",
+      "url": "https://x.com/taresky/status/1699418230324899867"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699298303530410121",
+      "created_at": "2023-09-06T13:40:52.000Z",
+      "edit_history_tweet_ids": [
+        "1699417382324748460"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "890290121114824704",
+            "start": 0,
+            "username": "arb1trage"
+          }
+        ]
+      },
+      "id": "1699417382324748460",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 106,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@arb1trage 透明才好",
+      "url": "https://x.com/taresky/status/1699417382324748460"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699347586870890825",
+      "created_at": "2023-09-06T10:59:12.000Z",
+      "edit_history_tweet_ids": [
+        "1699376699123941413"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "890290121114824704",
+            "start": 0,
+            "username": "arb1trage"
+          }
+        ]
+      },
+      "id": "1699376699123941413",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 157,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@arb1trage @Loki_Zeng 得靠预测，等你看到行情早就没了。另外本来也就没什么量可借，Cyber 这种几个套利大户就包圆了，手慢无。",
+      "url": "https://x.com/taresky/status/1699376699123941413"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699368982829212102",
+      "created_at": "2023-09-06T10:28:32.000Z",
+      "edit_history_tweet_ids": [
+        "1699368982829212102"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 99,
+            "expanded_url": "https://twitter.com/taresky/status/1458434136775954438",
+            "start": 76,
+            "url": "https://t.co/YNxHz4Skab"
+          }
+        ]
+      },
+      "id": "1699368982829212102",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4333,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1458434136775954438",
+          "type": "quoted"
+        }
+      ],
+      "text": "#Crypto \n\n年年岁岁利相似，岁岁年年币不同。\n\n你们只看到别人借出去的币拿不回来，没看到借币的人扛着巨额利息负重前行。\n\n为自己的行为负责吧。 https://t.co/YNxHz4Skab",
+      "url": "https://x.com/taresky/status/1699368982829212102"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699347586870890825",
+      "created_at": "2023-09-06T10:24:33.000Z",
+      "edit_history_tweet_ids": [
+        "1699367977379082432"
+      ],
+      "id": "1699367977379082432",
+      "in_reply_to_user_id": "1009318555811221504",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1358,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699347586870890825",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Loki_Zeng 是 1。套利人算普通用户没问题吧？\n\n不过我觉得重点不是谁借走了，默认契约下谁都可以借。\n\n重点是借款人支付了高额的利息，Binance 有没有合理给到出借人。",
+      "url": "https://x.com/taresky/status/1699367977379082432"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699337326005194886",
+      "created_at": "2023-09-06T08:58:51.000Z",
+      "edit_history_tweet_ids": [
+        "1699346411857588724"
+      ],
+      "id": "1699346411857588724",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 691,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@0xBGTokyo 旅游签，不是玩也是玩😉",
+      "url": "https://x.com/taresky/status/1699346411857588724"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699332294287437948",
+      "created_at": "2023-09-06T08:29:28.000Z",
+      "edit_history_tweet_ids": [
+        "1699339016276193668"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1400591",
+            "start": 0,
+            "username": "qingfeng"
+          }
+        ]
+      },
+      "id": "1699339016276193668",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 45,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@qingfeng 可能没有？是啥需求",
+      "url": "https://x.com/taresky/status/1699339016276193668"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699337326005194886",
+      "created_at": "2023-09-06T08:22:45.000Z",
+      "edit_history_tweet_ids": [
+        "1699337326005194886"
+      ],
+      "id": "1699337326005194886",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 10247,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "去把护照更新了一下，问基本信息，说是远程工作，在当地居住。\n\n小姐姐办理的时候说哇远程工作好自由，看到你今年已经出国玩了好几次了。\n\n哈哈确实 😅",
+      "url": "https://x.com/taresky/status/1699337326005194886"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699295192111882401",
+      "created_at": "2023-09-06T05:49:37.000Z",
+      "edit_history_tweet_ids": [
+        "1699298791101444314"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "950344895398424576",
+            "start": 0,
+            "username": "kkamingchan"
+          }
+        ]
+      },
+      "id": "1699298791101444314",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 34,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@kkamingchan 😆",
+      "url": "https://x.com/taresky/status/1699298791101444314"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699298303530410121",
+      "created_at": "2023-09-06T05:47:41.000Z",
+      "edit_history_tweet_ids": [
+        "1699298303530410121"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/yonghaochen168…",
+            "end": 163,
+            "expanded_url": "https://twitter.com/yonghaochen168/status/1699292907256344580",
+            "start": 140,
+            "url": "https://t.co/RKCrq884tR"
+          }
+        ]
+      },
+      "id": "1699298303530410121",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Crypto"
+            }
+          ]
+        },
+        "text": "#Crypto \n\n昨天就在好几个群看到了，倾向于认为 Binance 的处理没问题。\n\n一个底层资产是借贷的理财产品，当然就会有潜在的流动性风险，只要没产生坏账，就不算是问题。\n\n简单点说，没人借钱，谁来给你利息？这是常识。\n\n想要赚这个利息，就应该去了解别人拖延还款的后果。 和好处，这里的好处是理财收益会增加。\n\n所以真正的引申问题是：Binance 理财是否厚道？\n\n据我所知 Cyber 一天的活期借款利息，当时达到了近 2%，日化 2%，年化 730% 😨\n\n那么 Binance 从这 2% 里抽成了多少，分给理财用户多少。"
+      },
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 9740,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699292907256344580",
+          "type": "quoted"
+        }
+      ],
+      "text": "#Crypto \n\n昨天就在好几个群看到了，倾向于认为 Binance 的处理没问题。\n\n一个底层资产是借贷的理财产品，当然就会有潜在的流动性风险，只要没产生坏账，就不算是问题。\n\n简单点说，没人借钱，谁来给你利息？这是常识。\n\n想要赚这个利息，就应该去了解别人拖延还款的后果。 https://t.co/RKCrq884tR",
+      "url": "https://x.com/taresky/status/1699298303530410121"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699290628901724495",
+      "created_at": "2023-09-06T05:24:58.000Z",
+      "edit_history_tweet_ids": [
+        "1699292585393856523"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "975329340",
+            "start": 0,
+            "username": "shengxj1"
+          }
+        ]
+      },
+      "id": "1699292585393856523",
+      "in_reply_to_user_id": "975329340",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1798,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699290628901724495",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@shengxj1 简单的道理",
+      "url": "https://x.com/taresky/status/1699292585393856523"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699288198260945201",
+      "created_at": "2023-09-06T05:07:32.000Z",
+      "edit_history_tweet_ids": [
+        "1699288198260945201"
+      ],
+      "id": "1699288198260945201",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3654,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "在这世上，你要做点好事，还得躲躲藏藏。\n\n躲开蛆、躲开坏人。\n\n真 tm 糟透了。",
+      "url": "https://x.com/taresky/status/1699288198260945201"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699247536622776707",
+      "created_at": "2023-09-06T03:08:00.000Z",
+      "edit_history_tweet_ids": [
+        "1699258118654562566"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "28754022",
+            "start": 0,
+            "username": "coolish"
+          },
+          {
+            "end": 23,
+            "id": "902839045356744704",
+            "start": 9,
+            "username": "justinsuntron"
+          }
+        ]
+      },
+      "id": "1699258118654562566",
+      "in_reply_to_user_id": "28754022",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 496,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699247536622776707",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@coolish @justinsuntron 也可能没那么复杂，一个关键人 rt，你的流量就更高了。",
+      "url": "https://x.com/taresky/status/1699258118654562566"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699063347101176117",
+      "created_at": "2023-09-06T02:51:29.000Z",
+      "edit_history_tweet_ids": [
+        "1699253959045828846"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "3328567814",
+            "start": 0,
+            "username": "tomnanana"
+          },
+          {
+            "end": 18,
+            "id": "4356897073",
+            "start": 11,
+            "username": "_wissx"
+          }
+        ]
+      },
+      "id": "1699253959045828846",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 114,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@tomnanana @_wissx 🤦得加钱",
+      "url": "https://x.com/taresky/status/1699253959045828846"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699252785752236054",
+      "created_at": "2023-09-06T02:46:49.000Z",
+      "edit_history_tweet_ids": [
+        "1699252785752236054"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/MissOllie2020/…",
+            "end": 38,
+            "expanded_url": "https://twitter.com/MissOllie2020/status/1699248903294513491",
+            "start": 15,
+            "url": "https://t.co/fdIN1gh6hM"
+          }
+        ]
+      },
+      "id": "1699252785752236054",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3944,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699248903294513491",
+          "type": "quoted"
+        }
+      ],
+      "text": "哈哈哈哈，一句话暴露了底色。 https://t.co/fdIN1gh6hM",
+      "url": "https://x.com/taresky/status/1699252785752236054"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699240463482655105",
+      "created_at": "2023-09-06T02:45:21.000Z",
+      "edit_history_tweet_ids": [
+        "1699252417886662951"
+      ],
+      "id": "1699252417886662951",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 702,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "@rex_jing0101 有没有 starlink？",
+      "url": "https://x.com/taresky/status/1699252417886662951"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1699106422959792525",
+      "created_at": "2023-09-06T02:41:08.000Z",
+      "edit_history_tweet_ids": [
+        "1699251355498729849"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "885873294376697856",
+            "start": 0,
+            "username": "Peakcool852"
+          }
+        ]
+      },
+      "id": "1699251355498729849",
+      "in_reply_to_user_id": "885873294376697856",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 278,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1699248385746968989",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Peakcool852 大概率网络",
+      "url": "https://x.com/taresky/status/1699251355498729849"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1695392043714109442"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1691528691891986432",
+        "created_at": "2023-08-26T11:05:46.000Z",
+        "edit_history_tweet_ids": [
+          "1695392085795561879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xIUJvOm9nQ",
+              "end": 26,
+              "expanded_url": "https://x.com/taresky/status/1695392085795561879/photo/1",
+              "media_key": "3_1695392043714109442",
+              "start": 3,
+              "url": "https://t.co/xIUJvOm9nQ"
+            }
+          ]
+        },
+        "id": "1695392085795561879",
+        "in_reply_to_user_id": "368245720",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3303,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1691837481321394593",
+            "type": "replied_to"
+          }
+        ],
+        "text": "等你 https://t.co/xIUJvOm9nQ"
+      },
+      {
+        "author_id": "1643969443616407553",
+        "conversation_id": "1699233612837818831",
+        "created_at": "2023-09-06T01:30:38.000Z",
+        "edit_history_tweet_ids": [
+          "1699233612837818831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xiaoyuzhoufm.com/episode/64f5d7…",
+              "end": 122,
+              "expanded_url": "https://www.xiaoyuzhoufm.com/episode/64f5d7a280c9ec4c5f261297",
+              "start": 99,
+              "status": 200,
+              "unwound_url": "https://www.xiaoyuzhoufm.com/episode/64f5d7a280c9ec4c5f261297",
+              "url": "https://t.co/vumMUie6d5"
+            }
+          ]
+        },
+        "id": "1699233612837818831",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 62381,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "text": "大家真的很喜欢写三件套，我也喜欢🤣，我还挖坑了一个笔记软件来练手，为了真练手，还先写了个 Markdown Parser 🌚，然后刻意选了自己新学习的 Rust 语言。三件套真的就只是练手玩玩？\n\nhttps://t.co/vumMUie6d5"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1699428709667688448",
+            "3_1699428709856342016",
+            "3_1699428710007402496"
+          ]
+        },
+        "author_id": "1490949502261665792",
+        "conversation_id": "1699428845990932746",
+        "created_at": "2023-09-06T14:26:25.000Z",
+        "edit_history_tweet_ids": [
+          "1699428845990932746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1669901087531302912",
+              "start": 21,
+              "username": "bananagun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CybMscp826",
+              "end": 193,
+              "expanded_url": "https://x.com/yuyue_chris/status/1699428845990932746/photo/1",
+              "media_key": "3_1699428709667688448",
+              "start": 170,
+              "url": "https://t.co/CybMscp826"
+            },
+            {
+              "display_url": "pic.x.com/CybMscp826",
+              "end": 193,
+              "expanded_url": "https://x.com/yuyue_chris/status/1699428845990932746/photo/2",
+              "media_key": "3_1699428709856342016",
+              "start": 170,
+              "url": "https://t.co/CybMscp826"
+            },
+            {
+              "display_url": "pic.x.com/CybMscp826",
+              "end": 193,
+              "expanded_url": "https://x.com/yuyue_chris/status/1699428845990932746/photo/3",
+              "media_key": "3_1699428710007402496",
+              "start": 170,
+              "url": "https://t.co/CybMscp826"
+            }
+          ]
+        },
+        "id": "1699428845990932746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 419,
+                "start": 414,
+                "tag": "bald"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "id": "1669901087531302912",
+                "start": 21,
+                "username": "bananagun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "stake.com",
+                "end": 573,
+                "expanded_url": "http://stake.com",
+                "start": 550,
+                "url": "https://t.co/VevBzDAR0R"
+              }
+            ]
+          },
+          "text": "他垄断了开盘？—— Banana Gun @bananagun \nBanana Gun 是 TG 交易 Bot，擅长并且是目前狙击开盘的不二之选\n\n与 unibot 不同的是，虽然 unibot 的很多支持者们认为 unibot 上涨的原因来自他的真实收入，然而事实是，unibot 的大部分收入来自于其币本身的税收，banana gun 基于其贿赂机制所得是真正的产品真实收入。在其尚未发行代币前，利润就已经获得了 500E\n\n也就是说，发射代币募资的 800e，不过是预支了其 3-5 个月的利润。meme 行情持续与否对他的收入构成存在一定影响，但不多，只要有币开盘，都能参与其中\n\n用香蕉抢香蕉币的开盘——以后在链上赌场开盘的争霸中，恐怕很难再见到没有工具的散户获胜的情况，后来者是否能够居于其上？根据香蕉的组队贿赂模式来看，恐怕是使用者越多的工具越能够获得开盘的优胜，那么“垄断”一说就可以成为现实了\n\n同时被怀疑是 $bald insider 内幕人士的 cheatcoiner，最早他在购入 bald 前的第一条推文就是有关bananagun sniper 的 alpha，banana 早为国外开盘狙击手们所熟知并使用\n\n当然，风险在于他的私钥托管模式，而利润是风险的主要支撑，就像 https://t.co/VevBzDAR0R 能够在被盗后快速用其自有资金恢复。我们或许可以这样估算 banana 的预期利润空间，用这样几个系数估算其收入增长的空间：链上开盘币的初始交易量、用户数量、代币税收（买 4% 卖 4%）、发币的募资 800e\n\n同时，产品是产品，币价是币价。看币价，短期来看，预售初始估值合理，作为 bot 赛道的前三来看，龙头的 Maestro 不发币，在有币的 bot 中是 top2，所以低市值的情况值得买入，会有短期的炒作空间。而长期来看则要结合其团队格局和做市能力进行观察，因为初始流通有很大一部分在团队手中。"
+        },
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 92019,
+          "like_count": 82,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 22
+        },
+        "text": "他垄断了开盘？—— Banana Gun @bananagun \nBanana Gun 是 TG 交易 Bot，擅长并且是目前狙击开盘的不二之选\n\n与 unibot 不同的是，虽然 unibot 的很多支持者们认为 unibot 上涨的原因来自他的真实收入，然而事实是，unibot 的大部分收入来自于其币本身的税收，banana gun https://t.co/CybMscp826"
+      },
+      {
+        "author_id": "1377637009871798277",
+        "conversation_id": "1699366024808964346",
+        "created_at": "2023-09-06T10:16:47.000Z",
+        "edit_history_tweet_ids": [
+          "1699366024808964346"
+        ],
+        "id": "1699366024808964346",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "但凡是借贷产品，都会有单个资产流动性枯竭的时候，用过defi借贷协议的话，对这个很有体会，见惯不怪。\n\n如群友所说，遇到流动性枯竭的时候，作为交易所有三种解决方法：\n1.强制借币方还币（借币方没币就拿抵押物市价买入还）;\n2.保持枯竭状态，借贷利率陡峭，等借币方还币；\n3.交易所印币.\n\n这三种方式，都是不同交易所的做法，说说你喜欢哪一种.其中交易所印币的ftx已经退出舞台。"
+        },
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 47648,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 8
+        },
+        "text": "但凡是借贷产品，都会有单个资产流动性枯竭的时候，用过defi借贷协议的话，对这个很有体会，见惯不怪。\n\n如群友所说，遇到流动性枯竭的时候，作为交易所有三种解决方法：\n1.强制借币方还币（借币方没币就拿抵押物市价买入还）;\n2.保持枯竭状态，借贷利率陡峭，等借币方还币；\n3.交易所印币."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1458434126537658371"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1458434136775954438",
+        "created_at": "2021-11-10T13:59:29.000Z",
+        "edit_history_tweet_ids": [
+          "1458434136775954438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Crypto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrBnLfOMyU",
+              "end": 50,
+              "expanded_url": "https://x.com/taresky/status/1458434136775954438/photo/1",
+              "media_key": "3_1458434126537658371",
+              "start": 27,
+              "url": "https://t.co/JrBnLfOMyU"
+            }
+          ]
+        },
+        "id": "1458434136775954438",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "#Crypto\n\n来自 Binance 的十二道金牌 https://t.co/JrBnLfOMyU"
+      },
+      {
+        "author_id": "1340199337712705536",
+        "conversation_id": "1699292907256344580",
+        "created_at": "2023-09-06T05:26:15.000Z",
+        "edit_history_tweet_ids": [
+          "1699292907256344580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "",
+              "end": 142,
+              "expanded_url": "",
+              "start": 119,
+              "url": "https://t.co/YRijbOuLuc"
+            }
+          ]
+        },
+        "id": "1699292907256344580",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18047,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1698872351159677110",
+            "type": "quoted"
+          }
+        ],
+        "text": "心疼老哥的遭遇，币安以后这个产品不要叫活期理财最好，活期理财的活期意义就是随时可以取出来，现在的利润来自于别人借币的话，应该改成叫借贷，如果是 CC 出借，我相信大哥也不会放进去，随时遭遇流动性枯竭的东西不能叫活期了，应该改一下产品描述 https://t.co/YRijbOuLuc"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1699289950477250560"
+          ]
+        },
+        "author_id": "975329340",
+        "conversation_id": "1699290628901724495",
+        "created_at": "2023-09-06T05:17:11.000Z",
+        "edit_history_tweet_ids": [
+          "1699290628901724495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "space.bilibili.com/697803545",
+              "end": 151,
+              "expanded_url": "https://space.bilibili.com/697803545",
+              "start": 128,
+              "url": "https://t.co/RymwAjoEQU"
+            },
+            {
+              "display_url": "pic.x.com/iKtw98Sl7O",
+              "end": 175,
+              "expanded_url": "https://x.com/shengxj1/status/1699290628901724495/photo/1",
+              "media_key": "3_1699289950477250560",
+              "start": 152,
+              "url": "https://t.co/iKtw98Sl7O"
+            }
+          ]
+        },
+        "id": "1699290628901724495",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 33791,
+          "like_count": 73,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "text": "又一个好朋友的开源项目停止维护了，用爱发电还是没法持久，推荐关注一波吧，行情不好的时候，可以收缩自己的精力，【只做赚钱的事和业务】，找工作选团队选赚钱的业务而不是基建，业余项目先想明白怎么赚钱再开始写第一行代码，这个思路虽然目光短浅，但是确保下限不会太低\nhttps://t.co/RymwAjoEQU https://t.co/iKtw98Sl7O"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1699247434172596224"
+          ]
+        },
+        "author_id": "28754022",
+        "conversation_id": "1699247536622776707",
+        "created_at": "2023-09-06T02:25:57.000Z",
+        "edit_history_tweet_ids": [
+          "1699247536622776707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "902839045356744704",
+              "start": 10,
+              "username": "justinsuntron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVfL8qprp4",
+              "end": 138,
+              "expanded_url": "https://x.com/coolish/status/1699247536622776707/photo/1",
+              "media_key": "3_1699247434172596224",
+              "start": 115,
+              "url": "https://t.co/MVfL8qprp4"
+            },
+            {
+              "display_url": "x.com/coolish/status…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/coolish/status/1698915513437749678",
+              "start": 139,
+              "url": "https://t.co/POjp2y4KIe"
+            }
+          ]
+        },
+        "id": "1699247536622776707",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16488,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1698915513437749678",
+            "type": "quoted"
+          }
+        ],
+        "text": "昨天我发的这条孙哥 @justinsuntron当初买瑞幸的推文，\n居然比孙哥自己聊这个事情发的推文浏览量还要大？\n\n这是为啥？\n\n难道是由于，\n推特的推荐展示算法，\n给到“识别同一张图片是哪个账号首发的权重因子”影响有那么大？ https://t.co/MVfL8qprp4 https://t.co/POjp2y4KIe"
+      },
+      {
+        "author_id": "885873294376697856",
+        "conversation_id": "1699106422959792525",
+        "created_at": "2023-09-06T02:29:20.000Z",
+        "edit_history_tweet_ids": [
+          "1699248385746968989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1699248385746968989",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1699106422959792525",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 借楼问个问题，PC 端的 Infuse 我挂载 Google Drive，播放内容一直加载不出来，但是手机端的完全没问题，大概什么原因呢？网络代理吗？"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1490949502261665792",
+        "name": "Yuyue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+        "username": "yuyue_chris",
+        "verified": false
+      },
+      {
+        "id": "1009318555811221504",
+        "name": "0xLoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566758849402376192/ORZA5L7B_normal.jpg",
+        "username": "0xLoki_Zeng",
+        "verified": false
+      },
+      {
+        "id": "975329340",
+        "name": "花果山大圣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956649801128329216/9dfodVqp_normal.jpg",
+        "username": "shengxj1",
+        "verified": false
+      },
+      {
+        "id": "28754022",
+        "name": "paulwei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_normal.jpg",
+        "username": "coolish",
+        "verified": false
+      },
+      {
+        "id": "885873294376697856",
+        "name": "rubickecho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731490552401764352/HyDENXTb_normal.jpg",
+        "username": "Peakcool852",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1699458729115336771",
+    "next_token": "b26v89c19zqg8o3fqks1bxtzye8vt1wpsd6rpa5rh3ed9",
+    "oldest_id": "1699251355498729849",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1699347586870890825].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1699347586870890825",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1699347586870890825"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1699248903294513491].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1699248903294513491",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1699248903294513491"
+    }
+  ]
+}

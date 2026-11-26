@@ -1,0 +1,1816 @@
+{
+  "collected_at_utc": "2026-11-26T01:17:08Z",
+  "collected_at_shanghai": "2026-11-26T09:17:08+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APTM8V4FFQ6ZRQAM6M4CJ5.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-05-01T00:00:00Z",
+    "end_time": "2024-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr62d4odm0idwnwuwkoig4zmgxfkot",
+    "window_label": "2024-05"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792943706880008221",
+      "created_at": "2024-05-21T19:33:03.000Z",
+      "edit_history_tweet_ids": [
+        "1793002084335305086"
+      ],
+      "id": "1793002084335305086",
+      "in_reply_to_user_id": "1618358798577709057",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1934,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792943706880008221",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xkarmatic ok but what if it actually just takes more data",
+      "url": "https://x.com/alexandr_wang/status/1793002084335305086"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792962615385448617",
+      "created_at": "2024-05-21T16:59:53.000Z",
+      "edit_history_tweet_ids": [
+        "1792963536186159145"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "3883259303",
+            "start": 0,
+            "username": "willreed"
+          }
+        ]
+      },
+      "id": "1792963536186159145",
+      "in_reply_to_user_id": "3883259303",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1046,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792962615385448617",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@willreed thank you will for all your support &lt;3",
+      "url": "https://x.com/alexandr_wang/status/1792963536186159145"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792922276683297162",
+      "created_at": "2024-05-21T16:58:33.000Z",
+      "edit_history_tweet_ids": [
+        "1792963199702278269"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1879939776696184834",
+            "start": 0,
+            "username": "suno_ai_"
+          }
+        ]
+      },
+      "id": "1792963199702278269",
+      "in_reply_to_user_id": "1519705236713189377",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2161,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792922276683297162",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@suno_ai_ congrats!",
+      "url": "https://x.com/alexandr_wang/status/1792963199702278269"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:51:20.000Z",
+      "edit_history_tweet_ids": [
+        "1792916086964580731"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 119,
+            "id": "113130846",
+            "start": 107,
+            "username": "ycombinator"
+          },
+          {
+            "end": 133,
+            "id": "13235832",
+            "start": 121,
+            "username": "natfriedman"
+          },
+          {
+            "end": 149,
+            "id": "19720395",
+            "start": 135,
+            "username": "IndexVentures"
+          },
+          {
+            "end": 164,
+            "id": "541042800",
+            "start": 151,
+            "username": "foundersfund"
+          },
+          {
+            "end": 177,
+            "id": "780720157",
+            "start": 166,
+            "username": "coatuemgmt"
+          },
+          {
+            "end": 193,
+            "id": "166682229",
+            "start": 179,
+            "username": "ThriveCapital"
+          },
+          {
+            "end": 208,
+            "id": "18937279",
+            "start": 195,
+            "username": "sparkcapital"
+          },
+          {
+            "end": 217,
+            "id": "61559439",
+            "start": 210,
+            "username": "nvidia"
+          },
+          {
+            "end": 260,
+            "id": "791752642468974592",
+            "start": 244,
+            "username": "Wellington_Mgmt"
+          }
+        ]
+      },
+      "id": "1792916086964580731",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "mentions": [
+            {
+              "end": 119,
+              "id": "113130846",
+              "start": 107,
+              "username": "ycombinator"
+            },
+            {
+              "end": 133,
+              "id": "13235832",
+              "start": 121,
+              "username": "natfriedman"
+            },
+            {
+              "end": 149,
+              "id": "19720395",
+              "start": 135,
+              "username": "IndexVentures"
+            },
+            {
+              "end": 164,
+              "id": "541042800",
+              "start": 151,
+              "username": "foundersfund"
+            },
+            {
+              "end": 177,
+              "id": "780720157",
+              "start": 166,
+              "username": "coatuemgmt"
+            },
+            {
+              "end": 193,
+              "id": "166682229",
+              "start": 179,
+              "username": "ThriveCapital"
+            },
+            {
+              "end": 208,
+              "id": "18937279",
+              "start": 195,
+              "username": "sparkcapital"
+            },
+            {
+              "end": 217,
+              "id": "61559439",
+              "start": 210,
+              "username": "nvidia"
+            },
+            {
+              "end": 260,
+              "id": "791752642468974592",
+              "start": 244,
+              "username": "Wellington_Mgmt"
+            },
+            {
+              "end": 315,
+              "id": "15749983",
+              "start": 309,
+              "username": "Cisco"
+            },
+            {
+              "end": 327,
+              "id": "20831960",
+              "start": 317,
+              "username": "dfjgrowth"
+            },
+            {
+              "end": 335,
+              "id": "2803191",
+              "start": 329,
+              "username": "intel"
+            },
+            {
+              "end": 348,
+              "id": "15766070",
+              "start": 337,
+              "username": "ServiceNow"
+            },
+            {
+              "end": 354,
+              "id": "14861876",
+              "start": 350,
+              "username": "AMD"
+            },
+            {
+              "end": 368,
+              "id": "20793816",
+              "start": 361,
+              "username": "amazon"
+            },
+            {
+              "end": 378,
+              "id": "6535212",
+              "start": 370,
+              "username": "eladgil"
+            },
+            {
+              "end": 389,
+              "id": "2425151",
+              "start": 384,
+              "username": "Meta"
+            }
+          ]
+        },
+        "text": "11/ I can't edit my old tweet, so now properly tagging our investors:\n\nThank you to our existing investors @ycombinator, @natfriedman, @IndexVentures, @foundersfund, @coatuemgmt, @ThriveCapital, @sparkcapital, @nvidia, Tiger Global, Greenoaks, @Wellington_Mgmt \n\nWe are also excited to welcome new investors: @Cisco, @dfjgrowth, @intel, @ServiceNow, @AMD, WCM, @amazon, @eladgil, and @Meta."
+      },
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 19711,
+        "like_count": 44,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792908185545900314",
+          "type": "replied_to"
+        }
+      ],
+      "text": "11/ I can't edit my old tweet, so now properly tagging our investors:\n\nThank you to our existing investors @ycombinator, @natfriedman, @IndexVentures, @foundersfund, @coatuemgmt, @ThriveCapital, @sparkcapital, @nvidia, Tiger Global, Greenoaks, @Wellington_Mgmt \n\nWe are also",
+      "url": "https://x.com/alexandr_wang/status/1792916086964580731"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:19:56.000Z",
+      "edit_history_tweet_ids": [
+        "1792908185545900314"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 20,
+            "id": "18949452",
+            "start": 17,
+            "username": "FT"
+          },
+          {
+            "end": 41,
+            "id": "2359454196",
+            "start": 26,
+            "username": "GeorgeNHammond"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "ft.com/content/cf4918…",
+            "end": 67,
+            "expanded_url": "https://www.ft.com/content/cf4918c5-071c-42dc-b053-d45f2e1809e1",
+            "start": 44,
+            "status": 200,
+            "unwound_url": "https://www.ft.com/content/cf4918c5-071c-42dc-b053-d45f2e1809e1",
+            "url": "https://t.co/bcgaqtZA7f"
+          }
+        ]
+      },
+      "id": "1792908185545900314",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 21505,
+        "like_count": 29,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792908184212103493",
+          "type": "replied_to"
+        }
+      ],
+      "text": "10/ And from the @FT from @GeorgeNHammond \n\nhttps://t.co/bcgaqtZA7f",
+      "url": "https://x.com/alexandr_wang/status/1792908185545900314"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:19:56.000Z",
+      "edit_history_tweet_ids": [
+        "1792908184212103493"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 31,
+            "id": "104237736",
+            "start": 21,
+            "username": "Bloomberg"
+          },
+          {
+            "end": 52,
+            "id": "366244061",
+            "start": 37,
+            "username": "jackiedavalos1"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "bloomberg.com/news/articles/…",
+            "end": 77,
+            "expanded_url": "https://www.bloomberg.com/news/articles/2024-05-21/scale-valued-at-nearly-14-billion-with-funding-from-amazon-amd",
+            "start": 54,
+            "status": 200,
+            "unwound_url": "https://www.bloomberg.com/news/articles/2024-05-21/scale-valued-at-nearly-14-billion-with-funding-from-amazon-amd",
+            "url": "https://t.co/PVNyvJccno"
+          }
+        ]
+      },
+      "id": "1792908184212103493",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 10433,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792908183037780388",
+          "type": "replied_to"
+        }
+      ],
+      "text": "9/ And coverage from @Bloomberg from @jackiedavalos1\n\nhttps://t.co/PVNyvJccno",
+      "url": "https://x.com/alexandr_wang/status/1792908184212103493"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:19:56.000Z",
+      "edit_history_tweet_ids": [
+        "1792908183037780388"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 26,
+            "id": "20402945",
+            "start": 21,
+            "username": "CNBC"
+          },
+          {
+            "end": 42,
+            "id": "19909797",
+            "start": 32,
+            "username": "RileyCNBC"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "cnbc.com/2024/05/21/ama…",
+            "end": 68,
+            "expanded_url": "https://www.cnbc.com/2024/05/21/amazon-meta-back-scale-ai-in-1-billion-funding-deal.html",
+            "start": 45,
+            "status": 200,
+            "unwound_url": "https://www.cnbc.com/2024/05/21/amazon-meta-back-scale-ai-in-1-billion-funding-deal.html",
+            "url": "https://t.co/Vz2OXMQGLC"
+          }
+        ]
+      },
+      "id": "1792908183037780388",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 22985,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905425354133705",
+          "type": "replied_to"
+        }
+      ],
+      "text": "8/ See coverage from @CNBC from @RileyCNBC \n\nhttps://t.co/Vz2OXMQGLC",
+      "url": "https://x.com/alexandr_wang/status/1792908183037780388"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:58.000Z",
+      "edit_history_tweet_ids": [
+        "1792905425354133705"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/careers",
+            "end": 93,
+            "expanded_url": "https://scale.com/careers",
+            "start": 70,
+            "url": "https://t.co/QFcEnsDSMa"
+          }
+        ]
+      },
+      "id": "1792905425354133705",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 17373,
+        "like_count": 39,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905424251060575",
+          "type": "replied_to"
+        }
+      ],
+      "text": "7/ There’s a lot left to do. If this challenge excites you, join us.\n\nhttps://t.co/QFcEnsDSMa",
+      "url": "https://x.com/alexandr_wang/status/1792905425354133705"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:58.000Z",
+      "edit_history_tweet_ids": [
+        "1792905424251060575"
+      ],
+      "id": "1792905424251060575",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 15729,
+        "like_count": 39,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905423106019583",
+          "type": "replied_to"
+        }
+      ],
+      "text": "6/ With today’s funding, we’re moving into the next phase of that journey – accelerating the abundance of frontier data that will pave our road to AGI.",
+      "url": "https://x.com/alexandr_wang/status/1792905424251060575"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:58.000Z",
+      "edit_history_tweet_ids": [
+        "1792905423106019583"
+      ],
+      "id": "1792905423106019583",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 15632,
+        "like_count": 38,
+        "quote_count": 1,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905421893845184",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5/ We must build the data foundry that ushers in an era of AI-ready data abundance, and not resign ourselves to data scarcity.",
+      "url": "https://x.com/alexandr_wang/status/1792905423106019583"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:57.000Z",
+      "edit_history_tweet_ids": [
+        "1792905421893845184"
+      ],
+      "id": "1792905421893845184",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 17240,
+        "like_count": 59,
+        "quote_count": 3,
+        "reply_count": 1,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905420744581597",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ The future of AI data in turn depends on three principles:\n\n1. data abundance\n2. frontier data\n3. measurement &amp; evaluation",
+      "url": "https://x.com/alexandr_wang/status/1792905421893845184"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:57.000Z",
+      "edit_history_tweet_ids": [
+        "1792905420744581597"
+      ],
+      "id": "1792905420744581597",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 18462,
+        "like_count": 66,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905419595362403",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ AI is built from three fundamental pillars: data, compute, and algorithms. Scale supplies the data pillar that advances AI by fueling its entire development lifecycle.\n\nWe supply data to power nearly every leading AI model on the market today.",
+      "url": "https://x.com/alexandr_wang/status/1792905420744581597"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:57.000Z",
+      "edit_history_tweet_ids": [
+        "1792905419595362403"
+      ],
+      "id": "1792905419595362403",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "2/ Thank you to our existing investors: Y Combinator, Nat Friedman, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global Management, Greenoaks, and Wellington Management.\n\nWe also are excited to welcome new investors: Cisco Investments, DFJ Growth, NVIDIA, Intel Capital, ServiceNow Ventures, AMD Ventures, WCM, Amazon, Elad Gil, and Meta."
+      },
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 22059,
+        "like_count": 68,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1792905417065914858",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ Thank you to our existing investors: Y Combinator, Nat Friedman, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global Management, Greenoaks, and Wellington Management.\n\nWe also are excited to welcome new investors: Cisco Investments, DFJ Growth,",
+      "url": "https://x.com/alexandr_wang/status/1792905419595362403"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1792904725006090240"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1792905417065914858",
+      "created_at": "2024-05-21T13:08:56.000Z",
+      "edit_history_tweet_ids": [
+        "1792905417065914858"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "752712449321644032",
+            "start": 10,
+            "username": "scale_AI"
+          },
+          {
+            "end": 101,
+            "id": "33846451",
+            "start": 95,
+            "username": "Accel"
+          },
+          {
+            "end": 147,
+            "id": "752712449321644032",
+            "start": 138,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "scale.com/blog/scale-ai-…",
+            "end": 279,
+            "expanded_url": "https://scale.com/blog/scale-ai-series-f",
+            "start": 256,
+            "url": "https://t.co/GnhfTazNex"
+          },
+          {
+            "display_url": "pic.x.com/dWZvAbZ9Ww",
+            "end": 303,
+            "expanded_url": "https://x.com/alexandr_wang/status/1792905417065914858/photo/1",
+            "media_key": "3_1792904725006090240",
+            "start": 280,
+            "url": "https://t.co/dWZvAbZ9Ww"
+          }
+        ]
+      },
+      "id": "1792905417065914858",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 355,
+        "impression_count": 463483,
+        "like_count": 1519,
+        "quote_count": 75,
+        "reply_count": 86,
+        "retweet_count": 120
+      },
+      "text": "1/ Today, @Scale_AI is announcing $1B of financing at a $13.8B valuation. The round was led by @Accel along with our existing investors.\n\n@Scale_AI has never been better positioned to accelerate the abundance of frontier data and pave the road for AGI. 🧵\n\nhttps://t.co/GnhfTazNex https://t.co/dWZvAbZ9Ww",
+      "url": "https://x.com/alexandr_wang/status/1792905417065914858"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:56.000Z",
+      "edit_history_tweet_ids": [
+        "1791159410338988439"
+      ],
+      "id": "1791159410338988439",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 34,
+        "impression_count": 33784,
+        "like_count": 213,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159409181327733",
+          "type": "replied_to"
+        }
+      ],
+      "text": "10/ Solving the AI data problem is really important. It's my life's work.\n\nWe're excited to make some major announcements about this next week.\n\nFor now... stay tuned!",
+      "url": "https://x.com/alexandr_wang/status/1791159410338988439"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:55.000Z",
+      "edit_history_tweet_ids": [
+        "1791159409181327733"
+      ],
+      "id": "1791159409181327733",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 87896,
+        "like_count": 119,
+        "quote_count": 2,
+        "reply_count": 9,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159408078225562",
+          "type": "replied_to"
+        }
+      ],
+      "text": "9/ But we really need a step change here. Every major AI breakthrough over the past two decades has been driven by better and more data—dating back to the original deep neural network of AlexNet on ImageNet.\n\nScaling laws clearly illustrate where we're headed—we need more data!",
+      "url": "https://x.com/alexandr_wang/status/1791159409181327733"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:55.000Z",
+      "edit_history_tweet_ids": [
+        "1791159408078225562"
+      ],
+      "id": "1791159408078225562",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 41,
+        "impression_count": 48083,
+        "like_count": 172,
+        "quote_count": 5,
+        "reply_count": 4,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159406719357099",
+          "type": "replied_to"
+        }
+      ],
+      "text": "8/ AI data is a REALLY hard problem, and there's no easy way around it.\n\nPure synthetic data is not our savior—synthetic data cannot push the frontiers of the models beyond current capabilities. It is a tool, not a panacea.\n\nThis is a hard AI &amp; human-expert symbiosis problem.",
+      "url": "https://x.com/alexandr_wang/status/1791159408078225562"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:55.000Z",
+      "edit_history_tweet_ids": [
+        "1791159406719357099"
+      ],
+      "id": "1791159406719357099",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 44,
+        "impression_count": 33097,
+        "like_count": 138,
+        "quote_count": 2,
+        "reply_count": 3,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159405616169358",
+          "type": "replied_to"
+        }
+      ],
+      "text": "7/ This is EXTRA true once you start considering all the areas of frontier research:\n\nagents, multimodality, multilinguality, expert chain-of-thought, enterprise workflows, etc.\n\nAll of these depend on data that simply does not exist today, and we require the means of production.",
+      "url": "https://x.com/alexandr_wang/status/1791159406719357099"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:55.000Z",
+      "edit_history_tweet_ids": [
+        "1791159405616169358"
+      ],
+      "id": "1791159405616169358",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 37315,
+        "like_count": 105,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159404081053775",
+          "type": "replied_to"
+        }
+      ],
+      "text": "6/ Regardless, this points to what we might need to expect for future advancement too:\n\nPushing further on post-training, which necessitates abundant frontier data.\n\nForward progress might be fully bottlenecked on post-training data abundance.",
+      "url": "https://x.com/alexandr_wang/status/1791159405616169358"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:54.000Z",
+      "edit_history_tweet_ids": [
+        "1791159404081053775"
+      ],
+      "id": "1791159404081053775",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 39,
+        "impression_count": 40779,
+        "like_count": 161,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159403032478033",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5/ In fact, most of the differences between the top models today (Claude 3, Llama3, GPT-4o, Gemini 1.5) seem to be driven entirely by post-training, not pre-training.\n\nThis might be because of supply chain problems in pre-training—getting compute stood up + data scarcity.",
+      "url": "https://x.com/alexandr_wang/status/1791159404081053775"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:54.000Z",
+      "edit_history_tweet_ids": [
+        "1791159403032478033"
+      ],
+      "id": "1791159403032478033",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 22,
+        "impression_count": 41253,
+        "like_count": 156,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159401619054851",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ The massive eval gains of GPT-4o, which are staggering, seem to be nearly entirely driven by great POST-TRAINING.\n\nComparing GPT-4 at launch vs GPT 4o, which are night-and-day, shows the power of great post-training with great data.",
+      "url": "https://x.com/alexandr_wang/status/1791159403032478033"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:54.000Z",
+      "edit_history_tweet_ids": [
+        "1791159401619054851"
+      ],
+      "id": "1791159401619054851",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 43999,
+        "like_count": 161,
+        "quote_count": 3,
+        "reply_count": 5,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159400285237559",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ Regardless, the level of convergence is fascinating—the similarity between 4o and Astra, Veo and Sora, etc. Both labs seem to be following relatively similar technical trajectories.\n\nIMO, it's better for the industry for divergence rather than convergence. Alas...",
+      "url": "https://x.com/alexandr_wang/status/1791159401619054851"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:53.000Z",
+      "edit_history_tweet_ids": [
+        "1791159400285237559"
+      ],
+      "id": "1791159400285237559",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 41,
+        "impression_count": 55298,
+        "like_count": 228,
+        "quote_count": 7,
+        "reply_count": 5,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1791159399270277429",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ In many ways, Gemini 1.5 Flash was the gem of Google's announcements. A 1M-context small model with Flash performance is incredible.\n\nOpenAI now has the best large model with GPT-4o, and Google has the best small model with Gemini 1.5 Flash.\n\nThe competition is on.",
+      "url": "https://x.com/alexandr_wang/status/1791159400285237559"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1791159399270277429",
+      "created_at": "2024-05-16T17:30:53.000Z",
+      "edit_history_tweet_ids": [
+        "1791159399270277429"
+      ],
+      "id": "1791159399270277429",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1118,
+        "impression_count": 760201,
+        "like_count": 1106,
+        "quote_count": 16,
+        "reply_count": 30,
+        "retweet_count": 135
+      },
+      "text": "1/ Some thoughts on the recent OpenAI and Google announcements, and what it indicates about what's next in AI.\n\nHint: post-training is REALLY important...\n\nTHREAD",
+      "url": "https://x.com/alexandr_wang/status/1791159399270277429"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1787968868549620155",
+      "created_at": "2024-05-07T22:12:51.000Z",
+      "edit_history_tweet_ids": [
+        "1787968868549620155"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1172535926209298432",
+            "start": 3,
+            "username": "OliverDowden"
+          }
+        ]
+      },
+      "id": "1787968868549620155",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1787951472426058080",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @OliverDowden: Pleasure to meet Alexandr last week. It’s fantastic news that Scale has chosen the UK for their European headquarters. Th…",
+      "url": "https://x.com/alexandr_wang/status/1787968868549620155"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "3883259303",
+        "conversation_id": "1792962615385448617",
+        "created_at": "2024-05-21T16:56:13.000Z",
+        "edit_history_tweet_ids": [
+          "1792962615385448617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "615818451",
+              "start": 79,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1792905417065914858",
+              "start": 276,
+              "url": "https://t.co/uYBfMiDFdk"
+            }
+          ]
+        },
+        "id": "1792962615385448617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 93,
+                "id": "615818451",
+                "start": 79,
+                "username": "alexandr_wang"
+              }
+            ]
+          },
+          "text": "nice milestone today and a real testament to the incredible work being done by @alexandr_wang and the whole scale team.\n\nwhile much has changed in AI since the early days of the business, alex has been unwavering in his belief that high quality data is the critical input for progress in the field and, crucially, has ignored the noise + simply built things that customers want.\n\nwhile much has been written about alex as a visionary founder, few appreciate the grit and determination he's shown and instilled in the business. couldn't be more impressed by the execution."
+        },
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19672,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905417065914858",
+            "type": "quoted"
+          }
+        ],
+        "text": "nice milestone today and a real testament to the incredible work being done by @alexandr_wang and the whole scale team.\n\nwhile much has changed in AI since the early days of the business, alex has been unwavering in his belief that high quality data is the critical input for https://t.co/uYBfMiDFdk"
+      },
+      {
+        "author_id": "1519705236713189377",
+        "conversation_id": "1792922276683297162",
+        "created_at": "2024-05-21T14:15:56.000Z",
+        "edit_history_tweet_ids": [
+          "1792922276683297162"
+        ],
+        "id": "1792922276683297162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "suno.com/careers",
+                "end": 621,
+                "expanded_url": "http://suno.com/careers",
+                "start": 598,
+                "url": "https://t.co/8RKlWIR6v8"
+              },
+              {
+                "display_url": "suno.com/blog/fundraisi…",
+                "end": 901,
+                "expanded_url": "http://suno.com/blog/fundraising-announcement-may-2024",
+                "start": 878,
+                "url": "https://t.co/HvYbaO4LHy"
+              }
+            ]
+          },
+          "text": "We’re excited to announce that Suno has raised $125 million to build a future where anyone can make music, and where technology amplifies our most precious resource: human creativity. We will use this funding to accelerate product development and grow our world-class team of music makers, music lovers and technologists.\n\nOur community of musicians deserves the very best tools, and building the very best tools requires the very best talent — not just technological expertise, but a genuine love of music. If you want to be part of this journey and help shape the future of music, join us here:  https://t.co/8RKlWIR6v8\n\nMost importantly, thank you to our amazing community. We’ve been heads-down, hard at work on a number of major updates. We think you’re going to love them, and we look forward to sharing more with you soon!\n\nTo read our full announcement, visit our blog: https://t.co/HvYbaO4LHy"
+        },
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 935263,
+          "like_count": 1756,
+          "quote_count": 150,
+          "reply_count": 224,
+          "retweet_count": 173
+        },
+        "text": "We’re excited to announce that Suno has raised $125 million to build a future where anyone can make music, and where technology amplifies our most precious resource: human creativity. We will use this funding to accelerate product development and grow our world-class team of"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:19:56.000Z",
+        "edit_history_tweet_ids": [
+          "1792908185545900314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "18949452",
+              "start": 17,
+              "username": "FT"
+            },
+            {
+              "end": 41,
+              "id": "2359454196",
+              "start": 26,
+              "username": "GeorgeNHammond"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ft.com/content/cf4918…",
+              "end": 67,
+              "expanded_url": "https://www.ft.com/content/cf4918c5-071c-42dc-b053-d45f2e1809e1",
+              "start": 44,
+              "status": 200,
+              "unwound_url": "https://www.ft.com/content/cf4918c5-071c-42dc-b053-d45f2e1809e1",
+              "url": "https://t.co/bcgaqtZA7f"
+            }
+          ]
+        },
+        "id": "1792908185545900314",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 21505,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792908184212103493",
+            "type": "replied_to"
+          }
+        ],
+        "text": "10/ And from the @FT from @GeorgeNHammond \n\nhttps://t.co/bcgaqtZA7f"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:19:56.000Z",
+        "edit_history_tweet_ids": [
+          "1792908184212103493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "104237736",
+              "start": 21,
+              "username": "Bloomberg"
+            },
+            {
+              "end": 52,
+              "id": "366244061",
+              "start": 37,
+              "username": "jackiedavalos1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bloomberg.com/news/articles/…",
+              "end": 77,
+              "expanded_url": "https://www.bloomberg.com/news/articles/2024-05-21/scale-valued-at-nearly-14-billion-with-funding-from-amazon-amd",
+              "start": 54,
+              "status": 200,
+              "unwound_url": "https://www.bloomberg.com/news/articles/2024-05-21/scale-valued-at-nearly-14-billion-with-funding-from-amazon-amd",
+              "url": "https://t.co/PVNyvJccno"
+            }
+          ]
+        },
+        "id": "1792908184212103493",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10433,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792908183037780388",
+            "type": "replied_to"
+          }
+        ],
+        "text": "9/ And coverage from @Bloomberg from @jackiedavalos1\n\nhttps://t.co/PVNyvJccno"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:19:56.000Z",
+        "edit_history_tweet_ids": [
+          "1792908183037780388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "20402945",
+              "start": 21,
+              "username": "CNBC"
+            },
+            {
+              "end": 42,
+              "id": "19909797",
+              "start": 32,
+              "username": "RileyCNBC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "cnbc.com/2024/05/21/ama…",
+              "end": 68,
+              "expanded_url": "https://www.cnbc.com/2024/05/21/amazon-meta-back-scale-ai-in-1-billion-funding-deal.html",
+              "start": 45,
+              "status": 200,
+              "unwound_url": "https://www.cnbc.com/2024/05/21/amazon-meta-back-scale-ai-in-1-billion-funding-deal.html",
+              "url": "https://t.co/Vz2OXMQGLC"
+            }
+          ]
+        },
+        "id": "1792908183037780388",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22985,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905425354133705",
+            "type": "replied_to"
+          }
+        ],
+        "text": "8/ See coverage from @CNBC from @RileyCNBC \n\nhttps://t.co/Vz2OXMQGLC"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:58.000Z",
+        "edit_history_tweet_ids": [
+          "1792905425354133705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/careers",
+              "end": 93,
+              "expanded_url": "https://scale.com/careers",
+              "start": 70,
+              "url": "https://t.co/QFcEnsDSMa"
+            }
+          ]
+        },
+        "id": "1792905425354133705",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17373,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905424251060575",
+            "type": "replied_to"
+          }
+        ],
+        "text": "7/ There’s a lot left to do. If this challenge excites you, join us.\n\nhttps://t.co/QFcEnsDSMa"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:58.000Z",
+        "edit_history_tweet_ids": [
+          "1792905424251060575"
+        ],
+        "id": "1792905424251060575",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15729,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905423106019583",
+            "type": "replied_to"
+          }
+        ],
+        "text": "6/ With today’s funding, we’re moving into the next phase of that journey – accelerating the abundance of frontier data that will pave our road to AGI."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:58.000Z",
+        "edit_history_tweet_ids": [
+          "1792905423106019583"
+        ],
+        "id": "1792905423106019583",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 15632,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905421893845184",
+            "type": "replied_to"
+          }
+        ],
+        "text": "5/ We must build the data foundry that ushers in an era of AI-ready data abundance, and not resign ourselves to data scarcity."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:57.000Z",
+        "edit_history_tweet_ids": [
+          "1792905421893845184"
+        ],
+        "id": "1792905421893845184",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 17240,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905420744581597",
+            "type": "replied_to"
+          }
+        ],
+        "text": "4/ The future of AI data in turn depends on three principles:\n\n1. data abundance\n2. frontier data\n3. measurement &amp; evaluation"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:57.000Z",
+        "edit_history_tweet_ids": [
+          "1792905420744581597"
+        ],
+        "id": "1792905420744581597",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 18462,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905419595362403",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ AI is built from three fundamental pillars: data, compute, and algorithms. Scale supplies the data pillar that advances AI by fueling its entire development lifecycle.\n\nWe supply data to power nearly every leading AI model on the market today."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:57.000Z",
+        "edit_history_tweet_ids": [
+          "1792905419595362403"
+        ],
+        "id": "1792905419595362403",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "2/ Thank you to our existing investors: Y Combinator, Nat Friedman, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global Management, Greenoaks, and Wellington Management.\n\nWe also are excited to welcome new investors: Cisco Investments, DFJ Growth, NVIDIA, Intel Capital, ServiceNow Ventures, AMD Ventures, WCM, Amazon, Elad Gil, and Meta."
+        },
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22059,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792905417065914858",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ Thank you to our existing investors: Y Combinator, Nat Friedman, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global Management, Greenoaks, and Wellington Management.\n\nWe also are excited to welcome new investors: Cisco Investments, DFJ Growth,"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792904725006090240"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1792905417065914858",
+        "created_at": "2024-05-21T13:08:56.000Z",
+        "edit_history_tweet_ids": [
+          "1792905417065914858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "752712449321644032",
+              "start": 10,
+              "username": "scale_AI"
+            },
+            {
+              "end": 101,
+              "id": "33846451",
+              "start": 95,
+              "username": "Accel"
+            },
+            {
+              "end": 147,
+              "id": "752712449321644032",
+              "start": 138,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "scale.com/blog/scale-ai-…",
+              "end": 279,
+              "expanded_url": "https://scale.com/blog/scale-ai-series-f",
+              "start": 256,
+              "url": "https://t.co/GnhfTazNex"
+            },
+            {
+              "display_url": "pic.x.com/dWZvAbZ9Ww",
+              "end": 303,
+              "expanded_url": "https://x.com/alexandr_wang/status/1792905417065914858/photo/1",
+              "media_key": "3_1792904725006090240",
+              "start": 280,
+              "url": "https://t.co/dWZvAbZ9Ww"
+            }
+          ]
+        },
+        "id": "1792905417065914858",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 463483,
+          "like_count": 1519,
+          "quote_count": 75,
+          "reply_count": 86,
+          "retweet_count": 120
+        },
+        "text": "1/ Today, @Scale_AI is announcing $1B of financing at a $13.8B valuation. The round was led by @Accel along with our existing investors.\n\n@Scale_AI has never been better positioned to accelerate the abundance of frontier data and pave the road for AGI. 🧵\n\nhttps://t.co/GnhfTazNex https://t.co/dWZvAbZ9Ww"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:55.000Z",
+        "edit_history_tweet_ids": [
+          "1791159409181327733"
+        ],
+        "id": "1791159409181327733",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 87896,
+          "like_count": 119,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159408078225562",
+            "type": "replied_to"
+          }
+        ],
+        "text": "9/ But we really need a step change here. Every major AI breakthrough over the past two decades has been driven by better and more data—dating back to the original deep neural network of AlexNet on ImageNet.\n\nScaling laws clearly illustrate where we're headed—we need more data!"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:55.000Z",
+        "edit_history_tweet_ids": [
+          "1791159408078225562"
+        ],
+        "id": "1791159408078225562",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 48083,
+          "like_count": 172,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159406719357099",
+            "type": "replied_to"
+          }
+        ],
+        "text": "8/ AI data is a REALLY hard problem, and there's no easy way around it.\n\nPure synthetic data is not our savior—synthetic data cannot push the frontiers of the models beyond current capabilities. It is a tool, not a panacea.\n\nThis is a hard AI &amp; human-expert symbiosis problem."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:55.000Z",
+        "edit_history_tweet_ids": [
+          "1791159406719357099"
+        ],
+        "id": "1791159406719357099",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 33097,
+          "like_count": 138,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159405616169358",
+            "type": "replied_to"
+          }
+        ],
+        "text": "7/ This is EXTRA true once you start considering all the areas of frontier research:\n\nagents, multimodality, multilinguality, expert chain-of-thought, enterprise workflows, etc.\n\nAll of these depend on data that simply does not exist today, and we require the means of production."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:55.000Z",
+        "edit_history_tweet_ids": [
+          "1791159405616169358"
+        ],
+        "id": "1791159405616169358",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 37315,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159404081053775",
+            "type": "replied_to"
+          }
+        ],
+        "text": "6/ Regardless, this points to what we might need to expect for future advancement too:\n\nPushing further on post-training, which necessitates abundant frontier data.\n\nForward progress might be fully bottlenecked on post-training data abundance."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:54.000Z",
+        "edit_history_tweet_ids": [
+          "1791159404081053775"
+        ],
+        "id": "1791159404081053775",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 40779,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159403032478033",
+            "type": "replied_to"
+          }
+        ],
+        "text": "5/ In fact, most of the differences between the top models today (Claude 3, Llama3, GPT-4o, Gemini 1.5) seem to be driven entirely by post-training, not pre-training.\n\nThis might be because of supply chain problems in pre-training—getting compute stood up + data scarcity."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:54.000Z",
+        "edit_history_tweet_ids": [
+          "1791159403032478033"
+        ],
+        "id": "1791159403032478033",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 41253,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159401619054851",
+            "type": "replied_to"
+          }
+        ],
+        "text": "4/ The massive eval gains of GPT-4o, which are staggering, seem to be nearly entirely driven by great POST-TRAINING.\n\nComparing GPT-4 at launch vs GPT 4o, which are night-and-day, shows the power of great post-training with great data."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:54.000Z",
+        "edit_history_tweet_ids": [
+          "1791159401619054851"
+        ],
+        "id": "1791159401619054851",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 43999,
+          "like_count": 161,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159400285237559",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ Regardless, the level of convergence is fascinating—the similarity between 4o and Astra, Veo and Sora, etc. Both labs seem to be following relatively similar technical trajectories.\n\nIMO, it's better for the industry for divergence rather than convergence. Alas..."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:53.000Z",
+        "edit_history_tweet_ids": [
+          "1791159400285237559"
+        ],
+        "id": "1791159400285237559",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 55298,
+          "like_count": 228,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791159399270277429",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ In many ways, Gemini 1.5 Flash was the gem of Google's announcements. A 1M-context small model with Flash performance is incredible.\n\nOpenAI now has the best large model with GPT-4o, and Google has the best small model with Gemini 1.5 Flash.\n\nThe competition is on."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1791159399270277429",
+        "created_at": "2024-05-16T17:30:53.000Z",
+        "edit_history_tweet_ids": [
+          "1791159399270277429"
+        ],
+        "id": "1791159399270277429",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1118,
+          "impression_count": 760201,
+          "like_count": 1106,
+          "quote_count": 16,
+          "reply_count": 30,
+          "retweet_count": 135
+        },
+        "text": "1/ Some thoughts on the recent OpenAI and Google announcements, and what it indicates about what's next in AI.\n\nHint: post-training is REALLY important...\n\nTHREAD"
+      },
+      {
+        "author_id": "1172535926209298432",
+        "conversation_id": "1787951472426058080",
+        "created_at": "2024-05-07T21:03:44.000Z",
+        "edit_history_tweet_ids": [
+          "1787951472426058080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1787772836955689133",
+              "start": 276,
+              "url": "https://t.co/ZFQGCOF6Tx"
+            }
+          ]
+        },
+        "id": "1787951472426058080",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 22660,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787772836955689133",
+            "type": "quoted"
+          }
+        ],
+        "text": "Pleasure to meet Alexandr last week. It’s fantastic news that Scale has chosen the UK for their European headquarters. This is a further vote of confidence in the UK as Europe’s artificial intelligence hub and a leading global destination for AI innovation and investment 🇬🇧🌍 https://t.co/ZFQGCOF6Tx"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1618358798577709057",
+        "name": "Karma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113077728551510016/Rhj0WSjb_normal.jpg",
+        "username": "0xkrma",
+        "verified": false
+      },
+      {
+        "id": "3883259303",
+        "name": "Will Reed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765607684123111425/xS_9L3fG_normal.jpg",
+        "username": "willreed",
+        "verified": false
+      },
+      {
+        "id": "1519705236713189377",
+        "name": "Suno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917978610683514880/JbHhI1yH_normal.jpg",
+        "username": "suno",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1793002084335305086",
+    "next_token": "b26v89c19zqg8o3fr5zf1y0iy6ebjb4lnsmo2r0a4omm5",
+    "oldest_id": "1787968868549620155",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1792943706880008221].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1792943706880008221",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1792943706880008221"
+    }
+  ]
+}

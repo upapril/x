@@ -1,0 +1,919 @@
+{
+  "collected_at_utc": "2026-11-26T01:20:46Z",
+  "collected_at_shanghai": "2026-11-26T09:20:46+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ13QHQWWTZ0D31PQ2ZQ8C.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-11-01T00:00:00Z",
+    "end_time": "2024-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2024-11"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1861214583031017574",
+      "created_at": "2024-11-26T01:05:10.000Z",
+      "edit_history_tweet_ids": [
+        "1861214583031017574"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/rbccawang/stat…",
+            "end": 109,
+            "expanded_url": "https://twitter.com/rbccawang/status/1861159526889857371",
+            "start": 86,
+            "url": "https://t.co/AhjVDQCYue"
+          }
+        ]
+      },
+      "id": "1861214583031017574",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 36,
+        "impression_count": 116339,
+        "like_count": 435,
+        "quote_count": 2,
+        "reply_count": 29,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1861159526889857371",
+          "type": "quoted"
+        }
+      ],
+      "text": "haven’t done competitions for a while but feeling good about my chances with this one https://t.co/AhjVDQCYue",
+      "url": "https://x.com/alexandr_wang/status/1861214583031017574"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1856650898467914191",
+      "created_at": "2024-11-13T15:16:06.000Z",
+      "edit_history_tweet_ids": [
+        "1856717684068745393"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "183749519",
+            "start": 0,
+            "username": "paulg"
+          }
+        ]
+      },
+      "id": "1856717684068745393",
+      "in_reply_to_user_id": "183749519",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 22990,
+        "like_count": 331,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1856650898467914191",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@paulg It was a very fun podcast! I had nearly forgotten that Jessica had interviewed me for YC back then, and I was shocked that she remembered it so well. She was very honest about her notes at the time 😂",
+      "url": "https://x.com/alexandr_wang/status/1856717684068745393"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T18:16:16.000Z",
+      "edit_history_tweet_ids": [
+        "1853863918709715166"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "defensescoop.com/2024/11/04/sca…",
+            "end": 79,
+            "expanded_url": "https://defensescoop.com/2024/11/04/scale-ai-unveils-defense-llama-large-language-model-llm-national-security-users/",
+            "start": 56,
+            "status": 200,
+            "unwound_url": "https://defensescoop.com/2024/11/04/scale-ai-unveils-defense-llama-large-language-model-llm-national-security-users/",
+            "url": "https://t.co/8fMgAmDeQc"
+          }
+        ]
+      },
+      "id": "1853863918709715166",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 15570,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1853853837695803844",
+          "type": "replied_to"
+        }
+      ],
+      "text": "And the story from DefenseScoop on Defense Llama here:\n\nhttps://t.co/8fMgAmDeQc",
+      "url": "https://x.com/alexandr_wang/status/1853863918709715166"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T17:36:12.000Z",
+      "edit_history_tweet_ids": [
+        "1853853837695803844"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "about.fb.com/news/2024/11/o…",
+            "end": 60,
+            "expanded_url": "https://about.fb.com/news/2024/11/open-source-ai-america-global-security/",
+            "start": 37,
+            "status": 200,
+            "unwound_url": "https://about.fb.com/news/2024/11/open-source-ai-america-global-security/",
+            "url": "https://t.co/F6QgNU8EGs"
+          }
+        ]
+      },
+      "id": "1853853837695803844",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 19787,
+        "like_count": 28,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1853853836190114082",
+          "type": "replied_to"
+        }
+      ],
+      "text": "And Meta's formal announcement here:\nhttps://t.co/F6QgNU8EGs",
+      "url": "https://x.com/alexandr_wang/status/1853853837695803844"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T17:36:12.000Z",
+      "edit_history_tweet_ids": [
+        "1853853836190114082"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/blog/defense-l…",
+            "end": 132,
+            "expanded_url": "https://scale.com/blog/defense-llama",
+            "start": 109,
+            "status": 200,
+            "unwound_url": "https://scale.com/blog/defense-llama",
+            "url": "https://t.co/T6bKcoBBhV"
+          }
+        ]
+      },
+      "id": "1853853836190114082",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 6000,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1853853834612981853",
+          "type": "replied_to"
+        }
+      ],
+      "text": "We are proud to collaborate with Meta on National Security AI.\n\nRead more on our official announcement here:\nhttps://t.co/T6bKcoBBhV",
+      "url": "https://x.com/alexandr_wang/status/1853853836190114082"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T17:36:11.000Z",
+      "edit_history_tweet_ids": [
+        "1853853834612981853"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "alexw.substack.com/p/war",
+            "end": 123,
+            "expanded_url": "https://alexw.substack.com/p/war",
+            "start": 100,
+            "status": 200,
+            "unwound_url": "https://alexw.substack.com/p/war",
+            "url": "https://t.co/TawcO6cWSl"
+          },
+          {
+            "display_url": "time.com/6295586/milita…",
+            "end": 222,
+            "expanded_url": "https://time.com/6295586/military-ai-warfare-alexandr-wang/",
+            "start": 199,
+            "status": 200,
+            "unwound_url": "https://time.com/6295586/military-ai-warfare-alexandr-wang/",
+            "url": "https://t.co/oAkQ9bHpui"
+          }
+        ]
+      },
+      "id": "1853853834612981853",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 3999,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1853853833128215002",
+          "type": "replied_to"
+        }
+      ],
+      "text": "I have written about this topic in the past—in 2022, I wrote about the AI War and how we must win:\n\nhttps://t.co/TawcO6cWSl\n\nand I gave a testimony for the House Armed Services Committee last year:\n\nhttps://t.co/oAkQ9bHpui",
+      "url": "https://x.com/alexandr_wang/status/1853853834612981853"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T17:36:11.000Z",
+      "edit_history_tweet_ids": [
+        "1853853833128215002"
+      ],
+      "id": "1853853833128215002",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4122,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1853853831517630559",
+          "type": "replied_to"
+        }
+      ],
+      "text": "By leveraging the best commercial models for national security, and fine-tuning them specifically for defense and intelligence use cases, we are empowering the US to succeed against our strategic competitors.\n\nThere is nothing else more important for the future of freedom.",
+      "url": "https://x.com/alexandr_wang/status/1853853833128215002"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T17:36:11.000Z",
+      "edit_history_tweet_ids": [
+        "1853853831517630559"
+      ],
+      "id": "1853853831517630559",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "With the National Security Memorandum coming out of the White House recently, it is clear we need to move fast on AI in national security.\n\nFrom the NSM:\n\n\"If the United States Government does not act with responsible speed and in partnership with industry, civil society, and academia to make use of AI capabilities in service of the national security mission — and to ensure the safety, security, and trustworthiness of American AI innovation writ large — it risks losing ground to strategic competitors.\""
+      },
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4654,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1853853829336559790",
+          "type": "replied_to"
+        }
+      ],
+      "text": "With the National Security Memorandum coming out of the White House recently, it is clear we need to move fast on AI in national security.\n\nFrom the NSM:\n\n\"If the United States Government does not act with responsible speed and in partnership with industry, civil society, and",
+      "url": "https://x.com/alexandr_wang/status/1853853831517630559"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1853852124842754048"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1853853829336559790",
+      "created_at": "2024-11-05T17:36:10.000Z",
+      "edit_history_tweet_ids": [
+        "1853853829336559790"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 153,
+            "id": "2425151",
+            "start": 148,
+            "username": "Meta"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/wx5GcO455f",
+            "end": 286,
+            "expanded_url": "https://x.com/alexandr_wang/status/1853853829336559790/photo/1",
+            "media_key": "3_1853852124842754048",
+            "start": 263,
+            "url": "https://t.co/wx5GcO455f"
+          }
+        ]
+      },
+      "id": "1853853829336559790",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 311,
+        "impression_count": 134811,
+        "like_count": 792,
+        "quote_count": 21,
+        "reply_count": 25,
+        "retweet_count": 71
+      },
+      "text": "Scale AI is proud to announce Defense Llama 🇺🇸: the LLM purpose-built for American national security.\n\nThis is the product of collaboration between @Meta, Scale, and defense experts, and is available now for integration into US defense systems.\n\nRead more below👇 https://t.co/wx5GcO455f",
+      "url": "https://x.com/alexandr_wang/status/1853853829336559790"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1852398446441050188",
+      "created_at": "2024-11-01T17:15:44.000Z",
+      "edit_history_tweet_ids": [
+        "1852399135636500504"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "78298886",
+            "start": 0,
+            "username": "jewiss"
+          }
+        ]
+      },
+      "id": "1852399135636500504",
+      "in_reply_to_user_id": "78298886",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 493,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1852398903817318497",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jewiss yes of course!\n\nwe already include:\n- doctors\n- lawyers\n- PhDs\n- mathematicians\n- scientists\n- professionals\n- accountants\n- coders\n\nbut trying to expand quickly!\n\nwhat's of interest to you?",
+      "url": "https://x.com/alexandr_wang/status/1852399135636500504"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1852398446441050188",
+      "created_at": "2024-11-01T17:13:00.000Z",
+      "edit_history_tweet_ids": [
+        "1852398449809076240"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/expertmatch",
+            "end": 270,
+            "expanded_url": "https://scale.com/expertmatch",
+            "start": 247,
+            "status": 404,
+            "unwound_url": "https://scale.com/expertmatch",
+            "url": "https://t.co/H53c1tlXne"
+          }
+        ]
+      },
+      "id": "1852398449809076240",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 14717,
+        "like_count": 62,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1852398448190120314",
+          "type": "replied_to"
+        }
+      ],
+      "text": "We want to provide Experts with opportunities to connect with the leading AI labs and efforts in the world.\n\nWe also want AI developers and labs to be able to collaborate directly with advanced experts to push the frontier of AI.\n\nRead more here:\nhttps://t.co/H53c1tlXne",
+      "url": "https://x.com/alexandr_wang/status/1852398449809076240"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1852398446441050188",
+      "created_at": "2024-11-01T17:13:00.000Z",
+      "edit_history_tweet_ids": [
+        "1852398448190120314"
+      ],
+      "id": "1852398448190120314",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 15882,
+        "like_count": 64,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1852398446441050188",
+          "type": "replied_to"
+        }
+      ],
+      "text": "AI models are getting smarter. o1 was a major breakthrough, and we don't expect that to stop.\n\nWhat's needed today are the world's most advanced experts (doctors, lawyers, PhDs, professionals) to help provide their expertise in advancing the models towards the frontier.",
+      "url": "https://x.com/alexandr_wang/status/1852398448190120314"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1852397228343898112"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1852398446441050188",
+      "created_at": "2024-11-01T17:13:00.000Z",
+      "edit_history_tweet_ids": [
+        "1852398446441050188"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/FzQkvLWWuK",
+            "end": 295,
+            "expanded_url": "https://x.com/alexandr_wang/status/1852398446441050188/photo/1",
+            "media_key": "3_1852397228343898112",
+            "start": 272,
+            "url": "https://t.co/FzQkvLWWuK"
+          }
+        ]
+      },
+      "id": "1852398446441050188",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 416,
+        "impression_count": 116453,
+        "like_count": 720,
+        "quote_count": 10,
+        "reply_count": 31,
+        "retweet_count": 50
+      },
+      "text": "🚀 New Scale Product 🚀\n\nToday, we're launching Expert Match!\n\nExpert Match enables AI developers to connect with Experts (doctors, lawyers, PhDs) to collaborate on their AI projects:\n🔎 Advanced Search\n💼 View Qualifications\n⭐️ Streamlined Screening + Selection\n\nRead more 👇 https://t.co/FzQkvLWWuK",
+      "url": "https://x.com/alexandr_wang/status/1852398446441050188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1411006415641006081",
+        "conversation_id": "1861159526889857371",
+        "created_at": "2024-11-25T21:26:24.000Z",
+        "edit_history_tweet_ids": [
+          "1861159526889857371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "615818451",
+              "start": 1,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "partiful.com/e/MOzRqwGUPhWD…",
+              "end": 103,
+              "expanded_url": "https://partiful.com/e/MOzRqwGUPhWDypqhVrwy",
+              "start": 80,
+              "status": 200,
+              "unwound_url": "https://partiful.com/e/MOzRqwGUPhWDypqhVrwy",
+              "url": "https://t.co/WgWk5AaGfY"
+            }
+          ]
+        },
+        "id": "1861159526889857371",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 179963,
+          "like_count": 282,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "text": ".@alexandr_wang look-a-like competition @ stanford \n\nrsvp for the wang gang 😎\n\n https://t.co/WgWk5AaGfY"
+      },
+      {
+        "author_id": "183749519",
+        "conversation_id": "1856650898467914191",
+        "created_at": "2024-11-13T10:50:43.000Z",
+        "edit_history_tweet_ids": [
+          "1856650898467914191"
+        ],
+        "id": "1856650898467914191",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 258032,
+          "like_count": 1457,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 31
+        },
+        "text": "Jessica just interviewed Alexandr Wang for The Social Radars. She was also one of the interviewers when he applied to YC in 2016. She went and looked at the partners' notes on that interview. All said the same thing: high beta."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1853853829336559790",
+        "created_at": "2024-11-05T17:36:12.000Z",
+        "edit_history_tweet_ids": [
+          "1853853837695803844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "about.fb.com/news/2024/11/o…",
+              "end": 60,
+              "expanded_url": "https://about.fb.com/news/2024/11/open-source-ai-america-global-security/",
+              "start": 37,
+              "status": 200,
+              "unwound_url": "https://about.fb.com/news/2024/11/open-source-ai-america-global-security/",
+              "url": "https://t.co/F6QgNU8EGs"
+            }
+          ]
+        },
+        "id": "1853853837695803844",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 19787,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853853836190114082",
+            "type": "replied_to"
+          }
+        ],
+        "text": "And Meta's formal announcement here:\nhttps://t.co/F6QgNU8EGs"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1853853829336559790",
+        "created_at": "2024-11-05T17:36:12.000Z",
+        "edit_history_tweet_ids": [
+          "1853853836190114082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "scale.com/blog/defense-l…",
+              "end": 132,
+              "expanded_url": "https://scale.com/blog/defense-llama",
+              "start": 109,
+              "status": 200,
+              "unwound_url": "https://scale.com/blog/defense-llama",
+              "url": "https://t.co/T6bKcoBBhV"
+            }
+          ]
+        },
+        "id": "1853853836190114082",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6000,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853853834612981853",
+            "type": "replied_to"
+          }
+        ],
+        "text": "We are proud to collaborate with Meta on National Security AI.\n\nRead more on our official announcement here:\nhttps://t.co/T6bKcoBBhV"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1853853829336559790",
+        "created_at": "2024-11-05T17:36:11.000Z",
+        "edit_history_tweet_ids": [
+          "1853853834612981853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "alexw.substack.com/p/war",
+              "end": 123,
+              "expanded_url": "https://alexw.substack.com/p/war",
+              "start": 100,
+              "status": 200,
+              "unwound_url": "https://alexw.substack.com/p/war",
+              "url": "https://t.co/TawcO6cWSl"
+            },
+            {
+              "display_url": "time.com/6295586/milita…",
+              "end": 222,
+              "expanded_url": "https://time.com/6295586/military-ai-warfare-alexandr-wang/",
+              "start": 199,
+              "status": 200,
+              "unwound_url": "https://time.com/6295586/military-ai-warfare-alexandr-wang/",
+              "url": "https://t.co/oAkQ9bHpui"
+            }
+          ]
+        },
+        "id": "1853853834612981853",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3999,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853853833128215002",
+            "type": "replied_to"
+          }
+        ],
+        "text": "I have written about this topic in the past—in 2022, I wrote about the AI War and how we must win:\n\nhttps://t.co/TawcO6cWSl\n\nand I gave a testimony for the House Armed Services Committee last year:\n\nhttps://t.co/oAkQ9bHpui"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1853853829336559790",
+        "created_at": "2024-11-05T17:36:11.000Z",
+        "edit_history_tweet_ids": [
+          "1853853833128215002"
+        ],
+        "id": "1853853833128215002",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4122,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853853831517630559",
+            "type": "replied_to"
+          }
+        ],
+        "text": "By leveraging the best commercial models for national security, and fine-tuning them specifically for defense and intelligence use cases, we are empowering the US to succeed against our strategic competitors.\n\nThere is nothing else more important for the future of freedom."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1853853829336559790",
+        "created_at": "2024-11-05T17:36:11.000Z",
+        "edit_history_tweet_ids": [
+          "1853853831517630559"
+        ],
+        "id": "1853853831517630559",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "With the National Security Memorandum coming out of the White House recently, it is clear we need to move fast on AI in national security.\n\nFrom the NSM:\n\n\"If the United States Government does not act with responsible speed and in partnership with industry, civil society, and academia to make use of AI capabilities in service of the national security mission — and to ensure the safety, security, and trustworthiness of American AI innovation writ large — it risks losing ground to strategic competitors.\""
+        },
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4654,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853853829336559790",
+            "type": "replied_to"
+          }
+        ],
+        "text": "With the National Security Memorandum coming out of the White House recently, it is clear we need to move fast on AI in national security.\n\nFrom the NSM:\n\n\"If the United States Government does not act with responsible speed and in partnership with industry, civil society, and"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1853852124842754048"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1853853829336559790",
+        "created_at": "2024-11-05T17:36:10.000Z",
+        "edit_history_tweet_ids": [
+          "1853853829336559790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 153,
+              "id": "2425151",
+              "start": 148,
+              "username": "Meta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wx5GcO455f",
+              "end": 286,
+              "expanded_url": "https://x.com/alexandr_wang/status/1853853829336559790/photo/1",
+              "media_key": "3_1853852124842754048",
+              "start": 263,
+              "url": "https://t.co/wx5GcO455f"
+            }
+          ]
+        },
+        "id": "1853853829336559790",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 311,
+          "impression_count": 134811,
+          "like_count": 792,
+          "quote_count": 21,
+          "reply_count": 25,
+          "retweet_count": 71
+        },
+        "text": "Scale AI is proud to announce Defense Llama 🇺🇸: the LLM purpose-built for American national security.\n\nThis is the product of collaboration between @Meta, Scale, and defense experts, and is available now for integration into US defense systems.\n\nRead more below👇 https://t.co/wx5GcO455f"
+      },
+      {
+        "author_id": "78298886",
+        "conversation_id": "1852398446441050188",
+        "created_at": "2024-11-01T17:14:49.000Z",
+        "edit_history_tweet_ids": [
+          "1852398903817318497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1852398903817318497",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 482,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852398448190120314",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang This is cool. Any plans to expand beyond doctors, lawyers, and PhDs?"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1852398446441050188",
+        "created_at": "2024-11-01T17:13:00.000Z",
+        "edit_history_tweet_ids": [
+          "1852398448190120314"
+        ],
+        "id": "1852398448190120314",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15882,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852398446441050188",
+            "type": "replied_to"
+          }
+        ],
+        "text": "AI models are getting smarter. o1 was a major breakthrough, and we don't expect that to stop.\n\nWhat's needed today are the world's most advanced experts (doctors, lawyers, PhDs, professionals) to help provide their expertise in advancing the models towards the frontier."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1852397228343898112"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1852398446441050188",
+        "created_at": "2024-11-01T17:13:00.000Z",
+        "edit_history_tweet_ids": [
+          "1852398446441050188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzQkvLWWuK",
+              "end": 295,
+              "expanded_url": "https://x.com/alexandr_wang/status/1852398446441050188/photo/1",
+              "media_key": "3_1852397228343898112",
+              "start": 272,
+              "url": "https://t.co/FzQkvLWWuK"
+            }
+          ]
+        },
+        "id": "1852398446441050188",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 116453,
+          "like_count": 720,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 50
+        },
+        "text": "🚀 New Scale Product 🚀\n\nToday, we're launching Expert Match!\n\nExpert Match enables AI developers to connect with Experts (doctors, lawyers, PhDs) to collaborate on their AI projects:\n🔎 Advanced Search\n💼 View Qualifications\n⭐️ Streamlined Screening + Selection\n\nRead more 👇 https://t.co/FzQkvLWWuK"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "183749519",
+        "name": "Paul Graham",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+        "username": "paulg",
+        "verified": false
+      },
+      {
+        "id": "78298886",
+        "name": "Connor Jewiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991960589669683200/CK65BAbh_normal.jpg",
+        "username": "jewiss",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1861214583031017574",
+    "next_token": "b26v89c19zqg8o3frr0rxxlzf7uygs1x74e6ee5i1v8u5",
+    "oldest_id": "1852398446441050188",
+    "result_count": 13
+  },
+  "errors": []
+}

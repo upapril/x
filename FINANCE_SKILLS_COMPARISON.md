@@ -1,46 +1,73 @@
-# Finance-skills compared with the day-2 archive
+# finance-skills vs the day3 X archive
 
-**25 Nov 2026, Asia/Shanghai (GMT+8).** Stored posts: **34,913** unique ids (day 1 had 15,370; day 2 added 19,543). Still partial. This note puts those dated statements next to the vendored skill docs. It is not a ranking, a backtest, or a recommendation to trade.
+**26 Nov 2026, Asia/Shanghai (GMT+8).** This note updates the 24 Nov 2026 document review of the public repo [himself65/finance-skills](https://github.com/himself65/finance-skills) against the day3 five-account archive in `/workspace/x-research`. Skills were **read as docs only** on 24 Nov 2026. They were **not installed, not executed, and not re-fetched** on day3. Star counts, push dates, and skill-doc wording below remain those of the 24 Nov 2026 review unless a sentence says otherwise. Nothing here is investment advice, and neither source proves profitability. No backtest was run or fabricated.
 
-The account-to-account comparison, without the skill docs, is [`FINANCE_COMPARISON.md`](FINANCE_COMPARISON.md). The reading guide is [`INSIGHTS.md`](INSIGHTS.md).
+The original first-pass comparison file outside this tree is left untouched as a historical snapshot.
 
-Vendored tree: [`vendor/finance-skills/`](vendor/finance-skills/) at upstream `a0850786e72aa23b92862f9f1635b0de506fe206`. License: MIT, Copyright (c) 2025 Alex Yang, unchanged. The skills were not installed or run.
+## 1. Repo overview (not re-verified on day3)
 
-## What the store can support now
+From the 24 Nov 2026 review of GitHub API + README on branch `main` (not by installing or running the skills): MIT-licensed “agent skills for financial analysis and trading”; docs site https://skills.himself65.com/; the site then described “24 skills” and about 3.6k stars while the README skill tables listed **26 named skills**. Both figures were recorded as written; this update does not guess why they differed and does not refresh them.
 
-| Account | Stored | Profile `post_count` | Dated statements this comparison uses | Do not generalize |
-|---|---:|---:|---|---|
-| @silverfang88 | 12,862 | 19,982 | 29 Dec 2023 next-story filter; 10 Jul 2025 Pump attention vs “以大搏小”; 19 Jun 2025 Circle “认知套利” | Open 2024-03 and 2024-06–09. Attention is not a verified fill. “认知套利” is not a hedged pair. |
-| @iiiinvest | 4,712 | 4,858 | 3 Sep 2026 stop above 150, 4 Sep report that the stop filled, 5 Sep leveraged all-in advice for a small account; earlier “越跌越买” | One reported stop is not a portfolio rule. 2023–2025 stay thinner than 2026. |
-| @alexandr_wang | 1,921 | 3,762 | 30 Jun 2017 customer-requirements reply; 3 Oct 2017 segmentation API reply. Operator, not a trader. | 2024–2026 months are still mostly the older samples. No finance system is in the posts. |
-| @taresky | 8,551 | 34,003 | 28 Dec 2022 “只套利，不承担风险敞口”; 9 Nov 2024 he says he researched less-certain, longer-cycle exposure and accepts some drawdown; 15 Mar 2025 “风险杠杆” 0.25x vs 0.5x | 131 calendar months still have no job. The 2024 sentence limits a timeless reading of 2022. It does not prove the arb book ended, and the APY/drawdown lines stay unverified. |
-| @thankUcrypto | 6,867 | 8,097 | 22 Jul 2024 “我又不马丁” beside copy-trading economics; 24 Nov 2026 “什么条件开” / “什么条件平” and, the same day, “相当于马丁一直加仓” | 2025-03 and 2024-04/07 are still open. 79 months have no job. Do not net the self-reported millions and the self-reported losses. |
+Market-analysis skills named in that README included `sepa-strategy` (SEPA/Minervini), valuation, earnings, ETF premium, options payoff, correlation, liquidity, and `yfinance-data`. Social-reader skills included `twitter-reader` (opencli / browser-session). The README warned: educational and informational only; not financial advice.
 
-## Skill docs versus those sentences
+`sepa-strategy` docs, as reviewed then, give a structured decision process (stage, trend template, VCP/base, pivot, stop, size) and include an iron rule: **never average down on a loser.** Treat “Strong Buy Setup” language in that skill as a report template, not a signal with proven results. The position-size formula recorded in the earlier review was `Shares = (Account Value × Risk Per Trade %) ÷ (Entry − Stop)`. This package does not execute that formula on any captured trade and does not invent a Risk Per Trade percent for any of the five accounts.
 
-| Question | What a stored post says | What the vendored SEPA doc says |
+## 2. What the day3 X analyses actually are
+
+Source: each `analysis.md`, `coverage_manifest.md`, and this package's `collection_summary.json`. Day3 corpus (unique retrieved posts): @silverfang88 19,848; @iiiinvest 4,850; @alexandr_wang 3,625; @taresky 17,532; @thankUcrypto 7,851; total 53,706. Profile lookup lifetime counts (Wang 3,762, III 4,858, SF 19,982, taresky 34,003, thankUcrypto 8,097) are not missing-count proofs. The archive is still **explicitly partial**.
+
+- **@alexandr_wang** — operator, not a presumed trader. Public voice of Scale AI’s founder and, in later captured posts and an inherited Meta leadership-page note, Meta-related role language. This is an executive/policy/product feed, not a trading journal. No fresh Meta-page verification was performed on day3; leadership-page wording lives in `public_sources_wang.md` and must not be conflated with packaging notes.
+- **@iiiinvest** — Chinese-language live-trading commentator. Recurring **explicit** claims: trade a written plan; waiting/cash is a skill; dated 2026 plans around Nasdaq / SOXL / TQQQ / BTC, including “越跌越买” and “越跌越补.” Community plus referral and a “free” group that still requires a ticket. P&L and ranking figures are self-reported and unverified.
+- **@silverfang88** — narrative commentator on crypto and later US stocks / AI themes. Recurring claims: play the next narrative; don’t participate without a cost/information advantage; dated 2023 scale-out recipe; also, on 6 Jun 2023, “很简单 越跌越买.” P&L is self-reported and unverified.
+- **@taresky** — arb/technical operator whose 2022 “只套利，不承担风险敞口” slogan is qualified by January 2023 profit-side exposure language, 2024 uncertain-exposure research, and 2025 personal 0.25x risk-leverage comments. Self-reported returns are not a verified edge.
+- **@thankUcrypto** — leveraged discretionary trading plus copy-trading/media economics. 2024 “不马丁” is in textual tension with 2026 averaging / “相当于马丁一直加仓” language.
+
+The archive’s distinctive value is sourced, dated posts, identity and monetization context, tensions in the speakers’ own words, and explicit coverage limits. It does not itself back-test their trades or supply valuation models.
+
+## 3. Overlaps and the disagreement that must stay explicit
+
+| Theme | In the day3 X analyses | In finance-skills docs (24 Nov 2026 review) |
 |---|---|---|
-| Add as price falls | @iiiinvest, 24 Nov 2026: “按照计划越跌越买” ([2125158673203048455](https://x.com/iiiinvest/status/2125158673203048455)) and 27 Mar 2026 “越跌越补” ([2037361082038362440](https://x.com/iiiinvest/status/2037361082038362440)). @thankUcrypto, 24 Nov 2026: “一路相当于马丁一直加仓” ([2125183975757119963](https://x.com/thankUcrypto/status/2125183975757119963)). | `sepa-strategy/SKILL.md`: “Never average down on a losing position.” Adds in that document are only to winners. |
-| Refuse that pattern | @thankUcrypto, 22 Jul 2024: “我又不马丁” ([1815223717531918486](https://x.com/thankUcrypto/status/1815223717531918486)), in a post about stops, followers leaving, and profit-share income. | Same SEPA line. His 2024 sentence and his 2026 sentence disagree with each other. The skill does not settle which one he followed. |
-| Write the condition first | @thankUcrypto, 24 Nov 2026, 17:11:52 GMT+8: “什么条件开” and “什么条件平” ([2125155429512855651](https://x.com/thankUcrypto/status/2125155429512855651)). @iiiinvest, 3 Sep 2026: full stop above 150 ([2095515428634464402](https://x.com/iiiinvest/status/2095515428634464402)), then 4 Sep he reports the stop was hit ([2095721109156995262](https://x.com/iiiinvest/status/2095721109156995262)). | SEPA: pre-define entry, stop, and size. The 3–4 Sep pair is his report of one short, not an audited fill tape. The 5 Sep post then tells a small account to use large leverage ([2096170727707648118](https://x.com/iiiinvest/status/2096170727707648118)). |
-| No directional exposure | @taresky, 28 Dec 2022: “只套利，不承担风险敞口” ([1608095146834563072](https://x.com/taresky/status/1608095146834563072)). On 9 Nov 2024 he describes researching exposure that is less certain and longer cycle, and accepting drawdown ([1855145990510329859](https://x.com/taresky/status/1855145990510329859)). | SEPA is a directional Stage-2 method, not his arb book. His 15 Mar 2025 “风险杠杆” of 0.25x ([1900736043835683192](https://x.com/taresky/status/1900736043835683192)) is his label. Do not rewrite it as the skill’s `Risk Per Trade %` formula. |
-| Attention versus a trade | @silverfang88, 10 Jul 2025: attention brings liquidity around Pump, and he still calls the setup “以大搏小” ([1943173189305274473](https://x.com/silverfang88/status/1943173189305274473)). 19 Jun 2025 Circle note is “认知套利,” including that familiarity can make you sell early ([1935565562832375826](https://x.com/silverfang88/status/1935565562832375826)). | No skill doc verifies those calls. “认知套利” keeps directional risk. |
-| Operator, not a system | @alexandr_wang, 30 Jun 2017, asks about customer requirements ([880514207153741824](https://x.com/alexandr_wang/status/880514207153741824)). 3 Oct 2017 offers a human image-segmentation API ([915051465659400192](https://x.com/alexandr_wang/status/915051465659400192)). | Company-valuation docs are a different task from reading this account. |
+| Have a plan; don’t trade anxiety | @iiiinvest: written plans, “别焦虑” | SEPA: pre-define entry, stop, size, and skip if reward/risk < 2:1 |
+| Waiting / cash is allowed | @iiiinvest: waiting as a skill | SEPA: only buy Stage 2; bear environment → 0% risk, no new positions |
+| Earnings as a timing gate | @iiiinvest waits around named earnings in some plans | `earnings-preview` / `earnings-recap`; SEPA: avoid entries within 2 weeks of earnings |
+| Hormuz / oil as a macro factor | @silverfang88 pin and later commentary list oil/Hormuz among themes | `hormuz-strait` skill (shipping, oil impact, insurance risk) |
+| Prediction-market input | @silverfang88 affiliation and Polymarket use | `finance-sentiment` lists Polymarket among Adanos sources |
+| AI-capex / mega-cap tape | Traders discuss NVIDIA / AI; Wang discusses the industry as an operator | Valuation/earnings skills — company models, not executive-voice analysis |
+| Reading X | This archive is a collected, cited, paginated corpus | `twitter-reader` is a live opencli/browser-session workflow; it does not replace the existing archive |
+| Redemption / venue plumbing | @taresky’s mint/redeem checklist | Not a core SEPA rule; data/venue tools may help *after* a thesis exists |
 
-The size formula in `sepa-strategy/SKILL.md`, `Shares = (Account Value × Risk Per Trade %) ÷ (Entry Price − Stop Price)`, and the bear-market 0% line are the skill file’s rules. None of the five accounts posted that formula. Do not invent a percent and assign it to them.
+An important **disagreement**, not an overlap: SEPA’s documented “iron rules” say **never average down** on a loser. @iiiinvest’s retrieved posts include planned dip-buying (“越跌越买,” “越跌越补,” Leapmotor batches, adding SOXL at lower prices, a BTC 7万底线 plan). @silverfang88 (6 Jun 2023) and @thankUcrypto (Nov 2026) also use “越跌越买” in captured posts. The two families of source make that conflict explicit; they do not settle which rule is better.
 
-## Study checklist (ours)
+@alexandr_wang does not supply a competing averaging rule. Do not force-fit SEPA or dip-buying onto his operator feed.
 
-1. Keep the timestamp, the exact words, and the market (NFT, SOXL, A-shares, basis, Pump) on the note.
-2. Split explicit wording, interpretation, and a test you could run. The 3 Sep / 4 Sep iiiinvest pair is a public plan and a public loss report. It is not a verified brokerage statement.
-3. Do not average “只套利,” “越跌越买,” “我又不马丁,” and “相当于马丁” into one method.
-4. Self-reported P&L, APY, and challenge totals stay claims. Do not add them across posts.
-5. Wang’s 2017 posts are customer and API chronology. Any trading use is an analogy we write, not his rule.
+## 4. What finance-skills adds that the tweet analyses do not
 
-## Meta wording, unchanged by day 2
+These are documented agent workflows from the earlier review, not tested strategies and not a guarantee of better results. They were not run here.
 
-No new Meta page was read on day 2. HTML captured from https://www.meta.com/about/leadership/alexandr-wang/ on 24 Nov 2026 supports the Chief AI Officer title and a short vision sentence, and does not contain “first-ever,” “June 2025,” or “Meta Superintelligence Labs.” A retained packaging note attributes that longer sentence to the same URL. Scale’s 12 Jun 2025 page supports the investment, the board seat, the interim CEO, and “joining Meta to work on Meta’s AI efforts,” and does not use the CAIO title. See `public_sources_wang.md`.
+1. A formal valuation stack and earnings/estimate checklists.
+2. A complete SEPA/Minervini scorecard and the position-size formula quoted above.
+3. Market-structure tools the posts do not systematically teach: liquidity, correlation/pairs, ETF premium vs NAV, options payoff charts.
+4. Optional data connectors the archive does not include (Fintel, TradingView wrappers, Hyperliquid, yfinance) — listed, not installed.
+5. A dedicated Hormuz monitor and a sentiment skill — useful as *question lists* against @silverfang88’s narrative, not as proof.
 
-## Still open
+What the tweet analyses still uniquely provide: these five people’s actual wording over time, community/referral structures, inconsistent self-reported P&L, taresky’s dated slogan-vs-practice evolution, and coverage honesty about open/stalled/blocked windows. finance-skills has no historical archive of these accounts and no method for reconstructing their worldview.
 
-11 dated cursors remain open (silverfang 2024-03 and 2024-06–09; taresky 2024-09–11; thankUcrypto 2025-03, 2024-04, 2024-07). Two recent-timeline cursors overlap monthly coverage and should not be rewalked while those months are the live jobs. 93 pending jobs. 210 calendar months have no job yet (taresky 131, thankUcrypto 79). 17 pre-creation Wang month labels are excluded and are not missing posts. Next reset: **26 Nov 2026 08:00 Asia/Shanghai**. Exact tokens: `logs/DAY2_FINAL_REMAINING_JOBS.json`.
+`twitter-reader` remains a poor substitute for `/workspace/x-research`. It is a live, session-based reader with default limits of 10–20 posts, not a multi-year paginated archive, and it was not used here. This project’s collection used the public shared X MCP `search_posts_all` path, not opencli session reuse.
+
+## 5. Complementary practical workflow (read-only; do not install unless separately authorized)
+
+Use the two sources as a **journal and a checklist**, not as signals.
+
+1. From each `analysis.md`, extract the person’s stated rules and tensions, with post URLs. Keep unverified P&L labeled as claims.
+2. For @iiiinvest, @silverfang88 and @thankUcrypto, run those rules against the SEPA docs as a critique sheet: Is there a stage and a defined stop? Is size derived from risk, or from a dollar headline? Is this “越跌越买” or a planned pyramid into a winner? Is the tape bull, choppy, or bear by the skill’s own criteria?
+3. For @taresky, use the skill docs only as a reminder to map venue/redemption/liquidation risk; do not relabel his arb posts as SEPA setups.
+4. For @alexandr_wang, keep the X analysis as the record of his public arguments. Company-valuation or earnings skills can be used later on Meta or Scale as issuers; that is a different task from understanding the account, and it is not authorized or performed here.
+5. If testing a rule, use a proper backtest or paper journal. finance-skills is not itself a backtester, and this package does not invent one.
+6. Do not install the plugin, opencli, or browser-session tools unless the user clearly authorizes that install.
+
+## 6. Limits of this update
+
+- Skills were not re-read from GitHub on day3; wording and repo stats are inherited from the 24 Nov 2026 review plus the day3 X corpus.
+- No install, no execution, no runtime verification, no fork, and no vendored copy of finance-skills into this tree.
+- No profitability, ranking, or “works in live trading” claim is supported by either source as reviewed here.

@@ -1,0 +1,144 @@
+{
+  "collected_at_utc": "2026-11-26T01:06:20Z",
+  "collected_at_shanghai": "2026-11-26T09:06:20+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AP6K6TAPJKM5PNY0BJ3RHY.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-05-01T00:00:00Z",
+    "end_time": "2023-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqkfzan7dmterzq4vugkc69tckgpkt",
+    "window_label": "2023-05"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1652728722108346368",
+      "created_at": "2023-05-01T00:11:37.000Z",
+      "edit_history_tweet_ids": [
+        "1652828081936302080"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1162798396756807680",
+            "start": 0,
+            "username": "zengjiajun_eth"
+          },
+          {
+            "end": 27,
+            "id": "202973451",
+            "start": 16,
+            "username": "victorJi15"
+          }
+        ]
+      },
+      "id": "1652828081936302080",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 289,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@zengjiajun_eth @victorJi15 Why not doberman 😉",
+      "url": "https://x.com/taresky/status/1652828081936302080"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1647239726045487105",
+      "created_at": "2023-05-01T00:08:20.000Z",
+      "edit_history_tweet_ids": [
+        "1652827257659080704"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "825399047556960257",
+            "start": 0,
+            "username": "SimonJP404"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 47,
+            "expanded_url": "https://twitter.com/taresky/status/1652722512722292737",
+            "start": 24,
+            "url": "https://t.co/bBOP8VyuRO"
+          }
+        ]
+      },
+      "id": "1652827257659080704",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 328,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1652722512722292737",
+          "type": "quoted"
+        }
+      ],
+      "text": "@SimonJP404 原版非常的厚实，有支撑 https://t.co/bBOP8VyuRO",
+      "url": "https://x.com/taresky/status/1652827257659080704"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "368245720",
+        "conversation_id": "1647239726045487105",
+        "created_at": "2023-04-30T17:12:07.000Z",
+        "edit_history_tweet_ids": [
+          "1652722512722292737"
+        ],
+        "id": "1652722512722292737",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2595,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647239726045487105",
+            "type": "replied_to"
+          }
+        ],
+        "text": "阿里巴巴款非常垃圾，密度只有原版的 1/3 不到，毫无支撑性，可以直接丢垃圾桶。"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1652828081936302080",
+    "next_token": "b26v89c19zqg8o3fqkfzan731y2uimhgoaglmtzx95ke5",
+    "oldest_id": "1652827257659080704",
+    "result_count": 2
+  },
+  "errors": []
+}

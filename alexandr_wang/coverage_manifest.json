@@ -1,11 +1,12 @@
 {
   "handle": "alexandr_wang",
   "user_id": "615818451",
-  "packaged_at_shanghai": "2026-11-25T09:42:30.677345+08:00",
+  "packaged_at_shanghai": "2026-11-26T09:39:36.364018+08:00",
   "claim_all_tweets": false,
-  "unique_posts_stored": 1921,
+  "unique_posts_stored": 3625,
   "profile_post_count_at_first_lookup": 3762,
   "profile_not_refetched_day2": true,
+  "profile_not_refetched_day3": true,
   "post_count_is_not_a_missing_count_proof": true,
   "span_utc": [
     "2012-06-23T02:48:05.000Z",
@@ -26,27 +27,29 @@
     "2021": 164,
     "2022": 288,
     "2023": 352,
-    "2024": 50,
-    "2025": 75,
-    "2026": 161
+    "2024": 345,
+    "2025": 152,
+    "2026": 1493
   },
   "types": {
-    "original": 734,
-    "repost": 300,
-    "reply": 651,
-    "quote": 236
+    "quote": 827,
+    "reply": 1264,
+    "original": 986,
+    "repost": 548
   },
   "earliest": {
     "id": "216361960667754498",
-    "url": "https://x.com/alexandr_wang/status/216361960667754498"
+    "created_at_utc": "2012-06-23T02:48:05.000Z",
+    "created_at_shanghai": "2012-06-23 10:48:05 GMT+8"
   },
   "latest": {
     "id": "2124719968499777546",
-    "url": "https://x.com/alexandr_wang/status/2124719968499777546"
+    "created_at_utc": "2026-11-23T04:21:30.000Z",
+    "created_at_shanghai": "2026-11-23 12:21:30 GMT+8"
   },
   "expand_job_status_counts": {
-    "exhausted": 109,
-    "pending": 35,
+    "exhausted": 143,
+    "open": 1,
     "not_proven_exhausted": 1
   },
   "windows": [
@@ -65,7 +68,8 @@
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -79,20 +83,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-02-01T00:00:00Z",
-        "end_time": "2015-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2015-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -106,20 +101,11 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "last_input_token": "1jzu9lk96gu5npw1rqrr6pfq1h6lu6q79ecpdz0gdmd9",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-03-01T00:00:00Z",
-        "end_time": "2015-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw1rqrr6pfq1h6lu6q79ecpdz0gdmd9",
-        "window_label": "2015-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -133,20 +119,11 @@
       "pages_fetched": 2,
       "posts_returned": 3,
       "posts_added": 3,
-      "last_input_token": "1jzu9lk96gu5npw1rqt0f1uvj4ewgy53tvt5445lsvi5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-04-01T00:00:00Z",
-        "end_time": "2015-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw1rqt0f1uvj4ewgy53tvt5445lsvi5",
-        "window_label": "2015-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -160,20 +137,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "1jzu9lk96gu5npw1rtu26rvdcm3y6swbu3htdx08b1bx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-05-01T00:00:00Z",
-        "end_time": "2015-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw1rtu26rvdcm3y6swbu3htdx08b1bx",
-        "window_label": "2015-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -187,20 +155,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "1jzu9lk96gu5npw2cd9ztekkm9ifnsf0ezuxhapzwqyl",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-06-01T00:00:00Z",
-        "end_time": "2015-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2cd9ztekkm9ifnsf0ezuxhapzwqyl",
-        "window_label": "2015-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -214,20 +173,11 @@
       "pages_fetched": 2,
       "posts_returned": 15,
       "posts_added": 8,
-      "last_input_token": "1jzu9lk96gu5npw2cga6ontwcnu39u9xx9ixkujwfiwt",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-07-01T00:00:00Z",
-        "end_time": "2015-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2cga6ontwcnu39u9xx9ixkujwfiwt",
-        "window_label": "2015-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -241,20 +191,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-08-01T00:00:00Z",
-        "end_time": "2015-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2015-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -268,20 +209,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 0,
-      "last_input_token": "1jzu9lk96gu5npw2cp7ths5bme50n3aaxt9bd0vuv7gd",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-09-01T00:00:00Z",
-        "end_time": "2015-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2cp7ths5bme50n3aaxt9bd0vuv7gd",
-        "window_label": "2015-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -295,20 +227,11 @@
       "pages_fetched": 2,
       "posts_returned": 4,
       "posts_added": 0,
-      "last_input_token": "1jzu9lk96gu5npw2cs7lk6bl3zxsrv3tiqu36x2ug67x",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-10-01T00:00:00Z",
-        "end_time": "2015-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2cs7lk6bl3zxsrv3tiqu36x2ug67x",
-        "window_label": "2015-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -322,20 +245,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 0,
-      "last_input_token": "1jzu9lk96gu5npw2cv7dkhklvyq89ipnesvtrd2inxbx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-11-01T00:00:00Z",
-        "end_time": "2015-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2cv7dkhklvyq89ipnesvtrd2inxbx",
-        "window_label": "2015-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -349,20 +263,11 @@
       "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 0,
-      "last_input_token": "1jzu9lk96gu5npw2cy6qf82p7v95j39ibp209b23pf25",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2015-12-01T00:00:00Z",
-        "end_time": "2016-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2cy6qf82p7v95j39ibp209b23pf25",
-        "window_label": "2015-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -376,20 +281,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-01-01T00:00:00Z",
-        "end_time": "2016-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2016-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -403,20 +299,11 @@
       "pages_fetched": 2,
       "posts_returned": 24,
       "posts_added": 24,
-      "last_input_token": "1jzu9lk96gu5npw2d47jsdr32sdyfb92zmdr2z2n5a4d",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-02-01T00:00:00Z",
-        "end_time": "2016-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2d47jsdr32sdyfb92zmdr2z2n5a4d",
-        "window_label": "2016-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -430,20 +317,11 @@
       "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 7,
-      "last_input_token": "1jzu9lk96gu5npw2xnnwe70oqq3s3ftnvc1ieuiplv25",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-03-01T00:00:00Z",
-        "end_time": "2016-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2xnnwe70oqq3s3ftnvc1ieuiplv25",
-        "window_label": "2016-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -457,20 +335,11 @@
       "pages_fetched": 2,
       "posts_returned": 3,
       "posts_added": 3,
-      "last_input_token": "1jzu9lk96gu5npw2xqo3m7qhna6tz6p73lxpd1296y65",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-04-01T00:00:00Z",
-        "end_time": "2016-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2xqo3m7qhna6tz6p73lxpd1296y65",
-        "window_label": "2016-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -484,20 +353,11 @@
       "pages_fetched": 2,
       "posts_returned": 12,
       "posts_added": 12,
-      "last_input_token": "1jzu9lk96gu5npw2xwmdxglrxgyo5ynsla7d1sxdkxh9",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-05-01T00:00:00Z",
-        "end_time": "2016-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2xwmdxglrxgyo5ynsla7d1sxdkxh9",
-        "window_label": "2016-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -511,20 +371,11 @@
       "pages_fetched": 3,
       "posts_returned": 37,
       "posts_added": 37,
-      "last_input_token": "1jzu9lk96gu5npw2xwohncooiw9rbx60kzf7usjh9y0t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-06-01T00:00:00Z",
-        "end_time": "2016-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2xwohncooiw9rbx60kzf7usjh9y0t",
-        "window_label": "2016-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -538,20 +389,11 @@
       "pages_fetched": 2,
       "posts_returned": 19,
       "posts_added": 19,
-      "last_input_token": "1jzu9lk96gu5npw2xzoomvemzmjjlvbsehl2azcb8ad9",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-07-01T00:00:00Z",
-        "end_time": "2016-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2xzoomvemzmjjlvbsehl2azcb8ad9",
-        "window_label": "2016-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -565,20 +407,11 @@
       "pages_fetched": 3,
       "posts_returned": 43,
       "posts_added": 43,
-      "last_input_token": "1jzu9lk96gu5npw2y5kuxjybi8tmgnv7h9potfbrnukd",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-08-01T00:00:00Z",
-        "end_time": "2016-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2y5kuxjybi8tmgnv7h9potfbrnukd",
-        "window_label": "2016-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -592,20 +425,11 @@
       "pages_fetched": 2,
       "posts_returned": 15,
       "posts_added": 15,
-      "last_input_token": "1jzu9lk96gu5npw2y8lh90onc69lekx376mlftch7dz1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-09-01T00:00:00Z",
-        "end_time": "2016-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2y8lh90onc69lekx376mlftch7dz1",
-        "window_label": "2016-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -619,20 +443,11 @@
       "pages_fetched": 3,
       "posts_returned": 29,
       "posts_added": 29,
-      "last_input_token": "1jzu9lk96gu5npw2ybl90s4r17qd67crx3rzmj93tabh",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-10-01T00:00:00Z",
-        "end_time": "2016-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2ybl90s4r17qd67crx3rzmj93tabh",
-        "window_label": "2016-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -646,20 +461,11 @@
       "pages_fetched": 2,
       "posts_returned": 15,
       "posts_added": 15,
-      "last_input_token": "1jzu9lk96gu5npw2yemaoah81c7x9wx4rz8pfio8dxml",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-11-01T00:00:00Z",
-        "end_time": "2016-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw2yemaoah81c7x9wx4rz8pfio8dxml",
-        "window_label": "2016-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -673,20 +479,11 @@
       "pages_fetched": 3,
       "posts_returned": 34,
       "posts_added": 9,
-      "last_input_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2016-12-01T00:00:00Z",
-        "end_time": "2017-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3iy28d3etfvvh07hc6hr8shr56mpp",
-        "window_label": "2016-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -700,20 +497,11 @@
       "pages_fetched": 2,
       "posts_returned": 12,
       "posts_added": 12,
-      "last_input_token": "1jzu9lk96gu5npw3j12fck0v9loqiutw92e7zvxq48e5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-01-01T00:00:00Z",
-        "end_time": "2017-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3j12fck0v9loqiutw92e7zvxq48e5",
-        "window_label": "2017-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -727,20 +515,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-02-01T00:00:00Z",
-        "end_time": "2017-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3j43vonf48z0vt5bvsrikj3ix1dod",
-        "window_label": "2017-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -754,20 +533,11 @@
       "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 13,
-      "last_input_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-03-01T00:00:00Z",
-        "end_time": "2017-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3j73nmsfx0g2ma6704d8lh0pus70d",
-        "window_label": "2017-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -781,20 +551,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-04-01T00:00:00Z",
-        "end_time": "2017-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3ja2le14m8is4gq2i77rrpzr25x8d",
-        "window_label": "2017-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -808,20 +569,11 @@
       "pages_fetched": 2,
       "posts_returned": 19,
       "posts_added": 19,
-      "last_input_token": "1jzu9lk96gu5npw3jd3746wfa79ducnxr7k1m3ol6xdp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-05-01T00:00:00Z",
-        "end_time": "2017-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3jd3746wfa79ducnxr7k1m3ol6xdp",
-        "window_label": "2017-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -835,20 +587,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "1jzu9lk96gu5npw3jj2c1c6g1f25mx8gkecl8jnwtpbx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-06-01T00:00:00Z",
-        "end_time": "2017-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3jj2c1c6g1f25mx8gkecl8jnwtpbx",
-        "window_label": "2017-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -862,20 +605,11 @@
       "pages_fetched": 2,
       "posts_returned": 11,
       "posts_added": 11,
-      "last_input_token": "1jzu9lk96gu5npw3jlz60grbly5y2y4i4q6c9ud6b88t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-07-01T00:00:00Z",
-        "end_time": "2017-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3jlz60grbly5y2y4i4q6c9ud6b88t",
-        "window_label": "2017-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -889,20 +623,11 @@
       "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 7,
-      "last_input_token": "1jzu9lk96gu5npw3jp1gs1heq8u2298ilis5hl65nddp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-08-01T00:00:00Z",
-        "end_time": "2017-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw3jp1gs1heq8u2298ilis5hl65nddp",
-        "window_label": "2017-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -916,20 +641,11 @@
       "pages_fetched": 2,
       "posts_returned": 4,
       "posts_added": 4,
-      "last_input_token": "1jzu9lk96gu5npw448gyw9w85mmxzahzwfj1mpz4ec1p",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-09-01T00:00:00Z",
-        "end_time": "2017-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw448gyw9w85mmxzahzwfj1mpz4ec1p",
-        "window_label": "2017-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -943,20 +659,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 1,
-      "last_input_token": "1jzu9lk96gu5npw44bgqo112pdzymolh54ei6seg6we5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-10-01T00:00:00Z",
-        "end_time": "2017-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44bgqo112pdzymolh54ei6seg6we5",
-        "window_label": "2017-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -970,20 +677,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 0,
-      "last_input_token": "1jzu9lk96gu5npw44he6yo59v16ddqlco51pa4ochlz1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-11-01T00:00:00Z",
-        "end_time": "2017-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44he6yo59v16ddqlco51pa4ochlz1",
-        "window_label": "2017-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -997,20 +695,11 @@
       "pages_fetched": 2,
       "posts_returned": 10,
       "posts_added": 0,
-      "last_input_token": "1jzu9lk96gu5npw44hh4zutjl9jhuemdx9agewc67dz1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2017-12-01T00:00:00Z",
-        "end_time": "2018-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44hh4zutjl9jhuemdx9agewc67dz1",
-        "window_label": "2017-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1024,20 +713,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "1jzu9lk96gu5npw44kgx05grxddc2vzrumzs5fbb029p",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-01-01T00:00:00Z",
-        "end_time": "2018-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44kgx05grxddc2vzrumzs5fbb029p",
-        "window_label": "2018-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1051,20 +731,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-02-01T00:00:00Z",
-        "end_time": "2018-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44qf6ykh0g3qywj8a37q0fm8kznul",
-        "window_label": "2018-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1078,20 +749,11 @@
       "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 7,
-      "last_input_token": "1jzu9lk96gu5npw44tdan3l3n8bcyfqbs2xlagdqfgql",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-03-01T00:00:00Z",
-        "end_time": "2018-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44tdan3l3n8bcyfqbs2xlagdqfgql",
-        "window_label": "2018-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1105,20 +767,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "1jzu9lk96gu5npw44wd2ew8d0x8t7ox4umkmp94l29vh",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-04-01T00:00:00Z",
-        "end_time": "2018-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44wd2ew8d0x8t7ox4umkmp94l29vh",
-        "window_label": "2018-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1132,20 +785,11 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "last_input_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-05-01T00:00:00Z",
-        "end_time": "2018-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "1jzu9lk96gu5npw44zdosil2z7hpvi0a3qztjxv6xda5",
-        "window_label": "2018-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1159,20 +803,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "b26v89c19zqg8o3fn0ao4w2l9hjlstbq2jxhgv1p1qd19",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-06-01T00:00:00Z",
-        "end_time": "2018-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0ao4w2l9hjlstbq2jxhgv1p1qd19",
-        "window_label": "2018-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1186,20 +821,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fn0dmndd6rpm37f6vi9byw95qv4wal",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-07-01T00:00:00Z",
-        "end_time": "2018-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0dmndd6rpm37f6vi9byw95qv4wal",
-        "window_label": "2018-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1213,20 +839,11 @@
       "pages_fetched": 2,
       "posts_returned": 18,
       "posts_added": 18,
-      "last_input_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-08-01T00:00:00Z",
-        "end_time": "2018-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0gnouivdm212cv2qxa99fco37mnx",
-        "window_label": "2018-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1240,20 +857,11 @@
       "pages_fetched": 2,
       "posts_returned": 18,
       "posts_added": 18,
-      "last_input_token": "b26v89c19zqg8o3fn0jngmbsx7831xzkz2grwd4cmo5ml",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-09-01T00:00:00Z",
-        "end_time": "2018-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0jngmbsx7831xzkz2grwd4cmo5ml",
-        "window_label": "2018-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1267,20 +875,11 @@
       "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 6,
-      "last_input_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-10-01T00:00:00Z",
-        "end_time": "2018-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0mohsrqxbwhq51rf40iw8iwsjngd",
-        "window_label": "2018-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1294,20 +893,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fn0pnfo7srx5q1l86ot2exjtyi264d",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-11-01T00:00:00Z",
-        "end_time": "2018-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0pnfo7srx5q1l86ot2exjtyi264d",
-        "window_label": "2018-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1321,20 +911,11 @@
       "pages_fetched": 2,
       "posts_returned": 16,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fn0so1ktjmxtlhuiv0kysa8l63qxrx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2018-12-01T00:00:00Z",
-        "end_time": "2019-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0so1ktjmxtlhuiv0kysa8l63qxrx",
-        "window_label": "2018-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1348,20 +929,11 @@
       "pages_fetched": 2,
       "posts_returned": 7,
       "posts_added": 7,
-      "last_input_token": "b26v89c19zqg8o3fn0ylhp3dlb04a1n28uc643fyhqs1p",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-01-01T00:00:00Z",
-        "end_time": "2019-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn0ylhp3dlb04a1n28uc643fyhqs1p",
-        "window_label": "2019-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1375,20 +947,11 @@
       "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 2,
-      "last_input_token": "b26v89c19zqg8o3fn11my9pdk5lhc1q5mm1jssjpcrbst",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-02-01T00:00:00Z",
-        "end_time": "2019-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fn11my9pdk5lhc1q5mm1jssjpcrbst",
-        "window_label": "2019-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1402,20 +965,11 @@
       "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 2,
-      "last_input_token": "b26v89c19zqg8o3fnll0cymxfi15zujdgq1zc11xb3ypp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-03-01T00:00:00Z",
-        "end_time": "2019-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnll0cymxfi15zujdgq1zc11xb3ypp",
-        "window_label": "2019-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1429,20 +983,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fnlo0k2fe1y6n7xrfgz8thmmjfowvx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-04-01T00:00:00Z",
-        "end_time": "2019-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnlo0k2fe1y6n7xrfgz8thmmjfowvx",
-        "window_label": "2019-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1456,20 +1001,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fnlr0r1x7fllmhlca4qxico7savn25",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-05-01T00:00:00Z",
-        "end_time": "2019-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnlr0r1x7fllmhlca4qxico7savn25",
-        "window_label": "2019-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1483,20 +1019,11 @@
       "pages_fetched": 2,
       "posts_returned": 9,
       "posts_added": 9,
-      "last_input_token": "b26v89c19zqg8o3fnlu1sj0s09vve5rj3rgohbj963u65",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-06-01T00:00:00Z",
-        "end_time": "2019-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnlu1sj0s09vve5rj3rgohbj963u65",
-        "window_label": "2019-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1510,20 +1037,11 @@
       "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 2,
-      "last_input_token": "b26v89c19zqg8o3fnlx1jy1ytzlukldgdqm23ro4p55rx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-07-01T00:00:00Z",
-        "end_time": "2019-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnlx1jy1ytzlukldgdqm23ro4p55rx",
-        "window_label": "2019-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1537,20 +1055,11 @@
       "pages_fetched": 4,
       "posts_returned": 53,
       "posts_added": 53,
-      "last_input_token": "b26v89c19zqg8o3fnm026bp81siqnl0nyhgf1gqpvwdq5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-08-01T00:00:00Z",
-        "end_time": "2019-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnm026bp81siqnl0nyhgf1gqpvwdq5",
-        "window_label": "2019-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1564,20 +1073,11 @@
       "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 13,
-      "last_input_token": "b26v89c19zqg8o3fnm31y1aquee8s87srzz5d5eojul4t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-09-01T00:00:00Z",
-        "end_time": "2019-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnm31y1aquee8s87srzz5d5eojul4t",
-        "window_label": "2019-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1591,20 +1091,11 @@
       "pages_fetched": 2,
       "posts_returned": 16,
       "posts_added": 16,
-      "last_input_token": "b26v89c19zqg8o3fnm625bhosa76pj3lam2ix33cflail",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-10-01T00:00:00Z",
-        "end_time": "2019-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnm625bhosa76pj3lam2ix33cflail",
-        "window_label": "2019-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1618,20 +1109,11 @@
       "pages_fetched": 2,
       "posts_returned": 23,
       "posts_added": 23,
-      "last_input_token": "b26v89c19zqg8o3fnmbxwgl6ty7biix24ci9vp5p3vywt",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-11-01T00:00:00Z",
-        "end_time": "2019-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fnmbxwgl6ty7biix24ci9vp5p3vywt",
-        "window_label": "2019-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1645,20 +1127,11 @@
       "pages_fetched": 3,
       "posts_returned": 35,
       "posts_added": 10,
-      "last_input_token": "b26v89c19zqg8o3fo6veoilxtghdv3p5nkwslzpphzekd",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2019-12-01T00:00:00Z",
-        "end_time": "2020-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo6veoilxtghdv3p5nkwslzpphzekd",
-        "window_label": "2019-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1672,20 +1145,11 @@
       "pages_fetched": 2,
       "posts_returned": 12,
       "posts_added": 12,
-      "last_input_token": "b26v89c19zqg8o3fo6yevqmnnvnsijilzxnrx9yf128al",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-01-01T00:00:00Z",
-        "end_time": "2020-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo6yevqmnnvnsijilzxnrx9yf128al",
-        "window_label": "2020-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1699,20 +1163,11 @@
       "pages_fetched": 2,
       "posts_returned": 10,
       "posts_added": 10,
-      "last_input_token": "b26v89c19zqg8o3fo71f2ugwutknc7chlamziz213f799",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-02-01T00:00:00Z",
-        "end_time": "2020-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo71f2ugwutknc7chlamziz213f799",
-        "window_label": "2020-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1726,20 +1181,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "b26v89c19zqg8o3fo74g432hi2pidjel2roibx2aohchp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-03-01T00:00:00Z",
-        "end_time": "2020-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo74g432hi2pidjel2roibx2aohchp",
-        "window_label": "2020-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1753,20 +1199,11 @@
       "pages_fetched": 2,
       "posts_returned": 12,
       "posts_added": 12,
-      "last_input_token": "b26v89c19zqg8o3fo77fgtfcdcdpw7u32t82nahvcikjh",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-04-01T00:00:00Z",
-        "end_time": "2020-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo77fgtfcdcdpw7u32t82nahvcikjh",
-        "window_label": "2020-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1780,20 +1217,11 @@
       "pages_fetched": 2,
       "posts_returned": 21,
       "posts_added": 21,
-      "last_input_token": "b26v89c19zqg8o3fo7afnqv4mgyun7uzuwofezm664uil",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-05-01T00:00:00Z",
-        "end_time": "2020-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo7afnqv4mgyun7uzuwofezm664uil",
-        "window_label": "2020-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1807,20 +1235,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "b26v89c19zqg8o3fo7dfuul751qny62kt9y4n9bif8vp9",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-06-01T00:00:00Z",
-        "end_time": "2020-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo7dfuul751qny62kt9y4n9bif8vp9",
-        "window_label": "2020-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1834,20 +1253,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "b26v89c19zqg8o3fo7jcgf6mzd8ar00kja2h4w4b7om0t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-07-01T00:00:00Z",
-        "end_time": "2020-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo7jcgf6mzd8ar00kja2h4w4b7om0t",
-        "window_label": "2020-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1861,20 +1271,11 @@
       "pages_fetched": 2,
       "posts_returned": 18,
       "posts_added": 18,
-      "last_input_token": "b26v89c19zqg8o3fo7mcneo58h58r1a6f79n9pr196zr1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-08-01T00:00:00Z",
-        "end_time": "2020-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fo7mcneo58h58r1a6f79n9pr196zr1",
-        "window_label": "2020-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1888,20 +1289,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fos5t06u3gl8j5fg5xq5w02hh1wh31",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-09-01T00:00:00Z",
-        "end_time": "2020-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fos5t06u3gl8j5fg5xq5w02hh1wh31",
-        "window_label": "2020-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1915,20 +1307,11 @@
       "pages_fetched": 2,
       "posts_returned": 3,
       "posts_added": 3,
-      "last_input_token": "b26v89c19zqg8o3fos8tmxab9r96ll1whn14ng9ip65bx",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-10-01T00:00:00Z",
-        "end_time": "2020-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fos8tmxab9r96ll1whn14ng9ip65bx",
-        "window_label": "2020-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1942,20 +1325,11 @@
       "pages_fetched": 2,
       "posts_returned": 12,
       "posts_added": 12,
-      "last_input_token": "b26v89c19zqg8o3fosbtegl9b3xc4ijiv96we8de4cj25",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-11-01T00:00:00Z",
-        "end_time": "2020-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fosbtegl9b3xc4ijiv96we8de4cj25",
-        "window_label": "2020-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1969,20 +1343,11 @@
       "pages_fetched": 3,
       "posts_returned": 37,
       "posts_added": 12,
-      "last_input_token": "b26v89c19zqg8o3foset6l5cskh2fltqrwer9treeg58d",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2020-12-01T00:00:00Z",
-        "end_time": "2021-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3foset6l5cskh2fltqrwer9treeg58d",
-        "window_label": "2020-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -1996,20 +1361,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3foshtdov4ir5kafijlgbyrbv3dvgxp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-01-01T00:00:00Z",
-        "end_time": "2021-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3foshtdov4ir5kafijlgbyrbv3dvgxp",
-        "window_label": "2021-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2023,20 +1379,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fosktzlfz0ijl6bnzsed6dvjvt8n7h",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-02-01T00:00:00Z",
-        "end_time": "2021-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fosktzlfz0ijl6bnzsed6dvjvt8n7h",
-        "window_label": "2021-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2050,20 +1397,11 @@
       "pages_fetched": 2,
       "posts_returned": 15,
       "posts_added": 15,
-      "last_input_token": "b26v89c19zqg8o3fosntrs4szhj1dio4j3aoh89nztd31",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-03-01T00:00:00Z",
-        "end_time": "2021-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fosntrs4szhj1dio4j3aoh89nztd31",
-        "window_label": "2021-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2077,20 +1415,11 @@
       "pages_fetched": 2,
       "posts_returned": 21,
       "posts_added": 21,
-      "last_input_token": "b26v89c19zqg8o3fosqudicz0vwavkcfna4njulk65dh9",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-04-01T00:00:00Z",
-        "end_time": "2021-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fosqudicz0vwavkcfna4njulk65dh9",
-        "window_label": "2021-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2104,20 +1433,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "b26v89c19zqg8o3foswqk7y08vvq6m7y1n6z96e8xz14t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-05-01T00:00:00Z",
-        "end_time": "2021-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3foswqk7y08vvq6m7y1n6z96e8xz14t",
-        "window_label": "2021-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2131,20 +1451,11 @@
       "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 13,
-      "last_input_token": "b26v89c19zqg8o3fpdg7rjvy56kapeu7lithmatg99t31",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-06-01T00:00:00Z",
-        "end_time": "2021-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpdg7rjvy56kapeu7lithmatg99t31",
-        "window_label": "2021-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2158,20 +1469,11 @@
       "pages_fetched": 2,
       "posts_returned": 17,
       "posts_added": 17,
-      "last_input_token": "b26v89c19zqg8o3fpdj6p2kixbfu79bcybhmyp0yo2we5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-07-01T00:00:00Z",
-        "end_time": "2021-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpdj6p2kixbfu79bcybhmyp0yo2we5",
-        "window_label": "2021-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2185,20 +1487,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "b26v89c19zqg8o3fpdm7b3gmmdp9az9vqhxsxr1y8ool9",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-08-01T00:00:00Z",
-        "end_time": "2021-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpdm7b3gmmdp9az9vqhxsxr1y8ool9",
-        "window_label": "2021-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2212,20 +1505,11 @@
       "pages_fetched": 2,
       "posts_returned": 23,
       "posts_added": 23,
-      "last_input_token": "b26v89c19zqg8o3fpdp7i0ubazei47ja1c3jw3h9yy2kd",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-09-01T00:00:00Z",
-        "end_time": "2021-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpdp7i0ubazei47ja1c3jw3h9yy2kd",
-        "window_label": "2021-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2239,20 +1523,11 @@
       "pages_fetched": 2,
       "posts_returned": 24,
       "posts_added": 24,
-      "last_input_token": "b26v89c19zqg8o3fpds7pf8b22pdiwyzjckswspcqsygt",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-10-01T00:00:00Z",
-        "end_time": "2021-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpds7pf8b22pdiwyzjckswspcqsygt",
-        "window_label": "2021-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2266,20 +1541,11 @@
       "pages_fetched": 2,
       "posts_returned": 15,
       "posts_added": 4,
-      "last_input_token": "b26v89c19zqg8o3fpdv8b7k0gr4s8uouaieoe1xseqvst",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-11-01T00:00:00Z",
-        "end_time": "2021-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpdv8b7k0gr4s8uouaieoe1xseqvst",
-        "window_label": "2021-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2293,20 +1559,11 @@
       "pages_fetched": 2,
       "posts_returned": 14,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fpdy837wr9l9lgga7j9rozzpxadapp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2021-12-01T00:00:00Z",
-        "end_time": "2022-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpdy837wr9l9lgga7j9rozzpxadapp",
-        "window_label": "2021-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2320,20 +1577,11 @@
       "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 13,
-      "last_input_token": "b26v89c19zqg8o3fpe18pd07rwl8ia406etlmo9ij4g3h",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-01-01T00:00:00Z",
-        "end_time": "2022-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpe18pd07rwl8ia406etlmo9ij4g3h",
-        "window_label": "2022-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2347,20 +1595,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "b26v89c19zqg8o3fpe48wpaod90lbr0iw8e3fjgj1x7y5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-02-01T00:00:00Z",
-        "end_time": "2022-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpe48wpaod90lbr0iw8e3fjgj1x7y5",
-        "window_label": "2022-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2374,20 +1613,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "b26v89c19zqg8o3fpyqlob1z2wvyf00pmtpv55gayfnul",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-03-01T00:00:00Z",
-        "end_time": "2022-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpyqlob1z2wvyf00pmtpv55gayfnul",
-        "window_label": "2022-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2401,20 +1631,11 @@
       "pages_fetched": 2,
       "posts_returned": 16,
       "posts_added": 16,
-      "last_input_token": "b26v89c19zqg8o3fpytlg0qsfp33k2bncud7098v3t30d",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-04-01T00:00:00Z",
-        "end_time": "2022-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpytlg0qsfp33k2bncud7098v3t30d",
-        "window_label": "2022-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2428,20 +1649,11 @@
       "pages_fetched": 3,
       "posts_returned": 27,
       "posts_added": 27,
-      "last_input_token": "b26v89c19zqg8o3fpywlmpjgquq919lhgm84kehu6556l",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-05-01T00:00:00Z",
-        "end_time": "2022-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpywlmpjgquq919lhgm84kehu6556l",
-        "window_label": "2022-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2455,20 +1667,11 @@
       "pages_fetched": 2,
       "posts_returned": 14,
       "posts_added": 14,
-      "last_input_token": "b26v89c19zqg8o3fpyzlepvm6f0lp7nejsggq89rxubul",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-06-01T00:00:00Z",
-        "end_time": "2022-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpyzlepvm6f0lp7nejsggq89rxubul",
-        "window_label": "2022-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2482,20 +1685,11 @@
       "pages_fetched": 2,
       "posts_returned": 8,
       "posts_added": 8,
-      "last_input_token": "b26v89c19zqg8o3fpz2mg7032wapxo5k0m7kf5u1n6zr1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-07-01T00:00:00Z",
-        "end_time": "2022-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpz2mg7032wapxo5k0m7kf5u1n6zr1",
-        "window_label": "2022-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2509,20 +1703,11 @@
       "pages_fetched": 2,
       "posts_returned": 24,
       "posts_added": 24,
-      "last_input_token": "b26v89c19zqg8o3fpz5lsr09pf4c2x6vyu81k4o5zu7b1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-08-01T00:00:00Z",
-        "end_time": "2022-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpz5lsr09pf4c2x6vyu81k4o5zu7b1",
-        "window_label": "2022-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2536,20 +1721,11 @@
       "pages_fetched": 2,
       "posts_returned": 11,
       "posts_added": 11,
-      "last_input_token": "b26v89c19zqg8o3fpz8m05f5ztyzptof20aubs76xwk8t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-09-01T00:00:00Z",
-        "end_time": "2022-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpz8m05f5ztyzptof20aubs76xwk8t",
-        "window_label": "2022-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2563,20 +1739,11 @@
       "pages_fetched": 4,
       "posts_returned": 54,
       "posts_added": 54,
-      "last_input_token": "b26v89c19zqg8o3fpzbm6ykwdfvsrjdrh7bjs8mz4w60t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-10-01T00:00:00Z",
-        "end_time": "2022-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpzbm6ykwdfvsrjdrh7bjs8mz4w60t",
-        "window_label": "2022-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2590,20 +1757,11 @@
       "pages_fetched": 4,
       "posts_returned": 55,
       "posts_added": 55,
-      "last_input_token": "b26v89c19zqg8o3fpzeme4gad4hcv7e7sprow24v3c871",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-11-01T00:00:00Z",
-        "end_time": "2022-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpzeme4gad4hcv7e7sprow24v3c871",
-        "window_label": "2022-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2617,20 +1775,11 @@
       "pages_fetched": 3,
       "posts_returned": 50,
       "posts_added": 25,
-      "last_input_token": "b26v89c19zqg8o3fpzhml1ukjjona7qjnbh28bxduebul",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2022-12-01T00:00:00Z",
-        "end_time": "2023-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpzhml1ukjjona7qjnbh28bxduebul",
-        "window_label": "2022-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2644,20 +1793,11 @@
       "pages_fetched": 3,
       "posts_returned": 50,
       "posts_added": 50,
-      "last_input_token": "b26v89c19zqg8o3fqk13czokdqejxcab6pmb293qhka65",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-01-01T00:00:00Z",
-        "end_time": "2023-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqk13czokdqejxcab6pmb293qhka65",
-        "window_label": "2023-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2671,20 +1811,11 @@
       "pages_fetched": 4,
       "posts_returned": 60,
       "posts_added": 60,
-      "last_input_token": "b26v89c19zqg8o3fqk6z4q0mueom861givmrj2zuosd4t",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-02-01T00:00:00Z",
-        "end_time": "2023-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqk6z4q0mueom861givmrj2zuosd4t",
-        "window_label": "2023-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2698,20 +1829,11 @@
       "pages_fetched": 4,
       "posts_returned": 52,
       "posts_added": 52,
-      "last_input_token": "b26v89c19zqg8o3fqk9ywhsolynum44f1b1pn8cpaihz1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-03-01T00:00:00Z",
-        "end_time": "2023-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqk9ywhsolynum44f1b1pn8cpaihz1",
-        "window_label": "2023-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2725,20 +1847,11 @@
       "pages_fetched": 2,
       "posts_returned": 25,
       "posts_added": 25,
-      "last_input_token": "b26v89c19zqg8o3fqkczxfppxqoby7rce1dzm8qi44y2l",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-04-01T00:00:00Z",
-        "end_time": "2023-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkczxfppxqoby7rce1dzm8qi44y2l",
-        "window_label": "2023-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2752,20 +1865,11 @@
       "pages_fetched": 2,
       "posts_returned": 23,
       "posts_added": 23,
-      "last_input_token": "b26v89c19zqg8o3fqkfzpmeuegyvp03hrpemut4or63r1",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-05-01T00:00:00Z",
-        "end_time": "2023-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkfzpmeuegyvp03hrpemut4or63r1",
-        "window_label": "2023-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2779,20 +1883,11 @@
       "pages_fetched": 3,
       "posts_returned": 28,
       "posts_added": 28,
-      "last_input_token": "b26v89c19zqg8o3fqkizwlygh67y42ktflgl8q1mnpdod",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-06-01T00:00:00Z",
-        "end_time": "2023-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkizwlygh67y42ktflgl8q1mnpdod",
-        "window_label": "2023-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2806,20 +1901,11 @@
       "pages_fetched": 3,
       "posts_returned": 42,
       "posts_added": 42,
-      "last_input_token": "b26v89c19zqg8o3fqkm0it5qpxrqwt8526u7xb4jyhri5",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-07-01T00:00:00Z",
-        "end_time": "2023-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkm0it5qpxrqwt8526u7xb4jyhri5",
-        "window_label": "2023-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2833,20 +1919,11 @@
       "pages_fetched": 3,
       "posts_returned": 30,
       "posts_added": 30,
-      "last_input_token": "b26v89c19zqg8o3fqkp0axqfp893e4v7j8zbjm6dw18xp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-08-01T00:00:00Z",
-        "end_time": "2023-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkp0axqfp893e4v7j8zbjm6dw18xp",
-        "window_label": "2023-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2860,20 +1937,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 6,
-      "last_input_token": "b26v89c19zqg8o3fqks0wuchhb57fw88s49oz1i6ylxfh",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-09-01T00:00:00Z",
-        "end_time": "2023-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqks0wuchhb57fw88s49oz1i6ylxfh",
-        "window_label": "2023-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2887,20 +1955,11 @@
       "pages_fetched": 2,
       "posts_returned": 9,
       "posts_added": 9,
-      "last_input_token": "b26v89c19zqg8o3fr5bh9qt378xthb1kwjas0saiclshp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-10-01T00:00:00Z",
-        "end_time": "2023-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5bh9qt378xthb1kwjas0saiclshp",
-        "window_label": "2023-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2914,20 +1973,11 @@
       "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 2,
-      "last_input_token": "b26v89c19zqg8o3fr5hdg7wf47i910u6duflnbjb621dp",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-11-01T00:00:00Z",
-        "end_time": "2023-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5hdg7wf47i910u6duflnbjb621dp",
-        "window_label": "2023-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2941,20 +1991,11 @@
       "pages_fetched": 2,
       "posts_returned": 14,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fr5ke28ptqx67fg7dtymineixohd31",
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2023-12-01T00:00:00Z",
-        "end_time": "2024-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5ke28ptqx67fg7dtymineixohd31",
-        "window_label": "2023-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2964,10 +2005,15 @@
       "start_time": "2024-01-01T00:00:00Z",
       "end_time": "2024-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 14,
+      "posts_added": 14,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2977,10 +2023,15 @@
       "start_time": "2024-02-01T00:00:00Z",
       "end_time": "2024-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 15,
+      "posts_added": 15,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -2990,10 +2041,15 @@
       "start_time": "2024-03-01T00:00:00Z",
       "end_time": "2024-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 11,
+      "posts_added": 11,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3003,10 +2059,15 @@
       "start_time": "2024-04-01T00:00:00Z",
       "end_time": "2024-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 7,
+      "posts_added": 7,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3016,10 +2077,15 @@
       "start_time": "2024-05-01T00:00:00Z",
       "end_time": "2024-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 5,
+      "posts_returned": 88,
+      "posts_added": 88,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3029,10 +2095,15 @@
       "start_time": "2024-06-01T00:00:00Z",
       "end_time": "2024-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 54,
+      "posts_added": 29,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3042,10 +2113,15 @@
       "start_time": "2024-07-01T00:00:00Z",
       "end_time": "2024-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 47,
+      "posts_added": 47,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3055,10 +2131,15 @@
       "start_time": "2024-08-01T00:00:00Z",
       "end_time": "2024-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 22,
+      "posts_added": 22,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3068,10 +2149,15 @@
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 42,
+      "posts_added": 42,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3081,10 +2167,15 @@
       "start_time": "2024-10-01T00:00:00Z",
       "end_time": "2024-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 10,
+      "posts_added": 10,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3094,10 +2185,15 @@
       "start_time": "2024-11-01T00:00:00Z",
       "end_time": "2024-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 13,
+      "posts_added": 10,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3107,10 +2203,15 @@
       "start_time": "2024-12-01T00:00:00Z",
       "end_time": "2025-01-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 22,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3120,10 +2221,15 @@
       "start_time": "2025-01-01T00:00:00Z",
       "end_time": "2025-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 3,
+      "posts_returned": 35,
+      "posts_added": 35,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3133,10 +2239,15 @@
       "start_time": "2025-02-01T00:00:00Z",
       "end_time": "2025-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 24,
+      "posts_added": 24,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3146,10 +2257,15 @@
       "start_time": "2025-03-01T00:00:00Z",
       "end_time": "2025-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 15,
+      "posts_added": 15,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3159,10 +2275,15 @@
       "start_time": "2025-04-01T00:00:00Z",
       "end_time": "2025-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 16,
+      "posts_added": 1,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3172,10 +2293,15 @@
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 9,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3185,10 +2311,15 @@
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 5,
+      "posts_added": 2,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3198,10 +2329,15 @@
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 7,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3211,10 +2347,15 @@
       "start_time": "2025-08-01T00:00:00Z",
       "end_time": "2025-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 9,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3224,10 +2365,15 @@
       "start_time": "2025-09-01T00:00:00Z",
       "end_time": "2025-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 13,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3237,10 +2383,15 @@
       "start_time": "2025-10-01T00:00:00Z",
       "end_time": "2025-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 2,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3250,10 +2401,15 @@
       "start_time": "2025-11-01T00:00:00Z",
       "end_time": "2025-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 8,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3263,10 +2419,15 @@
       "start_time": "2025-12-01T00:00:00Z",
       "end_time": "2026-01-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 9,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3276,10 +2437,15 @@
       "start_time": "2026-01-01T00:00:00Z",
       "end_time": "2026-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 3,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3289,10 +2455,15 @@
       "start_time": "2026-02-01T00:00:00Z",
       "end_time": "2026-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 4,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3302,10 +2473,15 @@
       "start_time": "2026-03-01T00:00:00Z",
       "end_time": "2026-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 4,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3315,10 +2491,15 @@
       "start_time": "2026-04-01T00:00:00Z",
       "end_time": "2026-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 119,
+      "posts_added": 111,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3328,10 +2509,15 @@
       "start_time": "2026-05-01T00:00:00Z",
       "end_time": "2026-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 13,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3341,10 +2527,15 @@
       "start_time": "2026-06-01T00:00:00Z",
       "end_time": "2026-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 4,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3354,10 +2545,15 @@
       "start_time": "2026-07-01T00:00:00Z",
       "end_time": "2026-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 11,
+      "posts_returned": 226,
+      "posts_added": 226,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3367,10 +2563,15 @@
       "start_time": "2026-08-01T00:00:00Z",
       "end_time": "2026-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 113,
+      "posts_added": 88,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3379,11 +2580,16 @@
       "query": "from:alexandr_wang",
       "start_time": "2026-09-01T00:00:00Z",
       "end_time": "2026-10-01T00:00:00Z",
-      "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "next_token": "b26v89c19zqg8o3juezidpc17rh8q611r4x6m7qlzhd31",
+      "status": "open",
+      "pages_fetched": 23,
+      "posts_returned": 562,
+      "posts_added": 536,
+      "last_span": [
+        "2026-09-08T19:40:44.000Z",
+        "2026-09-08T21:41:18.000Z"
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3393,10 +2599,15 @@
       "start_time": "2026-10-01T00:00:00Z",
       "end_time": "2026-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 16,
+      "posts_returned": 353,
+      "posts_added": 329,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3406,10 +2617,15 @@
       "start_time": "2026-11-01T00:00:00Z",
       "end_time": "2026-11-25T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 6,
+      "posts_returned": 92,
+      "posts_added": 42,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3423,8 +2639,8 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "note": "First pass: 1 post on 2012-06-23, next page result_count=0. Treated as exhausted for this query.",
-      "exhaustion_note": "Only one stored post in this window. A later empty page was treated as exhausted in the first pass, but the input pagination token for that empty page was not saved, so exhaustion is not provable. Do not treat as complete. Re-open from start_time if needed."
+      "last_span": null,
+      "last_types": null
     },
     {
       "handle": "alexandr_wang",
@@ -3438,24 +2654,42 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:alexandr_wang",
-        "start_time": "2026-11-24T12:00:00Z",
-        "end_time": "2026-11-25T00:35:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "day2-new-2026-11-24T12to25T0035"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     }
   ],
   "open_or_blocked_windows": [
+    {
+      "handle": "alexandr_wang",
+      "user_id": "615818451",
+      "label": "2026-09",
+      "query": "from:alexandr_wang",
+      "start_time": "2026-09-01T00:00:00Z",
+      "end_time": "2026-10-01T00:00:00Z",
+      "next_token": "b26v89c19zqg8o3juezidpc17rh8q611r4x6m7qlzhd31",
+      "status": "open",
+      "pages_fetched": 23,
+      "posts_returned": 562,
+      "posts_added": 536,
+      "last_span": [
+        "2026-09-08T19:40:44.000Z",
+        "2026-09-08T21:41:18.000Z"
+      ],
+      "last_types": null,
+      "last_input_token": "b26v89c19zqg8o3juezidpd7zsybuy5s4cwl4zperdy7x",
+      "last_request": {
+        "query": "from:alexandr_wang",
+        "start_time": "2026-09-01T00:00:00Z",
+        "end_time": "2026-10-01T00:00:00Z",
+        "sort_order": "recency",
+        "max_results": 25,
+        "input_token": "b26v89c19zqg8o3juezidpd7zsybuy5s4cwl4zperdy7x",
+        "window_label": "2026-09"
+      }
+    },
     {
       "handle": "alexandr_wang",
       "user_id": "615818451",
@@ -3472,57 +2706,15 @@
       "exhaustion_note": "Only one stored post in this window. A later empty page was treated as exhausted in the first pass, but the input pagination token for that empty page was not saved, so exhaustion is not provable. Do not treat as complete. Re-open from start_time if needed."
     }
   ],
-  "pending_window_labels": [
-    "2024-01",
-    "2024-02",
-    "2024-03",
-    "2024-04",
-    "2024-05",
-    "2024-06",
-    "2024-07",
-    "2024-08",
-    "2024-09",
-    "2024-10",
-    "2024-11",
-    "2024-12",
-    "2025-01",
-    "2025-02",
-    "2025-03",
-    "2025-04",
-    "2025-05",
-    "2025-06",
-    "2025-07",
-    "2025-08",
-    "2025-09",
-    "2025-10",
-    "2025-11",
-    "2025-12",
-    "2026-01",
-    "2026-02",
-    "2026-03",
-    "2026-04",
-    "2026-05",
-    "2026-06",
-    "2026-07",
-    "2026-08",
-    "2026-09",
-    "2026-10",
-    "2026-11"
-  ],
+  "pending_window_labels": [],
   "calendar_windows_with_no_job_yet": [],
   "coverage_notes": [
-    "True budget stop:75 daily reads remain,0 usable to reserve. No new collection before reset or explicit changed budget. No pending fetched pages.",
-    "Reset Nov26 08:00 Asia/Shanghai. No routine was created here; previous routine fired/deleted itself.",
-    "Continue current saved open dated jobs after reset, then unstarted pending/no-job months. Do not rewalk overlapping recent timeline tokens while monthly coverage is terminal.",
-    "Both new accounts2026 Jan-Nov terminal through captured bounds. TA all2025 terminal. THANK2025 March remains open; other2025 months terminal.",
-    "SF2025 May/June/July and III2026 July/September/Aug01to27 terminal. All Wang2016Dec/2017months and2018Jan-Oct/2019Aug priority tails terminal.",
-    "SF2024 March/June/July/August/September open. TA2024 September/October/November open. THANK2024 April/July open. Tokens/query/bounds copied exactly below.",
-    "Do not open redundant SF pending2026Nov. Never reuse exhausted/stalled parents, including III2026Aug and SF2023Sep/2026Jul. Unproven Wang2012-2014 requires a separately documented coverage audit, not blind parent-token reuse.",
-    "Former calendar no-job list contained17 months before Wang account creation; retained in excluded_precreation_calendar_windows, removed from actionable gap counts. No posts were removed.",
-    "Prior ZIPs immutable. No GitHub writes. PR1 merged main fb75058962f33f1c176f0297e47eb4cfde74d929; parent later uses NEW PR from main, no merge authorization.",
-    "Audited inherited corrections only: literal U+2028 restored in one SF post;3 pinned-post provenance path corrections. See day2_literal_corrections.json.",
-    "Synthesis is selective, source-linked and explicitly partial, not a manual reread of34913 posts. Performance and underlying market facts remain unverified unless explicitly sourced."
+    "Explicitly partial. Day3 collection stopped at the true 75-read daily reserve (usable 0). Not window exhaustion.",
+    "Profile lookup lifetime counts are not missing-count proofs. Profiles were not refreshed on day3.",
+    "Archives and this manifest were rebuilt from canonical normalized/posts.jsonl at day3 packaging.",
+    "34 of 35 monthly jobs for 2024-01..2026-11 are exhausted. 2026-09 remains open after a 25-result Full-text pointer page (follow the saved next_token; do not treat as terminal). 2012-2014 remains not_proven_exhausted. 17 pre-creation placeholders are excluded, not missing posts. 2026-11 monthly bound ends 2026-11-25T00:00:00Z."
   ],
-  "stopping_reason": "Real live75-read reserve reached; explicitly partial, not all windows exhausted. No pending ingest.",
-  "last_collection_footer": "X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z)."
+  "stopping_reason": "true_75_read_reserve_reached",
+  "last_collection_footer": "X reads left for this user: 29 of 30 this minute (resets at 2026-11-26T01:32:00.000Z), 75 of 1000 today (resets at 2026-11-27T00:00:00.000Z).",
+  "day3_added_vs_day2": 1704
 }

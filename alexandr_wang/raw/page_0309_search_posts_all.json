@@ -1,0 +1,439 @@
+{
+  "collected_at_utc": "2026-11-26T01:20:46Z",
+  "collected_at_shanghai": "2026-11-26T09:20:46+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ184NPH5F5AP7WCJ27XV5.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2025-07-01T00:00:00Z",
+    "end_time": "2025-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2025-07"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1950582950728208643",
+      "created_at": "2025-07-30T15:44:56.000Z",
+      "edit_history_tweet_ids": [
+        "1950583395593130149"
+      ],
+      "id": "1950583395593130149",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 31364,
+        "like_count": 165,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 2
+      },
+      "text": "@alexeatsout in a way, yes\n\nplain html baby",
+      "url": "https://x.com/alexandr_wang/status/1950583395593130149"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1950582950728208643",
+      "created_at": "2025-07-30T15:43:10.000Z",
+      "edit_history_tweet_ids": [
+        "1950582953165336592"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Explore Meta's vision of personal superintelligence, where AI empowers individuals to achieve their goals, create, connect, and lead fulfilling lives. Insights from Mark Zuckerberg on the future of AI and human empowerment.",
+            "display_url": "meta.com/superintellige…",
+            "end": 23,
+            "expanded_url": "http://meta.com/superintelligence",
+            "start": 0,
+            "status": 200,
+            "title": "Personal Superintelligence",
+            "unwound_url": "https://www.meta.com/superintelligence/",
+            "url": "https://t.co/LqlcsUdMx1"
+          }
+        ]
+      },
+      "id": "1950582953165336592",
+      "in_reply_to_user_id": "615818451",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 77554,
+        "like_count": 164,
+        "quote_count": 2,
+        "reply_count": 19,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "1950582950728208643",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/LqlcsUdMx1",
+      "url": "https://x.com/alexandr_wang/status/1950582953165336592"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1950582919308914688"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1950582950728208643",
+      "created_at": "2025-07-30T15:43:10.000Z",
+      "edit_history_tweet_ids": [
+        "1950582950728208643"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/T4G6NjjxlE",
+            "end": 23,
+            "expanded_url": "https://x.com/alexandr_wang/status/1950582950728208643/photo/1",
+            "media_key": "3_1950582919308914688",
+            "start": 0,
+            "url": "https://t.co/T4G6NjjxlE"
+          }
+        ]
+      },
+      "id": "1950582950728208643",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 2810,
+        "impression_count": 1474433,
+        "like_count": 5382,
+        "quote_count": 176,
+        "reply_count": 267,
+        "retweet_count": 506
+      },
+      "text": "https://t.co/T4G6NjjxlE",
+      "url": "https://x.com/alexandr_wang/status/1950582950728208643"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1948836042406330676",
+      "created_at": "2025-07-25T22:31:52.000Z",
+      "edit_history_tweet_ids": [
+        "1948873865503146427"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1403472348150484992",
+            "start": 0,
+            "username": "burny_tech"
+          },
+          {
+            "end": 21,
+            "id": "1034844617261248512",
+            "start": 12,
+            "username": "AIatMeta"
+          },
+          {
+            "end": 36,
+            "id": "793288660040896512",
+            "start": 22,
+            "username": "shengjia_zhao"
+          }
+        ]
+      },
+      "id": "1948873865503146427",
+      "in_reply_to_user_id": "1403472348150484992",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5137,
+        "like_count": 28,
+        "quote_count": 2,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1948844544931291289",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@burny_tech @AIatMeta @shengjia_zhao There is no change in Yann’s role and he will continue to be Chief Scientist for FAIR.",
+      "url": "https://x.com/alexandr_wang/status/1948873865503146427"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1948834735519924230"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1948834974205182454",
+      "created_at": "2025-07-25T19:57:20.000Z",
+      "edit_history_tweet_ids": [
+        "1948834974205182454"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "793288660040896512",
+            "start": 32,
+            "username": "shengjia_zhao"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/D93KQWIvFl",
+            "end": 297,
+            "expanded_url": "https://x.com/alexandr_wang/status/1948834974205182454/photo/1",
+            "media_key": "3_1948834735519924230",
+            "start": 274,
+            "url": "https://t.co/D93KQWIvFl"
+          }
+        ]
+      },
+      "id": "1948834974205182454",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1082,
+        "impression_count": 3640536,
+        "like_count": 7844,
+        "quote_count": 215,
+        "reply_count": 336,
+        "retweet_count": 438
+      },
+      "text": "We are excited to announce that @shengjia_zhao will be the Chief Scientist of Meta Superintelligence Labs!\n\nShengjia is a brilliant scientist who most recently pioneered a new scaling paradigm in his research. He will lead our scientific direction for our team.\n\nLet's go 🚀 https://t.co/D93KQWIvFl",
+      "url": "https://x.com/alexandr_wang/status/1948834974205182454"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1942271535462638008",
+      "created_at": "2025-07-07T18:31:45.000Z",
+      "edit_history_tweet_ids": [
+        "1942290458258055631"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2726658913",
+            "start": 0,
+            "username": "summeryue0"
+          }
+        ]
+      },
+      "id": "1942290458258055631",
+      "in_reply_to_user_id": "2726658913",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5868,
+        "like_count": 47,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1942271535462638008",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@summeryue0 welcome!",
+      "url": "https://x.com/alexandr_wang/status/1942290458258055631"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1939867398972305408"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1939867404252979291",
+      "created_at": "2025-07-01T02:03:24.000Z",
+      "edit_history_tweet_ids": [
+        "1939867404252979291"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 47,
+            "id": "2425151",
+            "start": 42,
+            "username": "Meta"
+          },
+          {
+            "end": 79,
+            "id": "13235832",
+            "start": 67,
+            "username": "natfriedman"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/2ACj1lKN9Q",
+            "end": 222,
+            "expanded_url": "https://x.com/alexandr_wang/status/1939867404252979291/photo/1",
+            "media_key": "3_1939867398972305408",
+            "start": 199,
+            "url": "https://t.co/2ACj1lKN9Q"
+          }
+        ]
+      },
+      "id": "1939867404252979291",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 5467,
+        "impression_count": 3828023,
+        "like_count": 22123,
+        "quote_count": 932,
+        "reply_count": 1194,
+        "retweet_count": 1670
+      },
+      "text": "I’m excited to be the Chief AI Officer of @Meta, working alongside @natfriedman, and thrilled to be accompanied by an incredible group of people joining on the same day.\n\nTowards superintelligence 🚀 https://t.co/2ACj1lKN9Q",
+      "url": "https://x.com/alexandr_wang/status/1939867404252979291"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1950582919308914688"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1950582950728208643",
+        "created_at": "2025-07-30T15:43:10.000Z",
+        "edit_history_tweet_ids": [
+          "1950582950728208643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4G6NjjxlE",
+              "end": 23,
+              "expanded_url": "https://x.com/alexandr_wang/status/1950582950728208643/photo/1",
+              "media_key": "3_1950582919308914688",
+              "start": 0,
+              "url": "https://t.co/T4G6NjjxlE"
+            }
+          ]
+        },
+        "id": "1950582950728208643",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 2810,
+          "impression_count": 1474433,
+          "like_count": 5382,
+          "quote_count": 176,
+          "reply_count": 267,
+          "retweet_count": 506
+        },
+        "text": "https://t.co/T4G6NjjxlE"
+      },
+      {
+        "author_id": "1403472348150484992",
+        "conversation_id": "1948836042406330676",
+        "created_at": "2025-07-25T20:35:21.000Z",
+        "edit_history_tweet_ids": [
+          "1948844544931291289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1034844617261248512",
+              "start": 0,
+              "username": "AIatMeta"
+            },
+            {
+              "end": 24,
+              "id": "793288660040896512",
+              "start": 10,
+              "username": "shengjia_zhao"
+            }
+          ]
+        },
+        "id": "1948844544931291289",
+        "in_reply_to_user_id": "1034844617261248512",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7610,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948836042406330676",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@AIatMeta @shengjia_zhao What about Yann LeCunn"
+      },
+      {
+        "author_id": "2726658913",
+        "conversation_id": "1942271535462638008",
+        "created_at": "2025-07-07T17:16:34.000Z",
+        "edit_history_tweet_ids": [
+          "1942271535462638008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 188,
+              "id": "615818451",
+              "start": 174,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1942271535462638008",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 222098,
+          "like_count": 1636,
+          "quote_count": 7,
+          "reply_count": 69,
+          "retweet_count": 30
+        },
+        "text": "Today is my first day at Meta Superintelligence Labs. I’ll be focusing on alignment and safety, building on my time at Scale Research and SEAL. Grateful to keep working with @alexandr_wang—no one more committed, clear-eyed, or mission-driven. Excited for what’s ahead 🚀"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1403472348150484992",
+        "name": "Burny - Effective Curiosity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756650143145766912/-hr0qJkx_normal.jpg",
+        "username": "burny_tech",
+        "verified": false
+      },
+      {
+        "id": "2726658913",
+        "name": "Summer Yue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589495571978387456/d9jeOJng_normal.jpg",
+        "username": "summeryue0",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1950583395593130149",
+    "next_token": "b26v89c19zqg8o3fsc59oby4tqp5b6hqak9p3yazmksql",
+    "oldest_id": "1939867404252979291",
+    "result_count": 7
+  },
+  "errors": []
+}

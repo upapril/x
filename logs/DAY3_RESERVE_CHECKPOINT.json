@@ -1,0 +1,49 @@
+{
+  "written_at_shanghai": "2026-11-26T09:31:58.850118+08:00",
+  "stop_reason": "reserve_reached",
+  "explicitly_partial": true,
+  "live_footer": "X reads left for this user: 29 of 30 this minute (resets at 2026-11-26T01:32:00.000Z), 75 of 1000 today (resets at 2026-11-27T00:00:00.000Z).",
+  "footer_captured_at_shanghai": "2026-11-26 09:31:16 GMT+8",
+  "remaining": 75,
+  "usable_to_75_reserve": 0,
+  "count": 53706,
+  "added_day3": 18793,
+  "per_account": {
+    "silverfang88": 19848,
+    "iiiinvest": 4850,
+    "alexandr_wang": 3625,
+    "taresky": 17532,
+    "thankUcrypto": 7851
+  },
+  "day2_close_total": 34913,
+  "calls_day3": 925,
+  "expand_jobs_calls_this_pass": 2741,
+  "no_pending_ingest": true,
+  "next_batch_after_reset": "day3_batch111.txt",
+  "remaining_manifest": "logs/remaining_jobs_day3.json",
+  "authority": "remaining_jobs_day3.json + expand_jobs.json + live_budget.json",
+  "do_not_treat_as_live": [
+    "logs/DAY2_FINAL_REMAINING_JOBS.json",
+    "logs/remaining_jobs_day2.json"
+  ],
+  "literal_corrections": "logs/day2_literal_corrections.json",
+  "all_jobs_status_counts": {
+    "exhausted": 360,
+    "pagination_stalled": 3,
+    "open": 3,
+    "pending": 1,
+    "not_proven_exhausted": 1
+  },
+  "open_dated_cursors": 1,
+  "deferred_timeline_cursors": 2,
+  "actionable_pending": 0,
+  "blocked_sf_2026_11": 1,
+  "no_job_windows": 210,
+  "excluded_precreation_wang": 17,
+  "wang_overlap_assessment": "all 35 Wang 2024-01..2026-11 monthly jobs have been started; 34 exhausted; Wang 2026-09 remains open after a Full-text 25-result next_token",
+  "no_day3_package_yet": true,
+  "packaging_status": "deferred_to_followup_turn_after_reserve_close",
+  "prior_zips_not_modified": true,
+  "no_routine_recreated": true,
+  "next_action": "RESERVE STOP. Do not collect more until after 2026-11-27 08:00 Asia/Shanghai reset. This turn did not complete analyses or a NEW day3 zip because context was already full after collection. Next turn should update chronological core trading analyses, dated contradictions, unverified-performance caveats, and finance-skills comparison, then validate and package a NEW day3 zip without modifying prior zips. After reset, resume DATA ONLY from the open Wang 2026-09 token (follow the Full-text/25-result next_token; do not treat as terminal), then the unstarted incremental 2026-11-25T00:35:00Z-2026-11-25T23:59:00Z."
+}

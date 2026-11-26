@@ -1,0 +1,1995 @@
+{
+  "collected_at_utc": "2026-11-26T00:31:54Z",
+  "collected_at_shanghai": "2026-11-26T08:31:54+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AM7PPT3BB0XAP8EMWKRHT8.txt",
+  "request": {
+    "query": "from:silverfang88",
+    "start_time": "2025-01-01T00:00:00Z",
+    "end_time": "2025-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3frr9qfn9qkor2p38fxbjhtynox5t31",
+    "window_label": "2025-01"
+  },
+  "data": [
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880976132000157893",
+      "created_at": "2025-01-19T14:03:10.000Z",
+      "edit_history_tweet_ids": [
+        "1880979316860911867"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "769370647",
+            "start": 0,
+            "username": "0xsexybanana"
+          }
+        ]
+      },
+      "id": "1880979316860911867",
+      "in_reply_to_user_id": "769370647",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1421,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880976132000157893",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xsexybanana 我想出点给他",
+      "url": "https://x.com/silverfang88/status/1880979316860911867"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880978631817834906",
+      "created_at": "2025-01-19T14:02:04.000Z",
+      "edit_history_tweet_ids": [
+        "1880979037629345863"
+      ],
+      "id": "1880979037629345863",
+      "in_reply_to_user_id": "1435990322702520320",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7111,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880978631817834906",
+          "type": "replied_to"
+        }
+      ],
+      "text": "然后 \n因为我实在没时间一个人一个人私聊\n所以主要每次大机会还是在群里喊 \n照顾不周的地方实在抱歉",
+      "url": "https://x.com/silverfang88/status/1880979037629345863"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1880977109331656704",
+          "3_1880977119330889728",
+          "3_1880977128340291584"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880978631817834906",
+      "created_at": "2025-01-19T14:00:27.000Z",
+      "edit_history_tweet_ids": [
+        "1880978631817834906"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 12,
+            "start": 6,
+            "tag": "slerf"
+          },
+          {
+            "end": 21,
+            "start": 15,
+            "tag": "trump"
+          },
+          {
+            "end": 89,
+            "start": 83,
+            "tag": "neiro"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 117,
+            "id": "1465832978022473733",
+            "start": 109,
+            "username": "321DAO_"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Vz9HMZS9WY",
+            "end": 191,
+            "expanded_url": "https://x.com/silverfang88/status/1880978631817834906/photo/1",
+            "media_key": "3_1880977109331656704",
+            "start": 168,
+            "url": "https://t.co/Vz9HMZS9WY"
+          },
+          {
+            "display_url": "pic.x.com/Vz9HMZS9WY",
+            "end": 191,
+            "expanded_url": "https://x.com/silverfang88/status/1880978631817834906/photo/2",
+            "media_key": "3_1880977119330889728",
+            "start": 168,
+            "url": "https://t.co/Vz9HMZS9WY"
+          },
+          {
+            "display_url": "pic.x.com/Vz9HMZS9WY",
+            "end": 191,
+            "expanded_url": "https://x.com/silverfang88/status/1880978631817834906/photo/3",
+            "media_key": "3_1880977128340291584",
+            "start": 168,
+            "url": "https://t.co/Vz9HMZS9WY"
+          }
+        ]
+      },
+      "id": "1880978631817834906",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "cashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "slerf"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "trump"
+            },
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "neiro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1465832978022473733",
+              "start": 109,
+              "username": "321DAO_"
+            }
+          ]
+        },
+        "text": "回看了一下 $slerf 和 $trump 这两波\n这两波应该是带了很多朋友发财\n虽然回想起来 slerf 艾特一姐上币安\n和 trump 病毒刷屏确实羞耻了一些\n\n$neiro  其实我也死喊了一波 \n只是那个时候 @321DAO_ 的群没拉回来\n\n我不擅长日常PVP \n但是我对大机会的嗅觉还凑合\n赌性比较坚强\n二次元一些的说法是\n我只是花更多的时间在磨剑\n然后 _ _ _ _ _\n\n虽然现在有没有一个红包\n但是看到大家发财了 \n替大家感到开心\n祝愿大家留住财富 \n祝愿大家百尺竿头更进一步\n祝愿世间心诚剑士人人可剑开天门\n\n大家以后也多交流 \n我觉得 对我而言\n除了crypto\n没有更好的选择了"
+      },
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 56229,
+        "like_count": 92,
+        "quote_count": 1,
+        "reply_count": 28,
+        "retweet_count": 4
+      },
+      "text": "回看了一下 $slerf 和 $trump 这两波\n这两波应该是带了很多朋友发财\n虽然回想起来 slerf 艾特一姐上币安\n和 trump 病毒刷屏确实羞耻了一些\n\n$neiro  其实我也死喊了一波 \n只是那个时候 @321DAO_ 的群没拉回来\n\n我不擅长日常PVP \n但是我对大机会的嗅觉还凑合\n赌性比较坚强\n二次元一些的说法是 https://t.co/Vz9HMZS9WY",
+      "url": "https://x.com/silverfang88/status/1880978631817834906"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880957467070472475",
+      "created_at": "2025-01-19T12:36:21.000Z",
+      "edit_history_tweet_ids": [
+        "1880957467070472475"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 32,
+            "start": 26,
+            "tag": "TRUMP"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 13,
+            "id": "412396605",
+            "start": 3,
+            "username": "MetaEraCN"
+          },
+          {
+            "end": 126,
+            "id": "412396605",
+            "start": 116,
+            "username": "MetaEraCN"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/i/spaces/1gqGv…",
+            "end": 99,
+            "expanded_url": "https://x.com/i/spaces/1gqGvNNzbQzGB",
+            "start": 76,
+            "status": 200,
+            "unwound_url": "https://x.com/i/spaces/1gqGvNNzbQzGB",
+            "url": "https://t.co/HOZxFu4p27"
+          }
+        ]
+      },
+      "id": "1880957467070472475",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 61
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880950588202164328",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @MetaEraCN: 🔥 时代的马车启动： $TRUMP 全面暴涨，川普任仪式引发狂潮\n\n⏰ 时间：1.19 21:00 UTC+8\n🔗 链接：https://t.co/HOZxFu4p27\n✨ 主办方 &amp; 主持人：@MetaEraCN，@SunovaMetaEra…",
+      "url": "https://x.com/silverfang88/status/1880957467070472475"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880923248747331926",
+      "created_at": "2025-01-19T10:23:24.000Z",
+      "edit_history_tweet_ids": [
+        "1880924010521018429"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2555315642",
+            "start": 0,
+            "username": "0xToddxyz"
+          }
+        ]
+      },
+      "id": "1880924010521018429",
+      "in_reply_to_user_id": "2555315642",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1617,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880923248747331926",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xToddxyz 🤣 上头了 羞耻了一些",
+      "url": "https://x.com/silverfang88/status/1880924010521018429"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880889927296328172",
+      "created_at": "2025-01-19T08:41:02.000Z",
+      "edit_history_tweet_ids": [
+        "1880898249751720057"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "973136450706272256",
+            "start": 0,
+            "username": "0xOar"
+          }
+        ]
+      },
+      "id": "1880898249751720057",
+      "in_reply_to_user_id": "973136450706272256",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 404,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880898030024732968",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xOar 一剑开天门",
+      "url": "https://x.com/silverfang88/status/1880898249751720057"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880894523255222430",
+      "created_at": "2025-01-19T08:33:16.000Z",
+      "edit_history_tweet_ids": [
+        "1880896292366475398"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1337375343779270656",
+            "start": 0,
+            "username": "oNDCQwYNzR2iGwu"
+          }
+        ]
+      },
+      "id": "1880896292366475398",
+      "in_reply_to_user_id": "1337375343779270656",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 805,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880895966003577006",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@oNDCQwYNzR2iGwu 频繁的下注只会迷失方向\n而我只会等待 \n然后一剑开天门",
+      "url": "https://x.com/silverfang88/status/1880896292366475398"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1880894516485627904"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880894523255222430",
+      "created_at": "2025-01-19T08:26:14.000Z",
+      "edit_history_tweet_ids": [
+        "1880894523255222430"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 15,
+            "start": 10,
+            "tag": "bome"
+          },
+          {
+            "end": 27,
+            "start": 23,
+            "tag": "mew"
+          },
+          {
+            "end": 34,
+            "start": 28,
+            "tag": "slerf"
+          },
+          {
+            "end": 50,
+            "start": 44,
+            "tag": "trump"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/I721KgxsLV",
+            "end": 100,
+            "expanded_url": "https://x.com/silverfang88/status/1880894523255222430/photo/1",
+            "media_key": "3_1880894516485627904",
+            "start": 77,
+            "url": "https://t.co/I721KgxsLV"
+          }
+        ]
+      },
+      "id": "1880894523255222430",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 50475,
+        "like_count": 123,
+        "quote_count": 3,
+        "reply_count": 15,
+        "retweet_count": 17
+      },
+      "text": "如果类比去年三月\n\n$bome 速通币安之后\n$mew $slerf 等神盘联袂登场\n\n$trump 速通币安之后\n下面有请\n\n彼时彼刻\n恰如\n此时此刻 https://t.co/I721KgxsLV",
+      "url": "https://x.com/silverfang88/status/1880894523255222430"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_1880889783049949184"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880889927296328172",
+      "created_at": "2025-01-19T08:07:58.000Z",
+      "edit_history_tweet_ids": [
+        "1880889927296328172"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/RauDREhXTE",
+            "end": 33,
+            "expanded_url": "https://x.com/silverfang88/status/1880889927296328172/video/1",
+            "media_key": "13_1880889783049949184",
+            "start": 10,
+            "url": "https://t.co/RauDREhXTE"
+          }
+        ]
+      },
+      "id": "1880889927296328172",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5481,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "《_ _ _ _》 https://t.co/RauDREhXTE",
+      "url": "https://x.com/silverfang88/status/1880889927296328172"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880790933924712783",
+      "created_at": "2025-01-19T05:22:38.000Z",
+      "edit_history_tweet_ids": [
+        "1880848320182313231"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "2187170989",
+            "start": 0,
+            "username": "mablejiang"
+          }
+        ]
+      },
+      "id": "1880848320182313231",
+      "in_reply_to_user_id": "2187170989",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 933,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880847963473526945",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mablejiang yapyap 好的",
+      "url": "https://x.com/silverfang88/status/1880848320182313231"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880790933924712783",
+      "created_at": "2025-01-19T01:34:36.000Z",
+      "edit_history_tweet_ids": [
+        "1880790933924712783"
+      ],
+      "id": "1880790933924712783",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 32654,
+        "like_count": 175,
+        "quote_count": 2,
+        "reply_count": 35,
+        "retweet_count": 9
+      },
+      "text": "就不玩VC币 \n就不玩机构币 \n就不玩交易所新币 \n你们比特朗普有钱吗？ \n你们比特朗普有权利吗？ \n\n特朗普都在sol上发meme\n\n老子凭啥去\n打你的预售\n买你的nft\n撸你的交互\n投你的私募\n接你的盘\n？？？？\n\n全体起立",
+      "url": "https://x.com/silverfang88/status/1880790933924712783"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880692297626714449",
+      "created_at": "2025-01-18T19:02:39.000Z",
+      "edit_history_tweet_ids": [
+        "1880692297626714449"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "955870293179944961",
+            "start": 3,
+            "username": "MapleLeafCap"
+          }
+        ]
+      },
+      "id": "1880692297626714449",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880682401048715592",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @MapleLeafCap: 回亚洲了。凌晨还醒着。Trump发币具有时代性意义：\n- 直接打板, 基本上明牌告诉你发币没问题，未来1个月估计还有1-2个顶级速通盘。后续关注(1) 价值捕获 + (2) 贿选\n- On 2，你想象一下只要美国人注册/KYC+有链上地址就能…",
+      "url": "https://x.com/silverfang88/status/1880692297626714449"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1768206754138009955",
+      "created_at": "2025-01-18T16:31:48.000Z",
+      "edit_history_tweet_ids": [
+        "1880654334884770144"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 12,
+            "start": 6,
+            "tag": "trump"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/silverfang88/s…",
+            "end": 40,
+            "expanded_url": "https://twitter.com/silverfang88/status/1880524566566740192",
+            "start": 17,
+            "url": "https://t.co/BJB9jCcNpX"
+          }
+        ]
+      },
+      "id": "1880654334884770144",
+      "in_reply_to_user_id": "1435990322702520320",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 13159,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880524566566740192",
+          "type": "quoted"
+        },
+        {
+          "id": "1877388672049230284",
+          "type": "replied_to"
+        }
+      ],
+      "text": "第四十二期 $trump 特别版 https://t.co/BJB9jCcNpX",
+      "url": "https://x.com/silverfang88/status/1880654334884770144"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880645404808937847",
+      "created_at": "2025-01-18T16:23:44.000Z",
+      "edit_history_tweet_ids": [
+        "1880652304912937172"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "761708534266490880",
+            "start": 0,
+            "username": "mdzzi"
+          }
+        ]
+      },
+      "id": "1880652304912937172",
+      "in_reply_to_user_id": "761708534266490880",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 794,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880651034839970145",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mdzzi 根据地",
+      "url": "https://x.com/silverfang88/status/1880652304912937172"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1880645396466458624"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880645404808937847",
+      "created_at": "2025-01-18T15:56:19.000Z",
+      "edit_history_tweet_ids": [
+        "1880645404808937847"
+      ],
+      "entities": {
+        "cashtags": [
+          {
+            "end": 48,
+            "start": 44,
+            "tag": "ETH"
+          },
+          {
+            "end": 55,
+            "start": 51,
+            "tag": "SOL"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/HgxVwZXMgD",
+            "end": 130,
+            "expanded_url": "https://x.com/silverfang88/status/1880645404808937847/photo/1",
+            "media_key": "3_1880645396466458624",
+            "start": 107,
+            "url": "https://t.co/HgxVwZXMgD"
+          }
+        ]
+      },
+      "id": "1880645404808937847",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 23570,
+        "like_count": 31,
+        "quote_count": 1,
+        "reply_count": 10,
+        "retweet_count": 2
+      },
+      "text": "解放战争初期\n解放军 120万余人\n国民党军 430万人\n\n兵力悬殊几乎1比4\n\n如今 $ETH 是 $SOL 的四倍\n\n此时此刻…\n毛泽东站在黄河东岸\n他的眼睛，会放在哪里呢？\n\n宜将剩勇追穷寇\n不可沽名学霸王 https://t.co/HgxVwZXMgD",
+      "url": "https://x.com/silverfang88/status/1880645404808937847"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880644103748133204",
+      "created_at": "2025-01-18T15:53:05.000Z",
+      "edit_history_tweet_ids": [
+        "1880644590438666317"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1134863829173542912",
+            "start": 0,
+            "username": "JimsYoung_"
+          },
+          {
+            "end": 21,
+            "id": "1788966273814339584",
+            "start": 12,
+            "username": "moonshot"
+          }
+        ]
+      },
+      "id": "1880644590438666317",
+      "in_reply_to_user_id": "1134863829173542912",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3365,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880644103748133204",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@JimsYoung_ @moonshot 恭喜",
+      "url": "https://x.com/silverfang88/status/1880644590438666317"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1880597182895792128"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880597269524947289",
+      "created_at": "2025-01-18T12:45:03.000Z",
+      "edit_history_tweet_ids": [
+        "1880597269524947289"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/QMhHO6Vpg0",
+            "end": 59,
+            "expanded_url": "https://x.com/silverfang88/status/1880597269524947289/photo/1",
+            "media_key": "3_1880597182895792128",
+            "start": 36,
+            "url": "https://t.co/QMhHO6Vpg0"
+          },
+          {
+            "display_url": "x.com/silverfang88/s…",
+            "end": 83,
+            "expanded_url": "https://twitter.com/silverfang88/status/1880524566566740192",
+            "start": 60,
+            "url": "https://t.co/BJB9jCcNpX"
+          }
+        ]
+      },
+      "id": "1880597269524947289",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 25,
+        "impression_count": 116691,
+        "like_count": 102,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880524566566740192",
+          "type": "quoted"
+        }
+      ],
+      "text": "和我们猜想差不多了...\n做OTC拉机构进来政治献金\n\n牛逼..... https://t.co/QMhHO6Vpg0 https://t.co/BJB9jCcNpX",
+      "url": "https://x.com/silverfang88/status/1880597269524947289"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880567120721064233",
+      "created_at": "2025-01-18T12:14:35.000Z",
+      "edit_history_tweet_ids": [
+        "1880589601238298968"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1283602301538590720",
+            "start": 0,
+            "username": "FlagofMuskox"
+          },
+          {
+            "end": 23,
+            "id": "1568600821918744577",
+            "start": 14,
+            "username": "6551News"
+          }
+        ]
+      },
+      "id": "1880589601238298968",
+      "in_reply_to_user_id": "1283602301538590720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 288,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880567861955207670",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@FlagofMuskox @6551News 浇给是必然的…",
+      "url": "https://x.com/silverfang88/status/1880589601238298968"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880567120721064233",
+      "created_at": "2025-01-18T12:14:25.000Z",
+      "edit_history_tweet_ids": [
+        "1880589561459528048"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1493519370664177667",
+            "start": 0,
+            "username": "cryp_orange"
+          },
+          {
+            "end": 22,
+            "id": "1568600821918744577",
+            "start": 13,
+            "username": "6551News"
+          }
+        ]
+      },
+      "id": "1880589561459528048",
+      "in_reply_to_user_id": "1493519370664177667",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 263,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880585173001208178",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cryp_orange @6551News 🫡",
+      "url": "https://x.com/silverfang88/status/1880589561459528048"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880573790549372971",
+      "created_at": "2025-01-18T11:11:45.000Z",
+      "edit_history_tweet_ids": [
+        "1880573790549372971"
+      ],
+      "id": "1880573790549372971",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14466,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 27,
+        "retweet_count": 0
+      },
+      "text": "现在要抄底什么？ 兄弟们？",
+      "url": "https://x.com/silverfang88/status/1880573790549372971"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880569154463580374",
+      "created_at": "2025-01-18T10:53:20.000Z",
+      "edit_history_tweet_ids": [
+        "1880569154463580374"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/ethena_labs/st…",
+            "end": 185,
+            "expanded_url": "https://twitter.com/ethena_labs/status/1879201350707507204",
+            "start": 162,
+            "url": "https://t.co/I2EKceInkn"
+          }
+        ]
+      },
+      "id": "1880569154463580374",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 9713,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1879201350707507204",
+          "type": "quoted"
+        }
+      ],
+      "text": "Ethena和Spark合作（Maker DAO生态最大借贷协议，是aave和morpho主要流动性提供者之一） 宣发了Spark直接持有11亿美金的USDe和sUSDe\n\n而且USDe正式进入spark的资产负债表，不需要借贷间接了，用户直接就可以USDC换USDe，USDe流动性护城河是越来越深了，Ethena真牛逼 https://t.co/I2EKceInkn",
+      "url": "https://x.com/silverfang88/status/1880569154463580374"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1880567097341968384"
+        ]
+      },
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880567120721064233",
+      "created_at": "2025-01-18T10:45:15.000Z",
+      "edit_history_tweet_ids": [
+        "1880567120721064233"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 42,
+            "id": "1568600821918744577",
+            "start": 33,
+            "username": "6551News"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/qtAjx39m8Q",
+            "end": 66,
+            "expanded_url": "https://x.com/silverfang88/status/1880567120721064233/photo/1",
+            "media_key": "3_1880567097341968384",
+            "start": 43,
+            "url": "https://t.co/qtAjx39m8Q"
+          },
+          {
+            "display_url": "x.com/silverfang88/s…",
+            "end": 90,
+            "expanded_url": "https://twitter.com/silverfang88/status/1880524566566740192",
+            "start": 67,
+            "url": "https://t.co/BJB9jCcNpX"
+          }
+        ]
+      },
+      "id": "1880567120721064233",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11618,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880524566566740192",
+          "type": "quoted"
+        }
+      ],
+      "text": "操 space刚结束 刚说完3小时内币安 \n刚结束就上了 牛逼\n\n@6551News https://t.co/qtAjx39m8Q https://t.co/BJB9jCcNpX",
+      "url": "https://x.com/silverfang88/status/1880567120721064233"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880558590106517692",
+      "created_at": "2025-01-18T10:15:55.000Z",
+      "edit_history_tweet_ids": [
+        "1880559739404435567"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "959291597622886400",
+            "start": 0,
+            "username": "haze0x"
+          },
+          {
+            "end": 15,
+            "id": "1656210167816650754",
+            "start": 8,
+            "username": "gmgnai"
+          }
+        ]
+      },
+      "id": "1880559739404435567",
+      "in_reply_to_user_id": "959291597622886400",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1262,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880559629492773373",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@haze0x @gmgnai 格局太大了 鸡哥",
+      "url": "https://x.com/silverfang88/status/1880559739404435567"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880558590106517692",
+      "created_at": "2025-01-18T10:11:39.000Z",
+      "edit_history_tweet_ids": [
+        "1880558663414522297"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai/?ref=CvVwe6Ce&…",
+            "end": 23,
+            "expanded_url": "https://gmgn.ai/?ref=CvVwe6Ce&chain=sol",
+            "start": 0,
+            "status": 200,
+            "unwound_url": "https://gmgn.ai/?ref=CvVwe6Ce&chain=sol",
+            "url": "https://t.co/cbw3JvKiUw"
+          }
+        ]
+      },
+      "id": "1880558663414522297",
+      "in_reply_to_user_id": "1435990322702520320",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3962,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1880558590106517692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "https://t.co/cbw3JvKiUw",
+      "url": "https://x.com/silverfang88/status/1880558663414522297"
+    },
+    {
+      "author_id": "1435990322702520320",
+      "conversation_id": "1880558590106517692",
+      "created_at": "2025-01-18T10:11:21.000Z",
+      "edit_history_tweet_ids": [
+        "1880558590106517692"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 24,
+            "id": "959291597622886400",
+            "start": 17,
+            "username": "haze0x"
+          },
+          {
+            "end": 32,
+            "id": "1656210167816650754",
+            "start": 25,
+            "username": "gmgnai"
+          }
+        ]
+      },
+      "id": "1880558590106517692",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 13026,
+        "like_count": 14,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "text": "鸡哥 收网吧 现在跑 一把结束！ @haze0x @gmgnai",
+      "url": "https://x.com/silverfang88/status/1880558590106517692"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1880977109331656704",
+            "3_1880977119330889728",
+            "3_1880977128340291584"
+          ]
+        },
+        "author_id": "1435990322702520320",
+        "conversation_id": "1880978631817834906",
+        "created_at": "2025-01-19T14:00:27.000Z",
+        "edit_history_tweet_ids": [
+          "1880978631817834906"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "slerf"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "trump"
+            },
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "neiro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 117,
+              "id": "1465832978022473733",
+              "start": 109,
+              "username": "321DAO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vz9HMZS9WY",
+              "end": 191,
+              "expanded_url": "https://x.com/silverfang88/status/1880978631817834906/photo/1",
+              "media_key": "3_1880977109331656704",
+              "start": 168,
+              "url": "https://t.co/Vz9HMZS9WY"
+            },
+            {
+              "display_url": "pic.x.com/Vz9HMZS9WY",
+              "end": 191,
+              "expanded_url": "https://x.com/silverfang88/status/1880978631817834906/photo/2",
+              "media_key": "3_1880977119330889728",
+              "start": 168,
+              "url": "https://t.co/Vz9HMZS9WY"
+            },
+            {
+              "display_url": "pic.x.com/Vz9HMZS9WY",
+              "end": 191,
+              "expanded_url": "https://x.com/silverfang88/status/1880978631817834906/photo/3",
+              "media_key": "3_1880977128340291584",
+              "start": 168,
+              "url": "https://t.co/Vz9HMZS9WY"
+            }
+          ]
+        },
+        "id": "1880978631817834906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "slerf"
+              },
+              {
+                "end": 21,
+                "start": 15,
+                "tag": "trump"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "neiro"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "id": "1465832978022473733",
+                "start": 109,
+                "username": "321DAO_"
+              }
+            ]
+          },
+          "text": "回看了一下 $slerf 和 $trump 这两波\n这两波应该是带了很多朋友发财\n虽然回想起来 slerf 艾特一姐上币安\n和 trump 病毒刷屏确实羞耻了一些\n\n$neiro  其实我也死喊了一波 \n只是那个时候 @321DAO_ 的群没拉回来\n\n我不擅长日常PVP \n但是我对大机会的嗅觉还凑合\n赌性比较坚强\n二次元一些的说法是\n我只是花更多的时间在磨剑\n然后 _ _ _ _ _\n\n虽然现在有没有一个红包\n但是看到大家发财了 \n替大家感到开心\n祝愿大家留住财富 \n祝愿大家百尺竿头更进一步\n祝愿世间心诚剑士人人可剑开天门\n\n大家以后也多交流 \n我觉得 对我而言\n除了crypto\n没有更好的选择了"
+        },
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 56229,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 4
+        },
+        "text": "回看了一下 $slerf 和 $trump 这两波\n这两波应该是带了很多朋友发财\n虽然回想起来 slerf 艾特一姐上币安\n和 trump 病毒刷屏确实羞耻了一些\n\n$neiro  其实我也死喊了一波 \n只是那个时候 @321DAO_ 的群没拉回来\n\n我不擅长日常PVP \n但是我对大机会的嗅觉还凑合\n赌性比较坚强\n二次元一些的说法是 https://t.co/Vz9HMZS9WY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1880944693330235392"
+          ]
+        },
+        "author_id": "412396605",
+        "conversation_id": "1880950588202164328",
+        "created_at": "2025-01-19T12:09:01.000Z",
+        "edit_history_tweet_ids": [
+          "1880950588202164328"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 17,
+              "start": 11,
+              "tag": "TRUMP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 111,
+              "id": "412396605",
+              "start": 101,
+              "username": "MetaEraCN"
+            },
+            {
+              "end": 160,
+              "id": "902839045356744704",
+              "start": 146,
+              "username": "justinsuntron"
+            },
+            {
+              "end": 170,
+              "id": "1484466362646859786",
+              "start": 161,
+              "username": "Vito_168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1gqGv…",
+              "end": 84,
+              "expanded_url": "https://x.com/i/spaces/1gqGvNNzbQzGB",
+              "start": 61,
+              "status": 200,
+              "unwound_url": "https://x.com/i/spaces/1gqGvNNzbQzGB",
+              "url": "https://t.co/HOZxFu4p27"
+            },
+            {
+              "display_url": "pic.x.com/S1JgfddXD4",
+              "end": 206,
+              "expanded_url": "https://x.com/MetaEraCN/status/1880950588202164328/photo/1",
+              "media_key": "3_1880944693330235392",
+              "start": 183,
+              "url": "https://t.co/S1JgfddXD4"
+            }
+          ]
+        },
+        "id": "1880950588202164328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 17,
+                "start": 11,
+                "tag": "TRUMP"
+              },
+              {
+                "end": 335,
+                "start": 329,
+                "tag": "TRUMP"
+              },
+              {
+                "end": 399,
+                "start": 393,
+                "tag": "TRUMP"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 419,
+                "start": 414,
+                "tag": "MEME"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "id": "412396605",
+                "start": 97,
+                "username": "MetaEraCN"
+              },
+              {
+                "end": 156,
+                "id": "902839045356744704",
+                "start": 142,
+                "username": "justinsuntron"
+              },
+              {
+                "end": 166,
+                "id": "1484466362646859786",
+                "start": 157,
+                "username": "Vito_168"
+              },
+              {
+                "end": 203,
+                "id": "1656710094917345286",
+                "start": 190,
+                "username": "zheye1079108"
+              },
+              {
+                "end": 249,
+                "id": "2787332660",
+                "start": 238,
+                "username": "loyalluyao"
+              },
+              {
+                "end": 261,
+                "id": "1472776670046306310",
+                "start": 250,
+                "username": "Prestonbox"
+              },
+              {
+                "end": 274,
+                "id": "1490949502261665792",
+                "start": 262,
+                "username": "yuyue_chris"
+              },
+              {
+                "end": 288,
+                "id": "1435990322702520320",
+                "start": 275,
+                "username": "silverfang88"
+              },
+              {
+                "end": 298,
+                "id": "801017001514700800",
+                "start": 289,
+                "username": "star5490"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/spaces/1gqgv…",
+                "end": 84,
+                "expanded_url": "https://twitter.com/i/spaces/1gqGvNNzbQzGB",
+                "start": 61,
+                "url": "https://t.co/71tFwbsuG5"
+              }
+            ]
+          },
+          "text": "🔥 时代的马车启动： $TRUMP 全面暴涨，川普任仪式引发狂潮\n\n⏰ 时间：1.19 21:00 UTC+8\n🔗 链接：https://t.co/71tFwbsuG5\n✨ 主办方 & 主持人：@MetaEraCN，@SunovaMetaEra\n\n🎙️ 重磅嘉宾：@punk8185，@justinsuntron，@Vito_168\n🎙️ 机构 & 项目方代表：@ricial1，@zheye1079108，@0xqianshuishu，@0x0xben\n🎙️ 社区意见领袖：@loyalluyao，@Prestonbox，@yuyue_chris，@silverfang88，@star5490，@eatingdao\n\n📅 设置闹钟，与我们一起了解：\n- $TRUMP 登陆各大交易所，对于当前加密货币市场的格局和竞争态势，释放了怎样的信号？\n- 大量从业人士，kol，果断链上布局 $TRUMP ，当时是持怎样的看法？\n- #MEME 文化，加密文化是否持续引领潮流？\n- 大量增量的情况下，能否吸引外部资金和资本进入加密领域？\n……"
+        },
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 119767,
+          "like_count": 127,
+          "quote_count": 11,
+          "reply_count": 69,
+          "retweet_count": 61
+        },
+        "text": "🔥 时代的马车启动： $TRUMP 全面暴涨，川普任仪式引发狂潮\n\n⏰ 时间：1.19 21:00 UTC+8\n🔗 链接：https://t.co/HOZxFu4p27\n✨ 主办方 &amp; 主持人：@MetaEraCN，@SunovaMetaEra\n\n🎙️ 重磅嘉宾：@punk8185，@justinsuntron，@Vito_168\n🎙️ 机构 &amp; https://t.co/S1JgfddXD4"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1880923242753585152",
+            "3_1880923242741051392"
+          ]
+        },
+        "author_id": "2555315642",
+        "conversation_id": "1880923248747331926",
+        "created_at": "2025-01-19T10:20:23.000Z",
+        "edit_history_tweet_ids": [
+          "1880923248747331926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1435990322702520320",
+              "start": 8,
+              "username": "silverfang88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5urTbOIdP",
+              "end": 45,
+              "expanded_url": "https://x.com/0xToddxyz/status/1880923248747331926/photo/1",
+              "media_key": "3_1880923242753585152",
+              "start": 22,
+              "url": "https://t.co/r5urTbOIdP"
+            },
+            {
+              "display_url": "pic.x.com/r5urTbOIdP",
+              "end": 45,
+              "expanded_url": "https://x.com/0xToddxyz/status/1880923248747331926/photo/2",
+              "media_key": "3_1880923242741051392",
+              "start": 22,
+              "url": "https://t.co/r5urTbOIdP"
+            }
+          ]
+        },
+        "id": "1880923248747331926",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11648,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "text": "子时老师继续封神@silverfang88 https://t.co/r5urTbOIdP"
+      },
+      {
+        "author_id": "973136450706272256",
+        "conversation_id": "1880889927296328172",
+        "created_at": "2025-01-19T08:40:10.000Z",
+        "edit_history_tweet_ids": [
+          "1880898030024732968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435990322702520320",
+              "start": 0,
+              "username": "silverfang88"
+            }
+          ]
+        },
+        "id": "1880898030024732968",
+        "in_reply_to_user_id": "1435990322702520320",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880889927296328172",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@silverfang88 一剑开天门"
+      },
+      {
+        "author_id": "2187170989",
+        "conversation_id": "1880790933924712783",
+        "created_at": "2025-01-19T05:21:13.000Z",
+        "edit_history_tweet_ids": [
+          "1880847963473526945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435990322702520320",
+              "start": 0,
+              "username": "silverfang88"
+            }
+          ]
+        },
+        "id": "1880847963473526945",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1033,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@silverfang88 是权力，雅宝～"
+      },
+      {
+        "author_id": "955870293179944961",
+        "conversation_id": "1880682401048715592",
+        "created_at": "2025-01-18T18:23:20.000Z",
+        "edit_history_tweet_ids": [
+          "1880682401048715592"
+        ],
+        "id": "1880682401048715592",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "回亚洲了。凌晨还醒着。Trump发币具有时代性意义：\n- 直接打板, 基本上明牌告诉你发币没问题，未来1个月估计还有1-2个顶级速通盘。后续关注(1) 价值捕获 + (2) 贿选\n- On 2，你想象一下只要美国人注册/KYC+有链上地址就能直接领空投，外加TRUMP各种蹭换取现金流+资产。2028大选Trump的派系是否还能当选\n- 川普派系对于加密圈的实际支持概率在上升\n- 以太得抓紧了。财富效应继续全部在SOL产生的话行业地位的颠覆就在12-24个月之内\n- SOL 本身会变成未来3个月的财富效应currency\n- 亚太区政策上是否会180反复跟进目前没有定论，属于known unknown. 有的话是重大行业利好"
+        },
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 72758,
+          "like_count": 200,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 20
+        },
+        "text": "回亚洲了。凌晨还醒着。Trump发币具有时代性意义：\n- 直接打板, 基本上明牌告诉你发币没问题，未来1个月估计还有1-2个顶级速通盘。后续关注(1) 价值捕获 + (2) 贿选\n- On 2，你想象一下只要美国人注册/KYC+有链上地址就能直接领空投，外加TRUMP各种蹭换取现金流+资产。2028大选Trump的派系是否还能当选"
+      },
+      {
+        "author_id": "1435990322702520320",
+        "conversation_id": "1768206754138009955",
+        "created_at": "2025-01-09T16:15:14.000Z",
+        "edit_history_tweet_ids": [
+          "1877388672049230284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silverfang88/s…",
+              "end": 35,
+              "expanded_url": "https://x.com/silverfang88/status/1877355689573544090",
+              "start": 12,
+              "url": "https://t.co/Jw3Y1MqMtS"
+            }
+          ]
+        },
+        "id": "1877388672049230284",
+        "in_reply_to_user_id": "1435990322702520320",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8080,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877355689573544090",
+            "type": "quoted"
+          },
+          {
+            "id": "1875536372884500690",
+            "type": "replied_to"
+          }
+        ],
+        "text": "第四十一期 挺有戏的\n\nhttps://t.co/Jw3Y1MqMtS"
+      },
+      {
+        "author_id": "1435990322702520320",
+        "conversation_id": "1880524566566740192",
+        "created_at": "2025-01-18T07:56:09.000Z",
+        "edit_history_tweet_ids": [
+          "1880524566566740192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1MYxN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYxNMMZWBbJw",
+              "start": 0,
+              "status": 200,
+              "unwound_url": "https://x.com/i/spaces/1MYxNMMZWBbJw",
+              "url": "https://t.co/GQlpyVnC4k"
+            }
+          ]
+        },
+        "id": "1880524566566740192",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 201872,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "text": "https://t.co/GQlpyVnC4k"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1880644095854497792"
+          ]
+        },
+        "author_id": "1134863829173542912",
+        "conversation_id": "1880644103748133204",
+        "created_at": "2025-01-18T15:51:09.000Z",
+        "edit_history_tweet_ids": [
+          "1880644103748133204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 92,
+              "id": "1435990322702520320",
+              "start": 79,
+              "username": "silverfang88"
+            },
+            {
+              "end": 105,
+              "id": "1788966273814339584",
+              "start": 96,
+              "username": "moonshot"
+            },
+            {
+              "end": 125,
+              "id": "1788966273814339584",
+              "start": 116,
+              "username": "moonshot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jimsyoung_/sta…",
+              "end": 171,
+              "expanded_url": "https://x.com/jimsyoung_/status/1875815625508950146?s=46&t=38w555-ugUiiLOMzUEPBTQ",
+              "start": 148,
+              "url": "https://t.co/bHCbF3MGQY"
+            },
+            {
+              "display_url": "pic.x.com/XQd0IRPxei",
+              "end": 198,
+              "expanded_url": "https://x.com/JimsYoung_/status/1880644103748133204/photo/1",
+              "media_key": "3_1880644095854497792",
+              "start": 175,
+              "url": "https://t.co/XQd0IRPxei"
+            }
+          ]
+        },
+        "id": "1880644103748133204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 250,
+                "start": 245,
+                "tag": "Bome"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 92,
+                "id": "1435990322702520320",
+                "start": 79,
+                "username": "silverfang88"
+              },
+              {
+                "end": 105,
+                "id": "1788966273814339584",
+                "start": 96,
+                "username": "moonshot"
+              },
+              {
+                "end": 125,
+                "id": "1788966273814339584",
+                "start": 116,
+                "username": "moonshot"
+              },
+              {
+                "end": 363,
+                "id": "39349894",
+                "start": 353,
+                "username": "EricTrump"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/jimsyoung_/sta…",
+                "end": 171,
+                "expanded_url": "https://x.com/jimsyoung_/status/1875815625508950146?s=46&t=38w555-ugUiiLOMzUEPBTQ",
+                "start": 148,
+                "url": "https://t.co/EYdLXnbZ3q"
+              }
+            ]
+          },
+          "text": "思路和很多朋友有一致也有不一致的地方，也写一篇吧。\n\n- 10点闹钟，醒来看到的时候 800M，懵的，研究了一下，涨到1B多，买入第一笔。\n\n- 3B，看到 @silverfang88 狂喊，@moonshot 验证，加仓。逻辑是 @moonshot 几乎是cabal的代言，秒上一定有原因，见：https://t.co/EYdLXnbZ3q\n\n- 4B，一边从交易所提钱一边继续研究，看到昨晚  Wintermute 吸入两千多万刀SOL，合理推测是做市商，继续加仓。\n\n- 6B，想到 $Bome 时链上大吸血的惨状，清仓 Sol Meme，加仓。\n\n- 10B，过了第一个心理价位，出本。\n\n- 23B，币安期货上线，合理推测没有其他交易所利好，减仓。\n\n- 27B，美国人起床后拉起来第二波，看到 @EricTrump 的推，合理推测明牌拉升给就职造势，追回去一些。\n\n目标：Flip $Doge，看80B以上，来一点美国震撼。"
+        },
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 206168,
+          "like_count": 293,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875815625508950146",
+            "type": "quoted"
+          }
+        ],
+        "text": "思路和很多朋友有一致也有不一致的地方，也写一篇吧。\n\n- 10点闹钟，醒来看到的时候 800M，懵的，研究了一下，涨到1B多，买入第一笔。\n\n- 3B，看到 @silverfang88 狂喊，@moonshot 验证，加仓。逻辑是 @moonshot 几乎是cabal的代言，秒上一定有原因，见：https://t.co/bHCbF3MGQY\n\n- https://t.co/XQd0IRPxei"
+      },
+      {
+        "author_id": "1493519370664177667",
+        "conversation_id": "1880567120721064233",
+        "created_at": "2025-01-18T11:56:59.000Z",
+        "edit_history_tweet_ids": [
+          "1880585173001208178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435990322702520320",
+              "start": 0,
+              "username": "silverfang88"
+            },
+            {
+              "end": 23,
+              "id": "1568600821918744577",
+              "start": 14,
+              "username": "6551News"
+            }
+          ]
+        },
+        "id": "1880585173001208178",
+        "in_reply_to_user_id": "1435990322702520320",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880567120721064233",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@silverfang88 @6551News 在现场，子时：“三小时内”！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1879201347125555200"
+          ]
+        },
+        "author_id": "1637885519374721035",
+        "conversation_id": "1879201350707507204",
+        "created_at": "2025-01-14T16:18:10.000Z",
+        "edit_history_tweet_ids": [
+          "1879201350707507204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 137,
+              "id": "1621178567781679105",
+              "start": 124,
+              "username": "sparkfinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pVzFhcCC3",
+              "end": 214,
+              "expanded_url": "https://x.com/ethena_labs/status/1879201350707507204/photo/1",
+              "media_key": "3_1879201347125555200",
+              "start": 191,
+              "url": "https://t.co/6pVzFhcCC3"
+            }
+          ]
+        },
+        "id": "1879201350707507204",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 181820,
+          "like_count": 458,
+          "quote_count": 31,
+          "reply_count": 28,
+          "retweet_count": 59
+        },
+        "text": "We are excited to share that up to $1.1bn of direct allocation of USDe and sUSDe has been approved for integration into the @sparkfinance Liquidity Layer\n\nDetails below on the partnership 👇🏻 https://t.co/6pVzFhcCC3"
+      },
+      {
+        "author_id": "959291597622886400",
+        "conversation_id": "1880558590106517692",
+        "created_at": "2025-01-18T10:15:29.000Z",
+        "edit_history_tweet_ids": [
+          "1880559629492773373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1435990322702520320",
+              "start": 0,
+              "username": "silverfang88"
+            },
+            {
+              "end": 21,
+              "id": "1656210167816650754",
+              "start": 14,
+              "username": "gmgnai"
+            }
+          ]
+        },
+        "id": "1880559629492773373",
+        "in_reply_to_user_id": "1435990322702520320",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1567,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880558590106517692",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@silverfang88 @gmgnai 玩抽象我只服你！"
+      },
+      {
+        "author_id": "1435990322702520320",
+        "conversation_id": "1880558590106517692",
+        "created_at": "2025-01-18T10:11:21.000Z",
+        "edit_history_tweet_ids": [
+          "1880558590106517692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "959291597622886400",
+              "start": 17,
+              "username": "haze0x"
+            },
+            {
+              "end": 32,
+              "id": "1656210167816650754",
+              "start": 25,
+              "username": "gmgnai"
+            }
+          ]
+        },
+        "id": "1880558590106517692",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13026,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "text": "鸡哥 收网吧 现在跑 一把结束！ @haze0x @gmgnai"
+      }
+    ],
+    "users": [
+      {
+        "id": "1435990322702520320",
+        "name": "子时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2111376053289594881/HJoHb6MH_normal.jpg",
+        "username": "silverfang88",
+        "verified": false
+      },
+      {
+        "id": "769370647",
+        "name": "郡主Christine (✱,✱)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059458108599238656/IGcnPchb_normal.jpg",
+        "username": "0xsexybanana",
+        "verified": false
+      },
+      {
+        "id": "2555315642",
+        "name": "肚子饱饱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2110695609548378112/BgiqrHLl_normal.jpg",
+        "username": "0xToddxyz",
+        "verified": false
+      },
+      {
+        "id": "973136450706272256",
+        "name": "Jackson.ll",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587050006481367040/it9I_H1t_normal.jpg",
+        "username": "0xOar",
+        "verified": false
+      },
+      {
+        "id": "1337375343779270656",
+        "name": "小明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074356551415123968/3pvrxJs__normal.jpg",
+        "username": "oNDCQwYNzR2iGwu",
+        "verified": false
+      },
+      {
+        "id": "2187170989",
+        "name": "Mable",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947256340436455424/y93X7Ifk_normal.jpg",
+        "username": "mablejiang",
+        "verified": false
+      },
+      {
+        "id": "761708534266490880",
+        "name": "茶不思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043761495914541057/qxBWa1EL_normal.jpg",
+        "username": "mdzzi",
+        "verified": false
+      },
+      {
+        "id": "1134863829173542912",
+        "name": "Jims",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2114734407995293696/v5fyEwIX_normal.jpg",
+        "username": "JimsYoung_",
+        "verified": false
+      },
+      {
+        "id": "1283602301538590720",
+        "name": "马思旗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940932594914267136/MDKsfkLR_normal.jpg",
+        "username": "FlagofMuskox",
+        "verified": false
+      },
+      {
+        "id": "1493519370664177667",
+        "name": "加密橘子🍊cryporange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661366168534540289/EY552-0A_normal.jpg",
+        "username": "cryp_orange",
+        "verified": false
+      },
+      {
+        "id": "959291597622886400",
+        "name": "Haze 𝓰𝓶𝓰𝓷𝓪𝓲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940293487993208832/pji9dIoA_normal.jpg",
+        "username": "haze0x",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1880979316860911867",
+    "next_token": "b26v89c19zqg8o3frr9qfepxwq03gg3n6j16wsapfo1od",
+    "oldest_id": "1880558590106517692",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1880976132000157893].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880976132000157893",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1880976132000157893"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1880895966003577006].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880895966003577006",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1880895966003577006"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880651034839970145].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880651034839970145",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1880651034839970145"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1880567861955207670].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1880567861955207670",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1880567861955207670"
+    }
+  ]
+}

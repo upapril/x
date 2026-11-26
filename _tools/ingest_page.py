@@ -5,7 +5,7 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 from collections import defaultdict
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path("/workspace/x-research")
 SHANGHAI = timezone(timedelta(hours=8))
 
 HANDLES = {

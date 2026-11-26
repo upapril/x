@@ -1,0 +1,1355 @@
+{
+  "collected_at_utc": "2026-11-26T01:01:25Z",
+  "collected_at_shanghai": "2026-11-26T09:01:25+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8ANXQ108C9K3BQBFHW01H2E.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-04-01T00:00:00Z",
+    "end_time": "2023-05-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqkd0s7z3vfs1t2148u1ex7ifhbaf1",
+    "window_label": "2023-04"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645774109887062019",
+      "created_at": "2023-04-11T13:14:21.000Z",
+      "edit_history_tweet_ids": [
+        "1645777307955769344"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1307777366",
+            "start": 0,
+            "username": "thekangni"
+          }
+        ]
+      },
+      "id": "1645777307955769344",
+      "in_reply_to_user_id": "1307777366",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 357,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645777018905313282",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@thekangni 7",
+      "url": "https://x.com/taresky/status/1645777307955769344"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645734270269558785",
+      "created_at": "2023-04-11T13:09:32.000Z",
+      "edit_history_tweet_ids": [
+        "1645776094740779011"
+      ],
+      "id": "1645776094740779011",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9330,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@haobangdada1 哈哈哈，坏杜宾，只是想闻闻。",
+      "url": "https://x.com/taresky/status/1645776094740779011"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645774109887062019",
+      "created_at": "2023-04-11T13:01:39.000Z",
+      "edit_history_tweet_ids": [
+        "1645774109887062019"
+      ],
+      "id": "1645774109887062019",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 7654,
+        "like_count": 18,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "回家了，坐在书桌前。真力真好，默默地好听。",
+      "url": "https://x.com/taresky/status/1645774109887062019"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1635923759499714560",
+      "created_at": "2023-04-11T12:18:49.000Z",
+      "edit_history_tweet_ids": [
+        "1645763330496425984"
+      ],
+      "id": "1645763330496425984",
+      "in_reply_to_user_id": "951484777",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 202,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645746589997355010",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Aozhi_ 这个 BUG 就是某些情况下会自动打开 DHCP，并且会和主路由的 DHCP 产生冲突。",
+      "url": "https://x.com/taresky/status/1645763330496425984"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1635923759499714560",
+      "created_at": "2023-04-11T10:45:17.000Z",
+      "edit_history_tweet_ids": [
+        "1645739791064129538"
+      ],
+      "id": "1645739791064129538",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3734,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1635923759499714560",
+          "type": "replied_to"
+        }
+      ],
+      "text": "回来发现问题了，还是那个蠢 DHCP 自动引发的问题。",
+      "url": "https://x.com/taresky/status/1645739791064129538"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645312858484543488",
+      "created_at": "2023-04-10T13:33:09.000Z",
+      "edit_history_tweet_ids": [
+        "1645419648589127685"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "15804278",
+            "start": 0,
+            "username": "luogl"
+          }
+        ]
+      },
+      "id": "1645419648589127685",
+      "in_reply_to_user_id": "15804278",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 450,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645405766139138051",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@luogl 带狗出行基本只能睡车里，过夜太累了。",
+      "url": "https://x.com/taresky/status/1645419648589127685"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645312858484543488",
+      "created_at": "2023-04-10T13:31:32.000Z",
+      "edit_history_tweet_ids": [
+        "1645419242924412934"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "1645419242924412934",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 882,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645412154559045633",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 自己坐火车汽车回。\n\n高铁 400，省一点坐火车不住旅馆，赚 1200 问题不大。",
+      "url": "https://x.com/taresky/status/1645419242924412934"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1645382108888854528"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1645382117248110595",
+      "created_at": "2023-04-10T11:04:01.000Z",
+      "edit_history_tweet_ids": [
+        "1645382117248110595"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/6xVAwTlB44",
+            "end": 31,
+            "expanded_url": "https://x.com/taresky/status/1645382117248110595/photo/1",
+            "media_key": "3_1645382108888854528",
+            "start": 8,
+            "url": "https://t.co/6xVAwTlB44"
+          }
+        ]
+      },
+      "id": "1645382117248110595",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4207,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "📦 键盘包装盒 https://t.co/6xVAwTlB44",
+      "url": "https://x.com/taresky/status/1645382117248110595"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645312858484543488",
+      "created_at": "2023-04-10T07:03:26.000Z",
+      "edit_history_tweet_ids": [
+        "1645321575800131584"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1322076391",
+            "start": 0,
+            "username": "Tanrky"
+          }
+        ]
+      },
+      "id": "1645321575800131584",
+      "in_reply_to_user_id": "1322076391",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 755,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645317818668453889",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Tanrky 带狗回去",
+      "url": "https://x.com/taresky/status/1645321575800131584"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645312858484543488",
+      "created_at": "2023-04-10T06:28:48.000Z",
+      "edit_history_tweet_ids": [
+        "1645312858484543488"
+      ],
+      "id": "1645312858484543488",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11507,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "text": "开回浙江有 800 公里，叫了代驾，1600 元，除了高速费和油费不用管其他费用。\n\n可能比找私人代驾更贵点，但不用管回程费用，还是挺方便的。",
+      "url": "https://x.com/taresky/status/1645312858484543488"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645279326265548802",
+      "created_at": "2023-04-10T05:28:48.000Z",
+      "edit_history_tweet_ids": [
+        "1645297757115269120"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "14309969",
+            "start": 0,
+            "username": "sofish"
+          }
+        ]
+      },
+      "id": "1645297757115269120",
+      "in_reply_to_user_id": "14309969",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 631,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645294187871629312",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sofish @3721_helper 因为很可能是撒谎的。",
+      "url": "https://x.com/taresky/status/1645297757115269120"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645279326265548802",
+      "created_at": "2023-04-10T04:43:36.000Z",
+      "edit_history_tweet_ids": [
+        "1645286383156867074"
+      ],
+      "id": "1645286383156867074",
+      "in_reply_to_user_id": "157550302",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2675,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1645279326265548802",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@3721_helper 每年二三十万，读了三年多，快毕业的时候把钱挪用了，说不明白为啥导致无法毕业。\n\n想起了不想写寒暑假作业的小学生。",
+      "url": "https://x.com/taresky/status/1645286383156867074"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1645028013065797633",
+      "created_at": "2023-04-09T11:36:56.000Z",
+      "edit_history_tweet_ids": [
+        "1645028013065797633"
+      ],
+      "id": "1645028013065797633",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6703,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "text": "似乎找到了内心愤怒的根源。",
+      "url": "https://x.com/taresky/status/1645028013065797633"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644721653132431361",
+      "created_at": "2023-04-08T15:24:59.000Z",
+      "edit_history_tweet_ids": [
+        "1644723019477291010"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "133731293",
+            "start": 0,
+            "username": "humiaozuzu"
+          }
+        ]
+      },
+      "id": "1644723019477291010",
+      "in_reply_to_user_id": "133731293",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 609,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644721653132431361",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@humiaozuzu 太熟悉了哈哈哈",
+      "url": "https://x.com/taresky/status/1644723019477291010"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644672393762455554",
+      "created_at": "2023-04-08T12:03:49.000Z",
+      "edit_history_tweet_ids": [
+        "1644672393762455554"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "t.co/yTeNqAgsoa",
+            "end": 43,
+            "expanded_url": "https://t.co/yTeNqAgsoa",
+            "start": 20,
+            "url": "https://t.co/yTeNqAgsoa"
+          }
+        ]
+      },
+      "id": "1644672393762455554",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7675,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644654349035925504",
+          "type": "quoted"
+        }
+      ],
+      "text": "太傻逼了。\n\n而且是不自知的那种傻逼。 https://t.co/yTeNqAgsoa",
+      "url": "https://x.com/taresky/status/1644672393762455554"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644375190779084800",
+      "created_at": "2023-04-08T10:08:05.000Z",
+      "edit_history_tweet_ids": [
+        "1644643265088720896"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "2758050649",
+            "start": 0,
+            "username": "VoidAsuka"
+          }
+        ]
+      },
+      "id": "1644643265088720896",
+      "in_reply_to_user_id": "2758050649",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 388,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644642991854985216",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@VoidAsuka 天呐",
+      "url": "https://x.com/taresky/status/1644643265088720896"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644642755598221312",
+      "created_at": "2023-04-08T10:06:03.000Z",
+      "edit_history_tweet_ids": [
+        "1644642755598221312"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 59,
+            "expanded_url": "https://twitter.com/taresky/status/1644375190779084800",
+            "start": 36,
+            "url": "https://t.co/TULS1kaVm0"
+          }
+        ]
+      },
+      "id": "1644642755598221312",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5008,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644375190779084800",
+          "type": "quoted"
+        }
+      ],
+      "text": "一百多个投票，几乎是两种对半。\n\n我也没有这种天赋，羡慕可以做到的人。 https://t.co/TULS1kaVm0",
+      "url": "https://x.com/taresky/status/1644642755598221312"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644635544675291136",
+      "created_at": "2023-04-08T09:40:07.000Z",
+      "edit_history_tweet_ids": [
+        "1644636229433171968"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "893331398",
+            "start": 0,
+            "username": "gxgexiao"
+          },
+          {
+            "end": 20,
+            "id": "800153130977542146",
+            "start": 10,
+            "username": "anqirocks"
+          }
+        ]
+      },
+      "id": "1644636229433171968",
+      "in_reply_to_user_id": "893331398",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 690,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644635544675291136",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gxgexiao @anqirocks 实名羡慕",
+      "url": "https://x.com/taresky/status/1644636229433171968"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644375190779084800",
+      "created_at": "2023-04-07T18:56:02.000Z",
+      "edit_history_tweet_ids": [
+        "1644413743638642694"
+      ],
+      "id": "1644413743638642694",
+      "in_reply_to_user_id": "2410111556",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 184,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644413583571423232",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Heiban_K 可以做到和其他人有说有笑的程度 😮‍💨",
+      "url": "https://x.com/taresky/status/1644413743638642694"
+    },
+    {
+      "attachments": {
+        "poll_ids": [
+          "1644375189730496513"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1644375190779084800",
+      "created_at": "2023-04-07T16:22:51.000Z",
+      "edit_history_tweet_ids": [
+        "1644375190779084800"
+      ],
+      "id": "1644375190779084800",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 11125,
+        "like_count": 2,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "🗳 好奇投票：假设你因为某人生气时，你可以做到控制自己的情绪，只针对这一个人生气吗？\n\n感觉是一种天赋技能。",
+      "url": "https://x.com/taresky/status/1644375190779084800"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644183979237470213",
+      "created_at": "2023-04-07T09:54:08.000Z",
+      "edit_history_tweet_ids": [
+        "1644277370139082753"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1465014217065447426",
+            "start": 0,
+            "username": "0xKirara"
+          }
+        ]
+      },
+      "id": "1644277370139082753",
+      "in_reply_to_user_id": "1465014217065447426",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 332,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644269031787225088",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xKirara @dykaknsjwkmsmwm 相信可以！",
+      "url": "https://x.com/taresky/status/1644277370139082753"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644184239758532608",
+      "created_at": "2023-04-07T06:33:09.000Z",
+      "edit_history_tweet_ids": [
+        "1644226788963545088"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1390169813142564866",
+            "start": 0,
+            "username": "Nori53894721"
+          }
+        ]
+      },
+      "id": "1644226788963545088",
+      "in_reply_to_user_id": "1390169813142564866",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 98,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644206082469027840",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Nori53894721 还有养犬兄妹的频道",
+      "url": "https://x.com/taresky/status/1644226788963545088"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644184239758532608",
+      "created_at": "2023-04-07T06:32:56.000Z",
+      "edit_history_tweet_ids": [
+        "1644226735234486272"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1390169813142564866",
+            "start": 0,
+            "username": "Nori53894721"
+          }
+        ]
+      },
+      "id": "1644226735234486272",
+      "in_reply_to_user_id": "1390169813142564866",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 209,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644206082469027840",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Nori53894721 YouTube 有个韩国训犬师，搜一下",
+      "url": "https://x.com/taresky/status/1644226735234486272"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1644183979237470213",
+      "created_at": "2023-04-07T03:46:24.000Z",
+      "edit_history_tweet_ids": [
+        "1644184825090412544"
+      ],
+      "id": "1644184825090412544",
+      "in_reply_to_user_id": "1164388321545449472",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2331,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1644183979237470213",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dykaknsjwkmsmwm 真不错，想搞",
+      "url": "https://x.com/taresky/status/1644184825090412544"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "951484777",
+        "conversation_id": "1635923759499714560",
+        "created_at": "2023-04-11T11:12:18.000Z",
+        "edit_history_tweet_ids": [
+          "1645746589997355010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1645746589997355010",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1645739791064129538",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 关掉路由器本身的 DHCP，把它当交换机用，然后你有 surge 的话直接用一台 Mac 充当 DHCP 服务器就好了"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1635923759499714560",
+        "created_at": "2023-03-15T08:39:52.000Z",
+        "edit_history_tweet_ids": [
+          "1635923759499714560"
+        ],
+        "id": "1635923759499714560",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31157,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "text": "TP-Link XDR6086，运行 163 天引来第一次故障。\n\n说实话有点失望，无法稳定运行 1 年的路由器，都应该扫进垃圾桶。"
+      },
+      {
+        "author_id": "15804278",
+        "conversation_id": "1645312858484543488",
+        "created_at": "2023-04-10T12:37:59.000Z",
+        "edit_history_tweet_ids": [
+          "1645405766139138051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1645405766139138051",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1645312858484543488",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 土豪行为"
+      },
+      {
+        "author_id": "1322076391",
+        "conversation_id": "1645312858484543488",
+        "created_at": "2023-04-10T06:48:31.000Z",
+        "edit_history_tweet_ids": [
+          "1645317818668453889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1645317818668453889",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 853,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1645312858484543488",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 找拖车呗，自己坐飞机或高铁回去。"
+      },
+      {
+        "author_id": "157550302",
+        "conversation_id": "1645279326265548802",
+        "created_at": "2023-04-10T04:15:33.000Z",
+        "edit_history_tweet_ids": [
+          "1645279326265548802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hammer_EU_9527…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Hammer_EU_9527/status/1644921674955911169",
+              "start": 19,
+              "url": "https://t.co/0VhC9fweFp"
+            }
+          ]
+        },
+        "id": "1645279326265548802",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26059,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644921674955911169",
+            "type": "quoted"
+          }
+        ],
+        "text": "见过缺心眼的，没见过这么缺心眼的…🤨 https://t.co/0VhC9fweFp"
+      },
+      {
+        "author_id": "2758050649",
+        "conversation_id": "1644375190779084800",
+        "created_at": "2023-04-08T10:06:59.000Z",
+        "edit_history_tweet_ids": [
+          "1644642991854985216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1644642991854985216",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1249,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644375190779084800",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 好像都没有生气过🤔"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1644375189730496513"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1644375190779084800",
+        "created_at": "2023-04-07T16:22:51.000Z",
+        "edit_history_tweet_ids": [
+          "1644375190779084800"
+        ],
+        "id": "1644375190779084800",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11125,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "text": "🗳 好奇投票：假设你因为某人生气时，你可以做到控制自己的情绪，只针对这一个人生气吗？\n\n感觉是一种天赋技能。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1644635535624007680"
+          ]
+        },
+        "author_id": "893331398",
+        "conversation_id": "1644635544675291136",
+        "created_at": "2023-04-08T09:37:24.000Z",
+        "edit_history_tweet_ids": [
+          "1644635544675291136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "800153130977542146",
+              "start": 1,
+              "username": "anqirocks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MFmhXoOrt",
+              "end": 49,
+              "expanded_url": "https://x.com/gxgexiao/status/1644635544675291136/photo/1",
+              "media_key": "3_1644635535624007680",
+              "start": 26,
+              "url": "https://t.co/5MFmhXoOrt"
+            }
+          ]
+        },
+        "id": "1644635544675291136",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6892,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "与@anqirocks 一起度过了非常愉快的下午😆 https://t.co/5MFmhXoOrt"
+      },
+      {
+        "author_id": "2410111556",
+        "conversation_id": "1644375190779084800",
+        "created_at": "2023-04-07T18:55:24.000Z",
+        "edit_history_tweet_ids": [
+          "1644413583571423232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1644413583571423232",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644375190779084800",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 可以做到“控制自己的情绪，只针对这一个人生气”\n但是只有极少数人能做到无法察觉吧（感觉这属于虐待自己了）"
+      },
+      {
+        "author_id": "1465014217065447426",
+        "conversation_id": "1644183979237470213",
+        "created_at": "2023-04-07T09:21:00.000Z",
+        "edit_history_tweet_ids": [
+          "1644269031787225088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1644269031787225088",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644184825090412544",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @dykaknsjwkmsmwm 搞这么多屏幕就能赚钱了吗🥹"
+      },
+      {
+        "author_id": "1164388321545449472",
+        "conversation_id": "1644183979237470213",
+        "created_at": "2023-04-07T03:43:02.000Z",
+        "edit_history_tweet_ids": [
+          "1644183979237470213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/not_2b_or_2b/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/not_2b_or_2b/status/1644182380389756930",
+              "start": 11,
+              "url": "https://t.co/NoklgaRzDN"
+            }
+          ]
+        },
+        "id": "1644183979237470213",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 73159,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644182380389756930",
+            "type": "quoted"
+          }
+        ],
+        "text": "这一个月得多少工资啊 https://t.co/NoklgaRzDN"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1307777366",
+        "name": "Kang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1288381803435237377/HBt466PA_normal.jpg",
+        "username": "thekangni",
+        "verified": false
+      },
+      {
+        "id": "951484777",
+        "name": "Aoxzh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1028696287401529344/oSthnQd8_normal.jpg",
+        "username": "aoxzh",
+        "verified": false
+      },
+      {
+        "id": "15804278",
+        "name": "Red Panda Katsuyama (J.League U-17) 无孩爱猫男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2124876353300574208/cUnhf6yO_normal.jpg",
+        "username": "luogl",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      },
+      {
+        "id": "1322076391",
+        "name": "木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064705433267392513/vcDI4IKI_normal.jpg",
+        "username": "Tanrky",
+        "verified": false
+      },
+      {
+        "id": "14309969",
+        "name": "Sofish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102663578612322304/gWoOY6FN_normal.jpg",
+        "username": "sofish",
+        "verified": false
+      },
+      {
+        "id": "157550302",
+        "name": "反叛的钟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089917612490997760/LNT6dcYd_normal.jpg",
+        "username": "RebelliousClock",
+        "verified": false
+      },
+      {
+        "id": "2758050649",
+        "name": "Asuka Zheng🦭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060488354056253440/kWmVoudj_normal.jpg",
+        "username": "VoidAsuka",
+        "verified": false
+      },
+      {
+        "id": "893331398",
+        "name": "Xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/671330181693333504/TPWVKtXt_normal.jpg",
+        "username": "gxgexiao",
+        "verified": false
+      },
+      {
+        "id": "2410111556",
+        "name": "Heiban",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630414112844034050/c24aWdT-_normal.png",
+        "username": "isChalkboard",
+        "verified": false
+      },
+      {
+        "id": "1465014217065447426",
+        "name": "Kirara🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051059521053917184/ahGIJfVZ_normal.jpg",
+        "username": "0xKirara",
+        "verified": false
+      },
+      {
+        "id": "1164388321545449472",
+        "name": "卫斯理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "username": "imwsl90",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1645777307955769344",
+    "next_token": "b26v89c19zqg8o3fqkd0cnihek6ctt0i51lphve549mrh",
+    "oldest_id": "1644184825090412544",
+    "result_count": 24
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [133731293].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "133731293",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "133731293"
+    },
+    {
+      "detail": "User has been suspended: [1390169813142564866].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1390169813142564866",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1390169813142564866"
+    },
+    {
+      "detail": "User has been suspended: [1390169813142564866].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1390169813142564866",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1390169813142564866"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1645777018905313282].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1645777018905313282",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1645777018905313282"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1645412154559045633].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1645412154559045633",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1645412154559045633"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1645294187871629312].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1645294187871629312",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1645294187871629312"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1644721653132431361].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1644721653132431361",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1644721653132431361"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1644654349035925504].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1644654349035925504",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1644654349035925504"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1644206082469027840].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1644206082469027840",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1644206082469027840"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1644206082469027840].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1644206082469027840",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1644206082469027840"
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "collected_at_utc": "2026-11-26T00:22:30Z",
+  "collected_at_shanghai": "2026-11-26T08:22:30+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AKPDAXZ696X1YESBFWR74R.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2024-06-01T00:00:00Z",
+    "end_time": "2024-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3frqlura78vfj4qxs7q9t993nm5drb1",
+    "window_label": "2024-06"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-28T08:11:05.000Z",
+      "edit_history_tweet_ids": [
+        "1806601197325107456"
+      ],
+      "id": "1806601197325107456",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 14466,
+        "like_count": 16,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "#KYC的精髓 https://t.co/lgLqdGGnMK",
+      "url": "https://x.com/taresky/status/1806601197325107456"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-28T04:09:14.000Z",
+      "edit_history_tweet_ids": [
+        "1806540335121854926"
+      ],
+      "id": "1806540335121854926",
+      "in_reply_to_user_id": "368245720",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3125,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806015598289359095",
+          "type": "replied_to"
+        }
+      ],
+      "text": "自带的支架非常好，稳定性好，碰撞后恢复稳定速度很快，上下调整也顺滑。\n\n不需要额外买显示器支架了。",
+      "url": "https://x.com/taresky/status/1806540335121854926"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-28T03:46:00.000Z",
+      "edit_history_tweet_ids": [
+        "1806534487251300767"
+      ],
+      "id": "1806534487251300767",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 567,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@BTW0205 @renzoai 机制就是这样的啊，不可能一下子全出来，套利空间就有了。",
+      "url": "https://x.com/taresky/status/1806534487251300767"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-28T03:37:09.000Z",
+      "edit_history_tweet_ids": [
+        "1806532260340117967"
+      ],
+      "id": "1806532260340117967",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1528,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@BTW0205 @renzoai 价差几乎搬平了吧，这个策略我们只跑了 2 天就歇了。",
+      "url": "https://x.com/taresky/status/1806532260340117967"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T23:36:27.000Z",
+      "edit_history_tweet_ids": [
+        "1806471685639700983"
+      ],
+      "id": "1806471685639700983",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 349,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Manjusaka_Lee 原来如此！",
+      "url": "https://x.com/taresky/status/1806471685639700983"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T23:36:09.000Z",
+      "edit_history_tweet_ids": [
+        "1806471613501817296"
+      ],
+      "id": "1806471613501817296",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 732,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@missuo 覆盖是够的，加同轴为了降低延迟",
+      "url": "https://x.com/taresky/status/1806471613501817296"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T18:46:22.000Z",
+      "edit_history_tweet_ids": [
+        "1806398685238227202"
+      ],
+      "id": "1806398685238227202",
+      "in_reply_to_user_id": "3281599238",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 292,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806390397603872849",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Manjusaka_Lee 怎么说？意思是抽线很容易吗？",
+      "url": "https://x.com/taresky/status/1806398685238227202"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T18:01:26.000Z",
+      "edit_history_tweet_ids": [
+        "1806387379198169473"
+      ],
+      "id": "1806387379198169473",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1080,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@Philo2022 嗯，应该要都尝试一下。如果两者都有，喜欢和不喜欢会是定位问题。\n\n如果另一个样本，压根不了解鼠标（购买的鼠标不超过 10 支），结论就。。。",
+      "url": "https://x.com/taresky/status/1806387379198169473"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:59:14.000Z",
+      "edit_history_tweet_ids": [
+        "1806386824161665348"
+      ],
+      "id": "1806386824161665348",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 179,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@Kouki___777 超 5 跑万兆吗？测过很多次了。家庭距离下没问题。",
+      "url": "https://x.com/taresky/status/1806386824161665348"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:58:33.000Z",
+      "edit_history_tweet_ids": [
+        "1806386653629714934"
+      ],
+      "id": "1806386653629714934",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6826,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "#Crypto \n\n以币圈大部分人的回撤水平而言，APY 应该要做到 150% 以上才行。",
+      "url": "https://x.com/taresky/status/1806386653629714934"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:50:04.000Z",
+      "edit_history_tweet_ids": [
+        "1806384518791840183"
+      ],
+      "id": "1806384518791840183",
+      "in_reply_to_user_id": "1717824672153407488",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 434,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806384005098700930",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@HriZO6VfrJ87817 很好的体验哈哈",
+      "url": "https://x.com/taresky/status/1806384518791840183"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:49:25.000Z",
+      "edit_history_tweet_ids": [
+        "1806384354597454035"
+      ],
+      "id": "1806384354597454035",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 216,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Kouki___777 超五类跑 10g 应该没问题。",
+      "url": "https://x.com/taresky/status/1806384354597454035"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:37:30.000Z",
+      "edit_history_tweet_ids": [
+        "1806381352885092553"
+      ],
+      "id": "1806381352885092553",
+      "in_reply_to_user_id": "870334628988452864",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 825,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806380464036298793",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LeonBoUCS 新建的房子也这样吗。当然我主要是烦网线铺太少。",
+      "url": "https://x.com/taresky/status/1806381352885092553"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:30:27.000Z",
+      "edit_history_tweet_ids": [
+        "1806379580867183102"
+      ],
+      "id": "1806379580867183102",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 15928,
+        "like_count": 6,
+        "quote_count": 1,
+        "reply_count": 9,
+        "retweet_count": 0
+      },
+      "text": "#一户建\n\n我这套一户建的网口并不是每一个房间都有，但同轴口却是每一间都有。同轴这玩意，日本人真的在用吗，这可是 2023 年建造的房子...\n\n无奈榻榻米书房没有网口，尝试一下用同轴- RJ45 转换器挽救。 https://t.co/hb9q1o3Txd",
+      "url": "https://x.com/taresky/status/1806379580867183102"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T17:21:06.000Z",
+      "edit_history_tweet_ids": [
+        "1806377227455766700"
+      ],
+      "id": "1806377227455766700",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 20147,
+        "like_count": 27,
+        "quote_count": 3,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806371927998796153",
+          "type": "quoted"
+        }
+      ],
+      "text": "#外设\n\n😂 这就是我为什么说“办公鼠标是伪概念”。\n\n办公鼠标的发展方向背离了鼠标的核心参数：稳定、准确，也跟其他优秀参数无缘，如“轻”、“握感好”。\n\n主流的 FPS 游戏鼠标已经在普及 8K 回报率，50g 以下的重量了。而 MX Master 3S 这种“办公鼠标”还是 125hz 回报率，140g+ 重量 😓 https://t.co/v1q4y4PVXu",
+      "url": "https://x.com/taresky/status/1806377227455766700"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T13:28:38.000Z",
+      "edit_history_tweet_ids": [
+        "1806318726427619810"
+      ],
+      "id": "1806318726427619810",
+      "in_reply_to_user_id": "1120712903886344200",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 156,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806317712483967069",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Philo2022 @sweetliquidtw 58g😹",
+      "url": "https://x.com/taresky/status/1806318726427619810"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T13:18:18.000Z",
+      "edit_history_tweet_ids": [
+        "1806316126219239765"
+      ],
+      "id": "1806316126219239765",
+      "in_reply_to_user_id": "730078869508661248",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 431,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806307696301560138",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sweetliquidtw @Philo2022 viper3 pro 还可以，但是配不上价格。\n\nEGG-OP1WE-WHT 我最近买了一只感觉还不错，58g 也属于第一梯队了。 https://t.co/oRxzQyKkWl",
+      "url": "https://x.com/taresky/status/1806316126219239765"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T12:13:53.000Z",
+      "edit_history_tweet_ids": [
+        "1806299911924891649"
+      ],
+      "id": "1806299911924891649",
+      "in_reply_to_user_id": "1120712903886344200",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1801,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806296569605722507",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Philo2022 办公鼠标是伪概念，就买 fps 游戏鼠标。",
+      "url": "https://x.com/taresky/status/1806299911924891649"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T12:09:51.000Z",
+      "edit_history_tweet_ids": [
+        "1806298896605540702"
+      ],
+      "id": "1806298896605540702",
+      "in_reply_to_user_id": "1120712903886344200",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 270,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806294842248667208",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Philo2022 Nitori 的两米餐桌，不过高度不太合适，准备换成 cofo 的升降桌。",
+      "url": "https://x.com/taresky/status/1806298896605540702"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T09:33:21.000Z",
+      "edit_history_tweet_ids": [
+        "1806259513554854264"
+      ],
+      "id": "1806259513554854264",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 256,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Kxsg79bEYFP4 同款🤝",
+      "url": "https://x.com/taresky/status/1806259513554854264"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T09:15:01.000Z",
+      "edit_history_tweet_ids": [
+        "1806254899350704488"
+      ],
+      "id": "1806254899350704488",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 863,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@shrimpwen 为什么是买...",
+      "url": "https://x.com/taresky/status/1806254899350704488"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T09:11:35.000Z",
+      "edit_history_tweet_ids": [
+        "1806254038301958531"
+      ],
+      "id": "1806254038301958531",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 116,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@wangyan72609489 抽烟降低智力。",
+      "url": "https://x.com/taresky/status/1806254038301958531"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T06:06:50.000Z",
+      "edit_history_tweet_ids": [
+        "1806207542491840746"
+      ],
+      "id": "1806207542491840746",
+      "in_reply_to_user_id": "976774230472777728",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 203,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1806195021869428837",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@echoic2021 当然啦",
+      "url": "https://x.com/taresky/status/1806207542491840746"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T04:34:08.000Z",
+      "edit_history_tweet_ids": [
+        "1806184212762165532"
+      ],
+      "id": "1806184212762165532",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1078,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@886106 标准 vesa",
+      "url": "https://x.com/taresky/status/1806184212762165532"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2024-06-27T03:29:38.000Z",
+      "edit_history_tweet_ids": [
+        "1806167981443232041"
+      ],
+      "id": "1806167981443232041",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 300,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@SimonJP404 steelcase",
+      "url": "https://x.com/taresky/status/1806167981443232041"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "368245720",
+        "created_at": "2024-06-26T17:24:07.000Z",
+        "edit_history_tweet_ids": [
+          "1806015598289359095"
+        ],
+        "id": "1806015598289359095",
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 80937,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788250560539537535",
+            "type": "quoted"
+          }
+        ],
+        "text": "#显示器\n\nLG 32GS95U 到手了，毫无争议的最强显示器。\n\n1. OLED 唯一的短板亮度问题也相当程度解决了，室内是亮度充足的吸顶灯，手机自动白平衡拍如图。\n2. Mac（m3max）跑 4k240hz 没问题，目前放在 2k retina 在渲染。 https://t.co/jix0sqonC8 https://t.co/KJRSeNeiUo"
+      },
+      {
+        "author_id": "3281599238",
+        "created_at": "2024-06-27T18:13:26.000Z",
+        "edit_history_tweet_ids": [
+          "1806390397603872849"
+        ],
+        "id": "1806390397603872849",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 719,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky （我上一套租的房子就是走同轴布了两根超六（"
+      },
+      {
+        "author_id": "1120712903886344200",
+        "created_at": "2024-06-27T13:24:37.000Z",
+        "edit_history_tweet_ids": [
+          "1806317712483967069"
+        ],
+        "id": "1806317712483967069",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806316126219239765",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @sweetliquidtw 这和两千日元的有啥区别"
+      },
+      {
+        "author_id": "730078869508661248",
+        "created_at": "2024-06-27T12:44:49.000Z",
+        "edit_history_tweet_ids": [
+          "1806307696301560138"
+        ],
+        "id": "1806307696301560138",
+        "in_reply_to_user_id": "730078869508661248",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806307215277711783",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Philo2022 @taresky 直接无脑入 Viper，几千回报率吊打一众“办公鼠标”"
+      },
+      {
+        "author_id": "1120712903886344200",
+        "created_at": "2024-06-27T12:00:36.000Z",
+        "edit_history_tweet_ids": [
+          "1806296569605722507"
+        ],
+        "id": "1806296569605722507",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19655,
+          "like_count": 28,
+          "quote_count": 3,
+          "reply_count": 61,
+          "retweet_count": 1
+        },
+        "text": "大家用过罗技的 MX Master 3S 吗，好用吗，还没买过超过 CNY150 的鼠标🤔"
+      },
+      {
+        "author_id": "1120712903886344200",
+        "created_at": "2024-06-27T11:53:44.000Z",
+        "edit_history_tweet_ids": [
+          "1806294842248667208"
+        ],
+        "id": "1806294842248667208",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 你这桌子好长"
+      },
+      {
+        "author_id": "976774230472777728",
+        "created_at": "2024-06-27T05:17:05.000Z",
+        "edit_history_tweet_ids": [
+          "1806195021869428837"
+        ],
+        "id": "1806195021869428837",
+        "in_reply_to_user_id": "368245720",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806016409237135441",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 怎么狗子的照片也要放旁边，哈哈"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "3281599238",
+        "name": "NadeshikoManju@ゆるキャン△ SEASON４ 2027 放送予定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033667554049437696/3dUh3AJ5_normal.jpg",
+        "username": "Manjusaka_Lee",
+        "verified": false
+      },
+      {
+        "id": "1717824672153407488",
+        "name": "Leon Lytic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724518233544568832/n9092cZ1_normal.jpg",
+        "username": "LeonLytic",
+        "verified": false
+      },
+      {
+        "id": "870334628988452864",
+        "name": "LeonBoUCS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750035174740611072/M3HcLvpf_normal.jpg",
+        "username": "LeonBoUCS",
+        "verified": false
+      },
+      {
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "username": "Philo2022",
+        "verified": false
+      },
+      {
+        "id": "730078869508661248",
+        "name": "雪の下春希",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062570407073554432/CRJPG85D_normal.jpg",
+        "username": "sweetliquidtw",
+        "verified": false
+      },
+      {
+        "id": "976774230472777728",
+        "name": "Echoic炽炽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008941392790421504/PdRNAqys_normal.jpg",
+        "username": "echoic2021",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1806601197325107456",
+    "next_token": "b26v89c19zqg8o3frqluqzlf2x37xgu4t4pa1gsukos59",
+    "oldest_id": "1806167981443232041",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1806384005098700930].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1806384005098700930",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1806384005098700930"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1806380464036298793].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1806380464036298793",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1806380464036298793"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1806371927998796153].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1806371927998796153",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1806371927998796153"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "footer": "X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z).",
+  "footer": "X reads left for this user: 29 of 30 this minute (resets at 2026-11-26T01:32:00.000Z), 75 of 1000 today (resets at 2026-11-27T00:00:00.000Z).",
   "usable": 0,
   "do_not_reuse": [
     {
@@ -25,6 +25,16 @@
   ],
   "open_high_value": [
     {
+      "handle": "alexandr_wang",
+      "label": "2026-09",
+      "next_token": "b26v89c19zqg8o3juezidpc17rh8q611r4x6m7qlzhd31",
+      "start_time": "2026-09-01T00:00:00Z",
+      "end_time": "2026-10-01T00:00:00Z",
+      "query": "from:alexandr_wang",
+      "pages": 23,
+      "added": 536
+    },
+    {
       "handle": "taresky",
       "label": "timeline-recent",
       "next_token": "7140dibdnow9c7btwp0gm9gqgrurrob7n4a5eytlynzg0",
@@ -43,70 +53,6 @@
       "query": "from:thankUcrypto",
       "pages": 1,
       "added": 24
-    },
-    {
-      "handle": "taresky",
-      "label": "2024-09",
-      "next_token": "b26v89c19zqg8o3frqut8rdwre6omn2yqnku6qzsio9rx",
-      "start_time": "2024-09-01T00:00:00Z",
-      "end_time": "2024-10-01T00:00:00Z",
-      "query": "from:taresky",
-      "pages": 8,
-      "added": 200
-    },
-    {
-      "handle": "taresky",
-      "label": "2024-10",
-      "next_token": "b26v89c19zqg8o3frqxtuwhnof5dyuwak0sfs5h3drs71",
-      "start_time": "2024-10-01T00:00:00Z",
-      "end_time": "2024-11-01T00:00:00Z",
-      "query": "from:taresky",
-      "pages": 11,
-      "added": 275
-    },
-    {
-      "handle": "taresky",
-      "label": "2024-11",
-      "next_token": "b26v89c19zqg8o3frr0rxtbbubn41jahj0tbk73i5x56l",
-      "start_time": "2024-11-01T00:00:00Z",
-      "end_time": "2024-12-01T00:00:00Z",
-      "query": "from:taresky",
-      "pages": 16,
-      "added": 400
-    },
-    {
-      "handle": "thankUcrypto",
-      "label": "2025-03",
-      "next_token": "b26v89c19zqg8o3frrct5kdpolkj1rt23tb7zodjxpy7x",
-      "start_time": "2025-03-01T00:00:00Z",
-      "end_time": "2025-04-01T00:00:00Z",
-      "query": "from:thankUcrypto",
-      "pages": 31,
-      "added": 775
-    },
-    {
-      "handle": "thankUcrypto",
-      "label": "2024-04",
-      "next_token": "b26v89c19zqg8o3fr5wef7lsykbep4ns28qkoya4wln5p",
-      "start_time": "2024-04-01T00:00:00Z",
-      "end_time": "2024-05-01T00:00:00Z",
-      "query": "from:thankUcrypto",
-      "pages": 5,
-      "added": 125
-    },
-    {
-      "handle": "thankUcrypto",
-      "label": "2024-07",
-      "next_token": "b26v89c19zqg8o3frqos08le9855ejt2s6c935r547rst",
-      "start_time": "2024-07-01T00:00:00Z",
-      "end_time": "2024-08-01T00:00:00Z",
-      "query": "from:thankUcrypto",
-      "pages": 8,
-      "added": 200
     }
-  ],
-  "stop_reason": "reserve_reached",
-  "authority": "remaining_jobs_day2.json + expand_jobs.json; not a scheduled routine",
-  "updated_at_shanghai": "2026-11-25T09:36:51.142179+08:00",
-  "next_action": "No scheduled routine; after reset use remaining_jobs_day2.json, not stale prior fire instructions."
+  ]
 }

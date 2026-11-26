@@ -1,0 +1,151 @@
+{
+  "collected_at_utc": "2026-11-26T01:26:12Z",
+  "collected_at_shanghai": "2026-11-26T09:26:12+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQBB8KYE5GHSBTR9RRKFTB.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-11-01T00:00:00Z",
+    "end_time": "2026-11-25T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzly3iormr2p4zq759z8zvvzft1fh",
+    "window_label": "2026-11"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2026-11-01T04:32:52.000Z",
+      "edit_history_tweet_ids": [
+        "2116750296735203556"
+      ],
+      "id": "2116750296735203556",
+      "public_metrics": {
+        "bookmark_count": 370,
+        "impression_count": 503810,
+        "like_count": 4560,
+        "quote_count": 39,
+        "reply_count": 260,
+        "retweet_count": 128
+      },
+      "text": "grok might be the most truth-seeking ai after all https://t.co/0khOgUztmU",
+      "url": "https://x.com/alexandr_wang/status/2116750296735203556"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2026-11-01T02:03:19.000Z",
+      "edit_history_tweet_ids": [
+        "2116712661866147995"
+      ],
+      "id": "2116712661866147995",
+      "public_metrics": {
+        "bookmark_count": 150,
+        "impression_count": 356427,
+        "like_count": 3035,
+        "quote_count": 17,
+        "reply_count": 100,
+        "retweet_count": 37
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116092985439891457",
+          "type": "quoted"
+        }
+      ],
+      "text": "this dude fucks https://t.co/anPoqT2VXc",
+      "url": "https://x.com/alexandr_wang/status/2116712661866147995"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2026-11-01T02:02:35.000Z",
+      "edit_history_tweet_ids": [
+        "2116712474917675150"
+      ],
+      "id": "2116712474917675150",
+      "in_reply_to_user_id": "1617236269519753217",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 11600,
+        "like_count": 64,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2116597966169415975",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@b_abughazaleh honestly bilal the mullet looks pretty good on you",
+      "url": "https://x.com/alexandr_wang/status/2116712474917675150"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "20771910",
+        "created_at": "2026-10-30T09:00:57.000Z",
+        "edit_history_tweet_ids": [
+          "2116092985439891457"
+        ],
+        "id": "2116092985439891457",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 362615,
+          "like_count": 375,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102970908260569304",
+            "type": "quoted"
+          }
+        ],
+        "text": "Larped as Temu @alexandr_wang for Halloween 🎃.\n\nHow did I do? https://t.co/i9eiEQiX7v https://t.co/9gJ7dFf2YW"
+      },
+      {
+        "author_id": "1617236269519753217",
+        "created_at": "2026-10-31T18:27:34.000Z",
+        "edit_history_tweet_ids": [
+          "2116597966169415975"
+        ],
+        "id": "2116597966169415975",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13826,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "text": "Spookiest costume I could think of. Miss you @alexandr_wang &lt;3 https://t.co/Wca2Kdy8ei"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1617236269519753217",
+        "name": "Bilal Abu-Ghazaleh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2113574872953577472/gfrHq68P_normal.jpg",
+        "username": "b_abughazaleh",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2116750296735203556",
+    "next_token": "b26v89c19zqg8o3juzly3ed7igbdn8dgp6ioxntu0wxh9",
+    "oldest_id": "2116712474917675150",
+    "result_count": 3
+  },
+  "errors": []
+}
