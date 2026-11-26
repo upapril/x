@@ -1,0 +1,916 @@
+{
+  "collected_at_utc": "2026-11-26T00:56:01Z",
+  "collected_at_shanghai": "2026-11-26T08:56:01+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8ANKR8KKR85EG10VDKDAN6M.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2024-01-01T00:00:00Z",
+    "end_time": "2024-02-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr5ndu2mabpcidtbyc3n85js1gffr1",
+    "window_label": "2024-01"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1742015979516010904",
+      "created_at": "2024-01-02T02:52:29.000Z",
+      "edit_history_tweet_ids": [
+        "1742015979516010904"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 52,
+            "expanded_url": "https://twitter.com/taresky/status/1619312122919555074",
+            "start": 29,
+            "url": "https://t.co/uh5FUeiFpQ"
+          }
+        ]
+      },
+      "id": "1742015979516010904",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 53030,
+        "like_count": 26,
+        "quote_count": 1,
+        "reply_count": 8,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1619312122919555074",
+          "type": "quoted"
+        }
+      ],
+      "text": "#2024 \n\nAPY 50%，定居下来，减肥到健康状态 https://t.co/uh5FUeiFpQ",
+      "url": "https://x.com/taresky/status/1742015979516010904"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741997785854202078",
+      "created_at": "2024-01-02T02:47:12.000Z",
+      "edit_history_tweet_ids": [
+        "1742014649716068432"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "967300886719418368",
+            "start": 0,
+            "username": "junairez"
+          }
+        ]
+      },
+      "id": "1742014649716068432",
+      "in_reply_to_user_id": "967300886719418368",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 155,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1742014007144538324",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@junairez 对呀，此刻的仓位就是你对这件事的把握，完完整整的那种。",
+      "url": "https://x.com/taresky/status/1742014649716068432"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741997785854202078",
+      "created_at": "2024-01-02T02:38:06.000Z",
+      "edit_history_tweet_ids": [
+        "1742012362377605138"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "967300886719418368",
+            "start": 0,
+            "username": "junairez"
+          }
+        ]
+      },
+      "id": "1742012362377605138",
+      "in_reply_to_user_id": "967300886719418368",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1411,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741997785854202078",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@junairez 哈哈，仓位代表信心。",
+      "url": "https://x.com/taresky/status/1742012362377605138"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741886414130999553",
+      "created_at": "2024-01-01T18:28:22.000Z",
+      "edit_history_tweet_ids": [
+        "1741889117049561183"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1226906769286406145",
+            "start": 0,
+            "username": "OKxiaohai"
+          }
+        ]
+      },
+      "id": "1741889117049561183",
+      "in_reply_to_user_id": "1226906769286406145",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 109,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741888719328821444",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OKxiaohai 我说呢。。。从第一天就在挖的，看看能给多少🤔",
+      "url": "https://x.com/taresky/status/1741889117049561183"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741886414130999553",
+      "created_at": "2024-01-01T18:26:23.000Z",
+      "edit_history_tweet_ids": [
+        "1741888616463499473"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1226906769286406145",
+            "start": 0,
+            "username": "OKxiaohai"
+          }
+        ]
+      },
+      "id": "1741888616463499473",
+      "in_reply_to_user_id": "1226906769286406145",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1398,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741886414130999553",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OKxiaohai 啥都没有啊",
+      "url": "https://x.com/taresky/status/1741888616463499473"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741852711178637569",
+      "created_at": "2024-01-01T16:24:01.000Z",
+      "edit_history_tweet_ids": [
+        "1741857820591681734"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1378698323280863237",
+            "start": 0,
+            "username": "cryptowilliamm"
+          },
+          {
+            "end": 32,
+            "id": "1627360816738754568",
+            "start": 16,
+            "username": "SleeplessAI_Lab"
+          }
+        ]
+      },
+      "id": "1741857820591681734",
+      "in_reply_to_user_id": "1378698323280863237",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2881,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741852711178637569",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@cryptowilliamm @SleeplessAI_Lab 18号技师，我点了他几百次，最终你带走了啊。",
+      "url": "https://x.com/taresky/status/1741857820591681734"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741826849016303866",
+      "created_at": "2024-01-01T14:35:34.000Z",
+      "edit_history_tweet_ids": [
+        "1741830530298155020"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "736688383",
+            "start": 0,
+            "username": "mieisgood"
+          }
+        ]
+      },
+      "id": "1741830530298155020",
+      "in_reply_to_user_id": "736688383",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1132,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741826849016303866",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mieisgood 广告级！",
+      "url": "https://x.com/taresky/status/1741830530298155020"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741808470175936843",
+      "created_at": "2024-01-01T13:11:41.000Z",
+      "edit_history_tweet_ids": [
+        "1741809417941872789"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "89125864",
+            "start": 0,
+            "username": "perryyeh"
+          }
+        ]
+      },
+      "id": "1741809417941872789",
+      "in_reply_to_user_id": "89125864",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 252,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741808470175936843",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@perryyeh 就是愚蠢。",
+      "url": "https://x.com/taresky/status/1741809417941872789"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741746118260896052",
+      "created_at": "2024-01-01T09:35:22.000Z",
+      "edit_history_tweet_ids": [
+        "1741754982498705610"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "890627838197374976",
+            "start": 0,
+            "username": "0x17B"
+          }
+        ]
+      },
+      "id": "1741754982498705610",
+      "in_reply_to_user_id": "890627838197374976",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 210,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741751350634152245",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0x17B 和其他小狗一起跨年，看视频不想我…",
+      "url": "https://x.com/taresky/status/1741754982498705610"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1741746093841645568"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1741746118260896052",
+      "created_at": "2024-01-01T09:00:09.000Z",
+      "edit_history_tweet_ids": [
+        "1741746118260896052"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/6xrp06Q14j",
+            "end": 38,
+            "expanded_url": "https://x.com/taresky/status/1741746118260896052/photo/1",
+            "media_key": "3_1741746093841645568",
+            "start": 15,
+            "url": "https://t.co/6xrp06Q14j"
+          }
+        ]
+      },
+      "id": "1741746118260896052",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5624,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "10 秒钟前拍的，新年快乐。 https://t.co/6xrp06Q14j",
+      "url": "https://x.com/taresky/status/1741746118260896052"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741722928772010068",
+      "created_at": "2024-01-01T08:16:22.000Z",
+      "edit_history_tweet_ids": [
+        "1741735099111293286"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1206800829950259202",
+            "start": 0,
+            "username": "missuo"
+          }
+        ]
+      },
+      "id": "1741735099111293286",
+      "in_reply_to_user_id": "1206800829950259202",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 422,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741734290558513382",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@missuo 国内线商务舱送一个普通版，高速版 88，凑合用😂",
+      "url": "https://x.com/taresky/status/1741735099111293286"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1741726057789845703",
+      "created_at": "2024-01-01T07:54:17.000Z",
+      "edit_history_tweet_ids": [
+        "1741729543092904129"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "123416609",
+            "start": 0,
+            "username": "gangg2021"
+          }
+        ]
+      },
+      "id": "1741729543092904129",
+      "in_reply_to_user_id": "123416609",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1991,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1741726057789845703",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@gangg2021 等他出来赚不到 2500 就明白了😂",
+      "url": "https://x.com/taresky/status/1741729543092904129"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1741722902154940416"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1741722928772010068",
+      "created_at": "2024-01-01T07:28:00.000Z",
+      "edit_history_tweet_ids": [
+        "1741722928772010068"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/JZWLXR4MGz",
+            "end": 42,
+            "expanded_url": "https://x.com/taresky/status/1741722928772010068/photo/1",
+            "media_key": "3_1741722902154940416",
+            "start": 19,
+            "url": "https://t.co/JZWLXR4MGz"
+          }
+        ]
+      },
+      "id": "1741722928772010068",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 7620,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "text": "忍不住试了一下，网速并没有提升多少… https://t.co/JZWLXR4MGz",
+      "url": "https://x.com/taresky/status/1741722928772010068"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "368245720",
+        "conversation_id": "1619244960896929795",
+        "created_at": "2023-01-28T12:31:10.000Z",
+        "edit_history_tweet_ids": [
+          "1619312122919555074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "282522910",
+              "start": 0,
+              "username": "passluo"
+            }
+          ]
+        },
+        "id": "1619312122919555074",
+        "in_reply_to_user_id": "282522910",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34606,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1619244960896929795",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@passluo APY 50%，好的睡眠，减肥到健康状态"
+      },
+      {
+        "author_id": "967300886719418368",
+        "conversation_id": "1741997785854202078",
+        "created_at": "2024-01-02T02:44:39.000Z",
+        "edit_history_tweet_ids": [
+          "1742014007144538324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1742014007144538324",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1742012362377605138",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我还是得控控风险hhh"
+      },
+      {
+        "author_id": "967300886719418368",
+        "conversation_id": "1741997785854202078",
+        "created_at": "2024-01-02T01:40:11.000Z",
+        "edit_history_tweet_ids": [
+          "1741997785854202078"
+        ],
+        "id": "1741997785854202078",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2833,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "text": "我真的是太穷了，不然绝对重仓 btc 和 sol 他妈的"
+      },
+      {
+        "author_id": "1226906769286406145",
+        "conversation_id": "1741886414130999553",
+        "created_at": "2024-01-01T18:26:48.000Z",
+        "edit_history_tweet_ids": [
+          "1741888719328821444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1741888719328821444",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1741888616463499473",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 是啊，因为挂了，dc说正在修"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1741826200526598144",
+            "3_1741826200648183809",
+            "3_1741826200472031232",
+            "3_1741826200597831680"
+          ]
+        },
+        "author_id": "736688383",
+        "conversation_id": "1741826849016303866",
+        "created_at": "2024-01-01T14:20:57.000Z",
+        "edit_history_tweet_ids": [
+          "1741826849016303866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJXgGesON6",
+              "end": 96,
+              "expanded_url": "https://x.com/mieisgood/status/1741826849016303866/photo/1",
+              "media_key": "3_1741826200526598144",
+              "start": 73,
+              "url": "https://t.co/pJXgGesON6"
+            },
+            {
+              "display_url": "pic.x.com/pJXgGesON6",
+              "end": 96,
+              "expanded_url": "https://x.com/mieisgood/status/1741826849016303866/photo/2",
+              "media_key": "3_1741826200648183809",
+              "start": 73,
+              "url": "https://t.co/pJXgGesON6"
+            },
+            {
+              "display_url": "pic.x.com/pJXgGesON6",
+              "end": 96,
+              "expanded_url": "https://x.com/mieisgood/status/1741826849016303866/photo/3",
+              "media_key": "3_1741826200472031232",
+              "start": 73,
+              "url": "https://t.co/pJXgGesON6"
+            },
+            {
+              "display_url": "pic.x.com/pJXgGesON6",
+              "end": 96,
+              "expanded_url": "https://x.com/mieisgood/status/1741826849016303866/photo/4",
+              "media_key": "3_1741826200597831680",
+              "start": 73,
+              "url": "https://t.co/pJXgGesON6"
+            }
+          ]
+        },
+        "id": "1741826849016303866",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6462,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "明けましておめでとうございます🎍🥂\n新調したテスラに繋げられるテントで年明けCAMP🏕️寝るのはテスラだけどリビングとして使うのに\nかなり良い！ https://t.co/pJXgGesON6"
+      },
+      {
+        "author_id": "89125864",
+        "conversation_id": "1741808470175936843",
+        "created_at": "2024-01-01T13:07:55.000Z",
+        "edit_history_tweet_ids": [
+          "1741808470175936843"
+        ],
+        "id": "1741808470175936843",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 369,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "有些商家7天价格保护，先送一个20的优惠券，过几天送一个40的优惠券（无门槛随便领那种）\n\n然后去申请价保，说：之前用过优惠券的，不可以申请。\n\n逼着重新下一单，把之前的免费退了，这下优惠也有了，商家还出了一来一回2笔运费。\n\n不知道脑子里在想什么，这不多损失了来回的运费？"
+      },
+      {
+        "author_id": "890627838197374976",
+        "conversation_id": "1741746118260896052",
+        "created_at": "2024-01-01T09:20:56.000Z",
+        "edit_history_tweet_ids": [
+          "1741751350634152245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1741751350634152245",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1741746118260896052",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 新年快乐 你的小狗此时在何处？"
+      },
+      {
+        "author_id": "1206800829950259202",
+        "conversation_id": "1741722928772010068",
+        "created_at": "2024-01-01T08:13:09.000Z",
+        "edit_history_tweet_ids": [
+          "1741734290558513382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1741734290558513382",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1741722928772010068",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我飞 MU779 也是忍不住，结果花了200多买了，速度很感人。而且因为是 MU，国际航班也上不了外网。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1741726044741361664"
+          ]
+        },
+        "author_id": "123416609",
+        "conversation_id": "1741726057789845703",
+        "created_at": "2024-01-01T07:40:26.000Z",
+        "edit_history_tweet_ids": [
+          "1741726057789845703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Joq90wyues",
+              "end": 151,
+              "expanded_url": "https://x.com/gangg2021/status/1741726057789845703/photo/1",
+              "media_key": "16_1741726044741361664",
+              "start": 128,
+              "url": "https://t.co/Joq90wyues"
+            }
+          ]
+        },
+        "id": "1741726057789845703",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7153,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "text": "我有点理解不了。侄子大三，今天吃饭聊起来，说家教一小时一百，觉得太便宜，很嫌弃。\n\n但同时也吐槽家里一月才给2500生活费，不够花。\n\n我想了想自己现在50一小时的活儿都在给人熬夜干。有钱挣从来不嫌低。\n\n所以，现在的大学生都这么挑剔（眼高手低）的吗？🤔 https://t.co/Joq90wyues"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "967300886719418368",
+        "name": "Jun (xhigh)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501422214758817796/Ta8Vr0cH_normal.jpg",
+        "username": "junairez",
+        "verified": false
+      },
+      {
+        "id": "1226906769286406145",
+        "name": "阿小小海 🐈 🐈‍⬛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964556922818031616/__gJh3_c_normal.jpg",
+        "username": "OKxiaohai",
+        "verified": false
+      },
+      {
+        "id": "1378698323280863237",
+        "name": "Cryptowilliam.eth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766109632005918720/gNco-n1c_normal.jpg",
+        "username": "cryptowilliamm",
+        "verified": false
+      },
+      {
+        "id": "736688383",
+        "name": "Mie🐑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2112666593054654464/JYpelTji_normal.jpg",
+        "username": "mieisgood",
+        "verified": false
+      },
+      {
+        "id": "89125864",
+        "name": "叶子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761754549440909312/-Lj6hv-J_normal.jpg",
+        "username": "perryyeh",
+        "verified": false
+      },
+      {
+        "id": "890627838197374976",
+        "name": "WOLF17.ETH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708979763665424384/8mwYrpwj_normal.jpg",
+        "username": "0x17B",
+        "verified": false
+      },
+      {
+        "id": "1206800829950259202",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "username": "missuo",
+        "verified": false
+      },
+      {
+        "id": "123416609",
+        "name": "港港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968745038139285504/Nh8joAB4_normal.jpg",
+        "username": "gangg2021",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1742015979516010904",
+    "next_token": "b26v89c19zqg8o3fr5ndfbxfhi4bbxuxuuiovsammrm9p",
+    "oldest_id": "1741722928772010068",
+    "result_count": 13
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1741886414130999553].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1741886414130999553",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1741886414130999553"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1741852711178637569].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1741852711178637569",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1741852711178637569"
+    }
+  ]
+}

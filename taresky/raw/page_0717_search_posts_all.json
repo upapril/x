@@ -1,0 +1,1766 @@
+{
+  "collected_at_utc": "2026-11-26T01:06:16Z",
+  "collected_at_shanghai": "2026-11-26T09:06:16+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AP6GNQ5P68NWMXZ3X64C25.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-09-01T00:00:00Z",
+    "end_time": "2023-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr5bebw47cw1to7mxz7k157mfwiqv1",
+    "window_label": "2023-09"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701829663482671460",
+      "created_at": "2023-09-13T11:02:44.000Z",
+      "edit_history_tweet_ids": [
+        "1701914301202866237"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1238396049128972289",
+            "start": 0,
+            "username": "BajinHash"
+          },
+          {
+            "end": 18,
+            "id": "1446426735893893124",
+            "start": 11,
+            "username": "9caiTV"
+          }
+        ]
+      },
+      "id": "1701914301202866237",
+      "in_reply_to_user_id": "1238396049128972289",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 305,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701914034940051555",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@BajinHash @9caiTV 别用，bug 很多不修。要开始的话从 beancount 复式记账开始。",
+      "url": "https://x.com/taresky/status/1701914301202866237"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701888609991999790",
+      "created_at": "2023-09-13T10:57:25.000Z",
+      "edit_history_tweet_ids": [
+        "1701912965539410360"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1551157762985316355",
+            "start": 0,
+            "username": "Nota_Artist"
+          }
+        ]
+      },
+      "id": "1701912965539410360",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 65,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701912608138473724",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Nota_Artist 如果苹果真有比较正面的解释，大概有各种访谈和有关人士出来透露了。这么多年一直没有，可能舆论猜中了。",
+      "url": "https://x.com/taresky/status/1701912965539410360"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701888609991999790",
+      "created_at": "2023-09-13T10:56:00.000Z",
+      "edit_history_tweet_ids": [
+        "1701912608138473724"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1551157762985316355",
+            "start": 0,
+            "username": "Nota_Artist"
+          }
+        ]
+      },
+      "id": "1701912608138473724",
+      "in_reply_to_user_id": "1551157762985316355",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 104,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701902779378438641",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Nota_Artist iPhone 不愿意妥协那为什么 iPad 愿意妥协，也不太合理。",
+      "url": "https://x.com/taresky/status/1701912608138473724"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701888609991999790",
+      "created_at": "2023-09-13T09:20:38.000Z",
+      "edit_history_tweet_ids": [
+        "1701888609991999790"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/jiarong1043/st…",
+            "end": 126,
+            "expanded_url": "https://twitter.com/jiarong1043/status/1701885644661014540",
+            "start": 103,
+            "url": "https://t.co/ZBLq7zlqvR"
+          }
+        ]
+      },
+      "id": "1701888609991999790",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 5394,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701885644661014540",
+          "type": "quoted"
+        }
+      ],
+      "text": "这个视频不错。\n\n除了之后的结论“保持节奏”太虚幻了，目前最站得住脚的理由就是为了省钱、赚钱。\n\n苹果和欧盟，在环保这点上，当然倾向于相信欧盟。企业是以盈利为目标的，想当股东可以买股票，没必要当精神股东。 https://t.co/ZBLq7zlqvR",
+      "url": "https://x.com/taresky/status/1701888609991999790"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701849051665489987",
+      "created_at": "2023-09-13T08:15:37.000Z",
+      "edit_history_tweet_ids": [
+        "1701872247147987104"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1120712903886344200",
+            "start": 0,
+            "username": "Philo2022"
+          },
+          {
+            "end": 21,
+            "id": "22938360",
+            "start": 11,
+            "username": "kevinzhow"
+          }
+        ]
+      },
+      "id": "1701872247147987104",
+      "in_reply_to_user_id": "1120712903886344200",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2277,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701871974019199158",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Philo2022 @kevinzhow 那还挺好的吧。话说签证和公司是关联的吗？",
+      "url": "https://x.com/taresky/status/1701872247147987104"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1701865156014436352"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1701867578631786650",
+      "created_at": "2023-09-13T07:57:04.000Z",
+      "edit_history_tweet_ids": [
+        "1701867578631786650"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "bilibili.com/video/BV1Zk4y1…",
+            "end": 23,
+            "expanded_url": "https://www.bilibili.com/video/BV1Zk4y1c7bT/?buvid=Y4415847B24EDE614D4496E1961927FFE242&is_story_h5=false&mid=wwTlVQuAbXOZR%2FrI35Mhlg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=COPY&share_tag=s_i&timestamp=1694590322&unique_k=t3uFZ3u&up_id=17138783&vd_source=bbb745f5c39fbd9ec6ff4659f3402730",
+            "start": 0,
+            "url": "https://t.co/gh1xE64qbL"
+          },
+          {
+            "display_url": "pic.x.com/QHrymtXNWb",
+            "end": 65,
+            "expanded_url": "https://x.com/taresky/status/1701867578631786650/photo/1",
+            "media_key": "3_1701865156014436352",
+            "start": 42,
+            "url": "https://t.co/QHrymtXNWb"
+          }
+        ]
+      },
+      "id": "1701867578631786650",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4902,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "text": "https://t.co/gh1xE64qbL\n\n以为是搞笑片，看着发现是动作片。 https://t.co/QHrymtXNWb",
+      "url": "https://x.com/taresky/status/1701867578631786650"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701863565374980202",
+      "created_at": "2023-09-13T07:47:41.000Z",
+      "edit_history_tweet_ids": [
+        "1701865215158272159"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "197405973",
+            "start": 0,
+            "username": "Se7en_YXS"
+          }
+        ]
+      },
+      "id": "1701865215158272159",
+      "in_reply_to_user_id": "197405973",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 43,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701863565374980202",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Se7en_YXS 哈哈哈哈，已经在笑了",
+      "url": "https://x.com/taresky/status/1701865215158272159"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701829663482671460",
+      "created_at": "2023-09-13T05:40:42.000Z",
+      "edit_history_tweet_ids": [
+        "1701833259888627859"
+      ],
+      "id": "1701833259888627859",
+      "in_reply_to_user_id": "20484009",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 436,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701831671723765787",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@river_leaves 对",
+      "url": "https://x.com/taresky/status/1701833259888627859"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701829663482671460",
+      "created_at": "2023-09-13T05:30:46.000Z",
+      "edit_history_tweet_ids": [
+        "1701830759433339329"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1446426735893893124",
+            "start": 0,
+            "username": "9caiTV"
+          }
+        ]
+      },
+      "id": "1701830759433339329",
+      "in_reply_to_user_id": "1446426735893893124",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 508,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701830660460339578",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@9caiTV 这个是 MoneyWiz",
+      "url": "https://x.com/taresky/status/1701830759433339329"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701829663482671460",
+      "created_at": "2023-09-13T05:30:36.000Z",
+      "edit_history_tweet_ids": [
+        "1701830717725094320"
+      ],
+      "id": "1701830717725094320",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3500,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701829663482671460",
+          "type": "replied_to"
+        }
+      ],
+      "text": "省钱的是 M 芯片出来之前，Mac 电脑实在太垃圾太垃圾了，去玩了一阵子黑苹果。\n\nM 芯片出来之后，Mac 才真正值得买。",
+      "url": "https://x.com/taresky/status/1701830717725094320"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1701828835732578304"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1701829663482671460",
+      "created_at": "2023-09-13T05:26:24.000Z",
+      "edit_history_tweet_ids": [
+        "1701829663482671460"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/rukxv0rfIW",
+            "end": 144,
+            "expanded_url": "https://x.com/taresky/status/1701829663482671460/photo/1",
+            "media_key": "3_1701828835732578304",
+            "start": 121,
+            "url": "https://t.co/rukxv0rfIW"
+          }
+        ]
+      },
+      "id": "1701829663482671460",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 5738,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "近年花在 Apple 硬件上的实际开销，131,902 元。\n\n基本每年 2 台 iPhone，第一时间买最新款 Mac Studio Ultra 和 Macbook Pro 定制顶配。\n\n回血程度还可以，基本能回一半，还有些是退货的流水。 https://t.co/rukxv0rfIW",
+      "url": "https://x.com/taresky/status/1701829663482671460"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701796929049702759",
+      "created_at": "2023-09-13T05:22:28.000Z",
+      "edit_history_tweet_ids": [
+        "1701828670032421124"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "118043424",
+            "start": 0,
+            "username": "jackbilldarren"
+          }
+        ]
+      },
+      "id": "1701828670032421124",
+      "in_reply_to_user_id": "118043424",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 938,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701796929049702759",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jackbilldarren 我不到一年的 iPhone 14 Pro 已经 90% 了",
+      "url": "https://x.com/taresky/status/1701828670032421124"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701791212439826734",
+      "created_at": "2023-09-13T04:48:00.000Z",
+      "edit_history_tweet_ids": [
+        "1701819999948820935"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "15804278",
+            "start": 0,
+            "username": "luogl"
+          }
+        ]
+      },
+      "id": "1701819999948820935",
+      "in_reply_to_user_id": "15804278",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 871,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701819010944323983",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@luogl 10 条乱说的啊。原装线太环保了，我用不惯那个糟糕手感。",
+      "url": "https://x.com/taresky/status/1701819999948820935"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701665845934743870",
+      "created_at": "2023-09-13T04:38:57.000Z",
+      "edit_history_tweet_ids": [
+        "1701817721649045896"
+      ],
+      "id": "1701817721649045896",
+      "in_reply_to_user_id": "584079263",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 95,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701817488236020205",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@p0we7 电池真的强",
+      "url": "https://x.com/taresky/status/1701817721649045896"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1701806432793006081"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1701665845934743870",
+      "created_at": "2023-09-13T03:54:40.000Z",
+      "edit_history_tweet_ids": [
+        "1701806574321439122"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/F1JUwLm78n",
+            "end": 51,
+            "expanded_url": "https://x.com/taresky/status/1701806574321439122/photo/1",
+            "media_key": "3_1701806432793006081",
+            "start": 28,
+            "url": "https://t.co/F1JUwLm78n"
+          }
+        ]
+      },
+      "id": "1701806574321439122",
+      "in_reply_to_user_id": "584079263",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 515,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701665845934743870",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@p0we7 大号的也减重不多，不过能少一点就少一点。 https://t.co/F1JUwLm78n",
+      "url": "https://x.com/taresky/status/1701806574321439122"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701792741729124626",
+      "created_at": "2023-09-13T03:50:45.000Z",
+      "edit_history_tweet_ids": [
+        "1701805591474434277"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "18334529",
+            "start": 0,
+            "username": "peizh"
+          }
+        ]
+      },
+      "id": "1701805591474434277",
+      "in_reply_to_user_id": "18334529",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 266,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701792741729124626",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@peizh 哈哈哈哈哈",
+      "url": "https://x.com/taresky/status/1701805591474434277"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701657186529861747",
+      "created_at": "2023-09-13T03:49:53.000Z",
+      "edit_history_tweet_ids": [
+        "1701805374083629071"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "461983911",
+            "start": 0,
+            "username": "ouchxp"
+          }
+        ]
+      },
+      "id": "1701805374083629071",
+      "in_reply_to_user_id": "461983911",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 438,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701804857479610474",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ouchxp 我已经形成肌肉记忆了，往下是静音",
+      "url": "https://x.com/taresky/status/1701805374083629071"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701802185741451264",
+      "created_at": "2023-09-13T03:46:23.000Z",
+      "edit_history_tweet_ids": [
+        "1701804490817691940"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1384895251836329992",
+            "start": 0,
+            "username": "mixaylao"
+          },
+          {
+            "end": 21,
+            "id": "1497471251497234433",
+            "start": 10,
+            "username": "KeystoneCN"
+          }
+        ]
+      },
+      "id": "1701804490817691940",
+      "in_reply_to_user_id": "1384895251836329992",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 274,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701802866917412933",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mixaylao @KeystoneCN 不知道，我没有去验证，你可以看看官网找开源代码部分。",
+      "url": "https://x.com/taresky/status/1701804490817691940"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1701802178791587840",
+          "3_1701802178787352576",
+          "3_1701802178795720704"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1701802185741451264",
+      "created_at": "2023-09-13T03:37:13.000Z",
+      "edit_history_tweet_ids": [
+        "1701802185741451264"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 38,
+            "id": "1497471251497234433",
+            "start": 27,
+            "username": "KeystoneCN"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/jZYtDPh36R",
+            "end": 62,
+            "expanded_url": "https://x.com/taresky/status/1701802185741451264/photo/1",
+            "media_key": "3_1701802178791587840",
+            "start": 39,
+            "url": "https://t.co/jZYtDPh36R"
+          },
+          {
+            "display_url": "pic.x.com/jZYtDPh36R",
+            "end": 62,
+            "expanded_url": "https://x.com/taresky/status/1701802185741451264/photo/2",
+            "media_key": "3_1701802178787352576",
+            "start": 39,
+            "url": "https://t.co/jZYtDPh36R"
+          },
+          {
+            "display_url": "pic.x.com/jZYtDPh36R",
+            "end": 62,
+            "expanded_url": "https://x.com/taresky/status/1701802185741451264/photo/3",
+            "media_key": "3_1701802178795720704",
+            "start": 39,
+            "url": "https://t.co/jZYtDPh36R"
+          }
+        ]
+      },
+      "id": "1701802185741451264",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 6262,
+        "like_count": 10,
+        "quote_count": 1,
+        "reply_count": 4,
+        "retweet_count": 1
+      },
+      "text": "Keystone Pro 到了！今天有新玩具了✌️\n\n@KeystoneCN https://t.co/jZYtDPh36R",
+      "url": "https://x.com/taresky/status/1701802185741451264"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701647101195870333",
+      "created_at": "2023-09-13T03:19:43.000Z",
+      "edit_history_tweet_ids": [
+        "1701797780136894962"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1174905035198586881",
+            "start": 0,
+            "username": "xpostxizhu"
+          }
+        ]
+      },
+      "id": "1701797780136894962",
+      "in_reply_to_user_id": "1174905035198586881",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2001,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701796246959325302",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xpostxizhu 比差咯？",
+      "url": "https://x.com/taresky/status/1701797780136894962"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701791212439826734",
+      "created_at": "2023-09-13T02:53:37.000Z",
+      "edit_history_tweet_ids": [
+        "1701791212439826734"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/taresky/status…",
+            "end": 193,
+            "expanded_url": "https://twitter.com/taresky/status/1701647101195870333",
+            "start": 170,
+            "url": "https://t.co/mVAVqO8Trk"
+          }
+        ]
+      },
+      "id": "1701791212439826734",
+      "lang": "zh",
+      "note_tweet": {
+        "text": "我接受最后能洗地的时间点是 2019 年。\n\n2015 开始用 USB-C，2018 iPad 开始用 USB-C。所以为了环保，2019 年 iPhone 就该用了。\n\n一直不改，还不改，再不改，到今年才改，为啥不相信是欧盟标倒逼呢。\n\n这么说没证据，废话，这是观点不是事实，哪来的证据。\n\n你有事实的话，你解释一下为什么 2023 年 iPhone 用 USB-C 才是最合理最环保的嘛，有什么外行人不知道的天时地利人和 2023 年才来了？"
+      },
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 26885,
+        "like_count": 21,
+        "quote_count": 2,
+        "reply_count": 8,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701647101195870333",
+          "type": "quoted"
+        }
+      ],
+      "text": "我接受最后能洗地的时间点是 2019 年。\n\n2015 开始用 USB-C，2018 iPad 开始用 USB-C。所以为了环保，2019 年 iPhone 就该用了。\n\n一直不改，还不改，再不改，到今年才改，为啥不相信是欧盟标倒逼呢。\n\n这么说没证据，废话，这是观点不是事实，哪来的证据。\n\n你有事实的话，你解释一下为什么 2023 年 https://t.co/mVAVqO8Trk",
+      "url": "https://x.com/taresky/status/1701791212439826734"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701767630766702596",
+      "created_at": "2023-09-13T02:42:03.000Z",
+      "edit_history_tweet_ids": [
+        "1701788302272241749"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1019269220557680640",
+            "start": 0,
+            "username": "Quantum_Ghost"
+          }
+        ]
+      },
+      "id": "1701788302272241749",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 128,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Quantum_Ghost 有惊喜没意外了",
+      "url": "https://x.com/taresky/status/1701788302272241749"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701779850250568145",
+      "created_at": "2023-09-13T02:41:43.000Z",
+      "edit_history_tweet_ids": [
+        "1701788216628810177"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1740377053969485824",
+            "start": 0,
+            "username": "Xiang2021"
+          }
+        ]
+      },
+      "id": "1701788216628810177",
+      "in_reply_to_user_id": "123416609",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 51,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701779855606735056",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Xiang2021 看客冷漠啊",
+      "url": "https://x.com/taresky/status/1701788216628810177"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701784775399452830",
+      "created_at": "2023-09-13T02:34:58.000Z",
+      "edit_history_tweet_ids": [
+        "1701786520569700522"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1168676814136459264",
+            "start": 0,
+            "username": "MiaBleem"
+          }
+        ]
+      },
+      "id": "1701786520569700522",
+      "in_reply_to_user_id": "1168676814136459264",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2316,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701784775399452830",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@MiaBleem 最重要的是 type c 😂",
+      "url": "https://x.com/taresky/status/1701786520569700522"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1701647101195870333",
+      "created_at": "2023-09-13T02:28:50.000Z",
+      "edit_history_tweet_ids": [
+        "1701784975824355605"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1513410328888893447",
+            "start": 0,
+            "username": "Boundaryman2"
+          }
+        ]
+      },
+      "id": "1701784975824355605",
+      "in_reply_to_user_id": "1513410328888893447",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 78,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1701756431811391663",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Boundaryman2 一码归一码",
+      "url": "https://x.com/taresky/status/1701784975824355605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1238396049128972289",
+        "conversation_id": "1701829663482671460",
+        "created_at": "2023-09-13T11:01:40.000Z",
+        "edit_history_tweet_ids": [
+          "1701914034940051555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 16,
+              "id": "1446426735893893124",
+              "start": 9,
+              "username": "9caiTV"
+            }
+          ]
+        },
+        "id": "1701914034940051555",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701830759433339329",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @9caiTV 这个记账软件乍一看像苹果备忘录，感觉很好用的样子"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1701888609991999790",
+        "created_at": "2023-09-13T10:56:00.000Z",
+        "edit_history_tweet_ids": [
+          "1701912608138473724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551157762985316355",
+              "start": 0,
+              "username": "Nota_Artist"
+            }
+          ]
+        },
+        "id": "1701912608138473724",
+        "in_reply_to_user_id": "1551157762985316355",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701902779378438641",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@Nota_Artist iPhone 不愿意妥协那为什么 iPad 愿意妥协，也不太合理。"
+      },
+      {
+        "author_id": "1551157762985316355",
+        "conversation_id": "1701888609991999790",
+        "created_at": "2023-09-13T10:16:57.000Z",
+        "edit_history_tweet_ids": [
+          "1701902779378438641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701902779378438641",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 我也刚看完，还挺有意思的。\n从个人角度看不愿意换c口，可能和苹果长期设计的愿景不太一致，中间做这种调整看着没必要还会额外增加成本。我要是PM也都不愿意走太多折中方案"
+      },
+      {
+        "author_id": "843867891392958464",
+        "conversation_id": "1701647101195870333",
+        "created_at": "2023-09-13T09:08:51.000Z",
+        "edit_history_tweet_ids": [
+          "1701885644661014540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv/1N5u4by",
+              "end": 65,
+              "expanded_url": "https://b23.tv/1N5u4by",
+              "start": 42,
+              "url": "https://t.co/8QSgh2Vh5t"
+            }
+          ]
+        },
+        "id": "1701885644661014540",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5706,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701647101195870333",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 【硬核解读：iPhone 15 换 C 口背后的故事-哔哩哔哩】 https://t.co/8QSgh2Vh5t"
+      },
+      {
+        "author_id": "1120712903886344200",
+        "conversation_id": "1701849051665489987",
+        "created_at": "2023-09-13T08:14:32.000Z",
+        "edit_history_tweet_ids": [
+          "1701871974019199158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "22938360",
+              "start": 0,
+              "username": "kevinzhow"
+            }
+          ]
+        },
+        "id": "1701871974019199158",
+        "in_reply_to_user_id": "22938360",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4965,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701865645238092232",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@kevinzhow 那我可以趁还没入职跳槽么🫠"
+      },
+      {
+        "author_id": "20484009",
+        "conversation_id": "1701829663482671460",
+        "created_at": "2023-09-13T05:34:23.000Z",
+        "edit_history_tweet_ids": [
+          "1701831671723765787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701831671723765787",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 720,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 应该说，在苹果刚刚转用Intel芯片之后的几代成熟产品，直到Intel制程卡壳之前，MacBook都是同时代同价位笔记本的优选。综合各方面都是佼佼者。直到Intel开始拉跨，甚至苹果的原始设计不足以解决芯片的散热问题……"
+      },
+      {
+        "author_id": "1446426735893893124",
+        "conversation_id": "1701829663482671460",
+        "created_at": "2023-09-13T05:30:22.000Z",
+        "edit_history_tweet_ids": [
+          "1701830660460339578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701830660460339578",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 用的什么记账啊"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1701828835732578304"
+          ]
+        },
+        "author_id": "368245720",
+        "conversation_id": "1701829663482671460",
+        "created_at": "2023-09-13T05:26:24.000Z",
+        "edit_history_tweet_ids": [
+          "1701829663482671460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rukxv0rfIW",
+              "end": 144,
+              "expanded_url": "https://x.com/taresky/status/1701829663482671460/photo/1",
+              "media_key": "3_1701828835732578304",
+              "start": 121,
+              "url": "https://t.co/rukxv0rfIW"
+            }
+          ]
+        },
+        "id": "1701829663482671460",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5738,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "近年花在 Apple 硬件上的实际开销，131,902 元。\n\n基本每年 2 台 iPhone，第一时间买最新款 Mac Studio Ultra 和 Macbook Pro 定制顶配。\n\n回血程度还可以，基本能回一半，还有些是退货的流水。 https://t.co/rukxv0rfIW"
+      },
+      {
+        "author_id": "118043424",
+        "conversation_id": "1701796929049702759",
+        "created_at": "2023-09-13T03:16:20.000Z",
+        "edit_history_tweet_ids": [
+          "1701796929049702759"
+        ],
+        "id": "1701796929049702759",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4440,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "text": "手上的13 pro max两年了电池健康还剩92%。14 pro max的很羡慕吧。"
+      },
+      {
+        "author_id": "15804278",
+        "conversation_id": "1701791212439826734",
+        "created_at": "2023-09-13T04:44:05.000Z",
+        "edit_history_tweet_ids": [
+          "1701819010944323983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701819010944323983",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 957,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701791212439826734",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 道理我都懂，但你怎么会买了10条Lightning？每次送的线都用不完啊"
+      },
+      {
+        "author_id": "584079263",
+        "conversation_id": "1701665845934743870",
+        "created_at": "2023-09-13T04:38:02.000Z",
+        "edit_history_tweet_ids": [
+          "1701817488236020205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701817488236020205",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701806574321439122",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 买大号的人，我观察身边的好似都不太关心重量，大就完事。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1701665599989112833",
+            "3_1701665599989112832"
+          ]
+        },
+        "author_id": "584079263",
+        "conversation_id": "1701665845934743870",
+        "created_at": "2023-09-12T18:35:27.000Z",
+        "edit_history_tweet_ids": [
+          "1701665845934743870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EczP3qcjOp",
+              "end": 72,
+              "expanded_url": "https://x.com/p0we7/status/1701665845934743870/photo/1",
+              "media_key": "3_1701665599989112833",
+              "start": 49,
+              "url": "https://t.co/EczP3qcjOp"
+            },
+            {
+              "display_url": "pic.x.com/EczP3qcjOp",
+              "end": 72,
+              "expanded_url": "https://x.com/p0we7/status/1701665845934743870/photo/2",
+              "media_key": "3_1701665599989112832",
+              "start": 49,
+              "url": "https://t.co/EczP3qcjOp"
+            }
+          ]
+        },
+        "id": "1701665845934743870",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "iPhone 15 Pro 只比 iPhone 15 重亿点点\n\n187 - 171 = 16g https://t.co/EczP3qcjOp"
+      },
+      {
+        "author_id": "18334529",
+        "conversation_id": "1701792741729124626",
+        "created_at": "2023-09-13T02:59:42.000Z",
+        "edit_history_tweet_ids": [
+          "1701792741729124626"
+        ],
+        "id": "1701792741729124626",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "刷了一会儿苹果更新的产品只有一个疑问，换 Type C 之后我 2018 老车的 CarPlay 还能用吗？是不是再换手机就要换车了？"
+      },
+      {
+        "author_id": "461983911",
+        "conversation_id": "1701657186529861747",
+        "created_at": "2023-09-13T03:47:50.000Z",
+        "edit_history_tweet_ids": [
+          "1701804857479610474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701804857479610474",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701657186529861747",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我反倒是觉得取消了挺好. 因为UI上没有任何提示, 每次为了确认是否在silent mode还要特意去拨两次, 以及我的珊瑚色XR, 无论开关怎么拨, 那个红色看起来都和机身颜色差不多."
+      },
+      {
+        "author_id": "1384895251836329992",
+        "conversation_id": "1701802185741451264",
+        "created_at": "2023-09-13T03:39:56.000Z",
+        "edit_history_tweet_ids": [
+          "1701802866917412933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 20,
+              "id": "1497471251497234433",
+              "start": 9,
+              "username": "KeystoneCN"
+            }
+          ]
+        },
+        "id": "1701802866917412933",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 699,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701802185741451264",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @KeystoneCN 安全性如何？"
+      },
+      {
+        "author_id": "1174905035198586881",
+        "conversation_id": "1701647101195870333",
+        "created_at": "2023-09-13T03:13:37.000Z",
+        "edit_history_tweet_ids": [
+          "1701796246959325302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1701796246959325302",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2203,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701647101195870333",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 苹果花了真金白银和人力去利用更清洁的能源，利用可回收的材料，请问国内的这些手机企业有几个能拿出来台面说说自己在这几方面做了什么的？"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1701647101195870333",
+        "created_at": "2023-09-12T17:20:58.000Z",
+        "edit_history_tweet_ids": [
+          "1701647101195870333"
+        ],
+        "id": "1701647101195870333",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 151184,
+          "like_count": 210,
+          "quote_count": 7,
+          "reply_count": 60,
+          "retweet_count": 12
+        },
+        "text": "苹果可能是这个世界上最不配说环保的企业之一。\n\n为啥总说环保，真的很烦。\n\n为了赚钱搞 Lightning 接口的浪费已经罪大恶极了好吗。"
+      },
+      {
+        "author_id": "123416609",
+        "conversation_id": "1701779850250568145",
+        "created_at": "2023-09-13T02:08:29.000Z",
+        "edit_history_tweet_ids": [
+          "1701779855606735056"
+        ],
+        "id": "1701779855606735056",
+        "in_reply_to_user_id": "123416609",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 297,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701779851982913969",
+            "type": "replied_to"
+          }
+        ],
+        "text": "其实人很奇怪，我觉得既然是沟通群就需要沟通表达，但是现在变成了老师说啥，家长们二话不说服从。家委会跟摆设一样屁都不放，完全没有现在家长角度去帮其他家长沟通问题。我觉得需要把问题公开化，让大家都知道，而不是私下沟通，假装问题不存在。这大概就是最近当出头人的感想。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1701756393240600576"
+          ]
+        },
+        "author_id": "1513410328888893447",
+        "conversation_id": "1701647101195870333",
+        "created_at": "2023-09-13T00:35:25.000Z",
+        "edit_history_tweet_ids": [
+          "1701756431811391663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3nx5KTPO8",
+              "end": 134,
+              "expanded_url": "https://x.com/Boundaryman2/status/1701756431811391663/photo/1",
+              "media_key": "3_1701756393240600576",
+              "start": 111,
+              "url": "https://t.co/R3nx5KTPO8"
+            }
+          ]
+        },
+        "id": "1701756431811391663",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1701647101195870333",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 想想智能手機所替代掉的各種物件，比起lightning口的浪費可以說是九牛一毛。各種紙質媒介，數碼相機，錄音筆，計算器，指南針，調音器，不勝枚舉。沒有蘋果公司的推動，這樣的產品也許還要晚三五年才能面世。 https://t.co/R3nx5KTPO8"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1238396049128972289",
+        "name": "Bajin(Ξ,發）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1536321820991045632/rU4iG34S_normal.jpg",
+        "username": "BajinHash",
+        "verified": false
+      },
+      {
+        "id": "1551157762985316355",
+        "name": "不是艺术家",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675189954144763904/9LCuYPka_normal.jpg",
+        "username": "Nota_Artist",
+        "verified": false
+      },
+      {
+        "id": "1120712903886344200",
+        "name": "Philo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432329882692767747/oX4paPF-_normal.jpg",
+        "username": "Philo2022",
+        "verified": false
+      },
+      {
+        "id": "197405973",
+        "name": "松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/732670755679272961/ksuXl1Yp_normal.jpg",
+        "username": "Se7en_YXS",
+        "verified": false
+      },
+      {
+        "id": "20484009",
+        "name": "River Leaf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596851019316572160/lJmC6W-M_normal.jpg",
+        "username": "riverleaf88",
+        "verified": false
+      },
+      {
+        "id": "1446426735893893124",
+        "name": "韭菜TV",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540539412437536768/cxKJc8WX_normal.jpg",
+        "username": "9caiTV",
+        "verified": false
+      },
+      {
+        "id": "118043424",
+        "name": " 布加迪 𝕏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/682180805938921472/azICwfWB_normal.jpg",
+        "username": "jackbilldarren",
+        "verified": false
+      },
+      {
+        "id": "15804278",
+        "name": "Red Panda Katsuyama (J.League U-17) 无孩爱猫男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2124876353300574208/cUnhf6yO_normal.jpg",
+        "username": "luogl",
+        "verified": false
+      },
+      {
+        "id": "584079263",
+        "name": "Peter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/547758920748371970/ziwQmzBz_normal.jpeg",
+        "username": "Kxsg79bEYFP4",
+        "verified": false
+      },
+      {
+        "id": "18334529",
+        "name": "Pete",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028508659635179520/EkDqXd4__normal.jpg",
+        "username": "peizh",
+        "verified": false
+      },
+      {
+        "id": "461983911",
+        "name": "Not a Number 🎇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123191992483841/u6wDA-OF_normal.jpg",
+        "username": "ouchxp",
+        "verified": false
+      },
+      {
+        "id": "1384895251836329992",
+        "name": "mixay🥊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740967204630540288/Kg-7HFIW_normal.jpg",
+        "username": "mixaylao",
+        "verified": false
+      },
+      {
+        "id": "1174905035198586881",
+        "name": "XPosting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597455316374806528/14l7nJlH_normal.jpg",
+        "username": "xpostxizhu",
+        "verified": false
+      },
+      {
+        "id": "123416609",
+        "name": "港港",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968745038139285504/Nh8joAB4_normal.jpg",
+        "username": "gangg2021",
+        "verified": false
+      },
+      {
+        "id": "1168676814136459264",
+        "name": "MiaProMax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103526191277731841/D82GuylE_normal.jpg",
+        "username": "MiaBleem",
+        "verified": false
+      },
+      {
+        "id": "1513410328888893447",
+        "name": "Boundaryman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513411846455369732/NVzBvg26_normal.jpg",
+        "username": "Boundaryman2",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1701914301202866237",
+    "next_token": "b26v89c19zqg8o3fr5bebrug28a6pi66k2cbh7c8w21kt",
+    "oldest_id": "1701784975824355605",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1701863565374980202].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1701863565374980202",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1701863565374980202"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1701784775399452830].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1701784775399452830",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1701784775399452830"
+    }
+  ]
+}

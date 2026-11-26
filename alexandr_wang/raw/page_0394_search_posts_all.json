@@ -1,0 +1,2019 @@
+{
+  "collected_at_utc": "2026-11-26T01:30:59Z",
+  "collected_at_shanghai": "2026-11-26T09:30:59+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQM529RP7NA94RX89DWV57.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-09-01T00:00:00Z",
+    "end_time": "2026-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juezidtnvtt4bt3d345d8fozkbtwn1",
+    "window_label": "2026-09"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097634320529641826",
+      "created_at": "2026-09-09T14:06:02.000Z",
+      "edit_history_tweet_ids": [
+        "2097687981046022624"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "481812746",
+            "start": 0,
+            "username": "mikepat711"
+          }
+        ]
+      },
+      "id": "2097687981046022624",
+      "in_reply_to_user_id": "481812746",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2254,
+        "like_count": 38,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097634320529641826",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mikepat711 Really glad you’re enjoying it!",
+      "url": "https://x.com/alexandr_wang/status/2097687981046022624"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097542029630738516",
+      "created_at": "2026-09-09T04:54:16.000Z",
+      "edit_history_tweet_ids": [
+        "2097549126217191575"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "338803033",
+            "start": 0,
+            "username": "dorculas"
+          }
+        ]
+      },
+      "id": "2097549126217191575",
+      "in_reply_to_user_id": "338803033",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2413,
+        "like_count": 16,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097542029630738516",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dorculas really glad you like it!",
+      "url": "https://x.com/alexandr_wang/status/2097549126217191575"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097499989802967515",
+      "created_at": "2026-09-09T03:58:52.000Z",
+      "edit_history_tweet_ids": [
+        "2097535181938934239"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1459618514151489540",
+            "start": 0,
+            "username": "mjboswell"
+          }
+        ]
+      },
+      "id": "2097535181938934239",
+      "in_reply_to_user_id": "1459618514151489540",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2128,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097499989802967515",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mjboswell league/arcane fans unite!",
+      "url": "https://x.com/alexandr_wang/status/2097535181938934239"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097482269820846350",
+      "created_at": "2026-09-09T03:55:49.000Z",
+      "edit_history_tweet_ids": [
+        "2097534413244629240"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "140825723",
+            "start": 0,
+            "username": "Appyg99"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "security.muse.ai",
+            "end": 176,
+            "expanded_url": "https://security.muse.ai",
+            "images": [
+              {
+                "height": 1359,
+                "url": "https://pbs.twimg.com/news_img/2123220105249308672/1v6QIfKq?format=png&name=orig",
+                "width": 2842
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2123220105249308672/1v6QIfKq?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 153,
+            "status": 200,
+            "title": "How We Built Safety Into Muse — Muse",
+            "unwound_url": "https://muse.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+            "url": "https://t.co/aKxcJYbfcH"
+          }
+        ]
+      },
+      "id": "2097534413244629240",
+      "in_reply_to_user_id": "140825723",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 3988,
+        "like_count": 54,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097482269820846350",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Appyg99 We think about this constantly and have put a lot of energy into making Muse as secure as we can. You can read about our security efforts here: https://t.co/aKxcJYbfcH",
+      "url": "https://x.com/alexandr_wang/status/2097534413244629240"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097533661822546195",
+      "created_at": "2026-09-09T03:52:49.000Z",
+      "edit_history_tweet_ids": [
+        "2097533661822546195"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/tobi/status/20…",
+            "end": 63,
+            "expanded_url": "https://twitter.com/tobi/status/2097529479639732697",
+            "start": 40,
+            "url": "https://t.co/SwJ8oLEdAP"
+          }
+        ]
+      },
+      "id": "2097533661822546195",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 56,
+        "impression_count": 92392,
+        "like_count": 1158,
+        "quote_count": 10,
+        "reply_count": 143,
+        "retweet_count": 24
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097529479639732697",
+          "type": "quoted"
+        }
+      ],
+      "text": "your smartest friend is already on muse https://t.co/SwJ8oLEdAP",
+      "url": "https://x.com/alexandr_wang/status/2097533661822546195"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097527621206921612",
+      "created_at": "2026-09-09T03:30:24.000Z",
+      "edit_history_tweet_ids": [
+        "2097528018784981479"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "914061",
+            "start": 0,
+            "username": "levie"
+          }
+        ]
+      },
+      "id": "2097528018784981479",
+      "in_reply_to_user_id": "914061",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 10785,
+        "like_count": 29,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097527736877392305",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@levie 🤓",
+      "url": "https://x.com/alexandr_wang/status/2097528018784981479"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097527621206921612",
+      "created_at": "2026-09-09T03:28:49.000Z",
+      "edit_history_tweet_ids": [
+        "2097527621206921612"
+      ],
+      "id": "2097527621206921612",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 168,
+        "impression_count": 297616,
+        "like_count": 3371,
+        "quote_count": 49,
+        "reply_count": 216,
+        "retweet_count": 101
+      },
+      "text": "the early usage on muse has blown way past our projections. muse’s users today are using 10x more than our testing cohorts. enjoy!",
+      "url": "https://x.com/alexandr_wang/status/2097527621206921612"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097453730606325989",
+      "created_at": "2026-09-09T00:19:22.000Z",
+      "edit_history_tweet_ids": [
+        "2097479943961866356"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1703098486428782592",
+            "start": 0,
+            "username": "rabib_ai"
+          }
+        ]
+      },
+      "id": "2097479943961866356",
+      "in_reply_to_user_id": "1703098486428782592",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1537,
+        "like_count": 12,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097453730606325989",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@rabib_ai hell yeah",
+      "url": "https://x.com/alexandr_wang/status/2097479943961866356"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097402344061510004",
+      "created_at": "2026-09-09T00:18:25.000Z",
+      "edit_history_tweet_ids": [
+        "2097479705746403718"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1795223035085037569",
+            "start": 0,
+            "username": "Yomwold"
+          }
+        ]
+      },
+      "id": "2097479705746403718",
+      "in_reply_to_user_id": "1795223035085037569",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 761,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097478245537231034",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Yomwold Your Muse has the same VM the whole time you use it!",
+      "url": "https://x.com/alexandr_wang/status/2097479705746403718"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097458221598314846",
+      "created_at": "2026-09-08T23:53:33.000Z",
+      "edit_history_tweet_ids": [
+        "2097473446922060237"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "2146141",
+            "start": 0,
+            "username": "dtrinh"
+          }
+        ]
+      },
+      "id": "2097473446922060237",
+      "in_reply_to_user_id": "2146141",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2423,
+        "like_count": 23,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097458221598314846",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dtrinh wow that is a really cute muse. i want him to go on a playdate with mine",
+      "url": "https://x.com/alexandr_wang/status/2097473446922060237"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097472059077202339",
+      "created_at": "2026-09-08T23:48:02.000Z",
+      "edit_history_tweet_ids": [
+        "2097472059077202339"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.",
+            "display_url": "muse.ai/join",
+            "end": 167,
+            "expanded_url": "https://muse.ai/join",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2125329428871835648/poICC8zF?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125329428871835648/poICC8zF?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 144,
+            "status": 200,
+            "title": "Muse — Your Personal AI Agent",
+            "unwound_url": "https://muse.ai/join",
+            "url": "https://t.co/oGzBjKtAyn"
+          },
+          {
+            "display_url": "x.com/thatguybg/stat…",
+            "end": 191,
+            "expanded_url": "https://twitter.com/thatguybg/status/2097466072601362741",
+            "start": 168,
+            "url": "https://t.co/OLVMS9CwnH"
+          }
+        ]
+      },
+      "id": "2097472059077202339",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 155,
+        "impression_count": 132186,
+        "like_count": 1038,
+        "quote_count": 2,
+        "reply_count": 105,
+        "retweet_count": 40
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097466072601362741",
+          "type": "quoted"
+        }
+      ],
+      "text": "the team poured their heart and souls into it, and it warms our hearts to see the response ❤️\n\nwe are really excited for more people to try it: https://t.co/oGzBjKtAyn https://t.co/OLVMS9CwnH",
+      "url": "https://x.com/alexandr_wang/status/2097472059077202339"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097471197755904035",
+      "created_at": "2026-09-08T23:44:37.000Z",
+      "edit_history_tweet_ids": [
+        "2097471197755904035"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/DavidPawlan/st…",
+            "end": 104,
+            "expanded_url": "https://twitter.com/DavidPawlan/status/2097441279927861722",
+            "start": 81,
+            "url": "https://t.co/sAJpdEpEWT"
+          }
+        ]
+      },
+      "id": "2097471197755904035",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 111,
+        "impression_count": 90056,
+        "like_count": 476,
+        "quote_count": 4,
+        "reply_count": 36,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097441279927861722",
+          "type": "quoted"
+        }
+      ],
+      "text": "if this were an mma match, only one guy would be left standing\n\n(hint it's muse) https://t.co/sAJpdEpEWT",
+      "url": "https://x.com/alexandr_wang/status/2097471197755904035"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097454574202495340",
+      "created_at": "2026-09-08T22:38:34.000Z",
+      "edit_history_tweet_ids": [
+        "2097454576719003669"
+      ],
+      "id": "2097454576719003669",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 19671,
+        "like_count": 151,
+        "quote_count": 2,
+        "reply_count": 11,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097454575540445624",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ Muse operates with the principle of least privilege, so you can decide what it connects to and what it doesn’t. and you can decide whether it can just read your data, or read and write it. you can also disconnect any connector anytime.",
+      "url": "https://x.com/alexandr_wang/status/2097454576719003669"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097454574202495340",
+      "created_at": "2026-09-08T22:38:34.000Z",
+      "edit_history_tweet_ids": [
+        "2097454575540445624"
+      ],
+      "id": "2097454575540445624",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 56693,
+        "like_count": 203,
+        "quote_count": 8,
+        "reply_count": 10,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097454574202495340",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ there are unique connectors that are only available to Muse like Instagram (incl dm’s), Threads, Facebook (incl marketplace), and Messenger.",
+      "url": "https://x.com/alexandr_wang/status/2097454575540445624"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097454574202495340",
+      "created_at": "2026-09-08T22:38:33.000Z",
+      "edit_history_tweet_ids": [
+        "2097454574202495340"
+      ],
+      "id": "2097454574202495340",
+      "lang": "en",
+      "note_tweet": {
+        "text": "1/ we’ve built a lot of connectors to make it easier to integrate Muse into your life. Muse runs in a secure VM and we don’t use your data for ads or anything other than to make Muse great for you. you can connect Muse to Gmail, Google calendar, Outlook, Plaid, Opentable, Google Docs, Spotify, Function Health, Withings, Tailscale, Peloton, and more."
+      },
+      "public_metrics": {
+        "bookmark_count": 335,
+        "impression_count": 229460,
+        "like_count": 1672,
+        "quote_count": 38,
+        "reply_count": 167,
+        "retweet_count": 54
+      },
+      "text": "1/ we’ve built a lot of connectors to make it easier to integrate Muse into your life. Muse runs in a secure VM and we don’t use your data for ads or anything other than to make Muse great for you. you can connect Muse to Gmail, Google calendar, Outlook, Plaid, Opentable, Google",
+      "url": "https://x.com/alexandr_wang/status/2097454574202495340"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097430640618602581",
+      "created_at": "2026-09-08T22:29:11.000Z",
+      "edit_history_tweet_ids": [
+        "2097452214851944891"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1883648520",
+            "start": 0,
+            "username": "stablequan"
+          }
+        ]
+      },
+      "id": "2097452214851944891",
+      "in_reply_to_user_id": "1883648520",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1260,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097430640618602581",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@stablequan glad you like it!",
+      "url": "https://x.com/alexandr_wang/status/2097452214851944891"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097451926480945435",
+      "created_at": "2026-09-08T22:28:02.000Z",
+      "edit_history_tweet_ids": [
+        "2097451926480945435"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/altryne/status…",
+            "end": 114,
+            "expanded_url": "https://twitter.com/altryne/status/2097432284521791736",
+            "start": 91,
+            "url": "https://t.co/Ys6g1jgXHZ"
+          }
+        ]
+      },
+      "id": "2097451926480945435",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 34,
+        "impression_count": 352622,
+        "like_count": 344,
+        "quote_count": 12,
+        "reply_count": 59,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097432284521791736",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse is way hotter than the other personal agents (and also way faster, but mostly hotter) https://t.co/Ys6g1jgXHZ",
+      "url": "https://x.com/alexandr_wang/status/2097451926480945435"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097450837438345723",
+      "created_at": "2026-09-08T22:23:43.000Z",
+      "edit_history_tweet_ids": [
+        "2097450837438345723"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.",
+            "display_url": "muse.ai/join",
+            "end": 123,
+            "expanded_url": "https://muse.ai/join",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2125329428871835648/poICC8zF?format=jpg&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125329428871835648/poICC8zF?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 100,
+            "status": 200,
+            "title": "Muse — Your Personal AI Agent",
+            "unwound_url": "https://muse.ai/join",
+            "url": "https://t.co/oGzBjKtAyn"
+          }
+        ]
+      },
+      "id": "2097450837438345723",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 100,
+        "impression_count": 78963,
+        "like_count": 845,
+        "quote_count": 15,
+        "reply_count": 187,
+        "retweet_count": 32
+      },
+      "text": "your coolest friend is already on muse\n\nif you wanna try out muse on your phone, check it out here: https://t.co/oGzBjKtAyn",
+      "url": "https://x.com/alexandr_wang/status/2097450837438345723"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097402344061510004",
+      "created_at": "2026-09-08T22:22:41.000Z",
+      "edit_history_tweet_ids": [
+        "2097450577219527166"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1724991718422892544",
+            "start": 0,
+            "username": "wordgrammer"
+          }
+        ]
+      },
+      "id": "2097450577219527166",
+      "in_reply_to_user_id": "1724991718422892544",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 26462,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 13,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097448081994158212",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@wordgrammer glad you like it! pls give us any feedback",
+      "url": "https://x.com/alexandr_wang/status/2097450577219527166"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097448373095923947",
+      "created_at": "2026-09-08T22:13:55.000Z",
+      "edit_history_tweet_ids": [
+        "2097448373095923947"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/beffjezos/stat…",
+            "end": 65,
+            "expanded_url": "https://twitter.com/beffjezos/status/2097402123516604478",
+            "start": 42,
+            "url": "https://t.co/ssQXHLxkIg"
+          }
+        ]
+      },
+      "id": "2097448373095923947",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 61477,
+        "like_count": 318,
+        "quote_count": 1,
+        "reply_count": 35,
+        "retweet_count": 13
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097402123516604478",
+          "type": "quoted"
+        }
+      ],
+      "text": "your most e/acc friend is already on muse https://t.co/ssQXHLxkIg",
+      "url": "https://x.com/alexandr_wang/status/2097448373095923947"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097416805513875521",
+      "created_at": "2026-09-08T22:12:30.000Z",
+      "edit_history_tweet_ids": [
+        "2097448017381245348"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1395639606952042500",
+            "start": 0,
+            "username": "kashvi"
+          }
+        ]
+      },
+      "id": "2097448017381245348",
+      "in_reply_to_user_id": "1395639606952042500",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 13428,
+        "like_count": 155,
+        "quote_count": 2,
+        "reply_count": 12,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097416805513875521",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kashvi i mean we have been calling our models muse for like 6 months",
+      "url": "https://x.com/alexandr_wang/status/2097448017381245348"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097415784880337104",
+      "created_at": "2026-09-08T22:10:38.000Z",
+      "edit_history_tweet_ids": [
+        "2097447548588110137"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1462201664924909570",
+            "start": 0,
+            "username": "sonofalli"
+          }
+        ]
+      },
+      "id": "2097447548588110137",
+      "in_reply_to_user_id": "1462201664924909570",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 6213,
+        "like_count": 90,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097415784880337104",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@sonofalli hey this isn’t what it looks like",
+      "url": "https://x.com/alexandr_wang/status/2097447548588110137"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097444145187172620",
+      "created_at": "2026-09-08T21:57:07.000Z",
+      "edit_history_tweet_ids": [
+        "2097444145187172620"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "55565850",
+            "start": 3,
+            "username": "yenkel"
+          },
+          {
+            "end": 34,
+            "id": "2052434492263178240",
+            "start": 29,
+            "username": "Muse"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "research.meta.ai/blog/security-…",
+            "end": 87,
+            "expanded_url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+            "images": [
+              {
+                "height": 1359,
+                "url": "https://pbs.twimg.com/news_img/2123220105249308672/1v6QIfKq?format=png&name=orig",
+                "width": 2842
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2123220105249308672/1v6QIfKq?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 64,
+            "status": 200,
+            "title": "How We Built Safety Into Muse — Muse",
+            "unwound_url": "https://muse.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+            "url": "https://t.co/WLC8Ki8g0c"
+          }
+        ]
+      },
+      "id": "2097444145187172620",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2947,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 37
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097428458120835085",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @yenkel: great to see the @muse team took security seriously https://t.co/WLC8Ki8g0c\n\nthis is the bar for personal agents going forward…",
+      "url": "https://x.com/alexandr_wang/status/2097444145187172620"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097429653677842473",
+      "created_at": "2026-09-08T21:43:48.000Z",
+      "edit_history_tweet_ids": [
+        "2097440793997029616"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1606674363079708674",
+            "start": 0,
+            "username": "max_kelly"
+          }
+        ]
+      },
+      "id": "2097440793997029616",
+      "in_reply_to_user_id": "1606674363079708674",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1006,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097429653677842473",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@max_kelly Glad you like it ❤️",
+      "url": "https://x.com/alexandr_wang/status/2097440793997029616"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2097416836044505395",
+      "created_at": "2026-09-08T21:43:22.000Z",
+      "edit_history_tweet_ids": [
+        "2097440685712691362"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "2425151",
+            "start": 16,
+            "username": "Meta"
+          },
+          {
+            "end": 32,
+            "id": "793926",
+            "start": 22,
+            "username": "1Password"
+          },
+          {
+            "end": 38,
+            "id": "2052434492263178240",
+            "start": 33,
+            "username": "Muse"
+          }
+        ]
+      },
+      "id": "2097440685712691362",
+      "in_reply_to_user_id": "2047409569023000576",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1555,
+        "like_count": 11,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2097416836044505395",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@1PasswordBuild @Meta @1Password @Muse Excited to partner together!",
+      "url": "https://x.com/alexandr_wang/status/2097440685712691362"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097634313638711296",
+            "3_2097634313495805952"
+          ]
+        },
+        "author_id": "481812746",
+        "conversation_id": "2097634320529641826",
+        "created_at": "2026-09-09T10:32:48.000Z",
+        "edit_history_tweet_ids": [
+          "2097634320529641826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/su3eMY0ka5",
+              "end": 299,
+              "expanded_url": "https://x.com/mikepat711/status/2097634320529641826/photo/1",
+              "media_key": "3_2097634313638711296",
+              "start": 276,
+              "url": "https://t.co/su3eMY0ka5"
+            },
+            {
+              "display_url": "pic.x.com/su3eMY0ka5",
+              "end": 299,
+              "expanded_url": "https://x.com/mikepat711/status/2097634320529641826/photo/2",
+              "media_key": "3_2097634313495805952",
+              "start": 276,
+              "url": "https://t.co/su3eMY0ka5"
+            }
+          ]
+        },
+        "id": "2097634320529641826",
+        "lang": "en",
+        "note_tweet": {
+          "text": "I said the Meta Muse ideas tab seemed dumb, but the more I test Muse, the more I realize how personalized the ideas get. This tab is growing on me. Also, the “feed” tab has the ability to modify instructions to steer it better for whatever you want to use it for. Something I didn’t realize yesterday. \n\nAnother thing that came up: having the OpenTable connector is nice for reservations :) \n\nBut still, the biggest thing I come back to with this app is how the fast replies and polished UI make it so satisfying to interact with. That is the biggest strength. It makes me want to reach for it."
+        },
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7277,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "text": "I said the Meta Muse ideas tab seemed dumb, but the more I test Muse, the more I realize how personalized the ideas get. This tab is growing on me. Also, the “feed” tab has the ability to modify instructions to steer it better for whatever you want to use it for. Something I https://t.co/su3eMY0ka5"
+      },
+      {
+        "author_id": "338803033",
+        "conversation_id": "2097542029630738516",
+        "created_at": "2026-09-09T04:26:04.000Z",
+        "edit_history_tweet_ids": [
+          "2097542029630738516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Muse/status/20…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/Muse/status/2097399178376671666",
+              "start": 158,
+              "url": "https://t.co/M3JlJmDN9s"
+            }
+          ]
+        },
+        "id": "2097542029630738516",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5783,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097399178376671666",
+            "type": "quoted"
+          }
+        ],
+        "text": "first impression: super impressed. love the single chat. v fast. ui that makes sense.\n\nmight become the next ai tool i introduce to my parents since chatgpt. https://t.co/M3JlJmDN9s"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097499984702697472"
+          ]
+        },
+        "author_id": "1459618514151489540",
+        "conversation_id": "2097499989802967515",
+        "created_at": "2026-09-09T01:39:01.000Z",
+        "edit_history_tweet_ids": [
+          "2097499989802967515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNU0mSkk1m",
+              "end": 44,
+              "expanded_url": "https://x.com/mjboswell/status/2097499989802967515/photo/1",
+              "media_key": "3_2097499984702697472",
+              "start": 21,
+              "url": "https://t.co/HNU0mSkk1m"
+            }
+          ]
+        },
+        "id": "2097499989802967515",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4552,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "text": "What could go wrong? https://t.co/HNU0mSkk1m"
+      },
+      {
+        "author_id": "140825723",
+        "conversation_id": "2097482269820846350",
+        "created_at": "2026-09-09T00:28:37.000Z",
+        "edit_history_tweet_ids": [
+          "2097482269820846350"
+        ],
+        "id": "2097482269820846350",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 26881,
+          "like_count": 224,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "text": "There is a world in which Instinct or Muse could get hacked and the 2-factor tied to email or message is not going to save you. \n\nI am going to spend this weekend moving all my 2FAs to one-time code generator with Google Auth or something. Email is as good as toast"
+      },
+      {
+        "author_id": "676573",
+        "conversation_id": "2097529479639732697",
+        "created_at": "2026-09-09T03:36:12.000Z",
+        "edit_history_tweet_ids": [
+          "2097529479639732697"
+        ],
+        "id": "2097529479639732697",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 570,
+          "impression_count": 815851,
+          "like_count": 3738,
+          "quote_count": 50,
+          "reply_count": 271,
+          "retweet_count": 107
+        },
+        "text": "You should try Meta’s Muse app. It’s pretty amazing."
+      },
+      {
+        "author_id": "914061",
+        "conversation_id": "2097527621206921612",
+        "created_at": "2026-09-09T03:29:17.000Z",
+        "edit_history_tweet_ids": [
+          "2097527736877392305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2097527736877392305",
+        "in_reply_to_user_id": "615818451",
+        "lang": "qme",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12309,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097527621206921612",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang 😮"
+      },
+      {
+        "author_id": "1703098486428782592",
+        "conversation_id": "2097453730606325989",
+        "created_at": "2026-09-08T22:35:12.000Z",
+        "edit_history_tweet_ids": [
+          "2097453730606325989"
+        ],
+        "id": "2097453730606325989",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2508,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "text": "one of the best features of muse is not having to have insufferable chats with people on facebook marketplace anymore. i am never responding to “is this available?” questions ever.\n\ncurrently, im having my bot negotiate with multiple sellers to buy me a ps5 before gta6 is out"
+      },
+      {
+        "author_id": "1795223035085037569",
+        "conversation_id": "2097402344061510004",
+        "created_at": "2026-09-09T00:12:37.000Z",
+        "edit_history_tweet_ids": [
+          "2097478245537231034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2097478245537231034",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 438,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097402345936314855",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Curious, are Muse VMs sticky across sessions, or does each run start from a fresh environment?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097458216884109312"
+          ]
+        },
+        "author_id": "2146141",
+        "conversation_id": "2097458221598314846",
+        "created_at": "2026-09-08T22:53:03.000Z",
+        "edit_history_tweet_ids": [
+          "2097458221598314846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmkdPOptOi",
+              "end": 80,
+              "expanded_url": "https://x.com/dtrinh/status/2097458221598314846/photo/1",
+              "media_key": "3_2097458216884109312",
+              "start": 57,
+              "url": "https://t.co/NmkdPOptOi"
+            },
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2097454575540445624",
+              "start": 81,
+              "url": "https://t.co/6LqHAqOL67"
+            }
+          ]
+        },
+        "id": "2097458221598314846",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 27466,
+          "like_count": 309,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097454575540445624",
+            "type": "quoted"
+          }
+        ],
+        "text": "Pro-tip: ask your Muse to organize your IG saves for you https://t.co/NmkdPOptOi https://t.co/6LqHAqOL67"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097462260427816960",
+            "3_2097462277654106112"
+          ]
+        },
+        "author_id": "441679284",
+        "conversation_id": "2097466072601362741",
+        "created_at": "2026-09-08T23:24:15.000Z",
+        "edit_history_tweet_ids": [
+          "2097466072601362741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wu1gRzJ95G",
+              "end": 304,
+              "expanded_url": "https://x.com/thatguybg/status/2097466072601362741/photo/1",
+              "media_key": "3_2097462260427816960",
+              "start": 281,
+              "url": "https://t.co/wu1gRzJ95G"
+            },
+            {
+              "display_url": "pic.x.com/wu1gRzJ95G",
+              "end": 304,
+              "expanded_url": "https://x.com/thatguybg/status/2097466072601362741/photo/2",
+              "media_key": "3_2097462277654106112",
+              "start": 281,
+              "url": "https://t.co/wu1gRzJ95G"
+            }
+          ]
+        },
+        "id": "2097466072601362741",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Muse by Meta may be the best new product of the year\n\n- character design is brilliant. cute = trustworthy. customization is easy too.\n- clean, simple, beautiful. love the MD file visual design\n- REALLY FAST. and executes all the cutting edge agentic flows (esp with browsers) well\n- amazing design choices everywhere: thinking, permissions, etc out of the way on sidebar, ideas, side chats, feed & goals are lovely new concepts, pinned sites on left nav\n- great choice in initial use cases and connectors: health, 1pass, opentable, productivity, finances, etc. gets people right to a delightful moment quickly\n- native instagram and other meta product integrations are a real edge, no one else has it. can make a dent in the market with this alone\n- security emphasis at launch was brilliant given real concerns with growing agent capabilities\n\nbut\n- everyday people don't know what md means in soul.md etc\n- opening is a little stale and impersonal. default the agent's vibe to the user based on age/location - funnier, more playful without going overboard on how much it knows\n- the feed idea is brilliant but content feels irrelevant to me so far\n- not clear when to use a side chat vs the main one\n\nits early, but I think this is the best new consumer product release from a big company I've ever seen. \n\neverything from design to speed and performance are absolutely top notch. \n\nbut what really stands out is the calculated beta meta took introducing new patterns here that ultimately paid off.\n\nit feels like the team synthesized 2 years of experimentation in UX paradigms across the industry into a few extremely legible and intuitive features.\n\ngoals in particular is brilliant because it not only helps the agent figure out how to help the user but it also helps the user figure out themselves. ultimately the reason anyone uses ANY productivity tool is to become a better person of themselves. better is usually across a few areas that Muse nails explicitly.\n\nsocial media has been controversial in its impact on peoples lives. I know Meta has been pushing for \"time well spent\" for a long time. \n\nthis may finally be the app that truly changes the lives of billions of people around the world.\n\ncongrats team!"
+        },
+        "public_metrics": {
+          "bookmark_count": 341,
+          "impression_count": 186442,
+          "like_count": 557,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 41
+        },
+        "text": "Muse by Meta may be the best new product of the year\n\n- character design is brilliant. cute = trustworthy. customization is easy too.\n- clean, simple, beautiful. love the MD file visual design\n- REALLY FAST. and executes all the cutting edge agentic flows (esp with browsers) well https://t.co/wu1gRzJ95G"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097441223648886784"
+          ]
+        },
+        "author_id": "1458759487",
+        "conversation_id": "2097441279927861722",
+        "created_at": "2026-09-08T21:45:44.000Z",
+        "edit_history_tweet_ids": [
+          "2097441279927861722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Muse beats Instinct 5–1. Across 8 tested dimensions, 2 ties.",
+              "display_url": "assistantbenchmark.com/compare/muse-v…",
+              "end": 161,
+              "expanded_url": "https://assistantbenchmark.com/compare/muse-vs-instinct",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102885581248507904/mjx-5XSG?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102885581248507904/mjx-5XSG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "Muse vs Instinct | Assistant Benchmark",
+              "unwound_url": "https://assistantbenchmark.com/compare/muse-vs-instinct",
+              "url": "https://t.co/XNaUGUddeh"
+            },
+            {
+              "display_url": "pic.x.com/1szFa7rITr",
+              "end": 185,
+              "expanded_url": "https://x.com/DavidPawlan/status/2097441279927861722/photo/1",
+              "media_key": "3_2097441223648886784",
+              "start": 162,
+              "url": "https://t.co/1szFa7rITr"
+            },
+            {
+              "display_url": "x.com/DavidPawlan/st…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/DavidPawlan/status/2097414009016185268",
+              "start": 186,
+              "url": "https://t.co/fVW9X9mvj6"
+            }
+          ]
+        },
+        "id": "2097441279927861722",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 135834,
+          "like_count": 230,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097414009016185268",
+            "type": "quoted"
+          }
+        ],
+        "text": "Muse is insane, it beats Instinct 4–1\n\nThey're quite similar in performance but Muse gets the edge on its speed\n\nInstinct wins on travel\n\nhttps://t.co/XNaUGUddeh https://t.co/1szFa7rITr https://t.co/fVW9X9mvj6"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "2097454574202495340",
+        "created_at": "2026-09-08T22:38:34.000Z",
+        "edit_history_tweet_ids": [
+          "2097454575540445624"
+        ],
+        "id": "2097454575540445624",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 56693,
+          "like_count": 203,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097454574202495340",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ there are unique connectors that are only available to Muse like Instagram (incl dm’s), Threads, Facebook (incl marketplace), and Messenger."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "2097454574202495340",
+        "created_at": "2026-09-08T22:38:33.000Z",
+        "edit_history_tweet_ids": [
+          "2097454574202495340"
+        ],
+        "id": "2097454574202495340",
+        "lang": "en",
+        "note_tweet": {
+          "text": "1/ we’ve built a lot of connectors to make it easier to integrate Muse into your life. Muse runs in a secure VM and we don’t use your data for ads or anything other than to make Muse great for you. you can connect Muse to Gmail, Google calendar, Outlook, Plaid, Opentable, Google Docs, Spotify, Function Health, Withings, Tailscale, Peloton, and more."
+        },
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 229460,
+          "like_count": 1672,
+          "quote_count": 38,
+          "reply_count": 167,
+          "retweet_count": 54
+        },
+        "text": "1/ we’ve built a lot of connectors to make it easier to integrate Muse into your life. Muse runs in a secure VM and we don’t use your data for ads or anything other than to make Muse great for you. you can connect Muse to Gmail, Google calendar, Outlook, Plaid, Opentable, Google"
+      },
+      {
+        "author_id": "1883648520",
+        "conversation_id": "2097430640618602581",
+        "created_at": "2026-09-08T21:03:27.000Z",
+        "edit_history_tweet_ids": [
+          "2097430640618602581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.",
+              "display_url": "muse.ai",
+              "end": 26,
+              "expanded_url": "https://muse.ai",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2125414826902216704/H8CjnwC2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2125414826902216704/H8CjnwC2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "Muse — Your Personal AI Agent",
+              "unwound_url": "https://muse.ai",
+              "url": "https://t.co/oghabFK3BY"
+            }
+          ]
+        },
+        "id": "2097430640618602581",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3910,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "text": "Yo https://t.co/oghabFK3BY is peak, Wang actually cooks. I tried it for 30min and it is actually amazing. A very well built product."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097432252292775936"
+          ]
+        },
+        "author_id": "5721582",
+        "conversation_id": "2097432284521791736",
+        "created_at": "2026-09-08T21:09:59.000Z",
+        "edit_history_tweet_ids": [
+          "2097432284521791736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2052434492263178240",
+              "start": 16,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqyqYSqXZp",
+              "end": 65,
+              "expanded_url": "https://x.com/altryne/status/2097432284521791736/photo/1",
+              "media_key": "3_2097432252292775936",
+              "start": 42,
+              "url": "https://t.co/xqyqYSqXZp"
+            }
+          ]
+        },
+        "id": "2097432284521791736",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 52214,
+          "like_count": 26,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "text": "My timeline rn (@muse made this meme btw) https://t.co/xqyqYSqXZp"
+      },
+      {
+        "author_id": "1724991718422892544",
+        "conversation_id": "2097402344061510004",
+        "created_at": "2026-09-08T22:12:46.000Z",
+        "edit_history_tweet_ids": [
+          "2097448081994158212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2097448081994158212",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 27482,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097402344061510004",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang It’s pretty good"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2097400859529547776"
+          ],
+          "media_source_tweet_id": [
+            "2097401070419091913"
+          ]
+        },
+        "author_id": "1556550048862928898",
+        "conversation_id": "2097402123516604478",
+        "created_at": "2026-09-08T19:10:08.000Z",
+        "edit_history_tweet_ids": [
+          "2097402123516604478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 245,
+              "id": "615818451",
+              "start": 231,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wtw4ME1D18",
+              "end": 294,
+              "expanded_url": "https://x.com/wallstengine/status/2097401070419091913/video/1",
+              "media_key": "13_2097400859529547776",
+              "start": 271,
+              "url": "https://t.co/Wtw4ME1D18"
+            }
+          ]
+        },
+        "id": "2097402123516604478",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 245,
+                "id": "615818451",
+                "start": 231,
+                "username": "alexandr_wang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/wallstengine/s…",
+                "end": 294,
+                "expanded_url": "https://x.com/wallstengine/status/2097401070419091913/video/1",
+                "start": 271,
+                "url": "https://t.co/Wtw4ME1D18"
+              }
+            ]
+          },
+          "text": "Got to try this product early, it's very solid and quite feature-rich.\n\nAs model intelligence is no longer the bottleneck for utility, context on your life is, and personal agents running on secure compute is the way.\n\nCongrats to @alexandr_wang & team on shipping Muse! https://t.co/Wtw4ME1D18"
+        },
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 95273,
+          "like_count": 568,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 29
+        },
+        "text": "Got to try this product early, it's very solid and quite feature-rich.\n\nAs model intelligence is no longer the bottleneck for utility, context on your life is, and personal agents running on secure compute is the way.\n\nCongrats to @alexandr_wang &amp; team on shipping Muse!"
+      },
+      {
+        "author_id": "1395639606952042500",
+        "conversation_id": "2097416805513875521",
+        "created_at": "2026-09-08T20:08:29.000Z",
+        "edit_history_tweet_ids": [
+          "2097416805513875521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2097402344061510004",
+              "start": 55,
+              "url": "https://t.co/8IfcQG434E"
+            }
+          ]
+        },
+        "id": "2097416805513875521",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 18345,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097402344061510004",
+            "type": "quoted"
+          }
+        ],
+        "text": "i’m obsessed with whoever came up with the name “Muse” https://t.co/8IfcQG434E"
+      },
+      {
+        "author_id": "1462201664924909570",
+        "conversation_id": "2097415784880337104",
+        "created_at": "2026-09-08T20:04:25.000Z",
+        "edit_history_tweet_ids": [
+          "2097415784880337104"
+        ],
+        "id": "2097415784880337104",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16186,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "text": "you mean to tell me my man is now talking to his “muse” ???"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097428450139090944"
+          ]
+        },
+        "author_id": "55565850",
+        "conversation_id": "2097428458120835085",
+        "created_at": "2026-09-08T20:54:47.000Z",
+        "edit_history_tweet_ids": [
+          "2097428458120835085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2052434492263178240",
+              "start": 17,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "research.meta.ai/blog/security-…",
+              "end": 75,
+              "expanded_url": "https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+              "images": [
+                {
+                  "height": 1359,
+                  "url": "https://pbs.twimg.com/news_img/2123220105249308672/1v6QIfKq?format=png&name=orig",
+                  "width": 2842
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2123220105249308672/1v6QIfKq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "How We Built Safety Into Muse — Muse",
+              "unwound_url": "https://muse.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse",
+              "url": "https://t.co/WLC8Ki8g0c"
+            },
+            {
+              "display_url": "pic.x.com/XWiSbC1hOH",
+              "end": 154,
+              "expanded_url": "https://x.com/yenkel/status/2097428458120835085/photo/1",
+              "media_key": "3_2097428450139090944",
+              "start": 131,
+              "url": "https://t.co/XWiSbC1hOH"
+            },
+            {
+              "display_url": "x.com/Muse/status/20…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/Muse/status/2097399178376671666",
+              "start": 155,
+              "url": "https://t.co/kj7Eip09W6"
+            }
+          ]
+        },
+        "id": "2097428458120835085",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 68944,
+          "like_count": 500,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097399178376671666",
+            "type": "quoted"
+          }
+        ],
+        "text": "great to see the @muse team took security seriously https://t.co/WLC8Ki8g0c\n\nthis is the bar for personal agents going forward imo https://t.co/XWiSbC1hOH https://t.co/kj7Eip09W6"
+      },
+      {
+        "author_id": "1606674363079708674",
+        "conversation_id": "2097429653677842473",
+        "created_at": "2026-09-08T20:59:32.000Z",
+        "edit_history_tweet_ids": [
+          "2097429653677842473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2097402344061510004",
+              "start": 112,
+              "url": "https://t.co/6c4yh3tSmf"
+            }
+          ]
+        },
+        "id": "2097429653677842473",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2059,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097402344061510004",
+            "type": "quoted"
+          }
+        ],
+        "text": "Muse is such a good name for a consumer agent. \n\n“My muse did x”\n“My muse did y”\n\nCatchy, simple and intuitive. https://t.co/6c4yh3tSmf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2097416814804578304"
+          ]
+        },
+        "author_id": "2047409569023000576",
+        "conversation_id": "2097416836044505395",
+        "created_at": "2026-09-08T20:08:36.000Z",
+        "edit_history_tweet_ids": [
+          "2097416836044505395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2425151",
+              "start": 30,
+              "username": "Meta"
+            },
+            {
+              "end": 55,
+              "id": "793926",
+              "start": 45,
+              "username": "1Password"
+            },
+            {
+              "end": 64,
+              "id": "2052434492263178240",
+              "start": 59,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhT1hGWSH2",
+              "end": 300,
+              "expanded_url": "https://x.com/1PasswordBuild/status/2097416836044505395/photo/1",
+              "media_key": "3_2097416814804578304",
+              "start": 277,
+              "url": "https://t.co/IhT1hGWSH2"
+            }
+          ]
+        },
+        "id": "2097416836044505395",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "2425151",
+                "start": 30,
+                "username": "Meta"
+              },
+              {
+                "end": 55,
+                "id": "793926",
+                "start": 45,
+                "username": "1Password"
+              },
+              {
+                "end": 64,
+                "id": "2052434492263178240",
+                "start": 59,
+                "username": "Muse"
+              }
+            ]
+          },
+          "text": "We're excited to partner with @Meta to bring @1Password to @Muse, a new personal AI agent that helps you get things done across every part of your life. Muse is built with a secure credential store, and soon with 1Password, that extends to the password vault you already have. You’re in control of every request to access these credentials.\n\nMore coming soon!"
+        },
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 8578,
+          "like_count": 79,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "text": "We're excited to partner with @Meta to bring @1Password to @Muse, a new personal AI agent that helps you get things done across every part of your life. Muse is built with a secure credential store, and soon with 1Password, that extends to the password vault you already have. https://t.co/IhT1hGWSH2"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "481812746",
+        "name": "Mike P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006022578251419649/krgWrQpt_normal.jpg",
+        "username": "mikepat711",
+        "verified": false
+      },
+      {
+        "id": "338803033",
+        "name": "dwight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120608925019996160/VQHeAl5h_normal.jpg",
+        "username": "dorculas",
+        "verified": false
+      },
+      {
+        "id": "1459618514151489540",
+        "name": "Michael Boswell",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834246981633359872/Qdv0FuOR_normal.jpg",
+        "username": "mjboswell",
+        "verified": false
+      },
+      {
+        "id": "140825723",
+        "name": "Apoorva Govind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100352342768136192/GnteFW4k_normal.jpg",
+        "username": "Appyg99",
+        "verified": false
+      },
+      {
+        "id": "914061",
+        "name": "Aaron Levie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+        "username": "levie",
+        "verified": false
+      },
+      {
+        "id": "1703098486428782592",
+        "name": "Rabib Alam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060901665512005632/7C_uFOhn_normal.jpg",
+        "username": "rabib_ai",
+        "verified": false
+      },
+      {
+        "id": "1795223035085037569",
+        "name": "yom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2118814324806582272/itDGIUk2_normal.jpg",
+        "username": "Yomwold",
+        "verified": false
+      },
+      {
+        "id": "2146141",
+        "name": "Danny Trinh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295118201018253312/vpaiadqe_normal.jpg",
+        "username": "dtrinh",
+        "verified": false
+      },
+      {
+        "id": "1883648520",
+        "name": "Quan Nguyen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2122469340490424320/KaBC4CwO_normal.jpg",
+        "username": "stablequan",
+        "verified": false
+      },
+      {
+        "id": "1724991718422892544",
+        "name": "wordgrammer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087689937915195393/Te8LeFeR_normal.jpg",
+        "username": "wordgrammer",
+        "verified": false
+      },
+      {
+        "id": "1395639606952042500",
+        "name": "kashvi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062579244933206016/2_DaPh6W_normal.jpg",
+        "username": "kashvi",
+        "verified": false
+      },
+      {
+        "id": "1462201664924909570",
+        "name": "alli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961561307288932352/RN5GbDyo_normal.jpg",
+        "username": "sonofalli",
+        "verified": false
+      },
+      {
+        "id": "1606674363079708674",
+        "name": "Max Kelly",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027426623004565504/ZH9FPPSn_normal.jpg",
+        "username": "max_kelly",
+        "verified": false
+      },
+      {
+        "id": "2047409569023000576",
+        "name": "1Password Developers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2121015206864408576/J5dE9Epu_normal.jpg",
+        "username": "1PasswordDev",
+        "verified": true
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2097687981046022624",
+    "next_token": "b26v89c19zqg8o3juezidpd7zsybuy5s4cwl4zperdy7x",
+    "oldest_id": "2097440685712691362",
+    "result_count": 25
+  },
+  "errors": []
+}

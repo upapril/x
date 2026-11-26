@@ -1,0 +1,95 @@
+{
+  "collected_at_utc": "2026-11-26T00:41:05Z",
+  "collected_at_shanghai": "2026-11-26T08:41:05+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AMRF0DSRA6BKR3CC3B1WXY.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2024-06-01T00:00:00Z",
+    "end_time": "2024-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2024-06"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "conversation_id": "1796926510236131493",
+      "created_at": "2024-06-01T15:27:19.000Z",
+      "edit_history_tweet_ids": [
+        "1796926510236131493"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1435990322702520320",
+            "start": 3,
+            "username": "silverfang88"
+          }
+        ]
+      },
+      "id": "1796926510236131493",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 911
+      },
+      "referenced_tweets": [
+        {
+          "id": "1796583405431198104",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @silverfang88: 经过一个月的调查，我给你们整理出了长沙一些不良会所，希望你们不要去游逛，一起抵制，健康成长！\n1、长沙唯一有俄罗斯技师、超质量正宗莞式桑拿场所：长沙市区芙蓉区远大一路华瑞金都大酒店（重新换血换主开业）\n电话：132-1737-1111 阿奇…",
+      "url": "https://x.com/iiiinvest/status/1796926510236131493"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1435990322702520320",
+        "conversation_id": "1796583405431198104",
+        "created_at": "2024-05-31T16:43:57.000Z",
+        "edit_history_tweet_ids": [
+          "1796583405431198104"
+        ],
+        "id": "1796583405431198104",
+        "lang": "zh",
+        "note_tweet": {
+          "text": "经过一个月的调查，我给你们整理出了长沙一些不良会所，希望你们不要去游逛，一起抵制，健康成长！\n1、长沙唯一有俄罗斯技师、超质量正宗莞式桑拿场所：长沙市区芙蓉区远大一路华瑞金都大酒店（重新换血换主开业）\n电话：132-1737-1111 阿奇\n价格：120分钟、698元、798元、898元、998元、1288元、1388元\n2、湘江世纪城 长沙老莞式桑拿场所 黄金海岸 三个日本妞 十八套技术房\n电话：135-7471-8988  方仔\n价格：120分钟、698元、798元、898元、1288元\n3、河西 观沙岭 汉生玉养生会所莞式桑拿\n电话：13873728000  陈经理\n价格：120分钟、698元、798元、898元\n4、五一广场 大成酒店\n电话:18073705555  经理：平少爷\n价格：600 700 800\n5、八一路 高原红\n电话：187-1171-3333  阿勇\n价格：120分钟、698元、798元、898元\n6、火车站天友有点坑B，把别的场650的当898搞，高一点的全是1380元，一分钱价没得少。\n星沙两家莞式桑拿场所，刚开业不久：\n1、开元大酒店：价格698.798.898.车模1288.服务时长120分钟（无限次）两位或两位以上可互换.4p，欢迎提前预约，预定优惠\n电话：151-1617-6269  135-0737-8168  经理：阿定\n2、 天成国际酒店 港式！日本服务，莞式一条龙服务 18907378555  小田 地址:星沙版仓和三一路交叉口，价格698.798.898.车模1288.服务时长120分钟不限次\n抵制淫秽，从我做起！\n请大家爱心接力告诉身边的人千万不要去这些酒店、会所"
+        },
+        "public_metrics": {
+          "bookmark_count": 7502,
+          "impression_count": 3500739,
+          "like_count": 9727,
+          "quote_count": 31,
+          "reply_count": 2844,
+          "retweet_count": 911
+        },
+        "text": "经过一个月的调查，我给你们整理出了长沙一些不良会所，希望你们不要去游逛，一起抵制，健康成长！\n1、长沙唯一有俄罗斯技师、超质量正宗莞式桑拿场所：长沙市区芙蓉区远大一路华瑞金都大酒店（重新换血换主开业）\n电话：132-1737-1111 阿奇"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070418253353250816/A7ob_mkY_normal.jpg",
+        "username": "iiiinvest",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1796926510236131493",
+    "next_token": "b26v89c19zqg8o3fr62eeoekukud3v6wutq12q2pfberh",
+    "oldest_id": "1796926510236131493",
+    "result_count": 1
+  },
+  "errors": []
+}

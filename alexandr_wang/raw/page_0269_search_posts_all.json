@@ -1,0 +1,1665 @@
+{
+  "collected_at_utc": "2026-11-26T01:16:13Z",
+  "collected_at_shanghai": "2026-11-26T09:16:13+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APRS17VP181J1C4309A9ZB.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-09-01T00:00:00Z",
+    "end_time": "2024-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2024-09"
+  },
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1839048193461342208"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1839048978006159633",
+      "created_at": "2024-09-25T21:06:58.000Z",
+      "edit_history_tweet_ids": [
+        "1839048978006159633"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 31,
+            "id": "752712449321644032",
+            "start": 22,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/tkKUVQDBCT",
+            "end": 297,
+            "expanded_url": "https://x.com/alexandr_wang/status/1839048978006159633/photo/1",
+            "media_key": "3_1839048193461342208",
+            "start": 274,
+            "url": "https://t.co/tkKUVQDBCT"
+          }
+        ]
+      },
+      "id": "1839048978006159633",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 39192,
+        "like_count": 177,
+        "quote_count": 3,
+        "reply_count": 11,
+        "retweet_count": 23
+      },
+      "text": "Llama 3.2 is here! 🚀\n\n@scale_AI partnered closely to push the limits:\n\n📊 SEAL Evals: Llama 3.2 90B shows big gains—\n   +3 in IF\n   +5 in Coding\nIt’s even beating 405B in Spanish!\n🤝 Enterprise partnership for custom Llama models\n🔧 Data Foundry partnership for RLHF &amp; SFT https://t.co/tkKUVQDBCT",
+      "url": "https://x.com/alexandr_wang/status/1839048978006159633"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838706686837821941",
+      "created_at": "2024-09-24T22:26:50.000Z",
+      "edit_history_tweet_ids": [
+        "1838706686837821941"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/a16z/status/18…",
+            "end": 248,
+            "expanded_url": "https://x.com/a16z/status/1838594324956864644/video/1",
+            "start": 225,
+            "url": "https://t.co/emCFjyJgp6"
+          }
+        ]
+      },
+      "id": "1838706686837821941",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 332,
+        "impression_count": 124708,
+        "like_count": 731,
+        "quote_count": 18,
+        "reply_count": 38,
+        "retweet_count": 66
+      },
+      "text": "We are entering the 3rd phase of LLM Development.\n\n1st phase was early tinkering, Transformer to GPT-3\n2nd phase was scaling\n3rd phase is an innovation phase: what breakthroughs beyond o1 get us to a new proto-AGI paradigm\n\n https://t.co/emCFjyJgp6",
+      "url": "https://x.com/alexandr_wang/status/1838706686837821941"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838637233169211838",
+      "created_at": "2024-09-24T17:50:52.000Z",
+      "edit_history_tweet_ids": [
+        "1838637236495224913"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+            "display_url": "scale.com/leaderboard",
+            "end": 183,
+            "expanded_url": "http://scale.com/leaderboard",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 160,
+            "status": 200,
+            "title": "AI Model Leaderboards & Benchmarks",
+            "unwound_url": "https://labs.scale.com/leaderboard",
+            "url": "https://t.co/10nk53b4hj"
+          }
+        ]
+      },
+      "id": "1838637236495224913",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 12348,
+        "like_count": 35,
+        "quote_count": 2,
+        "reply_count": 4,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838637233169211838",
+          "type": "replied_to"
+        }
+      ],
+      "text": "SEAL evaluations are expert, private assessments that update periodically. Stay tuned as the competition heats up and the leaderboard evolves!\n Full breakdown: https://t.co/10nk53b4hj",
+      "url": "https://x.com/alexandr_wang/status/1838637236495224913"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1838637227888513024"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1838637233169211838",
+      "created_at": "2024-09-24T17:50:51.000Z",
+      "edit_history_tweet_ids": [
+        "1838637233169211838"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/z89A6B9Mlq",
+            "end": 266,
+            "expanded_url": "https://x.com/alexandr_wang/status/1838637233169211838/photo/1",
+            "media_key": "3_1838637227888513024",
+            "start": 243,
+            "url": "https://t.co/z89A6B9Mlq"
+          }
+        ]
+      },
+      "id": "1838637233169211838",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 71,
+        "impression_count": 113673,
+        "like_count": 335,
+        "quote_count": 8,
+        "reply_count": 12,
+        "retweet_count": 38
+      },
+      "text": "🚀 SEAL Leaderboard Update 🚀\n\nOpenAI’s o1 is dominating SEAL rankings!\n\n🥇 o1-preview is dominating across key categories:\n- #1 in Agentic Tool Use (Enterprise)\n- #1 in Instruction Following\n- #1 in Spanish\n\n👑 o1-mini leads the charge in Coding https://t.co/z89A6B9Mlq",
+      "url": "https://x.com/alexandr_wang/status/1838637233169211838"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838337708621730037",
+      "created_at": "2024-09-23T22:00:39.000Z",
+      "edit_history_tweet_ids": [
+        "1838337708621730037"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1633631874",
+            "start": 3,
+            "username": "amitkjolly"
+          }
+        ]
+      },
+      "id": "1838337708621730037",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838326029925888151",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @amitkjolly: $1B ARR far earlier than expected this year and grew 4x year-over-year 👀",
+      "url": "https://x.com/alexandr_wang/status/1838337708621730037"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838324542537859504",
+      "created_at": "2024-09-23T21:08:20.000Z",
+      "edit_history_tweet_ids": [
+        "1838324542537859504"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "11768582",
+            "start": 3,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "1838324542537859504",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838322942503166259",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @garrytan: $1B ARR and 4x YoY 👀",
+      "url": "https://x.com/alexandr_wang/status/1838324542537859504"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838274604605018441",
+      "created_at": "2024-09-23T18:32:16.000Z",
+      "edit_history_tweet_ids": [
+        "1838285268291588145"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "15281972",
+            "start": 0,
+            "username": "ericvishria"
+          }
+        ]
+      },
+      "id": "1838285268291588145",
+      "in_reply_to_user_id": "15281972",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1124,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838274604605018441",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ericvishria jason is awesome!",
+      "url": "https://x.com/alexandr_wang/status/1838285268291588145"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838272072365343157",
+      "created_at": "2024-09-23T17:39:51.000Z",
+      "edit_history_tweet_ids": [
+        "1838272075989160389"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/blog/why-i-joi…",
+            "end": 263,
+            "expanded_url": "https://scale.com/blog/why-i-joined-scale-jason-droege",
+            "start": 240,
+            "status": 200,
+            "unwound_url": "https://scale.com/blog/why-i-joined-scale-jason-droege",
+            "url": "https://t.co/4hyLCcI8Un"
+          }
+        ]
+      },
+      "id": "1838272075989160389",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 22805,
+        "like_count": 55,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838272074936389840",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Adding Jason to the team will further accelerate the work of our data foundry, and in turn accelerate the speed of AI advancement. The industry is only getting started, and so are we.\n\nLearn more about Jason’s perspective on joining Scale:\nhttps://t.co/4hyLCcI8Un",
+      "url": "https://x.com/alexandr_wang/status/1838272075989160389"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838272072365343157",
+      "created_at": "2024-09-23T17:39:50.000Z",
+      "edit_history_tweet_ids": [
+        "1838272074936389840"
+      ],
+      "id": "1838272074936389840",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 28304,
+        "like_count": 53,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838272073652932642",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Now that the “data wall” is the bottleneck for AI advancement, we plan to scale that wall with a combination of data abundance, frontier data for frontier models, and the most advanced evals for measuring model improvement.",
+      "url": "https://x.com/alexandr_wang/status/1838272074936389840"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838272072365343157",
+      "created_at": "2024-09-23T17:39:50.000Z",
+      "edit_history_tweet_ids": [
+        "1838272073652932642"
+      ],
+      "id": "1838272073652932642",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "For years now, we have iterated and improved on a new business model combining the best capabilities of software and human talent, to provide abundant and high quality data for AI.\n\nThe team’s hard work has been paying off; we hit nearly $1B ARR far earlier than expected this year and grew 4x year-over-year.\n\nIt’s a true testament to the power of remarkable people equipped with high ownership and high conviction."
+      },
+      "public_metrics": {
+        "bookmark_count": 93,
+        "impression_count": 293662,
+        "like_count": 312,
+        "quote_count": 13,
+        "reply_count": 14,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "1838272072365343157",
+          "type": "replied_to"
+        }
+      ],
+      "text": "For years now, we have iterated and improved on a new business model combining the best capabilities of software and human talent, to provide abundant and high quality data for AI.\n\nThe team’s hard work has been paying off; we hit nearly $1B ARR far earlier than expected this",
+      "url": "https://x.com/alexandr_wang/status/1838272073652932642"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838272072365343157",
+      "created_at": "2024-09-23T17:39:50.000Z",
+      "edit_history_tweet_ids": [
+        "1838272072365343157"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 32,
+            "id": "47123",
+            "start": 24,
+            "username": "jdroege"
+          }
+        ]
+      },
+      "id": "1838272072365343157",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 77,
+        "impression_count": 106001,
+        "like_count": 373,
+        "quote_count": 4,
+        "reply_count": 16,
+        "retweet_count": 12
+      },
+      "text": "I’m thrilled to welcome @jdroege as Scale’s Chief Strategy Officer.\n\nWe are obsessed with talent density at Scale—every hire should make the team better.\n\nJason is a bar raiser. He helped launch Uber Eats, AXON, and many of his own startups.\n\nFor more context on where Scale is🧵",
+      "url": "https://x.com/alexandr_wang/status/1838272072365343157"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1838096797727854951",
+      "created_at": "2024-09-23T06:03:21.000Z",
+      "edit_history_tweet_ids": [
+        "1838096797727854951"
+      ],
+      "id": "1838096797727854951",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 74,
+        "impression_count": 95687,
+        "like_count": 639,
+        "quote_count": 8,
+        "reply_count": 41,
+        "retweet_count": 43
+      },
+      "text": "Potentially last US presidential election before AGI\n\nlast summer Olympics before AGI too! (but that is a bit less interesting)",
+      "url": "https://x.com/alexandr_wang/status/1838096797727854951"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1836853619343380675",
+      "created_at": "2024-09-19T19:44:49.000Z",
+      "edit_history_tweet_ids": [
+        "1836853974554792237"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "2451977035",
+            "start": 31,
+            "username": "PranavRaja1999"
+          },
+          {
+            "end": 56,
+            "id": "1816546592280969218",
+            "start": 47,
+            "username": "vaskar_n"
+          },
+          {
+            "end": 70,
+            "id": "1833923694424633344",
+            "start": 57,
+            "username": "claireyoooon"
+          },
+          {
+            "end": 82,
+            "id": "2726658913",
+            "start": 71,
+            "username": "summeryue0"
+          },
+          {
+            "end": 95,
+            "id": "1346979199400071168",
+            "start": 83,
+            "username": "SeanHendryx"
+          }
+        ]
+      },
+      "id": "1836853974554792237",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 9444,
+        "like_count": 28,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1836853626146542027",
+          "type": "replied_to"
+        }
+      ],
+      "text": "This work was made possible by @PranavRaja1999 @vaskar_n @claireyoooon @summeryue0 @SeanHendryx with critical feedback from @JaneDwivedi 🙏",
+      "url": "https://x.com/alexandr_wang/status/1836853974554792237"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1836853619343380675",
+      "created_at": "2024-09-19T19:43:26.000Z",
+      "edit_history_tweet_ids": [
+        "1836853626146542027"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+            "display_url": "scale.com/leaderboard",
+            "end": 146,
+            "expanded_url": "https://scale.com/leaderboard",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 123,
+            "status": 200,
+            "title": "AI Model Leaderboards & Benchmarks",
+            "unwound_url": "https://labs.scale.com/leaderboard",
+            "url": "https://t.co/pVIgk6rIcL"
+          }
+        ]
+      },
+      "id": "1836853626146542027",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 10125,
+        "like_count": 27,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1836853624376545485",
+          "type": "replied_to"
+        }
+      ],
+      "text": "This is the first of many Agent Leaderboards we plan to publish. Please follow along and see our other SEAL Leaderboards:\n\nhttps://t.co/pVIgk6rIcL",
+      "url": "https://x.com/alexandr_wang/status/1836853626146542027"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1836853157080748035"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1836853619343380675",
+      "created_at": "2024-09-19T19:43:25.000Z",
+      "edit_history_tweet_ids": [
+        "1836853624376545485"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Vy5DFiFe1z",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1836853624376545485/photo/1",
+            "media_key": "3_1836853157080748035",
+            "start": 281,
+            "url": "https://t.co/Vy5DFiFe1z"
+          }
+        ]
+      },
+      "id": "1836853624376545485",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "In our error analysis, we found that most models continued to struggle with:\n\n- Final Answer Missing Information\n- Hallucinated Information\n\nThis indicates a widespread issue with precise instruction following, especially in prompts requiring detailed information and intermediary outputs."
+      },
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 3519,
+        "like_count": 17,
+        "quote_count": 2,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1836853621901906005",
+          "type": "replied_to"
+        }
+      ],
+      "text": "In our error analysis, we found that most models continued to struggle with:\n\n- Final Answer Missing Information\n- Hallucinated Information\n\nThis indicates a widespread issue with precise instruction following, especially in prompts requiring detailed information and intermediary https://t.co/Vy5DFiFe1z",
+      "url": "https://x.com/alexandr_wang/status/1836853624376545485"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1836852506342871041"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1836853619343380675",
+      "created_at": "2024-09-19T19:43:25.000Z",
+      "edit_history_tweet_ids": [
+        "1836853621901906005"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/v6LqMSqn0y",
+            "end": 303,
+            "expanded_url": "https://x.com/alexandr_wang/status/1836853621901906005/photo/1",
+            "media_key": "3_1836852506342871041",
+            "start": 280,
+            "url": "https://t.co/v6LqMSqn0y"
+          }
+        ]
+      },
+      "id": "1836853621901906005",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "This is a new benchmark (ToolComp) that encompasses a broader range of Tool Use scenarios than prior benchmarks.\n\nUniquely, we are further evaluating the models utilizing process supervision labels.\n\nWe also split the benchmark into Enterprise and Chat use cases to differentiate performance."
+      },
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 2922,
+        "like_count": 22,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1836853619343380675",
+          "type": "replied_to"
+        }
+      ],
+      "text": "This is a new benchmark (ToolComp) that encompasses a broader range of Tool Use scenarios than prior benchmarks.\n\nUniquely, we are further evaluating the models utilizing process supervision labels.\n\nWe also split the benchmark into Enterprise and Chat use cases to differentiate https://t.co/v6LqMSqn0y",
+      "url": "https://x.com/alexandr_wang/status/1836853621901906005"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1836828811301900289"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1836853619343380675",
+      "created_at": "2024-09-19T19:43:24.000Z",
+      "edit_history_tweet_ids": [
+        "1836853619343380675"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/nRNotvY1Cu",
+            "end": 295,
+            "expanded_url": "https://x.com/alexandr_wang/status/1836853619343380675/photo/1",
+            "media_key": "3_1836828811301900289",
+            "start": 272,
+            "url": "https://t.co/nRNotvY1Cu"
+          }
+        ]
+      },
+      "id": "1836853619343380675",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 86,
+        "impression_count": 41038,
+        "like_count": 208,
+        "quote_count": 3,
+        "reply_count": 5,
+        "retweet_count": 28
+      },
+      "text": "SEAL Leaderboard Update 🥇\n\nToday, we're launching 2 new Agent leaderboards:\n- Agentic Tool Use (Chat)\n- Agentic Tool Use Enterprise)\n\nWe are also adding OpenAI o1 to the Agentic Tool Use leaderboards, ranking at:\n\n#1 on Enterprise Tool Use\n#3 on Chat Tool Use\n\n🧵(read on) https://t.co/nRNotvY1Cu",
+      "url": "https://x.com/alexandr_wang/status/1836853619343380675"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1835738937719140440",
+      "created_at": "2024-09-16T18:43:06.000Z",
+      "edit_history_tweet_ids": [
+        "1835751281618747403"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 23,
+            "id": "2580902174",
+            "start": 14,
+            "username": "JLDastin"
+          },
+          {
+            "end": 37,
+            "id": "1652541",
+            "start": 29,
+            "username": "Reuters"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "reuters.com/technology/art…",
+            "end": 81,
+            "expanded_url": "https://www.reuters.com/technology/artificial-intelligence/ai-experts-ready-humanitys-last-exam-stump-powerful-tech-2024-09-16/",
+            "start": 58,
+            "status": 200,
+            "unwound_url": "https://www.reuters.com/technology/artificial-intelligence/ai-experts-ready-humanitys-last-exam-stump-powerful-tech-2024-09-16/",
+            "url": "https://t.co/W4EFlzsta8"
+          }
+        ]
+      },
+      "id": "1835751281618747403",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 18520,
+        "like_count": 67,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1835738942483972321",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Coverage from @JLDastin from @Reuters on out initiative:\n\nhttps://t.co/W4EFlzsta8",
+      "url": "https://x.com/alexandr_wang/status/1835751281618747403"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1835738937719140440",
+      "created_at": "2024-09-16T17:54:04.000Z",
+      "edit_history_tweet_ids": [
+        "1835738942483972321"
+      ],
+      "id": "1835738942483972321",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "agi.safe.ai/submit",
+              "end": 297,
+              "expanded_url": "http://agi.safe.ai/submit",
+              "start": 274,
+              "url": "https://t.co/mAX2eTqnqk"
+            }
+          ]
+        },
+        "text": "If you have 5+ years in a technical field or hold/are pursuing a PhD, we want your insights! We're seeking questions that would truly impress you if an AI could solve them. Help us evaluate how close we are to achieving expert-level AI across diverse domains.\n\nSubmit here: https://t.co/mAX2eTqnqk\n\nThe deadline is November 1, 2024."
+      },
+      "public_metrics": {
+        "bookmark_count": 68,
+        "impression_count": 35403,
+        "like_count": 184,
+        "quote_count": 5,
+        "reply_count": 15,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "1835738940831412692",
+          "type": "replied_to"
+        }
+      ],
+      "text": "If you have 5+ years in a technical field or hold/are pursuing a PhD, we want your insights! We're seeking questions that would truly impress you if an AI could solve them. Help us evaluate how close we are to achieving expert-level AI across diverse domains.\n\nSubmit here:",
+      "url": "https://x.com/alexandr_wang/status/1835738942483972321"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1835738937719140440",
+      "created_at": "2024-09-16T17:54:04.000Z",
+      "edit_history_tweet_ids": [
+        "1835738940831412692"
+      ],
+      "id": "1835738940831412692",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We need tough questions from human experts to push AI models to their limits. If you submit one of the best questions, we’ll give you co-authorship and a share of the prize pot.\n\nThe top 50 questions will earn $5,000 each, and the next 500 will earn $500 each. All selected questions grant optional co-authorship on the resulting paper.\n\nWe're seeking questions that go beyond undergraduate level and aren't easily answerable via quick online searches."
+      },
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 15996,
+        "like_count": 149,
+        "quote_count": 4,
+        "reply_count": 16,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "1835738937719140440",
+          "type": "replied_to"
+        }
+      ],
+      "text": "We need tough questions from human experts to push AI models to their limits. If you submit one of the best questions, we’ll give you co-authorship and a share of the prize pot.\n\nThe top 50 questions will earn $5,000 each, and the next 500 will earn $500 each. All selected",
+      "url": "https://x.com/alexandr_wang/status/1835738940831412692"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1835738158367113216"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1835738937719140440",
+      "created_at": "2024-09-16T17:54:03.000Z",
+      "edit_history_tweet_ids": [
+        "1835738937719140440"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/gvz020P407",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1835738937719140440/photo/1",
+            "media_key": "3_1835738158367113216",
+            "start": 281,
+            "url": "https://t.co/gvz020P407"
+          }
+        ]
+      },
+      "id": "1835738937719140440",
+      "lang": "en",
+      "note_tweet": {
+        "text": "As LLMs get smarter, evals need to get harder.\nOpenAI’s o1 has already maxed out most major benchmarks.\n\nScale is partnering with CAIS to launch Humanity’s Last Exam: the toughest open-source benchmark for LLMs.\n\nWe're putting up $500K in prizes for the best questions.\n\n(read on)"
+      },
+      "public_metrics": {
+        "bookmark_count": 406,
+        "impression_count": 276325,
+        "like_count": 1322,
+        "quote_count": 63,
+        "reply_count": 81,
+        "retweet_count": 147
+      },
+      "text": "As LLMs get smarter, evals need to get harder.\nOpenAI’s o1 has already maxed out most major benchmarks.\n\nScale is partnering with CAIS to launch Humanity’s Last Exam: the toughest open-source benchmark for LLMs.\n\nWe're putting up $500K in prizes for the best questions.\n\n(read on) https://t.co/gvz020P407",
+      "url": "https://x.com/alexandr_wang/status/1835738937719140440"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1835484387418275840"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1835484394179432895",
+      "created_at": "2024-09-16T01:02:35.000Z",
+      "edit_history_tweet_ids": [
+        "1835484394179432895"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/pl0ITO69Tc",
+            "end": 293,
+            "expanded_url": "https://x.com/alexandr_wang/status/1835484394179432895/photo/1",
+            "media_key": "3_1835484387418275840",
+            "start": 270,
+            "url": "https://t.co/pl0ITO69Tc"
+          }
+        ]
+      },
+      "id": "1835484394179432895",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 164,
+        "impression_count": 56249,
+        "like_count": 598,
+        "quote_count": 2,
+        "reply_count": 29,
+        "retweet_count": 26
+      },
+      "text": "With OpenAI o1, it’s very clear we need more advanced and unsaturated evals to realistically measure progress going forward.\n\nScale AI will have a big announcement later this week… stay tuned\n\nIn the meantime, I’m back home in New Mexico, looking for eval inspiration 🙃 https://t.co/pl0ITO69Tc",
+      "url": "https://x.com/alexandr_wang/status/1835484394179432895"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1832980825643888919",
+      "created_at": "2024-09-09T03:29:49.000Z",
+      "edit_history_tweet_ids": [
+        "1832984729437782245"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1311485641847459840",
+            "start": 0,
+            "username": "shinboson"
+          },
+          {
+            "end": 59,
+            "id": "2726658913",
+            "start": 48,
+            "username": "summeryue0"
+          }
+        ]
+      },
+      "id": "1832984729437782245",
+      "in_reply_to_user_id": "1311485641847459840",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 526,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1832984193799721356",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@shinboson appreciate it! all the great work of @summeryue0 and the SEAL team",
+      "url": "https://x.com/alexandr_wang/status/1832984729437782245"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1832980825643888919",
+      "created_at": "2024-09-09T03:26:21.000Z",
+      "edit_history_tweet_ids": [
+        "1832983856963781045"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1781747020975292416",
+            "start": 0,
+            "username": "snwy_me"
+          },
+          {
+            "end": 19,
+            "id": "1311485641847459840",
+            "start": 9,
+            "username": "shinboson"
+          }
+        ]
+      },
+      "id": "1832983856963781045",
+      "in_reply_to_user_id": "1781747020975292416",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 558,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1832983276971241548",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@snwy_me @shinboson we secure them and guard them quite closely, and then refresh/change them out regularly.",
+      "url": "https://x.com/alexandr_wang/status/1832983856963781045"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1832980825643888919",
+      "created_at": "2024-09-09T03:21:13.000Z",
+      "edit_history_tweet_ids": [
+        "1832982567601230112"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1311485641847459840",
+            "start": 0,
+            "username": "shinboson"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+            "display_url": "scale.com/leaderboard",
+            "end": 166,
+            "expanded_url": "https://scale.com/leaderboard",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 143,
+            "status": 200,
+            "title": "AI Model Leaderboards & Benchmarks",
+            "unwound_url": "https://labs.scale.com/leaderboard",
+            "url": "https://t.co/pVIgk6rIcL"
+          }
+        ]
+      },
+      "id": "1832982567601230112",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 1831,
+        "like_count": 21,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "@shinboson Totally. Also, expert-created private evaluations that are impossible to overfit like SEAL (disclaimer, this is our work at Scale)\n\nhttps://t.co/pVIgk6rIcL",
+      "url": "https://x.com/alexandr_wang/status/1832982567601230112"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1838637227888513024"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1838637233169211838",
+        "created_at": "2024-09-24T17:50:51.000Z",
+        "edit_history_tweet_ids": [
+          "1838637233169211838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z89A6B9Mlq",
+              "end": 266,
+              "expanded_url": "https://x.com/alexandr_wang/status/1838637233169211838/photo/1",
+              "media_key": "3_1838637227888513024",
+              "start": 243,
+              "url": "https://t.co/z89A6B9Mlq"
+            }
+          ]
+        },
+        "id": "1838637233169211838",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 113673,
+          "like_count": 335,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 38
+        },
+        "text": "🚀 SEAL Leaderboard Update 🚀\n\nOpenAI’s o1 is dominating SEAL rankings!\n\n🥇 o1-preview is dominating across key categories:\n- #1 in Agentic Tool Use (Enterprise)\n- #1 in Instruction Following\n- #1 in Spanish\n\n👑 o1-mini leads the charge in Coding https://t.co/z89A6B9Mlq"
+      },
+      {
+        "author_id": "1633631874",
+        "conversation_id": "1838326029925888151",
+        "created_at": "2024-09-23T21:14:14.000Z",
+        "edit_history_tweet_ids": [
+          "1838326029925888151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1838272073652932642",
+              "start": 73,
+              "url": "https://t.co/F3dy04GtCT"
+            }
+          ]
+        },
+        "id": "1838326029925888151",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23241,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838272073652932642",
+            "type": "quoted"
+          }
+        ],
+        "text": "$1B ARR far earlier than expected this year and grew 4x year-over-year 👀 https://t.co/F3dy04GtCT"
+      },
+      {
+        "author_id": "11768582",
+        "conversation_id": "1838322942503166259",
+        "created_at": "2024-09-23T21:01:58.000Z",
+        "edit_history_tweet_ids": [
+          "1838322942503166259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1838272073652932642",
+              "start": 21,
+              "url": "https://t.co/5F2WHosFG9"
+            }
+          ]
+        },
+        "id": "1838322942503166259",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 185620,
+          "like_count": 400,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838272073652932642",
+            "type": "quoted"
+          }
+        ],
+        "text": "$1B ARR and 4x YoY 👀 https://t.co/5F2WHosFG9"
+      },
+      {
+        "author_id": "15281972",
+        "conversation_id": "1838274604605018441",
+        "created_at": "2024-09-23T17:49:53.000Z",
+        "edit_history_tweet_ids": [
+          "1838274604605018441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1838272072365343157",
+              "start": 11,
+              "url": "https://t.co/MR3T3nkp7M"
+            }
+          ]
+        },
+        "id": "1838274604605018441",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5679,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838272072365343157",
+            "type": "quoted"
+          }
+        ],
+        "text": "Great get. https://t.co/MR3T3nkp7M"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1838272072365343157",
+        "created_at": "2024-09-23T17:39:50.000Z",
+        "edit_history_tweet_ids": [
+          "1838272074936389840"
+        ],
+        "id": "1838272074936389840",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28304,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838272073652932642",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Now that the “data wall” is the bottleneck for AI advancement, we plan to scale that wall with a combination of data abundance, frontier data for frontier models, and the most advanced evals for measuring model improvement."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1838272072365343157",
+        "created_at": "2024-09-23T17:39:50.000Z",
+        "edit_history_tweet_ids": [
+          "1838272073652932642"
+        ],
+        "id": "1838272073652932642",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "For years now, we have iterated and improved on a new business model combining the best capabilities of software and human talent, to provide abundant and high quality data for AI.\n\nThe team’s hard work has been paying off; we hit nearly $1B ARR far earlier than expected this year and grew 4x year-over-year.\n\nIt’s a true testament to the power of remarkable people equipped with high ownership and high conviction."
+        },
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 293662,
+          "like_count": 312,
+          "quote_count": 13,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838272072365343157",
+            "type": "replied_to"
+          }
+        ],
+        "text": "For years now, we have iterated and improved on a new business model combining the best capabilities of software and human talent, to provide abundant and high quality data for AI.\n\nThe team’s hard work has been paying off; we hit nearly $1B ARR far earlier than expected this"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1838272072365343157",
+        "created_at": "2024-09-23T17:39:50.000Z",
+        "edit_history_tweet_ids": [
+          "1838272072365343157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "47123",
+              "start": 24,
+              "username": "jdroege"
+            }
+          ]
+        },
+        "id": "1838272072365343157",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 106001,
+          "like_count": 373,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "text": "I’m thrilled to welcome @jdroege as Scale’s Chief Strategy Officer.\n\nWe are obsessed with talent density at Scale—every hire should make the team better.\n\nJason is a bar raiser. He helped launch Uber Eats, AXON, and many of his own startups.\n\nFor more context on where Scale is🧵"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1836853619343380675",
+        "created_at": "2024-09-19T19:43:26.000Z",
+        "edit_history_tweet_ids": [
+          "1836853626146542027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+              "display_url": "scale.com/leaderboard",
+              "end": 146,
+              "expanded_url": "https://scale.com/leaderboard",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "AI Model Leaderboards & Benchmarks",
+              "unwound_url": "https://labs.scale.com/leaderboard",
+              "url": "https://t.co/pVIgk6rIcL"
+            }
+          ]
+        },
+        "id": "1836853626146542027",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 10125,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836853624376545485",
+            "type": "replied_to"
+          }
+        ],
+        "text": "This is the first of many Agent Leaderboards we plan to publish. Please follow along and see our other SEAL Leaderboards:\n\nhttps://t.co/pVIgk6rIcL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1836853157080748035"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1836853619343380675",
+        "created_at": "2024-09-19T19:43:25.000Z",
+        "edit_history_tweet_ids": [
+          "1836853624376545485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vy5DFiFe1z",
+              "end": 304,
+              "expanded_url": "https://x.com/alexandr_wang/status/1836853624376545485/photo/1",
+              "media_key": "3_1836853157080748035",
+              "start": 281,
+              "url": "https://t.co/Vy5DFiFe1z"
+            }
+          ]
+        },
+        "id": "1836853624376545485",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "In our error analysis, we found that most models continued to struggle with:\n\n- Final Answer Missing Information\n- Hallucinated Information\n\nThis indicates a widespread issue with precise instruction following, especially in prompts requiring detailed information and intermediary outputs."
+        },
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3519,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836853621901906005",
+            "type": "replied_to"
+          }
+        ],
+        "text": "In our error analysis, we found that most models continued to struggle with:\n\n- Final Answer Missing Information\n- Hallucinated Information\n\nThis indicates a widespread issue with precise instruction following, especially in prompts requiring detailed information and intermediary https://t.co/Vy5DFiFe1z"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1836852506342871041"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1836853619343380675",
+        "created_at": "2024-09-19T19:43:25.000Z",
+        "edit_history_tweet_ids": [
+          "1836853621901906005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v6LqMSqn0y",
+              "end": 303,
+              "expanded_url": "https://x.com/alexandr_wang/status/1836853621901906005/photo/1",
+              "media_key": "3_1836852506342871041",
+              "start": 280,
+              "url": "https://t.co/v6LqMSqn0y"
+            }
+          ]
+        },
+        "id": "1836853621901906005",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "This is a new benchmark (ToolComp) that encompasses a broader range of Tool Use scenarios than prior benchmarks.\n\nUniquely, we are further evaluating the models utilizing process supervision labels.\n\nWe also split the benchmark into Enterprise and Chat use cases to differentiate performance."
+        },
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2922,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836853619343380675",
+            "type": "replied_to"
+          }
+        ],
+        "text": "This is a new benchmark (ToolComp) that encompasses a broader range of Tool Use scenarios than prior benchmarks.\n\nUniquely, we are further evaluating the models utilizing process supervision labels.\n\nWe also split the benchmark into Enterprise and Chat use cases to differentiate https://t.co/v6LqMSqn0y"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1836828811301900289"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1836853619343380675",
+        "created_at": "2024-09-19T19:43:24.000Z",
+        "edit_history_tweet_ids": [
+          "1836853619343380675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nRNotvY1Cu",
+              "end": 295,
+              "expanded_url": "https://x.com/alexandr_wang/status/1836853619343380675/photo/1",
+              "media_key": "3_1836828811301900289",
+              "start": 272,
+              "url": "https://t.co/nRNotvY1Cu"
+            }
+          ]
+        },
+        "id": "1836853619343380675",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 41038,
+          "like_count": 208,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 28
+        },
+        "text": "SEAL Leaderboard Update 🥇\n\nToday, we're launching 2 new Agent leaderboards:\n- Agentic Tool Use (Chat)\n- Agentic Tool Use Enterprise)\n\nWe are also adding OpenAI o1 to the Agentic Tool Use leaderboards, ranking at:\n\n#1 on Enterprise Tool Use\n#3 on Chat Tool Use\n\n🧵(read on) https://t.co/nRNotvY1Cu"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1835738937719140440",
+        "created_at": "2024-09-16T17:54:04.000Z",
+        "edit_history_tweet_ids": [
+          "1835738942483972321"
+        ],
+        "id": "1835738942483972321",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "agi.safe.ai/submit",
+                "end": 297,
+                "expanded_url": "http://agi.safe.ai/submit",
+                "start": 274,
+                "url": "https://t.co/mAX2eTqnqk"
+              }
+            ]
+          },
+          "text": "If you have 5+ years in a technical field or hold/are pursuing a PhD, we want your insights! We're seeking questions that would truly impress you if an AI could solve them. Help us evaluate how close we are to achieving expert-level AI across diverse domains.\n\nSubmit here: https://t.co/mAX2eTqnqk\n\nThe deadline is November 1, 2024."
+        },
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 35403,
+          "like_count": 184,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835738940831412692",
+            "type": "replied_to"
+          }
+        ],
+        "text": "If you have 5+ years in a technical field or hold/are pursuing a PhD, we want your insights! We're seeking questions that would truly impress you if an AI could solve them. Help us evaluate how close we are to achieving expert-level AI across diverse domains.\n\nSubmit here:"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1835738937719140440",
+        "created_at": "2024-09-16T17:54:04.000Z",
+        "edit_history_tweet_ids": [
+          "1835738940831412692"
+        ],
+        "id": "1835738940831412692",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "We need tough questions from human experts to push AI models to their limits. If you submit one of the best questions, we’ll give you co-authorship and a share of the prize pot.\n\nThe top 50 questions will earn $5,000 each, and the next 500 will earn $500 each. All selected questions grant optional co-authorship on the resulting paper.\n\nWe're seeking questions that go beyond undergraduate level and aren't easily answerable via quick online searches."
+        },
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 15996,
+          "like_count": 149,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835738937719140440",
+            "type": "replied_to"
+          }
+        ],
+        "text": "We need tough questions from human experts to push AI models to their limits. If you submit one of the best questions, we’ll give you co-authorship and a share of the prize pot.\n\nThe top 50 questions will earn $5,000 each, and the next 500 will earn $500 each. All selected"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1835738158367113216"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1835738937719140440",
+        "created_at": "2024-09-16T17:54:03.000Z",
+        "edit_history_tweet_ids": [
+          "1835738937719140440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvz020P407",
+              "end": 304,
+              "expanded_url": "https://x.com/alexandr_wang/status/1835738937719140440/photo/1",
+              "media_key": "3_1835738158367113216",
+              "start": 281,
+              "url": "https://t.co/gvz020P407"
+            }
+          ]
+        },
+        "id": "1835738937719140440",
+        "lang": "en",
+        "note_tweet": {
+          "text": "As LLMs get smarter, evals need to get harder.\nOpenAI’s o1 has already maxed out most major benchmarks.\n\nScale is partnering with CAIS to launch Humanity’s Last Exam: the toughest open-source benchmark for LLMs.\n\nWe're putting up $500K in prizes for the best questions.\n\n(read on)"
+        },
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 276325,
+          "like_count": 1322,
+          "quote_count": 63,
+          "reply_count": 81,
+          "retweet_count": 147
+        },
+        "text": "As LLMs get smarter, evals need to get harder.\nOpenAI’s o1 has already maxed out most major benchmarks.\n\nScale is partnering with CAIS to launch Humanity’s Last Exam: the toughest open-source benchmark for LLMs.\n\nWe're putting up $500K in prizes for the best questions.\n\n(read on) https://t.co/gvz020P407"
+      },
+      {
+        "author_id": "1311485641847459840",
+        "conversation_id": "1832980825643888919",
+        "created_at": "2024-09-09T03:27:41.000Z",
+        "edit_history_tweet_ids": [
+          "1832984193799721356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "1832984193799721356",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832982567601230112",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang I haven't see these before, this is actually pretty great. awesome stuff."
+      },
+      {
+        "author_id": "1781747020975292416",
+        "conversation_id": "1832980825643888919",
+        "created_at": "2024-09-09T03:24:03.000Z",
+        "edit_history_tweet_ids": [
+          "1832983276971241548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 25,
+              "id": "1311485641847459840",
+              "start": 15,
+              "username": "shinboson"
+            }
+          ]
+        },
+        "id": "1832983276971241548",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832982567601230112",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @shinboson interesting point about expert-created private evaluations. how do you ensure they remain truly private and tamper-proof?"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "15281972",
+        "name": "Eric Vishria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563631761208184832/LnPP2Ckj_normal.jpg",
+        "username": "ericvishria",
+        "verified": false
+      },
+      {
+        "id": "1311485641847459840",
+        "name": "𝞍 Shin Megami Boson 𝞍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007643886206803968/FIR2XHx7_normal.jpg",
+        "username": "shinboson",
+        "verified": false
+      },
+      {
+        "id": "1781747020975292416",
+        "name": "snwy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984693297840111616/wpQy5aKy_normal.jpg",
+        "username": "snwy_me",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1839048978006159633",
+    "next_token": "b26v89c19zqg8o3frquseibn5929brlwq3gdlrehb8399",
+    "oldest_id": "1832982567601230112",
+    "result_count": 25
+  },
+  "errors": []
+}

@@ -1,0 +1,1026 @@
+{
+  "collected_at_utc": "2026-11-26T01:22:02Z",
+  "collected_at_shanghai": "2026-11-26T09:22:02+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ3HBK1RSNH702WK678R33.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-05-01T00:00:00Z",
+    "end_time": "2026-06-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2026-05"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2055015011928731830",
+      "created_at": "2026-05-14T20:04:27.000Z",
+      "edit_history_tweet_ids": [
+        "2055016412096463116"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "2028959009420820480",
+            "start": 0,
+            "username": "lossfunctiongf"
+          },
+          {
+            "end": 25,
+            "id": "752712449321644032",
+            "start": 16,
+            "username": "scale_AI"
+          }
+        ]
+      },
+      "id": "2055016412096463116",
+      "in_reply_to_user_id": "2028959009420820480",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1428,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2055015832103633219",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lossfunctiongf @scale_AI 2020",
+      "url": "https://x.com/alexandr_wang/status/2055016412096463116"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2055015011928731830",
+      "created_at": "2026-05-14T19:58:53.000Z",
+      "edit_history_tweet_ids": [
+        "2055015011928731830"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "752712449321644032",
+            "start": 12,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/scale_AI/statu…",
+            "end": 213,
+            "expanded_url": "https://twitter.com/scale_AI/status/2054962721008058817",
+            "start": 190,
+            "url": "https://t.co/03qFZmyP6m"
+          }
+        ]
+      },
+      "id": "2055015011928731830",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 55696,
+        "like_count": 372,
+        "quote_count": 0,
+        "reply_count": 43,
+        "retweet_count": 24
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054962721008058817",
+          "type": "quoted"
+        }
+      ],
+      "text": "celebrating @scale_AI’s 10th birthday this month!\n\nI’m so proud of the team for building a $1B+ revenue juggernaut powering leading AI labs, the US Dept of War, and Fortune 500 enterprises. https://t.co/03qFZmyP6m",
+      "url": "https://x.com/alexandr_wang/status/2055015011928731830"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2054633796222210096",
+      "created_at": "2026-05-13T20:10:18.000Z",
+      "edit_history_tweet_ids": [
+        "2054655495131238815"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "441465751",
+            "start": 0,
+            "username": "iScienceLuvr"
+          }
+        ]
+      },
+      "id": "2054655495131238815",
+      "in_reply_to_user_id": "441465751",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 29407,
+        "like_count": 257,
+        "quote_count": 1,
+        "reply_count": 26,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054633796222210096",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@iScienceLuvr nope",
+      "url": "https://x.com/alexandr_wang/status/2054655495131238815"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2054599906237850076",
+      "created_at": "2026-05-13T16:29:24.000Z",
+      "edit_history_tweet_ids": [
+        "2054599906237850076"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/rpnickson/stat…",
+            "end": 203,
+            "expanded_url": "https://twitter.com/rpnickson/status/2054563892496380126",
+            "start": 180,
+            "url": "https://t.co/Ma8BXIL3bU"
+          }
+        ]
+      },
+      "id": "2054599906237850076",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 60,
+        "impression_count": 114423,
+        "like_count": 345,
+        "quote_count": 5,
+        "reply_count": 56,
+        "retweet_count": 24
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054563892496380126",
+          "type": "quoted"
+        }
+      ],
+      "text": "incognito chat with meta ai coming to WhatsApp + Meta AI app!\n\npeople use AI to discuss personal topics and we want to make sure they ca do that privately. excited about this one! https://t.co/Ma8BXIL3bU",
+      "url": "https://x.com/alexandr_wang/status/2054599906237850076"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2054588354914832439",
+      "created_at": "2026-05-13T15:45:40.000Z",
+      "edit_history_tweet_ids": [
+        "2054588898563805617"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1283929405669212160",
+            "start": 0,
+            "username": "pedropverani"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Use Meta AI to get things done. Create AI-generated images for free, edit photos, shop, find places to go, and get answers to any question. Start now.",
+            "display_url": "meta.ai",
+            "end": 51,
+            "expanded_url": "http://meta.ai",
+            "images": [
+              {
+                "height": 945,
+                "url": "https://pbs.twimg.com/news_img/2125444422909476865/ruFfwGjc?format=png&name=orig",
+                "width": 1800
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125444422909476865/ruFfwGjc?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 28,
+            "status": 200,
+            "title": "Meta AI - Your AI Assistant for Images, Shopping and More",
+            "unwound_url": "https://www.meta.ai/",
+            "url": "https://t.co/DipeeIuXm2"
+          }
+        ]
+      },
+      "id": "2054588898563805617",
+      "in_reply_to_user_id": "1283929405669212160",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2100,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054588638046945617",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@pedropverani on web! go to https://t.co/DipeeIuXm2 on your computer",
+      "url": "https://x.com/alexandr_wang/status/2054588898563805617"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2054588354914832439",
+      "created_at": "2026-05-13T15:43:30.000Z",
+      "edit_history_tweet_ids": [
+        "2054588354914832439"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/MetaNewsroom/s…",
+            "end": 193,
+            "expanded_url": "https://twitter.com/MetaNewsroom/status/2054205287515484397",
+            "start": 170,
+            "url": "https://t.co/c23NErYRMb"
+          }
+        ]
+      },
+      "id": "2054588354914832439",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 45,
+        "impression_count": 130242,
+        "like_count": 574,
+        "quote_count": 11,
+        "reply_count": 56,
+        "retweet_count": 53
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054205287515484397",
+          "type": "quoted"
+        }
+      ],
+      "text": "we launched some muse spark updates yesterday, including muse spark voice and live AI w your camera in Meta AI app + muse spark rolling out to glasses 😎\n\ncheck them out! https://t.co/c23NErYRMb",
+      "url": "https://x.com/alexandr_wang/status/2054588354914832439"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2054586965128003908",
+      "created_at": "2026-05-13T15:37:59.000Z",
+      "edit_history_tweet_ids": [
+        "2054586965128003908"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "He's emergent",
+            "display_url": "corememory.com/p/metas-ai-chi…",
+            "end": 83,
+            "expanded_url": "https://www.corememory.com/p/metas-ai-chief-alex-wang-muse-spark-ai-wars",
+            "start": 60,
+            "status": 200,
+            "title": "Meta's AI Chief On AI Beef, New Models And Life With Zuck - EP 71 Alex Wang",
+            "unwound_url": "https://www.corememory.com/p/metas-ai-chief-alex-wang-muse-spark-ai-wars",
+            "url": "https://t.co/p0HA7HFM2r"
+          }
+        ]
+      },
+      "id": "2054586965128003908",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 132,
+        "impression_count": 41052,
+        "like_count": 366,
+        "quote_count": 10,
+        "reply_count": 23,
+        "retweet_count": 28
+      },
+      "text": "my first podcast since talking about neuralink in babies 🙃\n\nhttps://t.co/p0HA7HFM2r",
+      "url": "https://x.com/alexandr_wang/status/2054586965128003908"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2054423339440185383",
+      "created_at": "2026-05-13T15:31:42.000Z",
+      "edit_history_tweet_ids": [
+        "2054585385188266087"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1755110929862397952",
+            "start": 0,
+            "username": "catboosted"
+          }
+        ]
+      },
+      "id": "2054585385188266087",
+      "in_reply_to_user_id": "1755110929862397952",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 79,
+        "impression_count": 43259,
+        "like_count": 1015,
+        "quote_count": 9,
+        "reply_count": 10,
+        "retweet_count": 22
+      },
+      "referenced_tweets": [
+        {
+          "id": "2054423339440185383",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@catboosted probably true—would be coding or talking to customers",
+      "url": "https://x.com/alexandr_wang/status/2054585385188266087"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2052197150889836958",
+      "created_at": "2026-05-07T01:21:43.000Z",
+      "edit_history_tweet_ids": [
+        "2052196473736200318",
+        "2052197093734023591",
+        "2052197150889836958"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 25,
+            "id": "752712449321644032",
+            "start": 16,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/Techmeme/statu…",
+            "end": 114,
+            "expanded_url": "https://twitter.com/Techmeme/status/2052164261439537338",
+            "start": 91,
+            "url": "https://t.co/VasYnmdjBT"
+          }
+        ]
+      },
+      "id": "2052197150889836958",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 24,
+        "impression_count": 66695,
+        "like_count": 385,
+        "quote_count": 0,
+        "reply_count": 27,
+        "retweet_count": 13
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052164261439537338",
+          "type": "quoted"
+        }
+      ],
+      "text": "congrats to the @scale_AI team!\n\nbig moves, and lots more to do to support the mission 🫡🇺🇸 https://t.co/VasYnmdjBT",
+      "url": "https://x.com/alexandr_wang/status/2052197150889836958"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2052197093734023591",
+      "created_at": "2026-05-07T01:21:29.000Z",
+      "edit_history_tweet_ids": [
+        "2052196473736200318",
+        "2052197093734023591",
+        "2052197150889836958"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 25,
+            "id": "752712449321644032",
+            "start": 16,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/Techmeme/statu…",
+            "end": 112,
+            "expanded_url": "https://twitter.com/Techmeme/status/2052164261439537338",
+            "start": 89,
+            "url": "https://t.co/VasYnmdjBT"
+          }
+        ]
+      },
+      "id": "2052197093734023591",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 466,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052164261439537338",
+          "type": "quoted"
+        }
+      ],
+      "text": "congrats to the @scale_AI team!\n\nbig moves, and lots more to do to support the mission 🫡 https://t.co/VasYnmdjBT",
+      "url": "https://x.com/alexandr_wang/status/2052197093734023591"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2052196473736200318",
+      "created_at": "2026-05-07T01:19:01.000Z",
+      "edit_history_tweet_ids": [
+        "2052196473736200318",
+        "2052197093734023591",
+        "2052197150889836958"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 25,
+            "id": "752712449321644032",
+            "start": 16,
+            "username": "scale_AI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/Techmeme/statu…",
+            "end": 55,
+            "expanded_url": "https://twitter.com/Techmeme/status/2052164261439537338",
+            "start": 32,
+            "url": "https://t.co/VasYnmdjBT"
+          }
+        ]
+      },
+      "id": "2052196473736200318",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1623,
+        "like_count": 10,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052164261439537338",
+          "type": "quoted"
+        }
+      ],
+      "text": "congrats to the @scale_AI team! https://t.co/VasYnmdjBT",
+      "url": "https://x.com/alexandr_wang/status/2052196473736200318"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2052056038648779013",
+      "created_at": "2026-05-06T16:00:59.000Z",
+      "edit_history_tweet_ids": [
+        "2052056038648779013"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/jdroege/status…",
+            "end": 94,
+            "expanded_url": "https://twitter.com/jdroege/status/2052049364579659849",
+            "start": 71,
+            "url": "https://t.co/1RF1vcbh4c"
+          }
+        ]
+      },
+      "id": "2052056038648779013",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 219,
+        "impression_count": 151792,
+        "like_count": 369,
+        "quote_count": 3,
+        "reply_count": 23,
+        "retweet_count": 19
+      },
+      "referenced_tweets": [
+        {
+          "id": "2052049364579659849",
+          "type": "quoted"
+        }
+      ],
+      "text": "AI contenders vs AI pretenders in enterprise comes down to reliability https://t.co/1RF1vcbh4c",
+      "url": "https://x.com/alexandr_wang/status/2052056038648779013"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2050305805455700378",
+      "created_at": "2026-05-01T20:06:11.000Z",
+      "edit_history_tweet_ids": [
+        "2050305805455700378"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 93,
+            "id": "1140667999176679424",
+            "start": 81,
+            "username": "LerrelPinto"
+          },
+          {
+            "end": 103,
+            "id": "713117884239753216",
+            "start": 94,
+            "username": "xiaolonw"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/xiaolonw/statu…",
+            "end": 147,
+            "expanded_url": "https://twitter.com/xiaolonw/status/2050298370842132680",
+            "start": 124,
+            "url": "https://t.co/J3aMiPSNIM"
+          }
+        ]
+      },
+      "id": "2050305805455700378",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 79,
+        "impression_count": 100607,
+        "like_count": 591,
+        "quote_count": 6,
+        "reply_count": 20,
+        "retweet_count": 43
+      },
+      "referenced_tweets": [
+        {
+          "id": "2050298370842132680",
+          "type": "quoted"
+        }
+      ],
+      "text": "welcome Assured Robot Intelligence (ARI) to MSL!\n\nexcited to build physical with @LerrelPinto @xiaolonw and the whole team! https://t.co/J3aMiPSNIM",
+      "url": "https://x.com/alexandr_wang/status/2050305805455700378"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2028959009420820480",
+        "conversation_id": "2055015011928731830",
+        "created_at": "2026-05-14T20:02:09.000Z",
+        "edit_history_tweet_ids": [
+          "2055015832103633219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 24,
+              "id": "752712449321644032",
+              "start": 15,
+              "username": "scale_AI"
+            }
+          ]
+        },
+        "id": "2055015832103633219",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1331,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055015011928731830",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @scale_AI us dept of war? since when"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2054962356107837444"
+          ]
+        },
+        "author_id": "752712449321644032",
+        "conversation_id": "2054962721008058817",
+        "created_at": "2026-05-14T16:31:06.000Z",
+        "edit_history_tweet_ids": [
+          "2054962721008058817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Join Scale and power reliable AI systems. We're hiring engineers, researchers, and operators.",
+              "display_url": "scale.com/careers",
+              "end": 146,
+              "expanded_url": "https://scale.com/careers",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2124755076254515200/TkaqUGhq?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2124755076254515200/TkaqUGhq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 123,
+              "status": 200,
+              "title": "Careers at Scale AI | Build the Future of AI",
+              "unwound_url": "https://scale.com/careers",
+              "url": "https://t.co/cPL5Kq8igC"
+            },
+            {
+              "display_url": "pic.x.com/DSnOusjo98",
+              "end": 170,
+              "expanded_url": "https://x.com/scale_AI/status/2054962721008058817/video/1",
+              "media_key": "13_2054962356107837444",
+              "start": 147,
+              "url": "https://t.co/DSnOusjo98"
+            }
+          ]
+        },
+        "id": "2054962721008058817",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 73801,
+          "like_count": 127,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 25
+        },
+        "text": "This month we turn 10.\n\nThe hard work started in 2016, and it hasn’t stopped.\n\nShortcuts are for losers. Winners welcome.\n\nhttps://t.co/cPL5Kq8igC https://t.co/DSnOusjo98"
+      },
+      {
+        "author_id": "441465751",
+        "conversation_id": "2054633796222210096",
+        "created_at": "2026-05-13T18:44:04.000Z",
+        "edit_history_tweet_ids": [
+          "2054633796222210096"
+        ],
+        "id": "2054633796222210096",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 63969,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "text": "Why is Meta's lab name still TBD, haven't they figured out a name by now? 😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2054563704151146496"
+          ]
+        },
+        "author_id": "16517825",
+        "conversation_id": "2054563892496380126",
+        "created_at": "2026-05-13T14:06:18.000Z",
+        "edit_history_tweet_ids": [
+          "2054563892496380126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgvVOirfso",
+              "end": 304,
+              "expanded_url": "https://x.com/rpnickson/status/2054563892496380126/video/1",
+              "media_key": "13_2054563704151146496",
+              "start": 281,
+              "url": "https://t.co/JgvVOirfso"
+            }
+          ]
+        },
+        "id": "2054563892496380126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 321,
+                "id": "23038956",
+                "start": 311,
+                "username": "wcathcart"
+              },
+              {
+                "end": 365,
+                "id": "3245235668",
+                "start": 352,
+                "username": "vishalshahis"
+              }
+            ]
+          },
+          "text": "Meta just launched Incognito Chat with Meta AI - the world's first truly private way to chat with AI.\n\nBut I had a lot of questions.\n\nHow does it actually work? Isn't this contradictory to Meta's business model? What assurances do we have that this is airtight?\n\nI had a chance to speak to the Head of Whatsapp @wcathcart  and Meta's VP of AI Products @vishalshahis to learn more."
+        },
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 121251,
+          "like_count": 104,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "text": "Meta just launched Incognito Chat with Meta AI - the world's first truly private way to chat with AI.\n\nBut I had a lot of questions.\n\nHow does it actually work? Isn't this contradictory to Meta's business model? What assurances do we have that this is airtight?\n\nI had a chance to https://t.co/JgvVOirfso"
+      },
+      {
+        "author_id": "1283929405669212160",
+        "conversation_id": "2054588354914832439",
+        "created_at": "2026-05-13T15:44:38.000Z",
+        "edit_history_tweet_ids": [
+          "2054588638046945617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2054588638046945617",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2158,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054588354914832439",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang where the fuck is contemplating mode?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2054205005528170496"
+          ]
+        },
+        "author_id": "163723677",
+        "conversation_id": "2054205287515484397",
+        "created_at": "2026-05-12T14:21:20.000Z",
+        "edit_history_tweet_ids": [
+          "2054205287515484397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/97PpSEplgo",
+              "end": 304,
+              "expanded_url": "https://x.com/MetaNewsroom/status/2054205287515484397/video/1",
+              "media_key": "13_2054205005528170496",
+              "start": 281,
+              "url": "https://t.co/97PpSEplgo"
+            }
+          ]
+        },
+        "id": "2054205287515484397",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "about.fb.com/news/2026/04/i…",
+                "end": 414,
+                "expanded_url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+                "start": 391,
+                "url": "https://t.co/A5JJOD1lyc"
+              }
+            ]
+          },
+          "text": "Today we’re introducing Meta AI Voice Conversations powered by Muse Spark that let you talk naturally to Meta AI (interrupt, switch topics, or swap languages), and as you talk, Meta AI can generate images and pull up recommendations from Reels, maps, and more. We’re also bringing live AI to the app, so you can point your camera at the world and ask about what you’re seeing in real time.\n\nhttps://t.co/A5JJOD1lyc"
+        },
+        "public_metrics": {
+          "bookmark_count": 299,
+          "impression_count": 278998,
+          "like_count": 1038,
+          "quote_count": 58,
+          "reply_count": 104,
+          "retweet_count": 149
+        },
+        "text": "Today we’re introducing Meta AI Voice Conversations powered by Muse Spark that let you talk naturally to Meta AI (interrupt, switch topics, or swap languages), and as you talk, Meta AI can generate images and pull up recommendations from Reels, maps, and more. We’re also bringing https://t.co/97PpSEplgo"
+      },
+      {
+        "author_id": "817386",
+        "conversation_id": "2052164261439537338",
+        "created_at": "2026-05-06T23:11:01.000Z",
+        "edit_history_tweet_ids": [
+          "2052164261439537338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 172,
+              "id": "15567780",
+              "start": 162,
+              "username": "jenjudson"
+            }
+          ]
+        },
+        "id": "2052164261439537338",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 72860,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "text": "Scale AI wins a $500M DOD contract through the Chief Digital and AI Office to help sift data and assist in decision-making, after receiving a $100M deal in 2025 (@jenjudson / Bloomberg)\n\n(Visit Techmeme dot com for the link and full context!)"
+      },
+      {
+        "article": {
+          "title": "The Reliability Race"
+        },
+        "author_id": "47123",
+        "conversation_id": "2052049364579659849",
+        "created_at": "2026-05-06T15:34:28.000Z",
+        "edit_history_tweet_ids": [
+          "2052049364579659849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2052…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2052048869207232513",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2052048869207232513",
+              "url": "https://t.co/05e7R1SKmQ"
+            }
+          ]
+        },
+        "id": "2052049364579659849",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 174432,
+          "like_count": 95,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "text": "https://t.co/05e7R1SKmQ"
+      },
+      {
+        "author_id": "713117884239753216",
+        "conversation_id": "2050298370842132680",
+        "created_at": "2026-05-01T19:36:38.000Z",
+        "edit_history_tweet_ids": [
+          "2050298370842132680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "2425151",
+              "start": 66,
+              "username": "Meta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/business/statu…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/business/status/2050260215665185169",
+              "start": 281,
+              "url": "https://t.co/4hGmcgcJzt"
+            }
+          ]
+        },
+        "id": "2050298370842132680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 71,
+                "id": "2425151",
+                "start": 66,
+                "username": "Meta"
+              },
+              {
+                "end": 947,
+                "id": "1507056349019983893",
+                "start": 933,
+                "username": "aixventureshq"
+              }
+            ]
+          },
+          "text": "Excited to share that Assured Robot Intelligence (ARI) has joined @Meta to help build the future of humanoid intelligence!\n\nWhen we started ARI one year ago, our mission was clear: achieve physical AGI. Through deep customer engagements and real-world deployments, it became clear to us that serving the massive opportunity ahead requires training a truly general-purpose physical agent.\n\nWe believe this agent will be humanoid — and that scaling will come from learning directly from human experience, not teleoperation alone. Meta’s ecosystem brings together the key components needed to make this vision possible. We will be joining Meta Superintelligence Labs (MSL) to help bring personal superintelligence into the physical world.\n\nWe are incredibly grateful to the brilliant minds, robotics researchers, engineers, partners, and supporters who have worked with us on this journey. Thank you to our investors and angels, led by @aixventureshq , for believing in our mission.\n\nThis is just the beginning."
+        },
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 215985,
+          "like_count": 702,
+          "quote_count": 16,
+          "reply_count": 121,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050260215665185169",
+            "type": "quoted"
+          }
+        ],
+        "text": "Excited to share that Assured Robot Intelligence (ARI) has joined @Meta to help build the future of humanoid intelligence!\n\nWhen we started ARI one year ago, our mission was clear: achieve physical AGI. Through deep customer engagements and real-world deployments, it became clear https://t.co/4hGmcgcJzt"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "2028959009420820480",
+        "name": "loss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028970891078692865/dU-slh0I_normal.jpg",
+        "username": "lossfunctiongf",
+        "verified": false
+      },
+      {
+        "id": "441465751",
+        "name": "Tanishq Mathew Abraham, Ph.D.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096171283537072128/GoL5700C_normal.jpg",
+        "username": "iScienceLuvr",
+        "verified": false
+      },
+      {
+        "id": "1283929405669212160",
+        "name": "Pedro Penha Verani",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100188608007155712/SN5v-YTW_normal.jpg",
+        "username": "pedropverani",
+        "verified": false
+      },
+      {
+        "id": "1755110929862397952",
+        "name": "altra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095581454633943041/yJf_KSP8_normal.jpg",
+        "username": "catboosted",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2055016412096463116",
+    "next_token": "b26v89c19zqg8o3juengbzsx83p19dx15qh5obl3s6hrx",
+    "oldest_id": "2050305805455700378",
+    "result_count": 13
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054423339440185383].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054423339440185383",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2054423339440185383"
+    }
+  ]
+}

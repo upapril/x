@@ -1,11 +1,12 @@
 {
   "handle": "iiiinvest",
   "user_id": "1589763597705437184",
-  "packaged_at_shanghai": "2026-11-25T09:42:30.677345+08:00",
+  "packaged_at_shanghai": "2026-11-26T09:39:36.364018+08:00",
   "claim_all_tweets": false,
-  "unique_posts_stored": 4712,
+  "unique_posts_stored": 4850,
   "profile_post_count_at_first_lookup": 4858,
   "profile_not_refetched_day2": true,
+  "profile_not_refetched_day3": true,
   "post_count_is_not_a_missing_count_proof": true,
   "span_utc": [
     "2022-11-22T08:48:28.000Z",
@@ -19,26 +20,27 @@
     "2022": 408,
     "2023": 37,
     "2024": 21,
-    "2025": 69,
+    "2025": 207,
     "2026": 4177
   },
   "types": {
-    "original": 1547,
-    "reply": 2488,
-    "repost": 42,
-    "quote": 635
+    "reply": 2529,
+    "quote": 653,
+    "original": 1624,
+    "repost": 44
   },
   "earliest": {
     "id": "1594976093844303872",
-    "url": "https://x.com/iiiinvest/status/1594976093844303872"
+    "created_at_utc": "2022-11-22T08:48:28.000Z",
+    "created_at_shanghai": "2022-11-22 16:48:28 GMT+8"
   },
   "latest": {
     "id": "2125165053078839443",
-    "url": "https://x.com/iiiinvest/status/2125165053078839443"
+    "created_at_utc": "2026-11-24T09:50:06.000Z",
+    "created_at_shanghai": "2026-11-24 17:50:06 GMT+8"
   },
   "expand_job_status_counts": {
-    "exhausted": 36,
-    "pending": 14,
+    "exhausted": 50,
     "pagination_stalled": 1
   },
   "windows": [
@@ -58,16 +60,7 @@
         null,
         null
       ],
-      "last_input_token": "b26v89c19zqg8o3fpzhkws7rf5qufmxqcj2ez7iyybgcd",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2022-11-07T00:00:00Z",
-        "end_time": "2022-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpzhkws7rf5qufmxqcj2ez7iyybgcd",
-        "window_label": "2022-11"
-      }
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -81,20 +74,11 @@
       "pages_fetched": 3,
       "posts_returned": 42,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fpzhmlcjenh93wr8mgkiwdhivnhl6l",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2022-12-01T00:00:00Z",
-        "end_time": "2023-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fpzhmlcjenh93wr8mgkiwdhivnhl6l",
-        "window_label": "2022-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -108,20 +92,11 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "last_input_token": "b26v89c19zqg8o3fqk13dcffd3higyobf56o7yv57mpvh",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-01-01T00:00:00Z",
-        "end_time": "2023-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqk13dcffd3higyobf56o7yv57mpvh",
-        "window_label": "2023-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -135,20 +110,11 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "last_input_token": "b26v89c19zqg8o3fqk6zz19q0bj1ix05f3gzk3dmsp75p",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-02-01T00:00:00Z",
-        "end_time": "2023-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqk6zz19q0bj1ix05f3gzk3dmsp75p",
-        "window_label": "2023-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -162,20 +128,11 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 1,
-      "last_input_token": "b26v89c19zqg8o3fqka10e5cbhdbqpeg1xwjzdk7tp8xp",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-03-01T00:00:00Z",
-        "end_time": "2023-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqka10e5cbhdbqpeg1xwjzdk7tp8xp",
-        "window_label": "2023-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -189,20 +146,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 5,
-      "last_input_token": "b26v89c19zqg8o3fqkd0cpl3ut644m4vz04jndo7u76nx",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-04-01T00:00:00Z",
-        "end_time": "2023-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkd0cpl3ut644m4vz04jndo7u76nx",
-        "window_label": "2023-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -216,20 +164,11 @@
       "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 2,
-      "last_input_token": "b26v89c19zqg8o3fqkg0k1x2qfo4qbxzdg54mlx62ksjh",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-05-01T00:00:00Z",
-        "end_time": "2023-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkg0k1x2qfo4qbxzdg54mlx62ksjh",
-        "window_label": "2023-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -243,20 +182,11 @@
       "pages_fetched": 2,
       "posts_returned": 5,
       "posts_added": 2,
-      "last_input_token": "b26v89c19zqg8o3fqkj0btotl1oie02l0ejrjssg0cwvx",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-06-01T00:00:00Z",
-        "end_time": "2023-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkj0btotl1oie02l0ejrjssg0cwvx",
-        "window_label": "2023-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -270,20 +200,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-07-01T00:00:00Z",
-        "end_time": "2023-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2023-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -297,20 +218,11 @@
       "pages_fetched": 2,
       "posts_returned": 13,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fqkrxyr2alkk2sal9qknyrl94ri2rh",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-08-01T00:00:00Z",
-        "end_time": "2023-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqkrxyr2alkk2sal9qknyrl94ri2rh",
-        "window_label": "2023-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -324,20 +236,11 @@
       "pages_fetched": 2,
       "posts_returned": 3,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fqks0wnx3x3yhwddiee7c4gcjmhhtp",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-09-01T00:00:00Z",
-        "end_time": "2023-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fqks0wnx3x3yhwddiee7c4gcjmhhtp",
-        "window_label": "2023-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -351,20 +254,11 @@
       "pages_fetched": 2,
       "posts_returned": 4,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fr5eey3bs0fdagr4dndlk5gf2wjh4t",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-10-01T00:00:00Z",
-        "end_time": "2023-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5eey3bs0fdagr4dndlk5gf2wjh4t",
-        "window_label": "2023-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -378,20 +272,11 @@
       "pages_fetched": 2,
       "posts_returned": 2,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fr5hdvfm6n7scaynxq2bhqdsvv5dvh",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-11-01T00:00:00Z",
-        "end_time": "2023-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5hdvfm6n7scaynxq2bhqdsvv5dvh",
-        "window_label": "2023-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -405,20 +290,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2023-12-01T00:00:00Z",
-        "end_time": "2024-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2023-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -432,20 +308,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2024-01-01T00:00:00Z",
-        "end_time": "2024-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2024-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -459,20 +326,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2024-02-01T00:00:00Z",
-        "end_time": "2024-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2024-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -486,20 +344,11 @@
       "pages_fetched": 2,
       "posts_returned": 1,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2024-03-01T00:00:00Z",
-        "end_time": "2024-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5tf2y6kfl1s6lgrfqcyi0z6if98d",
-        "window_label": "2024-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -513,20 +362,11 @@
       "pages_fetched": 2,
       "posts_returned": 3,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2024-04-01T00:00:00Z",
-        "end_time": "2024-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fr5wef9q8hje9y7cyy9d1dap71fhq5",
-        "window_label": "2024-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -540,20 +380,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2024-05-01T00:00:00Z",
-        "end_time": "2024-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2024-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -563,10 +394,15 @@
       "start_time": "2024-06-01T00:00:00Z",
       "end_time": "2024-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -576,10 +412,15 @@
       "start_time": "2024-07-01T00:00:00Z",
       "end_time": "2024-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -589,10 +430,15 @@
       "start_time": "2024-08-01T00:00:00Z",
       "end_time": "2024-09-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
-      "posts_added": 0
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -602,10 +448,15 @@
       "start_time": "2024-09-01T00:00:00Z",
       "end_time": "2024-10-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
-      "posts_added": 0
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -615,10 +466,15 @@
       "start_time": "2024-10-01T00:00:00Z",
       "end_time": "2024-11-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
-      "posts_added": 0
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -628,10 +484,15 @@
       "start_time": "2024-11-01T00:00:00Z",
       "end_time": "2024-12-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 14,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -641,10 +502,15 @@
       "start_time": "2024-12-01T00:00:00Z",
       "end_time": "2025-01-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 1,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -654,10 +520,15 @@
       "start_time": "2025-01-01T00:00:00Z",
       "end_time": "2025-02-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
-      "posts_added": 0
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -667,10 +538,15 @@
       "start_time": "2025-02-01T00:00:00Z",
       "end_time": "2025-03-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
+      "status": "exhausted",
+      "pages_fetched": 1,
       "posts_returned": 0,
-      "posts_added": 0
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -680,10 +556,15 @@
       "start_time": "2025-03-01T00:00:00Z",
       "end_time": "2025-04-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 64,
+      "posts_added": 39,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -693,10 +574,15 @@
       "start_time": "2025-04-01T00:00:00Z",
       "end_time": "2025-05-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 55,
+      "posts_added": 55,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -706,10 +592,15 @@
       "start_time": "2025-05-01T00:00:00Z",
       "end_time": "2025-06-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 4,
+      "posts_returned": 64,
+      "posts_added": 44,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -719,10 +610,15 @@
       "start_time": "2025-06-01T00:00:00Z",
       "end_time": "2025-07-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 5,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -732,10 +628,15 @@
       "start_time": "2025-07-01T00:00:00Z",
       "end_time": "2025-08-01T00:00:00Z",
       "next_token": null,
-      "status": "pending",
-      "pages_fetched": 0,
-      "posts_returned": 0,
-      "posts_added": 0
+      "status": "exhausted",
+      "pages_fetched": 2,
+      "posts_returned": 13,
+      "posts_added": 0,
+      "last_span": [
+        null,
+        null
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -749,20 +650,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2025-08-01T00:00:00Z",
-        "end_time": "2025-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2025-08"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -776,20 +668,11 @@
       "pages_fetched": 2,
       "posts_returned": 6,
       "posts_added": 0,
-      "last_input_token": "b26v89c19zqg8o3fsce61m537lec7d8006wilofahv531",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2025-09-01T00:00:00Z",
-        "end_time": "2025-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3fsce61m537lec7d8006wilofahv531",
-        "window_label": "2025-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -803,20 +686,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2025-10-01T00:00:00Z",
-        "end_time": "2025-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2025-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -830,20 +704,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2025-11-01T00:00:00Z",
-        "end_time": "2025-12-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2025-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -857,20 +722,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2025-12-01T00:00:00Z",
-        "end_time": "2026-01-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "2025-12"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -884,20 +740,11 @@
       "pages_fetched": 5,
       "posts_returned": 90,
       "posts_added": 90,
-      "last_input_token": "b26v89c19zqg8o3jue8ktwt4vvdae8pxyekax8ue8mxdp",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-01-01T00:00:00Z",
-        "end_time": "2026-02-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3jue8ktwt4vvdae8pxyekax8ue8mxdp",
-        "window_label": "2026-01"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -911,20 +758,11 @@
       "pages_fetched": 13,
       "posts_returned": 292,
       "posts_added": 292,
-      "last_input_token": "b26v89c19zqg8o3juebklkbpz5b9unaorfoufk2ptm8al",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-02-01T00:00:00Z",
-        "end_time": "2026-03-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juebklkbpz5b9unaorfoufk2ptm8al",
-        "window_label": "2026-02"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -938,20 +776,11 @@
       "pages_fetched": 10,
       "posts_returned": 207,
       "posts_added": 182,
-      "last_input_token": "b26v89c19zqg8o3jueekde7ak9gusfwjmrjmdaxyu5mkd",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-03-01T00:00:00Z",
-        "end_time": "2026-04-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3jueekde7ak9gusfwjmrjmdaxyu5mkd",
-        "window_label": "2026-03"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -965,20 +794,11 @@
       "pages_fetched": 13,
       "posts_returned": 285,
       "posts_added": 285,
-      "last_input_token": "b26v89c19zqg8o3juehkkhzgfrswjbeqcq6auhgdrkku5",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-04-01T00:00:00Z",
-        "end_time": "2026-05-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juehkkhzgfrswjbeqcq6auhgdrkku5",
-        "window_label": "2026-04"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -992,20 +812,11 @@
       "pages_fetched": 8,
       "posts_returned": 174,
       "posts_added": 174,
-      "last_input_token": "b26v89c19zqg8o3juengbtfy0txa5zqruekn1oyed5if1",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-05-01T00:00:00Z",
-        "end_time": "2026-06-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juengbtfy0txa5zqruekn1oyed5if1",
-        "window_label": "2026-05"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1019,20 +830,11 @@
       "pages_fetched": 16,
       "posts_returned": 354,
       "posts_added": 329,
-      "last_input_token": "b26v89c19zqg8o3jueqgizdfhynzfzhaq4iedynmshmyl",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-06-01T00:00:00Z",
-        "end_time": "2026-07-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3jueqgizdfhynzfzhaq4iedynmshmyl",
-        "window_label": "2026-06"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1046,20 +848,11 @@
       "pages_fetched": 34,
       "posts_returned": 808,
       "posts_added": 808,
-      "last_input_token": "b26v89c19zqg8o3juetgpytr20v2s9peqovmhw0z9ige5",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-07-01T00:00:00Z",
-        "end_time": "2026-08-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juetgpytr20v2s9peqovmhw0z9ige5",
-        "window_label": "2026-07"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1073,21 +866,11 @@
       "pages_fetched": 4,
       "posts_returned": 100,
       "posts_added": 75,
-      "last_input_token": "b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-08-01T00:00:00Z",
-        "end_time": "2026-09-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juezgoudctnrq3quemi6wf56f1d5dp",
-        "window_label": "2026-08"
-      },
       "last_span": [
         "2026-08-27T16:04:47.000Z",
         "2026-08-28T14:41:31.000Z"
       ],
-      "stall_note": "API returned the same next_token as the input_token and a duplicate page. Do not reuse this token. Subdivide the remaining earlier window instead."
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1101,20 +884,11 @@
       "pages_fetched": 32,
       "posts_returned": 761,
       "posts_added": 736,
-      "last_input_token": "b26v89c19zqg8o3juezh4ap14wfexet78457ipmor4igt",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-09-01T00:00:00Z",
-        "end_time": "2026-10-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juezh4ap14wfexet78457ipmor4igt",
-        "window_label": "2026-09"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1128,20 +902,11 @@
       "pages_fetched": 10,
       "posts_returned": 216,
       "posts_added": 215,
-      "last_input_token": "b26v89c19zqg8o3juzixw6d3i09f1ihfcz2eq1q9ao9dp",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-10-01T00:00:00Z",
-        "end_time": "2026-11-01T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juzixw6d3i09f1ihfcz2eq1q9ao9dp",
-        "window_label": "2026-10"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1155,20 +920,11 @@
       "pages_fetched": 14,
       "posts_returned": 304,
       "posts_added": 179,
-      "last_input_token": "b26v89c19zqg8o3juzly3ed7gxh5yi7yfp13vjok1254t",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-11-01T00:00:00Z",
-        "end_time": "2026-11-25T00:00:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juzly3ed7gxh5yi7yfp13vjok1254t",
-        "window_label": "2026-11"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1186,18 +942,7 @@
         null,
         null
       ],
-      "last_types": null,
-      "note": "Subwindow after 2026-08 pagination_stalled. Do not reuse stalled token. end_time is oldest timestamp of the duplicate stalled page.",
-      "last_input_token": "b26v89c19zqg8o3juewgx4sfox1dam5rded2k2a0dci9p",
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-08-01T00:00:00Z",
-        "end_time": "2026-08-27T16:04:47Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": "b26v89c19zqg8o3juewgx4sfox1dam5rded2k2a0dci9p",
-        "window_label": "2026-08-01to27"
-      }
+      "last_types": null
     },
     {
       "handle": "iiiinvest",
@@ -1211,21 +956,11 @@
       "pages_fetched": 1,
       "posts_returned": 0,
       "posts_added": 0,
-      "note": "New day2 incremental window, does not reopen exhausted monthly parents; overlaps day1 capture tail for safe dedup.",
-      "last_input_token": null,
-      "last_request": {
-        "query": "from:iiiinvest",
-        "start_time": "2026-11-24T12:00:00Z",
-        "end_time": "2026-11-25T00:35:00Z",
-        "sort_order": "recency",
-        "max_results": 25,
-        "input_token": null,
-        "window_label": "day2-new-2026-11-24T12to25T0035"
-      },
       "last_span": [
         null,
         null
-      ]
+      ],
+      "last_types": null
     }
   ],
   "open_or_blocked_windows": [
@@ -1258,36 +993,15 @@
       "stall_note": "API returned the same next_token as the input_token and a duplicate page. Do not reuse this token. Subdivide the remaining earlier window instead."
     }
   ],
-  "pending_window_labels": [
-    "2024-06",
-    "2024-07",
-    "2024-08",
-    "2024-09",
-    "2024-10",
-    "2024-11",
-    "2024-12",
-    "2025-01",
-    "2025-02",
-    "2025-03",
-    "2025-04",
-    "2025-05",
-    "2025-06",
-    "2025-07"
-  ],
+  "pending_window_labels": [],
   "calendar_windows_with_no_job_yet": [],
   "coverage_notes": [
-    "True budget stop:75 daily reads remain,0 usable to reserve. No new collection before reset or explicit changed budget. No pending fetched pages.",
-    "Reset Nov26 08:00 Asia/Shanghai. No routine was created here; previous routine fired/deleted itself.",
-    "Continue current saved open dated jobs after reset, then unstarted pending/no-job months. Do not rewalk overlapping recent timeline tokens while monthly coverage is terminal.",
-    "Both new accounts2026 Jan-Nov terminal through captured bounds. TA all2025 terminal. THANK2025 March remains open; other2025 months terminal.",
-    "SF2025 May/June/July and III2026 July/September/Aug01to27 terminal. All Wang2016Dec/2017months and2018Jan-Oct/2019Aug priority tails terminal.",
-    "SF2024 March/June/July/August/September open. TA2024 September/October/November open. THANK2024 April/July open. Tokens/query/bounds copied exactly below.",
-    "Do not open redundant SF pending2026Nov. Never reuse exhausted/stalled parents, including III2026Aug and SF2023Sep/2026Jul. Unproven Wang2012-2014 requires a separately documented coverage audit, not blind parent-token reuse.",
-    "Former calendar no-job list contained17 months before Wang account creation; retained in excluded_precreation_calendar_windows, removed from actionable gap counts. No posts were removed.",
-    "Prior ZIPs immutable. No GitHub writes. PR1 merged main fb75058962f33f1c176f0297e47eb4cfde74d929; parent later uses NEW PR from main, no merge authorization.",
-    "Audited inherited corrections only: literal U+2028 restored in one SF post;3 pinned-post provenance path corrections. See day2_literal_corrections.json.",
-    "Synthesis is selective, source-linked and explicitly partial, not a manual reread of34913 posts. Performance and underlying market facts remain unverified unless explicitly sourced."
+    "Explicitly partial. Day3 collection stopped at the true 75-read daily reserve (usable 0). Not window exhaustion.",
+    "Profile lookup lifetime counts are not missing-count proofs. Profiles were not refreshed on day3.",
+    "Archives and this manifest were rebuilt from canonical normalized/posts.jsonl at day3 packaging.",
+    "Never reuse stalled 2026-08 parent tokens. Previously pending 2024-06..12 and 2025-01..07 monthly jobs remain exhausted."
   ],
-  "stopping_reason": "Real live75-read reserve reached; explicitly partial, not all windows exhausted. No pending ingest.",
-  "last_collection_footer": "X reads left for this user: 22 of 30 this minute (resets at 2026-11-25T01:37:00.000Z), 75 of 1000 today (resets at 2026-11-26T00:00:00.000Z)."
+  "stopping_reason": "true_75_read_reserve_reached",
+  "last_collection_footer": "X reads left for this user: 29 of 30 this minute (resets at 2026-11-26T01:32:00.000Z), 75 of 1000 today (resets at 2026-11-27T00:00:00.000Z).",
+  "day3_added_vs_day2": 138
 }

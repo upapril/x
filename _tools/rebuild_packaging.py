@@ -8,7 +8,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path("/workspace/x-research")
 HANDLES = ["alexandr_wang", "iiiinvest", "silverfang88", "taresky", "thankUcrypto"]
 PROFILE_COUNTS = {
     "alexandr_wang": {"user_id": "615818451", "post_count_at_lookup": 3762, "display": "Alexandr Wang"},

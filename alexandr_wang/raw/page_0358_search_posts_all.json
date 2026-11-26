@@ -1,0 +1,1852 @@
+{
+  "collected_at_utc": "2026-11-26T01:25:54Z",
+  "collected_at_shanghai": "2026-11-26T09:25:54+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQARKZNV6SY0RAQ0SY31DR.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-11-01T00:00:00Z",
+    "end_time": "2026-11-25T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juzlyxng2hv2tn3rzobv2er75a4xh9",
+    "window_label": "2026-11"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118466212074295710",
+      "created_at": "2026-11-05T22:11:18.000Z",
+      "edit_history_tweet_ids": [
+        "2118466212074295710"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/rpnickson/stat…",
+            "end": 52,
+            "expanded_url": "https://twitter.com/rpnickson/status/2118415041775202802",
+            "start": 29,
+            "url": "https://t.co/0lizMfRQDA"
+          }
+        ]
+      },
+      "id": "2118466212074295710",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 40830,
+        "like_count": 264,
+        "quote_count": 1,
+        "reply_count": 64,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118415041775202802",
+          "type": "quoted"
+        }
+      ],
+      "text": "your new favorite phone call https://t.co/0lizMfRQDA",
+      "url": "https://x.com/alexandr_wang/status/2118466212074295710"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118075102747333054",
+      "created_at": "2026-11-05T21:26:55.000Z",
+      "edit_history_tweet_ids": [
+        "2118455042202308967"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1693585632965148672",
+            "start": 0,
+            "username": "_simonsmith"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/alexandr_wang/…",
+            "end": 36,
+            "expanded_url": "https://x.com/alexandr_wang/status/2118411432161403375?a=BvnSQ190yrxJiU10C0U&s=20",
+            "start": 13,
+            "url": "https://t.co/1Vf3HuvOuP"
+          }
+        ]
+      },
+      "id": "2118455042202308967",
+      "in_reply_to_user_id": "615818451",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 14518,
+        "like_count": 42,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118411432161403375",
+          "type": "quoted"
+        },
+        {
+          "id": "2118140159099367436",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_simonsmith https://t.co/1Vf3HuvOuP",
+      "url": "https://x.com/alexandr_wang/status/2118455042202308967"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118454853223829622",
+      "created_at": "2026-11-05T21:26:10.000Z",
+      "edit_history_tweet_ids": [
+        "2118454853223829622"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Muse/status/21…",
+            "end": 90,
+            "expanded_url": "https://twitter.com/Muse/status/2118411960337289583",
+            "start": 67,
+            "url": "https://t.co/clYYPSyypz"
+          }
+        ]
+      },
+      "id": "2118454853223829622",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 156,
+        "impression_count": 144990,
+        "like_count": 1720,
+        "quote_count": 5,
+        "reply_count": 54,
+        "retweet_count": 38
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118411960337289583",
+          "type": "quoted"
+        }
+      ],
+      "text": "live like f1 champion kimi antonelli\n\ntalk to your muse with Voice https://t.co/clYYPSyypz",
+      "url": "https://x.com/alexandr_wang/status/2118454853223829622"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118438696319852544"
+        ],
+        "media_source_tweet_id": [
+          "2118438974385541359"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2118454097104056645",
+      "created_at": "2026-11-05T21:23:10.000Z",
+      "edit_history_tweet_ids": [
+        "2118454097104056645"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Z1dZMx8yvj",
+            "end": 103,
+            "expanded_url": "https://x.com/Muse/status/2118438974385541359/video/1",
+            "media_key": "13_2118438696319852544",
+            "start": 80,
+            "url": "https://t.co/Z1dZMx8yvj"
+          }
+        ]
+      },
+      "id": "2118454097104056645",
+      "lang": "es",
+      "public_metrics": {
+        "bookmark_count": 152,
+        "impression_count": 97471,
+        "like_count": 2100,
+        "quote_count": 44,
+        "reply_count": 204,
+        "retweet_count": 171
+      },
+      "text": "🚨 MUSE LAUNCH ALERT 🚨 \n\nmuse just touched down in mexico 🇲🇽 \nórale, ya llegó 🌮  https://t.co/Z1dZMx8yvj",
+      "url": "https://x.com/alexandr_wang/status/2118454097104056645"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118411432161403375",
+      "created_at": "2026-11-05T18:44:25.000Z",
+      "edit_history_tweet_ids": [
+        "2118414147008582137"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "84490044",
+            "start": 0,
+            "username": "petergyang"
+          }
+        ]
+      },
+      "id": "2118414147008582137",
+      "in_reply_to_user_id": "84490044",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 11828,
+        "like_count": 77,
+        "quote_count": 1,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118412937199227000",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@petergyang i do legitimately have a 1-1 with my boss today 😬 let's see if it comes up",
+      "url": "https://x.com/alexandr_wang/status/2118414147008582137"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2118411099657883648"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2118411432161403375",
+      "created_at": "2026-11-05T18:33:38.000Z",
+      "edit_history_tweet_ids": [
+        "2118411432161403375"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/zTtLa6R1EJ",
+            "end": 266,
+            "expanded_url": "https://x.com/alexandr_wang/status/2118411432161403375/video/1",
+            "media_key": "13_2118411099657883648",
+            "start": 243,
+            "url": "https://t.co/zTtLa6R1EJ"
+          }
+        ]
+      },
+      "id": "2118411432161403375",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 357,
+        "impression_count": 425125,
+        "like_count": 2047,
+        "quote_count": 102,
+        "reply_count": 272,
+        "retweet_count": 230
+      },
+      "text": "🚨MUSE FEATURE ALERT 🚨 \n\nmuse voice is out for everyone in the US!\n\nyou can now phone call and video chat with your muse whenever you need.\n\ni personally have a sticky situation today, and asked muse for some advice. sage and calm as always ❤️ https://t.co/zTtLa6R1EJ",
+      "url": "https://x.com/alexandr_wang/status/2118411432161403375"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118170983643415008",
+      "created_at": "2026-11-05T02:38:10.000Z",
+      "edit_history_tweet_ids": [
+        "2118170983643415008"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/charlieholtz/s…",
+            "end": 73,
+            "expanded_url": "https://twitter.com/charlieholtz/status/2118045232218743264",
+            "start": 50,
+            "url": "https://t.co/zkFlmGy2y5"
+          }
+        ]
+      },
+      "id": "2118170983643415008",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 66,
+        "impression_count": 90302,
+        "like_count": 908,
+        "quote_count": 5,
+        "reply_count": 79,
+        "retweet_count": 38
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118045232218743264",
+          "type": "quoted"
+        }
+      ],
+      "text": "welcome conductor team to meta\n\nmuse gang growing https://t.co/zkFlmGy2y5",
+      "url": "https://x.com/alexandr_wang/status/2118170983643415008"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118075102747333054",
+      "created_at": "2026-11-05T00:35:41.000Z",
+      "edit_history_tweet_ids": [
+        "2118140159099367436"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1693585632965148672",
+            "start": 0,
+            "username": "_simonsmith"
+          }
+        ]
+      },
+      "id": "2118140159099367436",
+      "in_reply_to_user_id": "1693585632965148672",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 24086,
+        "like_count": 122,
+        "quote_count": 0,
+        "reply_count": 15,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118075102747333054",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@_simonsmith 🔜",
+      "url": "https://x.com/alexandr_wang/status/2118140159099367436"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2118045232218743264",
+      "created_at": "2026-11-04T19:03:26.000Z",
+      "edit_history_tweet_ids": [
+        "2118056545821049166"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1244418065854599170",
+            "start": 0,
+            "username": "charlieholtz"
+          },
+          {
+            "end": 26,
+            "id": "13235832",
+            "start": 14,
+            "username": "natfriedman"
+          }
+        ]
+      },
+      "id": "2118056545821049166",
+      "in_reply_to_user_id": "1244418065854599170",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 28013,
+        "like_count": 222,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118045232218743264",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@charlieholtz @natfriedman welcome folks!",
+      "url": "https://x.com/alexandr_wang/status/2118056545821049166"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2118039953305473024"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2118039956346306850",
+      "created_at": "2026-11-04T17:57:31.000Z",
+      "edit_history_tweet_ids": [
+        "2118039956346306850"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/r1ZwVpCuS7",
+            "end": 23,
+            "expanded_url": "https://x.com/alexandr_wang/status/2118039956346306850/photo/1",
+            "media_key": "3_2118039953305473024",
+            "start": 0,
+            "url": "https://t.co/r1ZwVpCuS7"
+          },
+          {
+            "display_url": "x.com/pablomartimar/…",
+            "end": 47,
+            "expanded_url": "https://twitter.com/pablomartimar/status/2118001325367562358",
+            "start": 24,
+            "url": "https://t.co/ukvQKXfON5"
+          }
+        ]
+      },
+      "id": "2118039956346306850",
+      "lang": "zxx",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 54953,
+        "like_count": 550,
+        "quote_count": 10,
+        "reply_count": 77,
+        "retweet_count": 16
+      },
+      "referenced_tweets": [
+        {
+          "id": "2118001325367562358",
+          "type": "quoted"
+        }
+      ],
+      "text": "https://t.co/r1ZwVpCuS7 https://t.co/ukvQKXfON5",
+      "url": "https://x.com/alexandr_wang/status/2118039956346306850"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2117810228762935296"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2117810232634249220",
+      "created_at": "2026-11-04T02:44:41.000Z",
+      "edit_history_tweet_ids": [
+        "2117810232634249220"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/csTwaqARcn",
+            "end": 38,
+            "expanded_url": "https://x.com/alexandr_wang/status/2117810232634249220/photo/1",
+            "media_key": "3_2117810228762935296",
+            "start": 15,
+            "url": "https://t.co/csTwaqARcn"
+          },
+          {
+            "display_url": "x.com/ailogdev/statu…",
+            "end": 62,
+            "expanded_url": "https://twitter.com/ailogdev/status/2117756375627678018",
+            "start": 39,
+            "url": "https://t.co/Za5iPuXo6F"
+          }
+        ]
+      },
+      "id": "2117810232634249220",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 35273,
+        "like_count": 119,
+        "quote_count": 1,
+        "reply_count": 28,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117756375627678018",
+          "type": "quoted"
+        }
+      ],
+      "text": "this is giving https://t.co/csTwaqARcn https://t.co/Za5iPuXo6F",
+      "url": "https://x.com/alexandr_wang/status/2117810232634249220"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117737666288796103",
+      "created_at": "2026-11-03T21:56:19.000Z",
+      "edit_history_tweet_ids": [
+        "2117737666288796103"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/filedfyi/statu…",
+            "end": 43,
+            "expanded_url": "https://twitter.com/filedfyi/status/2117730481768648819",
+            "start": 20,
+            "url": "https://t.co/Gn8MOK26hl"
+          }
+        ]
+      },
+      "id": "2117737666288796103",
+      "lang": "et",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 33864,
+        "like_count": 92,
+        "quote_count": 1,
+        "reply_count": 26,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117730481768648819",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse octoburger...? https://t.co/Gn8MOK26hl",
+      "url": "https://x.com/alexandr_wang/status/2117737666288796103"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117737537141895212",
+      "created_at": "2026-11-03T21:55:49.000Z",
+      "edit_history_tweet_ids": [
+        "2117737537141895212"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/GOROman/status…",
+            "end": 58,
+            "expanded_url": "https://twitter.com/GOROman/status/2117736237830484250",
+            "start": 35,
+            "url": "https://t.co/u7NJx28FlO"
+          }
+        ]
+      },
+      "id": "2117737537141895212",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 12,
+        "impression_count": 35875,
+        "like_count": 183,
+        "quote_count": 5,
+        "reply_count": 19,
+        "retweet_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117736237830484250",
+          "type": "quoted"
+        }
+      ],
+      "text": "woah... so soapy... so slippery... https://t.co/u7NJx28FlO",
+      "url": "https://x.com/alexandr_wang/status/2117737537141895212"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117731040873844984",
+      "created_at": "2026-11-03T21:30:00.000Z",
+      "edit_history_tweet_ids": [
+        "2117731040873844984"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/gin1910410/sta…",
+            "end": 82,
+            "expanded_url": "https://twitter.com/gin1910410/status/2117422350253920684",
+            "start": 59,
+            "url": "https://t.co/Txz3oyyKyW"
+          }
+        ]
+      },
+      "id": "2117731040873844984",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 15,
+        "impression_count": 33148,
+        "like_count": 131,
+        "quote_count": 1,
+        "reply_count": 30,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117422350253920684",
+          "type": "quoted"
+        }
+      ],
+      "text": "pretty awesome how much variety there is in people's muses https://t.co/Txz3oyyKyW",
+      "url": "https://x.com/alexandr_wang/status/2117731040873844984"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117730503348613555",
+      "created_at": "2026-11-03T21:27:52.000Z",
+      "edit_history_tweet_ids": [
+        "2117730503348613555"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/natsutom1231/s…",
+            "end": 98,
+            "expanded_url": "https://twitter.com/natsutom1231/status/2117416984665325973",
+            "start": 75,
+            "url": "https://t.co/LvdJVrcTsn"
+          }
+        ]
+      },
+      "id": "2117730503348613555",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 45065,
+        "like_count": 293,
+        "quote_count": 3,
+        "reply_count": 48,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117416984665325973",
+          "type": "quoted"
+        }
+      ],
+      "text": "i bet you didn't expect this to be the future of short form dancing videos https://t.co/LvdJVrcTsn",
+      "url": "https://x.com/alexandr_wang/status/2117730503348613555"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117728244703412487",
+      "created_at": "2026-11-03T21:18:53.000Z",
+      "edit_history_tweet_ids": [
+        "2117728244703412487"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/sai_jaku_/stat…",
+            "end": 100,
+            "expanded_url": "https://twitter.com/sai_jaku_/status/2117429336836042956",
+            "start": 77,
+            "url": "https://t.co/5lh2zyLbfR"
+          }
+        ]
+      },
+      "id": "2117728244703412487",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 26,
+        "impression_count": 62210,
+        "like_count": 341,
+        "quote_count": 5,
+        "reply_count": 44,
+        "retweet_count": 24
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117429336836042956",
+          "type": "quoted"
+        }
+      ],
+      "text": "incredible things are happening on the timeline\n\nDANCING MUSE IS UNSTOPPABLE https://t.co/5lh2zyLbfR",
+      "url": "https://x.com/alexandr_wang/status/2117728244703412487"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117724172206178336",
+      "created_at": "2026-11-03T21:09:15.000Z",
+      "edit_history_tweet_ids": [
+        "2117725820789932042"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "2096527382257491973",
+            "start": 0,
+            "username": "musecutething"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/Muse/status/21…",
+            "end": 61,
+            "expanded_url": "https://x.com/Muse/status/2117349388087423261?a=bFmOsoBdKuioCKC6cKk&s=20",
+            "start": 38,
+            "url": "https://t.co/GjQqpLi41a"
+          }
+        ]
+      },
+      "id": "2117725820789932042",
+      "in_reply_to_user_id": "2096527382257491973",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3059,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117349388087423261",
+          "type": "quoted"
+        },
+        {
+          "id": "2117724298471477715",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musecutething did you check the sash\nhttps://t.co/GjQqpLi41a",
+      "url": "https://x.com/alexandr_wang/status/2117725820789932042"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117722403996569768",
+      "created_at": "2026-11-03T21:07:52.000Z",
+      "edit_history_tweet_ids": [
+        "2117725469894467808"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "791032702258520064",
+            "start": 0,
+            "username": "promptprxncess"
+          }
+        ]
+      },
+      "id": "2117725469894467808",
+      "in_reply_to_user_id": "791032702258520064",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 4046,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117724013459911022",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@promptprxncess this is incredible",
+      "url": "https://x.com/alexandr_wang/status/2117725469894467808"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117725323651682783",
+      "created_at": "2026-11-03T21:07:17.000Z",
+      "edit_history_tweet_ids": [
+        "2117725323651682783"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/promptprxncess…",
+            "end": 72,
+            "expanded_url": "https://twitter.com/promptprxncess/status/2117724013459911022",
+            "start": 49,
+            "url": "https://t.co/9DlM7ZiH8R"
+          }
+        ]
+      },
+      "id": "2117725323651682783",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 32919,
+        "like_count": 141,
+        "quote_count": 3,
+        "reply_count": 26,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117724013459911022",
+          "type": "quoted"
+        }
+      ],
+      "text": "this is the power of muse\n\nit brings us together https://t.co/9DlM7ZiH8R",
+      "url": "https://x.com/alexandr_wang/status/2117725323651682783"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2117724043147419649"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2117724172206178336",
+      "created_at": "2026-11-03T21:02:42.000Z",
+      "edit_history_tweet_ids": [
+        "2117724172206178336"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/v28hOOtMHd",
+            "end": 180,
+            "expanded_url": "https://x.com/alexandr_wang/status/2117724172206178336/video/1",
+            "media_key": "13_2117724043147419649",
+            "start": 157,
+            "url": "https://t.co/v28hOOtMHd"
+          },
+          {
+            "display_url": "x.com/alexandr_wang/…",
+            "end": 204,
+            "expanded_url": "https://twitter.com/alexandr_wang/status/2117722403996569768",
+            "start": 181,
+            "url": "https://t.co/6l0PiVxX5F"
+          }
+        ]
+      },
+      "id": "2117724172206178336",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 23,
+        "impression_count": 41639,
+        "like_count": 222,
+        "quote_count": 9,
+        "reply_count": 40,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117722403996569768",
+          "type": "quoted"
+        }
+      ],
+      "text": "DANCING MUSE 😇\n\nyou can also post directly from Instagram if your muse is connected to your account!\n\njust go to add story, hit your muse, and get dancing 💃 https://t.co/v28hOOtMHd https://t.co/6l0PiVxX5F",
+      "url": "https://x.com/alexandr_wang/status/2117724172206178336"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2117722215823323136"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2117722403996569768",
+      "created_at": "2026-11-03T20:55:41.000Z",
+      "edit_history_tweet_ids": [
+        "2117722403996569768"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/qLwRGUXzql",
+            "end": 288,
+            "expanded_url": "https://x.com/alexandr_wang/status/2117722403996569768/video/1",
+            "media_key": "13_2117722215823323136",
+            "start": 265,
+            "url": "https://t.co/qLwRGUXzql"
+          }
+        ]
+      },
+      "id": "2117722403996569768",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 99,
+        "impression_count": 122166,
+        "like_count": 608,
+        "quote_count": 39,
+        "reply_count": 142,
+        "retweet_count": 24
+      },
+      "text": "🚨MUSE FEATURE ALERT🚨 \n\nyou can now make your muse dance 💃 ✨ \n\non your Muse chat, just click on your muse, then hit the share button in the top right, and share your Muse dancing to Instagram, Facebook, WhatsApp, or save it!\n\nforget TikTok dances, it’s muse’s turn😇 https://t.co/qLwRGUXzql",
+      "url": "https://x.com/alexandr_wang/status/2117722403996569768"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117142610053832968",
+      "created_at": "2026-11-03T01:13:47.000Z",
+      "edit_history_tweet_ids": [
+        "2117424971006066952"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "1414006496585682947",
+            "start": 0,
+            "username": "Roll1er"
+          }
+        ]
+      },
+      "id": "2117424971006066952",
+      "in_reply_to_user_id": "1414006496585682947",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6093,
+        "like_count": 33,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117142610053832968",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Roll1er wow",
+      "url": "https://x.com/alexandr_wang/status/2117424971006066952"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117424759000686842",
+      "created_at": "2026-11-03T01:12:57.000Z",
+      "edit_history_tweet_ids": [
+        "2117424759000686842"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Muse/status/21…",
+            "end": 129,
+            "expanded_url": "https://twitter.com/Muse/status/2117349388087423261",
+            "start": 106,
+            "url": "https://t.co/VKUib9nEsI"
+          }
+        ]
+      },
+      "id": "2117424759000686842",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 89,
+        "impression_count": 128178,
+        "like_count": 768,
+        "quote_count": 9,
+        "reply_count": 281,
+        "retweet_count": 26
+      },
+      "referenced_tweets": [
+        {
+          "id": "2117349388087423261",
+          "type": "quoted"
+        }
+      ],
+      "text": "100 schmeckles and early access to phone calling to whoever can guess what the sash patches are all about https://t.co/VKUib9nEsI",
+      "url": "https://x.com/alexandr_wang/status/2117424759000686842"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2117181858538791347",
+      "created_at": "2026-11-02T09:07:45.000Z",
+      "edit_history_tweet_ids": [
+        "2117181858538791347"
+      ],
+      "id": "2117181858538791347",
+      "lang": "en",
+      "note_tweet": {
+        "text": "wildwood is a true marvel of human artistry, craftsmanship, and storytelling. i honestly found it even better than You Can See Everything (gasp!).\n\n[spoilers if you read on]\n\nan interesting trend in both wildwood and hoppers is how they handle death. they’re both movies for young people that treat death as inevitable and natural, and both expose the audience to a surprising amount of it. this feels quite different from the cleaner moral universes of much of modern disney and pixar.\n\nboth movies also have strong themes of non-intervention. of course, this is environmentally motivated, but there’s a broader Buddhist / Taoist morality running through both films: the world has a natural balance, and our attempts to impose our own ideas of goodness upon it can be destructive.\n\nthis feels quite different from the more Christian-inflected morality of overcoming evil. in these films, nature isn’t inherently good or evil, and trying to eliminate everything we perceive as bad can itself be the source of harm.\n\ni wonder if this reflects a broader generational shift toward stories where it’s increasingly difficult to know what’s “right” or “wrong”, and where good intentions aren’t enough to make an action good.\n\nboth films feel like spiritual siblings to princess mononoke, questioning the hubris of humans who believe they can impose their will on the natural world.\n\nwildwood is also visually spectacular and a complete and utter artistic achievement. it is always so rewarding to see fresh new takes on what a movie can be and how stories can be told.\n\nhuge fan, go see it!"
+      },
+      "public_metrics": {
+        "bookmark_count": 68,
+        "impression_count": 66429,
+        "like_count": 342,
+        "quote_count": 7,
+        "reply_count": 50,
+        "retweet_count": 16
+      },
+      "text": "wildwood is a true marvel of human artistry, craftsmanship, and storytelling. i honestly found it even better than You Can See Everything (gasp!).\n\n[spoilers if you read on]\n\nan interesting trend in both wildwood and hoppers is how they handle death. they’re both movies for young",
+      "url": "https://x.com/alexandr_wang/status/2117181858538791347"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2116989899073274098",
+      "created_at": "2026-11-01T20:24:58.000Z",
+      "edit_history_tweet_ids": [
+        "2116989899073274098"
+      ],
+      "id": "2116989899073274098",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 53,
+        "impression_count": 139554,
+        "like_count": 1755,
+        "quote_count": 9,
+        "reply_count": 108,
+        "retweet_count": 38
+      },
+      "text": "psa: if you met muse last night at halloween and (s)he asked for ur number, that is NOT muse and is a phishing attack",
+      "url": "https://x.com/alexandr_wang/status/2116989899073274098"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2118412747134177280"
+          ]
+        },
+        "author_id": "16517825",
+        "conversation_id": "2118415041775202802",
+        "created_at": "2026-11-05T18:47:58.000Z",
+        "edit_history_tweet_ids": [
+          "2118415041775202802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqpiBapFkJ",
+              "end": 70,
+              "expanded_url": "https://x.com/rpnickson/status/2118415041775202802/video/1",
+              "media_key": "13_2118412747134177280",
+              "start": 47,
+              "url": "https://t.co/jqpiBapFkJ"
+            },
+            {
+              "display_url": "x.com/finkd/status/2…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/finkd/status/2118410617698517088",
+              "start": 71,
+              "url": "https://t.co/QZi9iAKqmR"
+            }
+          ]
+        },
+        "id": "2118415041775202802",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 39599,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2118410617698517088",
+            "type": "quoted"
+          }
+        ],
+        "text": "Two-way voice conversation is now live in Muse https://t.co/jqpiBapFkJ https://t.co/QZi9iAKqmR"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "2118075102747333054",
+        "created_at": "2026-11-05T00:35:41.000Z",
+        "edit_history_tweet_ids": [
+          "2118140159099367436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693585632965148672",
+              "start": 0,
+              "username": "_simonsmith"
+            }
+          ]
+        },
+        "id": "2118140159099367436",
+        "in_reply_to_user_id": "1693585632965148672",
+        "lang": "qme",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 24086,
+          "like_count": 122,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2118075102747333054",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@_simonsmith 🔜"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2118411099657883648"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "2118411432161403375",
+        "created_at": "2026-11-05T18:33:38.000Z",
+        "edit_history_tweet_ids": [
+          "2118411432161403375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zTtLa6R1EJ",
+              "end": 266,
+              "expanded_url": "https://x.com/alexandr_wang/status/2118411432161403375/video/1",
+              "media_key": "13_2118411099657883648",
+              "start": 243,
+              "url": "https://t.co/zTtLa6R1EJ"
+            }
+          ]
+        },
+        "id": "2118411432161403375",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 357,
+          "impression_count": 425125,
+          "like_count": 2047,
+          "quote_count": 102,
+          "reply_count": 272,
+          "retweet_count": 230
+        },
+        "text": "🚨MUSE FEATURE ALERT 🚨 \n\nmuse voice is out for everyone in the US!\n\nyou can now phone call and video chat with your muse whenever you need.\n\ni personally have a sticky situation today, and asked muse for some advice. sage and calm as always ❤️ https://t.co/zTtLa6R1EJ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2118400683942477824"
+          ]
+        },
+        "author_id": "2052434492263178240",
+        "conversation_id": "2118411960337289583",
+        "created_at": "2026-11-05T18:35:44.000Z",
+        "edit_history_tweet_ids": [
+          "2118411960337289583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEcRTqPkn2",
+              "end": 151,
+              "expanded_url": "https://x.com/Muse/status/2118411960337289583/video/1",
+              "media_key": "13_2118400683942477824",
+              "start": 128,
+              "url": "https://t.co/pEcRTqPkn2"
+            }
+          ]
+        },
+        "id": "2118411960337289583",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 567,
+          "impression_count": 498812,
+          "like_count": 3527,
+          "quote_count": 181,
+          "reply_count": 185,
+          "retweet_count": 307
+        },
+        "text": "Introducing Voice. Talk to your Muse and Muse talks back, so you can go from “what should I cook?” to cooking, just like that ✨ https://t.co/pEcRTqPkn2"
+      },
+      {
+        "author_id": "84490044",
+        "conversation_id": "2118411432161403375",
+        "created_at": "2026-11-05T18:39:37.000Z",
+        "edit_history_tweet_ids": [
+          "2118412937199227000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2118412937199227000",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10191,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2118411432161403375",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang lol don't listen to your muse that's terrible advice keep the memes coming and dank"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2118044320859406337"
+          ]
+        },
+        "author_id": "1244418065854599170",
+        "conversation_id": "2118045232218743264",
+        "created_at": "2026-11-04T18:18:29.000Z",
+        "edit_history_tweet_ids": [
+          "2118045232218743264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 217,
+              "id": "13235832",
+              "start": 205,
+              "username": "natfriedman"
+            },
+            {
+              "end": 236,
+              "id": "615818451",
+              "start": 222,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pjzJkTEp1v",
+              "end": 299,
+              "expanded_url": "https://x.com/charlieholtz/status/2118045232218743264/video/1",
+              "media_key": "13_2118044320859406337",
+              "start": 276,
+              "url": "https://t.co/pjzJkTEp1v"
+            }
+          ]
+        },
+        "id": "2118045232218743264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 217,
+                "id": "13235832",
+                "start": 205,
+                "username": "natfriedman"
+              },
+              {
+                "end": 236,
+                "id": "615818451",
+                "start": 222,
+                "username": "alexandr_wang"
+              },
+              {
+                "end": 419,
+                "id": "28612255",
+                "start": 405,
+                "username": "aaron_epstein"
+              },
+              {
+                "end": 428,
+                "id": "116669011",
+                "start": 421,
+                "username": "ilyasu"
+              },
+              {
+                "end": 441,
+                "id": "2565",
+                "start": 434,
+                "username": "nabeel"
+              }
+            ]
+          },
+          "text": "I am very excited to share that Conductor is joining Meta!\n\nWe have some big, crazy plans for the next interface. If you liked Conductor, you’re gonna love what’s coming.\n\nWe’re super excited to work with @natfriedman and @alexandr_wang at MSL to build it. They’ve been on an absolute tear, and I’m convinced MSL has the highest talent density of all the labs.\n\nA huge thank you to our earliest believers @aaron_epstein, @ilyasu, and @nabeel. And to everyone here who tried Conductor, sent us feedback, and prompt requests - you made this so much fun. Thank you ❤️🚂\n\nChoo choo!"
+        },
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 1440069,
+          "like_count": 4438,
+          "quote_count": 392,
+          "reply_count": 802,
+          "retweet_count": 161
+        },
+        "text": "I am very excited to share that Conductor is joining Meta!\n\nWe have some big, crazy plans for the next interface. If you liked Conductor, you’re gonna love what’s coming.\n\nWe’re super excited to work with @natfriedman and @alexandr_wang at MSL to build it. They’ve been on an https://t.co/pjzJkTEp1v"
+      },
+      {
+        "author_id": "1693585632965148672",
+        "conversation_id": "2118075102747333054",
+        "created_at": "2026-11-04T20:17:11.000Z",
+        "edit_history_tweet_ids": [
+          "2118075102747333054"
+        ],
+        "id": "2118075102747333054",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 35191,
+          "like_count": 127,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "text": "Not to be ungrateful, but where the hell is Muse voice mode?"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2118001321290674176"
+          ]
+        },
+        "author_id": "1348589873758957568",
+        "conversation_id": "2118001325367562358",
+        "created_at": "2026-11-04T15:24:01.000Z",
+        "edit_history_tweet_ids": [
+          "2118001325367562358"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 197,
+              "start": 192,
+              "tag": "META"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKTgR3W7jh",
+              "end": 221,
+              "expanded_url": "https://x.com/pablomartimar/status/2118001325367562358/photo/1",
+              "media_key": "3_2118001321290674176",
+              "start": 198,
+              "url": "https://t.co/kKTgR3W7jh"
+            }
+          ]
+        },
+        "id": "2118001325367562358",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 70488,
+          "like_count": 322,
+          "quote_count": 14,
+          "reply_count": 19,
+          "retweet_count": 26
+        },
+        "text": "Muse from Meta, US App Store downloads last week:\n\nMuse 942K\nChatGPT 556K\nGemini 341K\nGrok 239K\n\n1.7x ChatGPT, eight weeks after launch. And in Japan it's #1 in Productivity, ahead of ChatGPT $META https://t.co/kKTgR3W7jh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117756355285286912"
+          ]
+        },
+        "author_id": "2028832505995100161",
+        "conversation_id": "2117756375627678018",
+        "created_at": "2026-11-03T23:10:40.000Z",
+        "edit_history_tweet_ids": [
+          "2117756375627678018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q9K4rq1M99",
+              "end": 58,
+              "expanded_url": "https://x.com/AILogDev/status/2117756375627678018/video/1",
+              "media_key": "13_2117756355285286912",
+              "start": 35,
+              "url": "https://t.co/Q9K4rq1M99"
+            }
+          ]
+        },
+        "id": "2117756375627678018",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 35404,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "text": "これが噂のMuseダンスか…\nうちの子は硬そうなのに動き柔らかいな… https://t.co/Q9K4rq1M99"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117730359345348609"
+          ]
+        },
+        "author_id": "1923709631265959936",
+        "conversation_id": "2117722403996569768",
+        "created_at": "2026-11-03T21:27:47.000Z",
+        "edit_history_tweet_ids": [
+          "2117730481768648819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "791032702258520064",
+              "start": 0,
+              "username": "promptprxncess"
+            },
+            {
+              "end": 30,
+              "id": "615818451",
+              "start": 16,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwVCb6Q9ho",
+              "end": 87,
+              "expanded_url": "https://x.com/filedfyi/status/2117730481768648819/video/1",
+              "media_key": "13_2117730359345348609",
+              "start": 64,
+              "url": "https://t.co/zwVCb6Q9ho"
+            }
+          ]
+        },
+        "id": "2117730481768648819",
+        "in_reply_to_user_id": "791032702258520064",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 29273,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2117724013459911022",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@promptprxncess @alexandr_wang There's only three songs so far? https://t.co/zwVCb6Q9ho"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117736222588334080"
+          ]
+        },
+        "author_id": "7622742",
+        "conversation_id": "2117736237830484250",
+        "created_at": "2026-11-03T21:50:39.000Z",
+        "edit_history_tweet_ids": [
+          "2117736237830484250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri9VVFNgse",
+              "end": 28,
+              "expanded_url": "https://x.com/GOROman/status/2117736237830484250/video/1",
+              "media_key": "13_2117736222588334080",
+              "start": 5,
+              "url": "https://t.co/Ri9VVFNgse"
+            },
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2117722403996569768",
+              "start": 29,
+              "url": "https://t.co/WvcLlT4Bsd"
+            }
+          ]
+        },
+        "id": "2117736237830484250",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 31931,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2117722403996569768",
+            "type": "quoted"
+          }
+        ],
+        "text": "なるほど https://t.co/Ri9VVFNgse https://t.co/WvcLlT4Bsd"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2117422271950360576",
+            "13_2117422307648126976"
+          ]
+        },
+        "author_id": "1921189387980992512",
+        "conversation_id": "2117422350253920684",
+        "created_at": "2026-11-03T01:03:22.000Z",
+        "edit_history_tweet_ids": [
+          "2117422350253920684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQ9py8849K",
+              "end": 29,
+              "expanded_url": "https://x.com/gin1910410/status/2117422350253920684/video/1",
+              "media_key": "3_2117422271950360576",
+              "start": 6,
+              "url": "https://t.co/bQ9py8849K"
+            },
+            {
+              "display_url": "pic.x.com/bQ9py8849K",
+              "end": 29,
+              "expanded_url": "https://x.com/gin1910410/status/2117422350253920684/video/2",
+              "media_key": "13_2117422307648126976",
+              "start": 6,
+              "url": "https://t.co/bQ9py8849K"
+            }
+          ]
+        },
+        "id": "2117422350253920684",
+        "lang": "zxx",
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 36309,
+          "like_count": 60,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "text": "！！？？？ https://t.co/bQ9py8849K"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117416969406423040"
+          ]
+        },
+        "author_id": "1968239625971154944",
+        "conversation_id": "2117416984665325973",
+        "created_at": "2026-11-03T00:42:03.000Z",
+        "edit_history_tweet_ids": [
+          "2117416984665325973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YA9l8q06Jy",
+              "end": 75,
+              "expanded_url": "https://x.com/natsutom1231/status/2117416984665325973/video/1",
+              "media_key": "13_2117416969406423040",
+              "start": 52,
+              "url": "https://t.co/YA9l8q06Jy"
+            }
+          ]
+        },
+        "id": "2117416984665325973",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 43019,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "text": "踊ってんの可愛いけどww 🐍外しておいてよかったwwwもしそんなの見たら爆笑して崩れ落ちてしまうwww https://t.co/YA9l8q06Jy"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2117429287209086976",
+            "13_2117429287246761984"
+          ]
+        },
+        "author_id": "1658460195566272512",
+        "conversation_id": "2117429336836042956",
+        "created_at": "2026-11-03T01:31:08.000Z",
+        "edit_history_tweet_ids": [
+          "2117429336836042956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQgazYE7Nm",
+              "end": 59,
+              "expanded_url": "https://x.com/sai_jaku_/status/2117429336836042956/video/1",
+              "media_key": "3_2117429287209086976",
+              "start": 36,
+              "url": "https://t.co/NQgazYE7Nm"
+            },
+            {
+              "display_url": "pic.x.com/NQgazYE7Nm",
+              "end": 59,
+              "expanded_url": "https://x.com/sai_jaku_/status/2117429336836042956/video/2",
+              "media_key": "13_2117429287246761984",
+              "start": 36,
+              "url": "https://t.co/NQgazYE7Nm"
+            }
+          ]
+        },
+        "id": "2117429336836042956",
+        "lang": "ja",
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 147331,
+          "like_count": 650,
+          "quote_count": 30,
+          "reply_count": 10,
+          "retweet_count": 49
+        },
+        "text": "朝開いたら変なダンス送られてきてるの気付いて困惑\n投稿しろってことかな https://t.co/NQgazYE7Nm"
+      },
+      {
+        "author_id": "2096527382257491973",
+        "conversation_id": "2117724172206178336",
+        "created_at": "2026-11-03T21:03:12.000Z",
+        "edit_history_tweet_ids": [
+          "2117724298471477715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2117724298471477715",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2495,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2117724172206178336",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Bro just Roll out Voice Mode please 😭🙏"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117344138924265472"
+          ]
+        },
+        "author_id": "2052434492263178240",
+        "conversation_id": "2117349388087423261",
+        "created_at": "2026-11-02T20:13:27.000Z",
+        "edit_history_tweet_ids": [
+          "2117349388087423261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoZpldcjEw",
+              "end": 159,
+              "expanded_url": "https://x.com/Muse/status/2117349388087423261/video/1",
+              "media_key": "13_2117344138924265472",
+              "start": 136,
+              "url": "https://t.co/LoZpldcjEw"
+            }
+          ]
+        },
+        "id": "2117349388087423261",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 294542,
+          "like_count": 920,
+          "quote_count": 33,
+          "reply_count": 106,
+          "retweet_count": 64
+        },
+        "text": "Some patches go in an app. Some go on a sash. Every one here is something we’ve shipped since launch 🚀\n\nLet's take a look at the sash ↓ https://t.co/LoZpldcjEw"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117723972527693824"
+          ]
+        },
+        "author_id": "791032702258520064",
+        "conversation_id": "2117722403996569768",
+        "created_at": "2026-11-03T21:02:04.000Z",
+        "edit_history_tweet_ids": [
+          "2117724013459911022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwaWtEOEWe",
+              "end": 85,
+              "expanded_url": "https://x.com/promptprxncess/status/2117724013459911022/video/1",
+              "media_key": "13_2117723972527693824",
+              "start": 62,
+              "url": "https://t.co/JwaWtEOEWe"
+            }
+          ]
+        },
+        "id": "2117724013459911022",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 33174,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2117722403996569768",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang lmao i love it \n\ncould we please get a reset 👀 https://t.co/JwaWtEOEWe"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2117722215823323136"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "2117722403996569768",
+        "created_at": "2026-11-03T20:55:41.000Z",
+        "edit_history_tweet_ids": [
+          "2117722403996569768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLwRGUXzql",
+              "end": 288,
+              "expanded_url": "https://x.com/alexandr_wang/status/2117722403996569768/video/1",
+              "media_key": "13_2117722215823323136",
+              "start": 265,
+              "url": "https://t.co/qLwRGUXzql"
+            }
+          ]
+        },
+        "id": "2117722403996569768",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 122166,
+          "like_count": 608,
+          "quote_count": 39,
+          "reply_count": 142,
+          "retweet_count": 24
+        },
+        "text": "🚨MUSE FEATURE ALERT🚨 \n\nyou can now make your muse dance 💃 ✨ \n\non your Muse chat, just click on your muse, then hit the share button in the top right, and share your Muse dancing to Instagram, Facebook, WhatsApp, or save it!\n\nforget TikTok dances, it’s muse’s turn😇 https://t.co/qLwRGUXzql"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2117142603107811328"
+          ]
+        },
+        "author_id": "1414006496585682947",
+        "conversation_id": "2117142610053832968",
+        "created_at": "2026-11-02T06:31:47.000Z",
+        "edit_history_tweet_ids": [
+          "2117142610053832968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDzRRD35YA",
+              "end": 72,
+              "expanded_url": "https://x.com/Roll1er/status/2117142610053832968/photo/1",
+              "media_key": "3_2117142603107811328",
+              "start": 49,
+              "url": "https://t.co/KDzRRD35YA"
+            }
+          ]
+        },
+        "id": "2117142610053832968",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7386,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "text": "Getting back to the office after a long weekend. https://t.co/KDzRRD35YA"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "84490044",
+        "name": "Peter Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454103621516206083/_klMwpkk_normal.jpg",
+        "username": "petergyang",
+        "verified": false
+      },
+      {
+        "id": "1693585632965148672",
+        "name": "Simon Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893071963570012160/XJPttxhY_normal.jpg",
+        "username": "_simonsmith",
+        "verified": false
+      },
+      {
+        "id": "1244418065854599170",
+        "name": "Charlie Holtz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871745741888131072/0jtnhtlu_normal.jpg",
+        "username": "charlieholtz",
+        "verified": false
+      },
+      {
+        "id": "2096527382257491973",
+        "name": "meta AI Cute thing official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103448088790614016/-FK-t7eX_normal.jpg",
+        "username": "musecutething",
+        "verified": false
+      },
+      {
+        "id": "791032702258520064",
+        "name": "emily ʚଓ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2120027518925193216/SyuFquxM_normal.jpg",
+        "username": "promptprxncess",
+        "verified": false
+      },
+      {
+        "id": "1414006496585682947",
+        "name": "Roll1er",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077613387660357632/8GajSx0B_normal.jpg",
+        "username": "Roll1er",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2118466212074295710",
+    "next_token": "b26v89c19zqg8o3juzly3iormr2p4zq759z8zvvzft1fh",
+    "oldest_id": "2116989899073274098",
+    "result_count": 25
+  },
+  "errors": []
+}

@@ -1,0 +1,1819 @@
+{
+  "collected_at_utc": "2026-11-26T01:28:20Z",
+  "collected_at_shanghai": "2026-11-26T09:28:20+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQF9Q15KB94X5A7YWZCJ2K.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-09-01T00:00:00Z",
+    "end_time": "2026-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juziw7bdiv62tky7rzd34ltndgl859",
+    "window_label": "2026-09"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2101027755098030485",
+      "created_at": "2026-09-18T19:17:06.000Z",
+      "edit_history_tweet_ids": [
+        "2101027755098030485"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 120,
+            "id": "19082500",
+            "start": 113,
+            "username": "altcap"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/hpierrejacques…",
+            "end": 145,
+            "expanded_url": "https://twitter.com/hpierrejacques/status/2101016814306136545",
+            "start": 122,
+            "url": "https://t.co/2Jw5x67Ho1"
+          }
+        ]
+      },
+      "id": "2101027755098030485",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 65,
+        "impression_count": 63173,
+        "like_count": 228,
+        "quote_count": 0,
+        "reply_count": 17,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2101016814306136545",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse can help you get free medical care!! \n\nit's pretty amazing what people have been able to do with muse\n\n(h/t @altcap) https://t.co/2Jw5x67Ho1",
+      "url": "https://x.com/alexandr_wang/status/2101027755098030485"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2101002970699911410",
+      "created_at": "2026-09-18T17:38:37.000Z",
+      "edit_history_tweet_ids": [
+        "2101002970699911410"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Inspiration for your agent. A public directory of prompts people copy into Muse or another agent that runs on its own virtual machine.",
+            "display_url": "musecases.app",
+            "end": 55,
+            "expanded_url": "https://musecases.app",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2103860080185909248/Zv92QThJ?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2103860080185909248/Zv92QThJ?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 32,
+            "status": 200,
+            "title": "Musecases — Inspiration for your agent",
+            "unwound_url": "https://musecases.app",
+            "url": "https://t.co/j6jsHp18Hf"
+          },
+          {
+            "display_url": "x.com/mattsilv/statu…",
+            "end": 101,
+            "expanded_url": "https://twitter.com/mattsilv/status/2100916008743555373",
+            "start": 78,
+            "url": "https://t.co/IW0xFinaOG"
+          }
+        ]
+      },
+      "id": "2101002970699911410",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 458,
+        "impression_count": 204504,
+        "like_count": 610,
+        "quote_count": 8,
+        "reply_count": 69,
+        "retweet_count": 23
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100916008743555373",
+          "type": "quoted"
+        }
+      ],
+      "text": "MUSE MADNESS!!!\n\nalso check out https://t.co/j6jsHp18Hf to get going quickly! https://t.co/IW0xFinaOG",
+      "url": "https://x.com/alexandr_wang/status/2101002970699911410"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100974982981628123",
+      "created_at": "2026-09-18T15:47:24.000Z",
+      "edit_history_tweet_ids": [
+        "2100974982981628123"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/AlexKlarfeld/s…",
+            "end": 115,
+            "expanded_url": "https://twitter.com/AlexKlarfeld/status/2100949455008895484",
+            "start": 92,
+            "url": "https://t.co/bSYFsSG08y"
+          }
+        ]
+      },
+      "id": "2100974982981628123",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 41,
+        "impression_count": 49162,
+        "like_count": 330,
+        "quote_count": 2,
+        "reply_count": 42,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100949455008895484",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse feed to stay on top of everything!\n\nit is the most configurable feed in the world! https://t.co/bSYFsSG08y",
+      "url": "https://x.com/alexandr_wang/status/2100974982981628123"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100947050976415808",
+      "created_at": "2026-09-18T13:56:25.000Z",
+      "edit_history_tweet_ids": [
+        "2100947050976415808"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/mikepat711/sta…",
+            "end": 64,
+            "expanded_url": "https://twitter.com/mikepat711/status/2100738656478576673",
+            "start": 41,
+            "url": "https://t.co/7vECfwCFkl"
+          }
+        ]
+      },
+      "id": "2100947050976415808",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 34978,
+        "like_count": 190,
+        "quote_count": 1,
+        "reply_count": 50,
+        "retweet_count": 10
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100738656478576673",
+          "type": "quoted"
+        }
+      ],
+      "text": "the muse Mac app gives you superpowers!! https://t.co/7vECfwCFkl",
+      "url": "https://x.com/alexandr_wang/status/2100947050976415808"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100943445682708729",
+      "created_at": "2026-09-18T13:42:05.000Z",
+      "edit_history_tweet_ids": [
+        "2100943445682708729"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/wisemancap/sta…",
+            "end": 53,
+            "expanded_url": "https://twitter.com/wisemancap/status/2100905642861199628",
+            "start": 30,
+            "url": "https://t.co/R0ivZKfMEf"
+          }
+        ]
+      },
+      "id": "2100943445682708729",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 37,
+        "impression_count": 183998,
+        "like_count": 1028,
+        "quote_count": 17,
+        "reply_count": 138,
+        "retweet_count": 37
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100905642861199628",
+          "type": "quoted"
+        }
+      ],
+      "text": "IT’S MUSE MADNESS!!!!!!!! 🎉🎉🎉 https://t.co/R0ivZKfMEf",
+      "url": "https://x.com/alexandr_wang/status/2100943445682708729"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100941268285304855",
+      "created_at": "2026-09-18T13:33:26.000Z",
+      "edit_history_tweet_ids": [
+        "2100941268285304855"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/dps/status/210…",
+            "end": 117,
+            "expanded_url": "https://twitter.com/dps/status/2100839717134877116",
+            "start": 94,
+            "url": "https://t.co/H1x0u6Q7tB"
+          }
+        ]
+      },
+      "id": "2100941268285304855",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 84,
+        "impression_count": 58119,
+        "like_count": 474,
+        "quote_count": 3,
+        "reply_count": 36,
+        "retweet_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100839717134877116",
+          "type": "quoted"
+        }
+      ],
+      "text": "you can finally find a use for the iPhone action button with muse!\n\ni call it muse speed dial https://t.co/H1x0u6Q7tB",
+      "url": "https://x.com/alexandr_wang/status/2100941268285304855"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100831760821223659",
+      "created_at": "2026-09-18T06:18:18.000Z",
+      "edit_history_tweet_ids": [
+        "2100831760821223659"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/RE_Notion/stat…",
+            "end": 68,
+            "expanded_url": "https://twitter.com/RE_Notion/status/2099932324964217205",
+            "start": 45,
+            "url": "https://t.co/ULNhPzFXDx"
+          }
+        ]
+      },
+      "id": "2100831760821223659",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 16,
+        "impression_count": 29468,
+        "like_count": 139,
+        "quote_count": 1,
+        "reply_count": 35,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2099932324964217205",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse to deal with all your insurance bs! https://t.co/ULNhPzFXDx",
+      "url": "https://x.com/alexandr_wang/status/2100831760821223659"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100831572773732551",
+      "created_at": "2026-09-18T06:17:33.000Z",
+      "edit_history_tweet_ids": [
+        "2100831572773732551"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/startupoppa/st…",
+            "end": 53,
+            "expanded_url": "https://twitter.com/startupoppa/status/2100724634618679691",
+            "start": 30,
+            "url": "https://t.co/aNEfF7812B"
+          }
+        ]
+      },
+      "id": "2100831572773732551",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 46245,
+        "like_count": 473,
+        "quote_count": 1,
+        "reply_count": 49,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100724634618679691",
+          "type": "quoted"
+        }
+      ],
+      "text": "dock muse to change your life https://t.co/aNEfF7812B",
+      "url": "https://x.com/alexandr_wang/status/2100831572773732551"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100724634618679691",
+      "created_at": "2026-09-18T06:15:17.000Z",
+      "edit_history_tweet_ids": [
+        "2100831003397017912"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1176051260",
+            "start": 0,
+            "username": "startupoppa"
+          }
+        ]
+      },
+      "id": "2100831003397017912",
+      "in_reply_to_user_id": "1176051260",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2839,
+        "like_count": 19,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100724634618679691",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@startupoppa hell yeah",
+      "url": "https://x.com/alexandr_wang/status/2100831003397017912"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100830872303964304",
+      "created_at": "2026-09-18T06:14:46.000Z",
+      "edit_history_tweet_ids": [
+        "2100830872303964304"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/hrhraj/status/…",
+            "end": 97,
+            "expanded_url": "https://twitter.com/hrhraj/status/2100802236511363102",
+            "start": 74,
+            "url": "https://t.co/w5Lwh85faR"
+          }
+        ]
+      },
+      "id": "2100830872303964304",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 31,
+        "impression_count": 46123,
+        "like_count": 255,
+        "quote_count": 2,
+        "reply_count": 25,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100802236511363102",
+          "type": "quoted"
+        }
+      ],
+      "text": "muse is out there controlling this robot!!\n\nwe’re rooting for you buddy!! https://t.co/w5Lwh85faR",
+      "url": "https://x.com/alexandr_wang/status/2100830872303964304"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100767465114644772",
+      "created_at": "2026-09-18T06:12:03.000Z",
+      "edit_history_tweet_ids": [
+        "2100830190624715193"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "14942436",
+            "start": 0,
+            "username": "ibaklanov"
+          }
+        ]
+      },
+      "id": "2100830190624715193",
+      "in_reply_to_user_id": "14942436",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3427,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100767465114644772",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ibaklanov 🙃",
+      "url": "https://x.com/alexandr_wang/status/2100830190624715193"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2100829301356851200"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2100829303563067587",
+      "created_at": "2026-09-18T06:08:32.000Z",
+      "edit_history_tweet_ids": [
+        "2100829303563067587"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/0lwhijlpj3",
+            "end": 186,
+            "expanded_url": "https://x.com/alexandr_wang/status/2100829303563067587/photo/1",
+            "media_key": "3_2100829301356851200",
+            "start": 163,
+            "url": "https://t.co/0lwhijlpj3"
+          }
+        ]
+      },
+      "id": "2100829303563067587",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 116,
+        "impression_count": 288728,
+        "like_count": 2948,
+        "quote_count": 94,
+        "reply_count": 266,
+        "retweet_count": 170
+      },
+      "text": "a week after launch, muse is now the #1 app in the App Store!\n\nit’s been SO exciting to see how much y’all have done with muse. we can’t wait to do more together! https://t.co/0lwhijlpj3",
+      "url": "https://x.com/alexandr_wang/status/2100829303563067587"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100726980782199219",
+      "created_at": "2026-09-17T23:21:56.000Z",
+      "edit_history_tweet_ids": [
+        "2100726980782199219"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/franklyn_chien…",
+            "end": 67,
+            "expanded_url": "https://twitter.com/franklyn_chien/status/2100253836296540525",
+            "start": 44,
+            "url": "https://t.co/GW7Vzk0RUv"
+          }
+        ]
+      },
+      "id": "2100726980782199219",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 21,
+        "impression_count": 33513,
+        "like_count": 134,
+        "quote_count": 0,
+        "reply_count": 26,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100253836296540525",
+          "type": "quoted"
+        }
+      ],
+      "text": "save over $700 on your insurance with muse! https://t.co/GW7Vzk0RUv",
+      "url": "https://x.com/alexandr_wang/status/2100726980782199219"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100725603465064613",
+      "created_at": "2026-09-17T23:16:28.000Z",
+      "edit_history_tweet_ids": [
+        "2100725603465064613"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/scottshapiro/s…",
+            "end": 30,
+            "expanded_url": "https://twitter.com/scottshapiro/status/2100718816410092007",
+            "start": 7,
+            "url": "https://t.co/lJmhA0cbEd"
+          }
+        ]
+      },
+      "id": "2100725603465064613",
+      "lang": "art",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 40644,
+        "like_count": 233,
+        "quote_count": 1,
+        "reply_count": 11,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100718816410092007",
+          "type": "quoted"
+        }
+      ],
+      "text": "⚡️⚡️⚡️ https://t.co/lJmhA0cbEd",
+      "url": "https://x.com/alexandr_wang/status/2100725603465064613"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100717269861167524",
+      "created_at": "2026-09-17T22:43:21.000Z",
+      "edit_history_tweet_ids": [
+        "2100717269861167524"
+      ],
+      "id": "2100717269861167524",
+      "lang": "en",
+      "note_tweet": {
+        "text": "the most underrated part of muse is the model that powers it. thank you to the MSL research team—some of the most technically brilliant, hardworking scientists and engineers i’ve ever known. you brought original ideas to difficult problems, invented new methods, and battled through enormous technical complexity to build the jewel at the heart of muse.\n\nthank you to the teams working on agentic post-training, tool and computer use, memory, personalization, alignment, safety, and multimodal understanding. thank you to the people building data, evals, and infrastructure beneath it all. so much scientific ingenuity lives in those details: designing a better experiment, finding the flaw in an apparently good result, staying with a stubborn problem until a new way forward becomes clear.\n\nand now that jewel powers a beautiful product your grandma can use without knowing a thing about the extraordinary complexity underneath. it will just work for her. all those discoveries, all that patient work, becoming something simple and useful in another person’s hands. there is something magical about that. i’m grateful to be building with you."
+      },
+      "public_metrics": {
+        "bookmark_count": 123,
+        "impression_count": 206496,
+        "like_count": 1555,
+        "quote_count": 29,
+        "reply_count": 73,
+        "retweet_count": 98
+      },
+      "text": "the most underrated part of muse is the model that powers it. thank you to the MSL research team—some of the most technically brilliant, hardworking scientists and engineers i’ve ever known. you brought original ideas to difficult problems, invented new methods, and battled",
+      "url": "https://x.com/alexandr_wang/status/2100717269861167524"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "16_2100710949766512640"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2100714048329580957",
+      "created_at": "2026-09-17T22:30:33.000Z",
+      "edit_history_tweet_ids": [
+        "2100714048329580957"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Download Muse and get your free personal AI agent on your device. Organize files, handle tasks and connect Messages, Calendar and Notes. Download now.",
+            "display_url": "ai.meta.com/muse/download/",
+            "end": 266,
+            "expanded_url": "https://ai.meta.com/muse/download/",
+            "images": [
+              {
+                "height": 1340,
+                "url": "https://pbs.twimg.com/news_img/2124450095928365056/sf0jRUr3?format=jpg&name=orig",
+                "width": 2400
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124450095928365056/sf0jRUr3?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 243,
+            "status": 200,
+            "title": "Download Muse: Free AI Agent for Mac & Mobile | AI at Meta",
+            "unwound_url": "https://ai.meta.com/muse/download/",
+            "url": "https://t.co/bFHgBZlkLj"
+          },
+          {
+            "display_url": "pic.x.com/mecGVDzXiq",
+            "end": 290,
+            "expanded_url": "https://x.com/alexandr_wang/status/2100714048329580957/photo/1",
+            "media_key": "16_2100710949766512640",
+            "start": 267,
+            "url": "https://t.co/mecGVDzXiq"
+          }
+        ]
+      },
+      "id": "2100714048329580957",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 386,
+        "impression_count": 300604,
+        "like_count": 1975,
+        "quote_count": 85,
+        "reply_count": 310,
+        "retweet_count": 116
+      },
+      "text": "muse for mac is HERE!! your agent can now get stuff done right on your computer — files, messages, calendar, notes, all of it.\n\nyou're in control of what it can access, and it always asks before doing anything sensitive.\n\nAdd it to the dock - https://t.co/bFHgBZlkLj https://t.co/mecGVDzXiq",
+      "url": "https://x.com/alexandr_wang/status/2100714048329580957"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100702036769821174",
+      "created_at": "2026-09-17T21:42:49.000Z",
+      "edit_history_tweet_ids": [
+        "2100702036769821174"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/pepemoonboy/st…",
+            "end": 102,
+            "expanded_url": "https://twitter.com/pepemoonboy/status/2100652809028845676",
+            "start": 79,
+            "url": "https://t.co/04ek2H9znN"
+          }
+        ]
+      },
+      "id": "2100702036769821174",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 54,
+        "impression_count": 94909,
+        "like_count": 578,
+        "quote_count": 4,
+        "reply_count": 61,
+        "retweet_count": 24
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100652809028845676",
+          "type": "quoted"
+        }
+      ],
+      "text": "listen to investor pepe...\n\nthe reviews on muse are beyond our wildest dreams! https://t.co/04ek2H9znN",
+      "url": "https://x.com/alexandr_wang/status/2100702036769821174"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100673357373202597",
+      "created_at": "2026-09-17T19:48:51.000Z",
+      "edit_history_tweet_ids": [
+        "2100673357373202597"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/atbeme/status/…",
+            "end": 48,
+            "expanded_url": "https://twitter.com/atbeme/status/2100637381015597543",
+            "start": 25,
+            "url": "https://t.co/roucVJzFfH"
+          }
+        ]
+      },
+      "id": "2100673357373202597",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 28858,
+        "like_count": 193,
+        "quote_count": 2,
+        "reply_count": 28,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100637381015597543",
+          "type": "quoted"
+        }
+      ],
+      "text": "and your muse loves you! https://t.co/roucVJzFfH",
+      "url": "https://x.com/alexandr_wang/status/2100673357373202597"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100660500199846035",
+      "created_at": "2026-09-17T18:57:46.000Z",
+      "edit_history_tweet_ids": [
+        "2100660500199846035"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/mekostarchild/…",
+            "end": 83,
+            "expanded_url": "https://twitter.com/mekostarchild/status/2100642927282450616",
+            "start": 60,
+            "url": "https://t.co/eyZbh0Us7T"
+          }
+        ]
+      },
+      "id": "2100660500199846035",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 17,
+        "impression_count": 30159,
+        "like_count": 233,
+        "quote_count": 4,
+        "reply_count": 42,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100642927282450616",
+          "type": "quoted"
+        }
+      ],
+      "text": "you will be surprised by how much muse can take on for you! https://t.co/eyZbh0Us7T",
+      "url": "https://x.com/alexandr_wang/status/2100660500199846035"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100616701058666554",
+      "created_at": "2026-09-17T16:03:43.000Z",
+      "edit_history_tweet_ids": [
+        "2100616701058666554"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1536942398747443200",
+            "start": 3,
+            "username": "mattdeitke"
+          }
+        ]
+      },
+      "id": "2100616701058666554",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3447,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 18
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100616295758827969",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @mattdeitke: It’s counterintuitive given Meta’s size, but Meta Superintelligence Labs feels more like a startup than any other major lab…",
+      "url": "https://x.com/alexandr_wang/status/2100616701058666554"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100590733627715684",
+      "created_at": "2026-09-17T14:20:32.000Z",
+      "edit_history_tweet_ids": [
+        "2100590733627715684"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/harjjotsinghh/…",
+            "end": 93,
+            "expanded_url": "https://twitter.com/harjjotsinghh/status/2100050379572645993",
+            "start": 70,
+            "url": "https://t.co/sgVBgSrzWi"
+          }
+        ]
+      },
+      "id": "2100590733627715684",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 77,
+        "impression_count": 66321,
+        "like_count": 429,
+        "quote_count": 2,
+        "reply_count": 46,
+        "retweet_count": 31
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100050379572645993",
+          "type": "quoted"
+        }
+      ],
+      "text": "harjot here built a pretty sick unofficial muse code app for windows! https://t.co/sgVBgSrzWi",
+      "url": "https://x.com/alexandr_wang/status/2100590733627715684"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100588717740331224",
+      "created_at": "2026-09-17T14:12:32.000Z",
+      "edit_history_tweet_ids": [
+        "2100588717740331224"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/Jessa_kahh/sta…",
+            "end": 76,
+            "expanded_url": "https://twitter.com/Jessa_kahh/status/2100388984673185829",
+            "start": 53,
+            "url": "https://t.co/ooJsb2f9JP"
+          }
+        ]
+      },
+      "id": "2100588717740331224",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 139,
+        "impression_count": 90261,
+        "like_count": 508,
+        "quote_count": 4,
+        "reply_count": 54,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100388984673185829",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse to handle your groceries and meal planning! https://t.co/ooJsb2f9JP",
+      "url": "https://x.com/alexandr_wang/status/2100588717740331224"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100462438907089026",
+      "created_at": "2026-09-17T05:50:44.000Z",
+      "edit_history_tweet_ids": [
+        "2100462438907089026"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/zeeg/status/21…",
+            "end": 69,
+            "expanded_url": "https://twitter.com/zeeg/status/2100434978513502402",
+            "start": 46,
+            "url": "https://t.co/rYOAm0JPIR"
+          }
+        ]
+      },
+      "id": "2100462438907089026",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 37466,
+        "like_count": 223,
+        "quote_count": 2,
+        "reply_count": 55,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100434978513502402",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse to get things you’ve always wanted!! https://t.co/rYOAm0JPIR",
+      "url": "https://x.com/alexandr_wang/status/2100462438907089026"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2100145191457841284",
+      "created_at": "2026-09-17T05:27:25.000Z",
+      "edit_history_tweet_ids": [
+        "2100456568185843766"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1965192044839927812",
+            "start": 0,
+            "username": "musegramlol"
+          }
+        ]
+      },
+      "id": "2100456568185843766",
+      "in_reply_to_user_id": "1965192044839927812",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 43928,
+        "like_count": 286,
+        "quote_count": 15,
+        "reply_count": 37,
+        "retweet_count": 47
+      },
+      "referenced_tweets": [
+        {
+          "id": "2100145191457841284",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@musegramlol this is pretty cool! love seeing what all the muses are up to",
+      "url": "https://x.com/alexandr_wang/status/2100456568185843766"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "803061999815065600",
+        "conversation_id": "2101016814306136545",
+        "created_at": "2026-09-18T18:33:38.000Z",
+        "edit_history_tweet_ids": [
+          "2101016814306136545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2052434492263178240",
+              "start": 4,
+              "username": "Muse"
+            },
+            {
+              "end": 118,
+              "id": "19082500",
+              "start": 111,
+              "username": "altcap"
+            }
+          ]
+        },
+        "id": "2101016814306136545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 9,
+                "id": "2052434492263178240",
+                "start": 4,
+                "username": "Muse"
+              },
+              {
+                "end": 118,
+                "id": "19082500",
+                "start": 111,
+                "username": "altcap"
+              }
+            ]
+          },
+          "text": "Wow @Muse just got me and my wife a free CAC (heart scan). \n\nI told Muse I want to do a CAC after listening to @altcap’s podcast on it.\n\nIt told me most locations require physician recommendation or to be above 40 years old, but then found one location that was free for research purposes. It filled the form and then they called me and it was booked within 5 minutes."
+        },
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 103981,
+          "like_count": 232,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "text": "Wow @Muse just got me and my wife a free CAC (heart scan). \n\nI told Muse I want to do a CAC after listening to @altcap’s podcast on it.\n\nIt told me most locations require physician recommendation or to be above 40 years old, but then found one location that was free for research"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100916005757149184"
+          ]
+        },
+        "author_id": "1371267161428275202",
+        "conversation_id": "2100916008743555373",
+        "created_at": "2026-09-18T11:53:04.000Z",
+        "edit_history_tweet_ids": [
+          "2100916008743555373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2052434492263178240",
+              "start": 1,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Inspiration for your agent. A public directory of prompts people copy into Muse or another agent that runs on its own virtual machine.",
+              "display_url": "Musecases.app",
+              "end": 77,
+              "expanded_url": "https://Musecases.app",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2103860080185909248/Zv92QThJ?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2103860080185909248/Zv92QThJ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "Musecases — Inspiration for your agent",
+              "unwound_url": "https://Musecases.app",
+              "url": "https://t.co/0iYc4tK2nO"
+            },
+            {
+              "display_url": "pic.x.com/XQWBHOR4ZW",
+              "end": 152,
+              "expanded_url": "https://x.com/mattsilv/status/2100916008743555373/photo/1",
+              "media_key": "3_2100916005757149184",
+              "start": 129,
+              "url": "https://t.co/XQWBHOR4ZW"
+            }
+          ]
+        },
+        "id": "2100916008743555373",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 166418,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "text": ".@muse is officially the top app in the App Store and https://t.co/0iYc4tK2nO is the top musecase app built in the last 12 hours https://t.co/XQWBHOR4ZW"
+      },
+      {
+        "author_id": "230074013",
+        "conversation_id": "2100949455008895484",
+        "created_at": "2026-09-18T14:05:58.000Z",
+        "edit_history_tweet_ids": [
+          "2100949455008895484"
+        ],
+        "id": "2100949455008895484",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 55365,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "text": "I’m sorry I still can’t emphasize enough how impressed I am with Muse.\n\nthe feed.\n\nI don’t know why anyone else hasn’t done this. It gives me a daily report of my Twitter feed, Feature deployment status, my meetings, news … I have it hooked up to everything."
+      },
+      {
+        "author_id": "481812746",
+        "conversation_id": "2100738656478576673",
+        "created_at": "2026-09-18T00:08:20.000Z",
+        "edit_history_tweet_ids": [
+          "2100738656478576673"
+        ],
+        "id": "2100738656478576673",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 45473,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "text": "Man, ngl, Muse having local machine access is pretty massive.  I've got stuff to think about."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100905639916773376"
+          ]
+        },
+        "author_id": "28489821",
+        "conversation_id": "2100905642861199628",
+        "created_at": "2026-09-18T11:11:52.000Z",
+        "edit_history_tweet_ids": [
+          "2100905642861199628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2052434492263178240",
+              "start": 8,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7CyET7CCs",
+              "end": 46,
+              "expanded_url": "https://x.com/WisemanCap/status/2100905642861199628/photo/1",
+              "media_key": "3_2100905639916773376",
+              "start": 23,
+              "url": "https://t.co/E7CyET7CCs"
+            }
+          ]
+        },
+        "id": "2100905642861199628",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 81263,
+          "like_count": 92,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 10
+        },
+        "text": "It is a @muse takeover https://t.co/E7CyET7CCs"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100839576399192064"
+          ]
+        },
+        "author_id": "1387901",
+        "conversation_id": "2100839717134877116",
+        "created_at": "2026-09-18T06:49:54.000Z",
+        "edit_history_tweet_ids": [
+          "2100839717134877116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "2052434492263178240",
+              "start": 72,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sq8V65xpsd",
+              "end": 182,
+              "expanded_url": "https://x.com/dps/status/2100839717134877116/photo/1",
+              "media_key": "3_2100839576399192064",
+              "start": 159,
+              "url": "https://t.co/Sq8V65xpsd"
+            },
+            {
+              "display_url": "x.com/mikepat711/sta…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/mikepat711/status/2100764386600051188",
+              "start": 183,
+              "url": "https://t.co/Tlbmo78Ded"
+            }
+          ]
+        },
+        "id": "2100839717134877116",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 197820,
+          "like_count": 261,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100764386600051188",
+            "type": "quoted"
+          }
+        ],
+        "text": "The action button integration is absolutely the fastest way to ask your @Muse to do stuff for you on iOS - including directly from the lock screen. It's sick! https://t.co/Sq8V65xpsd https://t.co/Tlbmo78Ded"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2099931073304285184"
+          ]
+        },
+        "author_id": "595978500",
+        "conversation_id": "2099932324964217205",
+        "created_at": "2026-09-15T18:44:15.000Z",
+        "edit_history_tweet_ids": [
+          "2099932324964217205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052434492263178240",
+              "start": 9,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAvww6ZTWo",
+              "end": 301,
+              "expanded_url": "https://x.com/RE_Notion/status/2099932324964217205/photo/1",
+              "media_key": "3_2099931073304285184",
+              "start": 278,
+              "url": "https://t.co/iAvww6ZTWo"
+            }
+          ]
+        },
+        "id": "2099932324964217205",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "2052434492263178240",
+                "start": 9,
+                "username": "Muse"
+              }
+            ]
+          },
+          "text": "Just had @Muse submit a Dependent Care FSA claim end to end with no involvement from me besides prompts.\n\nIt searched my Gmail for the receipt, logged into my FSA account and filed the claim correctly.\n\nHaving AI take care of these small papercuts that add up over time will be extremely helpful."
+        },
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 31060,
+          "like_count": 16,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "text": "Just had @Muse submit a Dependent Care FSA claim end to end with no involvement from me besides prompts.\n\nIt searched my Gmail for the receipt, logged into my FSA account and filed the claim correctly.\n\nHaving AI take care of these small papercuts that add up over time will be https://t.co/iAvww6ZTWo"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100724536455073792"
+          ]
+        },
+        "author_id": "1176051260",
+        "conversation_id": "2100724634618679691",
+        "created_at": "2026-09-17T23:12:37.000Z",
+        "edit_history_tweet_ids": [
+          "2100724634618679691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0w7QjKlbwe",
+              "end": 40,
+              "expanded_url": "https://x.com/startupoppa/status/2100724634618679691/photo/1",
+              "media_key": "3_2100724536455073792",
+              "start": 17,
+              "url": "https://t.co/0w7QjKlbwe"
+            },
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2100714048329580957",
+              "start": 41,
+              "url": "https://t.co/04tpu2P60R"
+            }
+          ]
+        },
+        "id": "2100724634618679691",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 54549,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100714048329580957",
+            "type": "quoted"
+          }
+        ],
+        "text": "instantly docked https://t.co/0w7QjKlbwe https://t.co/04tpu2P60R"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2100802048879177728"
+          ]
+        },
+        "author_id": "15102155",
+        "conversation_id": "2100593632717816238",
+        "created_at": "2026-09-18T04:20:58.000Z",
+        "edit_history_tweet_ids": [
+          "2100802236511363102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "262781315",
+              "start": 0,
+              "username": "armand_ruiz"
+            },
+            {
+              "end": 18,
+              "id": "2052434492263178240",
+              "start": 13,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B28C4BUlJm",
+              "end": 152,
+              "expanded_url": "https://x.com/hrhraj/status/2100802236511363102/video/1",
+              "media_key": "13_2100802048879177728",
+              "start": 129,
+              "url": "https://t.co/B28C4BUlJm"
+            }
+          ]
+        },
+        "id": "2100802236511363102",
+        "in_reply_to_user_id": "262781315",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 43831,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100593632717816238",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@armand_ruiz @Muse One more... Muse can install pytorch and a depth model for distance on its own VM and then drive the robot! 🤖 https://t.co/B28C4BUlJm"
+      },
+      {
+        "author_id": "14942436",
+        "conversation_id": "2100767465114644772",
+        "created_at": "2026-09-18T02:02:48.000Z",
+        "edit_history_tweet_ids": [
+          "2100767465114644772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2100717269861167524",
+              "start": 142,
+              "url": "https://t.co/rfOC0m5pIm"
+            }
+          ]
+        },
+        "id": "2100767465114644772",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6902,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100717269861167524",
+            "type": "quoted"
+          }
+        ],
+        "text": "Meta previously bought companies that built masks/filters. I bet an animated avatar version of muse is coming very soon. Your live tamagotchi https://t.co/rfOC0m5pIm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100253810937716736"
+          ]
+        },
+        "author_id": "14367326",
+        "conversation_id": "2100253836296540525",
+        "created_at": "2026-09-16T16:01:50.000Z",
+        "edit_history_tweet_ids": [
+          "2100253836296540525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2052434492263178240",
+              "start": 17,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYAsN5hVr1",
+              "end": 300,
+              "expanded_url": "https://x.com/franklyn_chien/status/2100253836296540525/photo/1",
+              "media_key": "3_2100253810937716736",
+              "start": 277,
+              "url": "https://t.co/HYAsN5hVr1"
+            }
+          ]
+        },
+        "id": "2100253836296540525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 22,
+                "id": "2052434492263178240",
+                "start": 17,
+                "username": "Muse"
+              },
+              {
+                "end": 291,
+                "id": "615818451",
+                "start": 277,
+                "username": "alexandr_wang"
+              },
+              {
+                "end": 302,
+                "id": "20749410",
+                "start": 296,
+                "username": "finkd"
+              }
+            ]
+          },
+          "text": "I'm in love with @Muse! it handled a business call for me on an insurance issue: called them, got the cancellation sorted, and now I just sign the DocuSign and Muse will follow up for me via a call. What kind of magic is this! Saved me over $700 and a bunch of time! Thank you @alexandr_wang and @finkd !"
+        },
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 164894,
+          "like_count": 34,
+          "quote_count": 10,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "text": "I'm in love with @Muse! it handled a business call for me on an insurance issue: called them, got the cancellation sorted, and now I just sign the DocuSign and Muse will follow up for me via a call. What kind of magic is this! Saved me over $700 and a bunch of time! Thank you https://t.co/HYAsN5hVr1"
+      },
+      {
+        "author_id": "7769022",
+        "conversation_id": "2100718816410092007",
+        "created_at": "2026-09-17T22:49:29.000Z",
+        "edit_history_tweet_ids": [
+          "2100718816410092007"
+        ],
+        "id": "2100718816410092007",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 37739,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "text": "Incredible how the Muse team has been dropping features nonstop. I just got phone calling yesterday. Mac app today."
+      },
+      {
+        "author_id": "2573166028",
+        "conversation_id": "2100637381015597543",
+        "created_at": "2026-09-17T17:25:54.000Z",
+        "edit_history_tweet_ids": [
+          "2100637381015597543"
+        ],
+        "id": "2100637381015597543",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 46969,
+          "like_count": 197,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 6
+        },
+        "text": "I absolutely love meta muse\n\nWas using grok bot for a while, but meta muse is just soooo much smoother and more polished"
+      },
+      {
+        "author_id": "426398136",
+        "conversation_id": "2100642927282450616",
+        "created_at": "2026-09-17T17:47:56.000Z",
+        "edit_history_tweet_ids": [
+          "2100642927282450616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2052434492263178240",
+              "start": 30,
+              "username": "Muse"
+            }
+          ]
+        },
+        "id": "2100642927282450616",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 29970,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "text": "I keep thinking I’m giving my @Muse too much responsibility but it keeps surprising me and being the most productive agent ever.  My usage is suffering from all this testing though 😭"
+      },
+      {
+        "author_id": "1536942398747443200",
+        "conversation_id": "2100616295758827969",
+        "created_at": "2026-09-17T16:02:07.000Z",
+        "edit_history_tweet_ids": [
+          "2100616295758827969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joecarlsonshow…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/joecarlsonshow/status/2100610454062354826",
+              "start": 281,
+              "url": "https://t.co/AP8wIBQaNY"
+            }
+          ]
+        },
+        "id": "2100616295758827969",
+        "lang": "en",
+        "note_tweet": {
+          "text": "It’s counterintuitive given Meta’s size, but Meta Superintelligence Labs feels more like a startup than any other major lab.\n\nThe teams building the models and products are shockingly small, and people have an unusual amount of agency. It’s a big part of why people choose to work here."
+        },
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 54225,
+          "like_count": 375,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100610454062354826",
+            "type": "quoted"
+          }
+        ],
+        "text": "It’s counterintuitive given Meta’s size, but Meta Superintelligence Labs feels more like a startup than any other major lab.\n\nThe teams building the models and products are shockingly small, and people have an unusual amount of agency. It’s a big part of why people choose to work https://t.co/AP8wIBQaNY"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2100048108705259520"
+          ]
+        },
+        "author_id": "1572988245306396675",
+        "conversation_id": "2100050379572645993",
+        "created_at": "2026-09-16T02:33:22.000Z",
+        "edit_history_tweet_ids": [
+          "2100050379572645993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052434492263178240",
+              "start": 10,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KQJIndiqr",
+              "end": 293,
+              "expanded_url": "https://x.com/harjjotsinghh/status/2100050379572645993/video/1",
+              "media_key": "13_2100048108705259520",
+              "start": 270,
+              "url": "https://t.co/6KQJIndiqr"
+            }
+          ]
+        },
+        "id": "2100050379572645993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 15,
+                "id": "2052434492263178240",
+                "start": 10,
+                "username": "Muse"
+              },
+              {
+                "end": 469,
+                "id": "2425151",
+                "start": 464,
+                "username": "Meta"
+              }
+            ]
+          },
+          "text": "I pay for @Muse Code but didn't want to live in a terminal. On Windows it's WSL-only.\n\nSo I built Helicon: an open-source desktop app for the actual Muse CLI.\n\n• uses your existing muse login, no API key\n• talks to muse serve over MSP, so Muse stays the agent\n• resumes sessions you started in the terminal\n• projects, diffs, approvals, cost in one window\n• signed Windows installer + universal macOS build\n\nSame harness. Real UI.\n\nUnofficial, not affiliated with @Meta."
+        },
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 82537,
+          "like_count": 135,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "text": "I pay for @Muse Code but didn't want to live in a terminal. On Windows it's WSL-only.\n\nSo I built Helicon: an open-source desktop app for the actual Muse CLI.\n\n• uses your existing muse login, no API key\n• talks to muse serve over MSP, so Muse stays the agent\n• resumes https://t.co/6KQJIndiqr"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2100388981510746112",
+            "3_2100388981540093953",
+            "3_2100388981531623424"
+          ]
+        },
+        "author_id": "1937510169350742016",
+        "conversation_id": "2100388984673185829",
+        "created_at": "2026-09-17T00:58:51.000Z",
+        "edit_history_tweet_ids": [
+          "2100388984673185829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "2052434492263178240",
+              "start": 43,
+              "username": "Muse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAyiYUXfrh",
+              "end": 151,
+              "expanded_url": "https://x.com/Jessa_kahh/status/2100388984673185829/photo/1",
+              "media_key": "3_2100388981510746112",
+              "start": 128,
+              "url": "https://t.co/yAyiYUXfrh"
+            },
+            {
+              "display_url": "pic.x.com/yAyiYUXfrh",
+              "end": 151,
+              "expanded_url": "https://x.com/Jessa_kahh/status/2100388984673185829/photo/2",
+              "media_key": "3_2100388981540093953",
+              "start": 128,
+              "url": "https://t.co/yAyiYUXfrh"
+            },
+            {
+              "display_url": "pic.x.com/yAyiYUXfrh",
+              "end": 151,
+              "expanded_url": "https://x.com/Jessa_kahh/status/2100388984673185829/photo/3",
+              "media_key": "3_2100388981531623424",
+              "start": 128,
+              "url": "https://t.co/yAyiYUXfrh"
+            }
+          ]
+        },
+        "id": "2100388984673185829",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 110501,
+          "like_count": 188,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "text": "one more brain cell lost to ai 🫡\n\njust had @Muse go through my saved Instas, pick my meals for the week and grocery shop for me https://t.co/yAyiYUXfrh"
+      },
+      {
+        "author_id": "15732699",
+        "conversation_id": "2100434978513502402",
+        "created_at": "2026-09-17T04:01:37.000Z",
+        "edit_history_tweet_ids": [
+          "2100434978513502402"
+        ],
+        "id": "2100434978513502402",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 41497,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "text": "Muse just grabbed three bottles of whiskey from a set that I had been trying to find 🫠\n\nI’m sold!"
+      },
+      {
+        "author_id": "1965192044839927812",
+        "conversation_id": "2100145191457841284",
+        "created_at": "2026-09-16T08:50:07.000Z",
+        "edit_history_tweet_ids": [
+          "2100145191457841284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "musegram: the picture-first hangout for muses. muses post what they made, like and follow each other. humans welcome to scroll. 485 muses · 7094 pictures.",
+              "display_url": "musegram.lol",
+              "end": 60,
+              "expanded_url": "https://musegram.lol",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2119114028765118464/Jbosuu0-?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2119114028765118464/Jbosuu0-?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "musegram — where muses post pictures",
+              "unwound_url": "https://musegram.lol",
+              "url": "https://t.co/cvh8X00Qg2"
+            }
+          ]
+        },
+        "id": "2100145191457841284",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 57046,
+          "like_count": 223,
+          "quote_count": 9,
+          "reply_count": 36,
+          "retweet_count": 35
+        },
+        "text": "tell your muse: go post a picture at https://t.co/cvh8X00Qg2 📸 first 33 to post become founding muses. humans welcome to scroll."
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1176051260",
+        "name": "Alex Kwon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048598667528228864/H6Iss0M__normal.jpg",
+        "username": "startupoppa",
+        "verified": false
+      },
+      {
+        "id": "14942436",
+        "name": "ilya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929250091589918720/sNC-ZZsM_normal.jpg",
+        "username": "ibaklanov",
+        "verified": false
+      },
+      {
+        "id": "1965192044839927812",
+        "name": "Musegram",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103250918762283008/eGgBYh3t_normal.jpg",
+        "username": "musegramlol",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2101027755098030485",
+    "next_token": "b26v89c19zqg8o3juzivsebdtoszytez97aalm92kpoql",
+    "oldest_id": "2100456568185843766",
+    "result_count": 24
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2100652809028845676].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2100652809028845676",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2100652809028845676"
+    }
+  ]
+}

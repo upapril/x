@@ -1,0 +1,338 @@
+{
+  "collected_at_utc": "2026-11-26T01:20:47Z",
+  "collected_at_shanghai": "2026-11-26T09:20:47+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ1BBW1NK9N3T446E63CGY.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2025-10-01T00:00:00Z",
+    "end_time": "2025-11-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2025-10"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1983651538947162409",
+      "created_at": "2025-10-29T21:45:56.000Z",
+      "edit_history_tweet_ids": [
+        "1983651538947162409"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 229,
+            "id": "752712449321644032",
+            "start": 220,
+            "username": "scale_AI"
+          },
+          {
+            "end": 239,
+            "id": "1562139162781704192",
+            "start": 234,
+            "username": "cais"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/hendrycks/stat…",
+            "end": 264,
+            "expanded_url": "https://twitter.com/hendrycks/status/1983564538781082084",
+            "start": 241,
+            "url": "https://t.co/I5FEOsYXad"
+          }
+        ]
+      },
+      "id": "1983651538947162409",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 256,
+        "impression_count": 154422,
+        "like_count": 535,
+        "quote_count": 6,
+        "reply_count": 45,
+        "retweet_count": 46
+      },
+      "referenced_tweets": [
+        {
+          "id": "1983564538781082084",
+          "type": "quoted"
+        }
+      ],
+      "text": "A new eval, Remote Labor Index, measures AI's ability to automate real-world, economically valuable projects from remote work platforms.\n\nCurrently entirely unsaturated (max score of 2.5%)\n\nA great collaboration between @scale_AI and @cais! https://t.co/I5FEOsYXad",
+      "url": "https://x.com/alexandr_wang/status/1983651538947162409"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1976329447231115410",
+      "created_at": "2025-10-10T00:21:22.000Z",
+      "edit_history_tweet_ids": [
+        "1976442898804887825"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "7958322",
+            "start": 0,
+            "username": "lennysan"
+          },
+          {
+            "end": 19,
+            "id": "752712449321644032",
+            "start": 10,
+            "username": "scale_AI"
+          },
+          {
+            "end": 28,
+            "id": "47123",
+            "start": 20,
+            "username": "jdroege"
+          },
+          {
+            "end": 40,
+            "id": "47123",
+            "start": 32,
+            "username": "jdroege"
+          }
+        ]
+      },
+      "id": "1976442898804887825",
+      "in_reply_to_user_id": "7958322",
+      "lang": "und",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2080,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1976329447231115410",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@lennysan @scale_AI @jdroege go @jdroege !",
+      "url": "https://x.com/alexandr_wang/status/1976442898804887825"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1983564534783881216",
+            "3_1983564534834221056",
+            "3_1983564534955876352"
+          ]
+        },
+        "author_id": "68538286",
+        "conversation_id": "1983564538781082084",
+        "created_at": "2025-10-29T16:00:13.000Z",
+        "edit_history_tweet_ids": [
+          "1983564538781082084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLudf6Kc6l",
+              "end": 299,
+              "expanded_url": "https://x.com/DanHendrycks/status/1983564538781082084/photo/1",
+              "media_key": "3_1983564534783881216",
+              "start": 276,
+              "url": "https://t.co/yLudf6Kc6l"
+            },
+            {
+              "display_url": "pic.x.com/yLudf6Kc6l",
+              "end": 299,
+              "expanded_url": "https://x.com/DanHendrycks/status/1983564538781082084/photo/2",
+              "media_key": "3_1983564534834221056",
+              "start": 276,
+              "url": "https://t.co/yLudf6Kc6l"
+            },
+            {
+              "display_url": "pic.x.com/yLudf6Kc6l",
+              "end": 299,
+              "expanded_url": "https://x.com/DanHendrycks/status/1983564538781082084/photo/3",
+              "media_key": "3_1983564534955876352",
+              "start": 276,
+              "url": "https://t.co/yLudf6Kc6l"
+            }
+          ]
+        },
+        "id": "1983564538781082084",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Can AI automate jobs?\n\nWe created the Remote Labor Index to test AI’s ability to automate hundreds of long, real-world, economically valuable projects from remote work platforms.\n\nWhile AIs are smart, they are not yet that useful:\nthe current automation rate is less than 3%."
+        },
+        "public_metrics": {
+          "bookmark_count": 626,
+          "impression_count": 429850,
+          "like_count": 1010,
+          "quote_count": 79,
+          "reply_count": 100,
+          "retweet_count": 185
+        },
+        "text": "Can AI automate jobs?\n\nWe created the Remote Labor Index to test AI’s ability to automate hundreds of long, real-world, economically valuable projects from remote work platforms.\n\nWhile AIs are smart, they are not yet that useful:\nthe current automation rate is less than 3%. https://t.co/yLudf6Kc6l"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1976328016239497216"
+          ]
+        },
+        "author_id": "7958322",
+        "conversation_id": "1976329447231115410",
+        "created_at": "2025-10-09T16:50:33.000Z",
+        "edit_history_tweet_ids": [
+          "1976329447231115410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "752712449321644032",
+              "start": 53,
+              "username": "scale_AI"
+            },
+            {
+              "end": 76,
+              "id": "47123",
+              "start": 68,
+              "username": "jdroege"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhj8VrliaC",
+              "end": 299,
+              "expanded_url": "https://x.com/lennysan/status/1976329447231115410/video/1",
+              "media_key": "13_1976328016239497216",
+              "start": 276,
+              "url": "https://t.co/jhj8VrliaC"
+            }
+          ]
+        },
+        "id": "1976329447231115410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 62,
+                "id": "752712449321644032",
+                "start": 53,
+                "username": "scale_AI"
+              },
+              {
+                "end": 76,
+                "id": "47123",
+                "start": 68,
+                "username": "jdroege"
+              },
+              {
+                "end": 616,
+                "id": "1264240740558753792",
+                "start": 606,
+                "username": "merge_api"
+              },
+              {
+                "end": 694,
+                "id": "3181020308",
+                "start": 688,
+                "username": "figma"
+              },
+              {
+                "end": 781,
+                "id": "912806035093577728",
+                "start": 773,
+                "username": "mercury"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/W99jdYZOlN0",
+                "end": 469,
+                "expanded_url": "https://youtu.be/W99jdYZOlN0",
+                "start": 446,
+                "url": "https://t.co/5IRHKxwCAj"
+              },
+              {
+                "display_url": "open.spotify.com/episode/3WYvOy…",
+                "end": 504,
+                "expanded_url": "https://open.spotify.com/episode/3WYvOySFdhdmYhsQnVM1Is",
+                "start": 481,
+                "url": "https://t.co/TzTvQBOdsh"
+              },
+              {
+                "display_url": "podcasts.apple.com/us/podcast/fir…",
+                "end": 537,
+                "expanded_url": "https://podcasts.apple.com/us/podcast/first-interview-with-scale-ais-ceo-%2414b-meta-deal/id1627920305?i=1000730973871",
+                "start": 514,
+                "url": "https://t.co/2xNEIv3LSm"
+              },
+              {
+                "display_url": "merge.dev/lenny",
+                "end": 685,
+                "expanded_url": "http://merge.dev/lenny",
+                "start": 662,
+                "url": "https://t.co/sKYWXAImDG"
+              },
+              {
+                "display_url": "figma.com/lenny/",
+                "end": 770,
+                "expanded_url": "https://www.figma.com/lenny/",
+                "start": 747,
+                "url": "https://t.co/8iUp8fgO4x"
+              },
+              {
+                "display_url": "mercury.com",
+                "end": 839,
+                "expanded_url": "https://mercury.com/",
+                "start": 816,
+                "url": "https://t.co/KyHJ8aFhW2"
+              }
+            ]
+          },
+          "text": "In his first in-depth interview since taking over as @scale_AI CEO, @jdroege shares:\n🔸 What actually happened with Meta’s $14 billion investment\n🔸 Where frontier labs are heading next\n🔸 Why most enterprise data is useless for AI models\n🔸 What it takes to keep making AI model smarter\n🔸 What he learned scaling Uber Eats from zero to $80B\n🔸 How to think independently when building new products and businesses\n🔸 Much more\n\nListen now 👇\n• YouTube: https://t.co/5IRHKxwCAj\n• Spotify: https://t.co/TzTvQBOdsh\n• Apple: https://t.co/2xNEIv3LSm\n\nThank you to our wonderful sponsors for supporting the podcast: \n🏆 @merge_api — The fastest way to ship 220+ integrations: https://t.co/sKYWXAImDG\n🏆 @figma Make — A prompt-to-code tool for making ideas real: https://t.co/8iUp8fgO4x\n🏆 @mercury — The art of simplified finances: https://t.co/KyHJ8aFhW2"
+        },
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 97102,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "text": "In his first in-depth interview since taking over as @scale_AI CEO, @jdroege shares:\n🔸 What actually happened with Meta’s $14 billion investment\n🔸 Where frontier labs are heading next\n🔸 Why most enterprise data is useless for AI models\n🔸 What it takes to keep making AI model https://t.co/jhj8VrliaC"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "7958322",
+        "name": "Lenny Rachitsky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592990461517389824/iln8hi1f_normal.jpg",
+        "username": "lennysan",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1983651538947162409",
+    "next_token": "b26v89c19zqg8o3fsch7i6pkxp6uwor9xcjntp5x0er25",
+    "oldest_id": "1976442898804887825",
+    "result_count": 2
+  },
+  "errors": []
+}

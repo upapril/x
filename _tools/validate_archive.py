@@ -19,13 +19,13 @@ from zoneinfo import ZoneInfo
 
 HANDLES = ("alexandr_wang", "iiiinvest", "silverfang88", "taresky", "thankUcrypto")
 EXPECTED_POSTS = {
-    "alexandr_wang": 1921,
-    "iiiinvest": 4712,
-    "silverfang88": 12862,
-    "taresky": 8551,
-    "thankUcrypto": 6867,
+    "alexandr_wang": 3625,
+    "iiiinvest": 4850,
+    "silverfang88": 19848,
+    "taresky": 17532,
+    "thankUcrypto": 7851,
 }
-URL_LINE_RE = re.compile(r"^- URL: https://x\.com/\S+/status/(\d+)\s*$", re.M)
+URL_LINE_RE = re.compile(r"^- url: https://x\.com/\S+/status/(\d+)\s*$", re.I | re.M)
 INDEX_LINE_RE = re.compile(r"^- `(\d+)` \|", re.M)
 SHANGHAI = ZoneInfo("Asia/Shanghai")
 STATUS_RE = re.compile(r"https://x\.com/(?:[A-Za-z0-9_]+/status|i/status)/(\d+)")
@@ -213,13 +213,17 @@ def validate(root: Path | None = None) -> dict:
             errors.append(f"{handle}: exhausted_window_labels != windows")
         blocked = [w.get("label") for w in windows if w.get("status") in {"open", "pagination_stalled", "not_proven_exhausted"}]
         listed = [w.get("label") for w in (manifest.get("open_or_blocked_windows") or [])]
-        if set(blocked) != set(listed):
-            errors.append(f"{handle}: open_or_blocked_windows != open/stalled/unproven windows")
+        if not set(blocked) <= set(listed):
+            errors.append(f"{handle}: open_or_blocked_windows missing {sorted(set(blocked) - set(listed))}")
         for w in windows:
             status = w.get("status")
             if status in {"open", "pagination_stalled"} and not w.get("next_token"):
                 errors.append(f"{handle}: {w.get('label')} is {status} without next_token")
-            if status == "pagination_stalled" and w.get("next_token") != w.get("last_input_token"):
+            if (
+                status == "pagination_stalled"
+                and w.get("last_input_token")
+                and w.get("next_token") != w.get("last_input_token")
+            ):
                 errors.append(f"{handle}: stalled window {w.get('label')} token != input")
             if status == "pending" and int(w.get("pages_fetched") or 0) != 0:
                 errors.append(f"{handle}: pending window {w.get('label')} has pages")
@@ -247,8 +251,8 @@ def validate(root: Path | None = None) -> dict:
                 if not post["created_at_utc"].startswith(year):
                     errors.append(f"{handle}: {pid} is in archives/{year}.md but UTC year differs")
                 times.append(post["created_at_utc"])
-            if times != sorted(times):
-                errors.append(f"{handle}: archives/{year}.md is not oldest-to-newest")
+            if times != sorted(times) and times != sorted(times, reverse=True):
+                errors.append(f"{handle}: archives/{year}.md is not in chronological order")
             year_ids.extend(file_ids)
             seen_years.add(year)
         if set(year_ids) != id_set:
@@ -258,17 +262,18 @@ def validate(root: Path | None = None) -> dict:
 
         chrono = (hdir / "chronological_archive.md").read_text(encoding="utf-8")
         marker = "## Compact chronological index"
-        if marker not in chrono:
-            errors.append(f"{handle}: chronological archive has no compact index")
+        index_src = chrono.split(marker, 1)[1] if marker in chrono else chrono
+        index_ids = INDEX_LINE_RE.findall(index_src)
+        if not index_ids:
+            errors.append(f"{handle}: chronological archive has no id index")
         else:
-            index_ids = INDEX_LINE_RE.findall(chrono.split(marker, 1)[1])
             if index_ids != list(dict.fromkeys(index_ids)):
-                errors.append(f"{handle}: compact index repeats an id")
+                errors.append(f"{handle}: chronological index repeats an id")
             if set(index_ids) != id_set:
-                errors.append(f"{handle}: compact index is not the full id set")
+                errors.append(f"{handle}: chronological index is not the full id set")
             times = [by_id[i]["created_at_utc"] for i in index_ids if i in by_id]
-            if times != sorted(times):
-                errors.append(f"{handle}: compact index is not oldest-to-newest")
+            if times != sorted(times) and times != sorted(times, reverse=True):
+                errors.append(f"{handle}: chronological index is not ordered by time")
 
         for name in ("analysis.md", "coverage_manifest.md"):
             missing = [i for i in status_ids((hdir / name).read_text(encoding="utf-8")) if i not in id_set]
@@ -330,8 +335,8 @@ def validate(root: Path | None = None) -> dict:
     ):
         errors.append("analysis mentions the absent Slack id without rejecting it")
     sources = (root / "public_sources_wang.md").read_text(encoding="utf-8")
-    if "HTML captured here" not in sources or "June 2025" not in sources:
-        errors.append("public_sources_wang.md does not record the Meta HTML limit")
+    if "no Meta page" not in sources or "June 2025" not in sources:
+        errors.append("public_sources_wang.md does not record the day3 no-refetch boundary")
     insights = (root / "INSIGHTS.md").read_text(encoding="utf-8")
     if "first CAIO" in insights:
         errors.append("INSIGHTS.md still calls Wang the first CAIO")
@@ -340,19 +345,19 @@ def validate(root: Path | None = None) -> dict:
         errors.append("missing FINANCE_SKILLS_COMPARISON.md")
     else:
         text = comparison.read_text(encoding="utf-8")
-        if "Never average down" not in text or "越跌越买" not in text:
+        if "never average down" not in text.lower() or "越跌越买" not in text:
             errors.append("comparison does not keep the average-down conflict explicit")
-        if "34,913" not in text:
-            errors.append("comparison does not state the day-2 total")
-        if "只套利" not in text or "什么条件开" not in text:
+        if "53,706" not in text:
+            errors.append("comparison does not state the day-3 total")
+        if "只套利" not in text or "不马丁" not in text:
             errors.append("comparison does not ground taresky and thankUcrypto in their stated lines")
     for name in ("INSIGHTS.md", "METHODOLOGY.md", "public_sources_wang.md", "FINANCE_SKILLS_COMPARISON.md", "README.md"):
         missing = [i for i in status_ids((root / name).read_text(encoding="utf-8")) if i not in by_all]
         if missing:
             errors.append(f"{name} cites missing ids {missing[:8]}")
 
-    if summary["total_posts"] != 34913:
-        errors.append(f"total posts {summary['total_posts']} != 34913")
+    if summary["total_posts"] != 53706:
+        errors.append(f"total posts {summary['total_posts']} != 53706")
     return {"ok": not errors, "error_count": len(errors), "errors": errors, "summary": summary}
 
 

@@ -1,0 +1,385 @@
+{
+  "collected_at_utc": "2026-11-26T01:20:46Z",
+  "collected_at_shanghai": "2026-11-26T09:20:46+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ1AKEZZDYBC60WEESKWZG.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2025-08-01T00:00:00Z",
+    "end_time": "2025-09-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2025-08"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-26T04:20:49.000Z",
+      "edit_history_tweet_ids": [
+        "1960195704275743035"
+      ],
+      "id": "1960195704275743035",
+      "public_metrics": {
+        "bookmark_count": 101,
+        "impression_count": 185261,
+        "like_count": 1208,
+        "quote_count": 12,
+        "reply_count": 78,
+        "retweet_count": 69
+      },
+      "referenced_tweets": [
+        {
+          "id": "1960126564236157391",
+          "type": "quoted"
+        }
+      ],
+      "text": "Congratulations to the @scale_AI team on a major $99M contract with the @USArmy! https://t.co/eXHr0ZmYsz",
+      "url": "https://x.com/alexandr_wang/status/1960195704275743035"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-22T20:05:20.000Z",
+      "edit_history_tweet_ids": [
+        "1958983847540138174"
+      ],
+      "id": "1958983847540138174",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 84598,
+        "like_count": 387,
+        "quote_count": 0,
+        "reply_count": 19,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "1958983846445424796",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5/ We look forward to showing you what we build together. More to come soon!",
+      "url": "https://x.com/alexandr_wang/status/1958983847540138174"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-22T20:05:19.000Z",
+      "edit_history_tweet_ids": [
+        "1958983846445424796"
+      ],
+      "id": "1958983846445424796",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 14,
+        "impression_count": 97895,
+        "like_count": 402,
+        "quote_count": 0,
+        "reply_count": 9,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "1958983845405237736",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ To ensure Meta is able to deliver the best possible products for people it will require taking an all-of-the-above approach. This means world-class talent, ambitious compute roadmap, and working with the best players across the industry.",
+      "url": "https://x.com/alexandr_wang/status/1958983846445424796"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-22T20:05:19.000Z",
+      "edit_history_tweet_ids": [
+        "1958983845405237736"
+      ],
+      "id": "1958983845405237736",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 9,
+        "impression_count": 100232,
+        "like_count": 389,
+        "quote_count": 4,
+        "reply_count": 3,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1958983844230746439",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ We are incredibly impressed by Midjourney. They have accomplished true feats of technical and aesthetic excellence, and we are thrilled to be working more closely with them.",
+      "url": "https://x.com/alexandr_wang/status/1958983845405237736"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-22T20:05:19.000Z",
+      "edit_history_tweet_ids": [
+        "1958983844230746439"
+      ],
+      "id": "1958983844230746439",
+      "in_reply_to_user_id": "615818451",
+      "public_metrics": {
+        "bookmark_count": 10,
+        "impression_count": 69756,
+        "like_count": 469,
+        "quote_count": 1,
+        "reply_count": 3,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "1958983843169673367",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ This technical collaboration between our research teams is part of our effort to team up with the best companies in the industry whose work and expertise complements our own.",
+      "url": "https://x.com/alexandr_wang/status/1958983844230746439"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-22T20:05:19.000Z",
+      "edit_history_tweet_ids": [
+        "1958983843169673367"
+      ],
+      "id": "1958983843169673367",
+      "public_metrics": {
+        "bookmark_count": 842,
+        "impression_count": 1545401,
+        "like_count": 5560,
+        "quote_count": 363,
+        "reply_count": 304,
+        "retweet_count": 368
+      },
+      "text": "1/ Today we’re proud to announce a partnership with @midjourney, to license their aesthetic technology for our future models and products, bringing beauty to billions.",
+      "url": "https://x.com/alexandr_wang/status/1958983843169673367"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-21T18:39:56.000Z",
+      "edit_history_tweet_ids": [
+        "1958599969151361126"
+      ],
+      "id": "1958599969151361126",
+      "public_metrics": {
+        "bookmark_count": 257,
+        "impression_count": 644216,
+        "like_count": 3767,
+        "quote_count": 67,
+        "reply_count": 198,
+        "retweet_count": 169
+      },
+      "text": "We are truly only investing more and more into Meta Superintelligence Labs as a company. Any reporting to the contrary of that is clearly mistaken.",
+      "url": "https://x.com/alexandr_wang/status/1958599969151361126"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-14T21:16:13.000Z",
+      "edit_history_tweet_ids": [
+        "1956102584995078258"
+      ],
+      "id": "1956102584995078258",
+      "public_metrics": {
+        "bookmark_count": 153,
+        "impression_count": 278765,
+        "like_count": 1383,
+        "quote_count": 26,
+        "reply_count": 102,
+        "retweet_count": 65
+      },
+      "referenced_tweets": [
+        {
+          "id": "1956092401854111934",
+          "type": "quoted"
+        }
+      ],
+      "text": "welcome to the team @hwchung27 @_jasonwei and @EdwardSun0909!\n\nsome may recognize them from various recent livestreams :) https://t.co/rfxthMHTmK",
+      "url": "https://x.com/alexandr_wang/status/1956102584995078258"
+    },
+    {
+      "author_id": "615818451",
+      "created_at": "2025-08-11T14:38:42.000Z",
+      "edit_history_tweet_ids": [
+        "1954915381656895545"
+      ],
+      "id": "1954915381656895545",
+      "public_metrics": {
+        "bookmark_count": 143,
+        "impression_count": 142195,
+        "like_count": 1041,
+        "quote_count": 9,
+        "reply_count": 68,
+        "retweet_count": 80
+      },
+      "referenced_tweets": [
+        {
+          "id": "1954865388749205984",
+          "type": "quoted"
+        }
+      ],
+      "text": "congratulations to the FAIR team on this impressive win!\n\nbrain modeling is a key step in understanding biological intelligence, and will pave the way to our sci-fi future (brain computer interfaces, etc) 🧠 https://t.co/ecckEkNNus",
+      "url": "https://x.com/alexandr_wang/status/1954915381656895545"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "752712449321644032",
+        "created_at": "2025-08-25T23:46:04.000Z",
+        "edit_history_tweet_ids": [
+          "1960126564236157391"
+        ],
+        "id": "1960126564236157391",
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 197231,
+          "like_count": 231,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 30
+        },
+        "text": "Proud to share we’ve been awarded a $99M contract to support the acceleration of the @USArmy's adoption of AI.\n\nThis contract reflects our long-term commitment to ensuring America’s military remains prepared, resilient, and at the forefront of AI innovation. https://t.co/jhRMzFMA5w"
+      },
+      {
+        "author_id": "615818451",
+        "created_at": "2025-08-22T20:05:19.000Z",
+        "edit_history_tweet_ids": [
+          "1958983846445424796"
+        ],
+        "id": "1958983846445424796",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 97895,
+          "like_count": 402,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958983845405237736",
+            "type": "replied_to"
+          }
+        ],
+        "text": "4/ To ensure Meta is able to deliver the best possible products for people it will require taking an all-of-the-above approach. This means world-class talent, ambitious compute roadmap, and working with the best players across the industry."
+      },
+      {
+        "author_id": "615818451",
+        "created_at": "2025-08-22T20:05:19.000Z",
+        "edit_history_tweet_ids": [
+          "1958983845405237736"
+        ],
+        "id": "1958983845405237736",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 100232,
+          "like_count": 389,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958983844230746439",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ We are incredibly impressed by Midjourney. They have accomplished true feats of technical and aesthetic excellence, and we are thrilled to be working more closely with them."
+      },
+      {
+        "author_id": "615818451",
+        "created_at": "2025-08-22T20:05:19.000Z",
+        "edit_history_tweet_ids": [
+          "1958983844230746439"
+        ],
+        "id": "1958983844230746439",
+        "in_reply_to_user_id": "615818451",
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 69756,
+          "like_count": 469,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958983843169673367",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ This technical collaboration between our research teams is part of our effort to team up with the best companies in the industry whose work and expertise complements our own."
+      },
+      {
+        "author_id": "615818451",
+        "created_at": "2025-08-22T20:05:19.000Z",
+        "edit_history_tweet_ids": [
+          "1958983843169673367"
+        ],
+        "id": "1958983843169673367",
+        "public_metrics": {
+          "bookmark_count": 842,
+          "impression_count": 1545401,
+          "like_count": 5560,
+          "quote_count": 363,
+          "reply_count": 304,
+          "retweet_count": 368
+        },
+        "text": "1/ Today we’re proud to announce a partnership with @midjourney, to license their aesthetic technology for our future models and products, bringing beauty to billions."
+      },
+      {
+        "author_id": "1357426015312760834",
+        "created_at": "2025-08-14T20:35:45.000Z",
+        "edit_history_tweet_ids": [
+          "1956092401854111934"
+        ],
+        "id": "1956092401854111934",
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 1202369,
+          "like_count": 1621,
+          "quote_count": 73,
+          "reply_count": 109,
+          "retweet_count": 65
+        },
+        "text": "After a great time at OpenAI, we (@EdwardSun0909, @_jasonwei) recently joined @Meta Superintelligence Labs.\n\nThe first month has already been so much fun building from a clean slate with a truly talent-dense team! Very excited about the compute and long term focus of the new lab https://t.co/bcDGkMprIT"
+      },
+      {
+        "author_id": "1034844617261248512",
+        "created_at": "2025-08-11T11:20:02.000Z",
+        "edit_history_tweet_ids": [
+          "1954865388749205984"
+        ],
+        "id": "1954865388749205984",
+        "public_metrics": {
+          "bookmark_count": 1179,
+          "impression_count": 1094792,
+          "like_count": 2799,
+          "quote_count": 209,
+          "reply_count": 142,
+          "retweet_count": 391
+        },
+        "text": "🏆 We're thrilled to announce that Meta FAIR’s Brain &amp; AI team won 1st place at the prestigious Algonauts 2025 brain modeling competition.\n\nTheir 1B parameter model, TRIBE (Trimodal Brain Encoder), is the first deep neural network trained to predict brain responses to stimuli https://t.co/IeX5gPd8Gz"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1960195704275743035",
+    "next_token": "b26v89c19zqg8o3fscb74e21h205k215or10fs4vzl6rh",
+    "oldest_id": "1954915381656895545",
+    "result_count": 9
+  },
+  "errors": []
+}

@@ -1,0 +1,1233 @@
+{
+  "collected_at_utc": "2026-11-26T01:02:34Z",
+  "collected_at_shanghai": "2026-11-26T09:02:34+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8ANZMSDW2Y40RCB860DDK9D.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-08-01T00:00:00Z",
+    "end_time": "2023-09-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqkrxyzklnkhqhnelv4c1nnneinhq5",
+    "window_label": "2023-08"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691692095634035064",
+      "created_at": "2023-08-16T06:03:20.000Z",
+      "edit_history_tweet_ids": [
+        "1691692095634035064"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "zhihu.com/question/34818…",
+            "end": 43,
+            "expanded_url": "https://www.zhihu.com/question/348181968/answer/1921952319",
+            "start": 20,
+            "url": "https://t.co/xJHX9196SR"
+          },
+          {
+            "display_url": "x.com/Pandazhq/statu…",
+            "end": 168,
+            "expanded_url": "https://twitter.com/Pandazhq/status/1691269646475812864",
+            "start": 145,
+            "url": "https://t.co/vmEACIX4d8"
+          }
+        ]
+      },
+      "id": "1691692095634035064",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhihu.com/question/34818…",
+              "end": 43,
+              "expanded_url": "https://www.zhihu.com/question/348181968/answer/1921952319",
+              "start": 20,
+              "url": "https://t.co/SzJQUjn9Af"
+            }
+          ]
+        },
+        "text": "为啥要截图呢，看得太难受了。原文链接\n https://t.co/SzJQUjn9Af\n\n防内容丢失，复制文本备份：\n\n----\n\n小费是有经济学基础的，那就是博弈论。\n\n小费的基础模型很简单，就是服务员和顾客各有两种情况的博弈。服务员可以选择好服务和差服务，顾客可以选择高小费和低小费。\n\n但由于服务员和顾客利益不完全一致，而且实际中小费是后付的，所以对于顾客来说，最优解很简单，就是付低小费。差服务，顾客付低小费，顾客不吃亏，好服务，顾客付低小费占便宜。\n\n既然顾客的最优解有且仅有一个，那么倒推回去，服务员其实也只有一种合理选择。假设服务员和顾客都是绝对理性的，服务员就该选择差服务。因为好好服务，顾客给低小费，服务员就吃亏了，而差服务，收到低小费，正常，万一有傻顾客给了高小费，就占便宜了。\n\n所以基于博弈论，小费文化导致的必然结果就是服务员服务越来越差，顾客给的小费越来越低。\n\n这也就是很多人都感觉小费文化脑残的原因。\n\n这么烂的一个制度，为什么会存在呢？\n\n因为在小费制度刚出现的时候，整个市场模型和现在是完全不同的。基于当时的市场模型，小费制度是非常非常成功的一种优秀制度。\n\n当年的小费，是基于博弈论的多次重复博弈模型，在这个模型下，对于服务员和顾客，高小费和好服务是双赢的最优解。\n\n当年的西方，交通远没现在发达，很多人一辈子都没出过村，没出过自己的小镇。因此当年的餐馆饭店，服务员可能几十年都不会换，顾客也是几十年就都是村里那几个人。\n\n之前通过模型解释了，单次博弈，服务员和顾客的最优选择就是差服务和低小费，这根本原因是单次博弈没有惩罚机制。而如果服务员和顾客的博弈不止一次，而是多次博弈，情况就完全不同了，因为下一次博弈可以成为上一次的惩罚机制。\n\n多次博弈中，顾客的最优选择应该是给高小费，因为如果给低小费，虽然这次服务已经完成，好服务给低小费自己就占便宜了，但下一次再来，服务员必然会用更差的服务，而且自己未来还会常来，一次占便宜换永远的差服务，得不偿失。而由于顾客愿意给高小费，服务员的最优解也变成了好好服务，因为同理，虽然差服务换高小费，这一次能占便宜，但长久以来顾客都只会付低小费了，也是得不偿失。\n\n所以在多次重复博弈的模型下，小费制度通过服务员和顾客的多次磨合，可以使得服务员提供适当的服务，顾客也给合适的小费。\n\n在多次博弈的模型下，对于服务员来说，每次见的都是那几个老顾客，谁爱聊天，谁不喜欢被打扰，谁喜欢喝酒，谁爱喝冰水，谁大方，谁抠门，其实都是非常清楚的。谁有什么喜好，怎么赚更多的小费，服务员都清楚，谁会给多少小费，该服务成啥样，也都是明确的，通过小费制度，服务员几乎可以给每一个顾客提供全方位的定制化服务。\n\n对于顾客，道理也是类似的。服务员及时的添酒了，服务员给我推荐了最新鲜的菜，服务员给我的菜加量了，服务员陪我聊天了，对应该付多少小费，顾客也是知道的，并且也愿意付。因为付钱，能买到更舒服的服务，而不付钱，这些定制化服务以后就享受不到了。\n\n所以你看，在相对封闭的小镇，服务员和顾客都不更换的长久多次服务环境中，小费制度成了一种完美的奖惩机制，每个顾客都根据自己的偏好得到了最优最合适的服务，每个服务员也因为他的服务得到了最合适的报酬。\n\n所以在当年，小费文化不仅是个好文化，小费文化简直是个完美的文化。\n\n但到了今天，不是小费文化变了，而是这个世界变了。交通变得越来越发达，城市变得越来越大，人口越来越多。你今天去这个餐馆吃饭，下次再去不知要多久。再去时服务员也全都换一批人了。小费文化的基础没有了，服务员和顾客都互相不熟，服务员不知道你喜欢什么服务，也不知道提供了好服务你会不会多给小费，就算你多给小费了，也不知道你下次什么时候会再来。同样的，顾客自己也不知道下次什么时候会再来，甚至只是旅游，只是出差，只是偶尔路过，这辈子都不会再来这个餐馆，不会再见这个服务员，那小费自然省一点是一点了。\n\n总得来说，小费文化适用场景十分有限。但如果场景合适，就算今天，小费文化在很多特定情况依然十分完美有效。\n\n在澳洲读书那几年，偶尔需要接待从国内过来的长辈朋友，一般会去几家特定的餐馆。去得多了，几个店长和领班也就都熟了。每次我都会私下额外付不少小费，而相应的，哪怕最火爆的时候，我也能订到位置，上菜永远最快，推荐的酒永远口感好又便宜，推荐的菜不一定贵，但一定是当天最新鲜的。总之，我占到的便宜，远比给的小费多得多，可以说物超所值。\n\n另外我有个两个渣男同学，特别喜欢去几家韩餐和日本居酒屋，饭菜好不好服务好不好都不重要，他就专挑有漂亮留学生兼职服务员的。然后隔几天就去一次，专挑同一个服务员，每次小费给的夸张的大方。然后那几个日韩服务员我基本都在他们的公寓和别墅见过。这俩渣男我不想评价，但你就说这算不算很厉害的小费文化？你说这算不算物超所值的服务？\n\n大多数的社会现象，背后都有数学或经济学的原理作为基础。你不理解，说明你还没看透问题背后的本质。看透了本质，你不仅不会再纠结于什么差异不差异，更不会再局限于关注什么好坏对错，你只会惊叹，我去，原来还能这么玩。"
+      },
+      "public_metrics": {
+        "bookmark_count": 18,
+        "impression_count": 14275,
+        "like_count": 20,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691269646475812864",
+          "type": "quoted"
+        }
+      ],
+      "text": "为啥要截图呢，看得太难受了。原文链接\n https://t.co/xJHX9196SR\n\n防内容丢失，复制文本备份：\n\n----\n\n小费是有经济学基础的，那就是博弈论。\n\n小费的基础模型很简单，就是服务员和顾客各有两种情况的博弈。服务员可以选择好服务和差服务，顾客可以选择高小费和低小费。 https://t.co/vmEACIX4d8",
+      "url": "https://x.com/taresky/status/1691692095634035064"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691676835560689797",
+      "created_at": "2023-08-16T05:49:25.000Z",
+      "edit_history_tweet_ids": [
+        "1691688595613188473"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1181486957282480128",
+            "start": 0,
+            "username": "jihuayu123"
+          }
+        ]
+      },
+      "id": "1691688595613188473",
+      "in_reply_to_user_id": "1181486957282480128",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 311,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691687472038813813",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jihuayu123 自动识别的，不知道",
+      "url": "https://x.com/taresky/status/1691688595613188473"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1691679183767064576"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1691679960715714649",
+      "created_at": "2023-08-16T05:15:07.000Z",
+      "edit_history_tweet_ids": [
+        "1691679960715714649"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "youtu.be/KSIZ-9jdbDk",
+            "end": 51,
+            "expanded_url": "https://youtu.be/KSIZ-9jdbDk",
+            "start": 28,
+            "url": "https://t.co/OnPpVl2qv9"
+          },
+          {
+            "display_url": "pic.x.com/syHa0fYfQs",
+            "end": 75,
+            "expanded_url": "https://x.com/taresky/status/1691679960715714649/photo/1",
+            "media_key": "3_1691679183767064576",
+            "start": 52,
+            "url": "https://t.co/syHa0fYfQs"
+          }
+        ]
+      },
+      "id": "1691679960715714649",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 43,
+        "impression_count": 38728,
+        "like_count": 100,
+        "quote_count": 2,
+        "reply_count": 9,
+        "retweet_count": 19
+      },
+      "text": "哇，太可爱了吧，等更多纯固态 NAS DIY 方案。\n\nhttps://t.co/OnPpVl2qv9 https://t.co/syHa0fYfQs",
+      "url": "https://x.com/taresky/status/1691679960715714649"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1691676829659365377"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1691676835560689797",
+      "created_at": "2023-08-16T05:02:42.000Z",
+      "edit_history_tweet_ids": [
+        "1691676835560689797"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/sMZRyYQ5TK",
+            "end": 38,
+            "expanded_url": "https://x.com/taresky/status/1691676835560689797/photo/1",
+            "media_key": "3_1691676829659365377",
+            "start": 15,
+            "url": "https://t.co/sMZRyYQ5TK"
+          }
+        ]
+      },
+      "id": "1691676835560689797",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 6458,
+        "like_count": 13,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "反思结束。\n\n是我屁股歪了。 https://t.co/sMZRyYQ5TK",
+      "url": "https://x.com/taresky/status/1691676835560689797"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691599163241455829",
+      "created_at": "2023-08-16T04:11:58.000Z",
+      "edit_history_tweet_ids": [
+        "1691664071429681415"
+      ],
+      "id": "1691664071429681415",
+      "in_reply_to_user_id": "1164388321545449472",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 534,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691599163241455829",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@dykaknsjwkmsmwm 哈哈哈，喜欢这种脑洞",
+      "url": "https://x.com/taresky/status/1691664071429681415"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691662181710893448",
+      "created_at": "2023-08-16T04:07:22.000Z",
+      "edit_history_tweet_ids": [
+        "1691662910123299208"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "800153130977542146",
+            "start": 0,
+            "username": "anqirocks"
+          }
+        ]
+      },
+      "id": "1691662910123299208",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 498,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@anqirocks 太帅了",
+      "url": "https://x.com/taresky/status/1691662910123299208"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691427002296004608",
+      "created_at": "2023-08-16T03:45:16.000Z",
+      "edit_history_tweet_ids": [
+        "1691657351168999679"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "961520064041119744",
+            "start": 0,
+            "username": "uncle2"
+          }
+        ]
+      },
+      "id": "1691657351168999679",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 889,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "text": "@uncle2 好惨啊",
+      "url": "https://x.com/taresky/status/1691657351168999679"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691645837632520357",
+      "created_at": "2023-08-16T03:08:32.000Z",
+      "edit_history_tweet_ids": [
+        "1691648105555677570"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "17552210",
+            "start": 0,
+            "username": "evilcos"
+          }
+        ]
+      },
+      "id": "1691648105555677570",
+      "in_reply_to_user_id": "368245720",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 8606,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691647676159582609",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@evilcos 如果我的朋友用 WIN 玩 Crypto。\n\n我会 Diss TA，你以为自己是余弦吗？😂",
+      "url": "https://x.com/taresky/status/1691648105555677570"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691645837632520357",
+      "created_at": "2023-08-16T03:06:49.000Z",
+      "edit_history_tweet_ids": [
+        "1691647676159582609"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "17552210",
+            "start": 0,
+            "username": "evilcos"
+          }
+        ]
+      },
+      "id": "1691647676159582609",
+      "in_reply_to_user_id": "17552210",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 25117,
+        "like_count": 25,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691645837632520357",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@evilcos 余大... 你不能以你的水平来看这个观点。\n\n绝大部分人就是技术小白，那放在他们身上是成立的，从用户被盗案例也可以侧面反映。",
+      "url": "https://x.com/taresky/status/1691647676159582609"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691645823938081104",
+      "created_at": "2023-08-16T02:59:28.000Z",
+      "edit_history_tweet_ids": [
+        "1691645823938081104"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/0xjuncrypto/st…",
+            "end": 63,
+            "expanded_url": "https://twitter.com/0xjuncrypto/status/1691644791652827445",
+            "start": 40,
+            "url": "https://t.co/aiShHTTuC2"
+          }
+        ]
+      },
+      "id": "1691645823938081104",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4412,
+        "like_count": 6,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691644791652827445",
+          "type": "quoted"
+        }
+      ],
+      "text": "我们先不说这个，你能不能改个名字。\n\n别...侮辱狗好吗。\n\n侮辱台湾也不好。 https://t.co/aiShHTTuC2",
+      "url": "https://x.com/taresky/status/1691645823938081104"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691251693328211968",
+      "created_at": "2023-08-16T02:58:34.000Z",
+      "edit_history_tweet_ids": [
+        "1691645596581699874"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 6,
+            "id": "41976157",
+            "start": 0,
+            "username": "vsisi"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "x.com/MiaBleem/statu…",
+            "end": 54,
+            "expanded_url": "https://x.com/MiaBleem/status/1691298337738362880?s=20",
+            "start": 31,
+            "url": "https://t.co/4JF13r6bTq"
+          }
+        ]
+      },
+      "id": "1691645596581699874",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 269,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@vsisi 我的感受是没啥变化，最近一次可能是疫情期间？\n\nhttps://t.co/4JF13r6bTq",
+      "url": "https://x.com/taresky/status/1691645596581699874"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691645303743729789",
+      "created_at": "2023-08-16T02:57:24.000Z",
+      "edit_history_tweet_ids": [
+        "1691645303743729789"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ]
+      },
+      "id": "1691645303743729789",
+      "lang": "zh",
+      "note_tweet": {
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Crypto"
+            }
+          ]
+        },
+        "text": "#Crypto \n\n如果按照 PM 视角，“满足了用户的需求，所以产生了价值”，那我的价值是什么。\n\n可能是：在这个游戏里，我是一名陪玩。\n\n陪一群群不同的客人的玩不同的游戏，核心是满足 ta 们认为 “我才是对的，我最强” 的心理需求。\n\n对每一群人都由衷这样说 “对对对，你是对的，你最强。”\n\n然后客人走了，留下一些打赏。\n\n我把钱捡起来，好好捋平它的褶皱，小心翼翼揣进兜里。"
+      },
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 4767,
+        "like_count": 8,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "#Crypto \n\n如果按照 PM 视角，“满足了用户的需求，所以产生了价值”，那我的价值是什么。\n\n可能是：在这个游戏里，我是一名陪玩。\n\n陪一群群不同的客人的玩不同的游戏，核心是满足 ta 们认为 “我才是对的，我最强” 的心理需求。\n\n对每一群人都由衷这样说 “对对对，你是对的，你最强。”",
+      "url": "https://x.com/taresky/status/1691645303743729789"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1691643256067788801"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1691643386795815256",
+      "created_at": "2023-08-16T02:49:47.000Z",
+      "edit_history_tweet_ids": [
+        "1691643386795815256"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/mqm4dxAF0P",
+            "end": 99,
+            "expanded_url": "https://x.com/taresky/status/1691643386795815256/photo/1",
+            "media_key": "3_1691643256067788801",
+            "start": 76,
+            "url": "https://t.co/mqm4dxAF0P"
+          }
+        ]
+      },
+      "id": "1691643386795815256",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 3049,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "如果是真的。\n\n那么，\n\nego 大 = penis 短，\n\nego 小 = penis 长，\n\n可以简单用 ego = 1/penis 表示负相关。 https://t.co/mqm4dxAF0P",
+      "url": "https://x.com/taresky/status/1691643386795815256"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691539833011970048",
+      "created_at": "2023-08-16T01:51:58.000Z",
+      "edit_history_tweet_ids": [
+        "1691628836390420821"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1397095465334710272",
+            "start": 0,
+            "username": "watermiz3"
+          },
+          {
+            "end": 18,
+            "id": "713603418829492224",
+            "start": 11,
+            "username": "exp272"
+          }
+        ]
+      },
+      "id": "1691628836390420821",
+      "in_reply_to_user_id": "1397095465334710272",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 225,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691627924347351381",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@watermiz3 @exp272 这个 app 也有问题，我遇到的问题是经常没有数据。卸载了一切正常了。",
+      "url": "https://x.com/taresky/status/1691628836390420821"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691539833011970048",
+      "created_at": "2023-08-16T01:18:35.000Z",
+      "edit_history_tweet_ids": [
+        "1691620437636370435"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "713603418829492224",
+            "start": 0,
+            "username": "exp272"
+          }
+        ]
+      },
+      "id": "1691620437636370435",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1406,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@exp272 已经卸载了，用自带的最好。",
+      "url": "https://x.com/taresky/status/1691620437636370435"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1691528627027079171"
+        ]
+      },
+      "author_id": "368245720",
+      "conversation_id": "1691528691891986432",
+      "created_at": "2023-08-15T19:14:01.000Z",
+      "edit_history_tweet_ids": [
+        "1691528691891986432"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/evThH8m1mp",
+            "end": 43,
+            "expanded_url": "https://x.com/taresky/status/1691528691891986432/photo/1",
+            "media_key": "3_1691528627027079171",
+            "start": 20,
+            "url": "https://t.co/evThH8m1mp"
+          }
+        ]
+      },
+      "id": "1691528691891986432",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 11141,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "text": "#Crypto \n\n👀 可以开始了吗？ https://t.co/evThH8m1mp",
+      "url": "https://x.com/taresky/status/1691528691891986432"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691475762447360000",
+      "created_at": "2023-08-15T15:50:30.000Z",
+      "edit_history_tweet_ids": [
+        "1691477473811427328"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1397095465334710272",
+            "start": 0,
+            "username": "watermiz3"
+          }
+        ]
+      },
+      "id": "1691477473811427328",
+      "in_reply_to_user_id": "1397095465334710272",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 537,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1691475762447360000",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@watermiz3 可以加和牛",
+      "url": "https://x.com/taresky/status/1691477473811427328"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691334408857337857",
+      "created_at": "2023-08-15T15:39:47.000Z",
+      "edit_history_tweet_ids": [
+        "1691474776727183360"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1120712903886344200",
+            "start": 0,
+            "username": "Philo2022"
+          }
+        ]
+      },
+      "id": "1691474776727183360",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1181,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@Philo2022 如果你以后买大镜头的话，机身轻便的优势就很小哎",
+      "url": "https://x.com/taresky/status/1691474776727183360"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691471381995945984",
+      "created_at": "2023-08-15T15:36:14.000Z",
+      "edit_history_tweet_ids": [
+        "1691473882367287296"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1865041451320569856",
+            "start": 0,
+            "username": "Lenchou_"
+          }
+        ]
+      },
+      "id": "1691473882367287296",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 611,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@Lenchou_ 嗯哈哈，这样啊",
+      "url": "https://x.com/taresky/status/1691473882367287296"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691471381995945984",
+      "created_at": "2023-08-15T15:35:45.000Z",
+      "edit_history_tweet_ids": [
+        "1691473760237617152"
+      ],
+      "id": "1691473760237617152",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 625,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@0xBGTokyo 是，launchpad",
+      "url": "https://x.com/taresky/status/1691473760237617152"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691471381995945984",
+      "created_at": "2023-08-15T15:35:29.000Z",
+      "edit_history_tweet_ids": [
+        "1691473695028776960"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "505624369",
+            "start": 0,
+            "username": "anywheretop"
+          }
+        ]
+      },
+      "id": "1691473695028776960",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 550,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@anywheretop 赞",
+      "url": "https://x.com/taresky/status/1691473695028776960"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691019234313400321",
+      "created_at": "2023-08-15T15:27:57.000Z",
+      "edit_history_tweet_ids": [
+        "1691471796879716352"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "16943437",
+            "start": 0,
+            "username": "ytzong"
+          }
+        ]
+      },
+      "id": "1691471796879716352",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 150,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@ytzong 千 2.5，感觉还是高了一丢丢，去券商换吧。",
+      "url": "https://x.com/taresky/status/1691471796879716352"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691471381995945984",
+      "created_at": "2023-08-15T15:26:18.000Z",
+      "edit_history_tweet_ids": [
+        "1691471381995945984"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 7,
+            "start": 0,
+            "tag": "Crypto"
+          }
+        ]
+      },
+      "id": "1691471381995945984",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 12542,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 1
+      },
+      "text": "#Crypto\n\nSEI 即使只按 0.2 卖出，这段时间的 APR 也有 20%+，有啥可抱怨的呢。\n\n低风险、资金利用率 100%、操作简单。除了 Crypto 之外，世界上哪还有这种捡钱的机会嘛 😮‍💨\n\n由奢入俭难。",
+      "url": "https://x.com/taresky/status/1691471381995945984"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691312729511079936",
+      "created_at": "2023-08-15T14:55:02.000Z",
+      "edit_history_tweet_ids": [
+        "1691463516480561152"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "496956553",
+            "start": 0,
+            "username": "JackLhz"
+          }
+        ]
+      },
+      "id": "1691463516480561152",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 215,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@JackLhz 在嘉兴小县城",
+      "url": "https://x.com/taresky/status/1691463516480561152"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1691359448185667584",
+      "created_at": "2023-08-15T14:54:14.000Z",
+      "edit_history_tweet_ids": [
+        "1691463313664921600"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "623583276",
+            "start": 0,
+            "username": "dbarobin"
+          },
+          {
+            "end": 20,
+            "id": "1680824976814010372",
+            "start": 10,
+            "username": "PodwiseHQ"
+          }
+        ]
+      },
+      "id": "1691463313664921600",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 451,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@dbarobin @PodwiseHQ 白天开放了一阵邀请，后面有了我发你。",
+      "url": "https://x.com/taresky/status/1691463313664921600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1691269639051845632",
+            "3_1691269639051874304",
+            "3_1691269639039258624",
+            "3_1691269639056015360"
+          ]
+        },
+        "author_id": "830696826273624064",
+        "conversation_id": "1691269646475812864",
+        "created_at": "2023-08-15T02:04:40.000Z",
+        "edit_history_tweet_ids": [
+          "1691269646475812864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Yx9Zta2sp",
+              "end": 48,
+              "expanded_url": "https://x.com/Pandazhq/status/1691269646475812864/photo/1",
+              "media_key": "3_1691269639051845632",
+              "start": 25,
+              "url": "https://t.co/9Yx9Zta2sp"
+            },
+            {
+              "display_url": "pic.x.com/9Yx9Zta2sp",
+              "end": 48,
+              "expanded_url": "https://x.com/Pandazhq/status/1691269646475812864/photo/2",
+              "media_key": "3_1691269639051874304",
+              "start": 25,
+              "url": "https://t.co/9Yx9Zta2sp"
+            },
+            {
+              "display_url": "pic.x.com/9Yx9Zta2sp",
+              "end": 48,
+              "expanded_url": "https://x.com/Pandazhq/status/1691269646475812864/photo/3",
+              "media_key": "3_1691269639039258624",
+              "start": 25,
+              "url": "https://t.co/9Yx9Zta2sp"
+            },
+            {
+              "display_url": "pic.x.com/9Yx9Zta2sp",
+              "end": 48,
+              "expanded_url": "https://x.com/Pandazhq/status/1691269646475812864/photo/4",
+              "media_key": "3_1691269639056015360",
+              "start": 25,
+              "url": "https://t.co/9Yx9Zta2sp"
+            }
+          ]
+        },
+        "id": "1691269646475812864",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 356730,
+          "like_count": 833,
+          "quote_count": 23,
+          "reply_count": 92,
+          "retweet_count": 186
+        },
+        "text": "关于「小费文化」，这个是我看到的比较靠谱的解释。 https://t.co/9Yx9Zta2sp"
+      },
+      {
+        "author_id": "1181486957282480128",
+        "conversation_id": "1691676835560689797",
+        "created_at": "2023-08-16T05:44:58.000Z",
+        "edit_history_tweet_ids": [
+          "1691687472038813813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1691687472038813813",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1691676835560689797",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 为啥人民币的价格也要打码？"
+      },
+      {
+        "author_id": "1164388321545449472",
+        "conversation_id": "1691599163241455829",
+        "created_at": "2023-08-15T23:54:03.000Z",
+        "edit_history_tweet_ids": [
+          "1691599163241455829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "",
+              "end": 55,
+              "expanded_url": "",
+              "start": 32,
+              "url": "https://t.co/J8YQpTlKWz"
+            }
+          ]
+        },
+        "id": "1691599163241455829",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3965,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1691527928025346048",
+            "type": "quoted"
+          }
+        ],
+        "text": "life’s good, LG的产品怎么说呢 脑洞很大也很怪异 https://t.co/J8YQpTlKWz"
+      },
+      {
+        "author_id": "368245720",
+        "conversation_id": "1691645837632520357",
+        "created_at": "2023-08-16T03:06:49.000Z",
+        "edit_history_tweet_ids": [
+          "1691647676159582609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17552210",
+              "start": 0,
+              "username": "evilcos"
+            }
+          ]
+        },
+        "id": "1691647676159582609",
+        "in_reply_to_user_id": "17552210",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25117,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1691645837632520357",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@evilcos 余大... 你不能以你的水平来看这个观点。\n\n绝大部分人就是技术小白，那放在他们身上是成立的，从用户被盗案例也可以侧面反映。"
+      },
+      {
+        "author_id": "17552210",
+        "conversation_id": "1691645837632520357",
+        "created_at": "2023-08-16T02:59:31.000Z",
+        "edit_history_tweet_ids": [
+          "1691645837632520357"
+        ],
+        "id": "1691645837632520357",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 299730,
+          "like_count": 303,
+          "quote_count": 23,
+          "reply_count": 184,
+          "retweet_count": 23
+        },
+        "text": "你们的“Mac 比 Win 电脑更安全”的错觉是从哪里来的？🤯"
+      },
+      {
+        "author_id": "1397095465334710272",
+        "conversation_id": "1691539833011970048",
+        "created_at": "2023-08-16T01:48:20.000Z",
+        "edit_history_tweet_ids": [
+          "1691627924347351381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            },
+            {
+              "end": 16,
+              "id": "713603418829492224",
+              "start": 9,
+              "username": "exp272"
+            }
+          ]
+        },
+        "id": "1691627924347351381",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1691620437636370435",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky @exp272 我也想吐槽这个，数据和真实的差太远，猜测Apple watch数据本身不准，app 没办法就需要用户配合调参"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1691474554479398912",
+            "3_1691475410104799232"
+          ]
+        },
+        "author_id": "1397095465334710272",
+        "conversation_id": "1691475762447360000",
+        "created_at": "2023-08-15T15:43:42.000Z",
+        "edit_history_tweet_ids": [
+          "1691475762447360000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDughFC7Wa",
+              "end": 33,
+              "expanded_url": "https://x.com/watermiz3/status/1691475762447360000/photo/1",
+              "media_key": "3_1691474554479398912",
+              "start": 10,
+              "url": "https://t.co/rDughFC7Wa"
+            },
+            {
+              "display_url": "pic.x.com/rDughFC7Wa",
+              "end": 33,
+              "expanded_url": "https://x.com/watermiz3/status/1691475762447360000/photo/2",
+              "media_key": "3_1691475410104799232",
+              "start": 10,
+              "url": "https://t.co/rDughFC7Wa"
+            }
+          ]
+        },
+        "id": "1691475762447360000",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1962,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "text": "明天可以加个鸡腿了 https://t.co/rDughFC7Wa"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1181486957282480128",
+        "name": "纪华裕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074062737290989568/27FS9Lt9_normal.jpg",
+        "username": "jihuayu123",
+        "verified": false
+      },
+      {
+        "id": "1164388321545449472",
+        "name": "卫斯理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "username": "imwsl90",
+        "verified": false
+      },
+      {
+        "id": "17552210",
+        "name": "Cos(余弦)😶‍🌫️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681578030811209728/Xx1RuT6N_normal.jpg",
+        "username": "evilcos",
+        "verified": false
+      },
+      {
+        "id": "1397095465334710272",
+        "name": "Maple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679039011388801024/NJwSTEUZ_normal.jpg",
+        "username": "watermiz3",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1691692095634035064",
+    "next_token": "b26v89c19zqg8o3fqkrxyt87s2sgfa0ar7nzhaazp2qv1",
+    "oldest_id": "1691463313664921600",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1691644791652827445].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1691644791652827445",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1691644791652827445"
+    }
+  ]
+}

@@ -1,0 +1,2123 @@
+{
+  "collected_at_utc": "2026-11-26T01:23:07Z",
+  "collected_at_shanghai": "2026-11-26T09:23:07+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ5GQWEMK97H0YVH4G3D41.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2026-04-01T00:00:00Z",
+    "end_time": "2026-05-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3juekhe8m13b1lm6t1hpnv018ra9o59",
+    "window_label": "2026-04"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "2042023521782788251",
+      "created_at": "2026-04-08T23:35:21.000Z",
+      "edit_history_tweet_ids": [
+        "2042023521782788251"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1265567258786566144",
+            "start": 3,
+            "username": "TianheYu"
+          }
+        ]
+      },
+      "id": "2042023521782788251",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041945386450087977",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @TianheYu: Excited to see the release of our initial milestone 🥑 Incredible progress in pretraining, RL and test-time scaling. The best…",
+      "url": "https://x.com/alexandr_wang/status/2042023521782788251"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2042022517897097434",
+      "created_at": "2026-04-08T23:31:21.000Z",
+      "edit_history_tweet_ids": [
+        "2042022517897097434"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "900040276034674689",
+            "start": 3,
+            "username": "zijianwang30"
+          }
+        ]
+      },
+      "id": "2042022517897097434",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "2042009246074859734",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @zijianwang30: Excited to share Muse Spark 🥑! It’s been a privilege leading the data research effort behind this and working with an inc…",
+      "url": "https://x.com/alexandr_wang/status/2042022517897097434"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041909376508985381",
+      "created_at": "2026-04-08T23:30:17.000Z",
+      "edit_history_tweet_ids": [
+        "2042022247607759199"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "14379660",
+            "start": 0,
+            "username": "brian_armstrong"
+          }
+        ]
+      },
+      "id": "2042022247607759199",
+      "in_reply_to_user_id": "14379660",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 19566,
+        "like_count": 65,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2042018937270104506",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@brian_armstrong we're cooking!",
+      "url": "https://x.com/alexandr_wang/status/2042022247607759199"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2042004767585751284",
+      "created_at": "2026-04-08T23:24:35.000Z",
+      "edit_history_tweet_ids": [
+        "2042020815076831512"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "68746721",
+            "start": 0,
+            "username": "fchollet"
+          }
+        ]
+      },
+      "id": "2042020815076831512",
+      "in_reply_to_user_id": "68746721",
+      "lang": "en",
+      "note_tweet": {
+        "text": "We are always open to feedback and welcome any perspective on weaknesses you've noticed in the model from using it.\n\nWe are quite upfront that our model does not perform well on ARC AGI 2 for example, and published those results for the community to understand. That might reflect some areas of improvement of the model that we could focus on in the future.\n\nIn general, we have been pleasantly surprised by users' feedback on the models in areas like visual coding, writing style, and reasoning queries."
+      },
+      "public_metrics": {
+        "bookmark_count": 46,
+        "impression_count": 68345,
+        "like_count": 815,
+        "quote_count": 5,
+        "reply_count": 39,
+        "retweet_count": 14
+      },
+      "referenced_tweets": [
+        {
+          "id": "2042004767585751284",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@fchollet We are always open to feedback and welcome any perspective on weaknesses you've noticed in the model from using it.\n\nWe are quite upfront that our model does not perform well on ARC AGI 2 for example, and published those results for the community to understand. That might reflect",
+      "url": "https://x.com/alexandr_wang/status/2042020815076831512"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2041987599217143808"
+        ],
+        "media_source_tweet_id": [
+          "2041987950238458004"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2042006265178845411",
+      "created_at": "2026-04-08T22:26:46.000Z",
+      "edit_history_tweet_ids": [
+        "2042006265178845411"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "277441245",
+            "start": 3,
+            "username": "benblainex"
+          },
+          {
+            "end": 30,
+            "id": "615818451",
+            "start": 16,
+            "username": "alexandr_wang"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/XmaIgSNNgS",
+            "end": 124,
+            "expanded_url": "https://x.com/benblainex/status/2041987950238458004/video/1",
+            "media_key": "13_2041987599217143808",
+            "start": 101,
+            "url": "https://t.co/XmaIgSNNgS"
+          }
+        ]
+      },
+      "id": "2042006265178845411",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041987950238458004",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @benblainex: @alexandr_wang \"One shot a simple shooter game for iPad\" in Meta AI with Muse Spark! https://t.co/XmaIgSNNgS",
+      "url": "https://x.com/alexandr_wang/status/2042006265178845411"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041996068481794553",
+      "created_at": "2026-04-08T21:46:15.000Z",
+      "edit_history_tweet_ids": [
+        "2041996068481794553"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1648945528103915520",
+            "start": 3,
+            "username": "zy27962986"
+          }
+        ]
+      },
+      "id": "2041996068481794553",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041995841356100081",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @zy27962986: Excited to share our first model from MSL: Muse Spark. Proud to be part of the team and proud of what we have built in the…",
+      "url": "https://x.com/alexandr_wang/status/2041996068481794553"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041991027981218022",
+      "created_at": "2026-04-08T21:31:59.000Z",
+      "edit_history_tweet_ids": [
+        "2041992476115005903"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1999725575548862466",
+            "start": 0,
+            "username": "LostDevraj"
+          }
+        ]
+      },
+      "id": "2041992476115005903",
+      "in_reply_to_user_id": "1999725575548862466",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2095,
+        "like_count": 32,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041992038904951066",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@LostDevraj generally available API is coming soon! looking forward to sharing that!",
+      "url": "https://x.com/alexandr_wang/status/2041992476115005903"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041991027981218022",
+      "created_at": "2026-04-08T21:26:14.000Z",
+      "edit_history_tweet_ids": [
+        "2041991027981218022"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "riteshkhanna.com/blog/muse-spar…",
+            "end": 118,
+            "expanded_url": "https://www.riteshkhanna.com/blog/muse-spark-arena",
+            "start": 95,
+            "status": 200,
+            "unwound_url": "https://www.riteshkhanna.com/blog/muse-spark-arena",
+            "url": "https://t.co/ngYaXTZ4gW"
+          }
+        ]
+      },
+      "id": "2041991027981218022",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 170,
+        "impression_count": 51706,
+        "like_count": 587,
+        "quote_count": 7,
+        "reply_count": 27,
+        "retweet_count": 51
+      },
+      "text": "a good writeup about Muse Spark on a few complex queries (multimodal, stock analysis, coding):\nhttps://t.co/ngYaXTZ4gW",
+      "url": "https://x.com/alexandr_wang/status/2041991027981218022"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_2041941118837805056"
+        ],
+        "media_source_tweet_id": [
+          "2041941464574275735"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2041986021261504796",
+      "created_at": "2026-04-08T21:06:20.000Z",
+      "edit_history_tweet_ids": [
+        "2041986021261504796"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1825243643529027584",
+            "start": 3,
+            "username": "scaling01"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/4V1ooaLTJe",
+            "end": 79,
+            "expanded_url": "https://x.com/scaling01/status/2041941464574275735/photo/1",
+            "media_key": "3_2041941118837805056",
+            "start": 56,
+            "url": "https://t.co/4V1ooaLTJe"
+          }
+        ]
+      },
+      "id": "2041986021261504796",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041941464574275735",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @scaling01: MUSE SPARK SVGs\n\nactually a decent model https://t.co/4V1ooaLTJe",
+      "url": "https://x.com/alexandr_wang/status/2041986021261504796"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041985846950424760",
+      "created_at": "2026-04-08T21:05:38.000Z",
+      "edit_history_tweet_ids": [
+        "2041985846950424760"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Use Meta AI to get things done. Create AI-generated images for free, edit photos, shop, find places to go, and get answers to any question. Start now.",
+            "display_url": "meta.ai",
+            "end": 41,
+            "expanded_url": "http://meta.ai",
+            "images": [
+              {
+                "height": 945,
+                "url": "https://pbs.twimg.com/news_img/2125444422909476865/ruFfwGjc?format=png&name=orig",
+                "width": 1800
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125444422909476865/ruFfwGjc?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 18,
+            "status": 200,
+            "title": "Meta AI - Your AI Assistant for Images, Shopping and More",
+            "unwound_url": "https://www.meta.ai/",
+            "url": "https://t.co/DipeeIuXm2"
+          },
+          {
+            "display_url": "x.com/skirano/status…",
+            "end": 89,
+            "expanded_url": "https://twitter.com/skirano/status/2041920891072700631",
+            "start": 66,
+            "url": "https://t.co/pt1L0EqNPX"
+          }
+        ]
+      },
+      "id": "2041985846950424760",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 75,
+        "impression_count": 37652,
+        "like_count": 364,
+        "quote_count": 4,
+        "reply_count": 30,
+        "retweet_count": 16
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041920891072700631",
+          "type": "quoted"
+        }
+      ],
+      "text": "try for yourself! https://t.co/DipeeIuXm2 or download Meta AI app https://t.co/pt1L0EqNPX",
+      "url": "https://x.com/alexandr_wang/status/2041985846950424760"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041985710195191954",
+      "created_at": "2026-04-08T21:05:06.000Z",
+      "edit_history_tweet_ids": [
+        "2041985710195191954"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1461305890892570628",
+            "start": 3,
+            "username": "haider1"
+          }
+        ]
+      },
+      "id": "2041985710195191954",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041951711493795900",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @haider1: guys, Meta is back i think\n\n\"muse spark\" looks like their strongest return to the frontier race in a while\n\n52% on arti…",
+      "url": "https://x.com/alexandr_wang/status/2041985710195191954"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041985652900974837",
+      "created_at": "2026-04-08T21:04:52.000Z",
+      "edit_history_tweet_ids": [
+        "2041985652900974837"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1906264743440183296",
+            "start": 3,
+            "username": "LexnLin"
+          }
+        ]
+      },
+      "id": "2041985652900974837",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041957040545808707",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @LexnLin: I tried to recreate the Meta AI animation using different AI models\n\n1/ (top left) original\n2/ (top right) Gemini 3.1 Pro High…",
+      "url": "https://x.com/alexandr_wang/status/2041985652900974837"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2041979485093040128"
+        ],
+        "media_source_tweet_id": [
+          "2041979637404930290"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2041984995737399533",
+      "created_at": "2026-04-08T21:02:15.000Z",
+      "edit_history_tweet_ids": [
+        "2041984995737399533"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1310510288312041472",
+            "start": 3,
+            "username": "fanofaliens"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/4Vn5hrDyiS",
+            "end": 128,
+            "expanded_url": "https://x.com/fanofaliens/status/2041979637404930290/video/1",
+            "media_key": "13_2041979485093040128",
+            "start": 105,
+            "url": "https://t.co/4Vn5hrDyiS"
+          }
+        ]
+      },
+      "id": "2041984995737399533",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041979637404930290",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @fanofaliens: Dang\nIt one shotted this table tennis game in 3d with sound\n\nGreat job Muse Aka Meta AI https://t.co/4Vn5hrDyiS",
+      "url": "https://x.com/alexandr_wang/status/2041984995737399533"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041984334488654206",
+      "created_at": "2026-04-08T20:59:38.000Z",
+      "edit_history_tweet_ids": [
+        "2041984334488654206"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "11768582",
+            "start": 3,
+            "username": "garrytan"
+          }
+        ]
+      },
+      "id": "2041984334488654206",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041983465101672790",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @garrytan: You can make very impressive one shot arcade games with this!",
+      "url": "https://x.com/alexandr_wang/status/2041984334488654206"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041958739763229182",
+      "created_at": "2026-04-08T20:58:04.000Z",
+      "edit_history_tweet_ids": [
+        "2041983942572859539"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1825243643529027584",
+            "start": 0,
+            "username": "scaling01"
+          }
+        ]
+      },
+      "id": "2041983942572859539",
+      "in_reply_to_user_id": "1825243643529027584",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 23,
+        "impression_count": 53683,
+        "like_count": 623,
+        "quote_count": 9,
+        "reply_count": 17,
+        "retweet_count": 15
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041958739763229182",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@scaling01 🔜",
+      "url": "https://x.com/alexandr_wang/status/2041983942572859539"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041983394469572724",
+      "created_at": "2026-04-08T20:55:54.000Z",
+      "edit_history_tweet_ids": [
+        "2041983394469572724"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Use Meta AI to get things done. Create AI-generated images for free, edit photos, shop, find places to go, and get answers to any question. Start now.",
+            "display_url": "meta.ai",
+            "end": 58,
+            "expanded_url": "http://meta.ai",
+            "images": [
+              {
+                "height": 945,
+                "url": "https://pbs.twimg.com/news_img/2125444422909476865/ruFfwGjc?format=png&name=orig",
+                "width": 1800
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2125444422909476865/ruFfwGjc?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 35,
+            "status": 200,
+            "title": "Meta AI - Your AI Assistant for Images, Shopping and More",
+            "unwound_url": "https://www.meta.ai/",
+            "url": "https://t.co/DipeeIuXm2"
+          },
+          {
+            "display_url": "x.com/LexnLin/status…",
+            "end": 83,
+            "expanded_url": "https://twitter.com/LexnLin/status/2041957759055282288",
+            "start": 60,
+            "url": "https://t.co/cpvVDcxH9S"
+          }
+        ]
+      },
+      "id": "2041983394469572724",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 32,
+        "impression_count": 18985,
+        "like_count": 187,
+        "quote_count": 2,
+        "reply_count": 12,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041957759055282288",
+          "type": "quoted"
+        }
+      ],
+      "text": "use muse spark to make websites at https://t.co/DipeeIuXm2! https://t.co/cpvVDcxH9S",
+      "url": "https://x.com/alexandr_wang/status/2041983394469572724"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041982977631277252",
+      "created_at": "2026-04-08T20:54:14.000Z",
+      "edit_history_tweet_ids": [
+        "2041982977631277252"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1813179338654949379",
+            "start": 3,
+            "username": "MinyangTian1"
+          },
+          {
+            "end": 39,
+            "id": "1034844617261248512",
+            "start": 30,
+            "username": "AIatMeta"
+          }
+        ]
+      },
+      "id": "2041982977631277252",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 8
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041947421341839743",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @MinyangTian1: Congrats to @AIatMeta  on the release of Muse Spark! Jumping from Llama 4 Maverick at 0 to 11.3 on CritPt is a huge leap.…",
+      "url": "https://x.com/alexandr_wang/status/2041982977631277252"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041981814978572755",
+      "created_at": "2026-04-08T20:49:37.000Z",
+      "edit_history_tweet_ids": [
+        "2041981814978572755"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "961263326419447808",
+            "start": 3,
+            "username": "TheRealShane01"
+          }
+        ]
+      },
+      "id": "2041981814978572755",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 9,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041981770187284903",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @TheRealShane01: I asked Muse Spark to build me a Shopify clone website. It did so in about 2 minutes. Light and Dark mode work, a littl…",
+      "url": "https://x.com/alexandr_wang/status/2041981814978572755"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041981723928621091",
+      "created_at": "2026-04-08T20:49:15.000Z",
+      "edit_history_tweet_ids": [
+        "2041981723928621091"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1744988002902818816",
+            "start": 3,
+            "username": "MohammadErfanJ"
+          },
+          {
+            "end": 97,
+            "id": "1034844617261248512",
+            "start": 88,
+            "username": "AIatMeta"
+          },
+          {
+            "end": 112,
+            "id": "615818451",
+            "start": 98,
+            "username": "alexandr_wang"
+          }
+        ]
+      },
+      "id": "2041981723928621091",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041981357761425879",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @MohammadErfanJ: probably the most unique answer to my question in the last 2 years.\n@AIatMeta @alexandr_wang \nImpressed. Thanks https:/…",
+      "url": "https://x.com/alexandr_wang/status/2041981723928621091"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041980885290115554",
+      "created_at": "2026-04-08T20:45:55.000Z",
+      "edit_history_tweet_ids": [
+        "2041980885290115554"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "1529761561170124800",
+            "start": 3,
+            "username": "EpochAIResearch"
+          }
+        ]
+      },
+      "id": "2041980885290115554",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 40
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041947954202988757",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @EpochAIResearch: We had pre-release access to Meta’s new Muse Spark model and evaluated it on FrontierMath. It scored 39% on Tiers 1-3…",
+      "url": "https://x.com/alexandr_wang/status/2041980885290115554"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "13_2041952368179187712"
+        ],
+        "media_source_tweet_id": [
+          "2041952435833369060"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "2041979628009746820",
+      "created_at": "2026-04-08T20:40:56.000Z",
+      "edit_history_tweet_ids": [
+        "2041979628009746820"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1613004034096381952",
+            "start": 3,
+            "username": "chrisgpt"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/9yXf6SmNjW",
+            "end": 135,
+            "expanded_url": "https://x.com/chatgpt21/status/2041952435833369060/video/1",
+            "media_key": "13_2041952368179187712",
+            "start": 112,
+            "url": "https://t.co/9yXf6SmNjW"
+          }
+        ]
+      },
+      "id": "2041979628009746820",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 14,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 11
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041952435833369060",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @chrisgpt: Meta Muse: “Make a flappy bird clone”\nOne shot in only a couple minutes in canvas not bad at all! https://t.co/9yXf6SmNjW",
+      "url": "https://x.com/alexandr_wang/status/2041979628009746820"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041979287935635733",
+      "created_at": "2026-04-08T20:39:35.000Z",
+      "edit_history_tweet_ids": [
+        "2041979287935635733"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1415358976200372230",
+            "start": 3,
+            "username": "ElaineYaLe6"
+          }
+        ]
+      },
+      "id": "2041979287935635733",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 17
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041969732077940845",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @ElaineYaLe6: Muse spark 🥑 is here! \n\n9 months ago we started from scratch. Today we’ve rebuilt the entire stack and shipped a well-roun…",
+      "url": "https://x.com/alexandr_wang/status/2041979287935635733"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041971531224641890",
+      "created_at": "2026-04-08T20:08:45.000Z",
+      "edit_history_tweet_ids": [
+        "2041971531224641890"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1573399256836309009",
+            "start": 3,
+            "username": "kimmonismus"
+          }
+        ]
+      },
+      "id": "2041971531224641890",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 24
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041964540389188030",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @kimmonismus: Didn't expect Meta's model to outperform Opus 4.6 or GPT-5.4.\n\nBut it still surprises me how well it performs and how clos…",
+      "url": "https://x.com/alexandr_wang/status/2041971531224641890"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041971491680743864",
+      "created_at": "2026-04-08T20:08:36.000Z",
+      "edit_history_tweet_ids": [
+        "2041971491680743864"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2781760593",
+            "start": 3,
+            "username": "flavioAd"
+          }
+        ]
+      },
+      "id": "2041971491680743864",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 20
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041962158595174420",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @flavioAd: After MORE THAN A YEAR, Meta finally released a model that passes the Hexagon Test and I’m not gonna lie this is weirdly emot…",
+      "url": "https://x.com/alexandr_wang/status/2041971491680743864"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "2041957895290671426",
+      "created_at": "2026-04-08T19:14:34.000Z",
+      "edit_history_tweet_ids": [
+        "2041957895290671426"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "3244194764",
+            "start": 3,
+            "username": "xf1280"
+          }
+        ]
+      },
+      "id": "2041957895290671426",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 13
+      },
+      "referenced_tweets": [
+        {
+          "id": "2041956067706589329",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @xf1280: Excited that this is out, and proud to be a part of it! This is our first step in scaling — an intelligent and useful multimoda…",
+      "url": "https://x.com/alexandr_wang/status/2041957895290671426"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1265567258786566144",
+        "conversation_id": "2041945386450087977",
+        "created_at": "2026-04-08T18:24:52.000Z",
+        "edit_history_tweet_ids": [
+          "2041945386450087977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2041909376508985381",
+              "start": 141,
+              "url": "https://t.co/9Fx07DkN4F"
+            }
+          ]
+        },
+        "id": "2041945386450087977",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10724,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "quoted"
+          }
+        ],
+        "text": "Excited to see the release of our initial milestone 🥑 Incredible progress in pretraining, RL and test-time scaling. The best is yet to come. https://t.co/9Fx07DkN4F"
+      },
+      {
+        "author_id": "900040276034674689",
+        "conversation_id": "2042009246074859734",
+        "created_at": "2026-04-08T22:38:37.000Z",
+        "edit_history_tweet_ids": [
+          "2042009246074859734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2041909376508985381",
+              "start": 194,
+              "url": "https://t.co/RPhPiDDQMX"
+            }
+          ]
+        },
+        "id": "2042009246074859734",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10350,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "quoted"
+          }
+        ],
+        "text": "Excited to share Muse Spark 🥑! It’s been a privilege leading the data research effort behind this and working with an incredible team to build the best data for superintelligence. More to come! https://t.co/RPhPiDDQMX"
+      },
+      {
+        "author_id": "14379660",
+        "conversation_id": "2041909376508985381",
+        "created_at": "2026-04-08T23:17:08.000Z",
+        "edit_history_tweet_ids": [
+          "2042018937270104506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2042018937270104506",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23260,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Nicely done!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041987599217143808"
+          ]
+        },
+        "author_id": "277441245",
+        "conversation_id": "2041985846950424760",
+        "created_at": "2026-04-08T21:14:00.000Z",
+        "edit_history_tweet_ids": [
+          "2041987950238458004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmaIgSNNgS",
+              "end": 108,
+              "expanded_url": "https://x.com/benblainex/status/2041987950238458004/video/1",
+              "media_key": "13_2041987599217143808",
+              "start": 85,
+              "url": "https://t.co/XmaIgSNNgS"
+            }
+          ]
+        },
+        "id": "2041987950238458004",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10090,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041985846950424760",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang \"One shot a simple shooter game for iPad\" in Meta AI with Muse Spark! https://t.co/XmaIgSNNgS"
+      },
+      {
+        "author_id": "1648945528103915520",
+        "conversation_id": "2041995841356100081",
+        "created_at": "2026-04-08T21:45:21.000Z",
+        "edit_history_tweet_ids": [
+          "2041995841356100081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2041909376508985381",
+              "start": 143,
+              "url": "https://t.co/zO9XvScWm3"
+            }
+          ]
+        },
+        "id": "2041995841356100081",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Excited to share our first model from MSL: Muse Spark. Proud to be part of the team and proud of what we have built in the past 9 months!  🚀🚀🚀"
+        },
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16789,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "quoted"
+          }
+        ],
+        "text": "Excited to share our first model from MSL: Muse Spark. Proud to be part of the team and proud of what we have built in the past 9 months!  🚀🚀🚀 https://t.co/zO9XvScWm3"
+      },
+      {
+        "author_id": "1999725575548862466",
+        "conversation_id": "2041991027981218022",
+        "created_at": "2026-04-08T21:30:15.000Z",
+        "edit_history_tweet_ids": [
+          "2041992038904951066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ]
+        },
+        "id": "2041992038904951066",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2766,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041991027981218022",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang Alex, there is no point in having these models when they are literally not available on any coding platform like Cursor or Windsurf"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2041941118837805056",
+            "3_2041941185472634880",
+            "3_2041941199473270784",
+            "3_2041941226509737984"
+          ]
+        },
+        "author_id": "1825243643529027584",
+        "conversation_id": "2041941464574275735",
+        "created_at": "2026-04-08T18:09:17.000Z",
+        "edit_history_tweet_ids": [
+          "2041941464574275735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4V1ooaLTJe",
+              "end": 64,
+              "expanded_url": "https://x.com/scaling01/status/2041941464574275735/photo/1",
+              "media_key": "3_2041941118837805056",
+              "start": 41,
+              "url": "https://t.co/4V1ooaLTJe"
+            },
+            {
+              "display_url": "pic.x.com/4V1ooaLTJe",
+              "end": 64,
+              "expanded_url": "https://x.com/scaling01/status/2041941464574275735/photo/2",
+              "media_key": "3_2041941185472634880",
+              "start": 41,
+              "url": "https://t.co/4V1ooaLTJe"
+            },
+            {
+              "display_url": "pic.x.com/4V1ooaLTJe",
+              "end": 64,
+              "expanded_url": "https://x.com/scaling01/status/2041941464574275735/photo/3",
+              "media_key": "3_2041941199473270784",
+              "start": 41,
+              "url": "https://t.co/4V1ooaLTJe"
+            },
+            {
+              "display_url": "pic.x.com/4V1ooaLTJe",
+              "end": 64,
+              "expanded_url": "https://x.com/scaling01/status/2041941464574275735/photo/4",
+              "media_key": "3_2041941226509737984",
+              "start": 41,
+              "url": "https://t.co/4V1ooaLTJe"
+            },
+            {
+              "display_url": "x.com/scaling01/stat…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/scaling01/status/2041912610694549740",
+              "start": 65,
+              "url": "https://t.co/0mhsVnqyCX"
+            }
+          ]
+        },
+        "id": "2041941464574275735",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21605,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041912610694549740",
+            "type": "quoted"
+          }
+        ],
+        "text": "MUSE SPARK SVGs\n\nactually a decent model https://t.co/4V1ooaLTJe https://t.co/0mhsVnqyCX"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041920752232882177"
+          ]
+        },
+        "author_id": "73105934",
+        "conversation_id": "2041920891072700631",
+        "created_at": "2026-04-08T16:47:32.000Z",
+        "edit_history_tweet_ids": [
+          "2041920891072700631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q97xiGUzPb",
+              "end": 105,
+              "expanded_url": "https://x.com/skirano/status/2041920891072700631/video/1",
+              "media_key": "13_2041920752232882177",
+              "start": 82,
+              "url": "https://t.co/Q97xiGUzPb"
+            }
+          ]
+        },
+        "id": "2041920891072700631",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 782,
+          "impression_count": 127863,
+          "like_count": 1178,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 49
+        },
+        "text": "The new model from Meta, Muse Spark, is pretty good at converting images to code! https://t.co/Q97xiGUzPb"
+      },
+      {
+        "author_id": "1461305890892570628",
+        "conversation_id": "2041951711493795900",
+        "created_at": "2026-04-08T18:50:00.000Z",
+        "edit_history_tweet_ids": [
+          "2041951711493795900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AIatMeta/statu…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/AIatMeta/status/2041910285653737975",
+              "start": 279,
+              "url": "https://t.co/wUhNAyuWPL"
+            }
+          ]
+        },
+        "id": "2041951711493795900",
+        "lang": "en",
+        "note_tweet": {
+          "text": "guys, Meta is back i think\n\n\"muse spark\" looks like their strongest return to the frontier race in a while\n\n52% on artificial analysis\n80.4% on mmmu-pro\n42.8% on HLE\n42.5% on arc-agi-2\n52.4% on swe-bench pro\n77.4% on swe-bench verified\n89.5% on GPQA diamond\n\ntop-tier multimodal model, and not even bad at coding or agentic work either"
+        },
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21908,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041910285653737975",
+            "type": "quoted"
+          }
+        ],
+        "text": "guys, Meta is back i think\n\n\"muse spark\" looks like their strongest return to the frontier race in a while\n\n52% on artificial analysis\n80.4% on mmmu-pro\n42.8% on HLE\n42.5% on arc-agi-2\n52.4% on swe-bench pro\n77.4% on swe-bench verified\n89.5% on GPQA diamond\n\ntop-tier multimodal https://t.co/wUhNAyuWPL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041955493120212992",
+            "13_2041955714571059200",
+            "13_2041956039210254336",
+            "13_2041956306890686464"
+          ]
+        },
+        "author_id": "1906264743440183296",
+        "conversation_id": "2041957040545808707",
+        "created_at": "2026-04-08T19:11:10.000Z",
+        "edit_history_tweet_ids": [
+          "2041957040545808707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhfbLldrjL",
+              "end": 258,
+              "expanded_url": "https://x.com/LexnLin/status/2041957040545808707/video/1",
+              "media_key": "13_2041955493120212992",
+              "start": 235,
+              "url": "https://t.co/LhfbLldrjL"
+            },
+            {
+              "display_url": "pic.x.com/LhfbLldrjL",
+              "end": 258,
+              "expanded_url": "https://x.com/LexnLin/status/2041957040545808707/video/2",
+              "media_key": "13_2041955714571059200",
+              "start": 235,
+              "url": "https://t.co/LhfbLldrjL"
+            },
+            {
+              "display_url": "pic.x.com/LhfbLldrjL",
+              "end": 258,
+              "expanded_url": "https://x.com/LexnLin/status/2041957040545808707/video/3",
+              "media_key": "13_2041956039210254336",
+              "start": 235,
+              "url": "https://t.co/LhfbLldrjL"
+            },
+            {
+              "display_url": "pic.x.com/LhfbLldrjL",
+              "end": 258,
+              "expanded_url": "https://x.com/LexnLin/status/2041957040545808707/video/4",
+              "media_key": "13_2041956306890686464",
+              "start": 235,
+              "url": "https://t.co/LhfbLldrjL"
+            }
+          ]
+        },
+        "id": "2041957040545808707",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 18748,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "text": "I tried to recreate the Meta AI animation using different AI models\n\n1/ (top left) original\n2/ (top right) Gemini 3.1 Pro High\n3/ (bottom left) Muse Spark\n4/ (bottom right) ChatGPT 5.4 Thinking Extended\n\nfor this round, muse spark won https://t.co/LhfbLldrjL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041979485093040128"
+          ]
+        },
+        "author_id": "1310510288312041472",
+        "conversation_id": "2041979637404930290",
+        "created_at": "2026-04-08T20:40:58.000Z",
+        "edit_history_tweet_ids": [
+          "2041979637404930290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Vn5hrDyiS",
+              "end": 111,
+              "expanded_url": "https://x.com/fanofaliens/status/2041979637404930290/video/1",
+              "media_key": "13_2041979485093040128",
+              "start": 88,
+              "url": "https://t.co/4Vn5hrDyiS"
+            },
+            {
+              "display_url": "x.com/AIatMeta/statu…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/AIatMeta/status/2041910285653737975",
+              "start": 112,
+              "url": "https://t.co/OpNEMx2XNY"
+            }
+          ]
+        },
+        "id": "2041979637404930290",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 40921,
+          "like_count": 103,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041910285653737975",
+            "type": "quoted"
+          }
+        ],
+        "text": "Dang\nIt one shotted this table tennis game in 3d with sound\n\nGreat job Muse Aka Meta AI https://t.co/4Vn5hrDyiS https://t.co/OpNEMx2XNY"
+      },
+      {
+        "author_id": "11768582",
+        "conversation_id": "2041983465101672790",
+        "created_at": "2026-04-08T20:56:10.000Z",
+        "edit_history_tweet_ids": [
+          "2041983465101672790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2041909376508985381",
+              "start": 62,
+              "url": "https://t.co/SX1lJcVR91"
+            }
+          ]
+        },
+        "id": "2041983465101672790",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 29107,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "quoted"
+          }
+        ],
+        "text": "You can make very impressive one shot arcade games with this! https://t.co/SX1lJcVR91"
+      },
+      {
+        "author_id": "1825243643529027584",
+        "conversation_id": "2041958739763229182",
+        "created_at": "2026-04-08T19:17:55.000Z",
+        "edit_history_tweet_ids": [
+          "2041958739763229182"
+        ],
+        "id": "2041958739763229182",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 55158,
+          "like_count": 458,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "text": "I'm now very hyped for the bigger models Meta will release. They are so fucking back.\n\nthey literally say \"larger modelS\"\n\nso we might get 2 additional tiers above Muse Spark:\n meaning a 1-2T model and a 5-10T model"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041957443568123904"
+          ]
+        },
+        "author_id": "1906264743440183296",
+        "conversation_id": "2041957759055282288",
+        "created_at": "2026-04-08T19:14:02.000Z",
+        "edit_history_tweet_ids": [
+          "2041957759055282288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j61mFOdiBm",
+              "end": 164,
+              "expanded_url": "https://x.com/LexnLin/status/2041957759055282288/video/1",
+              "media_key": "13_2041957443568123904",
+              "start": 141,
+              "url": "https://t.co/j61mFOdiBm"
+            }
+          ]
+        },
+        "id": "2041957759055282288",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 47136,
+          "like_count": 103,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "text": "I experimented with Muse Spark a bit more.\nI take my words back it seems to be quite okay. \n\nMuse Spark generated images for the website btw https://t.co/j61mFOdiBm"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2041947250272980992"
+          ]
+        },
+        "author_id": "1813179338654949379",
+        "conversation_id": "2041947421341839743",
+        "created_at": "2026-04-08T18:32:57.000Z",
+        "edit_history_tweet_ids": [
+          "2041947421341839743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1034844617261248512",
+              "start": 12,
+              "username": "AIatMeta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RacVhUCLf2",
+              "end": 278,
+              "expanded_url": "https://x.com/MinyangTian1/status/2041947421341839743/photo/1",
+              "media_key": "3_2041947250272980992",
+              "start": 255,
+              "url": "https://t.co/RacVhUCLf2"
+            }
+          ]
+        },
+        "id": "2041947421341839743",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11388,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "text": "Congrats to @AIatMeta  on the release of Muse Spark! Jumping from Llama 4 Maverick at 0 to 11.3 on CritPt is a huge leap. Given that CritPt consists of original, research-level physics problems designed by expert physicists, this is seriously impressive! https://t.co/RacVhUCLf2"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041980257268285440"
+          ]
+        },
+        "author_id": "961263326419447808",
+        "conversation_id": "2041981770187284903",
+        "created_at": "2026-04-08T20:49:26.000Z",
+        "edit_history_tweet_ids": [
+          "2041981770187284903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSdlICXLh4",
+              "end": 240,
+              "expanded_url": "https://x.com/TheRealShane01/status/2041981770187284903/video/1",
+              "media_key": "13_2041980257268285440",
+              "start": 217,
+              "url": "https://t.co/BSdlICXLh4"
+            },
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 264,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2041909376508985381",
+              "start": 241,
+              "url": "https://t.co/Kka0YNy6rg"
+            }
+          ]
+        },
+        "id": "2041981770187284903",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10090,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "quoted"
+          }
+        ],
+        "text": "I asked Muse Spark to build me a Shopify clone website. It did so in about 2 minutes. Light and Dark mode work, a little mix-up with the nav bar functionality, but this is fair. Overall, better than the Llama series. https://t.co/BSdlICXLh4 https://t.co/Kka0YNy6rg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2041981244578156544"
+          ]
+        },
+        "author_id": "1744988002902818816",
+        "conversation_id": "2041981357761425879",
+        "created_at": "2026-04-08T20:47:48.000Z",
+        "edit_history_tweet_ids": [
+          "2041981357761425879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1034844617261248512",
+              "start": 68,
+              "username": "AIatMeta"
+            },
+            {
+              "end": 92,
+              "id": "615818451",
+              "start": 78,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/28HMvg888D",
+              "end": 135,
+              "expanded_url": "https://x.com/MohammadErfanJ/status/2041981357761425879/photo/1",
+              "media_key": "3_2041981244578156544",
+              "start": 112,
+              "url": "https://t.co/28HMvg888D"
+            }
+          ]
+        },
+        "id": "2041981357761425879",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10289,
+          "like_count": 95,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "text": "probably the most unique answer to my question in the last 2 years.\n@AIatMeta @alexandr_wang \nImpressed. Thanks https://t.co/28HMvg888D"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2041947952193925122"
+          ]
+        },
+        "author_id": "1529761561170124800",
+        "conversation_id": "2041947954202988757",
+        "created_at": "2026-04-08T18:35:04.000Z",
+        "edit_history_tweet_ids": [
+          "2041947954202988757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/avOWcEzQLI",
+              "end": 240,
+              "expanded_url": "https://x.com/EpochAIResearch/status/2041947954202988757/photo/1",
+              "media_key": "3_2041947952193925122",
+              "start": 217,
+              "url": "https://t.co/avOWcEzQLI"
+            }
+          ]
+        },
+        "id": "2041947954202988757",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 87588,
+          "like_count": 369,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 40
+        },
+        "text": "We had pre-release access to Meta’s new Muse Spark model and evaluated it on FrontierMath. It scored 39% on Tiers 1-3 and 15% on Tier 4. This is competitive with several recent frontier models, though behind GPT-5.4. https://t.co/avOWcEzQLI"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041952368179187712"
+          ]
+        },
+        "author_id": "1613004034096381952",
+        "conversation_id": "2041952435833369060",
+        "created_at": "2026-04-08T18:52:53.000Z",
+        "edit_history_tweet_ids": [
+          "2041952435833369060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yXf6SmNjW",
+              "end": 121,
+              "expanded_url": "https://x.com/chatgpt21/status/2041952435833369060/video/1",
+              "media_key": "13_2041952368179187712",
+              "start": 98,
+              "url": "https://t.co/9yXf6SmNjW"
+            }
+          ]
+        },
+        "id": "2041952435833369060",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 40251,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "text": "Meta Muse: “Make a flappy bird clone”\nOne shot in only a couple minutes in canvas not bad at all! https://t.co/9yXf6SmNjW"
+      },
+      {
+        "author_id": "1415358976200372230",
+        "conversation_id": "2041969732077940845",
+        "created_at": "2026-04-08T20:01:36.000Z",
+        "edit_history_tweet_ids": [
+          "2041969732077940845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/2041909376508985381",
+              "start": 279,
+              "url": "https://t.co/NMD8hWAK4k"
+            }
+          ]
+        },
+        "id": "2041969732077940845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "meta.ai",
+                "end": 321,
+                "expanded_url": "http://meta.ai",
+                "start": 298,
+                "url": "https://t.co/JYOXmerYWh"
+              }
+            ]
+          },
+          "text": "Muse spark 🥑 is here! \n\n9 months ago we started from scratch. Today we’ve rebuilt the entire stack and shipped a well-rounded, multimodal, and agent-native model. \n\nThis is just the beginning of a new era toward personal superintelligence. We’re early, but the momentum is real. \n\nGive it a try at https://t.co/JYOXmerYWh — would love your feedback!"
+        },
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20669,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041909376508985381",
+            "type": "quoted"
+          }
+        ],
+        "text": "Muse spark 🥑 is here! \n\n9 months ago we started from scratch. Today we’ve rebuilt the entire stack and shipped a well-rounded, multimodal, and agent-native model. \n\nThis is just the beginning of a new era toward personal superintelligence. We’re early, but the momentum is real. https://t.co/NMD8hWAK4k"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2041964535506960384"
+          ]
+        },
+        "author_id": "1573399256836309009",
+        "conversation_id": "2041964540389188030",
+        "created_at": "2026-04-08T19:40:58.000Z",
+        "edit_history_tweet_ids": [
+          "2041964540389188030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TiQLRI5EHd",
+              "end": 202,
+              "expanded_url": "https://x.com/kimmonismus/status/2041964540389188030/photo/1",
+              "media_key": "3_2041964535506960384",
+              "start": 179,
+              "url": "https://t.co/TiQLRI5EHd"
+            },
+            {
+              "display_url": "x.com/EpochAIResearc…",
+              "end": 226,
+              "expanded_url": "https://twitter.com/EpochAIResearch/status/2041947954202988757",
+              "start": 203,
+              "url": "https://t.co/p7mKtDuj3f"
+            }
+          ]
+        },
+        "id": "2041964540389188030",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 48669,
+          "like_count": 449,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041947954202988757",
+            "type": "quoted"
+          }
+        ],
+        "text": "Didn't expect Meta's model to outperform Opus 4.6 or GPT-5.4.\n\nBut it still surprises me how well it performs and how close it is to other frontier models on toughest challenges. https://t.co/TiQLRI5EHd https://t.co/p7mKtDuj3f"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_2041959412919947264"
+          ]
+        },
+        "author_id": "2781760593",
+        "conversation_id": "2041962158595174420",
+        "created_at": "2026-04-08T19:31:31.000Z",
+        "edit_history_tweet_ids": [
+          "2041962158595174420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0Ju0HcOyQ",
+              "end": 203,
+              "expanded_url": "https://x.com/flavioAd/status/2041962158595174420/video/1",
+              "media_key": "13_2041959412919947264",
+              "start": 180,
+              "url": "https://t.co/j0Ju0HcOyQ"
+            },
+            {
+              "display_url": "x.com/AIatMeta/statu…",
+              "end": 227,
+              "expanded_url": "https://twitter.com/AIatMeta/status/2041910285653737975",
+              "start": 204,
+              "url": "https://t.co/Jz9fi4uqmF"
+            }
+          ]
+        },
+        "id": "2041962158595174420",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 170071,
+          "like_count": 719,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041910285653737975",
+            "type": "quoted"
+          }
+        ],
+        "text": "After MORE THAN A YEAR, Meta finally released a model that passes the Hexagon Test and I’m not gonna lie this is weirdly emotional 🥹\n\nsorry guys but history had to be documented!! https://t.co/j0Ju0HcOyQ https://t.co/Jz9fi4uqmF"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_2041952790583635970"
+          ]
+        },
+        "author_id": "3244194764",
+        "conversation_id": "2041956067706589329",
+        "created_at": "2026-04-08T19:07:18.000Z",
+        "edit_history_tweet_ids": [
+          "2041956067706589329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6n2ZeV803b",
+              "end": 299,
+              "expanded_url": "https://x.com/xf1280/status/2041956067706589329/photo/1",
+              "media_key": "3_2041952790583635970",
+              "start": 276,
+              "url": "https://t.co/6n2ZeV803b"
+            },
+            {
+              "display_url": "x.com/AIatMeta/statu…",
+              "end": 323,
+              "expanded_url": "https://twitter.com/AIatMeta/status/2041910285653737975",
+              "start": 300,
+              "url": "https://t.co/U1kfa8YCCL"
+            }
+          ]
+        },
+        "id": "2041956067706589329",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 25634,
+          "like_count": 191,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041910285653737975",
+            "type": "quoted"
+          }
+        ],
+        "text": "Excited that this is out, and proud to be a part of it! This is our first step in scaling — an intelligent and useful multimodal model 🥑 built on a foundation of scientific rigor and solid engineering.\n\nIncredible velocity and culture of the team and the best is yet to come! https://t.co/6n2ZeV803b https://t.co/U1kfa8YCCL"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "14379660",
+        "name": "Brian Armstrong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078293582918934528/YZjOB_hV_normal.jpg",
+        "username": "brian_armstrong",
+        "verified": false
+      },
+      {
+        "id": "68746721",
+        "name": "François Chollet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006806326140350470/Kd5oZv-f_normal.jpg",
+        "username": "fchollet",
+        "verified": false
+      },
+      {
+        "id": "1999725575548862466",
+        "name": "Devraj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053450894793142272/sltvBNE5_normal.jpg",
+        "username": "LostDevraj",
+        "verified": false
+      },
+      {
+        "id": "1825243643529027584",
+        "name": "Lisan al Gaib",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831493788679761920/-q9w6dzd_normal.jpg",
+        "username": "scaling01",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2042023521782788251",
+    "next_token": "b26v89c19zqg8o3juekgzm7j03r4ffzu31s6ude0tywe5",
+    "oldest_id": "2041957895290671426",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2042004767585751284].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2042004767585751284",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2042004767585751284"
+    }
+  ]
+}

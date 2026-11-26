@@ -1,0 +1,1188 @@
+{
+  "collected_at_utc": "2026-11-26T00:45:27Z",
+  "collected_at_shanghai": "2026-11-26T08:45:27+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AN0G3XRGANTXJFN68BVDD3.txt",
+  "request": {
+    "query": "from:thankUcrypto",
+    "start_time": "2023-08-01T00:00:00Z",
+    "end_time": "2023-09-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fqkrznfmsi66xzr3hdm5mkrcod8n0d",
+    "window_label": "2023-08"
+  },
+  "data": [
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T12:22:31.000Z",
+      "edit_history_tweet_ids": [
+        "1695411398489395452"
+      ],
+      "id": "1695411398489395452",
+      "in_reply_to_user_id": "705564530936418304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 173,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695411158789005771",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TingHu888 希望我的回复能对你有所帮助。",
+      "url": "https://x.com/thankUcrypto/status/1695411398489395452"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T12:21:34.000Z",
+      "edit_history_tweet_ids": [
+        "1695411158789005771"
+      ],
+      "id": "1695411158789005771",
+      "in_reply_to_user_id": "705564530936418304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 558,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695409447265562760",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TingHu888 顺便提一下，第三方跟单产品一般接入的是大交易所的broker。\n币圈其实很多资管模式之一就有API跟单，操盘手用自己账户自己资金交易的同时，散户通过API跟单。这个圈内很多成熟的交易员自己做资管已经做了很多年，资金量甚至超过大交易所的前十交易员累加资金。目前他们带单带的还不错。",
+      "url": "https://x.com/thankUcrypto/status/1695411158789005771"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T12:14:46.000Z",
+      "edit_history_tweet_ids": [
+        "1695409447265562760"
+      ],
+      "id": "1695409447265562760",
+      "in_reply_to_user_id": "705564530936418304",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 310,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695408820955091406",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TingHu888 但是同时也有更多的边界情况，如标记价格确实和交易员开仓价格差价在合理范围，但由于对手盘深度不够，买入时会向上买入很多订单梯度。这时有两种做法，一种是成交部分张数即撤单。但一般的交易所还是会全部成交。",
+      "url": "https://x.com/thankUcrypto/status/1695409447265562760"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T12:12:16.000Z",
+      "edit_history_tweet_ids": [
+        "1695408820955091406"
+      ],
+      "id": "1695408820955091406",
+      "in_reply_to_user_id": "903691274770833408",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 488,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695060652996411678",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@TingHu888 这个我倒是略知一二，我在全职交易前有做过实盘跟单产品。需求角度用户跟单边界都需要一一确定。\n用户一般是市价跟单，此时会判断当前价格和交易员开单价格的价差。每一个用户订单都需要单独判断。 超过阈值会出现跟单无法成功的情况，且会告知用户。",
+      "url": "https://x.com/thankUcrypto/status/1695408820955091406"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T11:14:15.000Z",
+      "edit_history_tweet_ids": [
+        "1695394220482363430"
+      ],
+      "id": "1695394220482363430",
+      "in_reply_to_user_id": "1685960602211258368",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 484,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694382770548777318",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GALyiyanya 半年内利润/总资金",
+      "url": "https://x.com/thankUcrypto/status/1695394220482363430"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T10:30:10.000Z",
+      "edit_history_tweet_ids": [
+        "1695383124069560779"
+      ],
+      "id": "1695383124069560779",
+      "in_reply_to_user_id": "1423545219232845826",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 210,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695366973373428067",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Cryptostartup11 小渔夫也出来啦，下次别人吵起来你号也还会在的hh",
+      "url": "https://x.com/thankUcrypto/status/1695383124069560779"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T10:20:48.000Z",
+      "edit_history_tweet_ids": [
+        "1695380768233832518"
+      ],
+      "id": "1695380768233832518",
+      "in_reply_to_user_id": "1598317144533516295",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 393,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695369087072018820",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@daidaibtc 说起来有次我google什么词的时候，开了OKX。一点没有违和感",
+      "url": "https://x.com/thankUcrypto/status/1695380768233832518"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T09:54:02.000Z",
+      "edit_history_tweet_ids": [
+        "1695374030587752865"
+      ],
+      "id": "1695374030587752865",
+      "in_reply_to_user_id": "1662324672829214720",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 790,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695285880976748652",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@yumu2426841870 入圈除了自己学习很重要，领路人同样重要。\n如果领你进圈子的朋友炒币高杠杆，经常莫名的追涨的特别多的山寨，大概率会使你亏损很多。\n交学费宜早不宜迟，还好最难过的阶段度过了。",
+      "url": "https://x.com/thankUcrypto/status/1695374030587752865"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T05:01:12.000Z",
+      "edit_history_tweet_ids": [
+        "1695300338885247474"
+      ],
+      "id": "1695300338885247474",
+      "in_reply_to_user_id": "1442829413729538049",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 805,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695299580500533616",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@0xCryptoChan 等等，这个21年你好像写过。",
+      "url": "https://x.com/thankUcrypto/status/1695300338885247474"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T03:55:09.000Z",
+      "edit_history_tweet_ids": [
+        "1695283714836795684"
+      ],
+      "id": "1695283714836795684",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 933,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695138110810755080",
+          "type": "quoted"
+        }
+      ],
+      "text": "感谢okx点赞支持 https://t.co/ijjEqMQBkO https://t.co/H8wleOWyuh",
+      "url": "https://x.com/thankUcrypto/status/1695283714836795684"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T03:44:07.000Z",
+      "edit_history_tweet_ids": [
+        "1695280941697257574"
+      ],
+      "id": "1695280941697257574",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1436,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "text": "#pepe 拉盘爆空军，为大户提供出货流动性 https://t.co/wew2jgmXLl",
+      "url": "https://x.com/thankUcrypto/status/1695280941697257574"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T02:56:38.000Z",
+      "edit_history_tweet_ids": [
+        "1695268991739269251"
+      ],
+      "id": "1695268991739269251",
+      "in_reply_to_user_id": "1681908885345689600",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 96,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695267032592482750",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Littlekola66 @yayabinance 阿这，我是有注册想法。。但是我的ID都被抢注了，以后换个名见面。",
+      "url": "https://x.com/thankUcrypto/status/1695268991739269251"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-26T02:01:15.000Z",
+      "edit_history_tweet_ids": [
+        "1695255053563724068"
+      ],
+      "id": "1695255053563724068",
+      "in_reply_to_user_id": "4803226351",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 669,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695140943173951712",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Longplay16 哇，谢谢你长期以来的支持！",
+      "url": "https://x.com/thankUcrypto/status/1695255053563724068"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-25T19:28:28.000Z",
+      "edit_history_tweet_ids": [
+        "1695156204153213053"
+      ],
+      "id": "1695156204153213053",
+      "in_reply_to_user_id": "1466495785034723328",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 599,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695150970131583304",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@FFtB_26 是大麻，我在blz里面放了大麻！",
+      "url": "https://x.com/thankUcrypto/status/1695156204153213053"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-25T18:16:34.000Z",
+      "edit_history_tweet_ids": [
+        "1695138110810755080"
+      ],
+      "id": "1695138110810755080",
+      "public_metrics": {
+        "bookmark_count": 19,
+        "impression_count": 9154,
+        "like_count": 36,
+        "quote_count": 2,
+        "reply_count": 11,
+        "retweet_count": 7
+      },
+      "text": "大家好，我是all in crypto ，一个普通的交易员。群友们叫我A哥，也有叫我熊猫哥。目前在 #OKX 带单规模第一。\n\n下面的这些内容，我有放在平台内部的交流群里，如果你认为有用，可以为我点个赞，我交易还可以，但是撰文文笔不太好，写了一些总结，希望大家能和自己的交易思路相互印证。 https://t.co/eljY85OSh2",
+      "url": "https://x.com/thankUcrypto/status/1695138110810755080"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-25T09:56:10.000Z",
+      "edit_history_tweet_ids": [
+        "1695012180771672136"
+      ],
+      "id": "1695012180771672136",
+      "in_reply_to_user_id": "629347707",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 307,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1695010616115892570",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@alvinnn666 哈哈，我还没往下翻，开头就是跟单必亏，下面还以为是什么名单呢。",
+      "url": "https://x.com/thankUcrypto/status/1695012180771672136"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-25T04:50:37.000Z",
+      "edit_history_tweet_ids": [
+        "1694935285711380751"
+      ],
+      "id": "1694935285711380751",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 1478,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 2
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694743680396271904",
+          "type": "quoted"
+        }
+      ],
+      "text": "说起思路，日内交易思路是随着K线变化的，我今年做空的时间其实特别少，昨天偏空是因为这次反弹只是冲击了本次下跌反弹的前高点，多头并没有如预期真的发力冲击4H ma120；昨日又跌回26000附近，行情偏弱。\n25500经过两次防守好不容易夺回的阵地，又要再次去试探，第三次可能会破（直觉） 故转变思路 https://t.co/SUrT4p5rsj https://t.co/ymkITVUKnO",
+      "url": "https://x.com/thankUcrypto/status/1694935285711380751"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-25T01:56:02.000Z",
+      "edit_history_tweet_ids": [
+        "1694891352964952572"
+      ],
+      "id": "1694891352964952572",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 28
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694890583213723838",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @lookonchain: Another early buyer of $PEPE also dumped 932B $PEPE for 524 $ETH($870K) after the Pepe team deposited 16T $PEPE to exchang…",
+      "url": "https://x.com/thankUcrypto/status/1694891352964952572"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T17:01:48.000Z",
+      "edit_history_tweet_ids": [
+        "1694756908400529444"
+      ],
+      "id": "1694756908400529444",
+      "in_reply_to_user_id": "1684894249546854400",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 172,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694749728188035155",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@ChangTiesh63813 哈。我真的只是跟朋友交流，社区还没想好分享。\n如果说我的朋友们确实通过我的交易思路有所盈利，我会再吸收一些朋友的",
+      "url": "https://x.com/thankUcrypto/status/1694756908400529444"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T16:25:31.000Z",
+      "edit_history_tweet_ids": [
+        "1694747776952016917"
+      ],
+      "id": "1694747776952016917",
+      "in_reply_to_user_id": "1510886940710617091",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 450,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694728167167242600",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@btc_jx 这样吧静香，我到币安开个号只给你说，你可以放一点试试",
+      "url": "https://x.com/thankUcrypto/status/1694747776952016917"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T16:10:23.000Z",
+      "edit_history_tweet_ids": [
+        "1694743969316675655"
+      ],
+      "id": "1694743969316675655",
+      "in_reply_to_user_id": "1107932826387640320",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 122,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694716071780262008",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@YxNight99 @OuYangZhuaiBai 段子啦，但是肯定有通信反侦察手段，公安系统的通信体系应该还是电信为主，不像国防有自己的信道。",
+      "url": "https://x.com/thankUcrypto/status/1694743969316675655"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T16:09:14.000Z",
+      "edit_history_tweet_ids": [
+        "1694743680396271904"
+      ],
+      "id": "1694743680396271904",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 2716,
+        "like_count": 4,
+        "quote_count": 1,
+        "reply_count": 5,
+        "retweet_count": 1
+      },
+      "text": "这二十位朋友是我在okx带单之出直到现在都还一同交流的朋友，我会考虑做社群，发一下开单的思路。未来社群会同大家见面。 https://t.co/5hqL3UG0rT",
+      "url": "https://x.com/thankUcrypto/status/1694743680396271904"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T15:10:29.000Z",
+      "edit_history_tweet_ids": [
+        "1694728895478858010"
+      ],
+      "id": "1694728895478858010",
+      "in_reply_to_user_id": "3855131",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 683,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694696882692649304",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@salonbus1024 哇哦，一步到位，我能理解能执行，没有总结下来",
+      "url": "https://x.com/thankUcrypto/status/1694728895478858010"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T13:51:28.000Z",
+      "edit_history_tweet_ids": [
+        "1694709008937222248"
+      ],
+      "id": "1694709008937222248",
+      "in_reply_to_user_id": "1308398957287149568",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 271,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694706513766727777",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Dahuzi_eth 来，我绝活神兽战 猪无面主教战神，有机会碰一碰",
+      "url": "https://x.com/thankUcrypto/status/1694709008937222248"
+    },
+    {
+      "author_id": "705564530936418304",
+      "created_at": "2023-08-24T13:41:33.000Z",
+      "edit_history_tweet_ids": [
+        "1694706511120134342"
+      ],
+      "id": "1694706511120134342",
+      "in_reply_to_user_id": "2909683988",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1410,
+        "like_count": 3,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1694678261958414453",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OuYangZhuaiBai 说个段子。这次警察用的联通的线路才没被监听到警力计划的部署内容， https://t.co/caAiIKa0CY",
+      "url": "https://x.com/thankUcrypto/status/1694706511120134342"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "705564530936418304",
+        "created_at": "2023-08-26T12:21:34.000Z",
+        "edit_history_tweet_ids": [
+          "1695411158789005771"
+        ],
+        "id": "1695411158789005771",
+        "in_reply_to_user_id": "705564530936418304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 558,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1695409447265562760",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TingHu888 顺便提一下，第三方跟单产品一般接入的是大交易所的broker。\n币圈其实很多资管模式之一就有API跟单，操盘手用自己账户自己资金交易的同时，散户通过API跟单。这个圈内很多成熟的交易员自己做资管已经做了很多年，资金量甚至超过大交易所的前十交易员累加资金。目前他们带单带的还不错。"
+      },
+      {
+        "author_id": "705564530936418304",
+        "created_at": "2023-08-26T12:14:46.000Z",
+        "edit_history_tweet_ids": [
+          "1695409447265562760"
+        ],
+        "id": "1695409447265562760",
+        "in_reply_to_user_id": "705564530936418304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1695408820955091406",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TingHu888 但是同时也有更多的边界情况，如标记价格确实和交易员开仓价格差价在合理范围，但由于对手盘深度不够，买入时会向上买入很多订单梯度。这时有两种做法，一种是成交部分张数即撤单。但一般的交易所还是会全部成交。"
+      },
+      {
+        "author_id": "705564530936418304",
+        "created_at": "2023-08-26T12:12:16.000Z",
+        "edit_history_tweet_ids": [
+          "1695408820955091406"
+        ],
+        "id": "1695408820955091406",
+        "in_reply_to_user_id": "903691274770833408",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1695060652996411678",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@TingHu888 这个我倒是略知一二，我在全职交易前有做过实盘跟单产品。需求角度用户跟单边界都需要一一确定。\n用户一般是市价跟单，此时会判断当前价格和交易员开单价格的价差。每一个用户订单都需要单独判断。 超过阈值会出现跟单无法成功的情况，且会告知用户。"
+      },
+      {
+        "author_id": "1685960602211258368",
+        "created_at": "2023-08-23T16:15:07.000Z",
+        "edit_history_tweet_ids": [
+          "1694382770548777318"
+        ],
+        "id": "1694382770548777318",
+        "in_reply_to_user_id": "705564530936418304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1657581735847288832",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thankUcrypto ROI咋算出来的"
+      },
+      {
+        "author_id": "1423545219232845826",
+        "created_at": "2023-08-26T09:25:59.000Z",
+        "edit_history_tweet_ids": [
+          "1695366973373428067"
+        ],
+        "id": "1695366973373428067",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "text": "这是什么鱼？\n这不是鱼，这是鱼肉\n鱼就像我们一样，无了就没名了。你叫小渔夫，亏完了就只剩下一个名了\n——韭菜\n#渔夫出海 https://t.co/Cgn7qecqXG"
+      },
+      {
+        "author_id": "1598317144533516295",
+        "created_at": "2023-08-26T09:34:23.000Z",
+        "edit_history_tweet_ids": [
+          "1695369087072018820"
+        ],
+        "id": "1695369087072018820",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3669,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "text": "感觉最近自己有点抽象，想开淘宝买两个烟灰缸来着，结果打开的是币安一顿搜索。。。 https://t.co/yYJwngJbgN"
+      },
+      {
+        "author_id": "1442829413729538049",
+        "created_at": "2023-08-26T04:58:11.000Z",
+        "edit_history_tweet_ids": [
+          "1695299580500533616"
+        ],
+        "id": "1695299580500533616",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13522,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "text": "历史上，BTC小牛前的蓝色柱形时间越长，BTC小牛后的蓝色柱形就越短。\n\n16年小牛前蓝色柱形672天，小牛后蓝色柱形122天；\n19年小牛前蓝色柱形435天，小牛后蓝色柱形245天；\n23年小牛前蓝色柱形477天，小牛后蓝色柱形***天？\n\n图中链上指标为 #BTC https://t.co/4WhrM2IRuT"
+      },
+      {
+        "author_id": "705564530936418304",
+        "created_at": "2023-08-25T18:16:34.000Z",
+        "edit_history_tweet_ids": [
+          "1695138110810755080"
+        ],
+        "id": "1695138110810755080",
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 9154,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "text": "大家好，我是all in crypto ，一个普通的交易员。群友们叫我A哥，也有叫我熊猫哥。目前在 #OKX 带单规模第一。\n\n下面的这些内容，我有放在平台内部的交流群里，如果你认为有用，可以为我点个赞，我交易还可以，但是撰文文笔不太好，写了一些总结，希望大家能和自己的交易思路相互印证。 https://t.co/eljY85OSh2"
+      },
+      {
+        "author_id": "1681908885345689600",
+        "created_at": "2023-08-26T02:48:51.000Z",
+        "edit_history_tweet_ids": [
+          "1695267032592482750"
+        ],
+        "id": "1695267032592482750",
+        "in_reply_to_user_id": "1300621581652119552",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1694930289917575597",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@yayabinance 感觉会是我大A哥@thankUcrypto"
+      },
+      {
+        "author_id": "4803226351",
+        "created_at": "2023-08-25T18:27:49.000Z",
+        "edit_history_tweet_ids": [
+          "1695140943173951712"
+        ],
+        "id": "1695140943173951712",
+        "in_reply_to_user_id": "705564530936418304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1695138110810755080",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thankUcrypto A哥好 跟了一个多月 我是跟单收益排第11的min* 哈哈 感谢你的辛苦盯盘交易🐼"
+      },
+      {
+        "author_id": "1466495785034723328",
+        "created_at": "2023-08-25T19:07:40.000Z",
+        "edit_history_tweet_ids": [
+          "1695150970131583304"
+        ],
+        "id": "1695150970131583304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7949,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "text": "为什么非要怼着 $blz 空\n是觉得下跌空间大还是说钱比主力多"
+      },
+      {
+        "author_id": "629347707",
+        "created_at": "2023-08-25T09:49:57.000Z",
+        "edit_history_tweet_ids": [
+          "1695010616115892570"
+        ],
+        "id": "1695010616115892570",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4665,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1695009549441511793",
+            "type": "quoted"
+          }
+        ],
+        "text": "看了开头本来以为你要喷我。。。抬爱了，818这波我和跟单用户都严重受伤，还没恢复过来呢，哎，币圈猛如虎，跟单需谨慎 https://t.co/SyNQER6SNC"
+      },
+      {
+        "author_id": "705564530936418304",
+        "created_at": "2023-08-24T16:09:14.000Z",
+        "edit_history_tweet_ids": [
+          "1694743680396271904"
+        ],
+        "id": "1694743680396271904",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2716,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "text": "这二十位朋友是我在okx带单之出直到现在都还一同交流的朋友，我会考虑做社群，发一下开单的思路。未来社群会同大家见面。 https://t.co/5hqL3UG0rT"
+      },
+      {
+        "author_id": "1462727797135216641",
+        "created_at": "2023-08-25T01:52:59.000Z",
+        "edit_history_tweet_ids": [
+          "1694890583213723838"
+        ],
+        "id": "1694890583213723838",
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 61395,
+          "like_count": 166,
+          "quote_count": 14,
+          "reply_count": 19,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1694876957786489042",
+            "type": "quoted"
+          }
+        ],
+        "text": "Another early buyer of $PEPE also dumped 932B $PEPE for 524 $ETH($870K) after the Pepe team deposited 16T $PEPE to exchanges.\nhttps://t.co/EiUQUrHWqc https://t.co/CHWL7NeA5w"
+      },
+      {
+        "author_id": "1684894249546854400",
+        "created_at": "2023-08-24T16:33:16.000Z",
+        "edit_history_tweet_ids": [
+          "1694749728188035155"
+        ],
+        "id": "1694749728188035155",
+        "in_reply_to_user_id": "705564530936418304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1694743680396271904",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thankUcrypto 大佬带我😆"
+      },
+      {
+        "author_id": "1510886940710617091",
+        "created_at": "2023-08-24T15:07:36.000Z",
+        "edit_history_tweet_ids": [
+          "1694728167167242600"
+        ],
+        "id": "1694728167167242600",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 302865,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1694322644940902881",
+            "type": "quoted"
+          }
+        ],
+        "text": "把我当反指的人福报真的来了，币安真的居然出了跟单交易🥲带单员可以限价单平仓，还有账户分离，合约仓位管理起来方便。币安新功能大家可以体验试试🥹话说你们真的想和我做对手盘吗？如果想的话我真的去注册一个带单员账号了🥲 https://t.co/IzbIo6duOZ"
+      },
+      {
+        "author_id": "1107932826387640320",
+        "created_at": "2023-08-24T14:19:32.000Z",
+        "edit_history_tweet_ids": [
+          "1694716071780262008"
+        ],
+        "id": "1694716071780262008",
+        "in_reply_to_user_id": "705564530936418304",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1694706511120134342",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@thankUcrypto @OuYangZhuaiBai 这是真的吗，如果是真的就太搞了 🤣🤣"
+      },
+      {
+        "author_id": "3855131",
+        "created_at": "2023-08-24T13:03:17.000Z",
+        "edit_history_tweet_ids": [
+          "1694696350066328055",
+          "1694696882692649304"
+        ],
+        "id": "1694696882692649304",
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9988,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "text": "朋友总结不做空的原因（做了增补）\n\n- 复利的敌人：空头放弃了资产，选择了只有现金和做空的工具。\n\n- 顶部难以判断（替换为Biden/政策的敌人）：鼎盛的公司多数在指数里，指数构成了大量社会福利的底层资产，主权倾向于操控市场，让指数变得不难看，延续白马的繁荣。"
+      },
+      {
+        "author_id": "1308398957287149568",
+        "created_at": "2023-08-24T13:41:33.000Z",
+        "edit_history_tweet_ids": [
+          "1694706513766727777"
+        ],
+        "id": "1694706513766727777",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12051,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "text": "熊市怎么过？\n\n王者荣耀已经卸载\n\nDOTA2 重新启动，最近和兄弟们疯狂玩自走棋\n\n你们会吗？？？\n\n#BTC #ETH"
+      },
+      {
+        "author_id": "2909683988",
+        "created_at": "2023-08-24T11:49:17.000Z",
+        "edit_history_tweet_ids": [
+          "1694678261958414453"
+        ],
+        "id": "1694678261958414453",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17951,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "text": "央视今日说法，淄博公安的916行动，抓捕了全国各地省级电信内鬼23名，涉及8000多万手机号。其中有吉林电信，内鬼开通给诈骗分子一条手机号码通道，用了两年。也就是说诈骗分子要用电话号码就从这条通道拿，然后用于诈骗，警方追查不到线索。这种情况维持了两年。直到被淄博警方顺藤摸瓜。"
+      }
+    ],
+    "users": [
+      {
+        "id": "705564530936418304",
+        "name": "allincrypto 熬鹰资本 🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653241236827033600/2sCvAcOH_normal.jpg",
+        "username": "thankUcrypto",
+        "verified": false
+      },
+      {
+        "id": "903691274770833408",
+        "name": "TingHu♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+        "username": "TingHu888",
+        "verified": false
+      },
+      {
+        "id": "1685960602211258368",
+        "name": "yan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689116432628645889/Nef2Xhzv_normal.jpg",
+        "username": "GALyiyanya",
+        "verified": false
+      },
+      {
+        "id": "1423545219232845826",
+        "name": "xiaoyufu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546527715884339200/d2E5nNU0_normal.jpg",
+        "username": "xiaoyufu888",
+        "verified": false
+      },
+      {
+        "id": "1598317144533516295",
+        "name": "带带带比特",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096099937515896832/75J1SHX8_normal.jpg",
+        "username": "daidaibtc",
+        "verified": false
+      },
+      {
+        "id": "1442829413729538049",
+        "name": "CryptoChan 熊猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497930379453292552/4MXcOxdC_normal.jpg",
+        "username": "0xCryptoChan",
+        "verified": false
+      },
+      {
+        "id": "1681908885345689600",
+        "name": "Littlekola",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989356327760728064/Z-8IVMT7_normal.jpg",
+        "username": "Littlekola66",
+        "verified": false
+      },
+      {
+        "id": "4803226351",
+        "name": "刘震撼🎸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803645290983071745/NVdHpg5Q_normal.jpg",
+        "username": "liuzhenhan0701",
+        "verified": false
+      },
+      {
+        "id": "1466495785034723328",
+        "name": "FFtB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933106140663181312/LEoO3DNh_normal.jpg",
+        "username": "bc1pFFtB",
+        "verified": false
+      },
+      {
+        "id": "629347707",
+        "name": "神隐Alvin（实盘交易主打真实）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947144984601440256/_vee-BA2_normal.png",
+        "username": "alvinnn666",
+        "verified": false
+      },
+      {
+        "id": "1684894249546854400",
+        "name": "读律",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692567979685236736/rFH6ou53_normal.jpg",
+        "username": "DuLv_PeiXi",
+        "verified": false
+      },
+      {
+        "id": "1510886940710617091",
+        "name": "静香小姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559441539889127424/5p6T0EKu_normal.jpg",
+        "username": "btc_jx",
+        "verified": false
+      },
+      {
+        "id": "1107932826387640320",
+        "name": "PlaceNight",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1314754633235984384/TLXtBB5j_normal.jpg",
+        "username": "YxNight99",
+        "verified": false
+      },
+      {
+        "id": "3855131",
+        "name": "Salonbus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947167434982481920/kKu8C3mh_normal.jpg",
+        "username": "salonbus1024",
+        "verified": false
+      },
+      {
+        "id": "1308398957287149568",
+        "name": "Dahuzi.eth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913194881851555841/pgZ4iG8e_normal.jpg",
+        "username": "Dahuzi_eth",
+        "verified": false
+      },
+      {
+        "id": "2909683988",
+        "name": "欧阳拽白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646473598335582209/eQuv2Q25_normal.jpg",
+        "username": "OuYangZhuaiBai",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1695411398489395452",
+    "next_token": "b26v89c19zqg8o3fqkrz8gefd8psr3bm0u53znmk64w3h",
+    "oldest_id": "1694706511120134342",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [1662324672829214720].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1662324672829214720",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1662324672829214720"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1695060652996411678].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1695060652996411678",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1695060652996411678"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1695285880976748652].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1695285880976748652",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1695285880976748652"
+    }
+  ]
+}

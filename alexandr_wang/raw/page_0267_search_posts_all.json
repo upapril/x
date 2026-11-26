@@ -1,0 +1,1870 @@
+{
+  "collected_at_utc": "2026-11-26T01:16:12Z",
+  "collected_at_shanghai": "2026-11-26T09:16:12+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APRQAK14D4JWTGQ0S60Z7E.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-07-01T00:00:00Z",
+    "end_time": "2024-08-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2024-07"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1818647639082385865",
+      "created_at": "2024-07-31T13:59:20.000Z",
+      "edit_history_tweet_ids": [
+        "1818647639082385865"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "4783690002",
+            "start": 3,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 67,
+            "id": "752712449321644032",
+            "start": 58,
+            "username": "Scale_AI"
+          }
+        ]
+      },
+      "id": "1818647639082385865",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 40
+      },
+      "referenced_tweets": [
+        {
+          "id": "1818606352194826473",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @GoogleDeepMind: Gemini 1.5 Pro is the safest model on @Scale_AI's leaderboard for adversarial robustness.\n\nEvaluations look at how it p…",
+      "url": "https://x.com/alexandr_wang/status/1818647639082385865"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1818430795733663928",
+      "created_at": "2024-07-30T23:37:41.000Z",
+      "edit_history_tweet_ids": [
+        "1818430795733663928"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 17,
+            "id": "1482581556",
+            "start": 3,
+            "username": "demishassabis"
+          },
+          {
+            "end": 68,
+            "id": "752712449321644032",
+            "start": 59,
+            "username": "scale_ai"
+          }
+        ]
+      },
+      "id": "1818430795733663928",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 46
+      },
+      "referenced_tweets": [
+        {
+          "id": "1818049561421910345",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @demishassabis: Great to see Gemini 1.5 Pro top the new @scale_ai leaderboard for adversarial robustness! Congrats to the entire Gemini…",
+      "url": "https://x.com/alexandr_wang/status/1818430795733663928"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1818068509236064627",
+      "created_at": "2024-07-29T23:38:05.000Z",
+      "edit_history_tweet_ids": [
+        "1818068453565284742",
+        "1818068509236064627"
+      ],
+      "id": "1818068509236064627",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 131,
+        "impression_count": 405943,
+        "like_count": 2247,
+        "quote_count": 15,
+        "reply_count": 91,
+        "retweet_count": 46
+      },
+      "text": "Given a TechCrunch writer’s recent ad hominem attacks while covering our MEI policy, I’ve decided to call my TechCrunch Disrupt session off.\n\nYes, “all the way off.”",
+      "url": "https://x.com/alexandr_wang/status/1818068509236064627"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1818068453565284742",
+      "created_at": "2024-07-29T23:37:52.000Z",
+      "edit_history_tweet_ids": [
+        "1818068453565284742",
+        "1818068509236064627"
+      ],
+      "id": "1818068453565284742",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 368,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Given a TechCrunch writer’s recent ad hominem attacks while covering our MEI policy, I’ve decided to call my Disrupt session off.\n\nYes, “all the way off.”",
+      "url": "https://x.com/alexandr_wang/status/1818068453565284742"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1818049561421910345",
+      "created_at": "2024-07-29T22:44:46.000Z",
+      "edit_history_tweet_ids": [
+        "1818055091842166824"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 14,
+            "id": "1482581556",
+            "start": 0,
+            "username": "demishassabis"
+          },
+          {
+            "end": 24,
+            "id": "752712449321644032",
+            "start": 15,
+            "username": "scale_AI"
+          },
+          {
+            "end": 41,
+            "id": "978823301802819584",
+            "start": 25,
+            "username": "ancadianadragan"
+          },
+          {
+            "end": 91,
+            "id": "4783690002",
+            "start": 76,
+            "username": "GoogleDeepMind"
+          }
+        ]
+      },
+      "id": "1818055091842166824",
+      "in_reply_to_user_id": "1482581556",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1969,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1818049561421910345",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@demishassabis @scale_AI @ancadianadragan Great work to the Gemini team and @GoogleDeepMind 🙏",
+      "url": "https://x.com/alexandr_wang/status/1818055091842166824"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1817956830674362369"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1817956788320530940",
+      "created_at": "2024-07-29T16:14:27.000Z",
+      "edit_history_tweet_ids": [
+        "1817956867240526288"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 84,
+            "id": "4783690002",
+            "start": 69,
+            "username": "GoogleDeepMind"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/NHmK117zOs",
+            "end": 181,
+            "expanded_url": "https://x.com/alexandr_wang/status/1817956867240526288/photo/1",
+            "media_key": "3_1817956830674362369",
+            "start": 158,
+            "url": "https://t.co/NHmK117zOs"
+          }
+        ]
+      },
+      "id": "1817956867240526288",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 9612,
+        "like_count": 39,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1817956826014502971",
+          "type": "replied_to"
+        }
+      ],
+      "text": "We classified harms into High Harm and Low Harm.\n\nCongratulations to @GoogleDeepMind Gemini 1.5 Pro (post-IO) for being top of the list on both leaderboards! https://t.co/NHmK117zOs",
+      "url": "https://x.com/alexandr_wang/status/1817956867240526288"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1817956793064009728"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1817956788320530940",
+      "created_at": "2024-07-29T16:14:17.000Z",
+      "edit_history_tweet_ids": [
+        "1817956826014502971"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/XEswG5qG57",
+            "end": 249,
+            "expanded_url": "https://x.com/alexandr_wang/status/1817956826014502971/photo/1",
+            "media_key": "3_1817956793064009728",
+            "start": 226,
+            "url": "https://t.co/XEswG5qG57"
+          }
+        ]
+      },
+      "id": "1817956826014502971",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 10912,
+        "like_count": 34,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1817956788320530940",
+          "type": "replied_to"
+        }
+      ],
+      "text": "We covered a wide range of harm scenarios including:\n\n- Hacking and Malware\n- Self harm and Suicide\n- Harm to Children\n- Illegal Activities\n- Sexualized Content\n- Graphic Violence\n\n… and more.\n\nSee precise distribution below: https://t.co/XEswG5qG57",
+      "url": "https://x.com/alexandr_wang/status/1817956826014502971"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1817956763779371008"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1817956788320530940",
+      "created_at": "2024-07-29T16:14:08.000Z",
+      "edit_history_tweet_ids": [
+        "1817956788320530940"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+            "display_url": "scale.com/leaderboard",
+            "end": 276,
+            "expanded_url": "http://scale.com/leaderboard",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 253,
+            "status": 200,
+            "title": "AI Model Leaderboards & Benchmarks",
+            "unwound_url": "https://labs.scale.com/leaderboard",
+            "url": "https://t.co/10nk53b4hj"
+          },
+          {
+            "display_url": "pic.x.com/ePT1ln45cY",
+            "end": 300,
+            "expanded_url": "https://x.com/alexandr_wang/status/1817956788320530940/photo/1",
+            "media_key": "3_1817956763779371008",
+            "start": 277,
+            "url": "https://t.co/ePT1ln45cY"
+          }
+        ]
+      },
+      "id": "1817956788320530940",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 65,
+        "impression_count": 265163,
+        "like_count": 318,
+        "quote_count": 21,
+        "reply_count": 17,
+        "retweet_count": 53
+      },
+      "text": "1/ Scale is announcing our latest SEAL Leaderboard on Adversarial Robustness!\n\n🛡️ Red team-generated prompts\n🎯 Focused on universal harm scenarios\n🔍 Transparent eval methods\n\nSEAL evals are private (not overfit), expert evals that refresh periodically\n\nhttps://t.co/10nk53b4hj https://t.co/ePT1ln45cY",
+      "url": "https://x.com/alexandr_wang/status/1817956788320530940"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816935903874719827",
+      "created_at": "2024-07-26T20:37:31.000Z",
+      "edit_history_tweet_ids": [
+        "1816935903874719827"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/martin_casado/…",
+            "end": 303,
+            "expanded_url": "https://twitter.com/martin_casado/status/1816925453669876047",
+            "start": 280,
+            "url": "https://t.co/KAneOCP8kl"
+          }
+        ]
+      },
+      "id": "1816935903874719827",
+      "lang": "en",
+      "note_tweet": {
+        "text": "Definitely a real issue with LLM development. The \"data wall\" + how challenging it is to generate new data is a major elephant in the room.\n\nThat being said, not insurmountable:\n- Hybrid data where human experts produce dramatically more data utilizing synthetic methods is going to dramatically increase production\n- Frontier data that moves beyond multi-turn towards agentic reasoning data will be more valuable per token\n\nThis is how we get past the data wall."
+      },
+      "public_metrics": {
+        "bookmark_count": 64,
+        "impression_count": 38810,
+        "like_count": 112,
+        "quote_count": 1,
+        "reply_count": 13,
+        "retweet_count": 12
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816925453669876047",
+          "type": "quoted"
+        }
+      ],
+      "text": "Definitely a real issue with LLM development. The \"data wall\" + how challenging it is to generate new data is a major elephant in the room.\n\nThat being said, not insurmountable:\n- Hybrid data where human experts produce dramatically more data utilizing synthetic methods is going https://t.co/KAneOCP8kl",
+      "url": "https://x.com/alexandr_wang/status/1816935903874719827"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816231047228797132",
+      "created_at": "2024-07-25T16:49:36.000Z",
+      "edit_history_tweet_ids": [
+        "1816516158394351791"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1007413134",
+            "start": 0,
+            "username": "DrJimFan"
+          }
+        ]
+      },
+      "id": "1816516158394351791",
+      "in_reply_to_user_id": "1007413134",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1426,
+        "like_count": 15,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816231047228797132",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@DrJimFan on it!",
+      "url": "https://x.com/alexandr_wang/status/1816516158394351791"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:49:10.000Z",
+      "edit_history_tweet_ids": [
+        "1816500950653423894"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "48642190",
+            "start": 0,
+            "username": "kchonyc"
+          }
+        ]
+      },
+      "id": "1816500950653423894",
+      "in_reply_to_user_id": "48642190",
+      "lang": "qme",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 376,
+        "like_count": 5,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816497572002844767",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@kchonyc 🎯",
+      "url": "https://x.com/alexandr_wang/status/1816500950653423894"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:32:28.000Z",
+      "edit_history_tweet_ids": [
+        "1816496747625218276"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Nature - Analysis shows that indiscriminately training generative artificial intelligence on real and generated content, usually done by scraping data from the Internet, can lead to a collapse in...",
+            "display_url": "nature.com/articles/s4158…",
+            "end": 41,
+            "expanded_url": "https://www.nature.com/articles/s41586-024-07566-y",
+            "images": [
+              {
+                "height": 1528,
+                "url": "https://pbs.twimg.com/news_img/2124522528496660480/QQHqSNXN?format=jpg&name=orig",
+                "width": 1417
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2124522528496660480/QQHqSNXN?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 18,
+            "status": 200,
+            "title": "AI models collapse when trained on recursively generated data",
+            "unwound_url": "https://www.nature.com/articles/s41586-024-07566-y?error=cookies_not_supported&code=02f5ffbc-669d-4853-99ae-15d034f36049",
+            "url": "https://t.co/Nlav0xpI5j"
+          }
+        ]
+      },
+      "id": "1816496747625218276",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 20,
+        "impression_count": 12925,
+        "like_count": 45,
+        "quote_count": 0,
+        "reply_count": 4,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491461149683822",
+          "type": "replied_to"
+        }
+      ],
+      "text": "here's the paper:\nhttps://t.co/Nlav0xpI5j",
+      "url": "https://x.com/alexandr_wang/status/1816496747625218276"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:27.000Z",
+      "edit_history_tweet_ids": [
+        "1816491461149683822"
+      ],
+      "id": "1816491461149683822",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "7/ watch this space closely.\n\nMy prediction is that model developers who are not careful about training on synthetic data with no information gain will find their models getting steadily stranger and dumber over time.\n\nSynthetic data accumulates a debt with the model that must be repaid at some point."
+      },
+      "public_metrics": {
+        "bookmark_count": 6,
+        "impression_count": 16363,
+        "like_count": 47,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491459488764211",
+          "type": "replied_to"
+        }
+      ],
+      "text": "7/ watch this space closely.\n\nMy prediction is that model developers who are not careful about training on synthetic data with no information gain will find their models getting steadily stranger and dumber over time.\n\nSynthetic data accumulates a debt with the model that must be",
+      "url": "https://x.com/alexandr_wang/status/1816491461149683822"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:27.000Z",
+      "edit_history_tweet_ids": [
+        "1816491459488764211"
+      ],
+      "id": "1816491459488764211",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "6/ This is why I personally believe in HYBRID DATA over pure synthetic data.\n\nSynthetic data must be generated utilizing some source of new information for the model, either:\n\n(1) using a seed of real world data\n(2) human experts\n(3) formal logic engine\n\nHybrid data is the real future which will avoid all the nasty issues with mode collapse"
+      },
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 12484,
+        "like_count": 63,
+        "quote_count": 4,
+        "reply_count": 8,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491457555132843",
+          "type": "replied_to"
+        }
+      ],
+      "text": "6/ This is why I personally believe in HYBRID DATA over pure synthetic data.\n\nSynthetic data must be generated utilizing some source of new information for the model, either:\n\n(1) using a seed of real world data\n(2) human experts\n(3) formal logic engine\n\nHybrid data is the real",
+      "url": "https://x.com/alexandr_wang/status/1816491459488764211"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:26.000Z",
+      "edit_history_tweet_ids": [
+        "1816491457555132843"
+      ],
+      "id": "1816491457555132843",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "5/ While the experiments done here were on small scale models (100M parameters), the fundamental effects we’re seeing here are likely to show up over time on the larger models too.\n\nFor example, most of today’s models can’t produce a blog post in the style of Slate Star Codex, also due to mode collapse. As we successively train the model, they lose their ability to predict over a wide distribution."
+      },
+      "public_metrics": {
+        "bookmark_count": 7,
+        "impression_count": 17620,
+        "like_count": 41,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491455340589559",
+          "type": "replied_to"
+        }
+      ],
+      "text": "5/ While the experiments done here were on small scale models (100M parameters), the fundamental effects we’re seeing here are likely to show up over time on the larger models too.\n\nFor example, most of today’s models can’t produce a blog post in the style of Slate Star Codex,",
+      "url": "https://x.com/alexandr_wang/status/1816491457555132843"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1816491451574104064"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:26.000Z",
+      "edit_history_tweet_ids": [
+        "1816491455340589559"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/eyboR5XuGM",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1816491455340589559/photo/1",
+            "media_key": "3_1816491451574104064",
+            "start": 281,
+            "url": "https://t.co/eyboR5XuGM"
+          }
+        ]
+      },
+      "id": "1816491455340589559",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "note_tweet": {
+        "text": "4/ There are three sources of error that accumulate from successive generations of synthetic training\n\n1) statistical approximation error\n2) functional expressivity error\n3) functional approximation error\n\nRoughly speaking, each time you train the model on data generated from the last model, you lose information and fidelity, so the models become more and more hollow until they stop working well"
+      },
+      "public_metrics": {
+        "bookmark_count": 13,
+        "impression_count": 15066,
+        "like_count": 42,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 9
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491449682448740",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ There are three sources of error that accumulate from successive generations of synthetic training\n\n1) statistical approximation error\n2) functional expressivity error\n3) functional approximation error\n\nRoughly speaking, each time you train the model on data generated from the https://t.co/eyboR5XuGM",
+      "url": "https://x.com/alexandr_wang/status/1816491455340589559"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:25.000Z",
+      "edit_history_tweet_ids": [
+        "1816491449682448740"
+      ],
+      "id": "1816491449682448740",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 8,
+        "impression_count": 12800,
+        "like_count": 53,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491447585292300",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ This core idea is very important to pay attention to:\n\nSynthetic data can create a short-term boost in eval results, but you will pay for it later with model collapse!\n\nYou accumulate debt with mangling the model that starts invisible, and is very hard to repay.",
+      "url": "https://x.com/alexandr_wang/status/1816491449682448740"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1816491444313751552"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:24.000Z",
+      "edit_history_tweet_ids": [
+        "1816491447585292300"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/Tne5uwmHxP",
+            "end": 303,
+            "expanded_url": "https://x.com/alexandr_wang/status/1816491447585292300/photo/1",
+            "media_key": "3_1816491444313751552",
+            "start": 280,
+            "url": "https://t.co/Tne5uwmHxP"
+          }
+        ]
+      },
+      "id": "1816491447585292300",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 11,
+        "impression_count": 17245,
+        "like_count": 62,
+        "quote_count": 2,
+        "reply_count": 5,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1816491442069782925",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Training on pure synthetic data has no information gain, thus there is little reason the model *should* improve.\n\nOftentimes when evals go up from “self-distillation”, that might be from some more invisible tradeoff, i.e. mode collapse in exchange for individual eval improvement https://t.co/Tne5uwmHxP",
+      "url": "https://x.com/alexandr_wang/status/1816491447585292300"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1816491438701756416"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1816491442069782925",
+      "created_at": "2024-07-25T15:11:23.000Z",
+      "edit_history_tweet_ids": [
+        "1816491442069782925"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/vNcblJVR1W",
+            "end": 292,
+            "expanded_url": "https://x.com/alexandr_wang/status/1816491442069782925/photo/1",
+            "media_key": "3_1816491438701756416",
+            "start": 269,
+            "url": "https://t.co/vNcblJVR1W"
+          }
+        ]
+      },
+      "id": "1816491442069782925",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 505,
+        "impression_count": 272612,
+        "like_count": 655,
+        "quote_count": 69,
+        "reply_count": 39,
+        "retweet_count": 92
+      },
+      "text": "1/ New paper in Nature shows model collapse as successive model generations models are recursively trained on synthetic data.\n\nThis is an important result. While many researchers today view synthetic data as AI philosopher’s stone, there is no free lunch.\n\nRead more 👇 https://t.co/vNcblJVR1W",
+      "url": "https://x.com/alexandr_wang/status/1816491442069782925"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1815775286195331411",
+      "created_at": "2024-07-24T01:19:05.000Z",
+      "edit_history_tweet_ids": [
+        "1815919599076139251"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "2939913921",
+            "start": 0,
+            "username": "natolambert"
+          },
+          {
+            "end": 22,
+            "id": "752712449321644032",
+            "start": 13,
+            "username": "scale_AI"
+          },
+          {
+            "end": 28,
+            "id": "2425151",
+            "start": 23,
+            "username": "Meta"
+          }
+        ]
+      },
+      "id": "1815919599076139251",
+      "in_reply_to_user_id": "2939913921",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1360,
+        "like_count": 9,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1815891875825607129",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@natolambert @scale_AI @Meta indeed. we haven’t finished our 4o mini eval, but our evals indicate that 4 turbo is still better than 4o on many important dimensions",
+      "url": "https://x.com/alexandr_wang/status/1815919599076139251"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1815775286195331411",
+      "created_at": "2024-07-23T15:45:40.000Z",
+      "edit_history_tweet_ids": [
+        "1815775293438820490"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "scale.com/blog/meta-llam…",
+            "end": 47,
+            "expanded_url": "https://scale.com/blog/meta-llama-3-1-launch-partner",
+            "start": 24,
+            "status": 200,
+            "unwound_url": "https://scale.com/blog/meta-llama-3-1-launch-partner",
+            "url": "https://t.co/7zJra5UAcB"
+          }
+        ]
+      },
+      "id": "1815775293438820490",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 7883,
+        "like_count": 26,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1815775291970830414",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Read more on our blog:\n\nhttps://t.co/7zJra5UAcB",
+      "url": "https://x.com/alexandr_wang/status/1815775293438820490"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1815775286195331411",
+      "created_at": "2024-07-23T15:45:39.000Z",
+      "edit_history_tweet_ids": [
+        "1815775291970830414"
+      ],
+      "id": "1815775291970830414",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 4,
+        "impression_count": 8325,
+        "like_count": 32,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 4
+      },
+      "referenced_tweets": [
+        {
+          "id": "1815775290062455229",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Lastly, as I've spoken about before, frontier data generation is critical to driving frontier model performance.\n\nScale Data Foundry was utilized to generate frontier data (SFT &amp; RLHF data) to push the performance of Llama-3.1\n\nWe are excited to continue pushing SOTA with Meta!",
+      "url": "https://x.com/alexandr_wang/status/1815775291970830414"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1815773353002823680"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1815775286195331411",
+      "created_at": "2024-07-23T15:45:39.000Z",
+      "edit_history_tweet_ids": [
+        "1815775290062455229"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 56,
+            "id": "2425151",
+            "start": 51,
+            "username": "Meta"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/Az3HaOl2Z6",
+            "end": 256,
+            "expanded_url": "https://x.com/alexandr_wang/status/1815775290062455229/photo/1",
+            "media_key": "3_1815773353002823680",
+            "start": 233,
+            "url": "https://t.co/Az3HaOl2Z6"
+          }
+        ]
+      },
+      "id": "1815775290062455229",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 5,
+        "impression_count": 5940,
+        "like_count": 30,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "1815775288120492362",
+          "type": "replied_to"
+        }
+      ],
+      "text": "Scale AI will also be partnering very closely with @Meta on Enterprise adoption of Llama 3.1.\n\nZuck mentioned Scale AI in his memo on Llama3.1 open-sourcing as one of the key partners for enterprise adoption and custom Llama models. https://t.co/Az3HaOl2Z6",
+      "url": "https://x.com/alexandr_wang/status/1815775290062455229"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1815775286195331411",
+      "created_at": "2024-07-23T15:45:38.000Z",
+      "edit_history_tweet_ids": [
+        "1815775288120492362"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+            "display_url": "scale.com/leaderboard",
+            "end": 276,
+            "expanded_url": "https://scale.com/leaderboard",
+            "images": [
+              {
+                "height": 630,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                "width": 1200
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 253,
+            "status": 200,
+            "title": "AI Model Leaderboards & Benchmarks",
+            "unwound_url": "https://labs.scale.com/leaderboard",
+            "url": "https://t.co/pVIgk6rIcL"
+          }
+        ]
+      },
+      "id": "1815775288120492362",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 2,
+        "impression_count": 5059,
+        "like_count": 37,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 5
+      },
+      "referenced_tweets": [
+        {
+          "id": "1815775286195331411",
+          "type": "replied_to"
+        }
+      ],
+      "text": "We evaluated Llama3.1 405B Instruct on SEAL Leaderboard.\n\nAs a reminder, our evals are:\n🔒PRIVATE (no overfitting)\n👩‍💼EXPERT EVALUATED (trustworthy)\n📈EVOLVE (no saturation)\n\nOur results show Llama3.1 is top notch:\n🥇Instruction Following\n🥈Math\n#4 Coding\n\nhttps://t.co/pVIgk6rIcL",
+      "url": "https://x.com/alexandr_wang/status/1815775288120492362"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1815769602300981248"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1815775286195331411",
+      "created_at": "2024-07-23T15:45:38.000Z",
+      "edit_history_tweet_ids": [
+        "1815775286195331411"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 46,
+            "id": "752712449321644032",
+            "start": 37,
+            "username": "scale_AI"
+          },
+          {
+            "end": 74,
+            "id": "2425151",
+            "start": 69,
+            "username": "Meta"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/mo98mJB4U3",
+            "end": 296,
+            "expanded_url": "https://x.com/alexandr_wang/status/1815775286195331411/photo/1",
+            "media_key": "3_1815769602300981248",
+            "start": 273,
+            "url": "https://t.co/mo98mJB4U3"
+          }
+        ]
+      },
+      "id": "1815775286195331411",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 120,
+        "impression_count": 145027,
+        "like_count": 534,
+        "quote_count": 16,
+        "reply_count": 21,
+        "retweet_count": 62
+      },
+      "text": "1/Meta just released Llama3.1 405B!\n\n@scale_AI partnered deeply with @Meta on this release:\n\n🥇 SEAL Evaluations: Based on our evals\n    🥇 on IF\n    🥈 on Math\n     #4 on Coding\n💼 Enterprise partnership for custom Llama models\n🤖 Data Foundry partnership on RLHF &amp; SFT\n\n👇 https://t.co/mo98mJB4U3",
+      "url": "https://x.com/alexandr_wang/status/1815775286195331411"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "4783690002",
+        "conversation_id": "1818606352194826473",
+        "created_at": "2024-07-31T11:15:17.000Z",
+        "edit_history_tweet_ids": [
+          "1818606352194826473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "752712449321644032",
+              "start": 38,
+              "username": "scale_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1817956788320530940",
+              "start": 279,
+              "url": "https://t.co/ldRBVl8nYl"
+            }
+          ]
+        },
+        "id": "1818606352194826473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 47,
+                "id": "752712449321644032",
+                "start": 38,
+                "username": "Scale_AI"
+              }
+            ]
+          },
+          "text": "Gemini 1.5 Pro is the safest model on @Scale_AI's leaderboard for adversarial robustness.\n\nEvaluations look at how it performed when tested by harmful prompts compared to others. As we continue to develop advanced AI, we're committed to ensuring safety is built in from scratch. ↓"
+        },
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 90474,
+          "like_count": 275,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817956788320530940",
+            "type": "quoted"
+          }
+        ],
+        "text": "Gemini 1.5 Pro is the safest model on @Scale_AI's leaderboard for adversarial robustness.\n\nEvaluations look at how it performed when tested by harmful prompts compared to others. As we continue to develop advanced AI, we're committed to ensuring safety is built in from scratch. https://t.co/ldRBVl8nYl"
+      },
+      {
+        "author_id": "1482581556",
+        "conversation_id": "1818049561421910345",
+        "created_at": "2024-07-29T22:22:47.000Z",
+        "edit_history_tweet_ids": [
+          "1818049561421910345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "752712449321644032",
+              "start": 40,
+              "username": "scale_AI"
+            },
+            {
+              "end": 164,
+              "id": "978823301802819584",
+              "start": 148,
+              "username": "ancadianadragan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1817956788320530940",
+              "start": 275,
+              "url": "https://t.co/EM48q8CHmV"
+            }
+          ]
+        },
+        "id": "1818049561421910345",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 72029,
+          "like_count": 388,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817956788320530940",
+            "type": "quoted"
+          }
+        ],
+        "text": "Great to see Gemini 1.5 Pro top the new @scale_ai leaderboard for adversarial robustness! Congrats to the entire Gemini team, and special thanks to @ancadianadragan &amp; the AI safety team for leading the charge on building in robustness to our models as a core capability. https://t.co/EM48q8CHmV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1817956793064009728"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1817956788320530940",
+        "created_at": "2024-07-29T16:14:17.000Z",
+        "edit_history_tweet_ids": [
+          "1817956826014502971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEswG5qG57",
+              "end": 249,
+              "expanded_url": "https://x.com/alexandr_wang/status/1817956826014502971/photo/1",
+              "media_key": "3_1817956793064009728",
+              "start": 226,
+              "url": "https://t.co/XEswG5qG57"
+            }
+          ]
+        },
+        "id": "1817956826014502971",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10912,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817956788320530940",
+            "type": "replied_to"
+          }
+        ],
+        "text": "We covered a wide range of harm scenarios including:\n\n- Hacking and Malware\n- Self harm and Suicide\n- Harm to Children\n- Illegal Activities\n- Sexualized Content\n- Graphic Violence\n\n… and more.\n\nSee precise distribution below: https://t.co/XEswG5qG57"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1817956763779371008"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1817956788320530940",
+        "created_at": "2024-07-29T16:14:08.000Z",
+        "edit_history_tweet_ids": [
+          "1817956788320530940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+              "display_url": "scale.com/leaderboard",
+              "end": 276,
+              "expanded_url": "http://scale.com/leaderboard",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 253,
+              "status": 200,
+              "title": "AI Model Leaderboards & Benchmarks",
+              "unwound_url": "https://labs.scale.com/leaderboard",
+              "url": "https://t.co/10nk53b4hj"
+            },
+            {
+              "display_url": "pic.x.com/ePT1ln45cY",
+              "end": 300,
+              "expanded_url": "https://x.com/alexandr_wang/status/1817956788320530940/photo/1",
+              "media_key": "3_1817956763779371008",
+              "start": 277,
+              "url": "https://t.co/ePT1ln45cY"
+            }
+          ]
+        },
+        "id": "1817956788320530940",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 265163,
+          "like_count": 318,
+          "quote_count": 21,
+          "reply_count": 17,
+          "retweet_count": 53
+        },
+        "text": "1/ Scale is announcing our latest SEAL Leaderboard on Adversarial Robustness!\n\n🛡️ Red team-generated prompts\n🎯 Focused on universal harm scenarios\n🔍 Transparent eval methods\n\nSEAL evals are private (not overfit), expert evals that refresh periodically\n\nhttps://t.co/10nk53b4hj https://t.co/ePT1ln45cY"
+      },
+      {
+        "author_id": "16591288",
+        "conversation_id": "1816925453669876047",
+        "created_at": "2024-07-26T19:55:59.000Z",
+        "edit_history_tweet_ids": [
+          "1816925453669876047"
+        ],
+        "id": "1816925453669876047",
+        "lang": "en",
+        "note_tweet": {
+          "text": "Multi-turn data is incredibly expensive today. Single answers go for $20-$200 depending on quality.\n\nAssuming markets are somewhat efficient, this is a reasonable proxy for the atomic costs to aggregate \"new data\" for LLMs. \n\nGiven (a) we've exhausted a non-trivial fraction of human created language tokens (b) human created data seems to be the basis of economically viable models (c) we need orders of magnitude more data to continue to scale ... \n\nIt's hard for me to see a world where LLM progress isn't strictly bound by the energy and cost of getting new data from humans."
+        },
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 86151,
+          "like_count": 211,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 12
+        },
+        "text": "Multi-turn data is incredibly expensive today. Single answers go for $20-$200 depending on quality.\n\nAssuming markets are somewhat efficient, this is a reasonable proxy for the atomic costs to aggregate \"new data\" for LLMs. \n\nGiven (a) we've exhausted a non-trivial fraction of"
+      },
+      {
+        "author_id": "1007413134",
+        "conversation_id": "1816231047228797132",
+        "created_at": "2024-07-24T21:56:40.000Z",
+        "edit_history_tweet_ids": [
+          "1816231047228797132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandr_wang/…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/alexandr_wang/status/1815775286195331411",
+              "start": 94,
+              "url": "https://t.co/GVl4yTVs31"
+            }
+          ]
+        },
+        "id": "1816231047228797132",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 27097,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815775286195331411",
+            "type": "quoted"
+          }
+        ],
+        "text": "Would love to see Mistral-123B evaluated on SEAL against Llama. It’s open model buffet week!! https://t.co/GVl4yTVs31"
+      },
+      {
+        "author_id": "48642190",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:35:44.000Z",
+        "edit_history_tweet_ids": [
+          "1816497572002844767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kchonyc/status…",
+              "end": 38,
+              "expanded_url": "https://x.com/kchonyc/status/1802722692539310308",
+              "start": 15,
+              "url": "https://t.co/oDJSZxlSrL"
+            }
+          ]
+        },
+        "id": "1816497572002844767",
+        "in_reply_to_user_id": "615818451",
+        "lang": "qme",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802722692539310308",
+            "type": "quoted"
+          },
+          {
+            "id": "1816491447585292300",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang https://t.co/oDJSZxlSrL"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:27.000Z",
+        "edit_history_tweet_ids": [
+          "1816491461149683822"
+        ],
+        "id": "1816491461149683822",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "7/ watch this space closely.\n\nMy prediction is that model developers who are not careful about training on synthetic data with no information gain will find their models getting steadily stranger and dumber over time.\n\nSynthetic data accumulates a debt with the model that must be repaid at some point."
+        },
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 16363,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816491459488764211",
+            "type": "replied_to"
+          }
+        ],
+        "text": "7/ watch this space closely.\n\nMy prediction is that model developers who are not careful about training on synthetic data with no information gain will find their models getting steadily stranger and dumber over time.\n\nSynthetic data accumulates a debt with the model that must be"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:27.000Z",
+        "edit_history_tweet_ids": [
+          "1816491459488764211"
+        ],
+        "id": "1816491459488764211",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "6/ This is why I personally believe in HYBRID DATA over pure synthetic data.\n\nSynthetic data must be generated utilizing some source of new information for the model, either:\n\n(1) using a seed of real world data\n(2) human experts\n(3) formal logic engine\n\nHybrid data is the real future which will avoid all the nasty issues with mode collapse"
+        },
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 12484,
+          "like_count": 63,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816491457555132843",
+            "type": "replied_to"
+          }
+        ],
+        "text": "6/ This is why I personally believe in HYBRID DATA over pure synthetic data.\n\nSynthetic data must be generated utilizing some source of new information for the model, either:\n\n(1) using a seed of real world data\n(2) human experts\n(3) formal logic engine\n\nHybrid data is the real"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:26.000Z",
+        "edit_history_tweet_ids": [
+          "1816491457555132843"
+        ],
+        "id": "1816491457555132843",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "5/ While the experiments done here were on small scale models (100M parameters), the fundamental effects we’re seeing here are likely to show up over time on the larger models too.\n\nFor example, most of today’s models can’t produce a blog post in the style of Slate Star Codex, also due to mode collapse. As we successively train the model, they lose their ability to predict over a wide distribution."
+        },
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17620,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816491455340589559",
+            "type": "replied_to"
+          }
+        ],
+        "text": "5/ While the experiments done here were on small scale models (100M parameters), the fundamental effects we’re seeing here are likely to show up over time on the larger models too.\n\nFor example, most of today’s models can’t produce a blog post in the style of Slate Star Codex,"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816491451574104064"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:26.000Z",
+        "edit_history_tweet_ids": [
+          "1816491455340589559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyboR5XuGM",
+              "end": 304,
+              "expanded_url": "https://x.com/alexandr_wang/status/1816491455340589559/photo/1",
+              "media_key": "3_1816491451574104064",
+              "start": 281,
+              "url": "https://t.co/eyboR5XuGM"
+            }
+          ]
+        },
+        "id": "1816491455340589559",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "note_tweet": {
+          "text": "4/ There are three sources of error that accumulate from successive generations of synthetic training\n\n1) statistical approximation error\n2) functional expressivity error\n3) functional approximation error\n\nRoughly speaking, each time you train the model on data generated from the last model, you lose information and fidelity, so the models become more and more hollow until they stop working well"
+        },
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15066,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816491449682448740",
+            "type": "replied_to"
+          }
+        ],
+        "text": "4/ There are three sources of error that accumulate from successive generations of synthetic training\n\n1) statistical approximation error\n2) functional expressivity error\n3) functional approximation error\n\nRoughly speaking, each time you train the model on data generated from the https://t.co/eyboR5XuGM"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:25.000Z",
+        "edit_history_tweet_ids": [
+          "1816491449682448740"
+        ],
+        "id": "1816491449682448740",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12800,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816491447585292300",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ This core idea is very important to pay attention to:\n\nSynthetic data can create a short-term boost in eval results, but you will pay for it later with model collapse!\n\nYou accumulate debt with mangling the model that starts invisible, and is very hard to repay."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816491444313751552"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:24.000Z",
+        "edit_history_tweet_ids": [
+          "1816491447585292300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tne5uwmHxP",
+              "end": 303,
+              "expanded_url": "https://x.com/alexandr_wang/status/1816491447585292300/photo/1",
+              "media_key": "3_1816491444313751552",
+              "start": 280,
+              "url": "https://t.co/Tne5uwmHxP"
+            }
+          ]
+        },
+        "id": "1816491447585292300",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17245,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816491442069782925",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Training on pure synthetic data has no information gain, thus there is little reason the model *should* improve.\n\nOftentimes when evals go up from “self-distillation”, that might be from some more invisible tradeoff, i.e. mode collapse in exchange for individual eval improvement https://t.co/Tne5uwmHxP"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816491438701756416"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1816491442069782925",
+        "created_at": "2024-07-25T15:11:23.000Z",
+        "edit_history_tweet_ids": [
+          "1816491442069782925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNcblJVR1W",
+              "end": 292,
+              "expanded_url": "https://x.com/alexandr_wang/status/1816491442069782925/photo/1",
+              "media_key": "3_1816491438701756416",
+              "start": 269,
+              "url": "https://t.co/vNcblJVR1W"
+            }
+          ]
+        },
+        "id": "1816491442069782925",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 272612,
+          "like_count": 655,
+          "quote_count": 69,
+          "reply_count": 39,
+          "retweet_count": 92
+        },
+        "text": "1/ New paper in Nature shows model collapse as successive model generations models are recursively trained on synthetic data.\n\nThis is an important result. While many researchers today view synthetic data as AI philosopher’s stone, there is no free lunch.\n\nRead more 👇 https://t.co/vNcblJVR1W"
+      },
+      {
+        "author_id": "2939913921",
+        "conversation_id": "1815775286195331411",
+        "created_at": "2024-07-23T23:28:55.000Z",
+        "edit_history_tweet_ids": [
+          "1815891875825607129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "615818451",
+              "start": 0,
+              "username": "alexandr_wang"
+            },
+            {
+              "end": 24,
+              "id": "752712449321644032",
+              "start": 15,
+              "username": "scale_AI"
+            },
+            {
+              "end": 30,
+              "id": "2425151",
+              "start": 25,
+              "username": "Meta"
+            }
+          ]
+        },
+        "id": "1815891875825607129",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1691,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815775286195331411",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@alexandr_wang @scale_AI @Meta big day for seal with the wonky gpt-4o mini lmsys results too. we're watching."
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1815775286195331411",
+        "created_at": "2024-07-23T15:45:39.000Z",
+        "edit_history_tweet_ids": [
+          "1815775291970830414"
+        ],
+        "id": "1815775291970830414",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8325,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815775290062455229",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Lastly, as I've spoken about before, frontier data generation is critical to driving frontier model performance.\n\nScale Data Foundry was utilized to generate frontier data (SFT &amp; RLHF data) to push the performance of Llama-3.1\n\nWe are excited to continue pushing SOTA with Meta!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815773353002823680"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1815775286195331411",
+        "created_at": "2024-07-23T15:45:39.000Z",
+        "edit_history_tweet_ids": [
+          "1815775290062455229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "2425151",
+              "start": 51,
+              "username": "Meta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Az3HaOl2Z6",
+              "end": 256,
+              "expanded_url": "https://x.com/alexandr_wang/status/1815775290062455229/photo/1",
+              "media_key": "3_1815773353002823680",
+              "start": 233,
+              "url": "https://t.co/Az3HaOl2Z6"
+            }
+          ]
+        },
+        "id": "1815775290062455229",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5940,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815775288120492362",
+            "type": "replied_to"
+          }
+        ],
+        "text": "Scale AI will also be partnering very closely with @Meta on Enterprise adoption of Llama 3.1.\n\nZuck mentioned Scale AI in his memo on Llama3.1 open-sourcing as one of the key partners for enterprise adoption and custom Llama models. https://t.co/Az3HaOl2Z6"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1815775286195331411",
+        "created_at": "2024-07-23T15:45:38.000Z",
+        "edit_history_tweet_ids": [
+          "1815775288120492362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore leaderboards with expert-driven LLM benchmarks and updated AI model rankings across coding, reasoning and more.",
+              "display_url": "scale.com/leaderboard",
+              "end": 276,
+              "expanded_url": "https://scale.com/leaderboard",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2122310853491851264/2fPq0og7?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 253,
+              "status": 200,
+              "title": "AI Model Leaderboards & Benchmarks",
+              "unwound_url": "https://labs.scale.com/leaderboard",
+              "url": "https://t.co/pVIgk6rIcL"
+            }
+          ]
+        },
+        "id": "1815775288120492362",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5059,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815775286195331411",
+            "type": "replied_to"
+          }
+        ],
+        "text": "We evaluated Llama3.1 405B Instruct on SEAL Leaderboard.\n\nAs a reminder, our evals are:\n🔒PRIVATE (no overfitting)\n👩‍💼EXPERT EVALUATED (trustworthy)\n📈EVOLVE (no saturation)\n\nOur results show Llama3.1 is top notch:\n🥇Instruction Following\n🥈Math\n#4 Coding\n\nhttps://t.co/pVIgk6rIcL"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815769602300981248"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1815775286195331411",
+        "created_at": "2024-07-23T15:45:38.000Z",
+        "edit_history_tweet_ids": [
+          "1815775286195331411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "752712449321644032",
+              "start": 37,
+              "username": "scale_AI"
+            },
+            {
+              "end": 74,
+              "id": "2425151",
+              "start": 69,
+              "username": "Meta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mo98mJB4U3",
+              "end": 296,
+              "expanded_url": "https://x.com/alexandr_wang/status/1815775286195331411/photo/1",
+              "media_key": "3_1815769602300981248",
+              "start": 273,
+              "url": "https://t.co/mo98mJB4U3"
+            }
+          ]
+        },
+        "id": "1815775286195331411",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 145027,
+          "like_count": 534,
+          "quote_count": 16,
+          "reply_count": 21,
+          "retweet_count": 62
+        },
+        "text": "1/Meta just released Llama3.1 405B!\n\n@scale_AI partnered deeply with @Meta on this release:\n\n🥇 SEAL Evaluations: Based on our evals\n    🥇 on IF\n    🥈 on Math\n     #4 on Coding\n💼 Enterprise partnership for custom Llama models\n🤖 Data Foundry partnership on RLHF &amp; SFT\n\n👇 https://t.co/mo98mJB4U3"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      },
+      {
+        "id": "1482581556",
+        "name": "Demis Hassabis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990472620614053888/xrAu0wQL_normal.jpg",
+        "username": "demishassabis",
+        "verified": false
+      },
+      {
+        "id": "1007413134",
+        "name": "Jim Fan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+        "username": "DrJimFan",
+        "verified": false
+      },
+      {
+        "id": "48642190",
+        "name": "Kyunghyun Cho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035401949424791552/0LJCRBG9_normal.jpg",
+        "username": "kchonyc",
+        "verified": false
+      },
+      {
+        "id": "2939913921",
+        "name": "Nathan Lambert",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051823244832083968/Nr0pT8-V_normal.jpg",
+        "username": "natolambert",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1818647639082385865",
+    "next_token": "b26v89c19zqg8o3frqou42tbtfbq3a2swg7tku22ii7i5",
+    "oldest_id": "1815775286195331411",
+    "result_count": 25
+  },
+  "errors": []
+}

@@ -1,0 +1,78 @@
+{
+  "collected_at_utc": "2026-11-26T00:39:20Z",
+  "collected_at_shanghai": "2026-11-26T08:39:20+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AMNCNYFM2BB72B2CQD9DNQ.txt",
+  "request": {
+    "query": "from:iiiinvest",
+    "start_time": "2024-12-01T00:00:00Z",
+    "end_time": "2025-01-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": null,
+    "window_label": "2024-12"
+  },
+  "data": [
+    {
+      "author_id": "1589763597705437184",
+      "created_at": "2024-12-11T00:33:03.000Z",
+      "edit_history_tweet_ids": [
+        "1866642316175212941"
+      ],
+      "id": "1866642316175212941",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 147
+      },
+      "referenced_tweets": [
+        {
+          "id": "1866384034194202955",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @colinwu: 牛市了要过年了，大家也要出金消费，不懂 OTC，我个人所知貌似有一种所谓安全点的出金方法\n\n在香港办一个 za bank 或者其他银行的卡，za 比较容易，手机上就可办，然后香港线下店卖成港币，最安全是卖成现金再 ATM 存入银行卡，在内地绑上微信或…",
+      "url": "https://x.com/iiiinvest/status/1866642316175212941"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1457238121679302657",
+        "created_at": "2024-12-10T07:26:44.000Z",
+        "edit_history_tweet_ids": [
+          "1866384034194202955"
+        ],
+        "id": "1866384034194202955",
+        "public_metrics": {
+          "bookmark_count": 778,
+          "impression_count": 283889,
+          "like_count": 699,
+          "quote_count": 5,
+          "reply_count": 54,
+          "retweet_count": 147
+        },
+        "text": "牛市了要过年了，大家也要出金消费，不懂 OTC，我个人所知貌似有一种所谓安全点的出金方法\n\n在香港办一个 za bank 或者其他银行的卡，za 比较容易，手机上就可办，然后香港线下店卖成港币，最安全是卖成现金再 ATM 存入银行卡，在内地绑上微信或者用它实体 visa 卡消费。"
+      }
+    ],
+    "users": [
+      {
+        "id": "1589763597705437184",
+        "name": "电鱼哥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070418253353250816/A7ob_mkY_normal.jpg",
+        "username": "iiiinvest",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1866642316175212941",
+    "next_token": "b26v89c19zqg8o3frr3temfmeeqy1t86ixq9v64ezdabh",
+    "oldest_id": "1866642316175212941",
+    "result_count": 1
+  },
+  "errors": []
+}

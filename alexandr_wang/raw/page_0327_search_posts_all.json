@@ -1,0 +1,359 @@
+{
+  "collected_at_utc": "2026-11-26T01:22:02Z",
+  "collected_at_shanghai": "2026-11-26T09:22:02+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8AQ3D8QH50CATG2GMS19C0J.txt",
+  "request": {
+    "query": "from:alexandr_wang",
+    "start_time": "2024-06-01T00:00:00Z",
+    "end_time": "2024-07-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr62fo58p51f26c0mrd17lv2ct1zlp",
+    "window_label": "2024-06"
+  },
+  "data": [
+    {
+      "author_id": "615818451",
+      "conversation_id": "1799930061631729887",
+      "created_at": "2024-06-09T22:22:23.000Z",
+      "edit_history_tweet_ids": [
+        "1799930066518098081"
+      ],
+      "id": "1799930066518098081",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 33,
+        "impression_count": 30936,
+        "like_count": 106,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1799930064957776091",
+          "type": "replied_to"
+        }
+      ],
+      "text": "4/ there's a lot of arguments on both ends, but fundamentally scaling relies on expanding beyond existing internet data\n\nwe need a number of methods for data abundance:\n- high-end expert frontier data, which is more valuable than internet data\n- RL environments\n- synthetic data",
+      "url": "https://x.com/alexandr_wang/status/1799930066518098081"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1799925891860221952"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1799930061631729887",
+      "created_at": "2024-06-09T22:22:23.000Z",
+      "edit_history_tweet_ids": [
+        "1799930064957776091"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pic.x.com/9FFppL0Gri",
+            "end": 211,
+            "expanded_url": "https://x.com/alexandr_wang/status/1799930064957776091/photo/1",
+            "media_key": "3_1799925891860221952",
+            "start": 188,
+            "url": "https://t.co/9FFppL0Gri"
+          }
+        ]
+      },
+      "id": "1799930064957776091",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 29,
+        "impression_count": 17592,
+        "like_count": 80,
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 3
+      },
+      "referenced_tweets": [
+        {
+          "id": "1799930063192002701",
+          "type": "replied_to"
+        }
+      ],
+      "text": "3/ the original scaling laws require a scaling of data alongside compute, and while you can still improve loss with more compute, it is much less efficient than if you scaled data as well https://t.co/9FFppL0Gri",
+      "url": "https://x.com/alexandr_wang/status/1799930064957776091"
+    },
+    {
+      "author_id": "615818451",
+      "conversation_id": "1799930061631729887",
+      "created_at": "2024-06-09T22:22:22.000Z",
+      "edit_history_tweet_ids": [
+        "1799930063192002701"
+      ],
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/EpochAIResearc…",
+            "end": 254,
+            "expanded_url": "https://x.com/EpochAIResearch/status/1798742418763981241",
+            "start": 231,
+            "url": "https://t.co/aDQrFLOYZ9"
+          }
+        ]
+      },
+      "id": "1799930063192002701",
+      "in_reply_to_user_id": "615818451",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 51,
+        "impression_count": 125813,
+        "like_count": 133,
+        "quote_count": 5,
+        "reply_count": 13,
+        "retweet_count": 7
+      },
+      "referenced_tweets": [
+        {
+          "id": "1798742418763981241",
+          "type": "quoted"
+        },
+        {
+          "id": "1799930061631729887",
+          "type": "replied_to"
+        }
+      ],
+      "text": "2/ there are 2 schools of thought:\n\n1) compute is the only real bottleneck to AI progress. the more we spend, the closer we get to AGI\n\n2) we are hitting a data wall which will slow progress regardless of how much compute we have\n\nhttps://t.co/aDQrFLOYZ9",
+      "url": "https://x.com/alexandr_wang/status/1799930063192002701"
+    },
+    {
+      "attachments": {
+        "media_keys": [
+          "3_1799923128031907840"
+        ]
+      },
+      "author_id": "615818451",
+      "conversation_id": "1799930061631729887",
+      "created_at": "2024-06-09T22:22:22.000Z",
+      "edit_history_tweet_ids": [
+        "1799930061631729887"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 280,
+            "id": "2584689248",
+            "start": 264,
+            "username": "Thomas_Woodside"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "pic.x.com/ZP2lVLtB8z",
+            "end": 304,
+            "expanded_url": "https://x.com/alexandr_wang/status/1799930061631729887/photo/1",
+            "media_key": "3_1799923128031907840",
+            "start": 281,
+            "url": "https://t.co/ZP2lVLtB8z"
+          }
+        ]
+      },
+      "id": "1799930061631729887",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 830,
+        "impression_count": 432402,
+        "like_count": 1064,
+        "quote_count": 27,
+        "reply_count": 30,
+        "retweet_count": 121
+      },
+      "text": "1/ one of the biggest questions in AI today is:\n\nsince GPT-4 was trained in fall 2022, we've collectively spent ~$100B on NVIDIA GPUs\n\nwill the next generation of AI models' capabilities live up to that aggregate investment level?\n\nNVIDIA qtrly datacenter rev, by @Thomas_Woodside https://t.co/ZP2lVLtB8z",
+      "url": "https://x.com/alexandr_wang/status/1799930061631729887"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799925891860221952"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1799930061631729887",
+        "created_at": "2024-06-09T22:22:23.000Z",
+        "edit_history_tweet_ids": [
+          "1799930064957776091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FFppL0Gri",
+              "end": 211,
+              "expanded_url": "https://x.com/alexandr_wang/status/1799930064957776091/photo/1",
+              "media_key": "3_1799925891860221952",
+              "start": 188,
+              "url": "https://t.co/9FFppL0Gri"
+            }
+          ]
+        },
+        "id": "1799930064957776091",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 17592,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799930063192002701",
+            "type": "replied_to"
+          }
+        ],
+        "text": "3/ the original scaling laws require a scaling of data alongside compute, and while you can still improve loss with more compute, it is much less efficient than if you scaled data as well https://t.co/9FFppL0Gri"
+      },
+      {
+        "author_id": "615818451",
+        "conversation_id": "1799930061631729887",
+        "created_at": "2024-06-09T22:22:22.000Z",
+        "edit_history_tweet_ids": [
+          "1799930063192002701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EpochAIResearc…",
+              "end": 254,
+              "expanded_url": "https://x.com/EpochAIResearch/status/1798742418763981241",
+              "start": 231,
+              "url": "https://t.co/aDQrFLOYZ9"
+            }
+          ]
+        },
+        "id": "1799930063192002701",
+        "in_reply_to_user_id": "615818451",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 125813,
+          "like_count": 133,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798742418763981241",
+            "type": "quoted"
+          },
+          {
+            "id": "1799930061631729887",
+            "type": "replied_to"
+          }
+        ],
+        "text": "2/ there are 2 schools of thought:\n\n1) compute is the only real bottleneck to AI progress. the more we spend, the closer we get to AGI\n\n2) we are hitting a data wall which will slow progress regardless of how much compute we have\n\nhttps://t.co/aDQrFLOYZ9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1799923128031907840"
+          ]
+        },
+        "author_id": "615818451",
+        "conversation_id": "1799930061631729887",
+        "created_at": "2024-06-09T22:22:22.000Z",
+        "edit_history_tweet_ids": [
+          "1799930061631729887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 280,
+              "id": "2584689248",
+              "start": 264,
+              "username": "Thomas_Woodside"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZP2lVLtB8z",
+              "end": 304,
+              "expanded_url": "https://x.com/alexandr_wang/status/1799930061631729887/photo/1",
+              "media_key": "3_1799923128031907840",
+              "start": 281,
+              "url": "https://t.co/ZP2lVLtB8z"
+            }
+          ]
+        },
+        "id": "1799930061631729887",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 830,
+          "impression_count": 432402,
+          "like_count": 1064,
+          "quote_count": 27,
+          "reply_count": 30,
+          "retweet_count": 121
+        },
+        "text": "1/ one of the biggest questions in AI today is:\n\nsince GPT-4 was trained in fall 2022, we've collectively spent ~$100B on NVIDIA GPUs\n\nwill the next generation of AI models' capabilities live up to that aggregate investment level?\n\nNVIDIA qtrly datacenter rev, by @Thomas_Woodside https://t.co/ZP2lVLtB8z"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798742402997383168"
+          ]
+        },
+        "author_id": "1529761561170124800",
+        "conversation_id": "1798742418763981241",
+        "created_at": "2024-06-06T15:43:06.000Z",
+        "edit_history_tweet_ids": [
+          "1798742418763981241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOZO1RvXIs",
+              "end": 260,
+              "expanded_url": "https://x.com/EpochAIResearch/status/1798742418763981241/photo/1",
+              "media_key": "3_1798742402997383168",
+              "start": 237,
+              "url": "https://t.co/xOZO1RvXIs"
+            }
+          ]
+        },
+        "id": "1798742418763981241",
+        "lang": "en",
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 668452,
+          "like_count": 587,
+          "quote_count": 58,
+          "reply_count": 23,
+          "retweet_count": 113
+        },
+        "text": "Are we running out of data to train language models?\n\nState-of-the-art LLMs use datasets with tens of trillions of words, and use 2-3x more per year. Our new ICML paper estimates when we might exhaust all text data on the internet. 1/12 https://t.co/xOZO1RvXIs"
+      }
+    ],
+    "users": [
+      {
+        "id": "615818451",
+        "name": "Alexandr Wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_normal.jpg",
+        "username": "alexandr_wang",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1799930066518098081",
+    "next_token": "b26v89c19zqg8o3fr62fo58p51f259qkwb9jpa5ytbrst",
+    "oldest_id": "1799930061631729887",
+    "result_count": 4
+  },
+  "errors": []
+}

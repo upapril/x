@@ -1,0 +1,1745 @@
+{
+  "collected_at_utc": "2026-11-26T01:01:56Z",
+  "collected_at_shanghai": "2026-11-26T09:01:56+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8ANYKF645BXA5NJ5CABVVGV.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-09-01T00:00:00Z",
+    "end_time": "2023-10-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr5bf632btalqqii1s08wtpwbq7s71",
+    "window_label": "2023-09"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "conversation_id": "1700606366606565686",
+      "created_at": "2023-09-18T14:14:32.000Z",
+      "edit_history_tweet_ids": [
+        "1703774509734744233"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "1417273079949008897",
+            "start": 0,
+            "username": "xxlbxxlb"
+          }
+        ]
+      },
+      "id": "1703774509734744233",
+      "in_reply_to_user_id": "1417273079949008897",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6006,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703764238269837550",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@xxlbxxlb 这只我也有😂",
+      "url": "https://x.com/taresky/status/1703774509734744233"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703679562473996679",
+      "created_at": "2023-09-18T12:32:56.000Z",
+      "edit_history_tweet_ids": [
+        "1703748941815373951"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1229957424",
+            "start": 0,
+            "username": "liyao7"
+          }
+        ]
+      },
+      "id": "1703748941815373951",
+      "in_reply_to_user_id": "1229957424",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 226,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703745346323497457",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@liyao7 越不让办，越要办",
+      "url": "https://x.com/taresky/status/1703748941815373951"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703738632870527215",
+      "created_at": "2023-09-18T12:15:39.000Z",
+      "edit_history_tweet_ids": [
+        "1703744593857216948"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          }
+        ]
+      },
+      "id": "1703744593857216948",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 3795,
+        "like_count": 4,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703738632870527215",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo 这模型绝对有阿娇…",
+      "url": "https://x.com/taresky/status/1703744593857216948"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T12:14:06.000Z",
+      "edit_history_tweet_ids": [
+        "1703744202537050120"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 9,
+            "id": "559613495",
+            "start": 0,
+            "username": "100Sheng"
+          }
+        ]
+      },
+      "id": "1703744202537050120",
+      "in_reply_to_user_id": "559613495",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2456,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703740547800961398",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@100Sheng 国内的都很差",
+      "url": "https://x.com/taresky/status/1703744202537050120"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703574596744884263",
+      "created_at": "2023-09-18T11:27:29.000Z",
+      "edit_history_tweet_ids": [
+        "1703732471295291516"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 8,
+            "id": "282522910",
+            "start": 0,
+            "username": "passluo"
+          },
+          {
+            "end": 16,
+            "id": "86659057",
+            "start": 9,
+            "username": "RioJot"
+          }
+        ]
+      },
+      "id": "1703732471295291516",
+      "in_reply_to_user_id": "282522910",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 512,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 2,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703729308379050308",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@passluo @RioJot 只要关注你就可以了",
+      "url": "https://x.com/taresky/status/1703732471295291516"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703716062334996715",
+      "created_at": "2023-09-18T10:29:21.000Z",
+      "edit_history_tweet_ids": [
+        "1703717840535359709"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1906818992",
+            "start": 0,
+            "username": "henuwangkai"
+          }
+        ]
+      },
+      "id": "1703717840535359709",
+      "in_reply_to_user_id": "1906818992",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3764,
+        "like_count": 7,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 1
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703717632359502103",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@henuwangkai 对啊，虽然都叫预制菜，讨论的根本不是一回事。",
+      "url": "https://x.com/taresky/status/1703717840535359709"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703716062334996715",
+      "created_at": "2023-09-18T10:22:17.000Z",
+      "edit_history_tweet_ids": [
+        "1703716062334996715"
+      ],
+      "id": "1703716062334996715",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 3,
+        "impression_count": 191299,
+        "like_count": 33,
+        "quote_count": 1,
+        "reply_count": 6,
+        "retweet_count": 1
+      },
+      "text": "麦当劳的预制菜和你外卖平台点的预制菜是一回事吗，净玩文字游戏。  \n\n那不说预制菜，说“阳光厨房”。  \n\n有没有杠精能反对阳光厨房的，表演一下？",
+      "url": "https://x.com/taresky/status/1703716062334996715"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703679562473996679",
+      "created_at": "2023-09-18T10:00:30.000Z",
+      "edit_history_tweet_ids": [
+        "1703710579918270838"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1466310989184262145",
+            "start": 0,
+            "username": "DYTT04178150"
+          }
+        ]
+      },
+      "id": "1703710579918270838",
+      "in_reply_to_user_id": "1466310989184262145",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 265,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703709812008288500",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@DYTT04178150 我记得云闪付好像有一个类似的功能",
+      "url": "https://x.com/taresky/status/1703710579918270838"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703679562473996679",
+      "created_at": "2023-09-18T09:56:13.000Z",
+      "edit_history_tweet_ids": [
+        "1703709501327884771"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "1466310989184262145",
+            "start": 0,
+            "username": "DYTT04178150"
+          }
+        ]
+      },
+      "id": "1703709501327884771",
+      "in_reply_to_user_id": "1466310989184262145",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 416,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703705408454664661",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@DYTT04178150 我网上申请一张卡，提示我已经有一类卡了。",
+      "url": "https://x.com/taresky/status/1703709501327884771"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703686855995404593",
+      "created_at": "2023-09-18T08:50:03.000Z",
+      "edit_history_tweet_ids": [
+        "1703692849311826181"
+      ],
+      "id": "1703692849311826181",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 135,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@RelettingGo 我只能看出来眉毛可能化了...",
+      "url": "https://x.com/taresky/status/1703692849311826181"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703679562473996679",
+      "created_at": "2023-09-18T08:28:18.000Z",
+      "edit_history_tweet_ids": [
+        "1703687378622439562"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "27200079",
+            "start": 0,
+            "username": "icatme"
+          }
+        ]
+      },
+      "id": "1703687378622439562",
+      "in_reply_to_user_id": "27200079",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 442,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703687159826522193",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@icatme 所以要注销并补卡才可以",
+      "url": "https://x.com/taresky/status/1703687378622439562"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703554223030567170",
+      "created_at": "2023-09-18T08:23:53.000Z",
+      "edit_history_tweet_ids": [
+        "1703686267869999532"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1787322597715345408",
+            "start": 0,
+            "username": "iamshaynez"
+          }
+        ]
+      },
+      "id": "1703686267869999532",
+      "in_reply_to_user_id": "256559269",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 528,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703554223030567170",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@iamshaynez 哈哈哈，入乡随俗。我也在香炉面前熏陶过我的硬件钱包。",
+      "url": "https://x.com/taresky/status/1703686267869999532"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703679562473996679",
+      "created_at": "2023-09-18T08:22:25.000Z",
+      "edit_history_tweet_ids": [
+        "1703685895248068804"
+      ],
+      "id": "1703685895248068804",
+      "in_reply_to_user_id": "995901753353633792",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 520,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703684760810487834",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@mo76301313 就是普通的银行卡，非一类卡带阉割。",
+      "url": "https://x.com/taresky/status/1703685895248068804"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703677947683725451",
+      "created_at": "2023-09-18T08:16:02.000Z",
+      "edit_history_tweet_ids": [
+        "1703684288817061921"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 26,
+            "id": "1765230168128598016",
+            "start": 15,
+            "username": "justone_he"
+          }
+        ]
+      },
+      "id": "1703684288817061921",
+      "in_reply_to_user_id": "157550302",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 615,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703679970722333150",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfflineHelper @justone_he 那卖隐私的性价比也太高了😂",
+      "url": "https://x.com/taresky/status/1703684288817061921"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703679562473996679",
+      "created_at": "2023-09-18T07:57:15.000Z",
+      "edit_history_tweet_ids": [
+        "1703679562473996679"
+      ],
+      "id": "1703679562473996679",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8652,
+        "like_count": 14,
+        "quote_count": 0,
+        "reply_count": 7,
+        "retweet_count": 0
+      },
+      "text": "今天整理银行账户，意外发现某行里还有一张一类卡。\n\n更意外的是里面还有 9000+ 人民币。\n\n愉快地申请挂失补卡 😆",
+      "url": "https://x.com/taresky/status/1703679562473996679"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T07:55:35.000Z",
+      "edit_history_tweet_ids": [
+        "1703679144482259013"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1508935310708781056",
+            "start": 0,
+            "username": "jackzhu1972hong"
+          }
+        ]
+      },
+      "id": "1703679144482259013",
+      "in_reply_to_user_id": "1508935310708781056",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 189,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703675577322946693",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jackzhu1972hong 1～2 月更换还行，每周太难了，这个标准出处有关键词吗？\n\n我的习惯是长期闭门闭窗，有没有新风差异巨大 😂",
+      "url": "https://x.com/taresky/status/1703679144482259013"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T07:15:05.000Z",
+      "edit_history_tweet_ids": [
+        "1703668953518911665"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1508935310708781056",
+            "start": 0,
+            "username": "jackzhu1972hong"
+          }
+        ]
+      },
+      "id": "1703668953518911665",
+      "in_reply_to_user_id": "1508935310708781056",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 233,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703648354243084619",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@jackzhu1972hong 一共三道过滤，几个月一换，看脏的程度还可以。\n\n要怎么判断是否二次污染呢？",
+      "url": "https://x.com/taresky/status/1703668953518911665"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703655644501602593",
+      "created_at": "2023-09-18T06:23:25.000Z",
+      "edit_history_tweet_ids": [
+        "1703655947779063813"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 10,
+            "id": "1184743584",
+            "start": 0,
+            "username": "ediephant"
+          }
+        ]
+      },
+      "id": "1703655947779063813",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 835,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@ediephant 还以为是 dengchao.eth",
+      "url": "https://x.com/taresky/status/1703655947779063813"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703306746989850659",
+      "created_at": "2023-09-18T05:36:00.000Z",
+      "edit_history_tweet_ids": [
+        "1703644016078913842"
+      ],
+      "id": "1703644016078913842",
+      "in_reply_to_user_id": "157550302",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 891,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703306746989850659",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@OfflineHelper 好像没有小号批量导入关注的办法？\n\n我想用小号去用第三方客户端，炸号就炸了。",
+      "url": "https://x.com/taresky/status/1703644016078913842"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T05:27:46.000Z",
+      "edit_history_tweet_ids": [
+        "1703641947087454269"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "33859235",
+            "start": 0,
+            "username": "hz13fs"
+          },
+          {
+            "end": 19,
+            "id": "1473603958262296577",
+            "start": 8,
+            "username": "weiwentao3"
+          }
+        ]
+      },
+      "id": "1703641947087454269",
+      "in_reply_to_user_id": "33859235",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 55,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703640270921941353",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@hz13fs @weiwentao3 对，如果看到有合适的视频，觉得对方技术过硬，可以考虑向对方采购整套硬件和服务。",
+      "url": "https://x.com/taresky/status/1703641947087454269"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703597792671965574",
+      "created_at": "2023-09-18T04:39:13.000Z",
+      "edit_history_tweet_ids": [
+        "1703629725653237970"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "1206800829950259202",
+            "start": 0,
+            "username": "missuo"
+          }
+        ]
+      },
+      "id": "1703629725653237970",
+      "in_reply_to_user_id": "1206800829950259202",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 138,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703628821902029049",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@missuo 不提倡🙅",
+      "url": "https://x.com/taresky/status/1703629725653237970"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T04:22:38.000Z",
+      "edit_history_tweet_ids": [
+        "1703625552819867755"
+      ],
+      "id": "1703625552819867755",
+      "in_reply_to_user_id": "717894439",
+      "lang": "ja",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5446,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703625079941460190",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@YukihiraType2 肯定有的，衣服上很多",
+      "url": "https://x.com/taresky/status/1703625552819867755"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T04:18:19.000Z",
+      "edit_history_tweet_ids": [
+        "1703624469120786565"
+      ],
+      "id": "1703624469120786565",
+      "in_reply_to_user_id": "1362047293189361669",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5340,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703623268232802399",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Alex_Zhang2023 带热交换，我没有额外考虑",
+      "url": "https://x.com/taresky/status/1703624469120786565"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T04:17:13.000Z",
+      "edit_history_tweet_ids": [
+        "1703624190086287783"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "50675109",
+            "start": 0,
+            "username": "RickyShine"
+          }
+        ]
+      },
+      "id": "1703624190086287783",
+      "in_reply_to_user_id": "50675109",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4146,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703622405552570512",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@RickyShine 有办法吧，问设计",
+      "url": "https://x.com/taresky/status/1703624190086287783"
+    },
+    {
+      "author_id": "368245720",
+      "conversation_id": "1703501017638461500",
+      "created_at": "2023-09-18T04:16:05.000Z",
+      "edit_history_tweet_ids": [
+        "1703623905792217208"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 11,
+            "id": "1473603958262296577",
+            "start": 0,
+            "username": "weiwentao3"
+          }
+        ]
+      },
+      "id": "1703623905792217208",
+      "in_reply_to_user_id": "1473603958262296577",
+      "lang": "zh",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3419,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1703618445617799326",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@weiwentao3 很难判断是不是外包，和对方的经验",
+      "url": "https://x.com/taresky/status/1703623905792217208"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1703764216023310336"
+          ]
+        },
+        "author_id": "1417273079949008897",
+        "conversation_id": "1700606366606565686",
+        "created_at": "2023-09-18T13:33:43.000Z",
+        "edit_history_tweet_ids": [
+          "1703764238269837550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSB8bwn4Wn",
+              "end": 52,
+              "expanded_url": "https://x.com/xxlbxxlb/status/1703764238269837550/photo/1",
+              "media_key": "3_1703764216023310336",
+              "start": 29,
+              "url": "https://t.co/CSB8bwn4Wn"
+            }
+          ]
+        },
+        "id": "1703764238269837550",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7231,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1700606366606565686",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 至今还保留着港股打新带给我的第一桶金🤪 https://t.co/CSB8bwn4Wn"
+      },
+      {
+        "author_id": "1229957424",
+        "conversation_id": "1703679562473996679",
+        "created_at": "2023-09-18T12:18:39.000Z",
+        "edit_history_tweet_ids": [
+          "1703745346323497457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703745346323497457",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 现在一类卡太难办了，而且用卡动不动就限制，看的人焦虑。"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1703738224441724928",
+            "3_1703738298450247680",
+            "3_1703738338317074432",
+            "3_1703738372379000832"
+          ]
+        },
+        "author_id": "282522910",
+        "conversation_id": "1703738632870527215",
+        "created_at": "2023-09-18T11:51:58.000Z",
+        "edit_history_tweet_ids": [
+          "1703738393128235176",
+          "1703738632870527215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "civitai.com/models/124421/…",
+              "end": 52,
+              "expanded_url": "https://civitai.com/models/124421/xxmix9realisticsdxl",
+              "start": 29,
+              "url": "https://t.co/McRzda6IQs"
+            },
+            {
+              "display_url": "pic.x.com/rGvNuJXszj",
+              "end": 76,
+              "expanded_url": "https://x.com/passluo/status/1703738632870527215/photo/1",
+              "media_key": "3_1703738224441724928",
+              "start": 53,
+              "url": "https://t.co/rGvNuJXszj"
+            },
+            {
+              "display_url": "pic.x.com/rGvNuJXszj",
+              "end": 76,
+              "expanded_url": "https://x.com/passluo/status/1703738632870527215/photo/2",
+              "media_key": "3_1703738298450247680",
+              "start": 53,
+              "url": "https://t.co/rGvNuJXszj"
+            },
+            {
+              "display_url": "pic.x.com/rGvNuJXszj",
+              "end": 76,
+              "expanded_url": "https://x.com/passluo/status/1703738632870527215/photo/3",
+              "media_key": "3_1703738338317074432",
+              "start": 53,
+              "url": "https://t.co/rGvNuJXszj"
+            },
+            {
+              "display_url": "pic.x.com/rGvNuJXszj",
+              "end": 76,
+              "expanded_url": "https://x.com/passluo/status/1703738632870527215/photo/4",
+              "media_key": "3_1703738372379000832",
+              "start": 53,
+              "url": "https://t.co/rGvNuJXszj"
+            }
+          ]
+        },
+        "id": "1703738632870527215",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 70634,
+          "like_count": 299,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 53
+        },
+        "text": "好久没逛 Civitai 赛博窑子了，这个模型真不赖啊\n\nhttps://t.co/McRzda6IQs https://t.co/rGvNuJXszj"
+      },
+      {
+        "author_id": "559613495",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T11:59:35.000Z",
+        "edit_history_tweet_ids": [
+          "1703740547800961398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703740547800961398",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2496,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703501017638461500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 现在精装都带了新风"
+      },
+      {
+        "author_id": "282522910",
+        "conversation_id": "1703574596744884263",
+        "created_at": "2023-09-18T11:14:55.000Z",
+        "edit_history_tweet_ids": [
+          "1703729308379050308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "86659057",
+              "start": 0,
+              "username": "RioJot"
+            }
+          ]
+        },
+        "id": "1703729308379050308",
+        "in_reply_to_user_id": "86659057",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 484,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703728272272695369",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@RioJot 推特的推荐已经被我调教出来了，现在自动给我推美女"
+      },
+      {
+        "author_id": "1906818992",
+        "conversation_id": "1703716062334996715",
+        "created_at": "2023-09-18T10:28:31.000Z",
+        "edit_history_tweet_ids": [
+          "1703717632359502103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703717632359502103",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4633,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703716062334996715",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我朋友是预制菜头部企业，现在国内预制菜已经发展出了一批比较大的、规范的小龙头了。\n\n一起玩的时候给我说过鱼等溯源，下的功夫还挺大。\n\n另外现在连锁品牌搞中央厨房的也都是预制菜，不过确实落到小的店就很难讲保证。"
+      },
+      {
+        "author_id": "1466310989184262145",
+        "conversation_id": "1703679562473996679",
+        "created_at": "2023-09-18T09:57:27.000Z",
+        "edit_history_tweet_ids": [
+          "1703709812008288500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703709812008288500",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703709501327884771",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 哦原来，我还以为有什么聚合大杀器hh"
+      },
+      {
+        "author_id": "1466310989184262145",
+        "conversation_id": "1703679562473996679",
+        "created_at": "2023-09-18T09:39:57.000Z",
+        "edit_history_tweet_ids": [
+          "1703705408454664661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703705408454664661",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703679562473996679",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这个是怎么查出来的！"
+      },
+      {
+        "author_id": "27200079",
+        "conversation_id": "1703679562473996679",
+        "created_at": "2023-09-18T08:27:26.000Z",
+        "edit_history_tweet_ids": [
+          "1703687159826522193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703687159826522193",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703679562473996679",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这钱和捡来差不多啊🤣\n一类卡一般一个银行会只给你一张,如果已经有了一般只能补出二类卡"
+      },
+      {
+        "author_id": "256559269",
+        "conversation_id": "1703554223030567170",
+        "created_at": "2023-09-17T23:39:11.000Z",
+        "edit_history_tweet_ids": [
+          "1703554223030567170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "",
+              "end": 27,
+              "expanded_url": "",
+              "start": 4,
+              "url": "https://t.co/Ovbr3PD2nW"
+            }
+          ]
+        },
+        "id": "1703554223030567170",
+        "lang": "art",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1740,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703468381175795968",
+            "type": "quoted"
+          }
+        ],
+        "text": "……🐍 https://t.co/Ovbr3PD2nW"
+      },
+      {
+        "author_id": "157550302",
+        "conversation_id": "1703677947683725451",
+        "created_at": "2023-09-18T07:58:52.000Z",
+        "edit_history_tweet_ids": [
+          "1703679970722333150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765230168128598016",
+              "start": 0,
+              "username": "justone_he"
+            }
+          ]
+        },
+        "id": "1703679970722333150",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@justone_he 人家报价10 BTC，罚款按理应该不至于比这少，不过数据安全法顶格也就罚200万，也多不到哪里去"
+      },
+      {
+        "author_id": "1508935310708781056",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T07:41:25.000Z",
+        "edit_history_tweet_ids": [
+          "1703675577322946693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703675577322946693",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703668953518911665",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 这就是问题所在，一般标准是，一周清洗一次，1～2 个月更换一次，这是家庭用的标准，当然。。。很少有人严格遵守。。。这么说吧，我的认知中，家庭用全新风系统其实是个噱头，你开着空调，家庭基本是正压，门缝啊，窗户啊，并不能100%密封，这点换风就够了。。。"
+      },
+      {
+        "author_id": "1508935310708781056",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T05:53:14.000Z",
+        "edit_history_tweet_ids": [
+          "1703648354243084619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703648354243084619",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703501017638461500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky ….就加个空调箱….➕个初级过滤网，完全没必要啊，看你说的一年没关过，更容易造成二次污染….不知道你过滤几天换一个🤣，不好意思我是做这行的、没忍住拍一下"
+      },
+      {
+        "author_id": "157550302",
+        "conversation_id": "1703306746989850659",
+        "created_at": "2023-09-17T07:15:49.000Z",
+        "edit_history_tweet_ids": [
+          "1703306746989850659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minicssextract…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/minicssextract/status/1703243765660651823",
+              "start": 141,
+              "url": "https://t.co/WK9WtzfB86"
+            }
+          ]
+        },
+        "id": "1703306746989850659",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8029,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703243765660651823",
+            "type": "quoted"
+          }
+        ],
+        "text": "如果配合工具每隔一定时间(比如24小时)比对一次列表，就能知道增减变化量和名单，再对名单账号状态进行排查，比如根据不同返回值判断哪些是拉黑哪些是炸号哪些是自己销号，就是一个很好的分析工具。\n如果建个小号通过关注的方式收集名单，大号配合其他插件可以做到一键屏蔽特定人群，比如蓝标小姨 https://t.co/WK9WtzfB86"
+      },
+      {
+        "author_id": "1206800829950259202",
+        "conversation_id": "1703597792671965574",
+        "created_at": "2023-09-18T04:35:37.000Z",
+        "edit_history_tweet_ids": [
+          "1703628821902029049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703628821902029049",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "text": "@taresky 兰州一个女朋友，南京一个女朋友。"
+      },
+      {
+        "author_id": "717894439",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T04:20:45.000Z",
+        "edit_history_tweet_ids": [
+          "1703625079941460190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703625079941460190",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5739,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703501017638461500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我家就很奇怪，全天开新风，pm测量也是个位数。\n但是还是有灰，我只能估计灰尘来自于猫砂和衣物毛絮"
+      },
+      {
+        "author_id": "1362047293189361669",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T04:13:33.000Z",
+        "edit_history_tweet_ids": [
+          "1703623268232802399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703623268232802399",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5719,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703501017638461500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 有个疑问，请教一下：在新风系统的影响下，是否对空调功率的选择有影响？比如新风会造成的制冷的损失大不大，类似这种担心。"
+      },
+      {
+        "author_id": "50675109",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T04:10:07.000Z",
+        "edit_history_tweet_ids": [
+          "1703622405552570512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703622405552570512",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4369,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703501017638461500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 我们这物管不让打孔安装不了…好烦"
+      },
+      {
+        "author_id": "1473603958262296577",
+        "conversation_id": "1703501017638461500",
+        "created_at": "2023-09-18T03:54:23.000Z",
+        "edit_history_tweet_ids": [
+          "1703618445617799326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "368245720",
+              "start": 0,
+              "username": "taresky"
+            }
+          ]
+        },
+        "id": "1703618445617799326",
+        "in_reply_to_user_id": "368245720",
+        "lang": "zh",
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3791,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1703501017638461500",
+            "type": "replied_to"
+          }
+        ],
+        "text": "@taresky 下个月开始装修，缺点可以通过选择品牌避免吗 ？"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      },
+      {
+        "id": "1417273079949008897",
+        "name": "彼得潘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530836025861296129/-N7vj-YV_normal.jpg",
+        "username": "xxlbxxlb",
+        "verified": false
+      },
+      {
+        "id": "1229957424",
+        "name": "liyao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1043180382701539333/Gd_YlUCf_normal.jpg",
+        "username": "liyao7",
+        "verified": false
+      },
+      {
+        "id": "282522910",
+        "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤 𝘼𝙄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048333252612775936/831h3JzT_normal.jpg",
+        "username": "passluo",
+        "verified": false
+      },
+      {
+        "id": "559613495",
+        "name": "百物生.Sol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689190784179085312/hXNBvleM_normal.jpg",
+        "username": "100Sheng",
+        "verified": false
+      },
+      {
+        "id": "1906818992",
+        "name": "henu王凯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471516773031706627/bEr7ZfMx_normal.jpg",
+        "username": "henuwangkai",
+        "verified": false
+      },
+      {
+        "id": "1466310989184262145",
+        "name": "眼皮打架Caress🎄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583021530073956353/RDuffmjj_normal.jpg",
+        "username": "DYTT04178150",
+        "verified": false
+      },
+      {
+        "id": "27200079",
+        "name": "icat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/262562577/photo_normal.jpg",
+        "username": "icatme",
+        "verified": false
+      },
+      {
+        "id": "256559269",
+        "name": "Xiaowen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182459197788545024/Z8Nb4YiI_normal.jpg",
+        "username": "ixiaowenz",
+        "verified": false
+      },
+      {
+        "id": "995901753353633792",
+        "name": "icvhg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682328058118959105/G2zWmwYr_normal.jpg",
+        "username": "iug7865c6g",
+        "verified": false
+      },
+      {
+        "id": "157550302",
+        "name": "反叛的钟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089917612490997760/LNT6dcYd_normal.jpg",
+        "username": "RebelliousClock",
+        "verified": false
+      },
+      {
+        "id": "1508935310708781056",
+        "name": "kiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590288056787111936/ehBmLKLD_normal.jpg",
+        "username": "jackzhu1972hong",
+        "verified": false
+      },
+      {
+        "id": "33859235",
+        "name": "Tiddler",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376420769845022724/qaoqfsAM_normal.jpg",
+        "username": "hz13fs",
+        "verified": false
+      },
+      {
+        "id": "1206800829950259202",
+        "name": "Vincent Yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589233256175923202/CsyqQfsK_normal.png",
+        "username": "missuo",
+        "verified": false
+      },
+      {
+        "id": "717894439",
+        "name": "雪片贰式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651774545785675779/XJPKAr9A_normal.jpg",
+        "username": "type2ss",
+        "verified": false
+      },
+      {
+        "id": "1362047293189361669",
+        "name": "Alex Dufree",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762364038510743552/LxoL_qZ1_normal.jpg",
+        "username": "AlexDufree2023",
+        "verified": false
+      },
+      {
+        "id": "50675109",
+        "name": "Ricky Shine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279638000192847872/L0mqOMTM_normal.jpg",
+        "username": "RickyShine",
+        "verified": false
+      },
+      {
+        "id": "1473603958262296577",
+        "name": "勤劳小矿工",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1473604041020084225/uj-sINJm_normal.png",
+        "username": "weiwentao3",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1703774509734744233",
+    "next_token": "b26v89c19zqg8o3fr5bf60vsyxfyfzrrypev6oksf0u4d",
+    "oldest_id": "1703623905792217208",
+    "result_count": 25
+  },
+  "errors": [
+    {
+      "detail": "The 'in_reply_to_user_id' field could not be fully resolved for this request and may be missing or incomplete on returned tweets. Retrying the request may resolve the data.",
+      "field": "in_reply_to_user_id",
+      "resource_type": "tweet",
+      "section": "data",
+      "title": "Field Hydration Error",
+      "type": "https://api.x.com/2/problems/field-hydration-failure"
+    },
+    {
+      "detail": "The 'referenced_tweets' field could not be fully resolved for this request and may be missing or incomplete on returned tweets. Retrying the request may resolve the data.",
+      "field": "referenced_tweets",
+      "resource_type": "tweet",
+      "section": "data",
+      "title": "Field Hydration Error",
+      "type": "https://api.x.com/2/problems/field-hydration-failure"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1703684760810487834].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1703684760810487834",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1703684760810487834"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1703640270921941353].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1703640270921941353",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1703640270921941353"
+    }
+  ]
+}

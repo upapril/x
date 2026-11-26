@@ -1,0 +1,115 @@
+{
+  "collected_at_utc": "2026-11-26T01:10:20Z",
+  "collected_at_shanghai": "2026-11-26T09:10:20+08:00",
+  "tool": "x.search_posts_all",
+  "source_file": "/cursor/stores/user/grok-bot/agents/898997d6-7db9-4848-8f4f-e163f93ec083/assets/01M8APDZQNVHWQ2DFYHCWE9HZ5.txt",
+  "request": {
+    "query": "from:taresky",
+    "start_time": "2023-11-01T00:00:00Z",
+    "end_time": "2023-12-01T00:00:00Z",
+    "sort_order": "recency",
+    "max_results": 25,
+    "input_token": "b26v89c19zqg8o3fr5ehgsfxn91w52295bgcz05s2f0ql",
+    "window_label": "2023-11"
+  },
+  "data": [
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-01T01:26:11.000Z",
+      "edit_history_tweet_ids": [
+        "1719526215701479660"
+      ],
+      "id": "1719526215701479660",
+      "in_reply_to_user_id": "368245720",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 4144,
+        "like_count": 2,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "1719525730894385419",
+          "type": "replied_to"
+        }
+      ],
+      "text": "可以看出销量不大，定制款半天了还是 2023/11/17 - 2023/11/24。",
+      "url": "https://x.com/taresky/status/1719526215701479660"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-01T01:24:16.000Z",
+      "edit_history_tweet_ids": [
+        "1719525730894385419"
+      ],
+      "id": "1719525730894385419",
+      "public_metrics": {
+        "bookmark_count": 1,
+        "impression_count": 54089,
+        "like_count": 12,
+        "quote_count": 1,
+        "reply_count": 16,
+        "retweet_count": 0
+      },
+      "text": "招行免息分期支付失败，支付宝付款触发风控... \n\n看来苹果官网也没有白名单啊。 https://t.co/HBUD2pasL1",
+      "url": "https://x.com/taresky/status/1719525730894385419"
+    },
+    {
+      "author_id": "368245720",
+      "created_at": "2023-11-01T00:47:27.000Z",
+      "edit_history_tweet_ids": [
+        "1719516468650594779"
+      ],
+      "id": "1719516468650594779",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 251,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0
+      },
+      "text": "@lawyu 指平替店",
+      "url": "https://x.com/taresky/status/1719516468650594779"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "368245720",
+        "created_at": "2023-11-01T01:24:16.000Z",
+        "edit_history_tweet_ids": [
+          "1719525730894385419"
+        ],
+        "id": "1719525730894385419",
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 54089,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "text": "招行免息分期支付失败，支付宝付款触发风控... \n\n看来苹果官网也没有白名单啊。 https://t.co/HBUD2pasL1"
+      }
+    ],
+    "users": [
+      {
+        "id": "368245720",
+        "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+        "username": "taresky",
+        "verified": false
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1719526215701479660",
+    "next_token": "b26v89c19zqg8o3fr5ehgsfmq8qr7mq0gpvuojltk9u2l",
+    "oldest_id": "1719516468650594779",
+    "result_count": 3
+  },
+  "errors": []
+}
